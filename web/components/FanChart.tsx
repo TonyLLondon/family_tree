@@ -1,7 +1,7 @@
 "use client";
 
 import * as d3 from "d3";
-import { useMemo, useCallback, useRef, type ReactNode } from "react";
+import { useMemo, useCallback, useRef, useState, type ReactNode } from "react";
 import {
   TransformWrapper,
   TransformComponent,
@@ -11,10 +11,12 @@ import { useRouter } from "next/navigation";
 import type { AncestorNode, Person } from "@/lib/genealogy";
 import { personSlugFromPage } from "@/lib/genealogy";
 import {
+  CHART_BIRTH_PLACE_LEGEND,
   chartFillPairFromBirthPlace,
   chartNameFillForSegmentFill,
   chartStrokeFromBirthPlace,
   chartYearsFillForSegmentFill,
+  regionShortLabelFromBirthPlace,
 } from "@/lib/birthPlaceChartColors";
 
 type FanSegment = {
@@ -188,6 +190,67 @@ function ZoomControls() {
   );
 }
 
+function ChartLegend() {
+  const [open, setOpen] = useState(false);
+  const [hasAutoExpanded, setHasAutoExpanded] = useState(false);
+
+  const containerRef = useCallback(
+    (node: HTMLDivElement | null) => {
+      if (!node || hasAutoExpanded) return;
+      const mq = window.matchMedia("(min-width: 640px)");
+      if (mq.matches) {
+        setOpen(true);
+        setHasAutoExpanded(true);
+      }
+    },
+    [hasAutoExpanded],
+  );
+
+  return (
+    <div
+      ref={containerRef}
+      className="absolute bottom-3 left-3 z-10 rounded-lg border border-zinc-200 bg-white/90 shadow-sm backdrop-blur"
+    >
+      <button
+        type="button"
+        className="flex w-full items-center gap-1.5 px-3 py-1.5 text-left"
+        onClick={() => setOpen((v) => !v)}
+        aria-expanded={open}
+      >
+        <span className="text-[10px] font-semibold uppercase tracking-wide text-zinc-400">
+          Birthplace Legend
+        </span>
+        <svg
+          viewBox="0 0 12 12"
+          className={`h-2.5 w-2.5 text-zinc-400 transition-transform ${open ? "rotate-180" : ""}`}
+          fill="none"
+          stroke="currentColor"
+          strokeWidth={2}
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        >
+          <path d="M2 4.5 6 8.5 10 4.5" />
+        </svg>
+      </button>
+      {open && (
+        <ul className="max-h-[32vh] overflow-y-auto px-3 pb-2 grid grid-cols-2 gap-x-4 gap-y-1">
+          {CHART_BIRTH_PLACE_LEGEND.map((e) => (
+            <li key={e.id} className="flex items-center gap-1.5">
+              <span
+                className="h-2.5 w-2.5 shrink-0 rounded-sm border border-zinc-300/60"
+                style={{ backgroundColor: e.color }}
+              />
+              <span className="text-[10px] leading-tight text-zinc-600">
+                {e.label}
+              </span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+}
+
 export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp }: Props) {
   const segments = useMemo(() => {
     const out: FanSegment[] = [];
@@ -289,7 +352,8 @@ export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp 
                 const veryTight = arcLen < 40 || (s.generation >= 6 && arcLen < 58);
                 const showPhoto = Boolean(photo) && band >= 5 && photoR >= 3.5;
                 const clipId = `fc-${idx}`;
-                const tooltip = [name, years].filter(Boolean).join(" · ");
+                const regionShort = regionShortLabelFromBirthPlace(s.person?.birthPlace);
+                const tooltip = [name, years, s.person?.birthPlace].filter(Boolean).join(" · ");
 
                 let labelBody: ReactNode;
 
@@ -342,6 +406,14 @@ export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp 
                   const nameLines = splitName(name, maxChars);
                   const textYStart = showPhoto ? cy + photoR + 8 : cy - (nameLines.length * (fontSize + 2)) / 2 + fontSize / 2;
 
+                  const regionFs = Math.max(7, fontSize - 3);
+                  const showRegionOnWedge = Boolean(regionShort) && band >= 80;
+                  const regionY =
+                    textYStart +
+                    nameLines.length * (fontSize + 2) +
+                    (years ? fontSize : 0) +
+                    1;
+
                   labelBody = (
                     <>
                       {nameLines.map((line, li) => (
@@ -369,6 +441,21 @@ export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp 
                           style={{ pointerEvents: "none" }}
                         >
                           {years}
+                        </text>
+                      ) : null}
+                      {showRegionOnWedge ? (
+                        <text
+                          x={cx}
+                          y={regionY}
+                          textAnchor="middle"
+                          fontSize={regionFs}
+                          fontWeight={400}
+                          fontStyle="italic"
+                          fill={yearsFill}
+                          opacity={0.85}
+                          style={{ pointerEvents: "none" }}
+                        >
+                          {regionShort}
                         </text>
                       ) : null}
                     </>
@@ -474,6 +561,7 @@ export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp 
             </g>
           </svg>
         </TransformComponent>
+        <ChartLegend />
       </TransformWrapper>
     </div>
   );

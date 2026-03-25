@@ -1,4 +1,3 @@
-import { ChartBirthPlaceLegend } from "@/components/ChartBirthPlaceLegend";
 import { SiteNav } from "@/components/SiteNav";
 import { FanChartClient } from "@/components/FanChartClient";
 import { loadPhotoMap, photoRepoFilePublicUrl } from "@/lib/photos";
@@ -42,8 +41,6 @@ export default function ChartPage() {
             centers={centers}
           />
         </div>
-
-        <ChartBirthPlaceLegend />
 
         <p className="mt-4 max-w-xl text-center text-xs text-zinc-400">
           Click any person to open their page. Portraits appear when a photo is available.

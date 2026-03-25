@@ -88,17 +88,3 @@ mcpbundles call search_tools -- query="email"
 mcpbundles call <tool-name> --bundle <slug>
 mcpbundles call <tool-name> --bundle <slug> -- limit:=5
 ```
-
-## Remote Browser (`remote-browser`)
-
-Use **`--bundle remote-browser`**. Tool names are hyphenated (e.g.
-`browser-navigate-743`). Prefer this over Cloudflare Browser unless the user
-specifies Cloudflare.
-
-```bash
-mcpbundles call browser-navigate-743 --bundle remote-browser url=https://example.com
-mcpbundles call browser-snapshot-743 --bundle remote-browser
-```
-
-For local dev, expose the port through the MCPBundles proxy tunnel first, then
-open the tunnel URL (see main SKILL.md).

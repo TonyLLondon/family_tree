@@ -78,5 +78,5 @@ Welsh-born officer; army number **143587**; father of [Ivor Anthony Samuel Lewis
 - **1st Welch war diary (WO 169 / WO 172):** Not digitised. Would confirm Lewis's presence at individual engagements (Sicily, Anzio, Gemmano, Argenta Gap, Faccenda) and provide a day-by-day account of 25 April 1945.
 - **Officer file (WO 373):** U.S. awards to Commonwealth officers are documented in this TNA series; would contain the recommendation chain for the Silver Star.
 - **NARA GO No. 285:** Full general orders volume from HQ U.S. Army Forces, Mediterranean Theater, 10 November 1945.
-- **Promotion dates:** The Gazette shows his substantive rank remained Lieutenant, with a war substantive rank of Captain and a temporary rank of Major. The specific dates of promotion to Captain and to (temp.) Major are not yet found.
+- **Promotion dates:** The specific dates of promotion to Captain and to Major are not yet found in the Gazette. The war diary (WO 169 / WO 172) or officer file would confirm when he reached each rank.
 - See also [narrative](../narratives/david-john-lewis-italy-1945-silver-star.md) Documents and media section.

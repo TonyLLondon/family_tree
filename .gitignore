@@ -10,3 +10,5 @@ archive/
 manual/
 
 web/public/files/
+.vercel
+.env*.local

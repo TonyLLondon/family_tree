@@ -12,3 +12,4 @@ Sources **not yet** in corpus (or only partly used): URLs to open, books to buy,
 | Roche / Knight — prove Catherine Mary Roche’s parents (primary records) | [roche-knight.md](roche-knight.md) |
 | Addobbati — 1745 / 1786 Latin parchments (DAZd), Ms. 910 (ZKZd), ARHiNET | [addobbati-dazd-zkzd.md](addobbati-dazd-zkzd.md) |
 | Erbe / Eylandt — Saaga parish PDFs, Pärnu schools, German church books, *Revaler Beobachter* | [erbe-baltic-german-line.md](erbe-baltic-german-line.md) |
+| David John Lewis — 61st Brigade history, WMP library, war diary (WO 169/172), Silver Star rec (WO 373), promotion gazettes, regimental museum | [david-john-lewis-military.md](david-john-lewis-military.md) |

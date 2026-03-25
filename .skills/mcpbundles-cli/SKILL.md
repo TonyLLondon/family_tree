@@ -4,9 +4,8 @@ description: >-
   Discover and execute third-party API tools via the mcpbundles CLI. Use when
   the user asks to "call an MCP tool", "use mcpbundles", "list available
   bundles", "run a bundle tool", "search for tools", execute any mcpbundles
-  command, or interact with services connected through MCPBundles. For **browser
-  automation**, use the **remote-browser** bundle (hosted Playwright), not
-  Cloudflare Browser, unless the user names Cloudflare explicitly.
+  command, or interact with services connected through MCPBundles. Also use
+  when you see mcpbundles installed or a named connection configured.
 ---
 
 # MCPBundles CLI — Tool Discovery and Execution
@@ -26,50 +25,6 @@ There are two layers and you must understand both:
 
 **`mcpbundles tools` alone only shows hub-level meta-tools.** The actual service
 tools live on bundle endpoints. You must use `--bundle <slug>` to see them.
-
-## Remote Browser — bundle `remote-browser`
-
-Use this bundle for **navigate / snapshot / click / type / screenshot** workflows.
-It is **MCPBundles’ hosted Playwright browser**. Do **not** default to the
-**Cloudflare Browser** bundle unless the user asks for Cloudflare by name.
-
-```bash
-mcpbundles tools --bundle remote-browser
-mcpbundles tools browser-navigate-743 --bundle remote-browser
-```
-
-**Typical flow**
-
-1. **`browser-navigate-743`** — `url` must include `http://` or `https://`.
-   Optional: `wait_until` (`load`, `domcontentloaded`, `networkidle`, `commit`),
-   `timeout` (ms).
-2. **`browser-snapshot-743`** — accessibility tree (use this to pick refs for
-   clicks and typing; better than screenshot-only loops).
-3. **`browser-click-743`**, **`browser-type-743`**, **`browser-fill-form-743`**,
-   etc., as needed.
-4. **`browser-take-screenshot-743`** or **`browser-save-as-pdf-743`** when you
-   need pixels or PDF.
-5. **`browser-close-743`** — release the session when finished.
-
-**Call shape**
-
-```bash
-mcpbundles call browser-navigate-743 --bundle remote-browser url=https://example.com
-```
-
-Tool names use **hyphens** (e.g. `browser-navigate-743`), as printed by
-`mcpbundles tools --bundle remote-browser`.
-
-**Hitting `localhost` dev servers**
-
-Remote Browser runs **outside** your machine. To reach `http://localhost:PORT`,
-the MCPBundles **proxy tunnel** must expose that port (daemon connected):
-
-`mcpbundles proxy expose <PORT>`
-
-Then navigate to the **tunnel/public URL** you get from expose (not bare
-`localhost` from the remote browser’s perspective), or follow current
-MCPBundles docs for the exact URL pattern.
 
 ## Step 1: Discover Available Bundles
 

@@ -70,7 +70,8 @@
       ],
       "birthDate": "MAR 1916",
       "sex": "F",
-      "personPage": "people/may-coolbear-i100.md"
+      "personPage": "people/may-coolbear-i100.md",
+      "birthPlace": "Islington, London, England"
     },
     "I101": {
       "id": "I101",
@@ -211,7 +212,8 @@
       ],
       "birthDateGedcom": "1797",
       "birthDate": "1797",
-      "sex": "F"
+      "sex": "F",
+      "birthPlace": "England"
     },
     "I111": {
       "id": "I111",
@@ -244,7 +246,8 @@
         "F56"
       ],
       "sex": "M",
-      "personPage": "people/simeone-guiseppe-boara.md"
+      "personPage": "people/simeone-guiseppe-boara.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I114": {
       "id": "I114",
@@ -265,7 +268,8 @@
         "F58"
       ],
       "sex": "M",
-      "personPage": "people/giuseppe-zerauschek.md"
+      "personPage": "people/giuseppe-zerauschek.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I116": {
       "id": "I116",
@@ -298,7 +302,8 @@
         "F59"
       ],
       "sex": "M",
-      "personPage": "people/cornelius-oshea.md"
+      "personPage": "people/cornelius-oshea.md",
+      "birthPlace": "County Cork, Ireland"
     },
     "I119": {
       "id": "I119",
@@ -309,7 +314,8 @@
       ],
       "birthDate": "1871",
       "sex": "F",
-      "personPage": "people/catherine-enright.md"
+      "personPage": "people/catherine-enright.md",
+      "birthPlace": "County Cork, Ireland"
     },
     "I12": {
       "id": "I12",
@@ -335,7 +341,8 @@
         "F60"
       ],
       "sex": "M",
-      "personPage": "people/enright.md"
+      "personPage": "people/enright.md",
+      "birthPlace": "Ireland"
     },
     "I121": {
       "id": "I121",
@@ -346,7 +353,8 @@
       ],
       "birthDate": "ABT 1832",
       "sex": "F",
-      "personPage": "people/catherine.md"
+      "personPage": "people/catherine.md",
+      "birthPlace": "Ireland"
     },
     "I122": {
       "id": "I122",
@@ -380,7 +388,8 @@
       "deathPlace": "before 1811",
       "deathDate": "1811",
       "sex": "F",
-      "personPage": "people/maddelena-plarino.md"
+      "personPage": "people/maddelena-plarino.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I125": {
       "id": "I125",
@@ -390,7 +399,8 @@
         "F16"
       ],
       "sex": "F",
-      "personPage": "people/margherita-lanfranchi.md"
+      "personPage": "people/margherita-lanfranchi.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I126": {
       "id": "I126",
@@ -414,7 +424,8 @@
         "F62"
       ],
       "sex": "M",
-      "personPage": "people/giuseppe-boara.md"
+      "personPage": "people/giuseppe-boara.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I128": {
       "id": "I128",
@@ -424,7 +435,8 @@
         "F63"
       ],
       "sex": "M",
-      "personPage": "people/marco-robustella.md"
+      "personPage": "people/marco-robustella.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I129": {
       "id": "I129",
@@ -436,7 +448,8 @@
       "deathPlace": "before 1766",
       "deathDate": "1766",
       "sex": "M",
-      "personPage": "people/pietro-plarino.md"
+      "personPage": "people/pietro-plarino.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I13": {
       "id": "I13",
@@ -461,7 +474,8 @@
       "deathPlace": "before 1777",
       "deathDate": "1777",
       "sex": "M",
-      "personPage": "people/antonio-coltelli.md"
+      "personPage": "people/antonio-coltelli.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I131": {
       "id": "I131",
@@ -473,7 +487,8 @@
       "deathPlace": "before 1777",
       "deathDate": "1777",
       "sex": "M",
-      "personPage": "people/giacomo-sandri.md"
+      "personPage": "people/giacomo-sandri.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I132": {
       "id": "I132",
@@ -664,7 +679,8 @@
         "F72"
       ],
       "sex": "F",
-      "personPage": "people/anna-margaretha-hagg.md"
+      "personPage": "people/anna-margaretha-hagg.md",
+      "birthPlace": "Thurgau, Switzerland"
     },
     "I146": {
       "id": "I146",
@@ -693,7 +709,8 @@
       ],
       "birthDate": "1735",
       "sex": "F",
-      "personPage": "people/anna-margaretha-jung.md"
+      "personPage": "people/anna-margaretha-jung.md",
+      "birthPlace": "Thurgau, Switzerland"
     },
     "I148": {
       "id": "I148",
@@ -704,7 +721,8 @@
       ],
       "birthDate": "1702",
       "sex": "M",
-      "personPage": "people/hans-conrad-stump.md"
+      "personPage": "people/hans-conrad-stump.md",
+      "birthPlace": "Thurgau, Switzerland"
     },
     "I149": {
       "id": "I149",
@@ -714,7 +732,8 @@
         "F74"
       ],
       "sex": "F",
-      "personPage": "people/anna-barbel-kaegi.md"
+      "personPage": "people/anna-barbel-kaegi.md",
+      "birthPlace": "Thurgau, Switzerland"
     },
     "I15": {
       "id": "I15",
@@ -738,7 +757,8 @@
         "F75"
       ],
       "sex": "M",
-      "personPage": "people/hans-jacob-jung.md"
+      "personPage": "people/hans-jacob-jung.md",
+      "birthPlace": "Thurgau, Switzerland"
     },
     "I151": {
       "id": "I151",
@@ -1145,7 +1165,8 @@
       "birthDate": "1802",
       "deathDate": "1852",
       "sex": "F",
-      "personPage": "people/mary-richards.md"
+      "personPage": "people/mary-richards.md",
+      "birthPlace": "Merthyr Tydfil, Glamorgan, Wales"
     },
     "I181": {
       "id": "I181",
@@ -1166,7 +1187,8 @@
       ],
       "deathDate": "1803-09-15",
       "sex": "M",
-      "personPage": "people/hans-conrad-haag.md"
+      "personPage": "people/hans-conrad-haag.md",
+      "birthPlace": "Hüttwilen, Thurgau, Switzerland"
     },
     "I183": {
       "id": "I183",
@@ -1176,7 +1198,8 @@
         "F92"
       ],
       "sex": "F",
-      "personPage": "people/margaretha-freyenmuth.md"
+      "personPage": "people/margaretha-freyenmuth.md",
+      "birthPlace": "Wigoltingen, Thurgau, Switzerland"
     },
     "I184": {
       "id": "I184",
@@ -1825,7 +1848,8 @@
         "F114"
       ],
       "sex": "M",
-      "personPage": "people/william-martin-i231.md"
+      "personPage": "people/william-martin-i231.md",
+      "birthPlace": "London, England"
     },
     "I232": {
       "id": "I232",
@@ -1835,7 +1859,8 @@
         "F115"
       ],
       "sex": "M",
-      "personPage": "people/william-moran-i232.md"
+      "personPage": "people/william-moran-i232.md",
+      "birthPlace": "London, England"
     },
     "I233": {
       "id": "I233",
@@ -2486,7 +2511,8 @@
       ],
       "birthDate": "1735",
       "sex": "M",
-      "personPage": "people/edward-ridsdale.md"
+      "personPage": "people/edward-ridsdale.md",
+      "birthPlace": "Yorkshire, England"
     },
     "I288": {
       "id": "I288",
@@ -2496,7 +2522,8 @@
         "F135"
       ],
       "sex": "F",
-      "personPage": "people/elizabeth-romley.md"
+      "personPage": "people/elizabeth-romley.md",
+      "birthPlace": "England"
     },
     "I289": {
       "id": "I289",
@@ -2507,7 +2534,8 @@
       ],
       "birthDate": "ABT 1862",
       "sex": "M",
-      "personPage": "people/william-evans-i289.md"
+      "personPage": "people/william-evans-i289.md",
+      "birthPlace": "London, England"
     },
     "I29": {
       "id": "I29",
@@ -2666,7 +2694,7 @@
       "spouseUnionIds": [
         "F1"
       ],
-      "birthPlace": "Richmond, London",
+      "birthPlace": "Richmond, Surrey, England",
       "birthDate": "1949-12-13",
       "sex": "F",
       "personPage": "people/catherine-stump.md"
@@ -2807,7 +2835,8 @@
       "birthDate": "1757",
       "deathDate": "1790",
       "sex": "F",
-      "personPage": "people/anna-christina-schittmar.md"
+      "personPage": "people/anna-christina-schittmar.md",
+      "birthPlace": "Estonia"
     },
     "I308": {
       "id": "I308",
@@ -2822,7 +2851,8 @@
       ],
       "deathDate": "1757-03-19",
       "sex": "M",
-      "personPage": "people/georg-busse.md"
+      "personPage": "people/georg-busse.md",
+      "birthPlace": "Reval, Estonia"
     },
     "I309": {
       "id": "I309",
@@ -2835,7 +2865,8 @@
         "Bischantz (Geni)"
       ],
       "sex": "F",
-      "personPage": "people/margaretha-elisabeth-bischanz.md"
+      "personPage": "people/margaretha-elisabeth-bischanz.md",
+      "birthPlace": "Estonia"
     },
     "I31": {
       "id": "I31",
@@ -2846,7 +2877,8 @@
       ],
       "birthDate": "1702",
       "sex": "M",
-      "personPage": "people/d-daniele-addobbati.md"
+      "personPage": "people/d-daniele-addobbati.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I310": {
       "id": "I310",
@@ -2867,7 +2899,8 @@
       ],
       "birthDate": "1730",
       "sex": "F",
-      "personPage": "people/anna-christina.md"
+      "personPage": "people/anna-christina.md",
+      "birthPlace": "Tallinn, Estonia"
     },
     "I312": {
       "id": "I312",
@@ -2904,7 +2937,8 @@
       ],
       "birthDate": "1746-11-07",
       "sex": "M",
-      "personPage": "people/sigmund-johann-bartholomaus-erbe.md"
+      "personPage": "people/sigmund-johann-bartholomaus-erbe.md",
+      "birthPlace": "Ohrdruf, Gotha, Germany"
     },
     "I315": {
       "id": "I315",
@@ -2939,7 +2973,8 @@
         "F150"
       ],
       "sex": "F",
-      "personPage": "people/catharia-dorothea-korber.md"
+      "personPage": "people/catharia-dorothea-korber.md",
+      "birthPlace": "Germany"
     },
     "I318": {
       "id": "I318",
@@ -2949,7 +2984,8 @@
         "F151"
       ],
       "sex": "M",
-      "personPage": "people/johann-andreas-schultz.md"
+      "personPage": "people/johann-andreas-schultz.md",
+      "birthPlace": "Ohrdruf, Germany"
     },
     "I319": {
       "id": "I319",
@@ -2959,7 +2995,8 @@
         "F151"
       ],
       "sex": "F",
-      "personPage": "people/anna-magdalena.md"
+      "personPage": "people/anna-magdalena.md",
+      "birthPlace": "Ohrdruf, Germany"
     },
     "I32": {
       "id": "I32",
@@ -3225,7 +3262,8 @@
         "F63"
       ],
       "sex": "F",
-      "personPage": "people/francesca-arcolin.md"
+      "personPage": "people/francesca-arcolin.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I34": {
       "id": "I34",
@@ -3273,7 +3311,8 @@
         "F160"
       ],
       "sex": "F",
-      "personPage": "people/hellen-ankettle.md"
+      "personPage": "people/hellen-ankettle.md",
+      "birthPlace": "County Limerick, Ireland"
     },
     "I343": {
       "id": "I343",
@@ -3345,6 +3384,7 @@
       "spouseUnionIds": [
         "F163"
       ],
+      "birthPlace": "Chile",
       "sex": "M",
       "personPage": "people/francisco-cerpa-i348.md"
     },
@@ -3358,6 +3398,7 @@
       "alsoKnownAs": [
         "Ana Delia González"
       ],
+      "birthPlace": "Chile",
       "sex": "F",
       "personPage": "people/ana-gonzalez-i349.md"
     },
@@ -3379,6 +3420,7 @@
       "spouseUnionIds": [
         "F164"
       ],
+      "birthPlace": "Chile",
       "sex": "M",
       "personPage": "people/francisco-antonio-perez-i350.md"
     },
@@ -3389,6 +3431,7 @@
       "spouseUnionIds": [
         "F164"
       ],
+      "birthPlace": "Chile",
       "sex": "F",
       "personPage": "people/zoraida-escobar-i351.md"
     },
@@ -3530,7 +3573,8 @@
         "F168"
       ],
       "sex": "M",
-      "personPage": "people/john-ankettle.md"
+      "personPage": "people/john-ankettle.md",
+      "birthPlace": "County Limerick, Ireland"
     },
     "I362": {
       "id": "I362",
@@ -3540,7 +3584,8 @@
         "F169"
       ],
       "sex": "M",
-      "personPage": "people/john-obryen.md"
+      "personPage": "people/john-obryen.md",
+      "birthPlace": "Ireland"
     },
     "I363": {
       "id": "I363",
@@ -3879,7 +3924,8 @@
         "F182"
       ],
       "sex": "M",
-      "personPage": "people/biagio-zerauschek.md"
+      "personPage": "people/biagio-zerauschek.md",
+      "birthPlace": "Zadar, Dalmatia"
     },
     "I388": {
       "id": "I388",
@@ -3943,7 +3989,8 @@
         "F184"
       ],
       "sex": "F",
-      "personPage": "people/giuseppina-magassich.md"
+      "personPage": "people/giuseppina-magassich.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I393": {
       "id": "I393",
@@ -4198,7 +4245,8 @@
         "F187"
       ],
       "sex": "M",
-      "personPage": "people/morgan.md"
+      "personPage": "people/morgan.md",
+      "birthPlace": "Wales"
     },
     "I414": {
       "id": "I414",
@@ -4208,7 +4256,8 @@
         "F187"
       ],
       "sex": "F",
-      "personPage": "people/amelia.md"
+      "personPage": "people/amelia.md",
+      "birthPlace": "Wales"
     },
     "I415": {
       "id": "I415",
@@ -4437,7 +4486,8 @@
       "spouseUnionIds": [
         "F190"
       ],
-      "sex": "M"
+      "sex": "M",
+      "birthPlace": "London, England"
     },
     "I435": {
       "id": "I435",
@@ -4558,7 +4608,8 @@
       "spouseUnionIds": [
         "F193"
       ],
-      "sex": "M"
+      "sex": "M",
+      "birthPlace": "London, England"
     },
     "I445": {
       "id": "I445",
@@ -5968,7 +6019,8 @@
         "F26"
       ],
       "sex": "M",
-      "personPage": "people/giuseppe-rovaro-brizzi.md"
+      "personPage": "people/giuseppe-rovaro-brizzi.md",
+      "birthPlace": "Zara, Dalmatia"
     },
     "I560": {
       "id": "I560",
@@ -6200,7 +6252,8 @@
       "deathPlace": "before 1822",
       "deathDate": "1822",
       "sex": "M",
-      "personPage": "people/giovanni-battista-carobbi.md"
+      "personPage": "people/giovanni-battista-carobbi.md",
+      "birthPlace": "Croatia"
     },
     "I66": {
       "id": "I66",
@@ -6212,7 +6265,8 @@
       "deathPlace": "about 1828",
       "deathDate": "1828",
       "sex": "M",
-      "personPage": "people/jakov-bilicic.md"
+      "personPage": "people/jakov-bilicic.md",
+      "birthPlace": "Cattaro, Dalmatia"
     },
     "I67": {
       "id": "I67",
@@ -6320,7 +6374,8 @@
       "deathDate": "1961-06-26",
       "sex": "F",
       "role": "Daughter of Fanny + Julien; married Étienne Stump",
-      "personPage": "people/henriette-bottin.md"
+      "personPage": "people/henriette-bottin.md",
+      "birthPlace": "Tallinn, Estonia"
     },
     "I77": {
       "id": "I77",
@@ -6371,7 +6426,8 @@
       "deathDate": "1855",
       "sex": "M",
       "role": "Merchant, translator, official in Persia",
-      "personPage": "people/edward-burgess.md"
+      "personPage": "people/edward-burgess.md",
+      "birthPlace": "England"
     },
     "I8": {
       "id": "I8",
@@ -6416,7 +6472,8 @@
       "birthDate": "1781",
       "deathDate": "1863",
       "sex": "M",
-      "personPage": "people/henry-burgess.md"
+      "personPage": "people/henry-burgess.md",
+      "birthPlace": "Yorkshire, England"
     },
     "I82": {
       "id": "I82",
@@ -6476,7 +6533,8 @@
       "birthDate": "1735-12-14",
       "deathDate": "1807-03-26",
       "sex": "M",
-      "personPage": "people/joseph-burgess.md"
+      "personPage": "people/joseph-burgess.md",
+      "birthPlace": "England"
     },
     "I87": {
       "id": "I87",
@@ -6488,7 +6546,8 @@
       "birthDate": "1741-12-22",
       "deathDate": "1828",
       "sex": "F",
-      "personPage": "people/sarah-airey.md"
+      "personPage": "people/sarah-airey.md",
+      "birthPlace": "England"
     },
     "I88": {
       "id": "I88",
@@ -6500,7 +6559,8 @@
       "birthDate": "1701-04-10",
       "deathDate": "1777-08-31",
       "sex": "M",
-      "personPage": "people/joseph-airey.md"
+      "personPage": "people/joseph-airey.md",
+      "birthPlace": "England"
     },
     "I89": {
       "id": "I89",
@@ -6512,7 +6572,8 @@
       "birthDate": "1704-02-28",
       "deathDate": "1774-02-23",
       "sex": "F",
-      "personPage": "people/sarah-grave.md"
+      "personPage": "people/sarah-grave.md",
+      "birthPlace": "England"
     },
     "I9": {
       "id": "I9",

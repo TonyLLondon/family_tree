@@ -17,7 +17,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
       /\bsplit\b/.test(n) ||
       /\bcattaro\b/.test(n) ||
       /\bvinodol\b/.test(n),
-    base: "#38BDF8",
+    base: "#0891B2",
   },
   {
     id: "italy",
@@ -41,7 +41,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
       /\bbrescia\b/.test(n) ||
       /\budine\b/.test(n) ||
       /\bmetropolitan city of genoa\b/.test(n),
-    base: "#5C7A8C",
+    base: "#6899CC",
   },
   {
     id: "iran",
@@ -52,7 +52,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
       /\btehran\b/.test(n) ||
       /\btabriz\b/.test(n) ||
       /\btabrīz\b/.test(n),
-    base: "#16A34A",
+    base: "#0D9488",
   },
   {
     id: "india",
@@ -70,7 +70,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
     id: "chile",
     label: "Chile",
     test: (n) => /\bchile\b/.test(n) || /\bparral\b/.test(n) || /\bcauquenes\b/.test(n) || /\bmaule,\s*chile\b/.test(n),
-    base: "#C45C3A",
+    base: "#881337",
   },
   {
     id: "usa",
@@ -81,13 +81,13 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
       /\blos gatos\b/.test(n) ||
       /\b,\s*usa\b/.test(n) ||
       /\bu\.s\.a\.?\b/.test(n),
-    base: "#0F172A",
+    base: "#1E3A8A",
   },
   {
     id: "australia",
     label: "Australia",
     test: (n) => /\baustralia\b/.test(n) || /\bcanberra\b/.test(n),
-    base: "#FEF08A",
+    base: "#D97706",
   },
   {
     id: "france",
@@ -139,7 +139,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
       /\babersychan\b/.test(n) ||
       /\bllansamlet\b/.test(n) ||
       /\btrecastle\b/.test(n),
-    base: "#DC2626",
+    base: "#B91C1C",
   },
   {
     id: "ireland",
@@ -162,7 +162,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
       /\blimerick,\s*county\b/.test(n) ||
       /\blimerick city\b/.test(n) ||
       /\bbrickfield,\s*limerick\b/.test(n),
-    base: "#4ADE80",
+    base: "#22C55E",
   },
   {
     id: "russiaBaltic",
@@ -184,7 +184,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
       /\bfellin\b/.test(n) ||
       /\bhaggers\b/.test(n) ||
       /\bviljandi\b/.test(n),
-    base: "#1E3A5F",
+    base: "#6366F1",
   },
   {
     id: "london",
@@ -211,7 +211,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
     id: "caucasusGeorgia",
     label: "Tbilisi / Caucasus Georgia",
     test: (n) => /^georgia$/i.test(n.trim()) || /\btbilisi\b/.test(n),
-    base: "#CA8A04",
+    base: "#A21CAF",
   },
   {
     id: "england",
@@ -260,7 +260,7 @@ const RULES: { id: string; label: string; test: (n: string) => boolean; base: st
       /\bhunts\b/.test(n) ||
       /\bsurrey north\b/.test(n) ||
       /\bmaldon\b/.test(n),
-    base: "#F1F5F9",
+    base: "#F5EDE3",
   },
 ];
 
@@ -318,4 +318,31 @@ export function chartNameFillForSegmentFill(fill: string): string {
 
 export function chartYearsFillForSegmentFill(fill: string): string {
   return segmentLuminance(fill) < 0.52 ? "#CBD5E1" : "#71717a";
+}
+
+const SHORT_LABELS: Record<string, string> = {
+  zara: "Zara",
+  dalmatia: "Dalmatia",
+  italy: "Italy",
+  iran: "Persia",
+  india: "India",
+  chile: "Chile",
+  usa: "U.S.A.",
+  australia: "Australia",
+  france: "France",
+  germany: "Germany",
+  switzerland: "Switzerland",
+  wales: "Wales",
+  ireland: "Ireland",
+  russiaBaltic: "Baltic",
+  london: "London",
+  caucasusGeorgia: "Tbilisi",
+  england: "England",
+};
+
+export function regionShortLabelFromBirthPlace(
+  birthPlace: string | undefined,
+): string {
+  const id = classifyBirthPlaceRegion(birthPlace);
+  return SHORT_LABELS[id] ?? "";
 }

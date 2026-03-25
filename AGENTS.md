@@ -23,7 +23,7 @@ Scripts (below) handle **sync, ingest, and validation**. They do not replace ope
 
 | Dir | Holds |
 |-----|--------|
-| `narratives/` | Multi-gen or long-form essays (e.g. `saginian-burgess-bottin-stump.md`, `zerauschek-zadar.md`, `lewis-aberdare-merthyr-coalfield.md`, `david-john-lewis-italy-1945-silver-star.md`, `stump-thurgau-tallinn-baltic-line.md`). |
+| `narratives/` | Multi-gen or long-form essays rendered as **visual scrollytelling** on the web app. Each narrative has two files: `<slug>.md` (vault markdown with `# Title` and `## Section` headings) and `<slug>.scrolly.json` (sidecar configuring the visual layout). See **Building a narrative** below. |
 | `topics/` | Cross-links: places, institutions (`topics/index.md` hub). |
 | `sources/*.md` | **Citation cards**: short summary, links to people, pointer into corpus. Optional YAML `corpus:` + `kind: pdf\|web`. |
 | `index.md` | Vault map (tables for `media/` layout). |
@@ -109,6 +109,46 @@ The `/files/[...path]` API route uses `fs.readFileSync` at runtime, which works 
 | `web/public/files/` | Generated at build time by the prebuild copy script |
 
 **Portrait images:** Extracted JPGs from the sun-chart PPTX live in `media/images/portraits/`. Previously in `archive/sun-charts/…` (gitignored). Referenced by `web/photo-map.json` and `narratives/*.scrolly.json`.
+
+## Building a narrative
+
+Narratives are **visual-rich scrollytelling pages** on the web app, not plain markdown articles. Every narrative needs **two files** in `narratives/`:
+
+| File | Purpose |
+|------|---------|
+| `<slug>.md` | Vault markdown. Structured as `# Title` then `## Section` headings. Each `##` section becomes one scrolly step (full-viewport background image + frosted text card). Sections after `scrollyStepCount` render as plain appendix below the scrolly area. `###` subsections within a `##` render inside the same step card. |
+| `<slug>.scrolly.json` | Sidecar controlling the visual layout: `hero` (title, subtitle, era), `scrollyStepCount` (how many `##` sections are scrolly vs appendix), and `steps[]` (one per scrolly section, each with `era` string and `media: { src, alt, caption? }`). |
+
+**Sidecar shape:**
+
+```json
+{
+  "hero": { "title": "…", "subtitle": "…", "era": "1860 – 1940" },
+  "scrollyStepCount": 7,
+  "steps": [
+    {
+      "era": "1860 – 1880",
+      "media": {
+        "src": "media/context/london-clerkenwell/some-image.jpg",
+        "alt": "Description for accessibility",
+        "caption": "Caption shown bottom-right over the image"
+      }
+    }
+  ]
+}
+```
+
+**Image paths** in `steps[].media.src` are **repo-relative** (e.g. `media/docs/Alfred Evans.jpg`). The web app resolves them to `/files/…` URLs via `photoPublicPath`. Use family photos from `media/docs/` or `media/images/portraits/` where available; use context images from `media/context/<topic>/` for scenes, maps, and landmarks. Each `media/context/<topic>/` directory must include a `CREDITS.md` listing source and licence for every image.
+
+**How it renders:** `web/components/ScrollytellingNarrative.tsx` uses `react-scrollama` + GSAP. A sticky full-viewport image stack crossfades behind the text as the user scrolls. The hero overlay (title/subtitle/era) fades out when the first step enters. Images get a slow Ken Burns zoom. If no `.scrolly.json` sidecar exists, the narrative falls back to a plain `PageShell` + `MarkdownContent` article layout.
+
+**Checklist for a new narrative:**
+
+1. Write `narratives/<slug>.md` with `# Title`, then `## Section` per visual beat, then `## Evidence` / `## Related` as appendix.
+2. Gather images: family photos in `media/docs/`; download CC/public-domain context images to `media/context/<topic>/` with a `CREDITS.md`.
+3. Create `narratives/<slug>.scrolly.json` matching the number of `##` sections to `scrollyStepCount` and `steps[]`.
+4. Link the narrative from the relevant `lines/*.md` hub (not from unrelated line hubs — Evans narratives link from `evans-cerpa-perez-london-chile.md`, not from `lewis-wales-stump-europe.md`).
+5. Test locally: `cd web && npm run dev` → visit `/narratives/<slug>`.
 
 ## Conventions
 
