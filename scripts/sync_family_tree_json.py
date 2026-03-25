@@ -302,9 +302,12 @@ def vault_record_from_file(path: Path) -> tuple[str, dict] | None:
     if fm.get("ignore_gedcom_birth") is True:
         rec["_ignoreGedcomBirth"] = True
 
-    disp = clean_md_vital(fm.get("display_name"))
-    if disp:
-        rec["displayNameOverride"] = disp
+    disp_raw = fm.get("display_name")
+    if isinstance(disp_raw, str):
+        disp = disp_raw.strip()
+        if disp and disp.lower() != "unknown":
+            # Do not use clean_md_vital: parentheticals (e.g. b. 1800) are intentional disambiguators.
+            rec["displayNameOverride"] = disp
 
     rec["personPage"] = f"people/{path.name}"
     return tid, rec

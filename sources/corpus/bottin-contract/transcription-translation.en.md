@@ -12,6 +12,19 @@ Human **transcription** of the French column and **English translation**, kept *
 
 Bilingual instrument: **French** (typescript, right column) and **Persian** (manuscript, left column). Transcription below follows the **French** column of the scan; spelling and punctuation are normalized lightly (accents, *Téhéran*, *Cartoucherie*). The state describes Bottin as **colonel** and **sujet français** (French national)—a legal label on the document, independent of other biographical sources.
 
+### Persian column — name as written (facsimile)
+
+The left column is nastaʿlīq handwriting; machine OCR is not reliable on these PNGs. Read from [page01](../../../media/albums/henderson/Bottin-Contract-page01.png) (preamble) and the body pages ([page02](../../../media/albums/henderson/Bottin-Contract-page02.png), [page03](../../../media/albums/henderson/Bottin-Contract-page03.png)):
+
+| Context | Persian (document) |
+|--------|---------------------|
+| Preamble — same party as French *Monsieur Julien Bottin, colonel…* | **مسيو ژولين بوتن** |
+| Body articles — *Monsieur Bottin* | **مسیو بوتن** / **مسيو بوتن** (scribal variation on the first word for French *Monsieur*) |
+
+So the **attested Persian-script full name phrase** on this state contract is **مسيو ژولين بوتن** (title + *Julien* + *Bottin*). Later clauses shorten to **مسیو بوتن** (or **مسيو بوتن**). This is transliteration for a French name, not a separate Iranian *byname* (contrast e.g. *ṣāḥeb* titles elsewhere in Qajar usage).
+
+**Indexed in Persian:** the same employment statute is posted on the Mashruteh (constitutional-era) wiki as [قانون استخدام مسیو بوتن](http://mashruteh.org/wiki/index.php/%D9%82%D8%A7%D9%86%D9%88%D9%86_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D9%85%D8%B3%DB%8C%D9%88_%D8%A8%D9%88%D8%AA%D9%86) — Persian articles (مهندسی قورخانه، سی شاگرد، ۲۴۰۰ تومان، etc.); the page title uses **بوتن** while the transcribed body sometimes spells **بوطن** (ط / ت copy variance). It does **not** expand the given name; the form there is still **مسیو بوتن** / **مسیو بوطن** only.
+
 ---
 
 ## Preamble

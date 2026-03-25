@@ -1,5 +1,6 @@
 ---
 name: Hans Ulrich Stump
+display_name: Hans Ulrich STUMP
 treeId: I144
 gedcom: "@I144@"
 born: 1767-10-25

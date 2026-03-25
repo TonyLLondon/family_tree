@@ -31,6 +31,8 @@ The addenda section (pp. 503–509) contains a seven-page account of the Addobba
 
 Seven page-scans in `media/docs/sabalich-guida-zara-addobbati/`. Full Italian transcription and English translation in the corpus bundle.
 
+**Named individuals (inventory + web desk + archive queue):** [research/addobbati-sabalich-line-desk-research.md](../research/addobbati-sabalich-line-desk-research.md)
+
 ## Corpus
 
 - [sources/corpus/sabalich-guida-zara-addobbati/](corpus/sabalich-guida-zara-addobbati/) — transcription, translation, source.yaml
@@ -44,4 +46,4 @@ Seven page-scans in `media/docs/sabalich-guida-zara-addobbati/`. Full Italian tr
 - [D. Daniele Addobbati](../people/d-daniele-addobbati.md) (I31)
 - [D. Ioanes Addobbati](../people/d-ioanes-addobbati.md) (I32)
 - [Pietro Addobbati](../people/pietro-addobbati.md) (I38) — 1495 progenitor
-- Dr. Pietro Addobbati (I75) — Golden Spur, Lateran Count
+- [Dr. Pietro Addobbati](../people/dr-pietro-addobbati.md) (I75) — Golden Spur, Lateran Count

@@ -1,5 +1,6 @@
 ---
 name: Hans Conrad Stump
+display_name: Hans Conrad STUMP (b. 1702)
 treeId: I148
 gedcom: "@I148@"
 born: 1702

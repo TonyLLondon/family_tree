@@ -1,5 +1,6 @@
 ---
 name: Hs. Konrad Stump
+display_name: Hans Konrad STUMP (b. 1730)
 treeId: I146
 gedcom: "@I146@"
 also_known_as:

@@ -51,6 +51,7 @@ Secondary genealogy notes sometimes use alternate spellings (**Seguinoff** and s
 - [NYPL Burgess appendix — Anna interview (1880)](../sources/nypl-burgess-appendix-anna-interview.md) · [corpus](../sources/corpus/nypl-burgess-appendix-anna-interview/) — Anna’s own account; Leicester March 1880.
 - [O’Brien / Roche notes (Seguinoff / Saginian thread)](../sources/obrien-roche-notes.md) · [raw link list](../media/docs/Obrien%20and%20Roche%20notes%20and%20links.txt) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/).
 - [Anna and Fanny Burgess, 1881](../media/albums/henderson/Anna%20and%20Fanny%20Burgess%201881.tif).
+- [ویلیام کورمیک — ویکی‌پدیای فارسی](https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D9%84%DB%8C%D8%A7%D9%85_%DA%A9%D9%88%D8%B1%D9%85%DB%8C%DA%A9) — identifies Tamar as younger sister of **Edward Burgess’s Armenian wife** (Anna); does not spell “Anna” in Persian script (**آنا** would be normal transliteration only).
 
 ## Related narrative
 

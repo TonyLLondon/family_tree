@@ -1,5 +1,9 @@
 id: beytoote-stump-dentist-atabak-ahmadshah
 title: دندانساز اتابک و دندانپزشک احمدشاه — Dr. Stump (Ashtump), dentist of Atabak and Ahmad Shah
+notes: |
+  Text attributed in republications to iran-newspaper.com (“به گزارش ایران”). Same copy is syndicated
+  elsewhere (e.g. sarpoosh.com, fekrshahr.ir); this bundle captures the Beytoote canonical URL only.
+  Person page links mirrors for convenience.
 remote:
   webpage_url: https://www.beytoote.com/art/negah-gozashte/dentist-atabak2-ahmadshah.html
 fetches:

@@ -12,3 +12,4 @@ fetches:
 files:
   pdf_markdown: extracted.pdf.md
   pdf: original.pdf
+  transcription_translation_en: transcription-translation.en.md

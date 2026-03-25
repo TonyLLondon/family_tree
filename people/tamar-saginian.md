@@ -2,6 +2,9 @@
 name: Tamar Saginian
 treeId: I385
 gedcom: "@I385@"
+also_known_as:
+  - Tamar Daoudian
+  - تامار (Persian Wikipedia form of her given name)
 born: unknown
 died: unknown
 sex: female
@@ -23,7 +26,7 @@ Sister of [Anna Saginian](anna-saginian.md). She is **not** on the strict [@I1@ 
 
 ## Life
 
-- Daughter of [Daoud Khan Saginian](daoud-khan-saginian.md) per the Connections BMC interview material (Anna, Tamar, father named together).
+- Daughter of [Daoud Khan Saginian](daoud-khan-saginian.md) per the Connections BMC interview material (Anna, Tamar, father named together). The same article chain cites family research (**Tamar Daoudian**, daughter of Daoud Khan) — Armenian-style patronymic spelling, parallel to Anna’s **Seguinoff** in the NYPL appendix; not a separate Persian *laqab*.
 - Marriage to **William Cormick** places her inside the household of a **royal physician** (Mohammad Shah; then crown prince **Naser al-Din Shah**) — parallel to Anna’s diplomatic-merchant circle rather than competing with it.
 
 Use Tamar’s branch when explaining **why two independent source types** (NYPL Burgess papers vs Cormick / Báb historiography) both orbit the **Saginian** surname.
@@ -40,6 +43,7 @@ Use Tamar’s branch when explaining **why two independent source types** (NYPL 
 - [Cormick / Saginian interview](../sources/connectionsbmc-saginian-interview.md) — corpus under `sources/corpus/connectionsbmc-saginian-interview/`.
 - [Wikipedia — William Cormick](../sources/wikipedia-william-cormick.md) (orientation only; prefer PDF corpus).
 - [NYPL Burgess appendix — Anna interview (1880)](../sources/nypl-burgess-appendix-anna-interview.md) · [corpus](../sources/corpus/nypl-burgess-appendix-anna-interview/) — Anna names Tamar directly as youngest sister and Dr. Cormick’s widow.
+- [ویلیام کورمیک — ویکی‌پدیای فارسی](https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D9%84%DB%8C%D8%A7%D9%85_%DA%A9%D9%88%D8%B1%D9%85%DB%8C%DA%A9) — secondary Persian-language article naming **تامار** as Cormick’s wife and as younger sister of Edward Burgess’s Armenian wife (Momen / Iranica in references).
 - **Visual (same as William’s page):** possible *William and Tamar and family, c. 1867* reproduction — [loose JPEG](../media/images/loose/William%20and%20Tamar%20and%20Unknown%202.jpg); align with [Cormick PDF extracts](../people/william-cormick.md#evidence).
 - [Tamar and William Cormick plus unknown couple](../media/albums/henderson/Tamar%20and%20William%20Cormick%20plus%20unknown%20couple.jpg).
 

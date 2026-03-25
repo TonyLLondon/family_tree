@@ -34,6 +34,26 @@ Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkt
 
 ---
 
+## Syndicated mirrors (same text as Beytoote / iran-newspaper)
+
+No separate ingest planned — use as alternate stable URLs or Wayback targets.
+
+| Site | URL |
+|------|-----|
+| Sarpoosh | <https://www.sarpoosh.com/culture-thought/history-civilization/dentistry-ahmadshah-atbek970805.html> |
+| Fekrshahr | <https://fekrshahr.ir/fa/news/48950/%D8%AF%D9%86%D8%AF%D8%A7%D9%86%D8%B3%D8%A7%D8%B2-%D8%A7%D8%AA%D8%A7%D8%A8%DA%A9-%D9%88-%D8%AF%D9%86%D8%AF%D8%A7%D9%86%D9%BE%D8%B2%D8%B4%DA%A9-%D8%A7%D8%AD%D9%85%D8%AF%D8%B4%D8%A7%D9%87> |
+| Tertiary | [Persian Wikipedia — دندان‌پزشکی](https://fa.wikipedia.org/wiki/%D8%AF%D9%86%D8%AF%D8%A7%D9%86%E2%80%8C%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C) (names اشتومپ; not a primary source). |
+
+**Imaginative web angles (not yet mined):**
+
+- **Wayback:** `iran-newspaper.com` + article slug if discoverable; early Beytoote snapshots; Sarpoosh/Fekrshahr captures if the live site edits the piece.
+- **Full-text Persian:** [Noor Library](https://www.noorlib.ir) · [Iran Doc](https://irandoc.ac.ir) · Ganjoor is irrelevant — search **نجم‌آبادی** + دندان، **سیاح** + دندانپزشکی، **کمره‌ای** + لاله‌زار + دندان.
+- **Parliament:** Islamic Majlis open archives or `rc.majlis.ir` for the **1912 two automobiles** anecdote (keyword **اتومبیل** + year).
+- **Blognoise:** `site:.ir اشتومپ OR اشتمپ OR استمپ` occasionally surfaces reposts; treat as pointers to the same synthesis unless a new primary citation appears.
+- **Google Books / Google Scholar:** English queries `Vardavard 1915 dentist`, `Stepanian dental school Iran 1916`, `Mohsen Sayyah memoir dentistry` — may surface Romanisations (Stemp, Stamp) that keyword search in Persian misses.
+
+---
+
 ## URLs to hit (free, open now)
 
 ### 1. Savushun — Internet Archive (borrow)

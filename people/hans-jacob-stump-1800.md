@@ -1,5 +1,6 @@
 ---
 name: Hans Jacob Stump
+display_name: Hans Jacob STUMP (b. 1800)
 treeId: I142
 gedcom: "@I142@"
 born: 1800-06-15

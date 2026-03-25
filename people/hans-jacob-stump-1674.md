@@ -1,5 +1,6 @@
 ---
 name: Hans Jacob Stump
+display_name: Hans Jacob STUMP (b. 1674)
 treeId: I151
 gedcom: "@I151@"
 born: 1674-09-13
