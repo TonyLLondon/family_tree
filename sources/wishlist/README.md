@@ -15,3 +15,4 @@ Sources **not yet** in corpus (or only partly used): URLs to open, books to buy,
 | Erbe / Eylandt — Saaga parish PDFs, Pärnu schools, German church books, *Revaler Beobachter* | [erbe-baltic-german-line.md](erbe-baltic-german-line.md) |
 | David John Lewis — 61st Brigade history, WMP library, war diary (WO 169/172), Silver Star rec (WO 373), promotion gazettes, regimental museum | [david-john-lewis-military.md](david-john-lewis-military.md) |
 | David John Lewis — Keep Britain Tidy: paywalled 1978 journal article, annual reports, civil honours, charity/company archives | [david-john-lewis-kbt.md](david-john-lewis-kbt.md) |
+| *Kavkaz* newspaper (Tiflis 1846–1918) & Adolf Berzhe — Caucasus–Persia border coverage, Saginian / Burgess / famine leads | [kavkaz-berzhe.md](kavkaz-berzhe.md) |

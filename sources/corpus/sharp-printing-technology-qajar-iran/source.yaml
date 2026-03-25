@@ -1,0 +1,13 @@
+id: sharp-printing-technology-qajar-iran
+title: 'SHARP Lingua Franca: Transfer of Typographic Printing Technology to Iran (2023)'
+remote:
+  webpage_url: https://sharpweb.org/linguafranca/issue-9-2023/2023-khoshzadheidari/
+fetches:
+- kind: web
+  at: '2026-03-25T19:43:09Z'
+  remote_url: https://sharpweb.org/linguafranca/issue-9-2023/2023-khoshzadheidari/
+  sha256: 9a8853e7039e242919a07de33aad0b6ed5e637f2acdced6c85e21134722882ca
+  bytes: 113251
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

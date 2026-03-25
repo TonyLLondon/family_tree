@@ -4,7 +4,7 @@ also_known_as:
   - Vera Nemtchinova
   - Vera Stump
   - Princess Obolensky
-born: c. 1890s
+born: c. 1895
 birth_place: Russian Empire
 died: 1974-11-06
 death_place: New Jersey, USA
@@ -22,8 +22,8 @@ Russian émigré who fled the 1917 Revolution to Tehran, managed a large Europea
 
 ## Life
 
-- **Born** c. 1890s, Russian Empire. Maiden name recorded as **Nemtchinova** (per [Ancestry record](https://www.ancestry.com/genealogy/records/georges-obolensky-24-1tby3yk) for son Georges). **Not** the ballerina [Vera Nemtchinova](https://en.wikipedia.org/wiki/Vera_Nemtchinova) (1899–1984), a different person.
-- **Marriage to Prince Yuri Obolensky** — before or during WWI. The Obolenskys were a prominent Russian princely family.
+- **Born** c. 1895, Russian Empire (age 79 at death in Nov 1974; NYT death notice). Maiden name recorded as **Nemtchinova** (per [Ancestry record](https://www.ancestry.com/genealogy/records/georges-obolensky-24-1tby3yk) for son Georges). **Not** the ballerina [Vera Nemtchinova](https://en.wikipedia.org/wiki/Vera_Nemtchinova) (1899–1984), a different person.
+- **Marriage to Prince Yuri Obolensky** — before or during WWI. The Obolenskys were a prominent Russian princely family. The NYT death notice describes Yuri as "**a relative of Tolstoy**," connecting the Obolensky line to the Tolstoy family.
 - **Flight to Persia** — after the 1917 Revolution, Vera and Yuri fled south through the Caucasus to Iran. By **1920** they were living in Tehran.
 - **1920** — son **Georges (Yuri) Obolensky** born in Tehran.
 - **c. 1925** — Prince Yuri dies (malaria). Vera remains in Tehran as a widow.
@@ -43,7 +43,7 @@ Russian émigré who fled the 1917 Revolution to Tehran, managed a large Europea
 
 - **Georges Obolensky**, *Forever Russian: Memoirs of a Vagabond Prince* (AuthorHouse, 2013, 176 pp; ISBN 978-1-4817-1476-1 e-book, 978-1-4817-1477-8 softcover, 978-1-4817-1475-4 hardcover) — primary source for the guesthouse, flight to Iran, Yuri's death, marriage to Stump. Available on [Google Books](https://books.google.com/books?id=R5W3uYvAhasC) (partial preview), [AuthorHouse](https://www.authorhouse.com/en/bookstore/bookdetails/435293-Forever-Russian), and [Everand](https://www.everand.com/author/423146008/Georges-Obolensky).
 - **NYT death notice (14 Nov 1974):** [corpus/vera-obolensky-death-notice-nytimes-2644e85dac/](../sources/corpus/vera-obolensky-death-notice-nytimes-2644e85dac/) — PDF is image-only; read visually at [media/albums/henderson/Vera Obolensky death notice NYTimes.pdf](../media/albums/henderson/Vera%20Obolensky%20death%20notice%20NYTimes.pdf).
-- **"Princess Obolensky" ProQuest article:** [corpus/princess-obolensky-abbcc58ed8/](../sources/corpus/princess-obolensky-abbcc58ed8/) — contemporaneous press; PDF is image-only at [media/collections/stump-etienne/Princess Obolensky.pdf](../media/collections/stump-etienne/Princess%20Obolensky.pdf).
+- **"Princess Obolensky" ProQuest capture (NYT, 14 Nov 1974, p. 50):** [corpus/princess-obolensky-abbcc58ed8/](../sources/corpus/princess-obolensky-abbcc58ed8/) — full-page ProQuest scan of the same death notice; transcribed from image at [media/collections/stump-etienne/Princess Obolensky.pdf](../media/collections/stump-etienne/Princess%20Obolensky.pdf). Confirms age 79, son Georges, two grandchildren, and Tolstoy connection.
 - **Portrait (c. 1920s Tehran):** [media/collections/stump-etienne/vera-obolensky-and-georges.png](../media/collections/stump-etienne/vera-obolensky-and-georges.png) — Vera with young Georges.
 - [Vera Obolensky with Yuri (Georges) 1928](../media/albums/henderson/Vera%20Obolensky%20with%20Yuri%20(Georges)%201928.odt) — captioned photo from *Forever Russian* ([source card](../sources/vera-obolensky-yuri-1928-photo.md)).
 - [*Forever Russian* — Stump extract (Henderson)](../sources/forever-russian-stump-extract.md) — typed extract from Georges Obolensky's memoir, chapters 1 and 9 ([corpus](../sources/corpus/forever-russian-stump-extract/)).
@@ -67,4 +67,5 @@ Vera was part of the first wave of Russian refugees (White Army officers and nob
 - Exact birth date and place.
 - Date of marriage to Stump; circumstances of Henriette Bottin's death or divorce.
 - Whether "Moscow Lane" pension (mentioned in earlier research) was a separate venture or conflation with the Mahmoudieh guesthouse.
-- Full text of the NYT obituary and ProQuest "Princess Obolensky" article (both image-only PDFs; need visual reading or OCR).
+- Full text of the NYT obituary from the Henderson clipping (image-only PDF; need visual reading or OCR). The ProQuest capture has been transcribed — it is the same five-line notice.
+- Nature of the **Tolstoy connection** — the NYT says Prince Yuri was "a relative of Tolstoy" but does not specify the relationship.

@@ -50,11 +50,11 @@ Marc and Olga married in **1868** in Tallinn (union F70 in the tree; EBC parish 
 
 ## 4. The Tallinn household and the road to Tehran
 
-The EBC report lists five children baptised in the Tallinn Dome congregation: **Jean Jacque** (died 1874 as an infant), **Arthur Roger** (later Moscow and Berlin), **Marguerite Emilie** (married von Frey), **Antoinette** (died 1881), and **[Étienne Stump](../people/etienne-stump.md)** — born **7 March 1880** in Tallinn, per the parish digest.
+The EBC report lists five children baptised in the Tallinn Dome congregation: **[Jean Jacque](../people/jean-jacque-stump.md)** (died 1874 as an infant), **[Arthur Roger](../people/arthur-roger-stump.md)** (later Moscow and Berlin), **[Marguerite Emilie](../people/marguerite-emilie-stump.md)** (married [von Frey](../people/cuno-von-frey.md)), **[Antoinette](../people/antoinette-stump.md)** (died 1881), and **[Étienne Stump](../people/etienne-stump.md)** — born **7 March 1880** in Tallinn, per the parish digest.
 
 By 1910, a Tallinn obituary for Étienne's mother Louise already noted "Dr Etienne Stump and wife in Teheran." The son of a Swiss French teacher and a Baltic German Erbe had somehow ended up practising dentistry in Qajar Iran — the first link in what would become the Persia line of the family tree.
 
-Map each sibling carefully to @I398@–@I401@ in [family-tree.json](../family-tree.json) before merging names into YAML.
+Sibling IDs confirmed: [Jean Jacque](../people/jean-jacque-stump.md) (`@I398@`), [Arthur Roger](../people/arthur-roger-stump.md) (`@I399@`), [Marguerite Emilie](../people/marguerite-emilie-stump.md) (`@I400@`), [Antoinette](../people/antoinette-stump.md) (`@I401@`).
 
 **Next generation (Iran):** [Étienne Stump](../people/etienne-stump.md); Persia narrative [saginian-burgess-bottin-stump.md](saginian-burgess-bottin-stump.md) §4.
 

@@ -9,4 +9,8 @@ fetches:
   media_reference: media/collections/burgess-persian-letters/The Burgess Persian Letters.pdf
 files:
   pdf_markdown: extracted.pdf.md
+  transcription: transcription.md
   media_reference: media/collections/burgess-persian-letters/The Burgess Persian Letters.pdf
+notes: |
+  extracted.pdf.md is unusable — pymupdf4llm doubled every word due to two-column PDF layout.
+  Use transcription.md (structured clean text from PDF reader) instead.

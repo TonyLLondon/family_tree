@@ -1,0 +1,14 @@
+id: lady-sheil-glimpses-persia-ch13
+title: Lady Mary Sheil, Glimpses of Life and Manners in Persia (1856), Ch. 13 — newspaper passage
+remote:
+  webpage_url: https://bahai-library.com/shiel_glimpses_life_persia&chapter=all
+  fetch_url: https://bahai-library.com/shiel_glimpses_life_persia&chapter=13
+fetches:
+- kind: web
+  at: '2026-03-25T19:43:15Z'
+  remote_url: https://bahai-library.com/shiel_glimpses_life_persia&chapter=13
+  sha256: fa55a2a0aa140b40cd66deaaec109ce3454c0e4a07cf1c8d9892e06c097cd9f7
+  bytes: 46557
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

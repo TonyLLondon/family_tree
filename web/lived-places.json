@@ -1,0 +1,104 @@
+{
+  "I8": {
+    "displayName": "David John Lewis",
+    "livedPlaces": [
+      { "place": "Sabratha, Libya", "period": "1948–1951" },
+      { "place": "Tripoli, Libya", "period": "1948–1951" },
+      { "place": "Fort Jameson, Northern Rhodesia", "period": "1952–1955" },
+      { "place": "Chinsali, Northern Rhodesia", "period": "1956" },
+      { "place": "Livingstone, Northern Rhodesia", "period": "1957–1958" },
+      { "place": "Ndola, Northern Rhodesia", "period": "1958–1961" },
+      { "place": "Lusaka, Zambia", "period": "1962–1966" },
+      { "place": "Brighton, England", "period": "1969–2000" }
+    ]
+  },
+  "I103": {
+    "displayName": "Archibald Percy Coolbear",
+    "livedPlaces": [
+      { "place": "Southend-on-Sea, Essex, England", "period": "c. 1919–c. 1928" }
+    ]
+  },
+  "I19": {
+    "displayName": "Helia Cerpa-Pérez",
+    "livedPlaces": [
+      { "place": "Rome, Italy", "period": "c. 1973–c. 1975" },
+      { "place": "London, England", "period": "c. 1975–present" }
+    ]
+  },
+  "I79": {
+    "displayName": "Edward Burgess",
+    "livedPlaces": [
+      { "place": "Tehran, Iran", "period": "1848–1855" }
+    ]
+  },
+  "I16": {
+    "displayName": "Étienne Stump",
+    "livedPlaces": [
+      { "place": "Chicago, Illinois, USA", "period": "c. 1901–1902" }
+    ]
+  },
+  "I326": {
+    "displayName": "Daoud Khan Saginian",
+    "livedPlaces": [
+      { "place": "Tabriz, Iran", "period": "c. 1811–c. 1870s" },
+      { "place": "Isfahan, Iran", "period": "c. 1834" }
+    ]
+  },
+  "I135": {
+    "displayName": "William O'Byrne White",
+    "livedPlaces": [
+      { "place": "Jabalpur, India", "period": "c. 1866–1885" }
+    ]
+  },
+  "I77": {
+    "displayName": "Julien Bottin",
+    "livedPlaces": [
+      { "place": "Tehran, Iran", "period": "c. 1894–c. 1919" }
+    ]
+  },
+  "I14": {
+    "displayName": "Antonio Zerauschek",
+    "livedPlaces": [
+      { "place": "Zadar, Croatia", "period": "1889–c. 1943" },
+      { "place": "Sirmione, Lake Garda, Italy", "period": "c. 1930s–c. 1943" },
+      { "place": "Florence, Italy", "period": "c. 1944–1973" }
+    ]
+  },
+  "I78": {
+    "displayName": "Fanny Burgess",
+    "livedPlaces": [
+      { "place": "Tehran, Iran", "period": "1854–1938" },
+      { "place": "Urmia, Iran", "period": "1862–1865" },
+      { "place": "Tabriz, Iran", "period": "1865" },
+      { "place": "Paris, France", "period": "c. 1906–c. 1912" }
+    ]
+  },
+  "I136": {
+    "displayName": "Catherine Mary Roche",
+    "livedPlaces": [
+      { "place": "Jabalpur, India", "period": "c. 1869–1885" }
+    ]
+  },
+  "I80": {
+    "displayName": "Anna Saginian",
+    "livedPlaces": [
+      { "place": "Tabriz, Iran", "period": "c. 1830s–1851" },
+      { "place": "Tehran, Iran", "period": "c. 1851–c. 1862" },
+      { "place": "Urmia, Iran", "period": "1862–1865" },
+      { "place": "Leicester, England", "period": "by 1880" }
+    ]
+  },
+  "I386": {
+    "displayName": "Dr. William Cormick",
+    "livedPlaces": [
+      { "place": "Tehran, Iran", "period": "c. 1840s–c. 1865" }
+    ]
+  },
+  "I12": {
+    "displayName": "Gerald Sebastian White",
+    "livedPlaces": [
+      { "place": "Tralee, County Kerry, Ireland", "period": "c. 1885–c. 1910s" },
+      { "place": "Madras, India", "period": "c. 1919–c. 1947" }
+    ]
+  }
+}

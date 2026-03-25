@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "The Most All-Loved Person",
+    "subtitle": "Edward Burgess in Qajar Persia, 1830–1855",
+    "era": "1830 – 1855"
+  },
+  "scrollyStepCount": 8,
+  "steps": [
+    {
+      "era": "1830 – 1831",
+      "media": {
+        "src": "media/context/tabriz-qajar/tabriz-city-gate-flandin.jpg",
+        "alt": "City gate of Tabriz, drawn by Eugène Flandin during his 1839–1841 visit — the gate Edward Burgess would have entered",
+        "caption": "City Gate, Tabriz — Eugène Flandin, c. 1840"
+      }
+    },
+    {
+      "era": "1831 – 1836",
+      "media": {
+        "src": "media/context/tabriz-qajar/tabriz-hussein-khan-house-flandin.jpg",
+        "alt": "House of Hussein Khan in Tabriz — a wealthy residence of the kind Edward moved among",
+        "caption": "A Tabriz merchant's house — Flandin, c. 1840"
+      }
+    },
+    {
+      "era": "1836 – 1844",
+      "media": {
+        "src": "media/context/tabriz-qajar/charles-burgess-portrait.jpg",
+        "alt": "Portrait of Charles Burgess, Edward's elder brother, whose debts trapped Edward in Persia",
+        "caption": "Charles Burgess — the brother who left him behind"
+      }
+    },
+    {
+      "era": "1842 – 1848",
+      "media": {
+        "src": "media/context/tabriz-qajar/tabriz-palace-zobeideh-flandin.jpg",
+        "alt": "Remains of the Palace Zobeideh in Tabriz — ruins near the villages Edward governed",
+        "caption": "Ruins at Tabriz — Flandin, c. 1840"
+      }
+    },
+    {
+      "era": "1848 – 1854",
+      "media": {
+        "src": "media/context/tabriz-qajar/naser-al-din-shah-nadar.jpg",
+        "alt": "Naser al-Din Shah Qajar, the young ruler who appointed Edward chief interpreter, state gazette editor, press censor, and intelligence briefer",
+        "caption": "Naser al-Din Shah — photograph by Nadar"
+      }
+    },
+    {
+      "era": "1851 – 1854",
+      "media": {
+        "src": "media/images/portraits/anna-saginian-fanny-burgess.jpg",
+        "alt": "Anna Saginian with her daughter Fanny Burgess, photographed in 1881",
+        "caption": "Anna and Fanny — photographed twenty-six years after Edward's death"
+      }
+    },
+    {
+      "era": "1855",
+      "media": {
+        "src": "media/context/tabriz-qajar/takhtrawan-litter.jpg",
+        "alt": "A takhtrawan — the mule-borne litter in which Anna carried the dying Edward from Tehran to Tabriz",
+        "caption": "The takhtrawan — 'often movement gave him such agony that he looked as dead'"
+      }
+    },
+    {
+      "era": "1855 – present",
+      "media": {
+        "src": "media/context/tabriz-qajar/tabriz-armenian-cemetery-baskerville-grave.jpg",
+        "alt": "The Armenian cemetery just outside the walls of Tabriz — where Edward Burgess was buried in 1855",
+        "caption": "The Armenian cemetery, Tabriz — Edward's resting place since 1855"
+      }
+    }
+  ]
+}

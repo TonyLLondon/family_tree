@@ -10,7 +10,7 @@ media_reference_2: "media/collections/burgess-persian-letters/2020-10-01 Sartip 
 
 # Sartip Daoud Khan Sakinian — photograph with Persian caption
 
-Two scans of the same page 47 from a Persian-language source (likely the Saginian family memoir or a Qajar-era biographical publication). The page shows a full-length portrait photograph of a uniformed man with military medals. The two bundles are duplicate scans at slightly different quality.
+Two scans of the same page 47 from **ایرانیان ارمنی** (*Irāniyān-e Armanī* / "Iranian Armenians") by **Esmail Ra'in** (اسماعیل رائین), published by **Amir Kabir Publishing** (مؤسسه انتشارات امیرکبیر), Tehran, 2536 Imperial calendar (1977 CE). The page shows a full-length portrait photograph of a uniformed man with military medals. The two bundles are duplicate scans at slightly different quality.
 
 **Corpus bundles (duplicates of the same page):**
 - [`corpus/2020-10-01-sartip-david-sakinian-172b364799/`](corpus/2020-10-01-sartip-david-sakinian-172b364799/)
@@ -43,7 +43,9 @@ Man in Qajar military dress uniform, epaulettes, sash, medals including at least
 
 ## Source book identification
 
-The publication is unidentified. Likely candidates: the Sakinian/Saginian family memoir (held in hard copy per Tony's notes) or a published Qajar-era military biographical compilation. The page number 47 and the printed photograph-with-caption format suggest a printed book, not a handwritten memoir.
+**ایرانیان ارمنی** (*Irāniyān-e Armanī* / "Iranian Armenians") by **Esmail Ra'in** (اسماعیل رائین). Published by Amir Kabir Publishing (مؤسسه انتشارات امیرکبیر), Tehran, 2536 Imperial calendar (1977 CE). A scholarly survey of the Armenian community in Iran from antiquity through the Pahlavi era, covering migration, religion, customs, notable figures, and the Constitutional Revolution. The portrait of Sartip Daoud Khan appears on page 47 in the section "سیماهای درخشان و نامهای جاویدان" (Luminous Figures and Eternal Names), alongside other prominent Armenian-Iranians such as Jahangir Khan Armani, Mirza Malkam Khan, Āvānis Khan Mosā'ed al-Saltaneh, and Beyram Khan.
+
+The two Farsi scan PDFs in `media/collections/burgess-persian-letters/` are 28 selected pages from this book (15 + 13), covering the title page, table of contents, preface, and chapters on Armenian history in Iran through the Qajar era. Individual page JPGs are in `media/collections/burgess-persian-letters/farsi-pages/` (`page-01.jpg` through `page-28.jpg`).
 
 ## People linked
 

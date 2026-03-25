@@ -2,6 +2,7 @@ import Link from "next/link";
 import { SiteNav } from "@/components/SiteNav";
 import { MasterSearch } from "@/components/MasterSearch";
 import { NarrativeCarousel, type NarrativeSlide } from "@/components/NarrativeCarousel";
+import { RandomizedPortraits, type PortraitEntry } from "@/components/RandomizedPortraits";
 import { loadFamilyTree } from "@/lib/tree";
 import { buildPhotoInfoMap, focalToObjectPosition } from "@/lib/photos";
 import { countBiographicalPersonPages, getNarrativeSlugs } from "@/lib/content";
@@ -9,21 +10,23 @@ import { getSiteSearchItems } from "@/lib/siteSearchIndex";
 import { readScrollySidecar, resolveScrollySteps } from "@/lib/scrollytelling";
 import { readNarrativeOrLineCard } from "@/lib/browse";
 
-function getFeaturedPhotos(): { id: string; name: string; photo: string; slug: string; objectPosition?: string }[] {
+function getAllPortraits(): PortraitEntry[] {
   const tree = loadFamilyTree();
-  const order = ["I8", "I16", "I76", "I13", "I118", "I326", "I103", "I101", "I11", "I173", "I79"];
-  const infoMap = buildPhotoInfoMap(order);
-  const out: { id: string; name: string; photo: string; slug: string; objectPosition?: string }[] = [];
-  for (const id of order) {
+  const allIds = Object.keys(tree.people);
+  const infoMap = buildPhotoInfoMap(allIds);
+  const seen = new Set<string>();
+  const out: PortraitEntry[] = [];
+  for (const id of allIds) {
     const info = infoMap[id];
     if (!info) continue;
+    if (seen.has(info.url)) continue;
+    seen.add(info.url);
     const person = tree.people[id];
     if (!person) continue;
     const slug = person.personPage?.replace(/^people\//, "").replace(/\.md$/, "") ?? "";
     if (!slug) continue;
     const pos = focalToObjectPosition(info.focal);
     out.push({ id, name: person.displayName ?? id, photo: info.url, slug, objectPosition: pos !== "50% 50%" ? pos : undefined });
-    if (out.length >= 8) break;
   }
   return out;
 }
@@ -61,7 +64,7 @@ export default function HomePage() {
   const totalPeople = Object.keys(tree.people).length;
   const totalUnions = Object.keys(tree.unions).length;
   const personPageCount = countBiographicalPersonPages();
-  const featured = getFeaturedPhotos();
+  const allPortraits = getAllPortraits();
   const narrativeSlides = getNarrativeSlides();
   const siteSearchItems = getSiteSearchItems();
 
@@ -111,27 +114,8 @@ export default function HomePage() {
       {/* Narrative carousel */}
       <NarrativeCarousel slides={narrativeSlides} />
 
-      {/* Featured portraits */}
-      {featured.length > 0 && (
-        <section className="border-b border-zinc-100 bg-zinc-50/50 py-12">
-          <div className="mx-auto max-w-6xl px-4">
-            <h2 className="mb-6 text-xs font-semibold uppercase tracking-widest text-zinc-400">Portraits from the archive</h2>
-            <div className="flex gap-5 overflow-x-auto pb-2">
-              {featured.map((f) => (
-                <Link key={f.id} href={`/people/${f.slug}`} className="group flex-none">
-                  <div className="h-28 w-28 overflow-hidden rounded-full border-2 border-white shadow-md transition group-hover:shadow-lg group-hover:ring-2 group-hover:ring-sky-300">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={f.photo} alt={f.name} className="h-full w-full object-cover" style={f.objectPosition ? { objectPosition: f.objectPosition } : undefined} />
-                  </div>
-                  <p className="mt-2 max-w-28 text-center text-xs font-medium leading-tight text-zinc-700 group-hover:text-sky-700">
-                    {f.name}
-                  </p>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
+      {/* Featured portraits — randomized on each visit */}
+      <RandomizedPortraits portraits={allPortraits} />
 
       {/* Quick links grid */}
       <section className="py-14">

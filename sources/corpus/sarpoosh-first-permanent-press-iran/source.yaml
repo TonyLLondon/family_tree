@@ -1,0 +1,13 @@
+id: sarpoosh-first-permanent-press-iran
+title: 'Sarpoosh: First Permanent Press in Iran (Iranian press history)'
+remote:
+  webpage_url: https://www.sarpoosh.com/calendar/history-calendar/first-permanentpress-iran.html
+fetches:
+- kind: web
+  at: '2026-03-25T19:43:06Z'
+  remote_url: https://www.sarpoosh.com/calendar/history-calendar/first-permanentpress-iran.html
+  sha256: f84100d2be009cbe13a149b1b77a2922d814dc19b088390d496c46a9418efc36
+  bytes: 111767
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

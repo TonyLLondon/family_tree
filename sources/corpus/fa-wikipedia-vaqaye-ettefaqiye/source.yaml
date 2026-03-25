@@ -1,0 +1,12 @@
+id: fa-wikipedia-vaqaye-ettefaqiye
+remote:
+  webpage_url: https://fa.wikipedia.org/wiki/%D9%88%D9%82%D8%A7%DB%8C%D8%B9_%D8%A7%D8%AA%D9%81%D8%A7%D9%82%DB%8C%D9%87
+fetches:
+- kind: web
+  at: '2026-03-25T19:35:17Z'
+  remote_url: https://fa.wikipedia.org/wiki/%D9%88%D9%82%D8%A7%DB%8C%D8%B9_%D8%A7%D8%AA%D9%81%D8%A7%D9%82%DB%8C%D9%87
+  sha256: dbfc823ad6f4dfdd56c950b3a356bbd9523e9c62decc8d1b35e99dfcbac441b1
+  bytes: 119849
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

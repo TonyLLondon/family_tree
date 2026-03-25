@@ -27,3 +27,24 @@ body {
 h1, h2, h3 {
   font-family: var(--font-serif), Georgia, serif;
 }
+
+/* Zinc prose palette — explicit override because @tailwindcss/typography
+   0.5.x prose-zinc modifier doesn't reliably set these under Tailwind v4. */
+.prose {
+  --tw-prose-body: #3f3f46;
+  --tw-prose-headings: #18181b;
+  --tw-prose-lead: #52525b;
+  --tw-prose-links: #18181b;
+  --tw-prose-bold: #18181b;
+  --tw-prose-counters: #71717a;
+  --tw-prose-bullets: #a1a1aa;
+  --tw-prose-quotes: #27272a;
+  --tw-prose-quote-borders: #e4e4e7;
+  --tw-prose-code: #18181b;
+  --tw-prose-pre-code: #e4e4e7;
+  --tw-prose-pre-bg: #27272a;
+  --tw-prose-hr: #e4e4e7;
+  --tw-prose-th-borders: #d4d4d8;
+  --tw-prose-td-borders: #e4e4e7;
+  --tw-prose-captions: #71717a;
+}

@@ -33,6 +33,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Edward:** British; **1810–1855**; merchant, translator, official in Persia; arrived **1831** (never left); by **1844** magistrate near **Tabriz**, translator for **Prince Bahman Mirza**; later royal/intellectual circles under Qajar princes; **d. 1855** en route **Tehran ↔ Tabriz**; left **infant** [Fanny](../people/fanny-burgess.md).
   - **Institutional threads:** Princely administration & translation; British commercial-official presence in Qajar Iran.
   - **Sources:** [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md), [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md), [obrien-roche-notes.md](../sources/obrien-roche-notes.md).
+  - **Narrative:** [The Most All-Loved Person — Edward Burgess in Qajar Persia](../narratives/edward-burgess-persia.md) — full life arc (scrollytelling).
 
 - **[Tamar Saginian](../people/tamar-saginian.md)** — **m.** **[Dr. William Cormick](../people/william-cormick.md)** *(parallel Saginian–court line, same network as Anna)*
   - **Tamar:** Sister of Anna; vitals **unknown** in vault; **not** a separate “main trunk” from Anna in narrative terms — same **Saginian family network**, different court channel.

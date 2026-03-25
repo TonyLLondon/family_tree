@@ -9,6 +9,7 @@ export type Person = {
   deathDate?: string;
   birthPlace?: string;
   deathPlace?: string;
+  burialPlace?: string;
   alsoKnownAs?: string[];
 };
 

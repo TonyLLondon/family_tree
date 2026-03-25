@@ -29,8 +29,9 @@ Daughter of [Anna Saginian](anna-saginian.md) and [Edward Burgess](edward-burges
 
 ## Life
 
-- **9 Jun 1854** — Born in Tehran ([Henderson FBB Timeline](../sources/henderson-fbb-timeline.md)).
-- **1855** — Father [Edward Burgess](edward-burgess.md) died aged 45 on the Tehran–Tabriz road. Mother [Anna](anna-saginian.md) took Fanny to London to see grandfather [Henry Burgess](henry-burgess.md), who could not support them; they returned to Tehran.
+- **9 Jun 1854** — Born in Tehran ([Henderson FBB Timeline](../sources/henderson-fbb-timeline.md)). Godfather: **Ronald Thompson** (British mission), who had also been godfather to her elder brother **John** (born ~1852, died at 18 months). Both children baptised at home according to Armenian rites.
+- **~Late 1854** — Had smallpox as an infant; recovered (Edward's letter).
+- **1855** — Father [Edward Burgess](edward-burgess.md) died in Tabriz after a nearly three-month takhteravan journey from Tehran. Anna's account: *"When Fanny was three days past one year old, he died"* (~12 Jun 1855). Edward's last wish: take Fanny to his father in England and *"be sure she is put to learn the English so soon as she can speak."* Mother [Anna](anna-saginian.md) took Fanny to London to see grandfather [Henry Burgess](henry-burgess.md), who could not support them; they returned to Tehran.
 - **1862–65** — Anna and Fanny moved to **Urmia** (Oorumiah) near Tabriz to learn English from the American Nestorian Missionaries.
 - **1865** — Lived in Tabriz with uncle [Dr William Cormick](william-cormick.md) and aunt [Tamar](tamar-saginian.md); then moved back to Tehran when the Cormicks left for England.
 - **1880** — Travelled to England with Anna; stayed with Burgess relatives in London and Bedford. **March** — Anna's interview recorded in Leicester (see [NYPL Burgess appendix](../sources/nypl-burgess-appendix-anna-interview.md)).

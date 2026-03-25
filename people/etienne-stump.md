@@ -48,7 +48,7 @@ generation: 4
 - Parents: [Marc Francois Stump](marc-francois-stump.md); [Olga Caroline Erbe](olga-caroline-erbe.md).
 - First wife: [Henriette Bottin Burgess](henriette-bottin.md) — **not** [Fanny Burgess](fanny-burgess.md).
 - Second wife: [Vera Obolensky](vera-obolensky.md) (née Nemtchinova; previously married to Prince Yuri Obolensky) — Russian émigré who managed the **Mahmoudieh guesthouse** (40+ rooms) on Stump's estate in the 1920s; later became his wife (date unknown). Source: Georges Obolensky, *Forever Russian* (2015).
-- Children include [Robert Marc Murard Stump](robert-marc-murard-stump.md) (plus siblings per **F6** in [family-tree.json](../family-tree.json)).
+- Children: [Robert Marc Murard Stump](robert-marc-murard-stump.md) (`@I11@`), [Theodore Stump](theodore-stump.md) (`@I394@`), [Irene Stump](irene-stump.md) (`@I397@`, "Loulou"), [Jacques Stump](jacques-stump.md) (`@I395@`), [Jean Stump](jean-stump.md) (`@I396@`) — per **F6** in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
@@ -65,6 +65,7 @@ generation: 4
 - [Archive catalog](../archive/index.md).
 - [*Forever Russian* — Stump extract (Henderson)](../sources/forever-russian-stump-extract.md) — typed extract from Georges Obolensky's memoir ([corpus](../sources/corpus/forever-russian-stump-extract/)).
 - [Henderson Burgess-Stump Family Tree](../sources/henderson-burgess-stump-family-tree.md) — multi-sheet spreadsheet ([corpus](../sources/corpus/henderson-burgess-stump-family-tree/)).
+- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection one-page pedigree ([corpus](../sources/corpus/stump-family-tree-c3cb58201a/)).
 - [NYT death notice — Vera Obolensky (14 Nov 1974)](../sources/corpus/vera-obolensky-death-notice-nytimes-2644e85dac/) · ["Princess Obolensky" (ProQuest)](../sources/corpus/princess-obolensky-abbcc58ed8/) — evidence for Vera's connection and the guesthouse.
 - [Portrait — Vera & Georges, c. 1920s](../media/collections/stump-etienne/vera-obolensky-and-georges.png).
 

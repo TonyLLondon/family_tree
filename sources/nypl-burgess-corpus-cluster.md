@@ -17,7 +17,7 @@ Machine-ingested bundles for **NYPL Burgess family papers** / **Persian Letters*
 
 ## Full volume, scans, plates
 
-- [corpus/burgess-persian-letters-full-volume/](corpus/burgess-persian-letters-full-volume/)
+- [corpus/burgess-persian-letters-full-volume/](corpus/burgess-persian-letters-full-volume/) — `extracted.pdf.md` is doubled-text garbage (pymupdf4llm vs two-column layout); use **`transcription.md`** instead.
 - [corpus/burgess-persian-letters-related-book-pages-farsi-1cfe80be9e/](corpus/burgess-persian-letters-related-book-pages-farsi-1cfe80be9e/) · [part 2](corpus/burgess-persian-letters-related-book-pages-farsi-2ad8043198/)
 - [corpus/burgess-persian-letters-hardcover-binding-photos-4917265609/](corpus/burgess-persian-letters-hardcover-binding-photos-4917265609/)
 - [corpus/burgess-anna-and-fanny-plate-nypl-collection-sca-34e01f8afe/](corpus/burgess-anna-and-fanny-plate-nypl-collection-sca-34e01f8afe/)

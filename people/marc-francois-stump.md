@@ -16,6 +16,10 @@ mother: jeanne-benigne-montagnon
 spouses:
   - olga-caroline-erbe
 children:
+  - jean-jacque-stump
+  - arthur-roger-stump
+  - marguerite-emilie-stump
+  - antoinette-stump
   - etienne-stump
 ---
 
@@ -44,7 +48,7 @@ His wife [Olga Caroline Erbe](olga-caroline-erbe.md) brings a **Baltic German** 
 ### Marriage and children
 
 - **22 June 1868** — Married **Olga Caroline Erbe** in **Tallinn**; both resident there (EBC; matches **F70**).
-- **Children:** full list with Tallinn Dome register detail in the same report — [Étienne Stump](etienne-stump.md); siblings **Jean Jacque** (d. young **1874**), **Arthur Roger** (later Moscow / Berlin), **Marguerite Emilie** (m. **von Frey**), **Antoinette** (d. **1881**). Align these with **@I398@–@I401@** in [family-tree.json](../family-tree.json) only after ID-by-ID confirmation.
+- **Children (all five known, per EBC):** [Jean Jacque Stump](jean-jacque-stump.md) (**I398**, d. **1874**); [Arthur Roger Stump](arthur-roger-stump.md) (**I399**, d. **1935** Berlin); [Marguerite Emilie Stump](marguerite-emilie-stump.md) (**I400**, m. [von Frey](cuno-von-frey.md)); [Antoinette Stump](antoinette-stump.md) (**I401**, d. **1881**); [Étienne Stump](etienne-stump.md) (**I16**).
 
 ### Death
 
@@ -55,7 +59,7 @@ His wife [Olga Caroline Erbe](olga-caroline-erbe.md) brings a **Baltic German** 
 
 - Parents: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md) (**F71**).
 - Wife: [Olga Caroline Erbe](olga-caroline-erbe.md).
-- Children include [Étienne Stump](etienne-stump.md) (`@I16@`) and siblings per **F70** and the EBC register extract.
+- Children: [Jean Jacque Stump](jean-jacque-stump.md) (`@I398@`), [Arthur Roger Stump](arthur-roger-stump.md) (`@I399@`), [Marguerite Emilie Stump](marguerite-emilie-stump.md) (`@I400@`), [Antoinette Stump](antoinette-stump.md) (`@I401@`), [Étienne Stump](etienne-stump.md) (`@I16@`) — per **F70** and the EBC register extract.
 
 ## Evidence
 
@@ -63,6 +67,7 @@ His wife [Olga Caroline Erbe](olga-caroline-erbe.md) brings a **Baltic German** 
 - **Tallinn / Tartu / court documentation (commissioned digest):** [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) — PDF + [machine extract](../sources/corpus/estonian-biographical-center-stump-family-resear-856c90185e/extracted.pdf.md).
 - GEDCOM **`@I140@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - FamilySearch bundle text in GEDCOM: **Schweiz Taufen** ark `/61903/1:1:FVFK-CQH` (Markus Franz Stump, 1834).
+- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection one-page pedigree ([corpus](../sources/corpus/stump-family-tree-c3cb58201a/)).
 - [family-tree.json](../family-tree.json) — topology only.
 - **Son’s household (visual, 1909):** album page with [Étienne](etienne-stump.md) and [Henriette](henriette-bottin.md) — [JPEG](../media/docs/Album%20page%201909%20Henriette%20Etienne%20Stump%20five%20vintage%20photos%20note.jpg).
 
@@ -70,5 +75,4 @@ His wife [Olga Caroline Erbe](olga-caroline-erbe.md) brings a **Baltic German** 
 
 - **Single best Swiss birth image** reconciling **Erlen 10 Mar 1834** vs **Yverdon 16 Feb 1834** (and possible duplicate person).
 - **Swiss civil death record** for **April 1903** at **Yverdon-les-Bains** vs any **Tallinn** burial entry.
-- Siblings **@I398@–@I401@** — map each to EBC names (Arthur, Marguerite, etc.) in `family-tree.json` and person files.
 - **Tallinn real-estate bundle** (eight files noted in EBC) for property boundaries and co-owners.

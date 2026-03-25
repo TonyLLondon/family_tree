@@ -1,0 +1,958 @@
+{
+  "Aberdare, Merthyr Tydfil, Glamorganshire, Wales": {
+    "lat": 51.713353,
+    "lng": -3.445555
+  },
+  "Abersychan, Monmouthshire, Wales": {
+    "lat": 51.7284015,
+    "lng": -3.0595405
+  },
+  "Ambleside, Westmorland, England, United Kingdom": {
+    "lat": 54.431954,
+    "lng": -2.9630528
+  },
+  "Ballina, County Kildare, Ireland": {
+    "lat": 53.4117177,
+    "lng": -6.9130544
+  },
+  "Ballynastra, Ireland": {
+    "lat": 52.18,
+    "lng": -7.5
+  },
+  "Bath, Somerset, England": {
+    "lat": 51.3813864,
+    "lng": -2.3596963
+  },
+  "Bedfordshire": {
+    "lat": 52.0640034,
+    "lng": -0.4111138
+  },
+  "Berlin, Germany": {
+    "lat": 52.5173885,
+    "lng": 13.3951309
+  },
+  "Bicester, Oxfordshire, England, Great Britain": {
+    "lat": 51.9003,
+    "lng": -1.1517
+  },
+  "Borwick, Lancaster, Lancashire, England, United Kingdom": {
+    "lat": 54.1514489,
+    "lng": -2.727865
+  },
+  "Brathay, Lancashire, England": {
+    "lat": 54.0069503,
+    "lng": -2.786969
+  },
+  "Brescia, Lombardy, Italy": {
+    "lat": 45.7795805,
+    "lng": 10.425873
+  },
+  "Brickfield, Limerick, Ireland": {
+    "lat": 52.3522056,
+    "lng": -8.5844618
+  },
+  "Brighton and Hove, Sussex, England, United Kingdom": {
+    "lat": 50.8236947,
+    "lng": -0.1729701
+  },
+  "Brighton, Brighton and Hove, England, United Kingdom": {
+    "lat": 50.8214626,
+    "lng": -0.1400561
+  },
+  "Brighton, England": {
+    "lat": 50.8214626,
+    "lng": -0.1400561
+  },
+  "Brighton, Sussex": {
+    "lat": 50.8229,
+    "lng": -0.1363
+  },
+  "Buchackern, Thurgau, Switzerland": {
+    "lat": 47.5390279,
+    "lng": 9.232467
+  },
+  "Burneshead, Westmorland, England": {
+    "lat": 54.34,
+    "lng": -2.76
+  },
+  "Burneside, Westmorland, England": {
+    "lat": 54.3555182,
+    "lng": -2.767351
+  },
+  "Burton-in-wirral, Cheshire, England": {
+    "lat": 53.2625398,
+    "lng": -3.0226001
+  },
+  "Camden, London, England": {
+    "lat": 51.5427966,
+    "lng": -0.1624803
+  },
+  "Carlow Town, County Carlow, Ireland": {
+    "lat": 52.8408344,
+    "lng": -6.9261131
+  },
+  "Carlow, Carlow, County Carlow, Ireland": {
+    "lat": 52.8408344,
+    "lng": -6.9261131
+  },
+  "Carnforth, Lancaster, Lancashire, England, United Kingdom": {
+    "lat": 54.1282092,
+    "lng": -2.7701207
+  },
+  "Cartmel, Lancashire, England": {
+    "lat": 54.0033425,
+    "lng": -2.7885071
+  },
+  "Castletown, County Cork, Ireland": {
+    "lat": 51.7695133,
+    "lng": -8.9532641
+  },
+  "Cattaro, Dalmatia": {
+    "lat": 42.4247,
+    "lng": 18.7712
+  },
+  "Cattaro, Dalmatia, Austria": {
+    "lat": 42.4247,
+    "lng": 18.7712
+  },
+  "Catterick, Yorkshire, England, United Kingdom": {
+    "lat": 54.3774754,
+    "lng": -1.6314843
+  },
+  "Chanco, Cauquenes, Maule, Chile": {
+    "lat": -35.7341836,
+    "lng": -72.5331642
+  },
+  "Charterhouse St Thomas, Middlesex, England, United Kingdom": {
+    "lat": 51.523,
+    "lng": -0.099
+  },
+  "Chicago, Illinois, USA": {
+    "lat": 41.8755616,
+    "lng": -87.6244212
+  },
+  "Chile": {
+    "lat": -31.7613365,
+    "lng": -71.3187697
+  },
+  "Chinsali, Northern Rhodesia": {
+    "lat": -10.5563,
+    "lng": 32.0817
+  },
+  "Chipata, Eastern, Zambia": {
+    "lat": -13.6391314,
+    "lng": 32.6458437
+  },
+  "Clare, Ireland": {
+    "lat": 53.4349073,
+    "lng": -8.8627219
+  },
+  "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex": {
+    "lat": 51.5246,
+    "lng": -0.105
+  },
+  "Cork, County Cork, Ireland": {
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  "County Carlow, Ireland": {
+    "lat": 52.6906096,
+    "lng": -6.8249424
+  },
+  "County Cork, Ireland": {
+    "lat": 51.9175359,
+    "lng": -8.5859773
+  },
+  "County Limerick, Ireland": {
+    "lat": 52.5188317,
+    "lng": -8.7958347
+  },
+  "County Waterford, Ireland": {
+    "lat": 52.1509131,
+    "lng": -7.6577982
+  },
+  "County Wicklow, Ireland": {
+    "lat": 52.9582099,
+    "lng": -6.3814208
+  },
+  "Croatia": {
+    "lat": 45.3658443,
+    "lng": 15.6575209
+  },
+  "Curwarragher, County Cork, Ireland": {
+    "lat": 51.85,
+    "lng": -8.55
+  },
+  "Dorogobuzh, Russia": {
+    "lat": 54.9148236,
+    "lng": 33.2989051
+  },
+  "Dowlais, Glamorganshire, Wales, United Kingdom": {
+    "lat": 51.7625134,
+    "lng": -3.3555584
+  },
+  "Dublin, Ireland": {
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  "Durham, Durham, England": {
+    "lat": 54.7770139,
+    "lng": -1.5756205
+  },
+  "East Riding, Yorkshire, England": {
+    "lat": 54.1781203,
+    "lng": -0.5328006
+  },
+  "East Sheen Cemetery, London SW14": {
+    "lat": 51.46,
+    "lng": -0.27
+  },
+  "Eaton Ford, Bedfordshire, England": {
+    "lat": 52.2262531,
+    "lng": -0.2787842
+  },
+  "Eaton Socon, Bedfordshire, England, United Kingdom": {
+    "lat": 52.2185251,
+    "lng": -0.2902974
+  },
+  "Edmonton, Middlesex, England, United Kingdom": {
+    "lat": 51.6268085,
+    "lng": -0.0772524
+  },
+  "England": {
+    "lat": 52.5310214,
+    "lng": -1.2649062
+  },
+  "England, United Kingdom": {
+    "lat": 52.5310214,
+    "lng": -1.2649062
+  },
+  "Erlen, Thurgau, Switzerland": {
+    "lat": 47.5504462,
+    "lng": 9.2254631
+  },
+  "Esthwaite, Lancashire, England": {
+    "lat": 54.0528183,
+    "lng": -2.785823
+  },
+  "Estonia": {
+    "lat": 58.7523778,
+    "lng": 25.3319078
+  },
+  "Eynesbury, Huntingdonshire, England, United Kingdom": {
+    "lat": 52.2177279,
+    "lng": -0.2644645
+  },
+  "Fellin": {
+    "lat": 58.36454,
+    "lng": 25.5878074
+  },
+  "Fellin=Viljandi, Viljandi Parish, Viljandi County, Estonia": {
+    "lat": 58.3545396,
+    "lng": 25.5766157
+  },
+  "Florence, Italy": {
+    "lat": 43.7697955,
+    "lng": 11.2556404
+  },
+  "Fort Jameson, Northern Rhodesia": {
+    "lat": -13.6391,
+    "lng": 32.6458
+  },
+  "France": {
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  "Genoa, Metropolitan City of Genoa, Liguria, Italy": {
+    "lat": 44.40726,
+    "lng": 8.9338624
+  },
+  "Georgia": {
+    "lat": 41.7151,
+    "lng": 44.8271
+  },
+  "Germany": {
+    "lat": 51.1638175,
+    "lng": 10.4478313
+  },
+  "Glamorganshire, Wales, United Kingdom": {
+    "lat": 51.5272451,
+    "lng": -3.2476242
+  },
+  "Gotha, Thüringen, Germany": {
+    "lat": 50.9494849,
+    "lng": 10.7014435
+  },
+  "Great Honeyborough, Essex": {
+    "lat": 51.7,
+    "lng": 0.7
+  },
+  "Haapsalu Linn, Haapsalu linn, Estonia": {
+    "lat": 58.9399019,
+    "lng": 23.5414798
+  },
+  "Haggers": {
+    "lat": 59.1598653,
+    "lng": 24.6555173
+  },
+  "Haiba'scher Krug, Haggers, Livland, Estonia": {
+    "lat": 59.2833,
+    "lng": 24.85
+  },
+  "Hailston, Westmorland, England": {
+    "lat": 54.36,
+    "lng": -2.75
+  },
+  "Hailweston, Hunts, England": {
+    "lat": 52.24,
+    "lng": -0.29
+  },
+  "Hammersmith, Fulham, London & Middlesex, England, London, Middlesex": {
+    "lat": 51.4927,
+    "lng": -0.2248
+  },
+  "Harpenden, Hertfordshire, England, United Kingdom": {
+    "lat": 51.8145103,
+    "lng": -0.3549311
+  },
+  "Hawkshead, Lancashire, England": {
+    "lat": 54.0374685,
+    "lng": -2.5606127
+  },
+  "Hazeleigh, Essex, England": {
+    "lat": 51.7035788,
+    "lng": 0.6357905
+  },
+  "Heldswil, Thurgau, Switzerland": {
+    "lat": 47.5288554,
+    "lng": 9.2210437
+  },
+  "Hendon, Middlesex, England": {
+    "lat": 51.5897175,
+    "lng": -0.2216026
+  },
+  "Hertfordshire, England, United Kingdom": {
+    "lat": 51.8400523,
+    "lng": -0.0978552
+  },
+  "Holborn, London, England": {
+    "lat": 51.5195982,
+    "lng": -0.1137266
+  },
+  "Holloway, Middlesex, England": {
+    "lat": 51.5572453,
+    "lng": -0.1183706
+  },
+  "Hove, The City of Brighton and Hove, England, United Kingdom": {
+    "lat": 50.8286917,
+    "lng": -0.1745744
+  },
+  "Hugill, Westmorland": {
+    "lat": 54.3777675,
+    "lng": -2.8193614
+  },
+  "Hüttwilen, Thurgau, Switzerland": {
+    "lat": 47.6073934,
+    "lng": 8.8719223
+  },
+  "Iran": {
+    "lat": 32.6475314,
+    "lng": 54.5643516
+  },
+  "Ireland": {
+    "lat": 52.865196,
+    "lng": -7.9794599
+  },
+  "Isfahan, Iran": {
+    "lat": 32.6707877,
+    "lng": 51.6650002
+  },
+  "Islington, London, England": {
+    "lat": 51.5384287,
+    "lng": -0.0999051
+  },
+  "Islington, London, England, United Kingdom": {
+    "lat": 51.5384287,
+    "lng": -0.0999051
+  },
+  "Ivanovo, Russia": {
+    "lat": 56.9956855,
+    "lng": 40.9812104
+  },
+  "Jabalpur, Bengal, India": {
+    "lat": 23.1701522,
+    "lng": 79.9324505
+  },
+  "Jabalpur, India": {
+    "lat": 23.1701522,
+    "lng": 79.9324505
+  },
+  "Kendal, Cumbria, England, United Kingdom": {
+    "lat": 54.3284477,
+    "lng": -2.7464682
+  },
+  "Kendal, Westmorland, England": {
+    "lat": 54.3284477,
+    "lng": -2.7464682
+  },
+  "Khabarovsk, Russia": {
+    "lat": 51.6312684,
+    "lng": 136.121524
+  },
+  "Kilkenny, County Kilkenny, Ireland": {
+    "lat": 52.6506255,
+    "lng": -7.2514438
+  },
+  "Kingston Upon Thames, Surrey, England": {
+    "lat": 51.3757399,
+    "lng": -0.3074257
+  },
+  "Kirbla Parish, Lääne County, Estonia": {
+    "lat": 58.7833,
+    "lng": 23.75
+  },
+  "Kirbla kirikumõis (Pastorat Kirrefer), Kirbla Parish, Lääne County, Estonia": {
+    "lat": 58.7833,
+    "lng": 23.75
+  },
+  "Kirkenewton, Fowberry, Northumberland, England": {
+    "lat": 55.57,
+    "lng": -2.09
+  },
+  "Kirrefer": {
+    "lat": 58.7833,
+    "lng": 23.75
+  },
+  "Kirrefer, Livland, Estonia": {
+    "lat": 58.4667,
+    "lng": 25.5833
+  },
+  "Lambeth, Surrey, England": {
+    "lat": 51.4952111,
+    "lng": -0.1163354
+  },
+  "Lausanne, Switzerland": {
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  "Layer Breton, Essex": {
+    "lat": 51.8211609,
+    "lng": 0.8234536
+  },
+  "Layton, Durham, England": {
+    "lat": 54.6297093,
+    "lng": -1.4075536
+  },
+  "Leal": {
+    "lat": 58.6846,
+    "lng": 23.8324
+  },
+  "Leicester, England": {
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  "Leicestershire, England, United Kingdom": {
+    "lat": 52.666667,
+    "lng": -1.0
+  },
+  "Lihula, Lihula Parish, Lääne County, Estonia": {
+    "lat": 58.6850508,
+    "lng": 23.8287566
+  },
+  "Lihula=Leal, Lääne County, Estonia": {
+    "lat": 58.6846426,
+    "lng": 23.8324163
+  },
+  "Limerick City, County Limerick, barony of Connello Lower, Munster": {
+    "lat": 52.6485961,
+    "lng": -8.4523188
+  },
+  "Limerick, County Limerick, Ireland": {
+    "lat": 52.661252,
+    "lng": -8.6301239
+  },
+  "Limerick, Munster, Ireland": {
+    "lat": 52.661252,
+    "lng": -8.6301239
+  },
+  "Little Paxton, Huntingdonshire, England, United Kingdom": {
+    "lat": 52.2512629,
+    "lng": -0.2579882
+  },
+  "Livingstone, Northern Rhodesia": {
+    "lat": -17.8419,
+    "lng": 25.8544
+  },
+  "Llanfair, Carmarthenshire, Wales": {
+    "lat": 52.0542539,
+    "lng": -3.7341364
+  },
+  "Llansamlet, Glamorgan, Wales, United Kingdom": {
+    "lat": 51.6630036,
+    "lng": -3.8993899
+  },
+  "London, England": {
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  "London, Middlesex, England": {
+    "lat": 51.5155075,
+    "lng": -0.0747648
+  },
+  "Los Gatos, California, United States": {
+    "lat": 37.226611,
+    "lng": -121.9746797
+  },
+  "Lusaka, Zambia": {
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  "Luton, Bedfordshire, England, United Kingdom": {
+    "lat": 51.9059247,
+    "lng": -0.3940818
+  },
+  "Lääne County, Estonia": {
+    "lat": 59.0980207,
+    "lng": 23.5715832
+  },
+  "Macclesfield, United Kingdom": {
+    "lat": 53.2603115,
+    "lng": -2.1255111
+  },
+  "Madras, India": {
+    "lat": 13.0836939,
+    "lng": 80.270186
+  },
+  "Maesyffynnon, Aberaman, Glamorganshire, Wales": {
+    "lat": 51.7139,
+    "lng": -3.43
+  },
+  "Maldon, Essex, England, United Kingdom": {
+    "lat": 51.731198,
+    "lng": 0.6791849
+  },
+  "Marylebone, Middlesex, England, United Kingdom": {
+    "lat": 51.5196374,
+    "lng": -0.1519627
+  },
+  "Merthyr Tydfil, Glamorgan, Wales": {
+    "lat": 51.7455659,
+    "lng": -3.3786082
+  },
+  "Merthyr Tydfil, Glamorgan, Wales, United Kingdom": {
+    "lat": 51.7455659,
+    "lng": -3.3786082
+  },
+  "Merthyr Tydfil, Glamorganshire, Wales": {
+    "lat": 51.7455659,
+    "lng": -3.3786082
+  },
+  "Middlesex, England, United Kingdom": {
+    "lat": 51.5460558,
+    "lng": -0.2537791
+  },
+  "Millbeck, Cumberland, England": {
+    "lat": 54.6247001,
+    "lng": -3.1527678
+  },
+  "Monkstown, County Cork, Ireland": {
+    "lat": 51.8483695,
+    "lng": -8.3333967
+  },
+  "Morges, Switzerland": {
+    "lat": 46.5093268,
+    "lng": 6.498317
+  },
+  "Moscow, Russia": {
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  "Mount Cashel, Clare, Ireland": {
+    "lat": 52.4485987,
+    "lng": -8.2371595
+  },
+  "Moyvanine and Clounties, Limerick, Ireland": {
+    "lat": 52.5,
+    "lng": -8.75
+  },
+  "Ndola, Northern Rhodesia": {
+    "lat": -12.9587,
+    "lng": 28.6366
+  },
+  "Neath, Glamorgan, Wales": {
+    "lat": 51.6628422,
+    "lng": -3.8039117
+  },
+  "Neesham, Durham, England, United Kingdom": {
+    "lat": 54.3114444,
+    "lng": -1.6815144
+  },
+  "North Yorkshire, England, United Kingdom": {
+    "lat": 54.1345328,
+    "lng": -1.4986285
+  },
+  "Novgorod, Russia": {
+    "lat": 58.5209862,
+    "lng": 31.2757862
+  },
+  "Ohrdruf, Germany": {
+    "lat": 50.8270085,
+    "lng": 10.7319499
+  },
+  "Ohrdruf, Gotha, Germany": {
+    "lat": 50.8270085,
+    "lng": 10.7319499
+  },
+  "Orest Head, Westmorland, England": {
+    "lat": 54.37,
+    "lng": -2.91
+  },
+  "Oxfordshire, England, United Kingdom": {
+    "lat": 51.833333,
+    "lng": -1.25
+  },
+  "Pago, Zara, Dalmatia, Austria": {
+    "lat": 44.44,
+    "lng": 15.05
+  },
+  "Palermo, Palermo, Sicily, Italy": {
+    "lat": 38.1112268,
+    "lng": 13.3524434
+  },
+  "Palmanova, Udine, Friuli-Venezia Giulia, Italy": {
+    "lat": 45.9054635,
+    "lng": 13.3099318
+  },
+  "Paris, France": {
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  "Parral, Linares, Maule, Chile": {
+    "lat": -36.1414293,
+    "lng": -71.8222221
+  },
+  "Pernau, Kreis Pernau, Livland, Russiches": {
+    "lat": 58.3859,
+    "lng": 24.4971
+  },
+  "Pery, Limerick, Ireland": {
+    "lat": 52.6597025,
+    "lng": -8.6278932
+  },
+  "Purleigh, Essex, England, United Kingdom": {
+    "lat": 51.6724344,
+    "lng": 0.695894
+  },
+  "Pärnu, Pärnu linn, Estonia": {
+    "lat": 58.3870833,
+    "lng": 24.502831
+  },
+  "Rakvere (Wesenberg), Lääne-Viru County, Estonia": {
+    "lat": 59.3578138,
+    "lng": 26.3656267
+  },
+  "Rakvere Linn, Estonia": {
+    "lat": 59.3482229,
+    "lng": 26.3617173
+  },
+  "Reval": {
+    "lat": 59.437,
+    "lng": 24.7536
+  },
+  "Reval (Tallinn), Harju County, Estonia": {
+    "lat": 59.433952,
+    "lng": 24.7519879
+  },
+  "Reval (Tallinn), Harjumaa": {
+    "lat": 59.437,
+    "lng": 24.7536
+  },
+  "Reval, Estonia": {
+    "lat": 59.437242,
+    "lng": 24.7572693
+  },
+  "Richmond, Surrey, England": {
+    "lat": 51.4613,
+    "lng": -0.3037
+  },
+  "Riga": {
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  "Rome, Italy": {
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  "Rīga, Rīga, Vidzeme, Latvia": {
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  "Rīga, Vidzeme, Latvia": {
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  "Sabratha, Libya": {
+    "lat": 32.8052487,
+    "lng": 12.4852025
+  },
+  "Saint Barthélemy, Nice, France": {
+    "lat": 43.7186404,
+    "lng": 7.2532623
+  },
+  "Saint Petersburg, Russia": {
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  "Santa Margherita Ligure, Liguria, Italia": {
+    "lat": 44.3339761,
+    "lng": 9.2111267
+  },
+  "Santa Margherita Ligure, Liguria, Italy": {
+    "lat": 44.3339761,
+    "lng": 9.2111267
+  },
+  "Scarnagh Cross Roads, County Wexford, Ireland": {
+    "lat": 52.7559733,
+    "lng": -6.2098032
+  },
+  "Schweinau": {
+    "lat": 49.4343552,
+    "lng": 11.0483933
+  },
+  "Senj, Lika-Senj, Croatia": {
+    "lat": 45.0047939,
+    "lng": 14.9263298
+  },
+  "Shap, Westmorland, England": {
+    "lat": 54.530024,
+    "lng": -2.6770774
+  },
+  "Shepton Mallet, Somerset, England": {
+    "lat": 51.1909451,
+    "lng": -2.5461298
+  },
+  "Shoreditch, Middlesex, England": {
+    "lat": 51.5266694,
+    "lng": -0.0798926
+  },
+  "Sirmione, Lake Garda, Italy": {
+    "lat": 45.4688,
+    "lng": 10.6078
+  },
+  "Sirmione, Province of Brescia, Lombardy, Italy": {
+    "lat": 45.4688494,
+    "lng": 10.6078237
+  },
+  "Sockburn, Durham, England": {
+    "lat": 54.458878,
+    "lng": -1.4620745
+  },
+  "Sockburn, Northumberland, England": {
+    "lat": 54.458878,
+    "lng": -1.4620745
+  },
+  "Sockburn, Yorkshire, England": {
+    "lat": 54.4586775,
+    "lng": -1.4552579
+  },
+  "Southend-on-Sea, Essex, England": {
+    "lat": 51.5388241,
+    "lng": 0.7128137
+  },
+  "Split, Općina Split, Split-Dalmatia County, Croatia": {
+    "lat": 43.5996932,
+    "lng": 16.5649953
+  },
+  "St Andrew's, Middlesex, England, United Kingdom": {
+    "lat": 51.5246,
+    "lng": -0.105
+  },
+  "St Neots, Huntingdonshire, England, United Kingdom": {
+    "lat": 52.22758,
+    "lng": -0.2703789
+  },
+  "St. Petersburg, Russia": {
+    "lat": 59.938732,
+    "lng": 30.316229
+  },
+  "Stevington, Bedfordshire, England": {
+    "lat": 52.1689009,
+    "lng": -0.5554407
+  },
+  "Stevington, Bedfordshire, England, Great Britain": {
+    "lat": 52.1689,
+    "lng": -0.5554
+  },
+  "Stevington, Bedfordshire, England, United Kingdom": {
+    "lat": 52.1689009,
+    "lng": -0.5554407
+  },
+  "Sulgen, Thurgau, Switzerland": {
+    "lat": 47.5452654,
+    "lng": 9.181648
+  },
+  "Surrey North Eastern, Surrey, England": {
+    "lat": 51.35,
+    "lng": -0.15
+  },
+  "T Knights, Essex": {
+    "lat": 51.5758126,
+    "lng": 0.436399
+  },
+  "Tabriz, Iran": {
+    "lat": 38.0738612,
+    "lng": 46.2978789
+  },
+  "Tabrīz, Iran": {
+    "lat": 38.0738612,
+    "lng": 46.2978789
+  },
+  "Talinn, Estonia": {
+    "lat": 59.437,
+    "lng": 24.7536
+  },
+  "Tallinn": {
+    "lat": 59.437242,
+    "lng": 24.7572693
+  },
+  "Tallinn, Estonia": {
+    "lat": 59.437242,
+    "lng": 24.7572693
+  },
+  "Tehran Protestant Cemetery": {
+    "lat": 35.706,
+    "lng": 51.423
+  },
+  "Tehran, Iran": {
+    "lat": 35.6892523,
+    "lng": 51.3896004
+  },
+  "Tehran, Persia": {
+    "lat": 35.6892523,
+    "lng": 51.3896004
+  },
+  "Thurgau, Switzerland": {
+    "lat": 47.5859649,
+    "lng": 9.1428769
+  },
+  "Tipperary, Munster, Ireland": {
+    "lat": 52.4734839,
+    "lng": -8.1614446
+  },
+  "Tolleshunt Knight, Essex, England": {
+    "lat": 51.7941,
+    "lng": 0.7911
+  },
+  "Tolleshunt Knights, Essex": {
+    "lat": 51.7940874,
+    "lng": 0.7910631
+  },
+  "Tralee, County Kerry, Ireland": {
+    "lat": 52.2692116,
+    "lng": -9.7057047
+  },
+  "Tralee, Kerry, Ireland": {
+    "lat": 52.2692116,
+    "lng": -9.7057047
+  },
+  "Trecastle, Brecknockshire, Wales": {
+    "lat": 51.950654,
+    "lng": -3.6299858
+  },
+  "Trieste, Friuli-Venezia Giulia, Italy": {
+    "lat": 45.6496485,
+    "lng": 13.7772781
+  },
+  "Trieste, Provincia di Trieste, Friuli-Venezia Giulia, Italy": {
+    "lat": 45.6496485,
+    "lng": 13.7772781
+  },
+  "Tripoli, Libya": {
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  "UK": {
+    "lat": 54.0,
+    "lng": -2.0
+  },
+  "Urmia, Iran": {
+    "lat": 37.548341,
+    "lng": 45.0667111
+  },
+  "Venice, Italy": {
+    "lat": 45.4371908,
+    "lng": 12.3345898
+  },
+  "Viljandi": {
+    "lat": 58.36454,
+    "lng": 25.5878074
+  },
+  "Viljandi (Fellin), Viljandi County, Estonia": {
+    "lat": 58.3545396,
+    "lng": 25.5766157
+  },
+  "Viljandi County, Estonia": {
+    "lat": 58.3229472,
+    "lng": 25.5824866
+  },
+  "Villars sur Ollon": {
+    "lat": 46.2977636,
+    "lng": 7.055331
+  },
+  "Vinodol, Croatia": {
+    "lat": 45.3458985,
+    "lng": 16.3322287
+  },
+  "Võnnu Parish, Tartu County, Estonia": {
+    "lat": 58.22,
+    "lng": 26.97
+  },
+  "Wakefield, All Saints, Yorkshire, England": {
+    "lat": 53.6829541,
+    "lng": -1.4967286
+  },
+  "Wales": {
+    "lat": 52.2928116,
+    "lng": -3.73893
+  },
+  "Wandsworth, London": {
+    "lat": 51.4570271,
+    "lng": -0.1932607
+  },
+  "Westmorland, England": {
+    "lat": 54.4406933,
+    "lng": -2.7167996
+  },
+  "Wexford, County Wexford, Ireland": {
+    "lat": 52.3272238,
+    "lng": -6.4758657
+  },
+  "Wigoltingen, Thurgau, Switzerland": {
+    "lat": 47.5967195,
+    "lng": 9.0320675
+  },
+  "Windermere, Westmorland": {
+    "lat": 54.3794828,
+    "lng": -2.9061994
+  },
+  "Yorkshire, England": {
+    "lat": 53.9825271,
+    "lng": -1.38525
+  },
+  "Yverdon-les-Bains, Switzerland": {
+    "lat": 46.7785711,
+    "lng": 6.6409158
+  },
+  "Zadar, Croatia": {
+    "lat": 44.1168594,
+    "lng": 15.2353257
+  },
+  "Zadar, Dalmatia": {
+    "lat": 44.1128312,
+    "lng": 15.2264693
+  },
+  "Zara, Dalmatia": {
+    "lat": 44.1194,
+    "lng": 15.2314
+  }
+}

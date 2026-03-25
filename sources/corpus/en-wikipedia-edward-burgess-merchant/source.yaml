@@ -1,0 +1,12 @@
+id: en-wikipedia-edward-burgess-merchant
+remote:
+  webpage_url: https://en.wikipedia.org/wiki/Edward_Burgess_(merchant)
+fetches:
+- kind: web
+  at: '2026-03-25T19:35:18Z'
+  remote_url: https://en.wikipedia.org/wiki/Edward_Burgess_(merchant)
+  sha256: 58d565d3041b43e36b9760c46832663b10b0bfa43b84e325a0354cbd415496eb
+  bytes: 75601
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

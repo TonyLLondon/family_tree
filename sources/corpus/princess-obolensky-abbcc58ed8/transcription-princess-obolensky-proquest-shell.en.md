@@ -1,15 +1,24 @@
-# “Princess Obolensky” — ProQuest / digitized periodical PDF
+# "Princess Obolensky" — NYT death notice via ProQuest
 
 **Artifact:** `media/collections/stump-etienne/Princess Obolensky.pdf` (see `source.yaml`).
 
-## Extraction status
+**Publication:** *The New York Times*, Thursday, November 14, 1974, p. 50 (obituaries/deaths page).
 
-The PDF text layer contains only the **ProQuest redistribution boilerplate** (“Reproduced with permission of the copyright owner…”). The article body is not exposed as extractable text, so `extracted.pdf.md` is intentionally a one-line stub.
+## Transcription
 
-## How to use this source
+> **PRINCESS OBOLENSKY**
+>
+> Princess Vera Obolensky, widow of Prince Yuri Obolensky, a relative of Tolstoy, died Nov. 6. She was 79 years old. A son, Georges, and two grandchildren survive.
 
-This bundle records that a **licensed database capture** exists in the vault. For quotations, dates, and publication metadata, read the PDF in a viewer or access the same item through your ProQuest (or library) subscription and cite that access path.
+## Notes
 
-## Vault hygiene
+This is the same five-line death notice held in the Henderson archive clipping (`corpus/vera-obolensky-death-notice-nytimes-2644e85dac/`). The ProQuest capture preserves the full NYT page at 150+ DPI; the Henderson capture is a physical-clipping scan.
 
-Do **not** paste full article text here without rights clearance; keep long quotes on person pages only when your use complies with database terms and fair dealing / fair use rules that apply to you.
+The PDF text layer contains only ProQuest boilerplate ("Reproduced with permission of the copyright owner…"). The transcription above was read visually from the page image.
+
+**Key facts:**
+- Vera described as widow of **Prince Yuri Obolensky**
+- Prince Yuri called "**a relative of Tolstoy**" — connects the Obolensky line to the Tolstoy family
+- Death date: **6 November [1974]**
+- Age at death: **79** (implies birth c. 1895)
+- Surviving: son **Georges** and **two grandchildren**

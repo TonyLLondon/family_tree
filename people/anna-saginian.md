@@ -28,9 +28,12 @@ Armenian daughter of [Daoud Khan Saginian](daoud-khan-saginian.md); with her sis
 
 ## Life
 
-- Daughter of **Daoud Khan** (also rendered David Saginian / “Mayor Khan” in English-language summaries).
-- **1851** — Married [Edward Burgess](edward-burgess.md); sources consistently identify her as Edward’s **Armenian wife**.
-- **1855** — Widowed when Edward died; daughter [Fanny Burgess](fanny-burgess.md) still an infant — the NYPL Burgess archive and Tehran grave evidence later document Fanny under the married form **“Fanny Burgess Bottin.”**
+- Daughter of **Daoud Khan Seguinoff** (also rendered David Saginian / “Mayor Khan” in English-language summaries). Anna’s interview: *“My father, Daoud Khan Seguinoff, was always in the military service of the Shah of Persia.”*
+- Eldest of four sisters; two brothers (both merchants in Tabriz, both predeceased her). Next sister: widow of **Aga Pedros** (Armenian merchant, three sons in Tehran). Youngest sister: [Tamar Saginian](tamar-saginian.md), widow of [Dr Cormick](william-cormick.md).
+- **Autumn 1851** — Married [Edward Burgess](edward-burgess.md). Edward’s letter to George (22 Mar 1852): *“a Georgian lady of good family … pretty and about thirty three years old.”* She spoke Armenian and Turkish, wrote Armenian rapidly, and proved a skilled horsewoman.
+- **~1852** — Son **John** born in Tehran; godfather Ronald Thompson. Baptised at home according to Armenian rites. John died at eighteen months.
+- **9 Jun 1854** — Daughter [Fanny](fanny-burgess.md) born; godfather again Ronald Thompson.
+- **1855** — Edward’s health failing. Anna nursed him through a nearly three-month takhteravan journey from Tehran to Tabriz. *“I never left him, he was in my eyes night and day.”* Eight days from Tabriz, her father, uncles, and Dr Cormick met them. Edward lived six weeks more. *“When Fanny was three days past one year old, he died. We had been married just five years.”* Buried in the Armenian cemetery outside Tabriz.
 
 Secondary genealogy notes sometimes use alternate spellings (**Seguinoff** and similar) when threading Armenian names into Latin-script trees; treat those as orthographic variants pending one primary civil record.
 

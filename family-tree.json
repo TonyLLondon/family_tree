@@ -199,7 +199,7 @@
       "deathPlace": "Lausanne, Switzerland",
       "birthPlace": "Tehran, Iran",
       "birthDate": "1910-10-25",
-      "deathDate": "1996",
+      "deathDate": "1997",
       "sex": "M",
       "personPage": "people/robert-marc-murard-stump.md"
     },
@@ -4003,7 +4003,8 @@
       "birthDate": "1837-07-11",
       "deathDate": "1910-03-08",
       "sex": "F",
-      "deathDateGedcom": "8 MAR 1910"
+      "deathDateGedcom": "8 MAR 1910",
+      "personPage": "people/luise-elizabeta-stump.md"
     },
     "I394": {
       "id": "I394",
@@ -4012,7 +4013,8 @@
       "spouseUnionIds": [],
       "birthDateGedcom": "1911",
       "birthDate": "1911",
-      "sex": "M"
+      "sex": "M",
+      "personPage": "people/theodore-stump.md"
     },
     "I395": {
       "id": "I395",
@@ -4027,7 +4029,8 @@
       "birthDate": "1920-02-10",
       "deathDate": "2013-11-20",
       "sex": "M",
-      "deathDateGedcom": "20 NOV 2013"
+      "deathDateGedcom": "20 NOV 2013",
+      "personPage": "people/jacques-stump.md"
     },
     "I396": {
       "id": "I396",
@@ -4036,7 +4039,8 @@
       "spouseUnionIds": [],
       "birthDateGedcom": "1929",
       "birthDate": "1929",
-      "sex": "M"
+      "sex": "M",
+      "personPage": "people/jean-stump.md"
     },
     "I397": {
       "id": "I397",
@@ -4045,35 +4049,41 @@
       "spouseUnionIds": [],
       "birthDateGedcom": "1917",
       "birthDate": "1917",
-      "sex": "F"
+      "sex": "F",
+      "alsoKnownAs": [
+        "Loulou"
+      ],
+      "personPage": "people/irene-stump.md"
     },
     "I398": {
       "id": "I398",
-      "displayName": "Jean STUMP",
+      "displayName": "Jean Jacque Herman Eugen STUMP",
       "birthUnionId": "F70",
       "spouseUnionIds": [],
       "birthDateGedcom": "24 JUN 1869",
-      "deathPlace": "Talinn, Estonia",
-      "birthPlace": "Talinn, Estonia",
+      "deathPlace": "Tallinn, Estonia",
+      "birthPlace": "Tallinn, Estonia",
       "birthDate": "1869-06-24",
       "deathDate": "1874-05-07",
       "sex": "M",
-      "deathDateGedcom": "7 MAY 1874"
+      "deathDateGedcom": "7 MAY 1874",
+      "personPage": "people/jean-jacque-stump.md"
     },
     "I399": {
       "id": "I399",
-      "displayName": "Arthur STUMP",
+      "displayName": "Arthur Roger STUMP",
       "birthUnionId": "F70",
       "spouseUnionIds": [
         "F206"
       ],
       "birthDateGedcom": "25 FEB 1871",
       "deathPlace": "Berlin, Germany",
-      "birthPlace": "Talinn, Estonia",
+      "birthPlace": "Tallinn, Estonia",
       "birthDate": "1871-02-25",
       "deathDate": "1935-06-13",
       "sex": "M",
-      "deathDateGedcom": "13 JUN 1935"
+      "deathDateGedcom": "13 JUN 1935",
+      "personPage": "people/arthur-roger-stump.md"
     },
     "I4": {
       "id": "I4",
@@ -4099,31 +4109,30 @@
     },
     "I400": {
       "id": "I400",
-      "displayName": "Marguerite STUMP",
+      "displayName": "Marguerite Emilie STUMP",
       "birthUnionId": "F70",
       "spouseUnionIds": [
         "F207"
       ],
       "birthDateGedcom": "29 NOV 1872",
-      "deathPlace": "Latvia",
-      "birthPlace": "Talinn, Estonia",
+      "birthPlace": "Tallinn, Estonia",
       "birthDate": "1872-11-29",
-      "deathDate": "1910",
       "sex": "F",
-      "deathDateGedcom": "1910"
+      "personPage": "people/marguerite-emilie-stump.md"
     },
     "I401": {
       "id": "I401",
       "displayName": "Antoinette STUMP",
       "birthUnionId": "F70",
       "spouseUnionIds": [],
-      "birthDateGedcom": "7 MAR 1873",
-      "deathPlace": "Talinn, Estonia",
-      "birthPlace": "Talinn, Estonia",
-      "birthDate": "1873-03-07",
+      "birthDateGedcom": "13 DEC 1873",
+      "deathPlace": "Tallinn, Estonia",
+      "birthPlace": "Tallinn, Estonia",
+      "birthDate": "1873-12-13",
       "deathDate": "1881-04-29",
       "sex": "F",
-      "deathDateGedcom": "29 APR 1881"
+      "deathDateGedcom": "29 APR 1881",
+      "personPage": "people/antoinette-stump.md"
     },
     "I402": {
       "id": "I402",
@@ -6038,6 +6047,9 @@
       "spouseUnionIds": [
         "F206"
       ],
+      "birthPlace": "Tallinn, Estonia",
+      "deathPlace": "Grebblo, Novgorod Province, Russia",
+      "personPage": "people/lydia-siebert.md",
       "birthDateGedcom": "6 JUL 1873",
       "deathPlace": "Novgorod, Russia",
       "birthPlace": "Talinn, Estonia",
@@ -6048,12 +6060,13 @@
     },
     "I562": {
       "id": "I562",
-      "displayName": "Cuno VON FREY",
+      "displayName": "Cuno Alfred VON FREY",
       "birthUnionId": null,
       "spouseUnionIds": [
         "F207"
       ],
-      "sex": "M"
+      "sex": "M",
+      "personPage": "people/cuno-von-frey.md"
     },
     "I563": {
       "id": "I563",
@@ -6425,7 +6438,7 @@
       "birthDate": "1810",
       "deathDate": "1855",
       "sex": "M",
-      "role": "Merchant, translator, official in Persia",
+      "role": "Merchant, translator, chief interpreter, editor of state gazette",
       "personPage": "people/edward-burgess.md",
       "birthPlace": "England"
     },
@@ -6472,6 +6485,7 @@
       "birthDate": "1781",
       "deathDate": "1863",
       "sex": "M",
+      "role": "Banker, economist, editor",
       "personPage": "people/henry-burgess.md",
       "birthPlace": "Yorkshire, England"
     },
