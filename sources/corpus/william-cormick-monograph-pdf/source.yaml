@@ -1,0 +1,11 @@
+id: william-cormick-monograph-pdf
+title: William Cormick (short publication PDF)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T19:50:50Z'
+  sha256: 8add90ce15d3689c9b0f40a614d67f6e62b05a685d33f37e67e50c4f9a8b199e
+  bytes: 168902
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/William Cormick.pdf

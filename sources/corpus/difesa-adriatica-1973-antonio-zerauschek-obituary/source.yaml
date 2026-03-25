@@ -1,0 +1,15 @@
+id: difesa-adriatica-1973-antonio-zerauschek-obituary
+title: 'Difesa Adriatica — Antonio Zerauschek obituary (1973, scan)'
+remote: {}
+fetches:
+- kind: local_jpeg
+  at: '2026-03-23T00:00:00Z'
+  repo_path: media/docs/Difesa Adriatica 1973 Antonio Zerauschek obituary Zara Florence.jpeg
+  sha256: f18b38b76de6fe7ca15a09624a9623ff6b5f379935979fd0177db7225568ba21
+  bytes: 786244
+  note: Newspaper clipping — A. XXVII, N. 3, 25 marzo–3 aprile 1973; headline «Un altro amico ci ha lasciato»
+files:
+  media_reference: media/docs/Difesa Adriatica 1973 Antonio Zerauschek obituary Zara Florence.jpeg
+  transcription_it: transcription-antonio-zerauschek-obituary-1973.it.md
+  translation_en: translation-antonio-zerauschek-obituary-1973.en.md
+  pdf_markdown: extracted.pdf.md

@@ -1,0 +1,14 @@
+id: hazu-hrcak-anzulovic-priticevic-nin-noble-family
+title: 'Ivna Anzulović: Ninska plemićka obitelj Pritičević i njihova kuća u Novigradu (Starohrvatska prosvjeta III/36, 2009)'
+remote:
+  primary_pdf_url: https://hrcak.srce.hr/file/120885
+  webpage_url: https://hrcak.srce.hr/120885
+fetches:
+- kind: pdf
+  at: '2026-03-22T17:45:39Z'
+  sha256: f9d70e99e2f383263d0a4f690b45ab28840f0928b810ce4eba796bd8dd2341f6
+  bytes: 461962
+  remote_url: https://hrcak.srce.hr/file/120885
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

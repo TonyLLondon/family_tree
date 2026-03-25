@@ -1,0 +1,12 @@
+id: nypl-bulletin-burgess-persian-letters-schwartz-0-67eb3ff4c2
+title: NYPL Bulletin Burgess Persian Letters Schwartz - 03 Part III Edward to parents Tabriz 1833
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:25:55Z'
+  sha256: 40b5fe58ea79c59962445ab79835c9848f59c8aa528fe9eda8ea94a62c2dac85
+  bytes: 4911174
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 03 Part III Edward to parents Tabriz 1833.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 03 Part III Edward to parents Tabriz 1833.pdf

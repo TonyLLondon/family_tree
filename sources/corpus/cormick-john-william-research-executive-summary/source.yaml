@@ -1,0 +1,12 @@
+id: cormick-john-william-research-executive-summary
+title: John & William Cormick — research executive summary (Persian & English sources)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-23T09:13:03Z'
+  sha256: ef8fe6188d7b069ad8b2ac3de019b4d0843be2285115571fe8105772e7e88058
+  bytes: 189053
+  media_reference: media/publications/persia-iran/cormick-john-william-research-executive-summary.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/cormick-john-william-research-executive-summary.pdf

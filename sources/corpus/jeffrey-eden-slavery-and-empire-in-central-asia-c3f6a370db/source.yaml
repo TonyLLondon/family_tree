@@ -1,0 +1,12 @@
+id: jeffrey-eden-slavery-and-empire-in-central-asia-c3f6a370db
+title: Jeffrey Eden - Slavery and Empire in Central Asia - Harvard dissertation 2016
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:44:50Z'
+  sha256: 6d6d5b1d876b34f46756e5126ca1d06d79433f3c10e12bb6779f65591a6f98f5
+  bytes: 1475793
+  media_reference: media/docs/Jeffrey Eden - Slavery and Empire in Central Asia - Harvard dissertation 2016.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Jeffrey Eden - Slavery and Empire in Central Asia - Harvard dissertation 2016.pdf

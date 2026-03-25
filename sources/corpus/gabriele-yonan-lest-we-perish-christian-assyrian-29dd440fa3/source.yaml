@@ -1,0 +1,12 @@
+id: gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3
+title: Gabriele Yonan - Lest We Perish - Christian Assyrians Turkey and Persia 1996
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:40:35Z'
+  sha256: bb032bb3ebb8f70d47780132902b0a2a21d71ac8c27afe368547e53c2817418d
+  bytes: 866695
+  media_reference: media/docs/Gabriele Yonan - Lest We Perish - Christian Assyrians Turkey and Persia 1996.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Gabriele Yonan - Lest We Perish - Christian Assyrians Turkey and Persia 1996.pdf

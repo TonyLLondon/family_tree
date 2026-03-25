@@ -1,0 +1,13 @@
+id: granic-nin-noble-list-1817
+title: Granić — Popis plemića grada Nina iz 1817. godine (Zbornik HAZU Zadar, 32, 2014, pp. 199–244)
+remote:
+  webpage_url: https://hrcak.srce.hr/
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:53:14Z'
+  sha256: 9c7cfdd8da4ccf958248bac030b1fccf7fffc5fcf1f57878cdb678bae3d7f487
+  bytes: 443425
+  media_reference: manual_output/Zbornik 32 10 Granic.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: manual_output/Zbornik 32 10 Granic.pdf

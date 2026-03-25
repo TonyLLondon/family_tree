@@ -1,0 +1,12 @@
+id: stump-family-tree-c3cb58201a
+title: Stump Family Tree
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:18:45Z'
+  sha256: 253cd95050a4259ff9c13bd096e8b9ef5ad1acd36d10f80f4de36e33f8cdd9bc
+  bytes: 14955
+  media_reference: media/albums/henderson/Stump Family Tree.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/albums/henderson/Stump Family Tree.pdf

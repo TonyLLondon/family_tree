@@ -1,0 +1,12 @@
+id: adrian-osullivan-espionage-and-counterintelligen-3234f4d10b
+title: Adrian OSullivan - Espionage and Counterintelligence in Occupied Persia Iran 2015 Palgrave sample
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:37:55Z'
+  sha256: e2f4e662c3b3b148d330dad485cb588bfd21cfbc7efa665ce00e237291637028
+  bytes: 531213
+  media_reference: media/docs/Adrian OSullivan - Espionage and Counterintelligence in Occupied Persia Iran 2015 Palgrave sample.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Adrian OSullivan - Espionage and Counterintelligence in Occupied Persia Iran 2015 Palgrave sample.pdf

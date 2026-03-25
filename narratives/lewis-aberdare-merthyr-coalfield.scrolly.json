@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "From the Coalface to the Surface",
+    "subtitle": "Three generations of miners in the Glamorgan valleys",
+    "era": "1860s – 1945"
+  },
+  "scrollyStepCount": 4,
+  "steps": [
+    {
+      "era": "1860s – 1880s",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/samuel-lewis-elizabeth-cushen.jpg",
+        "alt": "Samuel Lewis and Elizabeth Cushen",
+        "caption": "The Lewis family — from Gelligaer carpenters to Aberdare miners"
+      }
+    },
+    {
+      "era": "1884 – 1925",
+      "media": {
+        "src": "media/docs/1911 census 41 Glen Road Aberdare David J Lewis household schedule 79.jpg",
+        "alt": "1911 census return for 41 Glen Road, Aberdare — David J Lewis household",
+        "caption": "David John Lewis — coal miner, Aberdare, 27 years underground"
+      }
+    },
+    {
+      "era": "1911",
+      "media": {
+        "src": "media/docs/1911 census 41 Glen Road Aberdare David J Lewis household schedule 79.jpg",
+        "alt": "1911 census return showing Catherine Lewis's fertility columns: 12 children born, 7 died",
+        "caption": "The 1911 return — twelve births, seven deaths, a mother's signed count"
+      }
+    },
+    {
+      "era": "1917 – 1945",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/samuel-lewis-elizabeth-cushen.jpg",
+        "alt": "Samuel Lewis and Elizabeth Cushen portrait",
+        "caption": "Samuel Lewis — coal miner turned assurance agent, Aberdare"
+      }
+    }
+  ]
+}

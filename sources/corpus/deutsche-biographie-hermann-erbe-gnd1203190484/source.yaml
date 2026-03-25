@@ -1,0 +1,19 @@
+id: deutsche-biographie-hermann-erbe-gnd1203190484
+title: 'Deutsche Biographie: Hermann Erbe (GND 1203190484)'
+remote:
+  webpage_url: https://www.deutsche-biographie.de/gnd1203190484.html
+fetches:
+- kind: web
+  at: '2026-03-22T18:23:34Z'
+  remote_url: https://www.deutsche-biographie.de/1203190484.html
+  sha256: 4846306a779da1033889769abddf343f86fbe8d454adad52aa171772f1e07e3f
+  bytes: 17659
+- kind: web
+  at: '2026-03-23T10:48:41Z'
+  remote_url: https://www.deutsche-biographie.de/gnd1203190484.html
+  sha256: 528d8959acb79e831e8213068dba4d6495f7cd3c57bb021561527ec81fb7a8ee
+  bytes: 17662
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md
+  translation_en: translation-deutsche-biographie-hermann-erbe-index.en.md

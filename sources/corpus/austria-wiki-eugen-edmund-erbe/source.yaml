@@ -1,0 +1,13 @@
+id: austria-wiki-eugen-edmund-erbe
+title: 'AustriaWiki: Eugen Edmund Erbe'
+remote:
+  webpage_url: http://www.austria-forum.org/af/AustriaWiki/Eugen_Edmund_Erbe
+fetches:
+- kind: web
+  at: '2026-03-22T18:23:35Z'
+  remote_url: http://www.austria-forum.org/af/AustriaWiki/Eugen_Edmund_Erbe
+  sha256: f7eee1195def549d5a03816af4c93c2892d5794cb7261c3d3020fbcd6189da43
+  bytes: 31136
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

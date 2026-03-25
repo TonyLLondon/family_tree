@@ -1,0 +1,13 @@
+id: vera-obolensky-death-notice-nytimes-2644e85dac
+title: Vera Obolensky death notice NYTimes
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:18:46Z'
+  sha256: 7e96a4ad43180abe2ed0aa6e9b47446d34e1e8fa9ec33d87c770a3d15cd6c846
+  bytes: 9363
+  media_reference: media/albums/henderson/Vera Obolensky death notice NYTimes.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/albums/henderson/Vera Obolensky death notice NYTimes.pdf
+  transcription_en: transcription-vera-obolensky-nytimes-1974.en.md

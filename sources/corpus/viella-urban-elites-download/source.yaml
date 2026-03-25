@@ -1,0 +1,14 @@
+id: viella-urban-elites-download
+title: Viella download — urban-elites.pdf
+remote:
+  primary_pdf_url: https://www.viella.it/download/8468/81b3ad057df6/urban-elites.pdf
+  webpage_url: https://www.viella.it/
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:29:24Z'
+  sha256: 0f3ab16957cbee88c19c10bbb7f103e08f011fdf9ce41e553c933c9c84738d87
+  bytes: 5498484
+  remote_url: https://www.viella.it/download/8468/81b3ad057df6/urban-elites.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

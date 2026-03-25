@@ -1,0 +1,12 @@
+id: myheritage-archer-and-sloan-family-history-chart-7809dafc3f
+title: MyHeritage - Archer and Sloan family history chart - 2020-09-18 004615
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:19:56Z'
+  sha256: 65dd91d94336260cecdd6fda2111aaabf08af58d93b21259a88b2d091a32f6e5
+  bytes: 989568
+  media_reference: media/charts/myheritage/MyHeritage - Archer and Sloan family history chart - 2020-09-18 004615.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/charts/myheritage/MyHeritage - Archer and Sloan family history chart - 2020-09-18 004615.pdf

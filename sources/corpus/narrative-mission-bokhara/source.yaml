@@ -1,0 +1,12 @@
+id: narrative-mission-bokhara
+title: Narrative of a mission to Bokhara
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:36:40Z'
+  sha256: 85ebbfcfded7c722eb0a7a5567b09879b15115af7338f6ae426cd4515202d796
+  bytes: 29333147
+  media_reference: media/docs/Narrative of a mission to Bokhara.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Narrative of a mission to Bokhara.pdf

@@ -1,0 +1,12 @@
+id: london-gazette-1870-03-15-white-1st-foot
+remote:
+  primary_pdf_url: https://www.thegazette.co.uk/London/issue/23598/page/1738/data.pdf
+fetches:
+- kind: pdf
+  at: '2026-03-22T17:14:48Z'
+  sha256: 3b28c62b88260eb4b3e19f5bc77f188b43186a27e66ce9d633547e5a8096c26d
+  bytes: 112820
+  remote_url: https://www.thegazette.co.uk/London/issue/23598/page/1738/data.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

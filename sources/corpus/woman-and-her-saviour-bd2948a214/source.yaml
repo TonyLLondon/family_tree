@@ -1,0 +1,12 @@
+id: woman-and-her-saviour-bd2948a214
+title: Woman and her Saviour
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:48:57Z'
+  sha256: 3b7fae9f185fc03d481d87e089e22655202f57c8d4eeea522c3f0f4dbc696f75
+  bytes: 577587
+  media_reference: media/publications/persia-iran/Woman and her Saviour.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Woman and her Saviour.pdf

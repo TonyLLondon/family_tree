@@ -1,0 +1,13 @@
+id: dazd-obavijesna-pomagala-index
+title: DAZD — Obavijesna pomagala (finding aids index)
+remote:
+  webpage_url: https://www.dazd.hr/hr/dokument/obavijesna-pomagala/6
+fetches:
+- kind: web
+  at: '2026-03-22T17:46:04Z'
+  remote_url: https://www.dazd.hr/hr/dokument/obavijesna-pomagala/6
+  sha256: 60ef1644850754993f4ee42e74920e1888febc1ea4b0f7791919efb50f40a8a9
+  bytes: 74548
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

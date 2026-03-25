@@ -1,0 +1,14 @@
+id: maltaramc-obrien-henry-joseph
+remote:
+  webpage_url: https://www.maltaramc.com/regsurg/o/obrienhj.html
+fetches:
+- kind: web
+  at: '2026-03-22T17:04:36Z'
+  remote_url: https://www.maltaramc.com/regsurg/o/obrienhj.html
+  sha256: 0bfb14ec7f5f2c8bfd84e8a4d6fc6a4d9018937324650b7ebdcf7dfc7374f734
+  bytes: 6842
+  http_last_modified: Sat, 04 Dec 2021 16:03:18 GMT
+  http_etag: W/"1aba-5d25429725d80"
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

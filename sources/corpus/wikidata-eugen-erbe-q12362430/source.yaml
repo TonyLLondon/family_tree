@@ -1,0 +1,13 @@
+id: wikidata-eugen-erbe-q12362430
+title: "Wikidata entity Q12362430 (Eugen Edmund Eduard Erbe)"
+remote:
+  primary_json_url: https://www.wikidata.org/wiki/Special:EntityData/Q12362430.json
+files:
+  entity_dump: entity.json
+  web_markdown: extracted.web.md
+fetches:
+  - kind: json
+    at: "2026-03-22T18:30:00Z"
+    remote_url: https://www.wikidata.org/wiki/Special:EntityData/Q12362430.json
+    sha256: e54c4f57d34c982f6923943f13038d907e49610bcad1f9fd81454e106707632a
+    bytes: 10478

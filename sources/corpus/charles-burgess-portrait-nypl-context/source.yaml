@@ -1,0 +1,11 @@
+id: charles-burgess-portrait-nypl-context
+title: Charles Burgess portrait PDF (brother of Edward; NYPL-related context)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T19:47:49Z'
+  sha256: f86fb2cadc34f0cb8081449aff21162b0258a40c45b9d4b09b23688171266a33
+  bytes: 145308
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Charles Burgess Portrait.pdf

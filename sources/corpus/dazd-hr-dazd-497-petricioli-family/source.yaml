@@ -1,0 +1,14 @@
+id: dazd-hr-dazd-497-petricioli-family
+title: DAZD HR-DAZD-497 — Obitelj Petricioli (analytical inventory)
+remote:
+  primary_pdf_url: https://www.dazd.hr/attachment/preview/5c657ccee89ff/dazd-497-obitelj-petricioli.pdf
+  webpage_url: https://www.dazd.hr/
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:28:38Z'
+  sha256: c6531af7c70565346e5b7537df5c9a1b7a273d6fd9970fc28b81d6ce411d016a
+  bytes: 881594
+  remote_url: https://www.dazd.hr/attachment/preview/5c657ccee89ff/dazd-497-obitelj-petricioli.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

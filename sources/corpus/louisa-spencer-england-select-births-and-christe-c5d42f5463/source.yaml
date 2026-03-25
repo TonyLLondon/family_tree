@@ -1,0 +1,12 @@
+id: louisa-spencer-england-select-births-and-christe-c5d42f5463
+title: Louisa Spencer England, Select Births and Christenings, 1538-1975 - AncestryLibrary.com
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:45:54Z'
+  sha256: 1bb2edf89f6815c40e7d3d881c795007dcdd0df12aaa07809c2aadfaafa7f240
+  bytes: 109147
+  media_reference: media/docs/Louisa Spencer England, Select Births and Christenings, 1538-1975 - AncestryLibrary.com.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Louisa Spencer England, Select Births and Christenings, 1538-1975 - AncestryLibrary.com.pdf

@@ -1,0 +1,41 @@
+---
+name: Anna Stackpole
+treeId: I364
+gedcom: "@I364@"
+also_known_as:
+  - Anne Roche (born Stacpoole) (Geni)
+born: 1689
+birth_place: Mount Cashel, Clare, Ireland
+died: 1760-01-18
+death_place: County Limerick, Ireland
+sex: female
+father: philip-of-limerick-stackpole
+mother: christian-jane-creagh
+spouses:
+  - john-lysaght-roche
+children:
+  - stephen-john-roche
+---
+
+# Anna Stackpole
+
+Wife of [John Lysaght Roche](john-lysaght-roche.md) in **F170**; mother of [Stephen John Roche](stephen-john-roche.md). Geni titles her **Anne Roche (born Stacpoole)**; GEDCOM **NAME** uses **Stackpole**. Same **18 Jan 1760** death date as husband in export—verify as shared burial index or transcription duplicate.
+
+## Life
+
+- **1689** — Born **Mount Cashel, Clare, Ireland**.
+- **18 Jan 1760** — Died **County Limerick, Ireland** (GEDCOM).
+
+## Family
+
+- Husband: [John Lysaght Roche](john-lysaght-roche.md).
+- Parents: [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md); [Christian Jane Creagh](christian-jane-creagh.md) (**F171**, marriage **1688** **Limerick**).
+- Children include [Stephen John Roche](stephen-john-roche.md) per **F170**.
+
+## Evidence
+
+- GEDCOM **`@I364@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F170** / **F171**; FamilySearch **LCVY-RZP**; **Geni** in **SOUR**.
+
+## Open questions
+
+- **Mount Cashel** — Clare vs Limerick border parishes for **1689** baptism.

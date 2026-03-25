@@ -1,0 +1,12 @@
+id: roche-of-limerick-forgotten-victorians-da2674483d
+title: Roche of Limerick – Forgotten Victorians
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:47:31Z'
+  sha256: 2718220041b7dfdcf0fc8d739e08601d66e5c519af8c7ac2dca783f074d5ec34
+  bytes: 1202806
+  media_reference: media/publications/genealogy-regional/Roche of Limerick – Forgotten Victorians.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/genealogy-regional/Roche of Limerick – Forgotten Victorians.pdf

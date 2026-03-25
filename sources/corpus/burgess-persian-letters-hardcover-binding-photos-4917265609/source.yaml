@@ -1,0 +1,12 @@
+id: burgess-persian-letters-hardcover-binding-photos-4917265609
+title: Burgess Persian Letters hardcover binding photos scan 2020-09-26
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:22:04Z'
+  sha256: e952707be9eb47396bc884231bf0a45f607e9a3db72f05253da86356b86c1b3b
+  bytes: 2096834
+  media_reference: media/collections/burgess-persian-letters/Burgess Persian Letters hardcover binding photos scan 2020-09-26.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Burgess Persian Letters hardcover binding photos scan 2020-09-26.pdf

@@ -1,0 +1,12 @@
+id: ncbi-history-indian-medical-service
+remote:
+  webpage_url: https://ncbi.nlm.nih.gov/pmc/articles/PMC5165998/
+fetches:
+- kind: web
+  at: '2026-03-22T17:04:51Z'
+  remote_url: https://ncbi.nlm.nih.gov/pmc/articles/PMC5165998/
+  sha256: 0b60cb329a8a14d8baa437bc7e4b4c5ce3bc902b0922f8d4152f2fd0640695a6
+  bytes: 90339
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

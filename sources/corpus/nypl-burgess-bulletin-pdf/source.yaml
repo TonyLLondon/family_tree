@@ -1,0 +1,12 @@
+id: nypl-burgess-bulletin-pdf
+title: NYPL Burgess collection — Henderson bulletin PDF (cover/summary)
+remote:
+  webpage_url: https://archives.nypl.org/mss/431
+fetches:
+- kind: pdf
+  at: '2026-03-21T19:47:47Z'
+  sha256: e143a338b78809315698e623f39295f4d964e79a7cf919565f2b5f9a690ca2b6
+  bytes: 129027
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/albums/henderson/BurgessNYPL.pdf

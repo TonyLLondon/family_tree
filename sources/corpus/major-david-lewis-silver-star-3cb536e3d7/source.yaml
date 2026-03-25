@@ -1,0 +1,12 @@
+id: major-david-lewis-silver-star-3cb536e3d7
+title: Major David Lewis Silver Star
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:46:09Z'
+  sha256: ba3c130f2d1b1e70b3c1b28d4619a7d115a5dbb8da6115ee7ebfd04263da965b
+  bytes: 147638
+  media_reference: media/military/Major David Lewis Silver Star.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/military/Major David Lewis Silver Star.pdf

@@ -1,0 +1,12 @@
+id: persia-tamar-saginian-portrait-persian-research
+title: 'Persian-language research: portrait labelled Portrait of Tamar Saginian (attribution)'
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-23T09:13:09Z'
+  sha256: e2c192cbbf81f2110ff6731d7afc2f1a6a3fbb9ec0190dcc3443e2d9a838d6e4
+  bytes: 91436
+  media_reference: media/docs/persia-tamar-saginian-portrait-persian-research.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/persia-tamar-saginian-portrait-persian-research.pdf

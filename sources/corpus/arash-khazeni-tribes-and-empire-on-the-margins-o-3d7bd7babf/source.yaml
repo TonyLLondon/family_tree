@@ -1,0 +1,12 @@
+id: arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf
+title: Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:38:02Z'
+  sha256: 553aa2ef43063e5851f299e3febf097290883de8cfff5bc315ef804669ef59c7
+  bytes: 2987162
+  media_reference: media/docs/Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press.pdf

@@ -1,0 +1,15 @@
+---
+source_file: mirror.html
+---
+
+**William Cormick** (1822 in Tabriz – 30 December 1877), was an Iranian physician in Qajar Iran during the reigns of Mohammad Shah Qajar (1834–1848) and Naser al-Din Shah Qajar (1848–1896). He is noted for having played an important role in the diffusion of Western medicine into Iranian society.[1] He is also noted as the only westerner to have met the Báb.
+
+William Cormick was born in Tabriz to the British physician of Irish origin John Cormick and a local Armenian woman.[1] Having been sent to England at the age of ten in order to gain an education, he was subsequently enrolled into the medical faculty of the University College of London. He received his qualification as a member of the Royal College of Surgeons on 17 July 1840. A year later he was admitted into membership of the Society of Apothecaries, as well as being awarded a doctors degree in medicine from St. Andrew's in London.
+
+From 1844 to 1855 Cormick worked as a physician in London and in Paris. He was summoned to Iran, by the then incumbent king Mohammad Shah Qajar, as the second physician to the British mission and to become the personal physician to the king.[2][3] In 1846 he was appointed as the second physician to the family of Abbas Mirza. Later he became the personal physician to the crown prince and the future king Naser al-Din Shah Qajar, when the latter was given the governorship of Azerbaijan province, which he held for seven months.[4] Upon the ascension of Naser al-din Shah Qajar to the throne in 1848, Cormick travelled with him to Tehran. However, on the decision of the prime minister, Amir Kabir, he was replaced by the French physician Ernest Cloquet. This was part of Iran's policy of avoiding becoming over-dependent on either Russia or Great Britain.[1] Cormick returned to Tabriz, where he lived for the rest of his life, continuing to practice medicine and becoming rich.[1]
+
+During the trial of the Báb in Tabriz in July 1848, William Cormick and two Iranian physicians were given the task of certifying whether the former could be classified as mentally incompetent. The governing authorities were reported to be "reluctant" to give the Báb the death sentence.[1] Cormick, at the request of the Báb, visited him several times as part of the medical treatment for his having been *bastinadoed* following his trial. This made Cormick the only Westerner recorded as having personally met the Báb.[1] He presented an account of his meetings with the Báb in a letter to an American missionary friend named J. H. Shedd.[1][5]
+
+He was awarded the Order of the Lion and the Sun (2nd class).[1] On 19 October 1876 Cormick became a fellow of the British Royal College of Surgeons.
+
+Cormick was married to an Armenian woman named Tamar, who was the younger sister of Anna, the Armenian wife of Edward Burgess (merchant).[1] Cormick died on 30 December 1877, and was buried in Tabriz in the same cemetery as his father, brother and nine other Cormick family members.[1]

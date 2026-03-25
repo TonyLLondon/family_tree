@@ -1,0 +1,12 @@
+id: burgess-persian-letters-related-book-pages-farsi-1cfe80be9e
+title: Burgess Persian Letters related book pages Farsi scan 2020-10-02
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:22:34Z'
+  sha256: e85d9cc815e0621476ac5c0016648c5d70d8d70757ab2d46652de8d9f0663587
+  bytes: 12151579
+  media_reference: media/collections/burgess-persian-letters/Burgess Persian Letters related book pages Farsi scan 2020-10-02.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Burgess Persian Letters related book pages Farsi scan 2020-10-02.pdf

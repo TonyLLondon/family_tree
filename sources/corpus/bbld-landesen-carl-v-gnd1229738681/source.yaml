@@ -1,0 +1,13 @@
+id: bbld-landesen-carl-v-gnd1229738681
+title: 'BBLD: Landesen, Carl v. (1802-1883)'
+remote:
+  webpage_url: https://bbld.de/GND1229738681
+fetches:
+- kind: web
+  at: '2026-03-22T18:21:59Z'
+  remote_url: https://bbld.de/GND1229738681
+  sha256: 2e8634bebf5d8be7aecc7aae449fe37f04f93ca484ec1ba49a97f14d8626f1f9
+  bytes: 7779
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

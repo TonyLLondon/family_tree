@@ -1,0 +1,13 @@
+id: fibis-jubbulpore
+remote:
+  webpage_url: https://wiki.fibis.org/w/Jubbulpore
+fetches:
+- kind: web
+  at: '2026-03-22T17:04:21Z'
+  remote_url: https://wiki.fibis.org/w/Jubbulpore
+  sha256: 379351a2305c5e8e901fdab7e811b9c0315dd033289e638f5556c0ee0c184d01
+  bytes: 30704
+  http_last_modified: Wed, 24 Jul 2024 13:20:24 GMT
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

@@ -1,0 +1,12 @@
+id: myheritage-sloan-carmen-lewis-ancestors-chart-20-17a375700d
+title: MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002531
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:21:24Z'
+  sha256: 84237ec945dc0919f746a7e1bab3f8d3ed62fb13edb7901b730e608928505b91
+  bytes: 999738
+  media_reference: media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002531.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002531.pdf

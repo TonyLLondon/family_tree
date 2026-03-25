@@ -1,0 +1,12 @@
+id: william-obyrne-white-regimental-india-primary-sources-memo
+title: 'William O''Byrne White: regimental assignment & India postings (primary-source memo)'
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-23T09:13:12Z'
+  sha256: 5cc184447a8df22ccce8046d7258ea8ef7b7354d2f5eed2170ef766b33385b2f
+  bytes: 57857
+  media_reference: media/docs/william-obyrne-white-regimental-india-primary-sources-memo.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/william-obyrne-white-regimental-india-primary-sources-memo.pdf

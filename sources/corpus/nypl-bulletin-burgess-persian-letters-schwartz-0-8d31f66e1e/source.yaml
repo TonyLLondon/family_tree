@@ -1,0 +1,12 @@
+id: nypl-bulletin-burgess-persian-letters-schwartz-0-8d31f66e1e
+title: NYPL Bulletin Burgess Persian Letters Schwartz - 06 Part VI Edward to George 1845
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:31:43Z'
+  sha256: 4781a99ead1fef0e1baae5949a2a11d88497bf226a827300fa6512d98bedf4d3
+  bytes: 1801104
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 06 Part VI Edward to George 1845.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 06 Part VI Edward to George 1845.pdf

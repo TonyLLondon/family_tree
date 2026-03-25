@@ -1,0 +1,12 @@
+id: navasargian-2012-armenia-indo-european-part1
+title: Alice Navasargian 2012 - Indo-European language family tree and Armenia illustrated (part 1 of 3)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:53:35Z'
+  sha256: c9cb9b4bc2bc3979200eb875870ca00851ec563f2ab31e0b025b77e19f3b8403
+  bytes: 60019442
+  media_reference: media/publications/persia-iran/Alice Navasargian 2012 - Indo-European language family tree and Armenia illustrated part 1 of 3.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Alice Navasargian 2012 - Indo-European language family tree and Armenia illustrated part 1 of 3.pdf

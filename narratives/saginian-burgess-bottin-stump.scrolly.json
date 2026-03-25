@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "From Tabriz to Tehran",
+    "subtitle": "Four generations of intermediaries across three empires",
+    "era": "c. 1800 – 1950"
+  },
+  "scrollyStepCount": 5,
+  "steps": [
+    {
+      "era": "Early 19th century",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/sartip-davoud-khan-saginian-qajar-uniform-book-page.jpg",
+        "alt": "Book page showing Sartip Davoud Khan Saginian in Qajar military context",
+        "caption": "Daoud Khan Saginian — Georgian-born commander in the Qajar army"
+      }
+    },
+    {
+      "era": "1830s – 1850s",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/anna-saginian-fanny-burgess.jpg",
+        "alt": "Anna Saginian with her daughter Fanny Burgess",
+        "caption": "Anna Saginian and daughter Fanny — court and diplomatic circles"
+      }
+    },
+    {
+      "era": "Late Qajar era",
+      "media": {
+        "src": "manual/Henderson/Teheran 1896 Fanny, Julien & Family.jpg",
+        "alt": "Fanny and Julien Bottin with their family in Tehran, 1896",
+        "caption": "The Bottin family — Tehran, 1896"
+      }
+    },
+    {
+      "era": "Pahlavi transition",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/etienne-stump-henriette-bottin-burgess-family.jpg",
+        "alt": "Étienne Stump and Henriette Bottin Burgess with their family",
+        "caption": "The Stump family — Tehran, early 20th century"
+      }
+    },
+    {
+      "era": "c. 1800 – 1950",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/julien-bottin-henriette-bottin-burgess.jpg",
+        "alt": "Julien Bottin with daughter Henriette",
+        "caption": "An unbroken chain — military, diplomatic, industrial, scientific"
+      }
+    }
+  ]
+}

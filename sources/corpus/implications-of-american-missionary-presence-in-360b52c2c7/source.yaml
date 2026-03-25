@@ -1,0 +1,12 @@
+id: implications-of-american-missionary-presence-in-360b52c2c7
+title: Implications of American missionary presence in 19th and 20th cen
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:41:33Z'
+  sha256: 3b76d322d8f98d9d0ead58a94b1d67bbe4a2cd4e22d239a93d8012cd87fc7241
+  bytes: 6353922
+  media_reference: media/docs/Implications of American missionary presence in 19th and 20th cen.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Implications of American missionary presence in 19th and 20th cen.pdf

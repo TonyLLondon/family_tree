@@ -1,0 +1,16 @@
+id: societa-dalmata-storia-patria-2017
+title: Società Dalmata di Storia Patria — Per l'Italia (includes 1909 protest list with Pietro Pio Addobbati, Ufficiale postale superiore)
+remote:
+  primary_pdf_url: https://dalmatitaliani.org/wp-content/uploads/2022/06/pdf-download-societa-dalmata-di-storia-patria-venezia-libro-oddone-talpo-per-litalia-dalmatitaliani.org_.pdf
+  webpage_url: https://dalmatitaliani.org
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:53:33Z'
+  sha256: ae9d525dfecc4054cbb4bb964338a851e740d4d8b917fe898cbb1d61b3393eee
+  bytes: 6630018
+  remote_url: https://dalmatitaliani.org/wp-content/uploads/2022/06/pdf-download-societa-dalmata-di-storia-patria-venezia-libro-oddone-talpo-per-litalia-dalmatitaliani.org_.pdf
+  http_last_modified: Sat, 04 Jun 2022 14:21:29 GMT
+  http_etag: '"629b6a69-652a82"'
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

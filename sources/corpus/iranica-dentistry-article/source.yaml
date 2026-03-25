@@ -1,0 +1,24 @@
+id: iranica-dentistry-article
+title: "Encyclopaedia Iranica — DENTISTRY (dandān-pezeškī) in Persia"
+author: Sajjadi, Sadeq
+published: 1994-12-15
+remote:
+  webpage_url: https://iranicaonline.org/articles/dentistry
+fetches:
+- kind: web
+  at: '2026-03-21T21:45:00Z'
+  remote_url: https://iranicaonline.org/articles/dentistry
+  note: >
+    fetched via WebFetch (browser-capable); direct httpx/trafilatura blocked
+    by Cloudflare. Primary artifact is extracted.web.md from rendered page.
+- kind: web
+  at: '2026-03-23T17:30:00Z'
+  remote_url: https://iranicaonline.org/articles/dentistry
+  sha256: 3dc5901ef7b1b34c3dd6024215c213462f6defc25bd0022787799b58ad0ef7b6
+  bytes: 4945
+  note: >-
+    curl-only HTML (Cloudflare challenge shell), not article body — kept as
+    mirror-curl-challenge.html for provenance.
+files:
+  web_markdown: extracted.web.md
+  mirror_curl_challenge: mirror-curl-challenge.html

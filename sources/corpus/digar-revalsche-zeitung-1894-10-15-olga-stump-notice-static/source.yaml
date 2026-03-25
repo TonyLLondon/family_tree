@@ -1,0 +1,21 @@
+id: digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static
+title: 'DIGAR: Revalsche Zeitung, 15 October 1894 (full issue PDF; Olga Stump geb. Erbe notice)'
+remote:
+  primary_pdf_url: https://dea.digar.ee/?a=is&oid=revalschezeitung18941015&type=staticpdf
+  webpage_url: https://dea.digar.ee/?a=d&d=revalschezeitung18941015.1.1
+fetches:
+- kind: pdf
+  at: '2026-03-23T09:26:32Z'
+  sha256: 26176293db99007f43fd17a5ec98f8d423c557fc47e02307aaa89d28c796df30
+  bytes: 13479341
+  remote_url: https://dea.digar.ee/?a=is&oid=revalschezeitung18941015&type=staticpdf
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf
+  human_notes: reference.md
+  transcription_de: transcription-olga-stump-familien-nachricht-1894.de.md
+  translation_en: translation-olga-stump-familien-nachricht-1894.en.md
+  page_jpeg_1: pages-jpeg/page-01-of-04.jpg
+  page_jpeg_2: pages-jpeg/page-02-of-04.jpg
+  page_jpeg_3: pages-jpeg/page-03-of-04.jpg
+  page_jpeg_4: pages-jpeg/page-04-of-04.jpg

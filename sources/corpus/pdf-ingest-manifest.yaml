@@ -1,0 +1,16 @@
+# Batch ingest: .venv/bin/python scripts/batch_pdf_extract.py
+# Large PDFs last; run overnight if needed.
+
+- slug: bottin-contract
+  file: media/albums/henderson/Bottin Contract.pdf
+  title: "Julien Bottin — Persian Ministry of War contract (French)"
+
+- slug: cormick-man-who-met-bab-connections
+  file: media/publications/persia-iran/Dr. Cormick_ The man who met the Báb – Connections.pdf
+  title: "Dr. Cormick — The man who met the Báb (Connections), part 1"
+
+- slug: cormick-man-who-met-bab-connections-2
+  file: media/publications/persia-iran/Dr. Cormick_ The man who met the Báb – Connections 2.pdf
+  title: "Dr. Cormick — The man who met the Báb (Connections), part 2"
+
+# Huge books → [pdf-ingest-manifest-heavy.yaml](pdf-ingest-manifest-heavy.yaml)

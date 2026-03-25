@@ -1,0 +1,7 @@
+id: arhinet-hr-dazd-12-opcina-nin
+title: "ARHiNET — Općina Nin (fond HR-DAZD-12), Državni arhiv u Zadru"
+remote:
+  webpage_url: https://arhinet.arhiv.hr/details.aspx?ItemId=1_15119
+fetches: []
+files:
+  reference_markdown: reference.md

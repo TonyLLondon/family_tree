@@ -1,0 +1,21 @@
+id: levantine-freemasonry
+title: Freemasonry and fraternalism in the Middle East
+remote:
+  primary_pdf_url: https://www.levantineheritage.com/pdf/Freemasonry_and_fraternalism_in_the_Middle_East.pdf
+  webpage_url: https://www.levantineheritage.com/
+fetches:
+- kind: pdf
+  at: '2026-03-21T19:27:37Z'
+  sha256: a0dc6858d9a1cacc5b484a9e971150c0521014610ee8804f9ed489f10faf7cf1
+  bytes: 31588811
+  remote_url: https://www.levantineheritage.com/pdf/Freemasonry_and_fraternalism_in_the_Middle_East.pdf
+  http_last_modified: Wed, 02 Feb 2022 12:18:45 GMT
+- kind: pdf
+  at: '2026-03-21T19:49:03Z'
+  sha256: a0dc6858d9a1cacc5b484a9e971150c0521014610ee8804f9ed489f10faf7cf1
+  bytes: 31588811
+  remote_url: https://www.levantineheritage.com/pdf/Freemasonry_and_fraternalism_in_the_Middle_East.pdf
+  http_last_modified: Wed, 02 Feb 2022 12:18:45 GMT
+files:
+  pdf: original.pdf
+  pdf_markdown: extracted.pdf.md

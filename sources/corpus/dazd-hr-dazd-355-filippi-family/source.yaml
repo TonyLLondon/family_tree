@@ -1,0 +1,14 @@
+id: dazd-hr-dazd-355-filippi-family
+title: DAZD HR-DAZD-355 — Obitelj Filippi (analytical inventory)
+remote:
+  primary_pdf_url: https://www.dazd.hr/attachment/preview/5c657cc87b384/dazd-355-filippi.pdf
+  webpage_url: https://www.dazd.hr/
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:28:38Z'
+  sha256: 70f7d91555ca8b889858fa78b032e5d2370130451018faa32e8479112ad140df
+  bytes: 668196
+  remote_url: https://www.dazd.hr/attachment/preview/5c657cc87b384/dazd-355-filippi.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

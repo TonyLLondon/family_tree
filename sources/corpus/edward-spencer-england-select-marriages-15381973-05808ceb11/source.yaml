@@ -1,0 +1,12 @@
+id: edward-spencer-england-select-marriages-15381973-05808ceb11
+title: Edward Spencer England, Select Marriages, 1538–1973 - AncestryLibrary.com
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:40:34Z'
+  sha256: bd4a784424f107d4e42727aa469970de1c09e053ac33e9d5bca088f3bbc21811
+  bytes: 108803
+  media_reference: media/docs/Edward Spencer England, Select Marriages, 1538–1973 - AncestryLibrary.com.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Edward Spencer England, Select Marriages, 1538–1973 - AncestryLibrary.com.pdf

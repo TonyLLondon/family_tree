@@ -1,0 +1,12 @@
+id: petition-swiss-political-department-bern-russian-ee8fdb0857
+title: Petition Swiss Political Department Bern Russian Holy Synod church supplies WWI typed scan
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:48:47Z'
+  sha256: 921edbdccf49260b7f83d493a7305777a596e0d4af14c0cf5c5d64f19a0e9e10
+  bytes: 4193475
+  media_reference: media/publications/persia-iran/Petition Swiss Political Department Bern Russian Holy Synod church supplies WWI typed scan.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Petition Swiss Political Department Bern Russian Holy Synod church supplies WWI typed scan.pdf

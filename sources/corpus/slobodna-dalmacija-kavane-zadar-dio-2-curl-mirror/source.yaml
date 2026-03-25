@@ -1,0 +1,17 @@
+id: slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror
+title: 'Slobodna Dalmacija — Povijest kavana u Zadru (2. dio) — curl snapshot'
+remote:
+  webpage_url: https://slobodnadalmacija.hr/dalmacija/zadar/zadar-plus/povijest-kavana-u-zadru-2-dio-do-drugog-svjetskog-rata-neke-su-se-zadrzale-neke-su-promijenile-naziv-a-neke-su-postale-barovi-1516476
+fetches:
+- kind: web
+  at: '2026-03-23T17:30:00Z'
+  remote_url: https://slobodnadalmacija.hr/dalmacija/zadar/zadar-plus/povijest-kavana-u-zadru-2-dio-do-drugog-svjetskog-rata-neke-su-se-zadrzale-neke-su-promijenile-naziv-a-neke-su-postale-barovi-1516476
+  sha256: 7be95b2c4bbf694ddd34a143ef078d8c0dc21c9302dc7187e76cd811d380dff2
+  bytes: 5562
+  note: >-
+    curl returned a Cloudflare challenge page (“Enable JavaScript…”), not article body.
+    Migrated from sources/mirrors/zerauschek/.
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md
+  translation_en: translation-slobodna-kavane-zadar-dio-2-access-note.en.md

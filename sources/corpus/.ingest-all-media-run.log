@@ -1,0 +1,2895 @@
+Corpus media_reference count: 10
+PDFs under media/: 200
+Pending ingest: 190
+
+[1/190] media/albums/henderson/Estonian Biographical Center - Stump family research report 2005-09-01.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=4/5.
+
+Canonical PDF (not copied): media/albums/henderson/Estonian Biographical Center - Stump family research report 2005-09-01.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/estonian-biographical-center-stump-family-resear-856c90185e/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/estonian-biographical-center-stump-family-resear-856c90185e/source.yaml
+
+[2/190] media/albums/henderson/Stump Family Tree.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+
+Canonical PDF (not copied): media/albums/henderson/Stump Family Tree.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/stump-family-tree-c3cb58201a/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/stump-family-tree-c3cb58201a/source.yaml
+
+[3/190] media/albums/henderson/Vera Obolensky death notice NYTimes.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/albums/henderson/Vera Obolensky death notice NYTimes.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/vera-obolensky-death-notice-nytimes-2644e85dac/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/vera-obolensky-death-notice-nytimes-2644e85dac/source.yaml
+
+[4/190] media/charts/myheritage/MyHeritage - Archer and Sloan family history chart - 2020-09-18 003916.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/charts/myheritage/MyHeritage - Archer and Sloan family history chart - 2020-09-18 003916.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/myheritage-archer-and-sloan-family-history-chart-2b1a31b45f/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/myheritage-archer-and-sloan-family-history-chart-2b1a31b45f/source.yaml
+
+[5/190] media/charts/myheritage/MyHeritage - Archer and Sloan family history chart - 2020-09-18 004235.pdf
+Image too large: (35264, 27358)
+Traceback (most recent call last):
+  File "/Users/tonylewis/Documents/Projects/family_tree/scripts/ingest_source.py", line 355, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/scripts/ingest_source.py", line 351, in main
+    return int(args.func(args))
+               ~~~~~~~~~^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/scripts/ingest_source.py", line 199, in cmd_pdf
+    md_text = _markdown_from_pdf(read_path, page_markers=page_markers)
+  File "/Users/tonylewis/Documents/Projects/family_tree/scripts/ingest_source.py", line 86, in _markdown_from_pdf
+    return pymupdf4llm.to_markdown(str(path))
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf4llm/__init__.py", line 191, in to_markdown
+    return _layout_to_markdown(*args, **kwargs)
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf4llm/__init__.py", line 80, in _layout_to_markdown
+    parsed_doc = pymupdf4llm.helpers.document_layout.parse_document(
+            doc,
+    ...<13 lines>...
+            ocr_function=ocr_function,
+        )
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf4llm/helpers/document_layout.py", line 1083, in parse_document
+    ocr_function(
+    ~~~~~~~~~~~~^
+        page, dpi=ocr_dpi, language=ocr_language, keep_ocr_text=keep_ocr_text
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf4llm/ocr/tesseract_api.py", line 91, in exec_ocr
+    temp_pdf = pymupdf.open("pdf", pixmap.pdfocr_tobytes(language=language))
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf/__init__.py", line 13741, in pdfocr_tobytes
+    self.pdfocr_save(bio, compress=compress, language=language, tessdata=tessdata)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf/__init__.py", line 13719, in pdfocr_save
+    mupdf.fz_write_pixmap_as_pdfocr( out, pix, opts)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf/mupdf.py", line 54672, in fz_write_pixmap_as_pdfocr
+    return _mupdf.fz_write_pixmap_as_pdfocr(out, pixmap, options)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+pymupdf.mupdf.FzErrorLibrary: code=3: OCR recognise failed
+FAILED → sources/corpus/.media-pdf-ingest-failures.log
+
+[5/190] media/charts/myheritage/MyHeritage - Archer and Sloan family history chart - 2020-09-18 004615.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/charts/myheritage/MyHeritage - Archer and Sloan family history chart - 2020-09-18 004615.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/myheritage-archer-and-sloan-family-history-chart-7809dafc3f/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/myheritage-archer-and-sloan-family-history-chart-7809dafc3f/source.yaml
+
+[6/190] media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 001923.pdf
+Image too large: (33148, 29841)
+Traceback (most recent call last):
+  File "/Users/tonylewis/Documents/Projects/family_tree/scripts/ingest_source.py", line 355, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/scripts/ingest_source.py", line 351, in main
+    return int(args.func(args))
+               ~~~~~~~~~^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/scripts/ingest_source.py", line 199, in cmd_pdf
+    md_text = _markdown_from_pdf(read_path, page_markers=page_markers)
+  File "/Users/tonylewis/Documents/Projects/family_tree/scripts/ingest_source.py", line 86, in _markdown_from_pdf
+    return pymupdf4llm.to_markdown(str(path))
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf4llm/__init__.py", line 191, in to_markdown
+    return _layout_to_markdown(*args, **kwargs)
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf4llm/__init__.py", line 80, in _layout_to_markdown
+    parsed_doc = pymupdf4llm.helpers.document_layout.parse_document(
+            doc,
+    ...<13 lines>...
+            ocr_function=ocr_function,
+        )
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf4llm/helpers/document_layout.py", line 1083, in parse_document
+    ocr_function(
+    ~~~~~~~~~~~~^
+        page, dpi=ocr_dpi, language=ocr_language, keep_ocr_text=keep_ocr_text
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf4llm/ocr/tesseract_api.py", line 91, in exec_ocr
+    temp_pdf = pymupdf.open("pdf", pixmap.pdfocr_tobytes(language=language))
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf/__init__.py", line 13741, in pdfocr_tobytes
+    self.pdfocr_save(bio, compress=compress, language=language, tessdata=tessdata)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf/__init__.py", line 13719, in pdfocr_save
+    mupdf.fz_write_pixmap_as_pdfocr( out, pix, opts)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/tonylewis/Documents/Projects/family_tree/.venv/lib/python3.13/site-packages/pymupdf/mupdf.py", line 54672, in fz_write_pixmap_as_pdfocr
+    return _mupdf.fz_write_pixmap_as_pdfocr(out, pixmap, options)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+pymupdf.mupdf.FzErrorLibrary: code=3: OCR recognise failed
+FAILED → sources/corpus/.media-pdf-ingest-failures.log
+
+[6/190] media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002402.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002402.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/myheritage-sloan-carmen-lewis-ancestors-chart-20-f5225bfa8a/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/myheritage-sloan-carmen-lewis-ancestors-chart-20-f5225bfa8a/source.yaml
+
+[7/190] media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002531.pdf
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002531.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/myheritage-sloan-carmen-lewis-ancestors-chart-20-17a375700d/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/myheritage-sloan-carmen-lewis-ancestors-chart-20-17a375700d/source.yaml
+Corpus media_reference count: 17
+PDFs under media/: 200
+Skipped (easy-tier exclude): 143  (--all to include)
+Pending ingest: 40
+
+[1/40] media/collections/burgess-persian-letters/2020-10-01 Sartip David Sakinian 2.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/2020-10-01 Sartip David Sakinian 2.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/source.yaml
+
+[2/40] media/collections/burgess-persian-letters/2020-10-01 Sartip David Sakinian.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/2020-10-01 Sartip David Sakinian.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/2020-10-01-sartip-david-sakinian-172b364799/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/2020-10-01-sartip-david-sakinian-172b364799/source.yaml
+
+[3/40] media/collections/burgess-persian-letters/Burgess Anna and Fanny plate NYPL collection scan.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Burgess Anna and Fanny plate NYPL collection scan.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/burgess-anna-and-fanny-plate-nypl-collection-sca-34e01f8afe/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/burgess-anna-and-fanny-plate-nypl-collection-sca-34e01f8afe/source.yaml
+
+[4/40] media/collections/burgess-persian-letters/Burgess Persian Letters hardcover binding photos scan 2020-09-26.pdf
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Burgess Persian Letters hardcover binding photos scan 2020-09-26.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/burgess-persian-letters-hardcover-binding-photos-4917265609/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/burgess-persian-letters-hardcover-binding-photos-4917265609/source.yaml
+
+[5/40] media/collections/burgess-persian-letters/Burgess Persian Letters related book pages Farsi scan 2020-10-02 part 2.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Burgess Persian Letters related book pages Farsi scan 2020-10-02 part 2.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/burgess-persian-letters-related-book-pages-farsi-2ad8043198/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/burgess-persian-letters-related-book-pages-farsi-2ad8043198/source.yaml
+
+[6/40] media/collections/burgess-persian-letters/Burgess Persian Letters related book pages Farsi scan 2020-10-02.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Burgess Persian Letters related book pages Farsi scan 2020-10-02.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/burgess-persian-letters-related-book-pages-farsi-1cfe80be9e/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/burgess-persian-letters-related-book-pages-farsi-1cfe80be9e/source.yaml
+
+[7/40] media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 01 Charles portrait and article opening.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 01 Charles portrait and article opening.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-cfc62258b4/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-cfc62258b4/source.yaml
+
+[8/40] media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 02 Part II Henry to Charles 1830.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+OCR on page.number=15/16.
+OCR on page.number=16/17.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 02 Part II Henry to Charles 1830.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-3a9ca8f27a/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-3a9ca8f27a/source.yaml
+
+[9/40] media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 03 Part III Edward to parents Tabriz 1833.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+OCR on page.number=15/16.
+OCR on page.number=16/17.
+OCR on page.number=17/18.
+OCR on page.number=18/19.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 03 Part III Edward to parents Tabriz 1833.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-67eb3ff4c2/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-67eb3ff4c2/source.yaml
+
+[10/40] media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 04 Part IV Edward to George commercial treaty 1841.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 04 Part IV Edward to George commercial treaty 1841.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-2baf06d605/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-2baf06d605/source.yaml
+
+[11/40] media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 05 Part V Edward to mother 1844.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+OCR on page.number=15/16.
+OCR on page.number=16/17.
+OCR on page.number=17/18.
+OCR on page.number=18/19.
+OCR on page.number=19/20.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 05 Part V Edward to mother 1844.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-eaab38616d/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-eaab38616d/source.yaml
+
+[12/40] media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 06 Part VI Edward to George 1845.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 06 Part VI Edward to George 1845.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-8d31f66e1e/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-8d31f66e1e/source.yaml
+
+[13/40] media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 07 Part VII cholera 1846.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+OCR on page.number=15/16.
+OCR on page.number=16/17.
+OCR on page.number=17/18.
+OCR on page.number=18/19.
+OCR on page.number=19/20.
+OCR on page.number=20/21.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 07 Part VII cholera 1846.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-0dcabd6825/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-0dcabd6825/source.yaml
+
+[14/40] media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 08 Part VIII conclusion Gulhek 1849.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+OCR on page.number=15/16.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 08 Part VIII conclusion Gulhek 1849.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-cd38921642/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-burgess-persian-letters-schwartz-0-cd38921642/source.yaml
+
+[15/40] media/collections/burgess-persian-letters/NYPL Bulletin - Charles Burgess portrait plate painted in Persia.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/collections/burgess-persian-letters/NYPL Bulletin - Charles Burgess portrait plate painted in Persia.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-charles-burgess-portrait-plate-pai-12c012a8b3/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/nypl-bulletin-charles-burgess-portrait-plate-pai-12c012a8b3/source.yaml
+
+[16/40] media/collections/stump-etienne/Princess Obolensky.pdf
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 1102 by factor 0.0326679 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 902 by factor 0.0399113 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 902 by factor 0.0399113 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 731 by factor 0.0492476 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 850 by factor 0.0423529 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 857 by factor 0.042007 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 12, 918 by factor 0.0392157 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 1588 by factor 0.02267 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 21, 1564 by factor 0.0230179 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 14, 1140 by factor 0.0315789 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 11, 1720 by factor 0.0209302 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 11, 1499 by factor 0.024016 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 12, 1359 by factor 0.0264901 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 12, 1322 by factor 0.0272315 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 12, 1049 by factor 0.0343184 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 17, 1513 by factor 0.0237938 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 1603 by factor 0.0224579 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 874 by factor 0.0411899 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Warning in pixScaleSmooth: ridiculously small scaling factor 0.019293
+Image too small to scale!! (1x1 vs min width of 3)
+Line cannot be recognized!!
+Warning in pixScaleSmooth: ridiculously small scaling factor 0.019661
+Image too small to scale!! (1x1 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 1461 by factor 0.0246407 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 799 by factor 0.0450563 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Warning in pixScaleSmooth: ridiculously small scaling factor 0.019934
+Image too small to scale!! (1x1 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 21, 1654 by factor 0.0217654 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 1124 by factor 0.0320285 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 10, 1304 by factor 0.0276074 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 14, 1238 by factor 0.0290792 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 18, 1420 by factor 0.0253521 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 11, 1599 by factor 0.0225141 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 15, 1561 by factor 0.0230621 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 13, 1031 by factor 0.0349176 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 12, 1068 by factor 0.0337079 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 14, 1033 by factor 0.03485 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 13, 978 by factor 0.0368098 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 12, 1331 by factor 0.0270473 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 15, 1530 by factor 0.0235294 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 13, 1321 by factor 0.0272521 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 11, 942 by factor 0.0382166 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 12, 983 by factor 0.0366226 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Error in pixScaleAreaMap: pixd too small
+Error in pixClone: pixs not defined
+Error in pixCopyText: pixd not defined
+Error in pixCopyInputFormat: pixd not defined
+Scaling pix of size 13, 1076 by factor 0.0334572 made null pix!!
+Bad pix from ImageData!
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/collections/stump-etienne/Princess Obolensky.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/princess-obolensky-abbcc58ed8/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/princess-obolensky-abbcc58ed8/source.yaml
+
+[17/40] media/docs/Adrian OSullivan - Espionage and Counterintelligence in Occupied Persia Iran 2015 Palgrave sample.pdf
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for AGFA_BleedArea annotations
+
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+
+Canonical PDF (not copied): media/docs/Adrian OSullivan - Espionage and Counterintelligence in Occupied Persia Iran 2015 Palgrave sample.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/adrian-osullivan-espionage-and-counterintelligen-3234f4d10b/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/adrian-osullivan-espionage-and-counterintelligen-3234f4d10b/source.yaml
+
+[18/40] media/docs/Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=17/18.
+OCR on page.number=21/22.
+OCR on page.number=55/56.
+OCR on page.number=69/70.
+OCR on page.number=70/71.
+OCR on page.number=72/73.
+OCR on page.number=75/76.
+OCR on page.number=77/78.
+OCR on page.number=78/79.
+OCR on page.number=83/84.
+OCR on page.number=90/91.
+OCR on page.number=92/93.
+OCR on page.number=99/100.
+OCR on page.number=100/101.
+OCR on page.number=101/102.
+OCR on page.number=104/105.
+OCR on page.number=105/106.
+OCR on page.number=106/107.
+OCR on page.number=108/109.
+OCR on page.number=110/111.
+OCR on page.number=113/114.
+OCR on page.number=121/122.
+OCR on page.number=130/131.
+OCR on page.number=131/132.
+OCR on page.number=132/133.
+OCR on page.number=133/134.
+OCR on page.number=134/135.
+OCR on page.number=138/139.
+OCR on page.number=140/141.
+OCR on page.number=144/145.
+OCR on page.number=146/147.
+OCR on page.number=147/148.
+OCR on page.number=159/160.
+OCR on page.number=161/162.
+OCR on page.number=164/165.
+OCR on page.number=167/168.
+OCR on page.number=175/176.
+OCR on page.number=181/182.
+OCR on page.number=183/184.
+OCR on page.number=187/188.
+OCR on page.number=189/190.
+OCR on page.number=191/192.
+
+Canonical PDF (not copied): media/docs/Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf/source.yaml
+
+[19/40] media/docs/Catherine Enright 1911.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/docs/Catherine Enright 1911.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/catherine-enright-1911-30da5b22af/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/catherine-enright-1911-30da5b22af/source.yaml
+
+[20/40] media/docs/census for whites in 1911 in ireland.pdf
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/docs/census for whites in 1911 in ireland.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/census-for-whites-in-1911-in-ireland-20007ea92c/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/census-for-whites-in-1911-in-ireland-20007ea92c/source.yaml
+
+[21/40] media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=4/5.
+OCR on page.number=39/40.
+OCR on page.number=85/86.
+OCR on page.number=87/88.
+OCR on page.number=92/93.
+OCR on page.number=94/95.
+OCR on page.number=97/98.
+OCR on page.number=99/100.
+OCR on page.number=102/103.
+OCR on page.number=103/104.
+OCR on page.number=104/105.
+OCR on page.number=106/107.
+OCR on page.number=110/111.
+OCR on page.number=114/115.
+OCR on page.number=115/116.
+OCR on page.number=116/117.
+OCR on page.number=117/118.
+OCR on page.number=118/119.
+OCR on page.number=120/121.
+OCR on page.number=121/122.
+OCR on page.number=122/123.
+OCR on page.number=123/124.
+OCR on page.number=124/125.
+OCR on page.number=125/126.
+OCR on page.number=127/128.
+OCR on page.number=130/131.
+OCR on page.number=133/134.
+OCR on page.number=141/142.
+OCR on page.number=150/151.
+OCR on page.number=156/157.
+OCR on page.number=161/162.
+OCR on page.number=164/165.
+OCR on page.number=166/167.
+OCR on page.number=179/180.
+OCR on page.number=181/182.
+OCR on page.number=187/188.
+OCR on page.number=188/189.
+OCR on page.number=189/190.
+OCR on page.number=192/193.
+OCR on page.number=194/195.
+OCR on page.number=197/198.
+OCR on page.number=203/204.
+OCR on page.number=207/208.
+OCR on page.number=210/211.
+OCR on page.number=221/222.
+OCR on page.number=232/233.
+OCR on page.number=233/234.
+OCR on page.number=235/236.
+OCR on page.number=236/237.
+OCR on page.number=237/238.
+OCR on page.number=238/239.
+OCR on page.number=240/241.
+OCR on page.number=242/243.
+OCR on page.number=243/244.
+OCR on page.number=244/245.
+OCR on page.number=247/248.
+OCR on page.number=249/250.
+OCR on page.number=250/251.
+OCR on page.number=252/253.
+OCR on page.number=266/267.
+OCR on page.number=272/273.
+OCR on page.number=273/274.
+OCR on page.number=274/275.
+OCR on page.number=277/278.
+OCR on page.number=280/281.
+OCR on page.number=282/283.
+OCR on page.number=284/285.
+OCR on page.number=286/287.
+OCR on page.number=287/288.
+OCR on page.number=289/290.
+OCR on page.number=290/291.
+OCR on page.number=291/292.
+OCR on page.number=293/294.
+OCR on page.number=319/320.
+OCR on page.number=320/321.
+OCR on page.number=321/322.
+OCR on page.number=324/325.
+OCR on page.number=333/334.
+OCR on page.number=458/459.
+OCR on page.number=459/460.
+
+Canonical PDF (not copied): media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/source.yaml
+
+[22/40] media/docs/Edward Spencer England, Select Marriages, 1538–1973 - AncestryLibrary.com.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+
+Canonical PDF (not copied): media/docs/Edward Spencer England, Select Marriages, 1538–1973 - AncestryLibrary.com.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/source.yaml
+
+[23/40] media/docs/Gabriele Yonan - Lest We Perish - Christian Assyrians Turkey and Persia 1996.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+
+Canonical PDF (not copied): media/docs/Gabriele Yonan - Lest We Perish - Christian Assyrians Turkey and Persia 1996.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3/source.yaml
+
+[24/40] media/docs/History of the Missions of the american Board of Commissoiners.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/docs/History of the Missions of the american Board of Commissoiners.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/history-of-the-missions-of-the-american-board-of-651655d656/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/history-of-the-missions-of-the-american-board-of-651655d656/source.yaml
+
+[25/40] media/docs/Implications of American missionary presence in 19th and 20th cen.pdf
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+OCR on page.number=15/16.
+OCR on page.number=16/17.
+OCR on page.number=17/18.
+OCR on page.number=18/19.
+OCR on page.number=19/20.
+OCR on page.number=20/21.
+OCR on page.number=21/22.
+OCR on page.number=22/23.
+OCR on page.number=23/24.
+OCR on page.number=24/25.
+OCR on page.number=25/26.
+OCR on page.number=26/27.
+OCR on page.number=27/28.
+OCR on page.number=28/29.
+OCR on page.number=29/30.
+OCR on page.number=30/31.
+OCR on page.number=31/32.
+OCR on page.number=32/33.
+OCR on page.number=33/34.
+OCR on page.number=34/35.
+OCR on page.number=35/36.
+OCR on page.number=36/37.
+OCR on page.number=37/38.
+OCR on page.number=38/39.
+OCR on page.number=39/40.
+OCR on page.number=40/41.
+OCR on page.number=41/42.
+OCR on page.number=42/43.
+OCR on page.number=43/44.
+OCR on page.number=44/45.
+OCR on page.number=45/46.
+OCR on page.number=46/47.
+OCR on page.number=47/48.
+OCR on page.number=48/49.
+OCR on page.number=49/50.
+OCR on page.number=50/51.
+OCR on page.number=51/52.
+OCR on page.number=52/53.
+OCR on page.number=53/54.
+OCR on page.number=54/55.
+OCR on page.number=55/56.
+OCR on page.number=56/57.
+OCR on page.number=57/58.
+OCR on page.number=58/59.
+OCR on page.number=59/60.
+OCR on page.number=60/61.
+OCR on page.number=61/62.
+OCR on page.number=62/63.
+OCR on page.number=63/64.
+OCR on page.number=64/65.
+OCR on page.number=65/66.
+OCR on page.number=66/67.
+OCR on page.number=67/68.
+OCR on page.number=68/69.
+OCR on page.number=69/70.
+OCR on page.number=70/71.
+OCR on page.number=71/72.
+OCR on page.number=72/73.
+OCR on page.number=73/74.
+OCR on page.number=74/75.
+OCR on page.number=75/76.
+OCR on page.number=76/77.
+OCR on page.number=77/78.
+OCR on page.number=78/79.
+OCR on page.number=79/80.
+OCR on page.number=80/81.
+OCR on page.number=81/82.
+OCR on page.number=82/83.
+OCR on page.number=83/84.
+OCR on page.number=84/85.
+OCR on page.number=85/86.
+OCR on page.number=86/87.
+OCR on page.number=87/88.
+OCR on page.number=88/89.
+OCR on page.number=89/90.
+OCR on page.number=90/91.
+OCR on page.number=91/92.
+OCR on page.number=92/93.
+OCR on page.number=93/94.
+OCR on page.number=94/95.
+OCR on page.number=95/96.
+OCR on page.number=96/97.
+OCR on page.number=97/98.
+OCR on page.number=98/99.
+OCR on page.number=99/100.
+OCR on page.number=100/101.
+OCR on page.number=101/102.
+OCR on page.number=102/103.
+OCR on page.number=103/104.
+OCR on page.number=104/105.
+OCR on page.number=105/106.
+OCR on page.number=106/107.
+OCR on page.number=107/108.
+OCR on page.number=108/109.
+OCR on page.number=109/110.
+OCR on page.number=110/111.
+OCR on page.number=111/112.
+OCR on page.number=112/113.
+OCR on page.number=113/114.
+OCR on page.number=114/115.
+OCR on page.number=115/116.
+OCR on page.number=116/117.
+OCR on page.number=117/118.
+OCR on page.number=118/119.
+
+Canonical PDF (not copied): media/docs/Implications of American missionary presence in 19th and 20th cen.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/implications-of-american-missionary-presence-in-360b52c2c7/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/implications-of-american-missionary-presence-in-360b52c2c7/source.yaml
+
+[26/40] media/docs/Ireland Census 1901.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/docs/Ireland Census 1901.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/ireland-census-1901-34e603dc32/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/ireland-census-1901-34e603dc32/source.yaml
+
+[27/40] media/docs/Jeffrey Eden - Slavery and Empire in Central Asia - Harvard dissertation 2016.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/docs/Jeffrey Eden - Slavery and Empire in Central Asia - Harvard dissertation 2016.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/jeffrey-eden-slavery-and-empire-in-central-asia-c3f6a370db/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/jeffrey-eden-slavery-and-empire-in-central-asia-c3f6a370db/source.yaml
+
+[28/40] media/docs/Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+
+Canonical PDF (not copied): media/docs/Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/limerick-chronicle-250th-anniversary-docklands-1-150c89458e/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/limerick-chronicle-250th-anniversary-docklands-1-150c89458e/source.yaml
+
+[29/40] media/docs/Lior Sternfeld - Reclaiming Their Past Jewish History in Iran Pahlavi early revolution - UT Austin dissertation 2014.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=58/59.
+OCR on page.number=65/66.
+OCR on page.number=86/87.
+OCR on page.number=88/89.
+OCR on page.number=90/91.
+OCR on page.number=95/96.
+OCR on page.number=108/109.
+OCR on page.number=111/112.
+OCR on page.number=132/133.
+OCR on page.number=135/136.
+OCR on page.number=147/148.
+OCR on page.number=163/164.
+OCR on page.number=167/168.
+
+Canonical PDF (not copied): media/docs/Lior Sternfeld - Reclaiming Their Past Jewish History in Iran Pahlavi early revolution - UT Austin dissertation 2014.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/lior-sternfeld-reclaiming-their-past-jewish-hist-bc02d32469/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/lior-sternfeld-reclaiming-their-past-jewish-hist-bc02d32469/source.yaml
+
+[30/40] media/docs/Louisa Spencer England, Select Births and Christenings, 1538-1975 - AncestryLibrary.com.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+
+Canonical PDF (not copied): media/docs/Louisa Spencer England, Select Births and Christenings, 1538-1975 - AncestryLibrary.com.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/source.yaml
+
+[31/40] media/docs/Old Limerick Journal - Casteleyn Thomas Roche Limerick and Rotterdam 1736-1788 pp34-36.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+
+Canonical PDF (not copied): media/docs/Old Limerick Journal - Casteleyn Thomas Roche Limerick and Rotterdam 1736-1788 pp34-36.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/old-limerick-journal-casteleyn-thomas-roche-lime-36137756bf/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/old-limerick-journal-casteleyn-thomas-roche-lime-36137756bf/source.yaml
+
+[32/40] media/military/Major David Lewis Silver Star.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+
+Canonical PDF (not copied): media/military/Major David Lewis Silver Star.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/major-david-lewis-silver-star-3cb536e3d7/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/major-david-lewis-silver-star-3cb536e3d7/source.yaml
+
+[33/40] media/publications/babi-bahai/Baha'i Talks, Messages and Articles_ An Italian scientist extols the Báb_ – one of the very first documentations made by a European of the episode of the Báb – by Ugo R. Giachery.pdf
+Image too small to scale!! (1x36 vs min width of 3)
+Line cannot be recognized!!
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+
+Canonical PDF (not copied): media/publications/babi-bahai/Baha'i Talks, Messages and Articles_ An Italian scientist extols the Báb_ – one of the very first documentations made by a European of the episode of the Báb – by Ugo R. Giachery.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/source.yaml
+
+[34/40] media/publications/babi-bahai/Lessona - I Babi - Conferenze Torinesi 1881 Ermanno Loescher Torino.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+OCR on page.number=12/13.
+OCR on page.number=13/14.
+OCR on page.number=14/15.
+OCR on page.number=15/16.
+OCR on page.number=16/17.
+OCR on page.number=17/18.
+OCR on page.number=18/19.
+OCR on page.number=19/20.
+OCR on page.number=20/21.
+OCR on page.number=21/22.
+OCR on page.number=22/23.
+OCR on page.number=23/24.
+OCR on page.number=24/25.
+OCR on page.number=25/26.
+OCR on page.number=26/27.
+OCR on page.number=27/28.
+OCR on page.number=28/29.
+OCR on page.number=29/30.
+OCR on page.number=30/31.
+OCR on page.number=31/32.
+OCR on page.number=32/33.
+OCR on page.number=33/34.
+OCR on page.number=34/35.
+OCR on page.number=35/36.
+OCR on page.number=36/37.
+OCR on page.number=37/38.
+OCR on page.number=38/39.
+OCR on page.number=39/40.
+OCR on page.number=40/41.
+OCR on page.number=41/42.
+OCR on page.number=42/43.
+OCR on page.number=43/44.
+OCR on page.number=44/45.
+OCR on page.number=45/46.
+OCR on page.number=46/47.
+OCR on page.number=47/48.
+OCR on page.number=48/49.
+OCR on page.number=49/50.
+OCR on page.number=50/51.
+OCR on page.number=51/52.
+OCR on page.number=52/53.
+OCR on page.number=53/54.
+OCR on page.number=54/55.
+OCR on page.number=55/56.
+OCR on page.number=56/57.
+OCR on page.number=57/58.
+OCR on page.number=58/59.
+OCR on page.number=59/60.
+OCR on page.number=60/61.
+OCR on page.number=61/62.
+OCR on page.number=62/63.
+OCR on page.number=63/64.
+OCR on page.number=64/65.
+OCR on page.number=65/66.
+OCR on page.number=66/67.
+OCR on page.number=67/68.
+
+Canonical PDF (not copied): media/publications/babi-bahai/Lessona - I Babi - Conferenze Torinesi 1881 Ermanno Loescher Torino.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7/source.yaml
+
+[35/40] media/publications/babi-bahai/SOLAS Bahai Studies English-speaking Europe Irish ed vol 4 Autumn Winter 2004.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=26/27.
+
+Canonical PDF (not copied): media/publications/babi-bahai/SOLAS Bahai Studies English-speaking Europe Irish ed vol 4 Autumn Winter 2004.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/solas-bahai-studies-english-speaking-europe-iris-390913e50c/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/solas-bahai-studies-english-speaking-europe-iris-390913e50c/source.yaml
+
+[36/40] media/publications/genealogy-regional/Roche of Limerick – Forgotten Victorians.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=5/6.
+OCR on page.number=11/12.
+
+Canonical PDF (not copied): media/publications/genealogy-regional/Roche of Limerick – Forgotten Victorians.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/source.yaml
+
+[37/40] media/publications/persia-iran/Christian Mission to Muslims.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+
+Canonical PDF (not copied): media/publications/persia-iran/Christian Mission to Muslims.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/christian-mission-to-muslims-fc5eb90f00/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/christian-mission-to-muslims-fc5eb90f00/source.yaml
+
+[38/40] media/publications/persia-iran/History of the Mission by Rufus Anderson.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+
+Canonical PDF (not copied): media/publications/persia-iran/History of the Mission by Rufus Anderson.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/history-of-the-mission-by-rufus-anderson-5264293694/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/history-of-the-mission-by-rufus-anderson-5264293694/source.yaml
+
+[39/40] media/publications/persia-iran/Petition Swiss Political Department Bern Russian Holy Synod church supplies WWI typed scan.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+OCR on page.number=0/1.
+OCR on page.number=1/2.
+OCR on page.number=2/3.
+OCR on page.number=3/4.
+OCR on page.number=4/5.
+OCR on page.number=5/6.
+OCR on page.number=6/7.
+OCR on page.number=7/8.
+OCR on page.number=8/9.
+OCR on page.number=9/10.
+OCR on page.number=10/11.
+OCR on page.number=11/12.
+
+Canonical PDF (not copied): media/publications/persia-iran/Petition Swiss Political Department Bern Russian Holy Synod church supplies WWI typed scan.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/petition-swiss-political-department-bern-russian-ee8fdb0857/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/petition-swiss-political-department-bern-russian-ee8fdb0857/source.yaml
+
+[40/40] media/publications/persia-iran/Woman and her Saviour.pdf
+=== Document parser messages ===
+Using Tesseract for OCR processing.
+
+Canonical PDF (not copied): media/publications/persia-iran/Woman and her Saviour.pdf
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/woman-and-her-saviour-bd2948a214/extracted.pdf.md
+      /Users/tonylewis/Documents/Projects/family_tree/sources/corpus/woman-and-her-saviour-bd2948a214/source.yaml
+
+Finished: 40 new corpus bundle(s); failures in sources/corpus/.media-pdf-ingest-failures.log

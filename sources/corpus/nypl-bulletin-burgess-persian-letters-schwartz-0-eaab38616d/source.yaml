@@ -1,0 +1,12 @@
+id: nypl-bulletin-burgess-persian-letters-schwartz-0-eaab38616d
+title: NYPL Bulletin Burgess Persian Letters Schwartz - 05 Part V Edward to mother 1844
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:29:43Z'
+  sha256: e26e63c8dec55b3f944c82a0729d98e5e42ad96d8b87ccb1b078695f7e015b5f
+  bytes: 5265695
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 05 Part V Edward to mother 1844.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 05 Part V Edward to mother 1844.pdf

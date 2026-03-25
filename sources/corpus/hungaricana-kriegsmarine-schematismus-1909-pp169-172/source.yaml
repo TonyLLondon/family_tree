@@ -1,0 +1,14 @@
+id: hungaricana-kriegsmarine-schematismus-1909-pp169-172
+title: Hungaricana — Kriegs-Marine / Schematismus 1909, pp. 169–172 (Landwehr brigade excerpt)
+remote:
+  webpage_url: https://library.hungaricana.hu/en/view/KriegsMarine_1909/?pg=169
+provenance_note: Page-range PDF exported from Hungaricana; canonical bytes under media/ (not duplicated in corpus).
+fetches:
+- kind: pdf
+  at: '2026-03-22T09:28:50Z'
+  sha256: 1ac2370acc73f1b308ca2de7dcc3d56420afafddc34b24d8a9e371288e1f1ba8
+  bytes: 1973324
+  media_reference: media/docs/hungaricana-schematismus/KriegsMarine_1909_pages169-172.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/hungaricana-schematismus/KriegsMarine_1909_pages169-172.pdf

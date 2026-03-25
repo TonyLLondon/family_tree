@@ -1,0 +1,14 @@
+id: digar-revalsche-zeitung-1908-01-23-nr19-reader
+title: 'DIGAR reader: Revalsche Zeitung nr. 19, 23 January 1908 (HTML shell)'
+remote:
+  webpage_url: https://dea.digar.ee/?a=d&d=revalschezeitung19080123.1.1
+fetches:
+- kind: web
+  at: '2026-03-22T18:29:51Z'
+  remote_url: https://dea.digar.ee/?a=d&d=revalschezeitung19080123.1.1
+  sha256: aa3faff546f0346bcd75163c65b84f1878670466dfcd723f970784f19af036a5
+  bytes: 66296
+  http_last_modified: Sun, 22 Mar 2026 18:29:35 GMT
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

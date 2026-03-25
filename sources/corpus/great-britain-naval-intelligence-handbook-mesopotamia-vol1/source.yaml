@@ -1,0 +1,12 @@
+id: great-britain-naval-intelligence-handbook-mesopotamia-vol1
+title: Great Britain Naval Intelligence - Handbook of Mesopotamia vol. 1
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:41:31Z'
+  sha256: 636f90d540c77972396c7df862872b22d731a439bfde06924a4b588d80cebf5f
+  bytes: 27406515
+  media_reference: media/docs/Great Britain Naval Intelligence - Handbook of Mesopotamia vol 1.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Great Britain Naval Intelligence - Handbook of Mesopotamia vol 1.pdf

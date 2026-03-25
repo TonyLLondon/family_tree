@@ -1,0 +1,14 @@
+id: de-wikipedia-eugen-edmund-erbe
+title: 'Wikipedia (de): Eugen Edmund Erbe'
+remote:
+  webpage_url: https://de.wikipedia.org/wiki/Eugen_Edmund_Erbe
+  fetch_url: https://de.wikipedia.org/api/rest_v1/page/html/Eugen_Edmund_Erbe
+fetches:
+- kind: web
+  at: '2026-03-22T18:23:31Z'
+  remote_url: https://de.wikipedia.org/api/rest_v1/page/html/Eugen_Edmund_Erbe
+  sha256: fe44f26806da5193f79b34140ebfd20c852ad951ad5d6ffa01f4c48055857f72
+  bytes: 9704
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

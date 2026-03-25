@@ -1,0 +1,14 @@
+id: dazd-notaries-zadar
+title: DAZD HR-DAZD-31 — Notaries of Zadar inventory (includes Angelo Daniele Addobbati 1806–1831)
+remote:
+  primary_pdf_url: https://www.dazd.hr/attachment/preview/64a51ca07173d/hr-dazd-31-biljeznici-zadra.pdf
+  webpage_url: https://www.dazd.hr
+fetches:
+- kind: pdf
+  at: '2026-03-21T21:24:19Z'
+  sha256: cd81470c1286e8446683192ba498a55054faa2180f33c7ddb4eb137e54cbb1dd
+  bytes: 1114214
+  remote_url: https://www.dazd.hr/attachment/preview/64a51ca07173d/hr-dazd-31-biljeznici-zadra.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

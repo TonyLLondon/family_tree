@@ -1,0 +1,12 @@
+id: onnerfors-freemasonry-fraternalism-middle-east
+title: Andreas Onnerfors - Freemasonry and Fraternalism in the Middle East
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-22T09:07:11Z'
+  sha256: a0dc6858d9a1cacc5b484a9e971150c0521014610ee8804f9ed489f10faf7cf1
+  bytes: 31588811
+  media_reference: sources/corpus/levantine-freemasonry/original.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: sources/corpus/levantine-freemasonry/original.pdf

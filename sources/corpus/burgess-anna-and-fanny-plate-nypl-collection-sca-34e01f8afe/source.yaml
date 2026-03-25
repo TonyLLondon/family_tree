@@ -1,0 +1,12 @@
+id: burgess-anna-and-fanny-plate-nypl-collection-sca-34e01f8afe
+title: Burgess Anna and Fanny plate NYPL collection scan
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:22:00Z'
+  sha256: 550c28b2d6f13f21db91a84389aa9118caa2e82ffd9bb69e858da4330a23480b
+  bytes: 1098480
+  media_reference: media/collections/burgess-persian-letters/Burgess Anna and Fanny plate NYPL collection scan.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Burgess Anna and Fanny plate NYPL collection scan.pdf

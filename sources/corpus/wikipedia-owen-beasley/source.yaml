@@ -1,0 +1,6 @@
+remote:
+  webpage_url: https://en.wikipedia.org/wiki/Owen_Beasley
+fetches:
+  - fetched_at: "2026-03-21"
+    method: manual-browser-save
+    notes: "Wikipedia returned 403 to ingest bot; saved manually from browser to manual/1.md then moved to corpus."

@@ -1,0 +1,16 @@
+id: hazu-dizbi-nin-nobles-list-1817
+title: HAZU DIZBI — Nin nobles list 1817 (g9bamu9vjedr)
+remote:
+  primary_pdf_url: https://dizbi.hazu.hr/d17b118n/main/g/9b/amu/g9bamu9vjedr.pdf
+  webpage_url: https://dizbi.hazu.hr/
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:28:29Z'
+  sha256: 641a6b5e8795ce7cf4cb23e701f90647199edd6d6a1683e1bd2d87298de378e3
+  bytes: 1103470
+  remote_url: https://dizbi.hazu.hr/d17b118n/main/g/9b/amu/g9bamu9vjedr.pdf
+  http_last_modified: Thu, 24 May 2018 01:41:19 GMT
+  http_etag: '"blop0jnlop34nnfy"'
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

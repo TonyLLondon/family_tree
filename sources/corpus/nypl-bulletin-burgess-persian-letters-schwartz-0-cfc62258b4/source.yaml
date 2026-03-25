@@ -1,0 +1,12 @@
+id: nypl-bulletin-burgess-persian-letters-schwartz-0-cfc62258b4
+title: NYPL Bulletin Burgess Persian Letters Schwartz - 01 Charles portrait and article opening
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:23:01Z'
+  sha256: c87adefc83505ee7c65f263821e05d8012ffa9e725c6f6a869d523045b813107
+  bytes: 2501489
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 01 Charles portrait and article opening.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 01 Charles portrait and article opening.pdf

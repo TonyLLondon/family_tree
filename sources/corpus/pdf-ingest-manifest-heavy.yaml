@@ -1,0 +1,10 @@
+# Very large PDFs — run separately (long runtime, high RAM):
+#   .venv/bin/python scripts/batch_pdf_extract.py --manifest sources/corpus/pdf-ingest-manifest-heavy.yaml
+
+- slug: narrative-mission-bokhara
+  file: media/docs/Narrative of a mission to Bokhara.pdf
+  title: Narrative of a mission to Bokhara
+
+- slug: medical-times-gazette-1878-vol2-july-december
+  file: media/publications/persia-iran/Medical Times and Gazette vol 2 July-December 1878 Internet Archive.pdf
+  title: Medical Times and Gazette vol. 2 (July–December 1878)

@@ -1,0 +1,27 @@
+slug: henderson-burgess-stump-family-tree
+title: "Henderson Burgess-Stump Family Tree (spreadsheet)"
+description: >
+  Multi-sheet Excel workbook from the Henderson collection with four family tree
+  charts: Burgess main line, Burgess-Ransom, Leicester Burgess, and George Burgess
+  branches. Covers Joseph Burgess (b. 1735) through mid-20th-century descendants
+  including the Bottin children and Stump family.
+provenance:
+  origin: Henderson family papers
+  format: XLS spreadsheet (Excel 97–2003), 4 sheets
+  received: 2020-09 (digital transfer from Henderson collection)
+files:
+  media_reference: "media/albums/henderson/Burgess-Stump Family Tree.xls"
+  extracts:
+    - "Burgess-Stump Family Tree - Burgess.csv"
+    - "Burgess-Stump Family Tree - Burgess-Ransom.csv"
+    - "Burgess-Stump Family Tree - Leicester Burgess.csv"
+    - "Burgess-Stump Family Tree - George Burgess.csv"
+  annotation: "media/albums/henderson/Burgess-Stump Family Tree.md"
+people:
+  - henry-burgess
+  - edward-burgess
+  - fanny-burgess
+  - julien-bottin
+  - henriette-bottin
+  - etienne-stump
+  - robert-marc-murard-stump

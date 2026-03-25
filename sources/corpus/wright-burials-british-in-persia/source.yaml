@@ -1,0 +1,11 @@
+id: wright-burials-british-in-persia
+title: Sir Denis Wright — Burials and Memorials of the British in Persia
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T19:46:40Z'
+  sha256: 268a6e40b2cc709239e2ce29627ff1e7fcdd19cdeaf7178ffbdee9e1eead2fd3
+  bytes: 1965695
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Sir Denis Wright_Burials and Memorials of the British in Persia.pdf

@@ -1,0 +1,21 @@
+id: digar-revalsche-zeitung-1908-01-23-nr19-static
+title: 'DIGAR: Revalsche Zeitung nr. 19, 23 January 1908 (full issue PDF)'
+remote:
+  primary_pdf_url: https://dea.digar.ee/?a=is&oid=revalschezeitung19080123&type=staticpdf
+  webpage_url: https://dea.digar.ee/?a=d&d=revalschezeitung19080123.1.1
+fetches:
+- kind: pdf
+  at: '2026-03-22T18:23:39Z'
+  sha256: 05aeba75273a3d8085cdf6125555f4d01ebbcc9ed0fdd082123cdf4fba7dd428
+  bytes: 16536267
+  remote_url: https://dea.digar.ee/?a=is&oid=revalschezeitung19080123&type=staticpdf
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf
+  human_notes: reference.md
+  transcription_de: transcription-eugen-erbe-nekrolog-1908-01-23.de.md
+  translation_en: translation-eugen-erbe-nekrolog-1908-01-23.en.md
+  page_jpeg_1: pages-jpeg/page-01-of-04.jpg
+  page_jpeg_2: pages-jpeg/page-02-of-04.jpg
+  page_jpeg_3: pages-jpeg/page-03-of-04.jpg
+  page_jpeg_4: pages-jpeg/page-04-of-04.jpg

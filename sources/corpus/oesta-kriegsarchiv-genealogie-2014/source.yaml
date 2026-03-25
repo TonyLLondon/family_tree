@@ -1,0 +1,15 @@
+id: oesta-kriegsarchiv-genealogie-2014
+title: ÖStA — Genealogie im Kriegsarchiv (Dec 2014 leaflet)
+remote:
+  primary_pdf_url: https://www.oesta.gv.at/dam/jcr:11904403-cdc8-4694-be82-c59c80ebf3cd/Genealogie%20im%20Kriegsarchiv%20%2805%2012%202014%29.pdf
+  webpage_url: https://www.oesta.gv.at/
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:28:30Z'
+  sha256: 26dc887a6f1c489e388198ad6a29d4f1129ad4274cf8fb781b5115c34eea7e87
+  bytes: 388644
+  remote_url: https://www.oesta.gv.at/dam/jcr:11904403-cdc8-4694-be82-c59c80ebf3cd/Genealogie%20im%20Kriegsarchiv%20%2805%2012%202014%29.pdf
+  http_last_modified: Wed, 20 May 2020 09:48:12 GMT
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

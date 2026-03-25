@@ -1,0 +1,12 @@
+id: navasargian-2012-armenia-highlands-garden-eden-part3
+title: Alice Navasargian 2012 - Armenia highlands, Garden of Eden, ancient history (part 3 of 3)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-22T09:04:20Z'
+  sha256: 59dff6edb4e4c8dd45363b3bf8cdd5c48b9d3f210c335fe48ca8eed1f32598ec
+  bytes: 28577111
+  media_reference: media/publications/persia-iran/Alice Navasargian 2012 - Armenia highlands Garden of Eden ancient history part 3 of 3.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Alice Navasargian 2012 - Armenia highlands Garden of Eden ancient history part 3 of 3.pdf

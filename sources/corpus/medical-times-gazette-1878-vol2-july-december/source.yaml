@@ -1,0 +1,12 @@
+id: medical-times-gazette-1878-vol2-july-december
+title: Medical Times and Gazette vol. 2 (July–December 1878)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:10:50Z'
+  sha256: 5b44ff6d1c762a7ac869ac1e85d58a7145ae2fe47c3dc86abccb43e65bd70027
+  bytes: 93826759
+  media_reference: media/publications/persia-iran/Medical Times and Gazette vol 2 July-December 1878 Internet Archive.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Medical Times and Gazette vol 2 July-December 1878 Internet Archive.pdf

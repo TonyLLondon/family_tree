@@ -1,0 +1,12 @@
+id: catherine-mary-roche-parentage-genealogical-report
+title: 'Genealogical report: Catherine Mary Roche (1841–1937) parentage'
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-23T09:13:07Z'
+  sha256: 21c130fd0623d4e8e83b1834adcad2adedfddc3b7a202d88bd5e3d729063d16e
+  bytes: 46441
+  media_reference: media/publications/genealogy-regional/catherine-mary-roche-parentage-genealogical-report.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/genealogy-regional/catherine-mary-roche-parentage-genealogical-report.pdf

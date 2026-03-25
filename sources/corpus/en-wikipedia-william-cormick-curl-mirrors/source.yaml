@@ -1,0 +1,22 @@
+id: en-wikipedia-william-cormick-curl-mirrors
+title: 'English Wikipedia: William Cormick — offline curl captures'
+remote:
+  webpage_url: https://en.wikipedia.org/wiki/William_Cormick
+  fetch_url: https://en.wikipedia.org/api/rest_v1/page/html/William_Cormick
+fetches:
+- kind: web
+  at: '2026-03-23T17:30:00Z'
+  remote_url: https://en.wikipedia.org/api/rest_v1/page/html/William_Cormick
+  sha256: 21becc4f930da56346d304037e2a74d2bd166e30a8e989ab026db439e74303a1
+  bytes: 35664
+  note: REST v1 HTML body; primary `mirror.html`. Migrated from sources/mirrors/canonical/.
+- kind: web
+  at: '2026-03-23T17:30:00Z'
+  remote_url: https://en.wikipedia.org/wiki/William_Cormick
+  sha256: 45aa80a6b55abd3b3b0fde97a118459fd04c2fb9e48fdb538d57663d0e00be01
+  bytes: 76045
+  note: Full MediaWiki desktop HTML; `mirror-desktop-site.html`.
+files:
+  html_mirror: mirror.html
+  desktop_html_mirror: mirror-desktop-site.html
+  web_markdown: extracted.web.md

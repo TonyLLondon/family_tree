@@ -1,0 +1,13 @@
+id: princess-obolensky-abbcc58ed8
+title: Princess Obolensky
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:35:32Z'
+  sha256: 3a4425c6862c7c28c1c3d29157cc08d9ef1cad7050f5e2c4b7f7c4a314d32dbc
+  bytes: 881557
+  media_reference: media/collections/stump-etienne/Princess Obolensky.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/stump-etienne/Princess Obolensky.pdf
+  transcription_en: transcription-princess-obolensky-proquest-shell.en.md

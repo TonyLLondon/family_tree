@@ -1,0 +1,12 @@
+id: nypl-bulletin-burgess-persian-letters-schwartz-0-0dcabd6825
+title: NYPL Bulletin Burgess Persian Letters Schwartz - 07 Part VII cholera 1846
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:32:26Z'
+  sha256: fe26d1fce25fd4a71ff99aca4869f0158d32ebebd8939e83a9dd8cd7580ab708
+  bytes: 4169325
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 07 Part VII cholera 1846.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 07 Part VII cholera 1846.pdf

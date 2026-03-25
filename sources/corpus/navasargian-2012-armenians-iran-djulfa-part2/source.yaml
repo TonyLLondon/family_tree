@@ -1,0 +1,12 @@
+id: navasargian-2012-armenians-iran-djulfa-part2
+title: Alice Navasargian 2012 - Armenians in Iran biographies, Djulfa merchants (part 2 of 3)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:59:34Z'
+  sha256: f51441773d6adb36fd88becd3949540005c808f19931e8134e24826a5dbb2fc8
+  bytes: 33375620
+  media_reference: media/publications/persia-iran/Alice Navasargian 2012 - Armenians in Iran biographies Djulfa merchants part 2 of 3.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Alice Navasargian 2012 - Armenians in Iran biographies Djulfa merchants part 2 of 3.pdf

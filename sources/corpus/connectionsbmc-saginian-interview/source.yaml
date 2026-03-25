@@ -1,0 +1,13 @@
+id: connectionsbmc-saginian-interview
+title: Connections BMC — Saginian interview
+remote:
+  webpage_url: https://connectionsbmc.wordpress.com/2013/01/14/134/
+fetches:
+- kind: web
+  at: '2026-03-21T19:28:08Z'
+  remote_url: https://connectionsbmc.wordpress.com/2013/01/14/134/
+  sha256: 86107f08a623ad8a21603217e091294532c4f9b18abd2c5056571456f2db7498
+  bytes: 219317
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

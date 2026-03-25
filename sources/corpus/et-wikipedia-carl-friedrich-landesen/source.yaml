@@ -1,0 +1,15 @@
+id: et-wikipedia-carl-friedrich-landesen
+title: 'Wikipedia (et): Carl Friedrich Landesen'
+remote:
+  webpage_url: https://et.wikipedia.org/wiki/Carl_Friedrich_Landesen
+  fetch_url: https://et.wikipedia.org/api/rest_v1/page/html/Carl_Friedrich_Landesen
+fetches:
+- kind: web
+  at: '2026-03-22T18:23:33Z'
+  remote_url: https://et.wikipedia.org/api/rest_v1/page/html/Carl_Friedrich_Landesen
+  sha256: 44bf86d6885f8cf94609ff2ab455eeea6b95bf99fb276f6dfbdd9bfade49f264
+  bytes: 5133
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md
+  translation_en: translation-carl-friedrich-landesen-lead.et-en.en.md

@@ -1,0 +1,14 @@
+id: celic-zadarsko-plemstvo-francuska-uprava
+title: Celić — Zadarsko plemstvo i građanstvo početkom francuske uprave u Dalmaciji (Radovi HAZU Zadar, 2014)
+remote:
+  primary_pdf_url: https://hrcak.srce.hr/file/99204
+  webpage_url: https://hrcak.srce.hr/131225
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:54:47Z'
+  sha256: d7d14854af5edc54f2530ac3bdb2bb315b8149d7d57943530b33b63e8030b299
+  bytes: 110850
+  remote_url: https://hrcak.srce.hr/file/99204
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

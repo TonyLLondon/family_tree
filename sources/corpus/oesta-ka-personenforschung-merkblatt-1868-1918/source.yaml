@@ -1,0 +1,15 @@
+id: oesta-ka-personenforschung-merkblatt-1868-1918
+title: ÖStA/KA — Personenforschung im Kriegsarchiv (Merkblatt 1868–1918)
+remote:
+  primary_pdf_url: https://www.oesta.gv.at/dam/jcr:d0be585c-7f06-4745-a194-4fddb308a383/Personenforschung%20im%20KA%20%28Merkblatt%201868-1918%29%20PDF.pdf
+  webpage_url: https://www.oesta.gv.at/
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:28:29Z'
+  sha256: 23119325b648e21836d29269f80a8a924ec913d83ee5d788f48510eedbe4b079
+  bytes: 157869
+  remote_url: https://www.oesta.gv.at/dam/jcr:d0be585c-7f06-4745-a194-4fddb308a383/Personenforschung%20im%20KA%20%28Merkblatt%201868-1918%29%20PDF.pdf
+  http_last_modified: Thu, 11 Jan 2024 14:21:27 GMT
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

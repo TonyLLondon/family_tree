@@ -1,0 +1,7 @@
+# Copy to pdf-ingest-manifest.yaml or pass with batch_pdf_extract.py --manifest ...
+# Paths are repo-relative.
+
+- slug: example-from-media
+  file: media/docs/example.pdf
+  title: Example title for source.yaml
+  # no_page_markers: true   # optional; omit <!-- page N --> comments

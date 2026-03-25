@@ -1,0 +1,12 @@
+id: census-for-whites-in-1911-in-ireland-20007ea92c
+title: census for whites in 1911 in ireland
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:39:06Z'
+  sha256: 16b87c5d21bc7f85c8b91382223c2d48f84a66cd940431f64eed232c47763207
+  bytes: 589092
+  media_reference: media/docs/census for whites in 1911 in ireland.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/census for whites in 1911 in ireland.pdf

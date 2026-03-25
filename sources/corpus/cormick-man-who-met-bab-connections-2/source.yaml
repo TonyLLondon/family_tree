@@ -1,0 +1,22 @@
+id: cormick-man-who-met-bab-connections-2
+title: Dr. Cormick — The man who met the Báb (Connections), part 2
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:10:33Z'
+  sha256: 96d4bc7780c71e0dfcd45494674f9a966054f0588922895406a6c28cd8e2c691
+  bytes: 7807308
+  media_reference: media/publications/persia-iran/Dr. Cormick_ The man who met the Báb – Connections 2.pdf
+- kind: pdf
+  at: '2026-03-21T20:17:25Z'
+  sha256: 96d4bc7780c71e0dfcd45494674f9a966054f0588922895406a6c28cd8e2c691
+  bytes: 7807308
+  media_reference: media/publications/persia-iran/Dr. Cormick_ The man who met the Báb – Connections 2.pdf
+- kind: pdf
+  at: '2026-03-21T20:22:03Z'
+  sha256: 96d4bc7780c71e0dfcd45494674f9a966054f0588922895406a6c28cd8e2c691
+  bytes: 7807308
+  media_reference: media/publications/persia-iran/Dr. Cormick_ The man who met the Báb – Connections 2.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Dr. Cormick_ The man who met the Báb – Connections 2.pdf

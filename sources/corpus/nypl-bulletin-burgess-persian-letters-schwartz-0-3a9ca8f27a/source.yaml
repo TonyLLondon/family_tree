@@ -1,0 +1,12 @@
+id: nypl-bulletin-burgess-persian-letters-schwartz-0-3a9ca8f27a
+title: NYPL Bulletin Burgess Persian Letters Schwartz - 02 Part II Henry to Charles 1830
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:24:10Z'
+  sha256: 81c2bc1983f45e4a874e682d4f26af41124e12bedd7ceaad5c093900baad8095
+  bytes: 3375435
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 02 Part II Henry to Charles 1830.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 02 Part II Henry to Charles 1830.pdf

@@ -1,0 +1,12 @@
+id: burgess-persian-letters-full-volume
+title: The Burgess Persian Letters
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:29:34Z'
+  sha256: f84941afc7feba4cdc46a95ccf36b64f57c0ade68ba93a7cb603e0ef25566475
+  bytes: 30989360
+  media_reference: media/collections/burgess-persian-letters/The Burgess Persian Letters.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/The Burgess Persian Letters.pdf

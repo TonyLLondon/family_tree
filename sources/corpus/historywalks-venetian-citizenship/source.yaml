@@ -1,0 +1,13 @@
+id: historywalks-venetian-citizenship
+title: History Walks Venice — Citizen of the Republic of Venice (cittadini overview)
+remote:
+  webpage_url: https://historywalksvenice.com/article/the-republic-of-venice/citizen-of-the-republic-of-venice/
+fetches:
+- kind: web
+  at: '2026-03-21T21:24:13Z'
+  remote_url: https://historywalksvenice.com/article/the-republic-of-venice/citizen-of-the-republic-of-venice/
+  sha256: 9de147a07d4162ebd7e69e31b25daf06085b87bf0c3875011d2ceab1130cc9fa
+  bytes: 149909
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

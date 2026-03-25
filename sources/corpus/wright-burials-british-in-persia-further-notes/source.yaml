@@ -1,0 +1,11 @@
+id: wright-burials-british-in-persia-further-notes
+title: Sir Denis Wright — Burials and Memorials in Persia (further notes)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T19:47:22Z'
+  sha256: e431d804753d7a227f48db93a92f1eeb62442494bf3eeb5bf94ac6f37045b490
+  bytes: 1036925
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Sir Denis Wright_Burials and Memorials in Persia Further Notes.pdf

@@ -1,0 +1,12 @@
+id: 2020-10-01-sartip-david-sakinian-172b364799
+title: 2020-10-01 Sartip David Sakinian
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:21:58Z'
+  sha256: 56a777cd8ea03d3ac6973ca2961ff05da43b5c0a4f635ce0adceddeaf64214b8
+  bytes: 1227528
+  media_reference: media/collections/burgess-persian-letters/2020-10-01 Sartip David Sakinian.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/2020-10-01 Sartip David Sakinian.pdf

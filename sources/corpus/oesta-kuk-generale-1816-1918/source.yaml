@@ -1,0 +1,14 @@
+id: oesta-kuk-generale-1816-1918
+title: ÖStA — k.k./k.u.k. Generale 1816–1918 (PDF)
+remote:
+  primary_pdf_url: https://www.oesta.gv.at/dam/jcr:afa860a0-93aa-4fee-a9f0-bfabb3cda376/K_k_%20bzw_%20k_u_k_%20Generale%201816-1918.pdf
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:26:00Z'
+  sha256: fada87545731694383a19f5b932cb58f4b5cddd67a41dfbf8f1ea3fd67ffd34c
+  bytes: 468229
+  remote_url: https://www.oesta.gv.at/dam/jcr:afa860a0-93aa-4fee-a9f0-bfabb3cda376/K_k_%20bzw_%20k_u_k_%20Generale%201816-1918.pdf
+  http_last_modified: Wed, 20 May 2020 09:48:12 GMT
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

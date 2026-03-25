@@ -1,0 +1,12 @@
+id: nypl-burgess-appendix-anna-interview
+title: 'NYPL Burgess Persian Letters — Appendix: Anna Burgess interview (Daoud Khan)'
+remote:
+  webpage_url: https://archives.nypl.org/mss/431
+fetches:
+- kind: pdf
+  at: '2026-03-21T19:47:33Z'
+  sha256: 2c421bab40d105fad21da2d423c81866fc29c7f83fb25a4a44909ea34d445782
+  bytes: 662170
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 09 Appendix Anna Burgess interview Daoud Khan.pdf

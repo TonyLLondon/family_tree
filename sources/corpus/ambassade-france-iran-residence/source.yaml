@@ -1,0 +1,15 @@
+id: ambassade-france-iran-residence
+title: La résidence de France en Iran
+remote:
+  primary_pdf_url: https://ir.ambafrance.org/IMG/pdf/fascicule.pdf
+  webpage_url: https://ir.ambafrance.org/La-residence-de-France-en-Iran
+fetches:
+- kind: pdf
+  at: '2026-03-22T16:42:26Z'
+  sha256: ebce5ff2c9f6109d057e596ce971ad69dc61c0ec921e42d3c44bef461e923282
+  bytes: 1343372
+  remote_url: https://ir.ambafrance.org/IMG/pdf/fascicule.pdf
+  http_etag: 3ce67df337230a7dc934bcdf76383675
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

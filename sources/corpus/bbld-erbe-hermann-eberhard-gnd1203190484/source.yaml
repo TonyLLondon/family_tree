@@ -1,0 +1,13 @@
+id: bbld-erbe-hermann-eberhard-gnd1203190484
+title: 'BBLD: Erbe, Hermann Eberhard (1814-1872)'
+remote:
+  webpage_url: https://bbld.de/GND1203190484
+fetches:
+- kind: web
+  at: '2026-03-22T18:21:58Z'
+  remote_url: https://bbld.de/GND1203190484
+  sha256: 9e99e8cb2693e29c827abf85ee8a1ecce5ebec76542dc167c87e40849f157b55
+  bytes: 7827
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

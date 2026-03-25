@@ -1,0 +1,34 @@
+# Simeone Addobbati — digital references (URLs)
+
+Curated working links for scans, inventories, and research aids (from `manual_output/9.md`). **Remote PDFs** in corpus include `original.pdf`; **local Hungaricana exports** keep the PDF under `media/` with `extracted.pdf.md` + `source.yaml` in corpus.
+
+| Resource | URL | Corpus / notes |
+|----------|-----|----------------|
+| **ÖStA generals list PDF** | [K.k. / k.u.k. Generale 1816–1918](https://www.oesta.gv.at/dam/jcr:afa860a0-93aa-4fee-a9f0-bfabb3cda376/K_k_%20bzw_%20k_u_k_%20Generale%201816-1918.pdf) | [oesta-kuk-generale-1816-1918](corpus/oesta-kuk-generale-1816-1918/) · card [oesta-kuk-generale-1816-1918.md](oesta-kuk-generale-1816-1918.md) |
+| **DAZD HR-DAZD-342 inventory** | [dazd-342-addobbati.pdf](https://www.dazd.hr/attachment/preview/5c657cc51c881/dazd-342-addobbati.pdf) | [dazd-addobbati-family-fonds](corpus/dazd-addobbati-family-fonds/) · card [dazd-addobbati-family-fonds.md](dazd-addobbati-family-fonds.md) |
+| **HAZU — 1817 Nin nobles list (register PDF)** | [dizbi.hazu.hr PDF](https://dizbi.hazu.hr/d17b118n/main/g/9b/amu/g9bamu9vjedr.pdf) | [hazu-dizbi-nin-nobles-list-1817](corpus/hazu-dizbi-nin-nobles-list-1817/) |
+| **Granić 1817 Nin article (Zbornik HAZU 32, 2014)** | ingested from `manual_output/Zbornik 32 10 Granic.pdf` | [granic-nin-noble-list-1817](corpus/granic-nin-noble-list-1817/) · card [granic-nin-noble-list-1817.md](granic-nin-noble-list-1817.md) |
+| **Celić — Zara nobility under French rule (HAZU 2014)** | [hrcak.srce.hr/file/99204](https://hrcak.srce.hr/file/99204) | [celic-zadarsko-plemstvo-francuska-uprava](corpus/celic-zadarsko-plemstvo-francuska-uprava/) · card [celic-zadarsko-plemstvo-francuska-uprava.md](celic-zadarsko-plemstvo-francuska-uprava.md) |
+| **Società Dalmata di Storia Patria — Per l'Italia (2017)** | [dalmatitaliani.org](https://dalmatitaliani.org/wp-content/uploads/2022/06/pdf-download-societa-dalmata-di-storia-patria-venezia-libro-oddone-talpo-per-litalia-dalmatitaliani.org_.pdf) | [societa-dalmata-storia-patria-2017](corpus/societa-dalmata-storia-patria-2017/) · card [societa-dalmata-storia-patria-2017.md](societa-dalmata-storia-patria-2017.md) · 1909 protest list: Pietro Pio *Ufficiale postale superiore* |
+| **DAZD HR-DAZD-31 Notaries of Zara** | [dazd.hr inventory PDF](https://www.dazd.hr/attachment/preview/64a51ca07173d/hr-dazd-31-biljeznici-zadra.pdf) | [dazd-notaries-zadar](corpus/dazd-notaries-zadar/) · card [dazd-notaries-zadar.md](dazd-notaries-zadar.md) · Angelo Daniele Addobbati notary 1806–1831 |
+| **Ca' Foscari — Venetian cittadini originari (open-access chapter)** | [edizionicafoscari.unive.it](https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-771-5/978-88-6969-771-5-ch-03.pdf) | [venetian-cittadini-originari-ch3](corpus/venetian-cittadini-originari-ch3/) · card [venetian-cittadini-originari-ch3.md](venetian-cittadini-originari-ch3.md) |
+| **Dalbello — Gli albori consolari italiani (Split)** | [crsrv.org PDF](https://crsrv.org/PDF/Atti/Atti-24/Mladen-Culic-Dalbello-Gli-albori-consolari-italiani-come-patrimonio-giuridico-della-civilta-crepuscolare-veneta-a-Spalato.pdf) | [dalbello-consular-italiani-spalato](corpus/dalbello-consular-italiani-spalato/) · card [dalbello-consular-italiani-spalato.md](dalbello-consular-italiani-spalato.md) |
+| **History Walks Venice — cittadini overview** | [historywalksvenice.com](https://historywalksvenice.com/article/the-republic-of-venice/citizen-of-the-republic-of-venice/) | [historywalks-venetian-citizenship](corpus/historywalks-venetian-citizenship/) · card [historywalks-venetian-citizenship.md](historywalks-venetian-citizenship.md) |
+| **DAZD HR-DAZD-355 Filippi family fonds** | [dazd.hr PDF](https://www.dazd.hr/attachment/preview/5c657cc87b384/dazd-355-filippi.pdf) | [dazd-hr-dazd-355-filippi-family](corpus/dazd-hr-dazd-355-filippi-family/) · card [dazd-hr-dazd-355-filippi-family.md](dazd-hr-dazd-355-filippi-family.md) |
+| **DAZD HR-DAZD-497 Petricioli family fonds** | [dazd.hr PDF](https://www.dazd.hr/attachment/preview/5c657ccee89ff/dazd-497-obitelj-petricioli.pdf) | [dazd-hr-dazd-497-petricioli-family](corpus/dazd-hr-dazd-497-petricioli-family/) · card [dazd-hr-dazd-497-petricioli-family.md](dazd-hr-dazd-497-petricioli-family.md) |
+| **Schematismus 1887** (Hungaricana, pp. 471–472) | [Viewer p. 471](https://library.hungaricana.hu/hu/view/MilitarAlmanachSchematismus_1887/?pg=471) | PDF [media/docs/hungaricana-schematismus/MilitarAlmanachSchematismus_1887_pages471-472.pdf](../media/docs/hungaricana-schematismus/MilitarAlmanachSchematismus_1887_pages471-472.pdf) · corpus [hungaricana-militar-almanach-1887-pp471-472](corpus/hungaricana-militar-almanach-1887-pp471-472/) (OCR extract includes *Addobbati, Simeon*) |
+| **Schematismus 1909** (Hungaricana, pp. 169–172) | [Viewer p. 169](https://library.hungaricana.hu/en/view/KriegsMarine_1909/?pg=169) | PDF [media/docs/hungaricana-schematismus/KriegsMarine_1909_pages169-172.pdf](../media/docs/hungaricana-schematismus/KriegsMarine_1909_pages169-172.pdf) · corpus [hungaricana-kriegsmarine-schematismus-1909-pp169-172](corpus/hungaricana-kriegsmarine-schematismus-1909-pp169-172/) (dense table OCR; verify rank against [ÖStA generals list](corpus/oesta-kuk-generale-1816-1918/extracted.pdf.md)) |
+| **KA personnel research leaflet** | [Personenforschung im KA PDF](https://www.oesta.gv.at/dam/jcr:d0be585c-7f06-4745-a194-4fddb308a383/Personenforschung%20im%20KA%20%28Merkblatt%201868-1918%29%20PDF.pdf) | [oesta-ka-personenforschung-merkblatt-1868-1918](corpus/oesta-ka-personenforschung-merkblatt-1868-1918/) |
+| **KA genealogy leaflet** | [Genealogie im Kriegsarchiv PDF](https://www.oesta.gv.at/dam/jcr:11904403-cdc8-4694-be82-c59c80ebf3cd/Genealogie%20im%20Kriegsarchiv%20%2805%2012%202014%29.pdf) | [oesta-kriegsarchiv-genealogie-2014](corpus/oesta-kriegsarchiv-genealogie-2014/) |
+
+**Note:** The **obituary text** for June 1926 is referenced in the DAZD inventory but is **not** known to be online as a public scan; copy may be ordered from [Državni arhiv u Zadru](https://www.dazd.hr).
+
+## People linked
+
+- [D. Daniele Addobbati](../people/d-daniele-addobbati.md) — arrived Zara 1733; progenitor of the Dalmatian branch
+- [D. Ioanes Addobbati](../people/d-ioanes-addobbati.md) — father of the three brothers; Captain
+- [Luigi Anzolo Alloisio Addobbati](../people/luigi-anzolo-alloisio-addobbati.md) — *causidico*; 1793 Nin petition
+- [Vincenzo Giovanni Domenico Valentino Addobbati](../people/vincenzo-giovanni-domenico-valentino-addobbati.md) — Ivan Vicko; Nin admission 1804
+- [Pietro Paolo Addobbati](../people/pietro-paolo-addobbati.md) — computist, Zara
+- [Pietro Pio Addobbati](../people/pietro-pio-addobbati.md) — *Ufficiale postale superiore*; 1909 protest list
+- [Simeone Gilberto Addobbati](../people/simeone-gilberto-addobbati.md) — k.k. Generalmajor / FML

@@ -1,0 +1,14 @@
+id: dazd-addobbati-family-fonds
+title: DAZD HR-DAZD-342 — Obitelj Addobbati family fonds inventory (1732–1930)
+remote:
+  primary_pdf_url: https://www.dazd.hr/attachment/preview/5c657cc51c881/dazd-342-addobbati.pdf
+  webpage_url: https://www.dazd.hr
+fetches:
+- kind: pdf
+  at: '2026-03-21T21:24:09Z'
+  sha256: 551c9a0b512e9b43bc55879e628ee74eb83761030eaf1733f6b24bd29cbc9e67
+  bytes: 514000
+  remote_url: https://www.dazd.hr/attachment/preview/5c657cc51c881/dazd-342-addobbati.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

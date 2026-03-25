@@ -1,0 +1,16 @@
+id: hvtg-kirchgemeinden-pfarrbuecher-thurgau
+title: HVTG — Kirchgemeinden und Pfarrbücher Thurgau
+remote:
+  primary_pdf_url: https://hvtg.ch/skin/frontend/PDF/publikationen/kirchgemeinden_pfarrbuecher_thurgau.pdf
+  webpage_url: https://hvtg.ch/
+fetches:
+- kind: pdf
+  at: '2026-03-22T08:29:25Z'
+  sha256: cb14cc8a648f51884f6a9ec2a7480b39147f22b9c6b8ca63474ca9fdc506b102
+  bytes: 9661007
+  remote_url: https://hvtg.ch/skin/frontend/PDF/publikationen/kirchgemeinden_pfarrbuecher_thurgau.pdf
+  http_last_modified: Mon, 29 Sep 2025 07:46:04 GMT
+  http_etag: '"936a4f-63febd3e0fb76"'
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

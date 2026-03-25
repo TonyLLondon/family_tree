@@ -1,0 +1,14 @@
+id: et-wikipedia-eugen-erbe-syndik
+title: 'Wikipedia (et): Eugen Erbe (sündik)'
+remote:
+  webpage_url: https://et.wikipedia.org/wiki/Eugen_Erbe_(s%C3%BCndik)
+  fetch_url: https://et.wikipedia.org/api/rest_v1/page/html/Eugen_Erbe_(s%C3%BCndik)
+fetches:
+- kind: web
+  at: '2026-03-22T18:23:33Z'
+  remote_url: https://et.wikipedia.org/api/rest_v1/page/html/Eugen_Erbe_(s%C3%BCndik)
+  sha256: c0bdf7172a2296be680363a948baa6f245a22ae29ff859926425f4d5c0a7b2ae
+  bytes: 12315
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

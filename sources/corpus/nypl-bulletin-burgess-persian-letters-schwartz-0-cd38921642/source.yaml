@@ -1,0 +1,12 @@
+id: nypl-bulletin-burgess-persian-letters-schwartz-0-cd38921642
+title: NYPL Bulletin Burgess Persian Letters Schwartz - 08 Part VIII conclusion Gulhek 1849
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:34:15Z'
+  sha256: 61ea70940deae229235b5d954ad22382536a09fa220ba73d18a9c42a9ab70775
+  bytes: 3621468
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 08 Part VIII conclusion Gulhek 1849.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 08 Part VIII conclusion Gulhek 1849.pdf

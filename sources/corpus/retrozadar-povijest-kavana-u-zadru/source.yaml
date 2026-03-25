@@ -1,0 +1,14 @@
+id: retrozadar-povijest-kavana-u-zadru
+title: 'Retrozadar — Povijest kavana u Zadru'
+remote:
+  webpage_url: https://www.retrozadar.com/posts/povijest-kavana-u-zadru
+fetches:
+- kind: web
+  at: '2026-03-23T17:30:00Z'
+  remote_url: https://www.retrozadar.com/posts/povijest-kavana-u-zadru
+  sha256: 197e78b394b8e34059ad56cdd9ebf25c82f4d01f97a61f9596a53289a768dd88
+  bytes: 864332
+  note: Full HTML from desktop curl; migrated from sources/mirrors/zerauschek/.
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

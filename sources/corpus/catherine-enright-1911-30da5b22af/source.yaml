@@ -1,0 +1,12 @@
+id: catherine-enright-1911-30da5b22af
+title: Catherine Enright 1911
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:39:00Z'
+  sha256: bdb6bff70103acd1d4fc2ed0cd82a78fa516201da543055dfe51d3c6a58fe8be
+  bytes: 646420
+  media_reference: media/docs/Catherine Enright 1911.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Catherine Enright 1911.pdf

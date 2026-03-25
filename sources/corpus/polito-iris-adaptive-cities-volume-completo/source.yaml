@@ -1,0 +1,17 @@
+id: polito-iris-adaptive-cities-volume-completo
+title: Polito IRIS — Adaptive cities (volume completo)
+remote:
+  primary_pdf_url: https://iris.polito.it/retrieve/96922d26-0179-45d6-931f-59f0c3df199f/Adaptive%20cities_volume%20completo.pdf
+  webpage_url: https://iris.polito.it/
+fetches:
+- kind: pdf
+  at: '2026-03-22T09:02:00Z'
+  sha256: c60091a529b003f262863b7cee542d63db5abf18a26b9f1239e35e49c0d85464
+  bytes: 36630518
+  remote_url: https://iris.polito.it/retrieve/96922d26-0179-45d6-931f-59f0c3df199f/Adaptive%20cities_volume%20completo.pdf
+  note: >-
+    Download completed; pymupdf4llm full-document extract was interrupted (SIGKILL / memory).
+    Re-run ingest extract on a machine with sufficient RAM, or read original.pdf directly.
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

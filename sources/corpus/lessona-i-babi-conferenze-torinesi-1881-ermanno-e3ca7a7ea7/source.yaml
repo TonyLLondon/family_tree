@@ -1,0 +1,12 @@
+id: lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7
+title: Lessona - I Babi - Conferenze Torinesi 1881 Ermanno Loescher Torino
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:46:12Z'
+  sha256: f2cec0a0847daa6505b780839cb00af981e6bd000688d1168957e83b96fcfc46
+  bytes: 954867
+  media_reference: media/publications/babi-bahai/Lessona - I Babi - Conferenze Torinesi 1881 Ermanno Loescher Torino.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/babi-bahai/Lessona - I Babi - Conferenze Torinesi 1881 Ermanno Loescher Torino.pdf

@@ -1,0 +1,15 @@
+id: thomas-erbe-deutsches-geschlechterbuch-erbe-index
+title: 'Thomas Erbe: DGB Erbe surname index (transcript)'
+remote:
+  webpage_url: http://www.thomas-erbe.de/ahnen/dgb.htm
+fetches:
+- kind: web
+  at: '2026-03-22T18:23:35Z'
+  remote_url: http://www.thomas-erbe.de/ahnen/dgb.htm
+  sha256: 88976429095c530a74fb03d83a30a909c76ea774de94273a545a6b48fc249a84
+  bytes: 17200
+  http_last_modified: Tue, 29 May 2018 13:43:53 GMT
+  http_etag: '"4330-56d586cc5b840-gzip"'
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

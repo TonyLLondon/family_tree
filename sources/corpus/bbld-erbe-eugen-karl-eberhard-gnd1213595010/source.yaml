@@ -1,0 +1,13 @@
+id: bbld-erbe-eugen-karl-eberhard-gnd1213595010
+title: 'BBLD: Erbe, Eugen Karl Eberhard (1897-1965)'
+remote:
+  webpage_url: https://bbld.de/GND1213595010
+fetches:
+- kind: web
+  at: '2026-03-22T18:21:59Z'
+  remote_url: https://bbld.de/GND1213595010
+  sha256: 1240d3d9bd04f3c0869119b542d748f8a68397986c7f5f2ffc8f6dd52f28765a
+  bytes: 7745
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

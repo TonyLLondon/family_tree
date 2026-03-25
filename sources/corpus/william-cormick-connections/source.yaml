@@ -1,0 +1,11 @@
+id: william-cormick-connections
+title: Dr William Cormick — Connections (article PDF)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T19:47:31Z'
+  sha256: d5f54ca2251c847c9f5aa415670a8a9a5fefbf2c71307dc48f2849472f7cc3db
+  bytes: 388373
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Dr William Cormick – Connections.pdf

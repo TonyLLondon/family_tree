@@ -1,0 +1,12 @@
+id: solas-bahai-studies-english-speaking-europe-iris-390913e50c
+title: SOLAS Bahai Studies English-speaking Europe Irish ed vol 4 Autumn Winter 2004
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:47:06Z'
+  sha256: 5d36057e25e6e4dfaa9d74cc0ed8adc8bc35b2c9dc7d8a60ce19bbcd66c80d24
+  bytes: 511700
+  media_reference: media/publications/babi-bahai/SOLAS Bahai Studies English-speaking Europe Irish ed vol 4 Autumn Winter 2004.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/babi-bahai/SOLAS Bahai Studies English-speaking Europe Irish ed vol 4 Autumn Winter 2004.pdf

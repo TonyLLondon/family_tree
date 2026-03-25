@@ -1,0 +1,16 @@
+id: dalbello-consular-italiani-spalato
+title: Dalbello — Gli albori consolari italiani (mentions I.R. postal assistant, Venetian civic families in Dalmatia)
+remote:
+  primary_pdf_url: https://crsrv.org/PDF/Atti/Atti-24/Mladen-Culic-Dalbello-Gli-albori-consolari-italiani-come-patrimonio-giuridico-della-civilta-crepuscolare-veneta-a-Spalato.pdf
+  webpage_url: https://crsrv.org
+fetches:
+- kind: pdf
+  at: '2026-03-21T21:24:53Z'
+  sha256: 88614255f4e5062c2a5e824ae44cd2ab8333e571b5f52abfd07c60d54d533c35
+  bytes: 5801225
+  remote_url: https://crsrv.org/PDF/Atti/Atti-24/Mladen-Culic-Dalbello-Gli-albori-consolari-italiani-come-patrimonio-giuridico-della-civilta-crepuscolare-veneta-a-Spalato.pdf
+  http_last_modified: Mon, 25 Mar 2024 08:34:09 GMT
+  http_etag: '"66013701-588509"'
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

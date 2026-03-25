@@ -1,0 +1,17 @@
+id: nypl-archives-mss-431-curl-mirror
+title: NYPL Archives — Burgess family papers (mss 431) — curl snapshot
+remote:
+  webpage_url: https://archives.nypl.org/mss/431
+fetches:
+- kind: web
+  at: '2026-03-23T17:30:00Z'
+  remote_url: https://archives.nypl.org/mss/431
+  sha256: 39b46b10e617c510defafed0ac49fbfa3f476301d959e134638a317cd9dbb390
+  bytes: 958
+  note: >-
+    Desktop curl with browser User-Agent; response is an Incapsula challenge shell,
+    not the finding aid. Migrated from removed sources/mirrors/canonical/.
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md
+  translation_en: translation-nypl-mss431-finding-aid-access.en.md

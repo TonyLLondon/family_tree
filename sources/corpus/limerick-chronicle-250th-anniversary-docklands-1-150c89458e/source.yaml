@@ -1,0 +1,12 @@
+id: limerick-chronicle-250th-anniversary-docklands-1-150c89458e
+title: Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:45:20Z'
+  sha256: 717164b37b792c7704c34d5009f22e702cad43168b85285cc0d4f2245c5b883a
+  bytes: 1522497
+  media_reference: media/docs/Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater.pdf

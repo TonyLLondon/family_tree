@@ -1,0 +1,12 @@
+id: old-limerick-journal-casteleyn-thomas-roche-lime-36137756bf
+title: Old Limerick Journal - Casteleyn Thomas Roche Limerick and Rotterdam 1736-1788 pp34-36
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:45:55Z'
+  sha256: f3f006c8dd0c7f634b1177b7da822bee7772fc3594d5df676c0bff4c05d81e3d
+  bytes: 1091391
+  media_reference: media/docs/Old Limerick Journal - Casteleyn Thomas Roche Limerick and Rotterdam 1736-1788 pp34-36.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Old Limerick Journal - Casteleyn Thomas Roche Limerick and Rotterdam 1736-1788 pp34-36.pdf

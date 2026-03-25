@@ -1,0 +1,12 @@
+id: david-yaghoubian-ethnicity-identity-and-national-00eefee0c9
+title: David Yaghoubian - Ethnicity Identity and Nationalism in Iran
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:39:12Z'
+  sha256: 6665af4f3b2ee15a348b7c4a4a3a2a05ba2f81c099bc78ccb7a9ecc89396a14a
+  bytes: 7568899
+  media_reference: media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf

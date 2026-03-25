@@ -1,0 +1,82 @@
+# Agent guide — `family_tree`
+
+## Canonical data
+
+| Asset | Role |
+|-------|------|
+| `family-tree.json` | **Single source of truth** for structured tree (web app). **Schema 2:** topology + rich optional fields (vitals, `alsoKnownAs`, `personPage`, etc.). **Master workflow:** edit JSON and/or `people/*.md` (`treeId`), then run `scripts/sync_family_tree_json.py` (vault + existing JSON win; GEDCOM only fills gaps). Wrapper: `scripts/merge_gedcom_vitals_into_family_tree.py`. Validate: `scripts/validate_family_tree_json.py`. |
+| `lines/persia.md` | Human hub: outline, Mermaid, tables, source index (Persia line). |
+| `people/*.md` | One file per person; YAML frontmatter + prose + links. Planning: `ancestor-coverage-list.md`, `person-pages-extension-plan.md`. |
+| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `narratives/`, `lines/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/` and `archive/` from repo root. **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/docs/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: Vercel **Root Directory** = `web` (build uses `..` to read the vault). See `web/README.md`. |
+
+## Primary workflow (read → write)
+
+The vault is for **judgment and narrative**, not for treating machine extracts as finished work.
+
+1. **Read the evidence** in `sources/corpus/<slug>/`: prefer **`transcription*.md`**, **`translation*.md`**, and **`reference.md`** when present; use **`extracted.pdf.md` / `extracted.web.md`** or the file under **`media/`** when that is what you have.
+2. **Integrate** defensible facts and (where rights allow) short quotations into **`people/*.md`**, **`narratives/*.md`**, **`lines/*.md`**, or a thin **`sources/*.md`** card—always with **repo-relative links** back to the bundle.
+3. **`research/`** is working space; fold stable conclusions into those canonical files and trim redundant memos.
+
+Scripts (below) handle **sync, ingest, and validation**. They do not replace opening the markdown or PDF and writing what you learned.
+
+## Content types (Markdown)
+
+| Dir | Holds |
+|-----|--------|
+| `narratives/` | Multi-gen or long-form essays (e.g. `saginian-burgess-bottin-stump.md`, `zerauschek-zadar.md`, `lewis-aberdare-merthyr-coalfield.md`, `david-john-lewis-italy-1945-silver-star.md`, `stump-thurgau-tallinn-baltic-line.md`). |
+| `topics/` | Cross-links: places, institutions (`topics/index.md` hub). |
+| `sources/*.md` | **Citation cards**: short summary, links to people, pointer into corpus. Optional YAML `corpus:` + `kind: pdf\|web`. |
+| `index.md` | Vault map (tables for `media/` layout). |
+| `manual/` | **Inbox** for raw drops to be **read and relocated** into `people/`, `narratives/`, `sources/corpus/`, `media/`, etc. See `manual/README.md`. |
+
+**Line hubs:** `lines/persia.md` (Persia trunk); `lines/zara-italy-dalmatia.md` (Zara); `lines/lewis-wales-stump-europe.md` (Lewis + Stump/Erbe + Ireland); `lines/evans-cerpa-perez-london-chile.md` (London Evans × Chile).
+
+## Sources: corpus bundles
+
+Path: `sources/corpus/<slug>/` — inventory: [sources/corpus/README.md](sources/corpus/README.md). **Held map:** [sources/master-source-list.md](sources/master-source-list.md). **Acquisitions to pursue:** [sources/wishlist/README.md](sources/wishlist/README.md).
+
+| File | Meaning |
+|------|---------|
+| `source.yaml` | `remote.primary_pdf_url`, `remote.webpage_url`, `fetches[]` (sha256, etag, last-modified). |
+| `files.media_reference` | **Canonical PDF** under repo root (e.g. `media/...`) when the scan lives in `media/` — corpus does **not** duplicate bytes. |
+| `original.pdf` | Only for **remote** ingests (`--url`); PDF stored in the bundle. Local ingests omit this. |
+| `extracted.pdf.md` | Machine extract (pymupdf4llm); frontmatter `source_file` points at `media/...` or `original.pdf`. |
+| `mirror.html` | Raw HTML snapshot. |
+| `extracted.web.md` | Trafilatura extract from mirror. |
+| `transcription*.md`, `translation*.md`, `*.en.md` (optional) | Human cleanup of the same source (e.g. `transcription-translation.en.md` next to `extracted.pdf.md`); register in `source.yaml` `files` when used. |
+
+**Ingest:** `.venv/bin/python scripts/ingest_source.py` subcommands `pdf`, `web`, `status`. Create venv once: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`. **Roadmap for richer PDF→MD:** [corpus/CONVERSION-PLAN.md](sources/corpus/CONVERSION-PLAN.md).
+
+Offline web/PDF captures live in **`sources/corpus/<slug>/`** (`mirror.html`, `original.pdf`, extracts) — not a separate mirrors tree.
+
+## Binaries & legacy
+
+| Dir | Holds |
+|-----|--------|
+| `media/` | Evidence: albums, collections, docs inbox, publications, charts, military PDFs, loose images. See `index.md` **Media layout**. |
+| `archive/` | GEDCOM, Gramps/RM exports, sun charts, personal/non-article files. **Not** canonical tree. Catalog: `archive/index.md`. |
+| `sources/legacy-index.md` | Catalog of pre-reorg paths if still referenced. |
+
+Do **not** commit or edit `.venv/`, `__pycache__/`, `.mypy_cache/`.
+
+## Scripts (hygiene & ingest)
+
+Optional tooling—not a substitute for reading corpus files and editing prose.
+
+- `validate_family_tree_json.py` — validate `family-tree.json` (schema 1 or 2).
+- `sync_family_tree_json.py` — apply `people/*.md` (`treeId`) + keep hand-edited JSON fields; optional GEDCOM gap-fill (`--no-gedcom-fill` to skip). Person YAML `ignore_gedcom_death` / `ignore_gedcom_birth` suppresses GEDCOM gap-fill for those vitals and clears stale death fields when death is narrative-unknown.
+- `merge_gedcom_vitals_into_family_tree.py` — calls `sync_family_tree_json.py` (backward-compatible name).
+- `ingest_source.py` — corpus PDF/web ingest + provenance (`--no-page-markers` to skip `<!-- page N -->` breaks). **Web:** optional `--public-url` when `--url` is a fetch-only endpoint (e.g. MediaWiki REST HTML); **403** from Wikimedia falls back to **curl** for the same URL.
+- `batch_pdf_extract.py` — run `ingest_source.py pdf` for each row in `sources/corpus/pdf-ingest-manifest.yaml` (use `.venv/bin/python scripts/batch_pdf_extract.py`).
+- `ingest_all_media_pdfs.py` — ingest `media/**/*.pdf` not yet in corpus; **default easy tier** skips charts, NYPL scan folders `…/1/`–`9/`, and PDFs **>12 MiB**; `--all` for full sweep (`--dry-run`, `--limit N`).
+- `source_coverage_report.py` — corpus bundles vs `sources/**/*.md` link coverage (excludes `sources/wishlist/`).
+- `generate_corpus_bibliography.py` — regenerate `sources/corpus-bibliography.md` (one inbound link per `corpus/<slug>/`).
+- `corpus_extract_health.py` — optional inventory of thin machine extracts (still **read** `transcription*` / `translation*` / `reference.md` / PDFs in the bundle).
+- `generate_ancestor_coverage_list.py`, `validate_family_tree_json.py` — tooling; read before changing outputs.
+
+## Conventions
+
+- **Links:** repo-relative from the file you edit (e.g. from `people/x.md` use `../sources/...`, `../topics/...`).
+- **New remote source:** add `sources/corpus/<slug>/` via ingest; thin card in `sources/<name>.md` pointing at `corpus/<slug>/`.
+- **Large PDFs:** Keep canonical scans under `media/`; corpus holds `extracted.pdf.md` + `source.yaml` (+ `original.pdf` only for remote fetches). Consider Git LFS if repo size hurts.
+- **Scope:** Only change files needed for the task; match existing frontmatter/link style.

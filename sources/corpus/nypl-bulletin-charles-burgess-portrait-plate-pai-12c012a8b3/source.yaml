@@ -1,0 +1,12 @@
+id: nypl-bulletin-charles-burgess-portrait-plate-pai-12c012a8b3
+title: NYPL Bulletin - Charles Burgess portrait plate painted in Persia
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:35:31Z'
+  sha256: 8cb36d737a295dc56c77487d1c7420acc34dae1ba10b164d69ea5fe6ecc10724
+  bytes: 145480
+  media_reference: media/collections/burgess-persian-letters/NYPL Bulletin - Charles Burgess portrait plate painted in Persia.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/NYPL Bulletin - Charles Burgess portrait plate painted in Persia.pdf

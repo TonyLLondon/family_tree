@@ -1,0 +1,26 @@
+id: addobbati-simeone-oesta-kriegsarchiv-excerpts
+title: Simeon(e) Addobbati — Kriegsarchiv / ÖStA typescript excerpts, Zara 1926 letter, grave (PNG)
+remote: {}
+fetches:
+- kind: local_png
+  at: '2026-03-22T08:35:00Z'
+  repo_path: media/docs/addobbati-simeone-gilberto/kriegsarchiv-qualifikation-page-2-career-awards.png
+  sha256: 4466e52149ee4ed7a7f06d66e062be5f62c95c6a64f5268fe59a44fe74993b22
+  note: KA Qualifikationsliste typescript page 2 — career from 1900, awards, marriage
+- kind: local_png
+  at: '2026-03-22T08:35:00Z'
+  repo_path: media/docs/addobbati-simeone-gilberto/kriegsarchiv-letter-zara-1926-06-20.png
+  sha256: b8b209b4660a82e57d0c677463cc956ba55a13f0878233ea2f82379436c95967
+  note: Kriegsarchiv Wien letter, Zara 20 June 1926 — Italian national; death date not in Vienna; files in Italy
+- kind: local_png
+  at: '2026-03-22T08:35:00Z'
+  repo_path: media/docs/addobbati-simeone-gilberto/oesta-biography-letter-wien-1968-12-20.png
+  sha256: ca71582f70e20606476ebe35df0dce69e3dad7d02b721e858bd180d042d4497f
+  note: ÖStA/KA reply Wien 20 Dec 1968 — Zl. 49.082/1968; birth, career start; spelling Addobbati not Addobatti
+- kind: local_png
+  at: '2026-03-22T08:35:00Z'
+  repo_path: media/docs/addobbati-simeone-gilberto/grave-monument-spirava-1926-06-20.png
+  sha256: a2d6a8d11ac670effa7b16d130c71e6e6f4ad93d27b5d1d137459879e35ffd32
+  note: Monument inscription — GENERALE SIMEONE GILBERTO ADDOBBATI; SPIRAVA 20-6-1926
+files:
+  pdf_markdown: extracted.pdf.md

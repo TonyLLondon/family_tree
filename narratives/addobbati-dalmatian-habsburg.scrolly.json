@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "From Bergamo to Zara",
+    "subtitle": "A Venetian civic dynasty across five centuries and four regimes",
+    "era": "1495 – 1930"
+  },
+  "scrollyStepCount": 6,
+  "steps": [
+    {
+      "era": "1495 – 1733",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/adolobati-family-group-handwritten-names-italian-caption.jpg",
+        "alt": "Addobbati family group portrait with handwritten Italian caption identifying members",
+        "caption": "The Addobbati family — Venetian cavalry officers turned Dalmatian citizens"
+      }
+    },
+    {
+      "era": "Venetian Republic",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/vittoria-carobbi.jpg",
+        "alt": "Vittoria Carobbi portrait",
+        "caption": "The cittadini originari — hereditary civic class of the Venetian empire"
+      }
+    },
+    {
+      "era": "1769 – 1817",
+      "media": {
+        "src": "media/docs/addobbati-simeone-gilberto/kriegsarchiv-letter-zara-1926-06-20.png",
+        "alt": "Austrian Kriegsarchiv service record page for the Addobbati family",
+        "caption": "Archival record — from cavalry to the council of Nin"
+      }
+    },
+    {
+      "era": "1806 – 1813",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/simeone-boara.jpg",
+        "alt": "Portrait of Simeone Boara, member of the intermarried Zara civic network",
+        "caption": "Simeone Boara — the civic families endured across Venetian, French, and Austrian rule"
+      }
+    },
+    {
+      "era": "Habsburg Dalmatia",
+      "media": {
+        "src": "media/docs/addobbati-simeone-gilberto/kriegsarchiv-qualifikation-page-2-career-awards.png",
+        "alt": "Habsburg Kriegsarchiv qualification record showing career and awards for Addobbati",
+        "caption": "Imperial service — judiciary, postal administration, and cadastre"
+      }
+    },
+    {
+      "era": "1890 – 1930s",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/antonio-zerauschek-ester-addobbati.jpg",
+        "alt": "Antonio Zerauschek and Ester Addobbati",
+        "caption": "Ester Addobbati and Antonio Zerauschek — the line continues into interwar Zara"
+      }
+    }
+  ]
+}

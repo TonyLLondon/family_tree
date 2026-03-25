@@ -1,0 +1,16 @@
+id: iranica-firearms-history
+title: "Encyclopaedia Iranica — Firearms i. History"
+author: Matthee, Rudi
+published: 1999-12-15
+updated: 2013-05-28
+remote:
+  webpage_url: https://www.iranicaonline.org/articles/firearms-i-history/
+  print_ref: "Vol. IX, Fasc. 6, pp. 619-628"
+fetches:
+- kind: web
+  at: '2026-03-22T00:00:00Z'
+  remote_url: https://www.iranicaonline.org/articles/firearms-i-history/
+  note: >
+    Direct httpx/trafilatura fetch blocked by Cloudflare (403). Content
+    captured via browser manually and saved to manual_output/12.md.
+    extracted.web.md built from that capture; no raw HTML mirror saved.

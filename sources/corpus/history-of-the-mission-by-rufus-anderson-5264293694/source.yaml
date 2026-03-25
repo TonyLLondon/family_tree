@@ -1,0 +1,12 @@
+id: history-of-the-mission-by-rufus-anderson-5264293694
+title: History of the Mission by Rufus Anderson
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:48:15Z'
+  sha256: 60461ca6754e31426d291564668fb1114292be87318e1e51a4034561b530841d
+  bytes: 700899
+  media_reference: media/publications/persia-iran/History of the Mission by Rufus Anderson.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/History of the Mission by Rufus Anderson.pdf

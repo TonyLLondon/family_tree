@@ -1,0 +1,14 @@
+id: hungaricana-militar-almanach-1887-pp471-472
+title: Hungaricana — Militär-Almanach/Schematismus 1887, pp. 471–472 (officer list excerpt)
+remote:
+  webpage_url: https://library.hungaricana.hu/hu/view/MilitarAlmanachSchematismus_1887/?pg=471
+provenance_note: Page-range PDF exported from Hungaricana; canonical bytes under media/ (not duplicated in corpus).
+fetches:
+- kind: pdf
+  at: '2026-03-22T09:28:50Z'
+  sha256: ee3227d0a7af7eb08e541d5a1953f03695b106fb721785eddac3849484256e9e
+  bytes: 707661
+  media_reference: media/docs/hungaricana-schematismus/MilitarAlmanachSchematismus_1887_pages471-472.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/hungaricana-schematismus/MilitarAlmanachSchematismus_1887_pages471-472.pdf

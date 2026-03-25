@@ -1,0 +1,13 @@
+id: bbld-erbe-eugen-edmund-eduard-gnd1173663347
+title: 'BBLD: Erbe, Eugen Edmund Eduard (1847-1908)'
+remote:
+  webpage_url: https://bbld.de/GND1173663347
+fetches:
+- kind: web
+  at: '2026-03-22T18:21:58Z'
+  remote_url: https://bbld.de/GND1173663347
+  sha256: 192922accfb1e8e82a323275c8181d83d4b3b1ecfae4fe3d8340ca215508598f
+  bytes: 8974
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

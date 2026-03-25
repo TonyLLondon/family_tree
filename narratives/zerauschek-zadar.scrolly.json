@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "The Hotel on Široka Ulica",
+    "subtitle": "Antonio Zerauschek and the Italian enclave of Zara",
+    "era": "1920s – 1973"
+  },
+  "scrollyStepCount": 4,
+  "steps": [
+    {
+      "era": "Interwar Zara",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/antonio-zerauschek-ester-addobbati.jpg",
+        "alt": "Antonio Zerauschek and Ester Addobbati",
+        "caption": "Antonio Zerauschek and Ester Addobbati — the Italian-speaking elite of interwar Zara"
+      }
+    },
+    {
+      "era": "1936 – 1938",
+      "media": {
+        "src": "archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/antonio-zerauschek-ester-addobbati.jpg",
+        "alt": "Antonio Zerauschek and Ester Addobbati portrait",
+        "caption": "Hotel Zerauschek and the Caffè Centrale — Zara's main street, rebuilt"
+      }
+    },
+    {
+      "era": "Porto Franco era",
+      "media": {
+        "src": "media/docs/Difesa Adriatica 1973 Antonio Zerauschek obituary Zara Florence.jpeg",
+        "alt": "Difesa Adriatica obituary for Antonio Zerauschek, 1973",
+        "caption": "Tabacchi Orientali, Calypso cigarettes, Ausonia chocolate — a free-port empire"
+      }
+    },
+    {
+      "era": "1943 – 1973",
+      "media": {
+        "src": "media/docs/Grave slab Florence Ester Addobbati Zerauschek Antonio Giuliana Zerauschek Rivolta.png",
+        "alt": "Grave slab in Florence for Ester Addobbati Zerauschek, Antonio Zerauschek, and Giuliana Zerauschek Rivolta",
+        "caption": "Florence — the Zerauscheks in exile, buried together"
+      }
+    }
+  ]
+}

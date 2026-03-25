@@ -1,0 +1,16 @@
+id: venetian-cittadini-originari-ch3
+title: 'Ca'' Foscari — Venetian cittadini originari: Libro d''Argento, Maggior Consiglio rules (open-access chapter)'
+remote:
+  primary_pdf_url: https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-771-5/978-88-6969-771-5-ch-03.pdf
+  webpage_url: https://edizionicafoscari.unive.it
+fetches:
+- kind: pdf
+  at: '2026-03-21T21:24:41Z'
+  sha256: cd8c3d17949c2ee4c2c4c0d985e21640ef57696ba4095d30fb0d5dff09dbe211
+  bytes: 577488
+  remote_url: https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-771-5/978-88-6969-771-5-ch-03.pdf
+  http_last_modified: Mon, 15 Jan 2024 12:53:49 GMT
+  http_etag: '"8cfd0-60efb81567722"'
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf

@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "Chimney Sweep to the Founding of the RAF",
+    "subtitle": "The war that carried an Essex tradesman from Gallipoli to the birth of the Royal Air Force",
+    "era": "1892 – 1928"
+  },
+  "scrollyStepCount": 5,
+  "steps": [
+    {
+      "era": "1892 – 1914",
+      "media": {
+        "src": "media/context/wwi/maldon-high-street-essex.jpg",
+        "alt": "Maldon High Street, Essex — Archibald Coolbear's hometown",
+        "caption": "Maldon, Essex — the small market town on the Blackwater estuary where Archibald Coolbear was born in 1892"
+      }
+    },
+    {
+      "era": "1915",
+      "media": {
+        "src": "media/context/wwi/british-trench-periscope-cape-helles-1915.jpg",
+        "alt": "British soldiers in a trench at Cape Helles, Gallipoli, 1915, using a periscope to watch Turkish lines",
+        "caption": "Cape Helles, 1915 — British troops in the Gallipoli trenches. Coolbear deployed with the Essex Regiment in May 1915"
+      }
+    },
+    {
+      "era": "1916 – 1917",
+      "media": {
+        "src": "media/docs/Archibald Colbear RAF service record form official number 125257.jpg",
+        "alt": "RAF service record form for Archibald Coolbear (filed under Colbear), showing enlistment, movements, and medical boards",
+        "caption": "Coolbear's service record — documenting repeated hospitalisations for dysentery across France and England"
+      }
+    },
+    {
+      "era": "1918 – 1919",
+      "media": {
+        "src": "media/context/wwi/rfc-biplanes-netheravon-1914-iwm.jpg",
+        "alt": "Blériot XI aircraft of the Royal Flying Corps lined up at Netheravon airfield",
+        "caption": "RFC training airfield — Coolbear transferred to the Flying Corps in January 1918 and became an Instructor"
+      }
+    },
+    {
+      "era": "1919 – 1928",
+      "media": {
+        "src": "media/docs/Cool Bear, Archibald Percy (125257).jpg",
+        "alt": "Ministry of Pensions card for Archibald Percy Cool Bear, RAF 125257, showing widow's claim",
+        "caption": "Ministry of Pensions card — processed for Coolbear's widow in 1929, one year after his death at age 36"
+      }
+    }
+  ]
+}

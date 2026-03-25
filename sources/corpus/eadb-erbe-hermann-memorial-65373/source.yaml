@@ -1,0 +1,13 @@
+id: eadb-erbe-hermann-memorial-65373
+title: 'EADB: memorial index entry (Hermann Erbe cluster)'
+remote:
+  webpage_url: https://amburger.ios-regensburg.de/?id=65373
+fetches:
+- kind: web
+  at: '2026-03-22T18:23:34Z'
+  remote_url: https://amburger.ios-regensburg.de/?id=65373
+  sha256: bc59ed6d6bd66bb2644dade80702e7d91bde102320ca5c9cfe59051ebf4d259b
+  bytes: 13544
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

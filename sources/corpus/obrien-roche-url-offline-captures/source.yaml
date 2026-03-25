@@ -1,0 +1,15 @@
+id: obrien-roche-url-offline-captures
+title: O'Brien / Roche notes — offline curl captures (01–15)
+remote:
+  note: >-
+    Original URLs are listed in the master link file
+    media/docs/Obrien and Roche notes and links.txt (see reference.md).
+fetches:
+- kind: web
+  at: '2026-03-23T17:30:00Z'
+  note: >-
+    Batch of fifteen desktop-curl HTML captures; migrated from sources/mirrors/roche-notes/.
+    Several hosts return stubs (MyHeritage), challenges, or HTML instead of PDF — see reference.md.
+files:
+  index: reference.md
+  web_markdown: extracted.web.md

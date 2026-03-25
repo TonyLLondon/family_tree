@@ -1,0 +1,12 @@
+id: christian-mission-to-muslims-fc5eb90f00
+title: Christian Mission to Muslims
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:47:36Z'
+  sha256: e449858e739821dccf2f172654cafaf2e7ab0bd3043d3202f9dc28a8de48fedc
+  bytes: 700813
+  media_reference: media/publications/persia-iran/Christian Mission to Muslims.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/publications/persia-iran/Christian Mission to Muslims.pdf

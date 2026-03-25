@@ -1,0 +1,12 @@
+id: estonian-biographical-center-stump-family-resear-856c90185e
+title: Estonian Biographical Center - Stump family research report 2005-09-01
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:18:41Z'
+  sha256: 1fe76aec7259e68b0b562b51958644007858cec84adea4e1518cb923ef5348d1
+  bytes: 129569
+  media_reference: media/albums/henderson/Estonian Biographical Center - Stump family research report 2005-09-01.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/albums/henderson/Estonian Biographical Center - Stump family research report 2005-09-01.pdf

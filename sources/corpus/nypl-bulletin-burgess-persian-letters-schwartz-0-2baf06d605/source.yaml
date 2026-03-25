@@ -1,0 +1,12 @@
+id: nypl-bulletin-burgess-persian-letters-schwartz-0-2baf06d605
+title: NYPL Bulletin Burgess Persian Letters Schwartz - 04 Part IV Edward to George commercial treaty 1841
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:28:16Z'
+  sha256: 1932acd5e4f6f3932966ccd154fcf74c9799a303e58f14e6a469d8ecd9e23442
+  bytes: 3410828
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 04 Part IV Edward to George commercial treaty 1841.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 04 Part IV Edward to George commercial treaty 1841.pdf

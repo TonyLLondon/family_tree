@@ -1,0 +1,14 @@
+id: maltaramc-maunsell-thomas
+remote:
+  webpage_url: https://www.maltaramc.com/regsurg/m/maunsellt.html
+fetches:
+- kind: web
+  at: '2026-03-22T17:04:43Z'
+  remote_url: https://www.maltaramc.com/regsurg/m/maunsellt.html
+  sha256: 4a62dcdbcfb7f186c2707609270b4c58e2cc501be00cd680962a75969bcde2f1
+  bytes: 18511
+  http_last_modified: Sat, 04 Dec 2021 16:01:28 GMT
+  http_etag: W/"484f-5d25422e3e600"
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

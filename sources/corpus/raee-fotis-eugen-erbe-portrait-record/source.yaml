@@ -1,0 +1,14 @@
+id: raee-fotis-eugen-erbe-portrait-record
+title: 'RA.EE Fotis: Eugen Erbe portrait record (viewer page)'
+remote:
+  webpage_url: https://www.ra.ee/fotis/index.php?type=2&id=743023d85cccc9a4e248371d3c127ae8474
+  fetch_url: https://www.ra.ee/fotis/index.php/et/photo/view?id=743023d85cccc9a4e248371d3c127ae8474
+fetches:
+- kind: web
+  at: '2026-03-22T18:29:51Z'
+  remote_url: https://www.ra.ee/fotis/index.php/et/photo/view?id=743023d85cccc9a4e248371d3c127ae8474
+  sha256: 6d4b35d6d847a1e130aaa9fc2921040207722edc546aff0de3f2e6a279e4a738
+  bytes: 20021
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

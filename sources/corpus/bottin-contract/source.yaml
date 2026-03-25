@@ -1,0 +1,13 @@
+id: bottin-contract
+title: Julien Bottin — Persian Ministry of War contract (French)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-21T20:21:46Z'
+  sha256: 65d88a135530f0dcce755668f9e170c7ca49cb4babd2c8e45c95f4b25dccad0a
+  bytes: 977060
+  media_reference: media/albums/henderson/Bottin Contract.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  transcription_translation_en: transcription-translation.en.md
+  media_reference: media/albums/henderson/Bottin Contract.pdf
