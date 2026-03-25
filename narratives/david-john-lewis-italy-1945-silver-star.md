@@ -101,24 +101,38 @@ The war in Italy ended on **2 May 1945** with the surrender of all Axis forces. 
 | Apr 1945 | 61st Brigade, 6th Armoured Division | **Argenta Gap**; **Po bridgehead — Faccenda** (Silver Star) |
 | May 1945 | 6th Armoured Division | **Austria**; occupation duty, later Trieste |
 | 23 May 1946 | — | **Mentioned in dispatches** (London Gazette Supp. 37575, p. 2466) |
+| 18 Jul 1947 | — | **Silver Star** formally gazetted (London Gazette Supp. 38018, p. 3319) |
+| 31 Oct 1953 | — | **Relinquished commission**; granted hon. rank of Major (London Gazette Supp., p. 5761) |
 
 ---
 
 ## Documents and media
 
-| Aim | Likely repository |
-|-----|-------------------|
-| **Army number** | **143587** — confirmed via London Gazette Supplement 37575, 23 May 1946, p. 2466 (MiD list). The Forces War Records entry "Lewis, David — UK Welsh Regiments 1899–1942" is a different person. |
-| Mention in dispatches | [London Gazette Supp. 37575, p. 2466](https://www.thegazette.co.uk/London/issue/37575/supplement/2466) — **Maj. (temp.) D. J. LEWIS (143587)**, Welch R. |
-| Commission gazette notice | Now searchable by number **(143587)** — should locate the emergency commission date (likely 1940–41) |
-| Commission / officer file | [The National Archives, Kew](https://www.nationalarchives.gov.uk/) — WO 373 for U.S. awards to Commonwealth officers |
+### London Gazette record (complete)
+
+| Date | Issue / Supplement | Page | Entry |
+|------|-------------------|------|-------|
+| 23 Aug 1940 | Supplement | 5145 | Emergency commission: 2nd Lt. David John Lewis (143587), Welch R. [Screenshot](../media/military/david-john-lewis-commission-london-gazette-1940-p5145.png) |
+| 23 May 1946 | Supp. 37575 | 2466 | Mentioned in dispatches: Maj. (temp.) D. J. LEWIS (143587), Welch R. [Screenshot](../media/military/david-john-lewis-mid-london-gazette-37575-p2466.png) · [Online](https://www.thegazette.co.uk/London/issue/37575/supplement/2466) |
+| 18 Jul 1947 | Second Supp. 38018 | 3319 | Silver Star: Captain David John Lewis (143587), The Welch Regiment. [Screenshot](../media/military/david-john-lewis-silver-star-london-gazette-38018-p3319.png) |
+| 31 Oct 1953 | Supplement | 5761 | Relinquished commission: Lt. (War Subs. Capt.) D. J. Lewis (143587) — granted hon. rank of Major. [Screenshot](../media/military/david-john-lewis-relinquish-commission-london-gazette-1953-p5761.png) |
+
+### Rank progression
+
+Lewis rose from 2nd Lieutenant in 1940 to **Major** commanding a company in combat by 1945 — a progression earned across Sicily, Cassino, Anzio, the Gothic Line, and the final offensive. The wartime British Army used layered rank designations: "war substantive" Captain, "temporary" Major. The 1953 gazette formalised his departure with the honorary rank of **Major**, the rank he held in action and the rank the family has always known.
+
+### Other repositories
+
+| Aim | Repository |
+|-----|------------|
+| Officer file / Silver Star recommendation | [The National Archives, Kew](https://www.nationalarchives.gov.uk/) — WO 373 |
 | Battalion narrative for 25 Apr 1945 | 1st Welch war diary (WO 169 / WO 172) |
 | Full GO No. 285 volume | NARA (U.S.), Mediterranean Theater general orders |
 | 168th Brigade / Anzio losses | [Wikipedia — 168th (2nd London) Brigade](https://en.wikipedia.org/wiki/168th_(2nd_London)_Brigade); [56th Division](https://en.wikipedia.org/wiki/56th_(London)_Infantry_Division) |
 | 6th Armoured Division operations | [Wikipedia — 6th Armoured Division](https://en.wikipedia.org/wiki/6th_Armoured_Division_(United_Kingdom)); [Battle of the Argenta Gap](https://en.wikipedia.org/wiki/Battle_of_the_Argenta_Gap) |
 
+### In-repo media
+
 **Portrait:** [david-lewis-military-portrait.png](../media/docs/david-lewis-military-portrait.png) — David Lewis with medals and the Royal Welsh regimental goat.
 
-**Mention in dispatches (screenshot):** [London Gazette Supp. 37575, p. 2466](../media/military/david-john-lewis-mid-london-gazette-37575-p2466.png) — Gazette page showing Maj. (temp.) D. J. LEWIS (143587) under Welch R.
-
-**Other media:** [David Lewis military.png](../media/docs/David%20Lewis%20military.png) · [David Lewis Senior Military.png](../media/docs/David%20Lewis%20Senior%20Military.png)
+**Other:** [David Lewis military.png](../media/docs/David%20Lewis%20military.png) · [David Lewis Senior Military.png](../media/docs/David%20Lewis%20Senior%20Military.png)

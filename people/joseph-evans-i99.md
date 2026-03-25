@@ -23,7 +23,7 @@ Son of [Alfred Edward William Evans](alfred-edward-william-evans.md) and [Annie 
 ## Evidence
 
 - [family-tree.json](../family-tree.json) **`I99`**, unions **F50** / **F49**.
-- Web portrait: [uniform-epaulettes-man-holding-baby-vintage-tv-room.jpg](../archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/uniform-epaulettes-man-holding-baby-vintage-tv-room.jpg) → **`I99`** in [web/photo-map.json](../web/photo-map.json). [David John Lewis](david-john-lewis.md) **`I8`** uses [david-lewis-military-portrait.png](../media/docs/david-lewis-military-portrait.png) (not the misidentified sun-chart frame).
+- Web portrait: [uniform-epaulettes-man-holding-baby-vintage-tv-room.jpg](../media/images/portraits/uniform-epaulettes-man-holding-baby-vintage-tv-room.jpg) → **`I99`** in [web/photo-map.json](../web/photo-map.json). [David John Lewis](david-john-lewis.md) **`I8`** uses [david-lewis-military-portrait.png](../media/docs/david-lewis-military-portrait.png) (not the misidentified sun-chart frame).
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md) — includes **Coolbear** ascend table and [Evans–Spencer loose `media/docs`](../lines/evans-cerpa-perez-london-chile.md#loose-media-docs-evans-spencer-batch).
 
 ## Open questions

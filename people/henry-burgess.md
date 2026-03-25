@@ -33,7 +33,7 @@ English father of [Edward Burgess](edward-burgess.md) (GEDCOM **F40**). The expo
 
 - GEDCOM **`@I81@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - [family-tree.json](../family-tree.json).
-- **Sun-chart portrait (Henry):** [henry-burgess.jpg](../archive/sun-charts/Sun-Char-200923-Autosaved-extracted-jpg/jpg/henry-burgess.jpg) — extracted from the family sun chart; was mislabelled `joseph-burgess.jpg` and corrected. Also on file: [Henry Burgess.jpg](../media/images/loose/Henry%20Burgess.jpg) (loose copy). Tie to [NYPL Burgess papers / seated portrait note](../sources/corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md) (finding aid mentions **Henry Burgess** cartes-de-visite) or other primary ID before treating sitter as proved.
+- **Sun-chart portrait (Henry):** [henry-burgess.jpg](../media/images/portraits/henry-burgess.jpg) — extracted from the family sun chart; was mislabelled `joseph-burgess.jpg` and corrected. Also on file: [Henry Burgess.jpg](../media/images/loose/Henry%20Burgess.jpg) (loose copy). Tie to [NYPL Burgess papers / seated portrait note](../sources/corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md) (finding aid mentions **Henry Burgess** cartes-de-visite) or other primary ID before treating sitter as proved.
 - External note URL embedded in GEDCOM (Hadwen tree) — capture static PDF in `media/` if the link rots.
 
 ## Open questions
