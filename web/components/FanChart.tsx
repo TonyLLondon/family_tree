@@ -9,6 +9,7 @@ import {
 } from "react-zoom-pan-pinch";
 import { useRouter } from "next/navigation";
 import type { AncestorNode, Person } from "@/lib/genealogy";
+import type { PhotoInfo } from "@/lib/photos";
 import { personSlugFromPage } from "@/lib/genealogy";
 import {
   CHART_BIRTH_PLACE_LEGEND,
@@ -30,9 +31,16 @@ type FanSegment = {
 type Props = {
   root: AncestorNode;
   maxGeneration: number;
-  photoUrls: Record<string, string | null>;
+  photoInfos: Record<string, PhotoInfo | null>;
   centers?: Person[];
 };
+
+function focalToPreserveAspectRatio(focal: [number, number]): string {
+  const [fx, fy] = focal;
+  const xAlign = fx < 0.33 ? "xMin" : fx > 0.66 ? "xMax" : "xMid";
+  const yAlign = fy < 0.33 ? "yMin" : fy > 0.66 ? "yMax" : "yMid";
+  return `${xAlign}${yAlign} slice`;
+}
 
 const W = 2400;
 const CX = W / 2;
@@ -251,7 +259,7 @@ function ChartLegend() {
   );
 }
 
-export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp }: Props) {
+export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp }: Props) {
   const segments = useMemo(() => {
     const out: FanSegment[] = [];
     layoutAncestors(root, maxGeneration, out);
@@ -329,7 +337,9 @@ export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp 
                 const pathD = arcGen(datum);
                 const [cx, cy] = arcGen.centroid(datum);
                 const slug = personSlugFromPage(s.person?.personPage);
-                const photo = photoUrls[s.id];
+                const pInfo = photoInfos[s.id];
+                const photo = pInfo?.url ?? null;
+                const photoFocal = pInfo?.focal ?? [0.5, 0.5] as [number, number];
                 const name = s.person?.displayName ?? "?";
                 const years = yearRange(s.person);
                 const span = s.endAngle - s.startAngle;
@@ -491,7 +501,7 @@ export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp 
                           width={photoR * 2}
                           height={photoR * 2}
                           clipPath={`url(#${clipId})`}
-                          preserveAspectRatio="xMidYMid slice"
+                          preserveAspectRatio={focalToPreserveAspectRatio(photoFocal)}
                           style={{ pointerEvents: "none" }}
                         />
                       </>
@@ -503,60 +513,116 @@ export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp 
               })}
 
               <g transform={`translate(0,${ROOT_FOCUS_DY})`}>
-                {centers.map((p, i) => {
-                  const n = centers.length;
-                  const step = 2 * ROOT_R + ROOT_GAP;
-                  const xOff = n === 1 ? 0 : (i - (n - 1) / 2) * step;
-                  const name = p.displayName ?? p.id;
-                  const slug = personSlugFromPage(p.personPage);
-                  const photo = photoUrls[p.id];
-                  const years = yearRange(p);
-                  const ring = chartStrokeFromBirthPlace(p.birthPlace);
-                  const shortName = name.length > 22 ? `${name.slice(0, 21)}…` : name;
-                  const photoY = photo ? 108 : 6;
-                  const yearsY = photo ? 128 : 26;
-                  return (
-                    <g key={p.id} transform={`translate(${xOff},0)`}>
-                      <circle r={ROOT_R} fill="#fff" stroke={ring} strokeWidth={3} />
-                      {photo ? (
-                        <>
-                          <defs>
-                            <clipPath id={`root-clip-${p.id}`}>
-                              <circle r={70} />
-                            </clipPath>
-                          </defs>
-                          <image
-                            href={photo}
-                            x={-70}
-                            y={-70}
-                            width={140}
-                            height={140}
-                            clipPath={`url(#root-clip-${p.id})`}
-                            preserveAspectRatio="xMidYMid slice"
-                            style={{ pointerEvents: "none" }}
-                          />
-                        </>
-                      ) : null}
-                      {slug ? (
-                        <circle
-                          r={ROOT_R}
-                          fill="transparent"
-                          className="hover:fill-blue-100/40 cursor-pointer"
-                          onPointerDown={onSegmentPointerDown}
-                          onClick={(e) => onSegmentClick(e, `/people/${slug}`)}
+                {(() => {
+                  const photoUrls = centers.map((c) => photoInfos[c.id]?.url ?? null);
+                  const sharedPhoto =
+                    centers.length > 1 &&
+                    photoUrls[0] &&
+                    photoUrls.every((u) => u === photoUrls[0]);
+
+                  if (sharedPhoto) {
+                    const photo = photoUrls[0]!;
+                    const focal = photoInfos[centers[0].id]?.focal ?? ([0.5, 0.5] as [number, number]);
+                    const ring = chartStrokeFromBirthPlace(centers[0].birthPlace);
+                    const clipR = 70;
+
+                    const names = centers.map((c) => c.displayName ?? c.id);
+                    const lastParts = names.map((n) => n.split(" ").slice(-1)[0]);
+                    const sameSurname = lastParts.every((l) => l === lastParts[0]);
+                    const combinedName = sameSurname
+                      ? names.map((n) => n.split(" ").slice(0, -1).join(" ")).join(" & ") + " " + lastParts[0]
+                      : names.join(" & ");
+
+                    const allYears = centers.map((c) => yearRange(c)).filter(Boolean);
+                    const combinedYears = allYears.join("  ·  ");
+
+                    return (
+                      <g transform="translate(0,30)">
+                        <circle r={ROOT_R} fill="#fff" stroke={ring} strokeWidth={3} />
+                        <defs>
+                          <clipPath id="root-clip-combined">
+                            <circle r={clipR} />
+                          </clipPath>
+                        </defs>
+                        <image
+                          href={photo}
+                          x={-clipR}
+                          y={-clipR}
+                          width={clipR * 2}
+                          height={clipR * 2}
+                          clipPath="url(#root-clip-combined)"
+                          preserveAspectRatio={focalToPreserveAspectRatio(focal)}
+                          style={{ pointerEvents: "none" }}
                         />
-                      ) : null}
-                      <text y={photoY} x={0} textAnchor="middle" fontSize={n === 2 ? 17 : 20} fontWeight={700} fill="#0f172a" style={{ pointerEvents: "none" }}>
-                        {shortName}
-                      </text>
-                      {years ? (
-                        <text y={yearsY} x={0} textAnchor="middle" fontSize={n === 2 ? 13 : 15} fill="#64748b" style={{ pointerEvents: "none" }}>
-                          {years}
+                        <text y={108} x={0} textAnchor="middle" fontSize={17} fontWeight={700} fill="#0f172a" style={{ pointerEvents: "none" }}>
+                          {combinedName}
                         </text>
-                      ) : null}
-                    </g>
-                  );
-                })}
+                        {combinedYears && (
+                          <text y={128} x={0} textAnchor="middle" fontSize={13} fill="#64748b" style={{ pointerEvents: "none" }}>
+                            {combinedYears}
+                          </text>
+                        )}
+                      </g>
+                    );
+                  }
+
+                  return centers.map((p, i) => {
+                    const n = centers.length;
+                    const step = 2 * ROOT_R + ROOT_GAP;
+                    const xOff = n === 1 ? 0 : (i - (n - 1) / 2) * step;
+                    const name = p.displayName ?? p.id;
+                    const slug = personSlugFromPage(p.personPage);
+                    const pInfo = photoInfos[p.id];
+                    const photo = pInfo?.url ?? null;
+                    const rootFocal = pInfo?.focal ?? ([0.5, 0.5] as [number, number]);
+                    const years = yearRange(p);
+                    const ring = chartStrokeFromBirthPlace(p.birthPlace);
+                    const shortName = name.length > 22 ? `${name.slice(0, 21)}…` : name;
+                    const photoY = photo ? 108 : 6;
+                    const yearsY = photo ? 128 : 26;
+                    return (
+                      <g key={p.id} transform={`translate(${xOff},0)`}>
+                        <circle r={ROOT_R} fill="#fff" stroke={ring} strokeWidth={3} />
+                        {photo ? (
+                          <>
+                            <defs>
+                              <clipPath id={`root-clip-${p.id}`}>
+                                <circle r={70} />
+                              </clipPath>
+                            </defs>
+                            <image
+                              href={photo}
+                              x={-70}
+                              y={-70}
+                              width={140}
+                              height={140}
+                              clipPath={`url(#root-clip-${p.id})`}
+                              preserveAspectRatio={focalToPreserveAspectRatio(rootFocal)}
+                              style={{ pointerEvents: "none" }}
+                            />
+                          </>
+                        ) : null}
+                        {slug ? (
+                          <circle
+                            r={ROOT_R}
+                            fill="transparent"
+                            className="hover:fill-blue-100/40 cursor-pointer"
+                            onPointerDown={onSegmentPointerDown}
+                            onClick={(e) => onSegmentClick(e, `/people/${slug}`)}
+                          />
+                        ) : null}
+                        <text y={photoY} x={0} textAnchor="middle" fontSize={n === 2 ? 17 : 20} fontWeight={700} fill="#0f172a" style={{ pointerEvents: "none" }}>
+                          {shortName}
+                        </text>
+                        {years ? (
+                          <text y={yearsY} x={0} textAnchor="middle" fontSize={n === 2 ? 13 : 15} fill="#64748b" style={{ pointerEvents: "none" }}>
+                            {years}
+                          </text>
+                        ) : null}
+                      </g>
+                    );
+                  });
+                })()}
               </g>
             </g>
           </svg>

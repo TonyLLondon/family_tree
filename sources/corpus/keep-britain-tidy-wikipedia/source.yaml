@@ -1,0 +1,12 @@
+id: keep-britain-tidy-wikipedia
+remote:
+  webpage_url: https://en.wikipedia.org/wiki/Keep_Britain_Tidy
+fetches:
+- kind: web
+  at: '2026-03-25T15:05:05Z'
+  remote_url: https://en.wikipedia.org/wiki/Keep_Britain_Tidy
+  sha256: c8b99fda8f006f0042948fb114854378fddf1d233751ca2759454af3abaac085
+  bytes: 78193
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

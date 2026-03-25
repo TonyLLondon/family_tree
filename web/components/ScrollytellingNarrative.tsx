@@ -12,6 +12,7 @@ interface ScrollyMedia {
   src: string;
   alt: string;
   caption?: string;
+  focal?: [number, number];
 }
 
 interface ScrollyStepData {
@@ -21,6 +22,7 @@ interface ScrollyStepData {
 
 interface MarkdownSection {
   heading: string;
+  slug: string;
   body: string;
 }
 
@@ -46,13 +48,62 @@ export function ScrollytellingNarrative({
   const kenBurnsRef = useRef<gsap.core.Tween | null>(null);
   const [heroVisible, setHeroVisible] = useState(true);
 
+  const allSections = sections;
+  const slugForIndex = useCallback(
+    (i: number) => allSections[i]?.slug ?? "",
+    [allSections],
+  );
+
+  const lastPushedHash = useRef<string>("");
+
   const handleStepEnter = useCallback(
     ({ data }: { data: number }) => {
       setActiveStep(data);
       setHeroVisible(false);
+
+      const slug = slugForIndex(data);
+      if (slug && typeof window !== "undefined") {
+        const hash = `#${slug}`;
+        if (lastPushedHash.current !== hash) {
+          lastPushedHash.current = hash;
+          history.pushState(null, "", hash);
+        }
+      }
     },
-    [],
+    [slugForIndex],
   );
+
+  useEffect(() => {
+    const scrollToHash = () => {
+      const hash = window.location.hash.replace(/^#/, "");
+      if (!hash) return;
+      const el = document.getElementById(hash);
+      if (el) {
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    };
+
+    const raf = requestAnimationFrame(() => scrollToHash());
+
+    const onPopState = () => {
+      const hash = window.location.hash.replace(/^#/, "");
+      lastPushedHash.current = hash ? `#${hash}` : "";
+      if (!hash) {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        return;
+      }
+      const el = document.getElementById(hash);
+      if (el) {
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    };
+
+    window.addEventListener("popstate", onPopState);
+    return () => {
+      cancelAnimationFrame(raf);
+      window.removeEventListener("popstate", onPopState);
+    };
+  }, []);
 
   // Crossfade images + Ken Burns on active image
   useEffect(() => {
@@ -114,6 +165,7 @@ export function ScrollytellingNarrative({
                 src={step.media.src}
                 alt={step.media.alt}
                 className="h-full w-full object-cover"
+                style={step.media.focal ? { objectPosition: `${Math.round(step.media.focal[0] * 100)}% ${Math.round(step.media.focal[1] * 100)}%` } : undefined}
                 draggable={false}
               />
               {/* gradient for text readability */}
@@ -167,8 +219,11 @@ export function ScrollytellingNarrative({
           {/* ── Scrollama steps ───────────────────────────────────────── */}
           <Scrollama onStepEnter={handleStepEnter} offset={0.45}>
             {scrollySections.map((section, i) => (
-              <Step key={i} data={i}>
-                <div className="px-4 py-[20vh] first:pt-[5vh] last:pb-[30vh] md:px-6">
+              <Step key={section.slug || i} data={i}>
+                <div
+                  id={section.slug}
+                  className="px-4 py-[20vh] first:pt-[5vh] last:pb-[30vh] md:px-6"
+                >
                   <div className="mx-auto max-w-2xl overflow-hidden rounded-xl bg-white/94 shadow-2xl ring-1 ring-black/5 backdrop-blur-sm">
                     {/* Era ribbon */}
                     {steps[i]?.era && (
@@ -200,7 +255,8 @@ export function ScrollytellingNarrative({
         <main className="mx-auto max-w-4xl flex-1 px-4 py-12 md:px-6">
           {appendixSections.map((section, i) => (
             <section
-              key={`appendix-${i}`}
+              id={section.slug}
+              key={section.slug || `appendix-${i}`}
               className="mb-10 border-b border-zinc-100 pb-10 last:border-0"
             >
               <h2 className="mb-4 text-xl font-bold tracking-tight text-zinc-900">
@@ -212,8 +268,10 @@ export function ScrollytellingNarrative({
         </main>
       )}
 
-      <footer className="border-t border-zinc-100 bg-zinc-50 py-6 text-center text-xs text-zinc-400">
-        Family history archive — built from the vault
+      <footer className="border-t border-zinc-200/60 bg-zinc-50 py-8 text-center">
+        <p className="font-serif text-sm text-zinc-400">
+          Lewis · Evans · Zerauschek · Cerpa
+        </p>
       </footer>
     </>
   );

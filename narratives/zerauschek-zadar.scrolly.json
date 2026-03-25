@@ -1,17 +1,18 @@
 {
   "hero": {
     "title": "The Hotel on Široka Ulica",
-    "subtitle": "Antonio Zerauschek and the Italian enclave of Zara",
+    "subtitle": "Antonio Zerauschek — trader, banker, factory owner in Italian Zara",
     "era": "1920s – 1973"
   },
-  "scrollyStepCount": 4,
+  "scrollyStepCount": 5,
   "steps": [
     {
       "era": "Interwar Zara",
       "media": {
         "src": "media/images/portraits/antonio-zerauschek-ester-addobbati.jpg",
         "alt": "Antonio Zerauschek and Ester Addobbati",
-        "caption": "Antonio Zerauschek and Ester Addobbati — the Italian-speaking elite of interwar Zara"
+        "caption": "Antonio Zerauschek and Ester Addobbati — the Italian-speaking elite of interwar Zara",
+        "focal": [0.3, 0.3]
       }
     },
     {
@@ -19,15 +20,26 @@
       "media": {
         "src": "media/images/portraits/antonio-zerauschek-ester-addobbati.jpg",
         "alt": "Antonio Zerauschek and Ester Addobbati portrait",
-        "caption": "Hotel Zerauschek and the Caffè Centrale — Zara's main street, rebuilt"
+        "caption": "Hotel Zerauschek and the Caffè Centrale — Zara's main street, rebuilt",
+        "focal": [0.3, 0.3]
       }
     },
     {
-      "era": "Porto Franco era",
+      "era": "1928 – 1940s",
       "media": {
         "src": "media/docs/Difesa Adriatica 1973 Antonio Zerauschek obituary Zara Florence.jpeg",
         "alt": "Difesa Adriatica obituary for Antonio Zerauschek, 1973",
-        "caption": "Tabacchi Orientali, Calypso cigarettes, Ausonia chocolate — a free-port empire"
+        "caption": "Calypso cigarettes — the Manifattura Zaratina Sigarette, acquired from Peristeridis in 1928",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "1929 – 1940s",
+      "media": {
+        "src": "media/docs/Difesa Adriatica 1973 Antonio Zerauschek obituary Zara Florence.jpeg",
+        "alt": "Difesa Adriatica obituary mentioning Ausonia chocolate",
+        "caption": "Ausonia — Zadar's 'sweetest factory', exporting chocolate to Italy and Western Europe from 1929",
+        "focal": [0.5, 0.3]
       }
     },
     {
@@ -35,7 +47,7 @@
       "media": {
         "src": "media/docs/Grave slab Florence Ester Addobbati Zerauschek Antonio Giuliana Zerauschek Rivolta.png",
         "alt": "Grave slab in Florence for Ester Addobbati Zerauschek, Antonio Zerauschek, and Giuliana Zerauschek Rivolta",
-        "caption": "Florence — the Zerauscheks in exile, buried together"
+        "caption": "Florence — exile, confiscation, and the end of two factories"
       }
     }
   ]

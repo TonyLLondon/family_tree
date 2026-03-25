@@ -21,6 +21,7 @@
 | Essay | Role |
 |--------|------|
 | [Zara — Antonio Zerauschek (interwar)](../narratives/zerauschek-zadar.md) | Hotels, cafés, obituary context |
+| [Villa Ester — from the Zerauscheks to Maria Callas](../narratives/zerauschek-villa-callas-sirmione.md) | Sirmione villa: ownership chain to Meneghini/Callas |
 | [Addobbati: Venetian-Dalmatian civic family](../narratives/addobbati-dalmatian-habsburg.md) | *Cittadini*, Nin, DAZD, postal/protest context |
 
 ## Topics
@@ -49,9 +50,27 @@
 
 | Topic | Citation card | Corpus bundle |
 |--------|----------------|---------------|
+| Fulvia Zerauschek — family history memoir to PML (18 & 24 Sep 1996) | [famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) | [famhist-nonna-memoir-1996](../sources/corpus/famhist-nonna-memoir-1996/) — PDF + extract |
+| ITS/IRO — Riccardo Zerauschek displaced persons file (Trieste, 1951) | [its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) | [its-iro-riccardo-zerauschek-1951](../sources/corpus/its-iro-riccardo-zerauschek-1951/) — scans + transcription |
 | *Difesa Adriatica* — Antonio Zerauschek obituary (1973) | [difesa-adriatica-1973-zerauschek-obituary.md](../sources/difesa-adriatica-1973-zerauschek-obituary.md) | [difesa-adriatica-1973-antonio-zerauschek-obituary](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/) — transcript + translation |
 | Interwar Zara cafés (web captures) | — | [retrozadar-povijest-kavana-u-zadru](../sources/corpus/retrozadar-povijest-kavana-u-zadru/) · [slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror](../sources/corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/) |
 | *Adaptive cities* (Polito PDF — urban context) | — | [polito-iris-adaptive-cities-volume-completo](../sources/corpus/polito-iris-adaptive-cities-volume-completo/) |
+
+### Villa Ester / Villa Callas — Sirmione
+
+| Topic | Citation card | Corpus bundle |
+|--------|----------------|---------------|
+| *Incom* (1958) — "Telefoni e rose per la villa della Callas" (Savino Mariani, via GBOPERA) | [gbopera-2009-telefoni-e-rose-sirmione-callas.md](../sources/gbopera-2009-telefoni-e-rose-sirmione-callas.md) | [gbopera-2009-telefoni-e-rose-sirmione-callas](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/) |
+| Magazine clipping (c. 1959) — "Per Maria Callas questa villa è una catapecchia" | — | [villa-callas-catapecchia-magazine-c1959](../sources/corpus/villa-callas-catapecchia-magazine-c1959/) — transcript + translation |
+
+### Zerauschek industrial — cigarettes & chocolate
+
+| Topic | Citation card | Corpus bundle |
+|--------|----------------|---------------|
+| Manifattura Zaratina Sigarette — Italian cigarette collection (all Zara manufacturers 1920–43) | [sigaretteitaliane-zara-1920-43.md](../sources/sigaretteitaliane-zara-1920-43.md) | [sigaretteitaliane-zara-1920-43](../sources/corpus/sigaretteitaliane-zara-1920-43/) |
+| Calypso cigarette pack (c. 1940) — collector's database | [zigsam-at-calypso-cigarette-packs.md](../sources/zigsam-at-calypso-cigarette-packs.md) | [zigsam-at-calypso-cigarette-packs](../sources/corpus/zigsam-at-calypso-cigarette-packs/) |
+| Ausonia chocolate factory — Zadarski tjednik photo-feuilleton (2024) | [zadarskitjednik-ausonia-tvornica-cokolade.md](../sources/zadarskitjednik-ausonia-tvornica-cokolade.md) | [zadarskitjednik-ausonia-tvornica-cokolade](../sources/corpus/zadarskitjednik-ausonia-tvornica-cokolade/) |
+| Ausonia / Zerauschek — Poslovni dnevnik (2011) | [poslovni-hr-2011-ausonia-zadar-zerauschek.md](../sources/poslovni-hr-2011-ausonia-zadar-zerauschek.md) | [poslovni-hr-2011-ausonia-zadar-zerauschek](../sources/corpus/poslovni-hr-2011-ausonia-zadar-zerauschek/) |
 
 ### DAZD / Nin / nobility / civic context
 

@@ -30,7 +30,7 @@ Mother of [David John Lewis](david-john-lewis.md); wife of [Samuel Lewis](samuel
 
 - Parents: [David Cushen](david-cushen.md); [Mary Morgan](mary-morgan.md) (**F88**).
 - Husband: [Samuel Lewis](samuel-lewis.md).
-- Children: [David John Lewis](david-john-lewis.md) and **@I73@** per **F7** in [family-tree.json](../family-tree.json).
+- Children: [David John Lewis](david-john-lewis.md) and **Brynmor Keith Lewis** (I73) per **F7** in [family-tree.json](../family-tree.json).
 
 ## Evidence
 

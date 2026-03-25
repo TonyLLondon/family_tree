@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Lora } from "next/font/google";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -12,9 +12,26 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const lora = Lora({
+  variable: "--font-lora",
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+});
+
 export const metadata: Metadata = {
-  title: "Family history",
-  description: "Family tree vault — people, narratives, sources, and ancestor chart",
+  title: {
+    default: "Lewis · Evans · Zerauschek · Cerpa — Family History",
+    template: "%s — Family History",
+  },
+  description:
+    "Seven generations from South Wales and London to Chile — through Qajar Persia, Habsburg Dalmatia, and Baltic Tallinn. Parish registers, military citations, diplomatic letters, and family portraits.",
+  metadataBase: new URL("https://family-tree-lewis.vercel.app"),
+  robots: { index: false, follow: false },
+  openGraph: {
+    type: "website",
+    siteName: "Lewis Family History",
+    locale: "en_GB",
+  },
 };
 
 export default function RootLayout({
@@ -23,7 +40,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
+    <html
+      lang="en"
+      className={`${geistSans.variable} ${geistMono.variable} ${lora.variable} h-full antialiased`}
+    >
       <body className="min-h-full flex flex-col bg-white text-zinc-900">
         {children}
       </body>

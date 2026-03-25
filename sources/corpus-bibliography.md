@@ -23,6 +23,8 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [David Yaghoubian - Ethnicity Identity and Nationalism in Iran](corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/) — `david-yaghoubian-ethnicity-identity-and-national-00eefee0c9`
 - [English Wikipedia: William Cormick — offline curl captures](corpus/en-wikipedia-william-cormick-curl-mirrors/) — `en-wikipedia-william-cormick-curl-mirrors`
 - [Gabriele Yonan - Lest We Perish - Christian Assyrians Turkey and Persia 1996](corpus/gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3/) — `gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3`
+- [Henderson Burgess-Stump Family Tree (spreadsheet)](corpus/henderson-burgess-stump-family-tree/) — `henderson-burgess-stump-family-tree`
+- [Fanny Burgess Bottin Timeline 1854–1938](corpus/henderson-fbb-timeline/) — `henderson-fbb-timeline`
 - [Encyclopaedia Iranica — DENTISTRY (dandān-pezeškī) in Persia](corpus/iranica-dentistry-article/) — `iranica-dentistry-article`
 - [Encyclopaedia Iranica — Firearms i. History](corpus/iranica-firearms-history/) — `iranica-firearms-history`
 - [Freemasonry and fraternalism in the Middle East](corpus/levantine-freemasonry/) — `levantine-freemasonry`
@@ -61,7 +63,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [DAZD HR-DAZD-342 — Obitelj Addobbati family fonds inventory (1732–1930)](corpus/dazd-addobbati-family-fonds/) — `dazd-addobbati-family-fonds`
 - [DAZD HR-DAZD-355 — Obitelj Filippi (analytical inventory)](corpus/dazd-hr-dazd-355-filippi-family/) — `dazd-hr-dazd-355-filippi-family`
 - [DAZD HR-DAZD-497 — Obitelj Petricioli (analytical inventory)](corpus/dazd-hr-dazd-497-petricioli-family/) — `dazd-hr-dazd-497-petricioli-family`
-- [DAZD HR-DAZD-31 — Notaries of Zara inventory (includes Angelo Daniele Addobbati 1806–1831)](corpus/dazd-notaries-zadar/) — `dazd-notaries-zadar`
+- [DAZD HR-DAZD-31 — Notaries of Zadar inventory (includes Angelo Daniele Addobbati 1806–1831)](corpus/dazd-notaries-zadar/) — `dazd-notaries-zadar`
 - [DAZD — Obavijesna pomagala (finding aids index)](corpus/dazd-obavijesna-pomagala-index/) — `dazd-obavijesna-pomagala-index`
 - [Difesa Adriatica — Antonio Zerauschek obituary (1973, scan)](corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/) — `difesa-adriatica-1973-antonio-zerauschek-obituary`
 - [Popis plemića grada Nina iz 1817. godine (List of nobles of Nin 1817)](corpus/granic-2014-popis-plemenica-nina/) — `granic-2014-popis-plemenica-nina`
@@ -70,11 +72,14 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Ivna Anzulović: Ninska plemićka obitelj Pritičević i njihova kuća u Novigradu (Starohrvatska prosvjeta III/36, 2009)](corpus/hazu-hrcak-anzulovic-priticevic-nin-noble-family/) — `hazu-hrcak-anzulovic-priticevic-nin-noble-family`
 - [History Walks Venice — Citizen of the Republic of Venice (cittadini overview)](corpus/historywalks-venetian-citizenship/) — `historywalks-venetian-citizenship`
 - [Polito IRIS — Adaptive cities (volume completo)](corpus/polito-iris-adaptive-cities-volume-completo/) — `polito-iris-adaptive-cities-volume-completo`
+- [Erste banka odbila kreditirati proizvođača čokolade — Ausonia / Zerauschek history (Poslovni dnevnik, 2011)](corpus/poslovni-hr-2011-ausonia-zadar-zerauschek/) — `poslovni-hr-2011-ausonia-zadar-zerauschek`
 - [Retrozadar — Povijest kavana u Zadru](corpus/retrozadar-povijest-kavana-u-zadru/) — `retrozadar-povijest-kavana-u-zadru`
+- [Zara (1920-43) — Collezione di pacchetti di sigarette prodotti in Italia ed ex colonie italiane](corpus/sigaretteitaliane-zara-1920-43/) — `sigaretteitaliane-zara-1920-43`
 - [Slobodna Dalmacija — Povijest kavana u Zadru (2. dio) — curl snapshot](corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/) — `slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror`
 - [Società Dalmata di Storia Patria — Per l'Italia (includes 1909 protest list with Pietro Pio Addobbati, Ufficiale postale superiore)](corpus/societa-dalmata-storia-patria-2017/) — `societa-dalmata-storia-patria-2017`
 - [Ca' Foscari — Venetian cittadini originari: Libro d'Argento, Maggior Consiglio rules (open-access chapter)](corpus/venetian-cittadini-originari-ch3/) — `venetian-cittadini-originari-ch3`
 - [Viella download — urban-elites.pdf](corpus/viella-urban-elites-download/) — `viella-urban-elites-download`
+- [FOTO FELJTON Zadar je imao najslađu tvornicu čokolade Ausonia (Zadarski tjednik, 2024)](corpus/zadarskitjednik-ausonia-tvornica-cokolade/) — `zadarskitjednik-ausonia-tvornica-cokolade`
 
 ## Ireland / Lewis charts / Obolensky
 
@@ -93,6 +98,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Princess Obolensky](corpus/princess-obolensky-abbcc58ed8/) — `princess-obolensky-abbcc58ed8`
 - [Roche of Limerick – Forgotten Victorians](corpus/roche-of-limerick-forgotten-victorians-da2674483d/) — `roche-of-limerick-forgotten-victorians-da2674483d`
 - [Vera Obolensky death notice NYTimes](corpus/vera-obolensky-death-notice-nytimes-2644e85dac/) — `vera-obolensky-death-notice-nytimes-2644e85dac`
+- [Vera Obolensky with Yuri (Georges) aged 8, 1928](corpus/vera-obolensky-yuri-1928-photo/) — `vera-obolensky-yuri-1928-photo`
 
 ## Stump / Erbe / Baltic–Swiss
 
@@ -103,6 +109,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [BBLD: Landesen, Carl v. (1802-1883)](corpus/bbld-landesen-carl-v-gnd1229738681/) — `bbld-landesen-carl-v-gnd1229738681`
 - [دندانساز اتابک و دندانپزشک احمدشاه — Dr. Stump (Ashtump), dentist of Atabak and Ahmad Shah](corpus/beytoote-stump-dentist-atabak-ahmadshah/) — `beytoote-stump-dentist-atabak-ahmadshah`
 - [Wikipedia (de): Eugen Edmund Erbe](corpus/de-wikipedia-eugen-edmund-erbe/) — `de-wikipedia-eugen-edmund-erbe`
+- [Judge Scores Dental School — Refuses Mandamus for License to a German-American College Graduate (Chicago Tribune, 10 Aug 1902, repr. Dental Register)](corpus/dental-register-stump-mandamus-1902/) — `dental-register-stump-mandamus-1902`
 - [Deutsche Biographie: Hermann Erbe (GND 1203190484)](corpus/deutsche-biographie-hermann-erbe-gnd1203190484/) — `deutsche-biographie-hermann-erbe-gnd1203190484`
 - [DIGAR: Revalsche Zeitung, 15 October 1894 (full issue PDF; Olga Stump geb. Erbe notice)](corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/) — `digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static`
 - [DIGAR reader: Revalsche Zeitung nr. 19, 23 January 1908 (HTML shell)](corpus/digar-revalsche-zeitung-1908-01-23-nr19-reader/) — `digar-revalsche-zeitung-1908-01-23-nr19-reader`
@@ -112,6 +119,8 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Estonian Biographical Center - Stump family research report 2005-09-01](corpus/estonian-biographical-center-stump-family-resear-856c90185e/) — `estonian-biographical-center-stump-family-resear-856c90185e`
 - [Wikipedia (et): Carl Friedrich Landesen](corpus/et-wikipedia-carl-friedrich-landesen/) — `et-wikipedia-carl-friedrich-landesen`
 - [Wikipedia (et): Eugen Erbe (sündik)](corpus/et-wikipedia-eugen-erbe-syndik/) — `et-wikipedia-eugen-erbe-syndik`
+- [Forever Russian — Stump extract (Henderson collection)](corpus/forever-russian-stump-extract/) — `forever-russian-stump-extract`
+- [hamshahri-mahmoudieh-stump](corpus/hamshahri-mahmoudieh-stump/) — `hamshahri-mahmoudieh-stump`
 - [HVTG — Kirchgemeinden und Pfarrbücher Thurgau](corpus/hvtg-kirchgemeinden-pfarrbuecher-thurgau/) — `hvtg-kirchgemeinden-pfarrbuecher-thurgau`
 - [Petition Swiss Political Department Bern Russian Holy Synod church supplies WWI typed scan](corpus/petition-swiss-political-department-bern-russian-ee8fdb0857/) — `petition-swiss-political-department-bern-russian-ee8fdb0857`
 - [RA.EE Fotis: Eugen Erbe portrait record (viewer page)](corpus/raee-fotis-eugen-erbe-portrait-record/) — `raee-fotis-eugen-erbe-portrait-record`
@@ -150,7 +159,15 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [2020-10-01 Sartip David Sakinian 2](corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/) — `2020-10-01-sartip-david-sakinian-2-c6ecff59d2`
 - [Hungaricana — Kriegs-Marine / Schematismus 1909, pp. 169–172 (Landwehr brigade excerpt)](corpus/hungaricana-kriegsmarine-schematismus-1909-pp169-172/) — `hungaricana-kriegsmarine-schematismus-1909-pp169-172`
 - [Hungaricana — Militär-Almanach/Schematismus 1887, pp. 471–472 (officer list excerpt)](corpus/hungaricana-militar-almanach-1887-pp471-472/) — `hungaricana-militar-almanach-1887-pp471-472`
+- [kbt-david-j-lewis-env-conservation-1978](corpus/kbt-david-j-lewis-env-conservation-1978/) — `kbt-david-j-lewis-env-conservation-1978`
+- [kbt-findthatcharity-company-record](corpus/kbt-findthatcharity-company-record/) — `kbt-findthatcharity-company-record`
+- [kbt-founder-lady-brunner-oxford-mail](corpus/kbt-founder-lady-brunner-oxford-mail/) — `kbt-founder-lady-brunner-oxford-mail`
+- [keep-britain-tidy-history](corpus/keep-britain-tidy-history/) — `keep-britain-tidy-history`
+- [keep-britain-tidy-wikipedia](corpus/keep-britain-tidy-wikipedia/) — `keep-britain-tidy-wikipedia`
+- [loc-authority-keep-britain-tidy-group](corpus/loc-authority-keep-britain-tidy-group/) — `loc-authority-keep-britain-tidy-group`
 - [ÖStA/KA — Personenforschung im Kriegsarchiv (Merkblatt 1868–1918)](corpus/oesta-ka-personenforschung-merkblatt-1868-1918/) — `oesta-ka-personenforschung-merkblatt-1868-1918`
 - [ÖStA — Genealogie im Kriegsarchiv (Dec 2014 leaflet)](corpus/oesta-kriegsarchiv-genealogie-2014/) — `oesta-kriegsarchiv-genealogie-2014`
 - [ÖStA — k.k./k.u.k. Generale 1816–1918 (PDF)](corpus/oesta-kuk-generale-1816-1918/) — `oesta-kuk-generale-1816-1918`
+- [Nómina de Personas Reconocidas como Víctimas — Comisión Nacional sobre Prisión Política y Tortura (Valech I)](corpus/valech-i-nomina-victimas/) — `valech-i-nomina-victimas`
+- [Calypso — cigarette packet collector database (zigsam.at)](corpus/zigsam-at-calypso-cigarette-packs/) — `zigsam-at-calypso-cigarette-packs`
 

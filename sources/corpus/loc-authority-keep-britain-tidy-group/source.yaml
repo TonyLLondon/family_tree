@@ -1,0 +1,12 @@
+id: loc-authority-keep-britain-tidy-group
+remote:
+  webpage_url: https://id.loc.gov/authorities/names/n86809834.html
+fetches:
+- kind: web
+  at: '2026-03-25T15:05:08Z'
+  remote_url: https://id.loc.gov/authorities/names/n86809834.html
+  sha256: 1bf5b14bf0f19158beb825d7e91f80ba6847b22c5208cdfe1190bf5a24c57b84
+  bytes: 24144
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

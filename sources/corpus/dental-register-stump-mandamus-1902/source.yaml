@@ -1,0 +1,14 @@
+id: dental-register-stump-mandamus-1902
+title: Judge Scores Dental School — Refuses Mandamus for License to a German-American College Graduate (Chicago Tribune, 10 Aug 1902, repr. Dental Register)
+remote:
+  webpage_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6975503/
+fetches:
+- kind: pdf
+  at: '2026-03-25T15:07:24Z'
+  sha256: d83261b3ed67db5f91d1598b7eb3ca2976daf7cbd9e9067f295bf3e1361a4d60
+  bytes: 979656
+  media_reference: manual/dentreg135625-0042.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  transcription: transcription.en.md
+  media_reference: manual/dentreg135625-0042.pdf

@@ -11,7 +11,8 @@
       "media": {
         "src": "media/images/portraits/robert-stump-molly-white.jpg",
         "alt": "Robert Stump and Molly White — descendants of the Thurgau line",
-        "caption": "The Stumpf patriline — Reformed parishes in northeastern Thurgau"
+        "caption": "The Stumpf patriline — Reformed parishes in northeastern Thurgau",
+        "focal": [0.5, 0.2]
       }
     },
     {
@@ -19,7 +20,8 @@
       "media": {
         "src": "media/images/portraits/etienne-stump-henriette-bottin-burgess-family.jpg",
         "alt": "Étienne Stump and Henriette Bottin Burgess with family",
-        "caption": "Marc François Stump — Oberlehrer of French, Tallinn gymnasium"
+        "caption": "Marc François Stump — Oberlehrer of French, Tallinn gymnasium",
+        "focal": [0.45, 0.2]
       }
     },
     {
@@ -27,7 +29,8 @@
       "media": {
         "src": "media/images/portraits/etienne-stump-henriette-bottin-burgess-family.jpg",
         "alt": "The Stump family in Tehran — the generation that followed",
-        "caption": "Olga Caroline Erbe — St. Petersburg, Tallinn, and the Baltic German network"
+        "caption": "Olga Caroline Erbe — St. Petersburg, Tallinn, and the Baltic German network",
+        "focal": [0.45, 0.2]
       }
     },
     {
@@ -35,7 +38,8 @@
       "media": {
         "src": "media/images/portraits/robert-stump-molly-white.jpg",
         "alt": "Stump family descendants",
-        "caption": "Five children in the Tallinn Dome — and one who left for Tehran"
+        "caption": "Five children in the Tallinn Dome — and one who left for Tehran",
+        "focal": [0.5, 0.2]
       }
     }
   ]

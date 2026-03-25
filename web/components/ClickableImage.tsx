@@ -6,10 +6,12 @@ export function ClickableImage({
   src,
   alt,
   className,
+  style,
 }: {
   src: string;
   alt?: string;
   className?: string;
+  style?: React.CSSProperties;
 }) {
   const lightbox = useLightbox();
 
@@ -21,6 +23,7 @@ export function ClickableImage({
         src={src}
         alt={alt ?? ""}
         className={`cursor-zoom-in transition hover:shadow-lg ${className ?? ""}`}
+        style={style}
         onClick={() => lightbox.open(src, alt ?? "")}
       />
     </>

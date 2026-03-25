@@ -1,0 +1,13 @@
+id: zadarskitjednik-ausonia-tvornica-cokolade
+title: FOTO FELJTON Zadar je imao najslađu tvornicu čokolade Ausonia (Zadarski tjednik, 2024)
+remote:
+  webpage_url: https://zadarskitjednik.hr/zabava/vremeplov/feljton-zadar-je-imao-najsladu-tvornicu-cokolade-ausonia-2515791
+fetches:
+- kind: web
+  at: '2026-03-25T15:03:43Z'
+  remote_url: https://zadarskitjednik.hr/zabava/vremeplov/feljton-zadar-je-imao-najsladu-tvornicu-cokolade-ausonia-2515791
+  sha256: 22d8fc20428aa581f0d90daa839474424dc12dff91f4c2843dea0c72934fd22d
+  bytes: 91815
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

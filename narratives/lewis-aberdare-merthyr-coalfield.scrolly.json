@@ -9,9 +9,10 @@
     {
       "era": "1860s – 1880s",
       "media": {
-        "src": "media/images/portraits/samuel-lewis-elizabeth-cushen.jpg",
+        "src": "media/images/portraits/samuel-lewis-elizabeth-cushen.png",
         "alt": "Samuel Lewis and Elizabeth Cushen",
-        "caption": "The Lewis family — from Gelligaer carpenters to Aberdare miners"
+        "caption": "The Lewis family — from Gelligaer carpenters to Aberdare miners",
+        "focal": [0.5, 0.25]
       }
     },
     {
@@ -33,9 +34,10 @@
     {
       "era": "1917 – 1945",
       "media": {
-        "src": "media/images/portraits/samuel-lewis-elizabeth-cushen.jpg",
+        "src": "media/images/portraits/samuel-lewis-elizabeth-cushen.png",
         "alt": "Samuel Lewis and Elizabeth Cushen portrait",
-        "caption": "Samuel Lewis — coal miner turned assurance agent, Aberdare"
+        "caption": "Samuel Lewis — coal miner turned assurance agent, Aberdare",
+        "focal": [0.5, 0.25]
       }
     }
   ]

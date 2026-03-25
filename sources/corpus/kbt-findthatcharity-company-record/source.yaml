@@ -1,0 +1,12 @@
+id: kbt-findthatcharity-company-record
+remote:
+  webpage_url: https://findthatcharity.uk/orgid/GB-COH-03496361
+fetches:
+- kind: web
+  at: '2026-03-25T15:05:12Z'
+  remote_url: https://findthatcharity.uk/orgid/GB-COH-03496361
+  sha256: bc60c692d1789147ed435963c8d582415fe40fe0802c615d3d13da651937d0b3
+  bytes: 42503
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

@@ -32,11 +32,15 @@ Each generation pushed further.
 
 Petar had already collected a more unusual distinction. On **16 October 1786**, Bishop Ivan Dominik Stratico bestowed on him the papal title of **Knight of the Golden Spur** and the dignity of **lateran count** — a papal honour reserved for lawyers, physicians, and men of letters. By 1799 Petar was practising law in Zara. Papal knight, Nin noble, Zara lawyer — the family had never stood higher.
 
+Fulvia's 1996 memoir confirms the family's awareness of this honour: "The story of the Order of the Golden Spur is true (have I not given you [PML] the miniature long time ago?)" She adds that Petar received it "while still at University in Padova" and that there were "100 only at any time," noting that she had written to the Vatican for details but received no reply. The miniature of the order was passed to Peter Martin Lewis. ([Fulvia memoir](../sources/famhist-nonna-memoir-1996.md).)
+
 Then the ground shifted. The **1817 Granić list** records four Addobbati among the Nin nobility: Dr. Petar and Ivan Vicko (sons of Lujo), and Petar and Josip (sons of Ivan Vicko). The list was part of a petition from 52 Nin families to the Habsburg Heraldic Commission, marshalling genealogies, the 1745 Bergamo testimonial, papal honours, and council records into a dossier for Austrian recognition. The commission ruled that Nin council membership did not constitute nobility under Austrian law — a ruling applied uniformly across Dalmatian communal nobility, not specifically aimed at the Addobbati. Their civic standing within Zara continued undisturbed.
 
 ---
 
 ## The French period and continuing civic role
+
+A family tradition, recorded in Fulvia's 1996 memoir, holds that an Addobbati ancestor went with a **delegation to Milan to beg Napoleon not to give Zara to Austria** — and failed. His wife accompanied him, "and being beautiful, witty and intelligent she very much caught Napoleon's eye." The older aunts ("Zie Addobbati") giggled about the family being "Napoleon's cousins" — Fulvia never established whether this was a real liaison or a joke about the wife's social success. ([Fulvia memoir](../sources/famhist-nonna-memoir-1996.md).)
 
 Napoleon abolished the communal noble councils in 1806. The Addobbati barely noticed.
 
@@ -71,6 +75,16 @@ The Addobbati married the way they governed: strategically and within the networ
 Pietro Pio married [Ottilia Anna Vincenza Boara](../people/ottilia-anna-vincenza-boara.md) in **1890**, joining two of Zara's most established civic families. The broader web — [Boara](../people/giovanni-battista-boara.md), [Carobbi](../people/casimiro-carobbi.md), Coltelli, Sandri — formed the interlocking core of Venetian-Dalmatian urban life across generations.
 
 Their daughter [Ester Addobbati](../people/ester-addobbati.md) married [Antonio Zerauschek](../people/antonio-zerauschek.md), the interwar entrepreneur who built the Hotel Zerauschek and Caffè Centrale on Široka ulica — the signature private development of 1930s Zara.
+
+### "Un vero Addobbati"
+
+[Pietro Pio](../people/pietro-pio-addobbati.md) had originally been **destined for the church** and was placed in the Seminary in Zara. He was expelled after placing a rat in the dish of a visiting Bishop — "considered unsuitable and luckily released," as Fulvia put it. He became a civil servant, but the family was without money and his salary did not stretch. His wife Ottilia borrowed monthly from her Boara relations — Zio Casimiro and Zia Carmela — returning the money via one of the daughters. Casimiro always waved it off.
+
+Despite their financial difficulties, the Addobbati worked in ways that defied the gentry conventions of the period. Pietro Pio was a secretary in a lawyer's firm. His children continued the pattern: the eldest son became a doctor (qualified in Vienna, died in Trieste aged ~30); Noemi was an employee of the Poste & Telegraphs; Else a piano teacher; Irma and "Bill" were teachers; Villosie served 25 years as Antonio Zerauschek's secretary before becoming a nun at 50, rising to Sister Superior at the Convent of the Dame Inglesi in Rovereto; Bice married and settled in Rome. The expression *un vero Addobbati* was used as a compliment in Zara. ([Fulvia memoir, 1996](../sources/famhist-nonna-memoir-1996.md).)
+
+### The Boara inheritance
+
+Ottilia's family, the **Boara**, were landowners and intellectuals. Her parents [Simeone Boara](../people/simeone-vincenzo-boara.md) and [Vittoria Carobbi](../people/vittoria-elisa-carobbi.md) had eight children. When one daughter, Eveline, married a Croat, the resulting family scandal led to a will that left all money to the men of the family and none to the women. None of the Boara men married; three left their inheritances to the **Lega**, an Italian association opposed to Austria. Casimiro, famous for his lectures on the classics, lived with his sister Carmela in what Fulvia remembered as absolute comfort — "the only people I ever heard of that sat down to a menu lunch and dinner every day." The last piece of Boara land was sold by Casimiro to Fulvia's father (Antonio Zerauschek). When Carmela died — the last of the Boara — she altered her will to leave something to the Addobbati who had assisted her. ([Fulvia memoir, 1996](../sources/famhist-nonna-memoir-1996.md).)
 
 Two hundred years after three cavalry officers crossed the Adriatic, the Addobbati name was still shaping the city.
 

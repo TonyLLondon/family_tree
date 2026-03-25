@@ -5,7 +5,7 @@ import { ClickableImage } from "@/components/ClickableImage";
 import { PageShell } from "@/components/PageShell";
 import { readMarkdownFile } from "@/lib/content";
 import { repoPath } from "@/lib/paths";
-import { photoUrlForPerson } from "@/lib/photos";
+import { photoInfoForPerson, focalToObjectPosition } from "@/lib/photos";
 import { getParents, getSpouses, getChildren, getPersonBySlug, loadFamilyTree, personSlugFromPage } from "@/lib/tree";
 import type { Person } from "@/lib/tree";
 import fs from "fs";
@@ -47,7 +47,9 @@ export default async function PersonPage({ params }: Props) {
     person?.displayName ||
     slug.replace(/-/g, " ");
   const treeId = typeof parsed.data.treeId === "string" ? parsed.data.treeId : person?.id;
-  const photo = treeId ? photoUrlForPerson(treeId) : null;
+  const pInfo = treeId ? photoInfoForPerson(treeId) : null;
+  const photo = pInfo?.url ?? null;
+  const photoPos = pInfo ? focalToObjectPosition(pInfo.focal) : undefined;
   const [father, mother] = treeId ? getParents(tree, treeId) : [null, null];
   const spouses = treeId ? getSpouses(tree, treeId) : [];
   const children = treeId ? getChildren(tree, treeId) : [];
@@ -61,7 +63,7 @@ export default async function PersonPage({ params }: Props) {
         <MarkdownContent content={parsed.content} filePath={parsed.filePath} />
         <aside className="space-y-4 rounded-xl border border-zinc-200 bg-white p-4 text-sm">
           {photo ? (
-            <ClickableImage src={photo} alt={title} className="w-full rounded-lg border border-zinc-200 object-cover" />
+            <ClickableImage src={photo} alt={title} className="w-full rounded-lg border border-zinc-200 object-cover" style={photoPos ? { objectPosition: photoPos } : undefined} />
           ) : null}
 
           {person ? (

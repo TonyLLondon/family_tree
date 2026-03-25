@@ -1,0 +1,15 @@
+id: zigsam-at-calypso-cigarette-packs
+title: Calypso — cigarette packet collector database (zigsam.at)
+remote:
+  webpage_url: https://www.zigsam.at/B_Calypso.htm
+fetches:
+- kind: web
+  at: '2026-03-25T15:03:48Z'
+  remote_url: https://www.zigsam.at/B_Calypso.htm
+  sha256: 4a7c5face9abd363cfdaa5f55b85a76e1c42169a766d9f1f172f1e98924173b1
+  bytes: 1992
+  http_last_modified: Thu, 18 Jul 2024 18:31:19 GMT
+  http_etag: '"7c8-61d89c8fa5a00"'
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

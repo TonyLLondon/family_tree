@@ -10,6 +10,7 @@ export interface NarrativeCardData {
   era: string;
   blurb: string;
   heroImage: string | null;
+  heroFocal?: [number, number];
   href: string;
 }
 
@@ -68,6 +69,7 @@ export function NarrativeCardsGrid({ cards }: { cards: NarrativeCardData[] }) {
                     src={card.heroImage}
                     alt=""
                     className="absolute inset-0 h-full w-full object-cover transition duration-500 group-hover:scale-105"
+                    style={card.heroFocal ? { objectPosition: `${Math.round(card.heroFocal[0] * 100)}% ${Math.round(card.heroFocal[1] * 100)}%` } : undefined}
                     draggable={false}
                   />
                   <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/40 to-black/10" />

@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { PageShell } from "@/components/PageShell";
@@ -15,6 +16,36 @@ type Props = { params: Promise<{ slug: string }> };
 
 export function generateStaticParams() {
   return getNarrativeSlugs().map((slug) => ({ slug }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  const sidecar = readScrollySidecar(slug);
+
+  if (sidecar) {
+    const resolved = resolveScrollySteps(sidecar);
+    const heroSrc = resolved[0]?.media.src;
+
+    return {
+      title: sidecar.hero.title,
+      description: sidecar.hero.subtitle,
+      openGraph: {
+        title: sidecar.hero.title,
+        description: sidecar.hero.subtitle,
+        ...(heroSrc ? { images: [heroSrc] } : {}),
+      },
+    };
+  }
+
+  const abs = repoPath("narratives", `${slug}.md`);
+  if (!fs.existsSync(abs)) return {};
+
+  const parsed = readMarkdownFile(abs);
+  const title =
+    (typeof parsed.data.title === "string" && parsed.data.title) ||
+    slug.replace(/-/g, " ");
+
+  return { title };
 }
 
 export default async function NarrativePage({ params }: Props) {

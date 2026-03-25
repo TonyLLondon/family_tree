@@ -21,6 +21,7 @@ Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkt
 | [../estonian-biographical-center-stump-report-2005.md](../estonian-biographical-center-stump-report-2005.md) | Citation card → [corpus/estonian-biographical-center-stump-family-resear-856c90185e/](../corpus/estonian-biographical-center-stump-family-resear-856c90185e/) | Tallinn Stump/Erbe parish digest (2005) |
 | [../../manual_output/beytoote-stump-translation.md](../../manual_output/beytoote-stump-translation.md) | Annotated EN translation + reference catalog | ~27 KB |
 | [../mustawfi-mahmoudieh-stump.md](../mustawfi-mahmoudieh-stump.md) | Legacy email summary of Mustawfi vol. 1 (Mahmoudieh / dentist) | Not full memoir text |
+| [../dental-register-stump-mandamus-1902.md](../dental-register-stump-mandamus-1902.md) | *Chicago Tribune* 10 Aug 1902, repr. *Dental Register* 56:582–583 → [corpus/dental-register-stump-mandamus-1902/](../corpus/dental-register-stump-mandamus-1902/) | Mandamus dismissed; German-American Dental College license refusal |
 
 ### Corpus slugs (same as above)
 
@@ -29,6 +30,7 @@ Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkt
 | `beytoote-stump-dentist-atabak-ahmadshah` | Persian biographical article | `mirror.html`, `extracted.web.md`, `source.yaml` |
 | `iranica-dentistry-article` | Enc. Iranica DENTISTRY — Stump, Melczarski, bibliography | `extracted.web.md`, `source.yaml` |
 | `estonian-biographical-center-stump-family-resear-856c90185e` | EBC commissioned report — Tallinn Stump family (2005) | `extracted.pdf.md`, `source.yaml` |
+| `dental-register-stump-mandamus-1902` | Chicago Tribune mandamus ruling (1902) | `transcription.en.md`, `extracted.pdf.md`, `source.yaml` |
 
 ---
 

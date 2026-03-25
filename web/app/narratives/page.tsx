@@ -23,6 +23,7 @@ function buildCards(): NarrativeCardData[] {
         era: sidecar.hero.era,
         blurb,
         heroImage: resolved[0]?.media.src ?? null,
+        heroFocal: resolved[0]?.media.focal,
         href: `/narratives/${encodeURIComponent(slug)}`,
       };
     }
@@ -47,7 +48,7 @@ export default function NarrativesIndexPage() {
       <SiteNav />
       <main className="mx-auto max-w-6xl px-4 py-10 md:px-6">
         <header className="mb-10">
-          <h1 className="text-3xl font-bold tracking-tight text-zinc-900 md:text-4xl">
+          <h1 className="font-serif text-3xl font-bold tracking-tight text-zinc-900 md:text-4xl">
             Narratives
           </h1>
           <p className="mt-2 max-w-2xl text-base leading-relaxed text-zinc-500">
@@ -59,8 +60,10 @@ export default function NarrativesIndexPage() {
         <NarrativeCardsGrid cards={cards} />
       </main>
 
-      <footer className="border-t border-zinc-100 bg-zinc-50 py-6 text-center text-xs text-zinc-400">
-        Family history archive — built from the vault
+      <footer className="border-t border-zinc-200/60 bg-zinc-50 py-8 text-center">
+        <p className="font-serif text-sm text-zinc-400">
+          Lewis · Evans · Zerauschek · Cerpa
+        </p>
       </footer>
     </>
   );

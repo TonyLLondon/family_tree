@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "From Reval to Tehran",
+    "subtitle": "The Life of Étienne Stump — dentist, court practitioner, landowner",
+    "era": "1880 – 1951"
+  },
+  "scrollyStepCount": 8,
+  "steps": [
+    {
+      "era": "1880",
+      "media": {
+        "src": "media/docs/Etienne Stump.JPG",
+        "alt": "Étienne Stump standing in a garden with his dogs",
+        "caption": "Étienne Stump in Tehran",
+        "focal": [0.45, 0.15]
+      }
+    },
+    {
+      "era": "1900 – 1902",
+      "media": {
+        "src": "media/albums/henderson/Etienne - Chicago 1902 (1).jpg",
+        "alt": "Photograph of Étienne Stump in Chicago, 1902",
+        "caption": "Chicago, 1902 — the year of the dental licence refusal",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "c. 1903 – 1904",
+      "media": {
+        "src": "media/docs/Album page 1909 Henriette Etienne Stump five vintage photos note.jpg",
+        "alt": "Album page with five portraits of Henriette and Étienne Stump, 1909",
+        "caption": "Henriette and Étienne — album page, 1909",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "1904 – 1951",
+      "media": {
+        "src": "media/albums/henderson/Teheran 1896 Fanny, Julien & Family.jpg",
+        "alt": "Fanny, Julien Bottin and family in Tehran, 1896 — the European community Stump joined",
+        "caption": "The European colony in Tehran — Bottin family, 1896",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "1909 – 1940s",
+      "media": {
+        "src": "media/images/portraits/etienne-stump-henriette-bottin-burgess-family.jpg",
+        "alt": "Étienne Stump and Henriette Bottin with their family",
+        "caption": "Étienne and Henriette Stump with family",
+        "focal": [0.45, 0.2]
+      }
+    },
+    {
+      "era": "1930s – 1940s",
+      "media": {
+        "src": "media/albums/henderson/Etienne, Henriette, Robert and Theo.jpg",
+        "alt": "Étienne and Henriette Stump with sons Robert and Theo",
+        "caption": "Étienne, Henriette, Robert and Theo — the Mahmoudieh years",
+        "focal": [0.45, 0.2]
+      }
+    },
+    {
+      "era": "1920s – 1951",
+      "media": {
+        "src": "media/collections/stump-etienne/vera-obolensky-and-georges.png",
+        "alt": "Vera Obolensky with her son Georges",
+        "caption": "Vera Obolensky and Georges — the guesthouse era",
+        "focal": [0.5, 0.2]
+      }
+    },
+    {
+      "era": "1951",
+      "media": {
+        "src": "media/docs/Grave marker Etienne Stump 1880-1951 ICI REPOSE.png",
+        "alt": "Grave marker of Étienne Stump (1880–1951) in Tehran Protestant Cemetery",
+        "caption": "ICI REPOSE — Tehran Protestant Cemetery",
+        "focal": [0.5, 0.15]
+      }
+    }
+  ]
+}

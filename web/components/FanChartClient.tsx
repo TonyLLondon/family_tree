@@ -1,18 +1,19 @@
 "use client";
 
 import type { AncestorNode, Person } from "@/lib/genealogy";
+import type { PhotoInfo } from "@/lib/photos";
 import { FanChart } from "@/components/FanChart";
 
 export function FanChartClient({
   root,
   maxGeneration,
-  photoUrls,
+  photoInfos,
   centers,
 }: {
   root: AncestorNode;
   maxGeneration: number;
-  photoUrls: Record<string, string | null>;
+  photoInfos: Record<string, PhotoInfo | null>;
   centers?: Person[];
 }) {
-  return <FanChart root={root} maxGeneration={maxGeneration} photoUrls={photoUrls} centers={centers} />;
+  return <FanChart root={root} maxGeneration={maxGeneration} photoInfos={photoInfos} centers={centers} />;
 }

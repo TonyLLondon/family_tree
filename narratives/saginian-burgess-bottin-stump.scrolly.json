@@ -11,7 +11,8 @@
       "media": {
         "src": "media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png",
         "alt": "Book page showing Sartip Davoud Khan Saginian in Qajar military context",
-        "caption": "Daoud Khan Saginian — Georgian-born commander in the Qajar army"
+        "caption": "Daoud Khan Saginian — Georgian-born commander in the Qajar army",
+        "focal": [0.5, 0.15]
       }
     },
     {
@@ -19,7 +20,8 @@
       "media": {
         "src": "media/images/portraits/anna-saginian-fanny-burgess.jpg",
         "alt": "Anna Saginian with her daughter Fanny Burgess",
-        "caption": "Anna Saginian and daughter Fanny — court and diplomatic circles"
+        "caption": "Anna Saginian and daughter Fanny — court and diplomatic circles",
+        "focal": [0.5, 0.25]
       }
     },
     {
@@ -27,7 +29,8 @@
       "media": {
         "src": "media/albums/henderson/Teheran 1896 Fanny, Julien & Family.jpg",
         "alt": "Fanny and Julien Bottin with their family in Tehran, 1896",
-        "caption": "The Bottin family — Tehran, 1896"
+        "caption": "The Bottin family — Tehran, 1896",
+        "focal": [0.5, 0.3]
       }
     },
     {
@@ -35,7 +38,8 @@
       "media": {
         "src": "media/images/portraits/etienne-stump-henriette-bottin-burgess-family.jpg",
         "alt": "Étienne Stump and Henriette Bottin Burgess with their family",
-        "caption": "The Stump family — Tehran, early 20th century"
+        "caption": "The Stump family — Tehran, early 20th century",
+        "focal": [0.45, 0.2]
       }
     },
     {
@@ -43,7 +47,8 @@
       "media": {
         "src": "media/images/portraits/julien-bottin-henriette-bottin-burgess.jpg",
         "alt": "Julien Bottin with daughter Henriette",
-        "caption": "An unbroken chain — military, diplomatic, industrial, scientific"
+        "caption": "An unbroken chain — military, diplomatic, industrial, scientific",
+        "focal": [0.5, 0.3]
       }
     }
   ]

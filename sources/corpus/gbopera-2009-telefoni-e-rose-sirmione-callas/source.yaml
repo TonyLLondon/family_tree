@@ -1,0 +1,12 @@
+id: gbopera-2009-telefoni-e-rose-sirmione-callas
+remote:
+  webpage_url: https://www.gbopera.it/2009/11/telefoni-e-rose-a-sirmione/
+fetches:
+- kind: web
+  at: '2026-03-25T15:15:28Z'
+  remote_url: https://www.gbopera.it/2009/11/telefoni-e-rose-a-sirmione/
+  sha256: b77776f8ce670ac9b5f435cb2311dd95575d934b9e1baa408a68f4f11beb5a41
+  bytes: 104792
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

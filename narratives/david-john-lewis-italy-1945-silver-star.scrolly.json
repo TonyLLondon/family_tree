@@ -11,7 +11,8 @@
       "media": {
         "src": "media/docs/david-lewis-military-portrait.png",
         "alt": "David Lewis with medals and the Royal Welsh regimental goat",
-        "caption": "Major David Lewis — 1st Battalion, The Welch Regiment"
+        "caption": "Major David Lewis — 1st Battalion, The Welch Regiment",
+        "focal": [0.6, 0.15]
       }
     },
     {
@@ -19,7 +20,8 @@
       "media": {
         "src": "media/docs/David Lewis Senior Military.png",
         "alt": "David Lewis senior military portrait",
-        "caption": "Operation Grapeshot — the final Allied offensive in Italy"
+        "caption": "Operation Grapeshot — the final Allied offensive in Italy",
+        "focal": [0.5, 0.35]
       }
     },
     {
@@ -27,7 +29,8 @@
       "media": {
         "src": "media/docs/david-lewis-military-portrait.png",
         "alt": "David Lewis with medals and the Royal Welsh regimental goat",
-        "caption": "168th Brigade to 61st Brigade, 6th Armoured Division"
+        "caption": "168th Brigade to 61st Brigade, 6th Armoured Division",
+        "focal": [0.6, 0.15]
       }
     }
   ]

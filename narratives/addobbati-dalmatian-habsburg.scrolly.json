@@ -11,7 +11,8 @@
       "media": {
         "src": "media/images/portraits/adolobati-family-group-handwritten-names-italian-caption.jpg",
         "alt": "Addobbati family group portrait with handwritten Italian caption identifying members",
-        "caption": "The Addobbati family — Venetian cavalry officers turned Dalmatian citizens"
+        "caption": "The Addobbati family — Venetian cavalry officers turned Dalmatian citizens",
+        "focal": [0.5, 0.3]
       }
     },
     {
@@ -51,7 +52,8 @@
       "media": {
         "src": "media/images/portraits/antonio-zerauschek-ester-addobbati.jpg",
         "alt": "Antonio Zerauschek and Ester Addobbati",
-        "caption": "Ester Addobbati and Antonio Zerauschek — the line continues into interwar Zara"
+        "caption": "Ester Addobbati and Antonio Zerauschek — the line continues into interwar Zara",
+        "focal": [0.3, 0.3]
       }
     }
   ]

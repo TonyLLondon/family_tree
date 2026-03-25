@@ -1,0 +1,13 @@
+id: sigaretteitaliane-zara-1920-43
+title: Zara (1920-43) — Collezione di pacchetti di sigarette prodotti in Italia ed ex colonie italiane
+remote:
+  webpage_url: https://sigaretteitaliane.org/zara-1920-43/
+fetches:
+- kind: web
+  at: '2026-03-25T15:03:41Z'
+  remote_url: https://sigaretteitaliane.org/zara-1920-43/
+  sha256: 3ce80d92f898c04c261b887e130ff29411ad2dbfacc6b5bb89fbb1275eb4b430
+  bytes: 128107
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

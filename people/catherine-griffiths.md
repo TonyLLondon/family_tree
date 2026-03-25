@@ -33,6 +33,10 @@ Mother of [Samuel Lewis](samuel-lewis.md) (**@I17@**) with [David John Lewis (18
 - Children include [Samuel Lewis](samuel-lewis.md) plus **@I337@**, **@I336@**, **@I334@**, **@I333@**, **@I421@**, **@I335@** per **F87** in [family-tree.json](../family-tree.json).
 - Parents: [Thomas Griffiths](thomas-griffiths.md); [Anne](anne.md) (**@I423@**, no surname in export) — **F188**.
 
+## Photographs
+
+- [Family portrait, c. 1888](../media/images/portraits/david-john-lewis-1857-catherine-griffiths-family-c1888.png) — Victorian studio photograph with husband [David John Lewis](david-john-lewis-1857.md) and two young children (toddler probably Mary Ann, infant probably [Samuel](samuel-lewis.md)). See identification notes on [Samuel Lewis](samuel-lewis.md).
+
 ## Evidence
 
 - GEDCOM **`@I174@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F87** / **F188**; FamilySearch id **GWPL-SVD** in export.

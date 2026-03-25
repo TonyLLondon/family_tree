@@ -61,10 +61,23 @@ export function SiteNav() {
         >
           <Link
             href="/"
-            className="text-base font-bold tracking-tight text-zinc-900 transition hover:text-sky-700"
+            className="flex items-center gap-2 text-base font-bold tracking-tight text-zinc-900 transition hover:text-sky-700"
             onClick={closeMenu}
           >
-            Family history
+            <svg width="20" height="20" viewBox="0 0 32 32" aria-hidden="true" className="flex-none">
+              <line x1="16" y1="29" x2="16" y2="18" stroke="currentColor" strokeWidth="3" strokeLinecap="round" opacity="0.8"/>
+              <line x1="16" y1="18" x2="10" y2="12" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" opacity="0.7"/>
+              <line x1="16" y1="18" x2="22" y2="12" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" opacity="0.7"/>
+              <line x1="10" y1="12" x2="6" y2="6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" opacity="0.55"/>
+              <line x1="10" y1="12" x2="14" y2="6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" opacity="0.55"/>
+              <line x1="22" y1="12" x2="18" y2="6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" opacity="0.55"/>
+              <line x1="22" y1="12" x2="26" y2="6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" opacity="0.55"/>
+              <circle cx="6" cy="5" r="2.2" fill="#0ea5e9"/>
+              <circle cx="14" cy="5" r="2.2" fill="#0ea5e9"/>
+              <circle cx="18" cy="5" r="2.2" fill="#0ea5e9"/>
+              <circle cx="26" cy="5" r="2.2" fill="#0ea5e9"/>
+            </svg>
+            <span className="font-serif">Family history</span>
           </Link>
 
           <button

@@ -50,9 +50,9 @@ The strict family tree under union **F87** lists seven named children (1886–19
 
 ## 4. Out of the pit — Samuel Lewis and the next generation
 
-[Samuel Lewis](../people/samuel-lewis.md) was born **23 June 1887** in Aberdare. He married [Elizabeth Lilian Cushen](../people/elizabeth-lilian-cushen.md) in **1917** at Merthyr (union F7). By the **1939 Register** he had left the coalface: listed as **head** at Aberdare/Merthyr with occupation **assurance agent** (RG101/7310F/013/9). Insurance selling, not extraction — still within the same valley economy, but above ground and in a collar.
+[Samuel Lewis](../people/samuel-lewis.md) was born **23 June 1887** in Aberdare. He married [Elizabeth Lilian Cushen](../people/elizabeth-lilian-cushen.md) in **1917** at Merthyr (union F7).
 
-He died **8 July 1967** at Merthyr.
+By the **1939 Register** he had left the coalface: listed as **head** at Aberdare/Merthyr with occupation **assurance agent** — in fact **district manager** for the **Scottish Legal Life Assurance Society**, a post he held until retirement in **1954**. Insurance selling, not extraction — still within the same valley economy, but above ground and in a collar. He was a deacon at **Carmel Calvinistic Methodist Church, Trecynon** from **1932** and church secretary for some 30 years; also a senior member of the **Independent Order of Oddfellows, Lily of the Valley Lodge**. He and Elizabeth lived at **32 Pendarren Street, Aberdare** for almost 40 years before moving to **Maesyffynnon**, a care home in Aberaman, around early 1966. He died there on **7 August 1967**, aged 80. Cremated at Glyntaff Crematorium on 11 August.
 
 His son [David John Lewis](../people/david-john-lewis.md) (1918–2000) broke the Welsh pattern entirely: a student in the **1939 Register**, then the war. He served as a Major in the **1st Battalion, Welch Regiment** in Italy and was awarded the **United States Silver Star** for action at the Po bridgehead on 25 April 1945 — [the full story](david-john-lewis-italy-1945-silver-star.md). After the war: Brighton, then Sirmione. The grandson of a carpenter, the son of a miner, the father of another life altogether.
 

@@ -1,6 +1,6 @@
 import { SiteNav } from "@/components/SiteNav";
 import { FanChartClient } from "@/components/FanChartClient";
-import { loadPhotoMap, photoRepoFilePublicUrl } from "@/lib/photos";
+import { buildPhotoInfoMap } from "@/lib/photos";
 import { buildAncestorTree, loadFamilyTree } from "@/lib/tree";
 
 /** Shared chart root: siblings with the same parents; ancestry is identical from either id. */
@@ -9,24 +9,10 @@ const CENTER_PEOPLE_IDS = ["I7", "I6"] as const;
 const TREE_MAX_DEPTH = 9;
 const CHART_MAX_GENERATION = 7;
 
-function buildPhotoUrls(personIds: string[]): Record<string, string | null> {
-  const map = loadPhotoMap();
-  const out: Record<string, string | null> = {};
-  for (const id of personIds) {
-    const rel = map[id];
-    if (!rel) {
-      out[id] = null;
-      continue;
-    }
-    out[id] = photoRepoFilePublicUrl(rel);
-  }
-  return out;
-}
-
 export default function ChartPage() {
   const tree = loadFamilyTree();
   const root = buildAncestorTree(tree, ANCESTOR_ROOT_ID, TREE_MAX_DEPTH);
-  const photoUrls = buildPhotoUrls(Object.keys(tree.people));
+  const photoInfos = buildPhotoInfoMap(Object.keys(tree.people));
   const centers = CENTER_PEOPLE_IDS.map((id) => tree.people[id]).filter(Boolean);
 
   return (
@@ -37,7 +23,7 @@ export default function ChartPage() {
           <FanChartClient
             root={root}
             maxGeneration={CHART_MAX_GENERATION}
-            photoUrls={photoUrls}
+            photoInfos={photoInfos}
             centers={centers}
           />
         </div>

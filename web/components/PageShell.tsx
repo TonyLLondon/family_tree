@@ -19,8 +19,10 @@ export function PageShell({
         </header>
         {children}
       </main>
-      <footer className="border-t border-zinc-100 bg-zinc-50 py-6 text-center text-xs text-zinc-400">
-        Family history archive — built from the vault
+      <footer className="border-t border-zinc-200/60 bg-zinc-50 py-8 text-center">
+        <p className="font-serif text-sm text-zinc-400">
+          Lewis · Evans · Zerauschek · Cerpa
+        </p>
       </footer>
     </>
   );

@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Villa Ester",
+    "subtitle": "From the Zerauscheks of Zara to Maria Callas — a house on Lake Garda",
+    "era": "1928 – 1970"
+  },
+  "scrollyStepCount": 8,
+  "steps": [
+    {
+      "era": "1928",
+      "media": {
+        "src": "media/context/sirmione-villa-callas/sirmione-peninsula.jpg",
+        "alt": "Sirmione peninsula jutting into Lake Garda, seen from above",
+        "caption": "Sirmione — the narrow peninsula on Lake Garda where Giannantoni built his villa"
+      }
+    },
+    {
+      "era": "1930s",
+      "media": {
+        "src": "media/context/sirmione-villa-callas/scaliger-castle-sirmione.jpg",
+        "alt": "The medieval Scaliger castle at the entrance to Sirmione",
+        "caption": "Antonio Zerauschek acquired the villa at the height of his interwar career in Zara"
+      }
+    },
+    {
+      "era": "c. 1938 – 1943",
+      "media": {
+        "src": "media/docs/Fulvia Zerauschek at Villa Ester Sirmione.png",
+        "alt": "Fulvia Zerauschek sitting on the loggia balustrade of Villa Ester, Sirmione, viewed through open French doors",
+        "caption": "Fulvia Zerauschek at Villa Ester — the loggia, the marble floors, the conifer park beyond",
+        "focal": [0.45, 0.35]
+      }
+    },
+    {
+      "era": "1943 – 1947",
+      "media": {
+        "src": "media/docs/Difesa Adriatica 1973 Antonio Zerauschek obituary Zara Florence.jpeg",
+        "alt": "Difesa Adriatica obituary for Antonio Zerauschek, 1973 — exile newspaper of the Zara community",
+        "caption": "War, bombing, exile — the Zerauscheks left Zara and sold the Sirmione villa",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "December 1957",
+      "media": {
+        "src": "media/docs/Villa Ester Sirmione exterior c1958.png",
+        "alt": "Villa Ester exterior from the road, Sirmione, c. 1958 — three floors, solarium turret, two 1950s cars",
+        "caption": "Meneghini bought the villa for sixty million lire — a gift for his wife, Maria Callas"
+      }
+    },
+    {
+      "era": "April 1958",
+      "media": {
+        "src": "media/context/sirmione-villa-callas/san-pietro-mavino.jpg",
+        "alt": "The Lombard-era church of San Pietro in Mavino, Sirmione, beside the villa grounds",
+        "caption": "'Telefoni, telefoni. Rose, rose.' — Callas directed the restoration herself"
+      }
+    },
+    {
+      "era": "1959",
+      "media": {
+        "src": "media/docs/Villa Callas Sirmione magazine clipping catapecchia c1959.png",
+        "alt": "Italian magazine clipping showing Villa Callas exterior and inset portrait of Maria Callas, c. 1959",
+        "caption": "'Questa villa è una catapecchia' — Callas called it a hovel; the press disagreed",
+        "focal": [0.5, 0.2]
+      }
+    },
+    {
+      "era": "1958 – today",
+      "media": {
+        "src": "media/context/sirmione-villa-callas/villa-callas-exterior.jpg",
+        "alt": "Villa Callas exterior, Via Caio Valerio Catullo 7, Sirmione — unchanged since the 1950s",
+        "caption": "Villa Callas today — the facade unchanged, a plaque for Callas and Meneghini on the wall"
+      }
+    }
+  ]
+}

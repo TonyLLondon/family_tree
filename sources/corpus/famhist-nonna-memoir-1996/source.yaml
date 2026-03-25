@@ -1,0 +1,13 @@
+id: famhist-nonna-memoir-1996
+title: 'Fulvia Zerauschek — family history memoir to Peter Martin Lewis (18 & 24 Sep 1996)'
+remote: {}
+fetches:
+- kind: local_pdf
+  at: '2026-03-25T00:00:00Z'
+  repo_path: media/docs/FamHist180996.pdf
+  note: >-
+    Seven-page handwritten/typed family memoir covering Addobbati, Zerauschek,
+    and Boara families of Zara. Transcribed to JPEG then OCR-extracted.
+files:
+  media_reference: media/docs/FamHist180996.pdf
+  pdf_markdown: extracted.pdf.md

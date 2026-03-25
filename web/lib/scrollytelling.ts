@@ -8,6 +8,7 @@ export interface ScrollyMedia {
   src: string;
   alt: string;
   caption?: string;
+  focal?: [number, number];
 }
 
 export interface ScrollyStep {
@@ -27,7 +28,15 @@ export interface ScrollySidecar {
 
 export interface MarkdownSection {
   heading: string;
+  slug: string;
   body: string;
+}
+
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
 }
 
 // ── Markdown section splitter ────────────────────────────────────────────────
@@ -55,7 +64,7 @@ export function splitMarkdownSections(content: string): {
   for (let i = 1; i < parts.length; i += 2) {
     const heading = parts[i].replace(/^## /, "").trim();
     const body = (parts[i + 1] || "").replace(/^\s*---\s*$/gm, "").trim();
-    sections.push({ heading, body });
+    sections.push({ heading, slug: slugify(heading), body });
   }
 
   return { title, intro, sections };

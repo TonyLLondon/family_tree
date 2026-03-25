@@ -17,6 +17,8 @@ const MIME: Record<string, string> = {
   ".html": "text/html",
   ".xml": "application/xml",
   ".md": "text/markdown; charset=utf-8",
+  ".yaml": "text/yaml; charset=utf-8",
+  ".yml": "text/yaml; charset=utf-8",
 };
 
 export async function GET(

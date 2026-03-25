@@ -1,0 +1,13 @@
+id: keep-britain-tidy-history
+remote:
+  webpage_url: https://www.keepbritaintidy.org/our-history
+fetches:
+- kind: web
+  at: '2026-03-25T15:05:04Z'
+  remote_url: https://www.keepbritaintidy.org/our-history
+  sha256: 56ecc151cf1a6070a47ef00f50fc2ed3b7753c8bba75531e8610129168ec1484
+  bytes: 78756
+  http_last_modified: Wed, 25 Mar 2026 14:45:29 GMT
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

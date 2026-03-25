@@ -1,0 +1,12 @@
+id: luxardo-history
+remote:
+  webpage_url: https://www.luxardo.it/history/
+fetches:
+- kind: web
+  at: '2026-03-25T16:01:49Z'
+  remote_url: https://www.luxardo.it/history/
+  sha256: f30366d7ffec06093e55173db07ebdddfb9a170976392d7d3e72106f509b458e
+  bytes: 136763
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

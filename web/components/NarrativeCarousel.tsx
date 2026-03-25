@@ -9,13 +9,28 @@ export interface NarrativeSlide {
   subtitle: string;
   era: string;
   heroImage: string | null;
+  heroFocal?: [number, number];
   href: string;
+}
+
+function shuffle<T>(arr: readonly T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
 }
 
 export function NarrativeCarousel({ slides }: { slides: NarrativeSlide[] }) {
   const scrollRef = useRef<HTMLDivElement>(null);
   const [canScrollLeft, setCanScrollLeft] = useState(false);
   const [canScrollRight, setCanScrollRight] = useState(true);
+  const [shuffled, setShuffled] = useState(slides);
+
+  useEffect(() => {
+    setShuffled(shuffle(slides));
+  }, [slides]);
 
   const updateScrollState = useCallback(() => {
     const el = scrollRef.current;
@@ -44,7 +59,7 @@ export function NarrativeCarousel({ slides }: { slides: NarrativeSlide[] }) {
     el.scrollBy({ left: direction * (cardWidth + 20), behavior: "smooth" });
   }, []);
 
-  if (slides.length === 0) return null;
+  if (shuffled.length === 0) return null;
 
   return (
     <section className="border-b border-zinc-100 py-14">
@@ -107,7 +122,7 @@ export function NarrativeCarousel({ slides }: { slides: NarrativeSlide[] }) {
           className="flex snap-x snap-mandatory gap-5 overflow-x-auto scroll-smooth pb-4"
           style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
         >
-          {slides.map((s) => (
+          {shuffled.map((s) => (
             <Link
               key={s.slug}
               href={s.href}
@@ -121,6 +136,7 @@ export function NarrativeCarousel({ slides }: { slides: NarrativeSlide[] }) {
                     src={s.heroImage}
                     alt=""
                     className="absolute inset-0 h-full w-full object-cover transition duration-500 group-hover:scale-105"
+                    style={s.heroFocal ? { objectPosition: `${Math.round(s.heroFocal[0] * 100)}% ${Math.round(s.heroFocal[1] * 100)}%` } : undefined}
                     draggable={false}
                   />
                   <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/40 to-black/5" />

@@ -1,0 +1,24 @@
+title: >
+  List of Teachers Employed by the Commissioners of National Education
+  on 31 March 1905 (O'Keane–O'Sullivan volume)
+creator: Privy Council Office / Commissioners of National Education, Ireland
+date: "1905"
+description: >
+  Alphabetical register of every national school teacher in Ireland as of
+  31 March 1905, recording name, age, length of service, places of education,
+  training college, county, roll number, school name, and position.
+  This volume covers surnames O'Keane through M. O'Sullivan.
+  Reference: NAI/ED/PCO/10/1/29.
+remote:
+  primary_pdf_url: >
+    https://nationalarchives.ie/wp-content/uploads/2025/02/NAI_ED_PCO_10_1_29-JOKeane-MOSullivan_Redux.pdf
+  webpage_url: >
+    https://nationalarchives.ie/help-with-research/research-guides/teachers-employed-by-the-commissioners-of-national-education-on-31-march-1905/
+files:
+  original_pdf: original.pdf
+  pages: pages/page-*.jpg
+notes: >
+  Cornelius O'Shea (I118) does NOT appear in this register.
+  O'Shea entries span pages 15-17; all first names are present in
+  alphabetical order from Anne through William, with no Cornelius.
+  This means he had left teaching, retired, or died before March 1905.

@@ -1,0 +1,14 @@
+id: kbt-founder-lady-brunner-oxford-mail
+remote:
+  webpage_url: https://www.oxfordmail.co.uk/news/6581106.keep-britain-tidy-founder-won-national-honour/
+fetches:
+- kind: web
+  at: '2026-03-25T15:05:10Z'
+  remote_url: https://www.oxfordmail.co.uk/news/6581106.keep-britain-tidy-founder-won-national-honour/
+  sha256: 33d6f91d15eaa429d7087d666e5785295f40566a1ab4dee1fc76305138f3c205
+  bytes: 234802
+  http_last_modified: Wed, 25 Mar 2026 15:05:10 GMT
+  http_etag: '"4f619c82e9e6c69d4107d4d343e45b85"'
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

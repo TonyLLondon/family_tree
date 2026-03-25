@@ -1,0 +1,15 @@
+id: its-iro-riccardo-zerauschek-1951
+title: 'ITS / IRO displaced persons file — Riccardo Zerauschek family, Trieste (1951)'
+remote: {}
+fetches:
+- kind: local_images
+  at: '2026-03-25T00:00:00Z'
+  repo_path: media/docs/its-iro-riccardo-zerauschek
+  note: >-
+    Seven PNG images from the Arolsen Archives (International Tracing Service).
+    ITS Nr. S-1920. IRO Application for Assistance + interview report + filing card.
+    Riccardo Zerauschek (b. 17.6.1896, Zara) with wife Tatiana née Machiedo
+    and children Nora, Renato, Luciano. Filed Trieste, July–August 1951.
+files:
+  media_reference: media/docs/its-iro-riccardo-zerauschek
+  transcription: transcription-its-iro-riccardo-zerauschek.md

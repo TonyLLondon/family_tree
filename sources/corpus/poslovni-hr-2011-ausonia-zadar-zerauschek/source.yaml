@@ -1,0 +1,13 @@
+id: poslovni-hr-2011-ausonia-zadar-zerauschek
+title: Erste banka odbila kreditirati proizvođača čokolade — Ausonia / Zerauschek history (Poslovni dnevnik, 2011)
+remote:
+  webpage_url: https://www.poslovni.hr/domace/erste-banka-odbila-kreditirati-proizvoaca-cokolade-193065
+fetches:
+- kind: web
+  at: '2026-03-25T15:03:46Z'
+  remote_url: https://www.poslovni.hr/domace/erste-banka-odbila-kreditirati-proizvoaca-cokolade-193065
+  sha256: 8a2d5a8ccf737a76d88a1a26ac919d71d280db063b216cbff788af4ac232d62a
+  bytes: 175170
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md
