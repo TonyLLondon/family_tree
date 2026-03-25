@@ -7,7 +7,7 @@
 | `family-tree.json` | **Single source of truth** for structured tree (web app). **Schema 2:** topology + rich optional fields (vitals, `alsoKnownAs`, `personPage`, etc.). **Master workflow:** edit JSON and/or `people/*.md` (`treeId`), then run `scripts/sync_family_tree_json.py` (vault + existing JSON win; GEDCOM only fills gaps). Wrapper: `scripts/merge_gedcom_vitals_into_family_tree.py`. Validate: `scripts/validate_family_tree_json.py`. |
 | `lines/persia.md` | Human hub: outline, Mermaid, tables, source index (Persia line). |
 | `people/*.md` | One file per person; YAML frontmatter + prose + links. Planning: `ancestor-coverage-list.md`, `person-pages-extension-plan.md`. |
-| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `narratives/`, `lines/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/` and `archive/` from repo root. **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/docs/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: Vercel **Root Directory** = `web` (build uses `..` to read the vault). See `web/README.md`. |
+| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `narratives/`, `lines/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/` and `sources/corpus/` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
 
 ## Primary workflow (read → write)
 
@@ -73,6 +73,42 @@ Optional tooling—not a substitute for reading corpus files and editing prose.
 - `generate_corpus_bibliography.py` — regenerate `sources/corpus-bibliography.md` (one inbound link per `corpus/<slug>/`).
 - `corpus_extract_health.py` — optional inventory of thin machine extracts (still **read** `transcription*` / `translation*` / `reference.md` / PDFs in the bundle).
 - `generate_ancestor_coverage_list.py`, `validate_family_tree_json.py` — tooling; read before changing outputs.
+
+## Deployment (Vercel)
+
+**Live site:** <https://family-tree-lewis.vercel.app/>
+
+**GitHub repo:** `TonyLLondon/family_tree` (private). Vercel auto-deploys on every push to `main`.
+
+**Vercel project settings:**
+
+| Setting | Value |
+|---------|-------|
+| Root Directory | `web` |
+| Framework | Next.js (auto-detected) |
+| Build command | `npm run build` (runs prebuild copy script first) |
+| Plan | Hobby (free) |
+
+**How static files are served on Vercel:**
+
+The `/files/[...path]` API route uses `fs.readFileSync` at runtime, which works for local dev but not on Vercel's serverless functions (files aren't on the function's filesystem). Instead:
+
+1. `web/scripts/copy-static-files.mjs` runs before `next build` (via the `build` script in `package.json`).
+2. It copies `../media/` and `../sources/corpus/` into `web/public/files/`.
+3. Next.js serves `public/files/` as static CDN assets — requests to `/files/media/…` and `/files/sources/corpus/…` are served from the edge without invoking a serverless function.
+4. `web/public/files/` is gitignored (build artifact, regenerated each deploy).
+5. `next.config.ts` has `outputFileTracingExcludes` to prevent the ~1 GB of static files from being bundled into serverless functions (Vercel's 300 MB function limit).
+
+**What's gitignored (not deployed):**
+
+| Dir | Why |
+|-----|-----|
+| `archive/` | PPTX sun charts, Gramps exports, GEDCOM, personal files — not needed by the web app |
+| `manual/` | Unprocessed inbox scans — file into `media/` or `sources/corpus/` before they appear on the site |
+| `web/node_modules/`, `web/.next/` | Build artifacts |
+| `web/public/files/` | Generated at build time by the prebuild copy script |
+
+**Portrait images:** Extracted JPGs from the sun-chart PPTX live in `media/images/portraits/`. Previously in `archive/sun-charts/…` (gitignored). Referenced by `web/photo-map.json` and `narratives/*.scrolly.json`.
 
 ## Conventions
 
