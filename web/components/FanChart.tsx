@@ -301,7 +301,7 @@ export function FanChart({ root, maxGeneration, photoUrls, centers: centersProp 
   return (
     <div className="relative w-full">
       <TransformWrapper
-        initialScale={0.5}
+        initialScale={0.7}
         minScale={0.2}
         maxScale={4}
         centerOnInit
