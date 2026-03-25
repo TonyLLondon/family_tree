@@ -76,7 +76,7 @@ export default function HomePage() {
             Family history
           </p>
           <h1 className="text-4xl font-extrabold tracking-tight text-zinc-900 sm:text-6xl">
-            Lewis · Evans · Stump · Zerauschek
+            Lewis · Evans · Zerauschek · Cerpa
           </h1>
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-zinc-600">
             Seven generations from the South Wales coalfield and London (Spencer → Evans) to Chilean Maule (Cerpa · Pérez),
