@@ -14,4 +14,4 @@ Binary: **`original.pdf`** in this corpus folder.
 
 **Remote:** [iris.polito.it retrieve URL](https://iris.polito.it/retrieve/96922d26-0179-45d6-931f-59f0c3df199f/Adaptive%20cities_volume%20completo.pdf)
 
-**Use in this repo:** Zadar urban / interwar context — see [narratives/zerauschek-zadar.md](../../../narratives/zerauschek-zadar.md).
+**Use in this repo:** Zadar urban / interwar context — see [stories/zerauschek-zadar.md](../../../stories/zerauschek-zadar.md).

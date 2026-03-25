@@ -21,7 +21,7 @@ Wife of [Alfred Edward William Evans](alfred-edward-william-evans.md) — marria
 
 By the **1939 Register** (29 Sep 1939; TNA ref RG101/0291F/005, schedule 61, sub 2), Annie was living with Alfred in Islington. Her listed occupation was **Printers Maker** — manufacturing components for the printing trade, one of Clerkenwell's established industries. Annie was born, married, raised her children, and died in Islington — seventy-nine years in the same borough.
 
-**Narrative:** [The Spencers and the Evans: Five Generations Between Clerkenwell and Islington](../narratives/evans-islington-clerkenwell.md).
+**Narrative:** [The Spencers and the Evans: Five Generations Between Clerkenwell and Islington](../stories/evans-islington-clerkenwell.md).
 
 ## Evidence
 

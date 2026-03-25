@@ -28,4 +28,4 @@ Evidence of the Addobbati's embeddedness in the Zara civic network. Pietro Addob
 
 ## Narrative context
 
-[narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md)
+[stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md)

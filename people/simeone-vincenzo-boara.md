@@ -53,7 +53,7 @@ The marriage church, **Sv. Šime** (Church of Saint Simeon), is one of Zadar's m
 
 - GEDCOM **`@I22@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F11** / **F55** / **F204**; **@S12@**; Geni note in **SOUR**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — "landowners and intellectuals, very much Italians", eight children, inheritance dispute.
-- [family-tree.json](../family-tree.json) · [narratives/zerauschek-zadar.md](../narratives/zerauschek-zadar.md) · [narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md).
+- [family-tree.json](../family-tree.json) · [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md) · [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 
 ## Wishlist
 

@@ -49,7 +49,7 @@ French **mechanical engineer** active in **Tehran** in the late 19th and early 2
 
 ## Related narrative
 
-- [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) — section 3
+- [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — section 3
 
 ## Topics
 

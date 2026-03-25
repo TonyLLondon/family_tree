@@ -8,4 +8,4 @@ Official company history of the Luxardo maraschino distillery, founded 1821 in Z
 
 **People:** [Antonio Zerauschek](../people/antonio-zerauschek.md) (contemporary in interwar Zara; Ausonia chocolate factory, possible Luxardo supplier).
 
-**Used in:** [Zara — Antonio Zerauschek narrative](../narratives/zerauschek-zadar.md).
+**Used in:** [Zara — Antonio Zerauschek narrative](../stories/zerauschek-zadar.md).

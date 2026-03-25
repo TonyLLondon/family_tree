@@ -36,5 +36,6 @@
   "I289":  "media/docs/William Evans doing Louisa Spencer.jpg",
   "I290":  "media/docs/Louisa Spencer Birth.jpg",
   "I326":  { "src": "media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png", "focal": [0.5, 0.15] },
-  "I9":    "media/images/portraits/nonna-and-nonno.jpg"
+  "I9":    "media/images/portraits/nonna-and-nonno.jpg",
+  "I75":   { "src": "media/images/portraits/pietro-addobbati-golden-spur-1769.jpg", "focal": [0.5, 0.25] }
 }

@@ -50,7 +50,7 @@ Primary archive for all phases of the Addobbati story from the 1733 Zara arrival
 
 ## Narrative context
 
-[narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md)
+[stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md)
 
 ## Also referenced in
 

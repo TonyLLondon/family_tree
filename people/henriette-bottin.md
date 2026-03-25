@@ -43,7 +43,7 @@ Daughter of [Fanny Burgess](fanny-burgess.md) and [Julien Bottin](julien-bottin.
 - [Album page 1909 — Henriette & Étienne](../media/docs/Album%20page%201909%20Henriette%20Etienne%20Stump%20five%20vintage%20photos%20note.jpg).
 - [Etienne, Henriette, Robert and Theo](../media/albums/henderson/Etienne,%20Henriette,%20Robert%20and%20Theo.jpg).
 - Husband’s Baltic parents (Tallinn parish digest, 2005): [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) — [Marc Francois Stump](marc-francois-stump.md); [Olga Caroline Erbe](olga-caroline-erbe.md).
-- Lineage narrative: [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) — section 4.
+- Lineage narrative: [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — section 4.
 
 ## Topics
 

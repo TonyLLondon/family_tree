@@ -24,4 +24,4 @@ Background reading for understanding the *cittadini originari* tier occupied by 
 
 ## Narrative context
 
-[narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md)
+[stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md)

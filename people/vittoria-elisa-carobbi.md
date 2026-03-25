@@ -46,7 +46,7 @@ Vittoria survived Simeone by six years (he died 1896; she died 1902) and witness
 
 - GEDCOM **`@I27@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F11** / **F31**; MyHeritage **Geni** URL in **SOUR**; FamilySearch **L22T-RHS**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — eight children, Boara inheritance dispute, Casimiro and Carmela.
-- [family-tree.json](../family-tree.json) · [narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md).
+- [family-tree.json](../family-tree.json) · [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 
 ## Wishlist
 

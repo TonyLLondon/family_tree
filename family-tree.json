@@ -2870,7 +2870,7 @@
     },
     "I31": {
       "id": "I31",
-      "displayName": "D. ADDOBBATI",
+      "displayName": "Daniele ADDOBBATI",
       "birthUnionId": "F17",
       "spouseUnionIds": [
         "F16"
@@ -3000,7 +3000,7 @@
     },
     "I32": {
       "id": "I32",
-      "displayName": "D. ADDOBBATI",
+      "displayName": "Ioanes ADDOBBATI",
       "birthUnionId": "F18",
       "spouseUnionIds": [
         "F17"
@@ -3149,7 +3149,7 @@
     },
     "I33": {
       "id": "I33",
-      "displayName": "D. ADDOBBATI",
+      "displayName": "Daniel ADDOBBATI",
       "birthUnionId": "F19",
       "spouseUnionIds": [
         "F18"
@@ -3267,7 +3267,7 @@
     },
     "I34": {
       "id": "I34",
-      "displayName": "D. ADDOBBATI",
+      "displayName": "Ivanes Baptista ADDOBBATI",
       "birthUnionId": "F20",
       "spouseUnionIds": [
         "F19"
@@ -3404,7 +3404,7 @@
     },
     "I35": {
       "id": "I35",
-      "displayName": "D. ADDOBBATI",
+      "displayName": "Jacobus ADDOBBATI",
       "birthUnionId": "F21",
       "spouseUnionIds": [
         "F20"
@@ -3544,7 +3544,7 @@
     },
     "I36": {
       "id": "I36",
-      "displayName": "D. ADDOBBATI",
+      "displayName": "Ioanes Baptista ADDOBBATI",
       "birthUnionId": "F22",
       "spouseUnionIds": [
         "F21"
@@ -3696,7 +3696,7 @@
     },
     "I37": {
       "id": "I37",
-      "displayName": "D. ADDOBBATI",
+      "displayName": "Joannes Aloysious ADDOBBATI",
       "birthUnionId": "F23",
       "spouseUnionIds": [
         "F22"
@@ -6369,7 +6369,10 @@
       "birthDate": "1769",
       "deathDate": "1832-11-04",
       "sex": "M",
-      "deathDateGedcom": "4 NOV 1832"
+      "deathDateGedcom": "4 NOV 1832",
+      "role": "Lawyer, Knight of the Golden Spur, noble of Nin",
+      "alsoKnownAs": ["Dr. Petar Addobbati"],
+      "personPage": "people/dr-pietro-addobbati.md"
     },
     "I76": {
       "id": "I76",

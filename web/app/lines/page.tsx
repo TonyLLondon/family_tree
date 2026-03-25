@@ -1,13 +1,13 @@
 import { BrowseGrid, type BrowseItem } from "@/components/BrowseGrid";
 import { PageShell } from "@/components/PageShell";
 import { getLineSlugs } from "@/lib/content";
-import { readNarrativeOrLineCard } from "@/lib/browse";
+import { readStoryOrLineCard } from "@/lib/browse";
 
 export default function LinesIndexPage() {
   const slugs = getLineSlugs().sort((a, b) => a.localeCompare(b));
 
   const items: BrowseItem[] = slugs.map((slug) => {
-    const { title, blurb } = readNarrativeOrLineCard("lines", slug);
+    const { title, blurb } = readStoryOrLineCard("lines", slug);
     return {
       id: slug,
       title,

@@ -2,7 +2,7 @@
 
 Working notes and AI-assisted syntheses, organized by family line.
 
-These are **not** primary or secondary sources. Stable claims belong in **`people/*.md`**, **`narratives/`**, **`lines/`**, or **`sources/`** (with links into `sources/corpus/<slug>/`), after you have **read** the underlying bundle or `media/` file—not after a script has merely touched it.
+These are **not** primary or secondary sources. Stable claims belong in **`people/*.md`**, **`stories/`**, **`lines/`**, or **`sources/`** (with links into `sources/corpus/<slug>/`), after you have **read** the underlying bundle or `media/` file—not after a script has merely touched it.
 
 **How to work a source:** open the corpus folder; start with **`transcription*.md`** / **`translation*.md`** / **`reference.md`**; fall back to **`extracted.*`** or the scan in **`media/`**. Then write or tighten the person page, narrative, or citation card.
 

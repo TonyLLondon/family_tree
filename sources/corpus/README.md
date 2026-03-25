@@ -1,6 +1,6 @@
 # Corpus bundles (`sources/corpus/<slug>/`)
 
-Each folder is one **ingested source**: provenance in `source.yaml`, plus whatever readable layers exist (**`transcription*.md`**, **`translation*.md`**, **`reference.md`**, **`extracted.pdf.md`**, **`extracted.web.md`**). **Machine extracts** are starting points; **human transcriptions and translations** are what you usually cite from when building **`people/`** and **`narratives/`**. **Local PDFs** stay under `media/` only (`files.media_reference`); **`original.pdf`** appears only for **remote** PDF ingests (`--url`). **Full slug index (regenerate):** [../corpus-bibliography.md](../corpus-bibliography.md) · `scripts/generate_corpus_bibliography.py`.
+Each folder is one **ingested source**: provenance in `source.yaml`, plus whatever readable layers exist (**`transcription*.md`**, **`translation*.md`**, **`reference.md`**, **`extracted.pdf.md`**, **`extracted.web.md`**). **Machine extracts** are starting points; **human transcriptions and translations** are what you usually cite from when building **`people/`** and **`stories/`**. **Local PDFs** stay under `media/` only (`files.media_reference`); **`original.pdf`** appears only for **remote** PDF ingests (`--url`). **Full slug index (regenerate):** [../corpus-bibliography.md](../corpus-bibliography.md) · `scripts/generate_corpus_bibliography.py`.
 
 | Slug | Kind | Notes |
 |------|------|--------|

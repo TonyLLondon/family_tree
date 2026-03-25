@@ -34,8 +34,8 @@ export function countBiographicalPersonPages(): number {
   return getPeopleSlugs().filter((s) => !NON_BIOGRAPHICAL_PEOPLE_SLUGS.has(s)).length;
 }
 
-export function getNarrativeSlugs(): string[] {
-  const dir = repoPath("narratives");
+export function getStorySlugs(): string[] {
+  const dir = repoPath("stories");
   return listMdFiles(dir).map((f) => path.basename(f, ".md"));
 }
 

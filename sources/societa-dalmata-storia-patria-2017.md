@@ -34,4 +34,4 @@ Primary evidence for Pietro Pio's grade as **Ufficiale postale superiore**. Demo
 
 ## Narrative context
 
-[narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md)
+[stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md)

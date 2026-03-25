@@ -20,5 +20,5 @@ Describes Callas's April 1958 visit directing restoration: telephones in every r
 ## Links
 
 - People: [Antonio Zerauschek](../people/antonio-zerauschek.md), [Fulvia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md)
-- Narrative: [Villa Ester — from the Zerauscheks to Maria Callas](../narratives/zerauschek-villa-callas-sirmione.md)
+- Narrative: [Villa Ester — from the Zerauscheks to Maria Callas](../stories/zerauschek-villa-callas-sirmione.md)
 - Corpus: [gbopera-2009-telefoni-e-rose-sirmione-callas](corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/)

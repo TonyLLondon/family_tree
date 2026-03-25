@@ -36,4 +36,4 @@ Establishes Angelo Daniele Addobbati as an active public notary for 25 years spa
 
 ## Narrative context
 
-[narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md)
+[stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md)

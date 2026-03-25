@@ -7,14 +7,14 @@
 | `family-tree.json` | **Single source of truth** for structured tree (web app). **Schema 2:** topology + rich optional fields (vitals, `alsoKnownAs`, `personPage`, etc.). **Master workflow:** edit JSON and/or `people/*.md` (`treeId`), then run `scripts/sync_family_tree_json.py` (vault + existing JSON win; GEDCOM only fills gaps). Wrapper: `scripts/merge_gedcom_vitals_into_family_tree.py`. Validate: `scripts/validate_family_tree_json.py`. |
 | `lines/persia.md` | Human hub: outline, Mermaid, tables, source index (Persia line). |
 | `people/*.md` | One file per person; YAML frontmatter + prose + links. Planning: `ancestor-coverage-list.md`, `person-pages-extension-plan.md`. |
-| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `narratives/`, `lines/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/` and `sources/corpus/` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
+| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `stories/`, `lines/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/` and `sources/corpus/` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
 
 ## Primary workflow (read → write)
 
 The vault is for **judgment and narrative**, not for treating machine extracts as finished work.
 
 1. **Read the evidence** in `sources/corpus/<slug>/`: prefer **`transcription*.md`**, **`translation*.md`**, and **`reference.md`** when present; use **`extracted.pdf.md` / `extracted.web.md`** or the file under **`media/`** when that is what you have.
-2. **Integrate** defensible facts and (where rights allow) short quotations into **`people/*.md`**, **`narratives/*.md`**, **`lines/*.md`**, or a thin **`sources/*.md`** card—always with **repo-relative links** back to the bundle.
+2. **Integrate** defensible facts and (where rights allow) short quotations into **`people/*.md`**, **`stories/*.md`**, **`lines/*.md`**, or a thin **`sources/*.md`** card—always with **repo-relative links** back to the bundle.
 3. **`research/`** is working space; fold stable conclusions into those canonical files and trim redundant memos.
 
 Scripts (below) handle **sync, ingest, and validation**. They do not replace opening the markdown or PDF and writing what you learned.
@@ -23,11 +23,11 @@ Scripts (below) handle **sync, ingest, and validation**. They do not replace ope
 
 | Dir | Holds |
 |-----|--------|
-| `narratives/` | Multi-gen or long-form essays rendered as **visual scrollytelling** on the web app. Each narrative has two files: `<slug>.md` (vault markdown with `# Title` and `## Section` headings) and `<slug>.scrolly.json` (sidecar configuring the visual layout). See **Building a narrative** below. |
+| `stories/` | Multi-gen or long-form essays rendered as **visual scrollytelling** on the web app. Each story has two files: `<slug>.md` (vault markdown with `# Title` and `## Section` headings) and `<slug>.scrolly.json` (sidecar configuring the visual layout). See **Building a story** below. |
 | `topics/` | Cross-links: places, institutions (`topics/index.md` hub). |
 | `sources/*.md` | **Citation cards**: short summary, links to people, pointer into corpus. Optional YAML `corpus:` + `kind: pdf\|web`. |
 | `index.md` | Vault map (tables for `media/` layout). |
-| `manual/` | **Inbox** for raw drops to be **read and relocated** into `people/`, `narratives/`, `sources/corpus/`, `media/`, etc. See `manual/README.md`. |
+| `manual/` | **Inbox** for raw drops to be **read and relocated** into `people/`, `stories/`, `sources/corpus/`, `media/`, etc. See `manual/README.md`. |
 
 **Line hubs:** `lines/persia.md` (Persia trunk); `lines/zara-italy-dalmatia.md` (Zara); `lines/lewis-wales-stump-europe.md` (Lewis + Stump/Erbe + Ireland); `lines/evans-cerpa-perez-london-chile.md` (London Evans × Chile).
 
@@ -108,11 +108,11 @@ The `/files/[...path]` API route uses `fs.readFileSync` at runtime, which works 
 | `web/node_modules/`, `web/.next/` | Build artifacts |
 | `web/public/files/` | Generated at build time by the prebuild copy script |
 
-**Portrait images:** Extracted JPGs from the sun-chart PPTX live in `media/images/portraits/`. Previously in `archive/sun-charts/…` (gitignored). Referenced by `web/photo-map.json` and `narratives/*.scrolly.json`.
+**Portrait images:** Extracted JPGs from the sun-chart PPTX live in `media/images/portraits/`. Previously in `archive/sun-charts/…` (gitignored). Referenced by `web/photo-map.json` and `stories/*.scrolly.json`.
 
-## Building a narrative
+## Building a story
 
-Narratives are **visual-rich scrollytelling pages** on the web app, not plain markdown articles. Every narrative needs **two files** in `narratives/`:
+Stories are **visual-rich scrollytelling pages** on the web app, not plain markdown articles. Every story needs **two files** in `stories/`:
 
 | File | Purpose |
 |------|---------|
@@ -140,15 +140,15 @@ Narratives are **visual-rich scrollytelling pages** on the web app, not plain ma
 
 **Image paths** in `steps[].media.src` are **repo-relative** (e.g. `media/docs/Alfred Evans.jpg`). The web app resolves them to `/files/…` URLs via `photoPublicPath`. Use family photos from `media/docs/` or `media/images/portraits/` where available; use context images from `media/context/<topic>/` for scenes, maps, and landmarks. Each `media/context/<topic>/` directory must include a `CREDITS.md` listing source and licence for every image.
 
-**How it renders:** `web/components/ScrollytellingNarrative.tsx` uses `react-scrollama` + GSAP. A sticky full-viewport image stack crossfades behind the text as the user scrolls. The hero overlay (title/subtitle/era) fades out when the first step enters. Images get a slow Ken Burns zoom. If no `.scrolly.json` sidecar exists, the narrative falls back to a plain `PageShell` + `MarkdownContent` article layout.
+**How it renders:** `web/components/ScrollytellingNarrative.tsx` uses `react-scrollama` + GSAP. A sticky full-viewport image stack crossfades behind the text as the user scrolls. The hero overlay (title/subtitle/era) fades out when the first step enters. Images get a slow Ken Burns zoom. If no `.scrolly.json` sidecar exists, the story falls back to a plain `PageShell` + `MarkdownContent` article layout.
 
-**Checklist for a new narrative:**
+**Checklist for a new story:**
 
-1. Write `narratives/<slug>.md` with `# Title`, then `## Section` per visual beat, then `## Evidence` / `## Related` as appendix.
+1. Write `stories/<slug>.md` with `# Title`, then `## Section` per visual beat, then `## Evidence` / `## Related` as appendix.
 2. Gather images: family photos in `media/docs/`; download CC/public-domain context images to `media/context/<topic>/` with a `CREDITS.md`.
-3. Create `narratives/<slug>.scrolly.json` matching the number of `##` sections to `scrollyStepCount` and `steps[]`.
-4. Link the narrative from the relevant `lines/*.md` hub (not from unrelated line hubs — Evans narratives link from `evans-cerpa-perez-london-chile.md`, not from `lewis-wales-stump-europe.md`).
-5. Test locally: `cd web && npm run dev` → visit `/narratives/<slug>`.
+3. Create `stories/<slug>.scrolly.json` matching the number of `##` sections to `scrollyStepCount` and `steps[]`.
+4. Link the story from the relevant `lines/*.md` hub (not from unrelated line hubs — Evans stories link from `evans-cerpa-perez-london-chile.md`, not from `lewis-wales-stump-europe.md`).
+5. Test locally: `cd web && npm run dev` → visit `/stories/<slug>`.
 
 ## Conventions
 

@@ -133,10 +133,10 @@ Anna's testimony (interview, Leicester, March 1880) provides the only account of
 - [Sarpoosh: "اولين روزنامه دائمي ايران" (Iran's first permanent newspaper)](https://www.sarpoosh.com/calendar/history-calendar/first-permanentpress-iran.html) · [corpus extract](../sources/corpus/sarpoosh-first-permanent-press-iran/extracted.web.md) — quotes Naser Najmi's *Vaziran-e Maqtul* ("Murdered Ministers"): the translation apparatus received European, Istanbul, and Indian newspapers; Burgess (برجيس‌نام انگليسي) translated them and Abdullah the scribe rendered them into Persian. Also claims Edward *"established the first printing house in Iran in Tabriz with the support of Abbas Mirza"* — a claim treated with caution by the SHARP article (above).
 - [IranianPress.blogfa.com: "نخستین‌های مطبوعاتی" (Press firsts)](http://iranianpress.blogfa.com/post/43) — Iranian journalism timeline listing Edward Burgess as: **نخستین ناشر بولتن محرمانه در ایران** (first publisher of a confidential bulletin in Iran) and **نخستین سانسورچی مطبوعات در ایران** (first press censor in Iran). Source: *Tarikh-e Ruzname-negari-ye Iran* (History of Iranian Journalism).
 
-## Related narratives
+## Related stories
 
-- [The Most All-Loved Person — Edward Burgess in Qajar Persia](../narratives/edward-burgess-persia.md) — full life arc (scrollytelling)
-- [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) — section 2
+- [The Most All-Loved Person — Edward Burgess in Qajar Persia](../stories/edward-burgess-persia.md) — full life arc (scrollytelling)
+- [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — section 2
 
 ## Topics
 

@@ -1,14 +1,14 @@
 import Link from "next/link";
 import { SiteNav } from "@/components/SiteNav";
 import { MasterSearch } from "@/components/MasterSearch";
-import { NarrativeCarousel, type NarrativeSlide } from "@/components/NarrativeCarousel";
+import { StoryCarousel, type StorySlide } from "@/components/StoryCarousel";
 import { RandomizedPortraits, type PortraitEntry } from "@/components/RandomizedPortraits";
 import { loadFamilyTree } from "@/lib/tree";
 import { buildPhotoInfoMap, focalToObjectPosition } from "@/lib/photos";
-import { countBiographicalPersonPages, getNarrativeSlugs } from "@/lib/content";
+import { countBiographicalPersonPages, getStorySlugs } from "@/lib/content";
 import { getSiteSearchItems } from "@/lib/siteSearchIndex";
 import { readScrollySidecar, resolveScrollySteps } from "@/lib/scrollytelling";
-import { readNarrativeOrLineCard } from "@/lib/browse";
+import { readStoryOrLineCard } from "@/lib/browse";
 
 function getAllPortraits(): PortraitEntry[] {
   const tree = loadFamilyTree();
@@ -31,11 +31,11 @@ function getAllPortraits(): PortraitEntry[] {
   return out;
 }
 
-function getNarrativeSlides(): NarrativeSlide[] {
-  const slugs = getNarrativeSlugs();
+function getStorySlides(): StorySlide[] {
+  const slugs = getStorySlugs();
   return slugs.map((slug) => {
     const sidecar = readScrollySidecar(slug);
-    const { title: mdTitle } = readNarrativeOrLineCard("narratives", slug);
+    const { title: mdTitle } = readStoryOrLineCard("stories", slug);
     if (sidecar) {
       const resolved = resolveScrollySteps(sidecar);
       return {
@@ -45,7 +45,7 @@ function getNarrativeSlides(): NarrativeSlide[] {
         era: sidecar.hero.era,
         heroImage: resolved[0]?.media.src ?? null,
         heroFocal: resolved[0]?.media.focal,
-        href: `/narratives/${encodeURIComponent(slug)}`,
+        href: `/stories/${encodeURIComponent(slug)}`,
       };
     }
     return {
@@ -54,7 +54,7 @@ function getNarrativeSlides(): NarrativeSlide[] {
       subtitle: "",
       era: "",
       heroImage: null,
-      href: `/narratives/${encodeURIComponent(slug)}`,
+      href: `/stories/${encodeURIComponent(slug)}`,
     };
   });
 }
@@ -65,7 +65,7 @@ export default function HomePage() {
   const totalUnions = Object.keys(tree.unions).length;
   const personPageCount = countBiographicalPersonPages();
   const allPortraits = getAllPortraits();
-  const narrativeSlides = getNarrativeSlides();
+  const storySlides = getStorySlides();
   const siteSearchItems = getSiteSearchItems();
 
   return (
@@ -91,7 +91,7 @@ export default function HomePage() {
             <span><strong className="text-zinc-900">{totalPeople}</strong> people</span>
             <span><strong className="text-zinc-900">{totalUnions}</strong> families</span>
             <span><strong className="text-zinc-900">{personPageCount}</strong> person pages</span>
-            <span><strong className="text-zinc-900">{narrativeSlides.length}</strong> narratives</span>
+            <span><strong className="text-zinc-900">{storySlides.length}</strong> stories</span>
           </div>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link
@@ -112,7 +112,7 @@ export default function HomePage() {
       </section>
 
       {/* Narrative carousel */}
-      <NarrativeCarousel slides={narrativeSlides} />
+      <StoryCarousel slides={storySlides} />
 
       {/* Featured portraits — randomized on each visit */}
       <RandomizedPortraits portraits={allPortraits} />

@@ -9,3 +9,4 @@ All images in this directory are **public domain** and sourced from Wikimedia Co
 | `rfc-biplanes-netheravon-1914-iwm.jpg` | IWM HU 67895 — Blériot XI aircraft, RFC Netheravon, June 1914 | Crown Copyright expired |
 | `duxford-airfield-1918-iwm.jpg` | IWM Q 96065 — Duxford under construction, September 1918 | Crown Copyright expired |
 | `maldon-high-street-essex.jpg` | Oxyman / Wikimedia Commons, 2008 | CC BY-SA 3.0 / CC BY 2.5 |
+| `maldon-boating-lake-essex-edwardian-postcard.jpg` | Edwardian-era real photograph postcard — The Boating Lake, Maldon, Essex. Wikimedia Commons (Mark Crombie / Flickr). | Public domain (published before 1931) |

@@ -21,7 +21,7 @@ ignore_gedcom_death: true
 
 Father of [David John Lewis](david-john-lewis.md) and Brynmor Keith Lewis. Coal miner turned insurance man; chapel deacon and Oddfellow. The longest-held address was **32 Penydarren Street, Aberdare** (almost 40 years, c. 1927–1966).
 
-**Line narrative:** [Lewis in Aberdare and Merthyr — coalfield labour and child mortality](../narratives/lewis-aberdare-merthyr-coalfield.md) — 1911 fertility return (mother's twelve births, seven deaths), underground mining at ages 13–23, out of the pit by 1939.
+**Line narrative:** [Lewis in Aberdare and Merthyr — coalfield labour and child mortality](../stories/lewis-aberdare-merthyr-coalfield.md) — 1911 fertility return (mother's twelve births, seven deaths), underground mining at ages 13–23, out of the pit by 1939.
 
 ## Life
 

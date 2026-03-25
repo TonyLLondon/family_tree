@@ -31,7 +31,7 @@ Mother of [Ester Addobbati](ester-addobbati.md); wife of [Pietro Pio Addobbati](
 
 - GEDCOM **`@I21@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — includes MyHeritage record URL in `SOUR` block.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — "my Nonna Ottilia Boara"; borrowing from Casimiro and Carmela Boara; sending a daughter each month.
-- Boara / Zara narrative hooks: [narratives/zerauschek-zadar.md](../narratives/zerauschek-zadar.md).
+- Boara / Zara narrative hooks: [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

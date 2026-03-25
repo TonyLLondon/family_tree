@@ -35,8 +35,8 @@ Mother of [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.
 
 - GEDCOM **`@I15@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [Grave slab photo — Florence, Ester Addobbati / Antonio / Giuliana Zerauschek Rivolta](../media/docs/Grave%20slab%20Florence%20Ester%20Addobbati%20Zerauschek%20Antonio%20Giuliana%20Zerauschek%20Rivolta.png).
-- Zara context: [narratives/zerauschek-zadar.md](../narratives/zerauschek-zadar.md) · [media/collections/zerauschek/](../media/collections/zerauschek/).
-- Family narrative: [narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md) — Addobbati civic history and Pietro Pio's postal career.
+- Zara context: [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md) · [media/collections/zerauschek/](../media/collections/zerauschek/).
+- Family narrative: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md) — Addobbati civic history and Pietro Pio's postal career.
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

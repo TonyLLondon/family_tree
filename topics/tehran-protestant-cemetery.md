@@ -15,4 +15,4 @@ British and associated Protestant burials in Tehran — anchor for several Persi
 
 ## Narrative
 
-- [Saginian → Burgess → Bottin → Stump](../narratives/saginian-burgess-bottin-stump.md)
+- [Saginian → Burgess → Bottin → Stump](../stories/saginian-burgess-bottin-stump.md)

@@ -17,7 +17,7 @@ children:
 
 Mother of [Samuel Lewis](samuel-lewis.md) (**@I17@**) with [David John Lewis (1857)](david-john-lewis-1857.md) in GEDCOM **F87**.
 
-**Line narrative:** [Lewis in Aberdare and Merthyr — coalfield labour and child mortality](../narratives/lewis-aberdare-merthyr-coalfield.md) — §3 **1911** schedule (twelve children born alive, five living, seven dead). The export ties her to **1871** (age **9**, father’s household **Aberdare**, **RG10/5405**) and **1881** (age **18**, **RG11/5320**), then **1891–1911** as wife in the same **Merthyr / Aberdare** household sequence as David—ending on **1911** schedule **77** with occupation **tin worker** in the **1881** event block.
+**Line narrative:** [Lewis in Aberdare and Merthyr — coalfield labour and child mortality](../stories/lewis-aberdare-merthyr-coalfield.md) — §3 **1911** schedule (twelve children born alive, five living, seven dead). The export ties her to **1871** (age **9**, father’s household **Aberdare**, **RG10/5405**) and **1881** (age **18**, **RG11/5320**), then **1891–1911** as wife in the same **Merthyr / Aberdare** household sequence as David—ending on **1911** schedule **77** with occupation **tin worker** in the **1881** event block.
 
 ## Life
 

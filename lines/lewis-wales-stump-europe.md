@@ -10,12 +10,12 @@ This hub is the **outline + source register** for everything that is *not* the P
 
 | Essay | Focus |
 |--------|--------|
-| [Lewis — Aberdare & Merthyr coalfield](../narratives/lewis-aberdare-merthyr-coalfield.md) | Wales industrial context |
-| [David John Lewis — Italy 1945 & Silver Star](../narratives/david-john-lewis-italy-1945-silver-star.md) | Military citation & campaign |
-| [Stump — Thurgau & Tallinn](../narratives/stump-thurgau-tallinn-baltic-line.md) | European generations before Tehran |
-| [From Reval to Tehran — Étienne Stump](../narratives/etienne-stump-reval-to-tehran.md) | Full life: Baltic birth → Chicago → Shah's court → Mahmoudieh |
-| [Zara — Antonio Zerauschek](../narratives/zerauschek-zadar.md) | Italian Dalmatia (Fulvia’s father) |
-| [Villa Ester — from the Zerauscheks to Maria Callas](../narratives/zerauschek-villa-callas-sirmione.md) | Sirmione villa: Zerauschek → Callas |
+| [Lewis — Aberdare & Merthyr coalfield](../stories/lewis-aberdare-merthyr-coalfield.md) | Wales industrial context |
+| [David John Lewis — Italy 1945 & Silver Star](../stories/david-john-lewis-italy-1945-silver-star.md) | Military citation & campaign |
+| [Stump — Thurgau & Tallinn](../stories/stump-thurgau-tallinn-baltic-line.md) | European generations before Tehran |
+| [From Reval to Tehran — Étienne Stump](../stories/etienne-stump-reval-to-tehran.md) | Full life: Baltic birth → Chicago → Shah's court → Mahmoudieh |
+| [Zara — Antonio Zerauschek](../stories/zerauschek-zadar.md) | Italian Dalmatia (Fulvia’s father) |
+| [Villa Ester — from the Zerauscheks to Maria Callas](../stories/zerauschek-villa-callas-sirmione.md) | Sirmione villa: Zerauschek → Callas |
 
 ---
 

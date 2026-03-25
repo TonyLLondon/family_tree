@@ -43,7 +43,7 @@ These files exist but stay thin. You already have citations or files to weave in
 | [julien-bottin.md](julien-bottin.md) | Contract + Masonry | Pull French contract clauses into blockquotes; [corpus levantine PDF](../sources/corpus/levantine-freemasonry/) excerpts. |
 | [henriette-bottin.md](henriette-bottin.md) | Passport + album | Narrative of Tehran birth / travel; link Stump marriage; Henderson tree discrepancies (if any) in one footnote-style note. |
 | [etienne-stump.md](etienne-stump.md) | Iranica + Mustawfi + grave | Longer “dentistry in Iran” section; blockquote Iranica; Mahmoudieh email summary expanded. |
-| [antonio-zerauschek.md](antonio-zerauschek.md) · [antonio-zerauschek-senior.md](antonio-zerauschek-senior.md) | Zara narrative + scans | Line hub [lines/zara-italy-dalmatia.md](../lines/zara-italy-dalmatia.md); [narratives/zerauschek-zadar.md](../narratives/zerauschek-zadar.md); `media/collections/zerauschek/` + Difesa obit JPEG in `media/docs/`. |
+| [antonio-zerauschek.md](antonio-zerauschek.md) · [antonio-zerauschek-senior.md](antonio-zerauschek-senior.md) | Zara narrative + scans | Line hub [lines/zara-italy-dalmatia.md](../lines/zara-italy-dalmatia.md); [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md); `media/collections/zerauschek/` + Difesa obit JPEG in `media/docs/`. |
 | **[tamar-saginian.md](tamar-saginian.md)** (Tier B) | Priority collateral | Same interview as Anna; court role; relationship to Cormick household. |
 | **[william-cormick.md](william-cormick.md)** (Tier B) | Priority collateral | Wikipedia + corpus if ingested; PDFs under [media/publications/persia-iran/](../media/publications/persia-iran/) (Cormick / Báb / *Medical Times*); tie to royal physician narrative. |
 

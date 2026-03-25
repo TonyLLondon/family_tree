@@ -12,8 +12,8 @@ Kingdom of Italy-era **Zara** — **Antonio Zerauschek** and the Hotel Zerausche
 
 ## Narrative
 
-- [Zara — Zerauschek](../narratives/zerauschek-zadar.md)
-- [Addobbati: Venetian-Dalmatian civic family and the Habsburg postal service](../narratives/addobbati-dalmatian-habsburg.md) — origins in Bergamo, *cittadini* status, postal service under the Habsburgs; Ester Addobbati married Antonio Zerauschek
+- [Zara — Zerauschek](../stories/zerauschek-zadar.md)
+- [Addobbati: Venetian-Dalmatian civic family and the Habsburg postal service](../stories/addobbati-dalmatian-habsburg.md) — origins in Bergamo, *cittadini* status, postal service under the Habsburgs; Ester Addobbati married Antonio Zerauschek
 
 ## Scans
 

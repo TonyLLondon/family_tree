@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "The Spencers and the Evans",
+    "subtitle": "Five generations between Clerkenwell and Islington — costermongers, printers, and the Blitz",
+    "era": "1838 – 1972"
+  },
+  "scrollyStepCount": 9,
+  "steps": [
+    {
+      "era": "1838 – 1881",
+      "media": {
+        "src": "media/context/london-clerkenwell/st-johns-gate-clerkenwell-1880-dixon.jpg",
+        "alt": "St John's Gate, Clerkenwell, photographed by Henry Dixon in 1880 — the medieval gateway to the Priory of St John of Jerusalem",
+        "caption": "St John's Gate, Clerkenwell, 1880. Photograph by Henry Dixon. The gate stood at the heart of the neighbourhood where the Spencer family raised seven children"
+      }
+    },
+    {
+      "era": "1865 – 1904",
+      "media": {
+        "src": "media/docs/St Thomas Charterhouse marriage register 1865 pages 18-19 Norman French Spencer Evans.jpg",
+        "alt": "Parish register from St Thomas Charterhouse, Finsbury, showing marriage entries from 1865 — the year Edward Spencer married Eliza Thomas",
+        "caption": "St Thomas Charterhouse marriage register, 1865 — the year Edward Spencer married Eliza Thomas. The church was demolished in 1909"
+      }
+    },
+    {
+      "era": "1864 – 1929",
+      "media": {
+        "src": "media/docs/Louisa Spencer Birth.jpg",
+        "alt": "Ancestry record showing the birth and christening of Louisa Spencer at Saint Thomas Charterhouse, Finsbury, 1871",
+        "caption": "Louisa Spencer's christening record — baptised 16 July 1871 at Saint Thomas Charterhouse, Finsbury. Her future husband's family, the Fensoms, were raising children in Islington a mile to the north"
+      }
+    },
+    {
+      "era": "c. 1862 – 1891",
+      "media": {
+        "src": "media/docs/William Evans doing Louisa Spencer.jpg",
+        "alt": "Marriage register from St Olave, Islington, and St John, Clerkenwell, showing entries from 1891 — including William Evans and Louisa Spencer, married 26 July",
+        "caption": "William Evans and Louisa Spencer — married 26 July 1891. William's origins remain unknown; Evans is overwhelmingly a Welsh surname"
+      }
+    },
+    {
+      "era": "1893 – 1939",
+      "media": {
+        "src": "media/context/london-clerkenwell/costermonger-street-life-london-1877-thomson.jpg",
+        "alt": "A London costermonger with his barrow, photographed by John Thomson for Street Life in London, 1877",
+        "caption": "A London costermonger, 1877. Photograph by John Thomson. Alfred Evans was listed as a Costermonger in the 1939 Register — a street seller from a barrow, one of the oldest London trades"
+      }
+    },
+    {
+      "era": "1858 – 1940",
+      "media": {
+        "src": "media/docs/Alfred Evans.jpg",
+        "alt": "Portrait of Alfred Edward William Evans — born Holborn 1893, christened at Holy Redeemer Exmouth Market, costermonger",
+        "caption": "Alfred Edward William Evans — born 2 February 1893, christened at Holy Redeemer, Exmouth Market. He married Annie Fensom on Christmas Day 1912"
+      }
+    },
+    {
+      "era": "1940 – 1945",
+      "media": {
+        "src": "media/context/london-clerkenwell/london-blitz-bomb-damage-1940.jpg",
+        "alt": "Bomb damage in London during the Blitz, 1940 — Holborn suffered the highest rate of damage per capita in the country",
+        "caption": "London Blitz, 1940. Joseph Evans was born on 28 August 1940 — ten days before the bombing began. Holborn suffered the highest bomb damage per capita in the entire country"
+      }
+    },
+    {
+      "era": "1945 – 1982",
+      "media": {
+        "src": "media/context/london-clerkenwell/ossulston-walker-house.jpg",
+        "alt": "Walker House, Ossulston Estate, Somers Town — the Grade II listed council estate where the next generation of the Evans family settled",
+        "caption": "Walker House, Ossulston Estate, Somers Town. Built 1929–37 by the LCC to replace slums. Helia Cerpa-Pérez settled here after exile from Chile"
+      }
+    },
+    {
+      "era": "1865 – present",
+      "media": {
+        "src": "media/docs/Alfred Evans 2.jpg",
+        "alt": "Second portrait of Alfred Edward William Evans — the costermonger whose family spanned five generations in the same few London streets",
+        "caption": "Alfred Edward William Evans. From Clerkenwell to Islington to Camden, the family moved barely two miles in five generations"
+      }
+    }
+  ]
+}

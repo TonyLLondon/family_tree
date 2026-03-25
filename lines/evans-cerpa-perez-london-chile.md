@@ -6,7 +6,7 @@ title: Evans · Cerpa Pérez — London & Chile
 
 **Scope:** The **London Evans** line from Holborn and Islington (via [Alfred Edward William Evans](../people/alfred-edward-william-evans.md) and his son [Joseph Evans (1940)](../people/joseph-evans-i18.md)) and the **Chilean Maule** ancestry of [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) — the union (**F9**, 1982) that brings the Americas into the same structured tree as the Welsh Lewis branch. **Master topology:** [family-tree.json](../family-tree.json). **Sibling hub (Wales, Baltic, Ireland):** [Lewis · Stump · Europe](lewis-wales-stump-europe.md).
 
-This page is the **working hub** for registers, civil records, and family media that are still thin compared with the Persia and Dalmatia corpora; it names the key JSON anchors so research can accumulate in one place. **Narrative:** [The Spencers and the Evans: Five Generations Between Clerkenwell and Islington](../narratives/evans-islington-clerkenwell.md).
+This page is the **working hub** for registers, civil records, and family media that are still thin compared with the Persia and Dalmatia corpora; it names the key JSON anchors so research can accumulate in one place. **Narrative:** [The Spencers and the Evans: Five Generations Between Clerkenwell and Islington](../stories/evans-islington-clerkenwell.md).
 
 ---
 

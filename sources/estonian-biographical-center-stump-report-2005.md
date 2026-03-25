@@ -25,8 +25,8 @@ Commissioned **English** research report (**1 September 2005**, researcher **Fre
 ## Line hub / narrative
 
 - [lines/persia.md](../lines/persia.md) — Baltic parent generation + evidence map
-- [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) — §4 Baltic context (includes Tehran generation)
-- [narratives/stump-thurgau-tallinn-baltic-line.md](../narratives/stump-thurgau-tallinn-baltic-line.md) — **Europe-only:** Thurgau patriline, Tallinn career, Erbe line (no Iran dentistry essay)
+- [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — §4 Baltic context (includes Tehran generation)
+- [stories/stump-thurgau-tallinn-baltic-line.md](../stories/stump-thurgau-tallinn-baltic-line.md) — **Europe-only:** Thurgau patriline, Tallinn career, Erbe line (no Iran dentistry essay)
 
 ## Corpus slug
 

@@ -13,4 +13,5 @@ Cross-cutting places, institutions, and themes — linked from [lines/persia.md]
 | [nypl-burgess-papers-archive.md](nypl-burgess-papers-archive.md) | NYPL MSS 431; Edward, Anna, Fanny |
 | [zadar-interwar-hotels.md](zadar-interwar-hotels.md) | Antonio Zerauschek; Zara 1930s; Hotel Zerauschek |
 | [opaque-media-imports.md](opaque-media-imports.md) | `media/imports/opaque/` — hash-named files awaiting identification |
-| [../narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md) | Addobbati family; Venetian-Dalmatian *cittadini*; Habsburg postal service; DAZD archive |
+| [order-golden-spur.md](order-golden-spur.md) | Papal Order of the Golden Spur (Milizia Aurata); Addobbati 1786 diploma; sub-collation |
+| [../stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md) | Addobbati family; Venetian-Dalmatian *cittadini*; Habsburg postal service; DAZD archive |

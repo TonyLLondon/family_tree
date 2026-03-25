@@ -18,4 +18,4 @@ State engineering and military-industrial modernization in late Qajar Tehran —
 
 ## Narrative
 
-- [Saginian → Burgess → Bottin → Stump](../narratives/saginian-burgess-bottin-stump.md) — §3
+- [Saginian → Burgess → Bottin → Stump](../stories/saginian-burgess-bottin-stump.md) — §3

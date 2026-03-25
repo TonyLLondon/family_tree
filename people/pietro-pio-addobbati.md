@@ -45,7 +45,7 @@ The Addobbati, despite their civic standing, defied the gentry convention of not
 
 ## Context
 
-- **Narrative:** [Addobbati: Venetian-Dalmatian civic family and the Habsburg postal service](../narratives/addobbati-dalmatian-habsburg.md) — family origins in Bergamo, *cittadini* status in Zara, postal hierarchy under the Habsburgs.
+- **Narrative:** [Addobbati: Venetian-Dalmatian civic family and the Habsburg postal service](../stories/addobbati-dalmatian-habsburg.md) — family origins in Bergamo, *cittadini* status in Zara, postal hierarchy under the Habsburgs.
 - **Nin nobility list (1817):** Granić (2014) register scan — canonical PDF [media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf](../media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf) · [corpus extract + bundle](../sources/corpus/granic-2014-popis-plemenica-nina/) — use when checking **Addobbati** (and allied Zara families) against the published **Nin** noble census.
 - **Archive:** DAZD HR-DAZD-342 *Obitelj Addobbati* (1732–1930) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/)
 - **Notarial records:** Angelo Daniele Addobbati (notary 1806–1831) → [corpus/dazd-notaries-zadar/](../sources/corpus/dazd-notaries-zadar/)

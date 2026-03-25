@@ -73,7 +73,7 @@ export function splitMarkdownSections(content: string): {
 // ── Sidecar reader ───────────────────────────────────────────────────────────
 
 export function readScrollySidecar(slug: string): ScrollySidecar | null {
-  const p = repoPath("narratives", `${slug}.scrolly.json`);
+  const p = repoPath("stories", `${slug}.scrolly.json`);
   if (!fs.existsSync(p)) return null;
   return JSON.parse(fs.readFileSync(p, "utf8")) as ScrollySidecar;
 }

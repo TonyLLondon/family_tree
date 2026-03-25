@@ -45,7 +45,7 @@ Use Tamar’s branch when explaining **why two independent source types** (NYPL 
 
 ## Related narrative
 
-- [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) — Tamar / Cormick subset
+- [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — Tamar / Cormick subset
 
 ## Open questions
 

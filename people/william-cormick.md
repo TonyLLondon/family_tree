@@ -54,7 +54,7 @@ Anna Saginian’s 1880 interview (NYPL appendix) confirms the Cormick family’s
 
 ## Related narrative
 
-- [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) — Tamar / Cormick subset
+- [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — Tamar / Cormick subset
 
 ## Open questions
 

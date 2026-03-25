@@ -5,13 +5,14 @@ import { usePathname } from "next/navigation";
 import { useCallback, useEffect, useId, useState } from "react";
 
 const links = [
-  { href: "/chart", label: "Ancestor chart" },
+  { href: "/chart", label: "Family tree" },
+  { href: "/stories", label: "Stories" },
   { href: "/map", label: "Map" },
-  { href: "/narratives", label: "Narratives" },
   { href: "/people", label: "People" },
+  { href: "/chart/lineages", label: "Bloodlines" },
+  { href: "/topics", label: "Topics" },
   { href: "/lines", label: "Lines" },
   { href: "/sources", label: "Sources" },
-  { href: "/topics", label: "Topics" },
 ] as const;
 
 function MenuIcon({ open }: { open: boolean }) {

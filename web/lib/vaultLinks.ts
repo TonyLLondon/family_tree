@@ -65,7 +65,7 @@ export function resolveVaultHref(currentFileRelPosix: string, raw: string): stri
   const people = mdRoute("people/", "/people");
   if (people) return people;
 
-  const nar = mdRoute("narratives/", "/narratives");
+  const nar = mdRoute("stories/", "/stories");
   if (nar) return nar;
 
   const lines = mdRoute("lines/", "/lines");

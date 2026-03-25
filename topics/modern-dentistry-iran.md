@@ -14,4 +14,4 @@ Introduction of European-trained dentists and training of Iranian practitioners 
 
 ## Narrative
 
-- [Saginian → Burgess → Bottin → Stump](../narratives/saginian-burgess-bottin-stump.md) — §4
+- [Saginian → Burgess → Bottin → Stump](../stories/saginian-burgess-bottin-stump.md) — §4

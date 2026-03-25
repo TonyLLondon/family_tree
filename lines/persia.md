@@ -1,6 +1,6 @@
 # Saginian → Burgess → Bottin → Stump
 
-Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite intermediary roles across **Qajar military → princely administration & royal medicine → War Ministry industrial modernization → professional medicine in the Pahlavi transition**. This file is the **canonical genealogical hub**: prose outline, **[family-tree.json](../family-tree.json)** (single master tree for the web app), one Mermaid sketch for Markdown previews, and tables. Long-form chronology: [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md). **Topics:** [topics/index.md](../topics/index.md). **Vault map:** [index.md](../index.md).
+Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite intermediary roles across **Qajar military → princely administration & royal medicine → War Ministry industrial modernization → professional medicine in the Pahlavi transition**. This file is the **canonical genealogical hub**: prose outline, **[family-tree.json](../family-tree.json)** (single master tree for the web app), one Mermaid sketch for Markdown previews, and tables. Long-form chronology: [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md). **Topics:** [topics/index.md](../topics/index.md). **Vault map:** [index.md](../index.md).
 
 ---
 
@@ -11,7 +11,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
 | **Nested outline** | Full detail: vitals, institutions, sources — the narrative layer of the tree. |
 | **[family-tree.json](../family-tree.json)** | **Only authoritative structured tree** for the web UI: `people`, `unions` (partners + children + optional `marriageDate`), and `graph.nodes` / `graph.edges` (`kind`: `person` \| `union`, `spouse` \| `descent`). Edit this file to change the tree; [scripts/validate_family_tree_json.py](../scripts/validate_family_tree_json.py) checks schema and references. |
 | **Mermaid block below** | **Persia-line sketch only** (not the full DB); same names as the research outline. |
-| **(est.)** | Approximate or inferred in research notes — see person file and [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md). |
+| **(est.)** | Approximate or inferred in research notes — see person file and [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md). |
 
 ---
 
@@ -24,7 +24,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Identity:** Armenian; **head of the Isfahan army** under the Qajars.
   - **Court–military nexus:** Served under **Fath-Ali Shah** and his sons; commanded troops under **Sayf ol-Dowleh**; **1834 Isfahan conflict** — Sayf ol-Dowleh divided his army; one division led by David (Daoud) Saginian (Sayf ol-Dowleh page); Armenian military literature: “Davit Khan Saginian… head of the Isfahan army.”
   - **Issue:** [Anna Saginian](../people/anna-saginian.md), [Tamar Saginian](../people/tamar-saginian.md).
-  - **Sources:** [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md), [obrien-roche-notes.md](../sources/obrien-roche-notes.md); narrative [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) (opening / Daoud Khan block).
+  - **Sources:** [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md), [obrien-roche-notes.md](../sources/obrien-roche-notes.md); narrative [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) (opening / Daoud Khan block).
 
 ### Generation 2 — Court, translation, and royal medicine
 
@@ -33,7 +33,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Edward:** British; **1810–1855**; merchant, translator, official in Persia; arrived **1831** (never left); by **1844** magistrate near **Tabriz**, translator for **Prince Bahman Mirza**; later royal/intellectual circles under Qajar princes; **d. 1855** en route **Tehran ↔ Tabriz**; left **infant** [Fanny](../people/fanny-burgess.md).
   - **Institutional threads:** Princely administration & translation; British commercial-official presence in Qajar Iran.
   - **Sources:** [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md), [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md), [obrien-roche-notes.md](../sources/obrien-roche-notes.md).
-  - **Narrative:** [The Most All-Loved Person — Edward Burgess in Qajar Persia](../narratives/edward-burgess-persia.md) — full life arc (scrollytelling).
+  - **Narrative:** [The Most All-Loved Person — Edward Burgess in Qajar Persia](../stories/edward-burgess-persia.md) — full life arc (scrollytelling).
 
 - **[Tamar Saginian](../people/tamar-saginian.md)** — **m.** **[Dr. William Cormick](../people/william-cormick.md)** *(parallel Saginian–court line, same network as Anna)*
   - **Tamar:** Sister of Anna; vitals **unknown** in vault; **not** a separate “main trunk” from Anna in narrative terms — same **Saginian family network**, different court channel.
@@ -54,10 +54,10 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Henriette:** **c. 1880s** (estimated from parents); death **unknown** in vault; daughter of Fanny + Julien.
   - **Étienne:** **Swiss** dentist (often misprinted Austrian/German in sources); **1880–1951** (Tehran Protestant Cemetery); Iran practice **c. 1904–1951** per Persian scholarship; among **first modern dentists**; Iranica text says **Stump (Austrian)** — vault uses **Swiss**; overlaps **late Qajar collapse** and **Reza Shah Pahlavi** rise; **Mustawfi** memoir, **Mahmoudieh** house — [mustawfi-mahmoudieh-stump.md](../sources/mustawfi-mahmoudieh-stump.md).
   - **Correction (canonical):** Fanny did **not** marry Stump; line is **Fanny → Julien → Henriette → Étienne**.
-  - **Sources:** [iranica-dentistry.md](../sources/iranica-dentistry.md), [mustawfi-mahmoudieh-stump.md](../sources/mustawfi-mahmoudieh-stump.md), [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) (Baltic parents: [Marc Francois Stump](../people/marc-francois-stump.md), [Olga Caroline Erbe](../people/olga-caroline-erbe.md)), [narratives/stump-thurgau-tallinn-baltic-line.md](../narratives/stump-thurgau-tallinn-baltic-line.md) (Europe-only Thurgau → Tallinn essay), [archive/index.md](../archive/index.md).
-  - **Narrative:** [From Reval to Tehran — Étienne Stump](../narratives/etienne-stump-reval-to-tehran.md) — full life arc (scrollytelling).
+  - **Sources:** [iranica-dentistry.md](../sources/iranica-dentistry.md), [mustawfi-mahmoudieh-stump.md](../sources/mustawfi-mahmoudieh-stump.md), [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) (Baltic parents: [Marc Francois Stump](../people/marc-francois-stump.md), [Olga Caroline Erbe](../people/olga-caroline-erbe.md)), [stories/stump-thurgau-tallinn-baltic-line.md](../stories/stump-thurgau-tallinn-baltic-line.md) (Europe-only Thurgau → Tallinn essay), [archive/index.md](../archive/index.md).
+  - **Narrative:** [From Reval to Tehran — Étienne Stump](../stories/etienne-stump-reval-to-tehran.md) — full life arc (scrollytelling).
 
-- **[Marc Francois Stump](../people/marc-francois-stump.md)** — Étienne’s father; **Tallinn** *Oberlehrer* of **French** (from **1868**); **Tartu** exams **1865**; d. **3 Apr 1903** **Yverdon** per **Tallinn Dome** register digest ([EBC 2005](../sources/estonian-biographical-center-stump-report-2005.md)); long-form **Europe** context [stump-thurgau-tallinn-baltic-line.md](../narratives/stump-thurgau-tallinn-baltic-line.md).
+- **[Marc Francois Stump](../people/marc-francois-stump.md)** — Étienne’s father; **Tallinn** *Oberlehrer* of **French** (from **1868**); **Tartu** exams **1865**; d. **3 Apr 1903** **Yverdon** per **Tallinn Dome** register digest ([EBC 2005](../sources/estonian-biographical-center-stump-report-2005.md)); long-form **Europe** context [stump-thurgau-tallinn-baltic-line.md](../stories/stump-thurgau-tallinn-baltic-line.md).
 - **[Olga Caroline Erbe](../people/olga-caroline-erbe.md)** — Étienne’s mother; **St. Petersburg** **1844**; m. **22 Jun 1868** Tallinn; d. **15 Oct 1894** Tallinn (same report).
 
 ---
@@ -215,7 +215,7 @@ family_tree/
 │   ├── zara-italy-dalmatia.md    ← Zara — Addobbati + Zerauschek + source register
 │   └── lewis-wales-stump-europe.md ← Lewis (Wales) + Stump/Erbe (Europe) + Ireland cluster
 ├── people/                  ← one markdown file per person
-├── narratives/              ← multi-generation essays
+├── stories/              ← multi-generation essays
 ├── topics/                  ← places, institutions, themes ([topics/index.md](../topics/index.md))
 ├── media/                   ← albums, collections, docs inbox, publications/, charts/, military/, images/
 ├── archive/                 ← legacy GEDCOM snapshots, Gramps/RootsMagic ([archive/index.md](../archive/index.md))

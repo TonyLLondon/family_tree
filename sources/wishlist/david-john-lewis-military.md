@@ -1,6 +1,6 @@
 # David John Lewis — military sources wishlist
 
-Person: [David John Lewis](../../people/david-john-lewis.md) · Narrative: [Sicily to the Po, and the U.S. Silver Star](../../narratives/david-john-lewis-italy-1945-silver-star.md)
+Person: [David John Lewis](../../people/david-john-lewis.md) · Narrative: [Sicily to the Po, and the U.S. Silver Star](../../stories/david-john-lewis-italy-1945-silver-star.md)
 
 **Known:** Army number **143587**. Commission 23 Aug 1940. MiD 23 May 1946. Silver Star gazetted 18 Jul 1947. Relinquished commission 31 Oct 1953 (hon. rank of Major). All four London Gazette pages captured as screenshots in `media/military/`.
 

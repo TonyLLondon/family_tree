@@ -15,7 +15,7 @@ Father of [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md) in **F2
 
 ## Life
 
-- **1511** — Born (GEDCOM year only).
+- **1511** — *D. Joanes Aloysius creato notajo* — created notary. Listed in the 1745 Bergamo genealogical testimonial (Sabalich p. 503).
 
 ## Family
 
@@ -25,7 +25,4 @@ Father of [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md) in **F2
 ## Evidence
 
 - GEDCOM **`@I37@`**, **F22** / **F23**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW1S-H7M**.
-
-## Open questions
-
-- **Aloysious** vs **Aloysius** in Latin registers.
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Joanes Aloysius creato notajo (1511)" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).

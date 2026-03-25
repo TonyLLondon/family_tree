@@ -15,7 +15,7 @@ Father of [D. Ivanes Baptista Addobbati](d-ivanes-baptista-addobbati.md) in **F2
 
 ## Life
 
-- **1610** — Born (GEDCOM year only).
+- **1610** — *D. Iacobus notajo, creato cittadino* — notary, created citizen. Listed in the 1745 Bergamo genealogical testimonial (Sabalich p. 503).
 
 ## Family
 
@@ -25,7 +25,4 @@ Father of [D. Ivanes Baptista Addobbati](d-ivanes-baptista-addobbati.md) in **F2
 ## Evidence
 
 - GEDCOM **`@I35@`**, **F20** / **F21**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW1S-G8N**.
-
-## Open questions
-
-- **Addobbati** godparent networks in **Zara** **18th c.** militia lists.
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Iacobus notajo, creato cittadino (1610)" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).

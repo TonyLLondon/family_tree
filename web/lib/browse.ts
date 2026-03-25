@@ -89,7 +89,7 @@ export function readTopicCard(slug: string): { title: string; blurb: string } {
   return { title: h1 ?? titleFromSlug(slug), blurb: extractBlurb(parsed.content) };
 }
 
-export function readNarrativeOrLineCard(dir: "narratives" | "lines", slug: string): { title: string; blurb: string } {
+export function readStoryOrLineCard(dir: "stories" | "lines", slug: string): { title: string; blurb: string } {
   const abs = repoPath(dir, `${slug}.md`);
   if (!fs.existsSync(abs)) return { title: titleFromSlug(slug), blurb: "" };
   const parsed = readMd(abs);

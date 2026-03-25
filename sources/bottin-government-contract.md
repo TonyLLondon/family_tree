@@ -14,7 +14,7 @@ French contract between the **Ministry of War of Persia** and **Julien Bottin**.
 | What | Where |
 |------|--------|
 | **Machine extract (full PDF text)** | [corpus/bottin-contract/extracted.pdf.md](corpus/bottin-contract/extracted.pdf.md) — pymupdf4llm from the PDF; **OCR is noisy** (garbled letters, merged words). Use for search / rough structure; cite the **PDF** for exact French. |
-| **Human transcription + English** | [corpus/bottin-contract/transcription-translation.en.md](corpus/bottin-contract/transcription-translation.en.md) — lives **in the corpus bundle** with `source.yaml`. Short summaries also on **this card** (below), [julien-bottin.md](../people/julien-bottin.md), and [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) §3. |
+| **Human transcription + English** | [corpus/bottin-contract/transcription-translation.en.md](corpus/bottin-contract/transcription-translation.en.md) — lives **in the corpus bundle** with `source.yaml`. Short summaries also on **this card** (below), [julien-bottin.md](../people/julien-bottin.md), and [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) §3. |
 
 ## Summary (English — main clauses)
 
@@ -29,7 +29,7 @@ French contract between the **Ministry of War of Persia** and **Julien Bottin**.
 
 ## Related narrative
 
-- [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) — Bottin contract section
+- [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — Bottin contract section
 
 ## Topic
 

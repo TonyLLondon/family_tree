@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "The Hotel on Široka Ulica",
+    "subtitle": "Antonio Zerauschek — trader, banker, factory owner in Italian Zara",
+    "era": "1920s – 1973"
+  },
+  "scrollyStepCount": 7,
+  "steps": [
+    {
+      "era": "Interwar Zara",
+      "media": {
+        "src": "media/images/portraits/antonio-zerauschek-ester-addobbati.jpg",
+        "alt": "Antonio Zerauschek and Ester Addobbati",
+        "caption": "Antonio Zerauschek and Ester Addobbati — the Italian-speaking elite of interwar Zara",
+        "focal": [0.3, 0.3]
+      }
+    },
+    {
+      "era": "1936 – 1938",
+      "media": {
+        "src": "media/docs/Luxardo Maraschino Zara Dalmatia vintage postcard aerial city.jpg",
+        "alt": "Vintage Luxardo Maraschino postcard showing an aerial view of Zara's harbour and rooftops — the Italian Adriatic enclave",
+        "caption": "Zara from the air — the Luxardo distillery on the harbour front, Široka ulica running through the centre. Zerauschek built his hotel on the main street"
+      }
+    },
+    {
+      "era": "1928 – 1940s",
+      "media": {
+        "src": "media/docs/Difesa Adriatica 1973 Antonio Zerauschek obituary Zara Florence.jpeg",
+        "alt": "Difesa Adriatica obituary for Antonio Zerauschek, 1973",
+        "caption": "Calypso cigarettes — the Manifattura Zaratina Sigarette, acquired from Peristeridis in 1928",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "1929 – 1940s",
+      "media": {
+        "src": "media/docs/Adolfobati family portrait nine Ottilie Piero Vittoria Pietro Ester Nonna caption.jpeg",
+        "alt": "The Addobbati family: Ottilie and Piero seated, with Vittoria, Pietro, Ester, Beatrice, Noemi, Elsa, and Irma — the civic dynasty behind the Ausonia factory and the Zerauschek partnership",
+        "caption": "The Addobbati family — Ester (centre, standing) married Antonio Zerauschek, connecting two of Zara's main investment families",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "1930s – 1940s",
+      "media": {
+        "src": "media/docs/Collage Pieretto Mime Field Marshal Simeone Adelshali handwritten family notes.jpeg",
+        "alt": "Collage of family photographs and handwritten notes — the Zerauschek and Addobbati network in Zara",
+        "caption": "Ford, Firestone, Telefunken, Esso — 'he was keen on new things and no sooner was invented, than he had to have it'",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "1945",
+      "media": {
+        "src": "media/images/portraits/adolobati-family-group-handwritten-names-italian-caption.jpg",
+        "alt": "Addobbati family group portrait with handwritten Italian caption — the civic families of Zara",
+        "caption": "The communist trial — not a single worker would testify against him. Some were beaten. They still refused",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "1943 – 1973",
+      "media": {
+        "src": "media/docs/Grave slab Florence Ester Addobbati Zerauschek Antonio Giuliana Zerauschek Rivolta.png",
+        "alt": "Grave slab in Florence for Ester Addobbati Zerauschek, Antonio Zerauschek, and Giuliana Zerauschek Rivolta",
+        "caption": "Florence — exile, confiscation, and the end of two factories. Antonio died in 1973, aged 84"
+      }
+    }
+  ]
+}

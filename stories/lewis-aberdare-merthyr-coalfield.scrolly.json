@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "From the Coalface to the Surface",
+    "subtitle": "Three generations of miners in the Glamorgan valleys",
+    "era": "1860s – 1945"
+  },
+  "scrollyStepCount": 4,
+  "steps": [
+    {
+      "era": "1860s – 1880s",
+      "media": {
+        "src": "media/images/portraits/david-john-lewis-1857-catherine-griffiths-family-c1888.png",
+        "alt": "David John Lewis (b. 1857) and Catherine Griffiths with two young children, studio portrait c. 1888",
+        "caption": "David John Lewis and Catherine Griffiths — married at Merthyr, 1884. He had served in the South Wales Borderers before returning to the pits",
+        "focal": [0.5, 0.25]
+      }
+    },
+    {
+      "era": "1884 – 1925",
+      "media": {
+        "src": "media/images/portraits/samuel-lewis-young-man-c1910.png",
+        "alt": "Samuel Lewis as a young man, c. 1910 — studio portrait, seated, wearing a suit with a checked tie",
+        "caption": "Samuel Lewis, c. 1910 — age twenty-three, already below ground at Aberdare. Coal miner, son of a coal miner",
+        "focal": [0.5, 0.2]
+      }
+    },
+    {
+      "era": "1911",
+      "media": {
+        "src": "media/docs/1911 census 41 Glen Road Aberdare David J Lewis household schedule 79.jpg",
+        "alt": "1911 census return showing Catherine Lewis's fertility columns: 12 children born, 7 died",
+        "caption": "The 1911 return — twelve births, seven deaths, a mother's signed count"
+      }
+    },
+    {
+      "era": "1917 – 1945",
+      "media": {
+        "src": "media/images/portraits/samuel-lewis-lily-cushen-c1917.png",
+        "alt": "Samuel Lewis and Elizabeth Lilian Cushen, c. 1917 — formal portrait, she standing in a white blouse, he seated in a dark suit",
+        "caption": "Samuel and Lily Cushen — married 1917 at Merthyr. He left the coalface for the Scottish Legal Life Assurance Society and never went underground again",
+        "focal": [0.5, 0.2]
+      }
+    }
+  ]
+}

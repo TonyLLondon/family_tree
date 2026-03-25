@@ -37,7 +37,7 @@ Brother of [Olga Caroline Erbe](olga-caroline-erbe.md) and the best-documented *
 - Wife (GEDCOM / BBLD): **Maria Agnes Elisabeth** / **Marie** **Erbe** née **von Landesen**.
 - Son (no vault page yet): **Eugen Karl Eberhard Erbe** (1897–1965) — **[BBLD GND1213595010](https://bbld.de/GND1213595010)** (lawyer, **Baltenregiment**, later **Heidelberg**); see [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md).
 
-**Europe-only context:** [Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line](../narratives/stump-thurgau-tallinn-baltic-line.md) §4.
+**Europe-only context:** [Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line](../stories/stump-thurgau-tallinn-baltic-line.md) §4.
 
 ## Evidence
 

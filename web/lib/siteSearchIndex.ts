@@ -3,7 +3,7 @@ import {
   getCorpusSlugs,
   getLineSlugs,
   getManualSegmentLists,
-  getNarrativeSlugs,
+  getStorySlugs,
   getPeopleSlugs,
   getResearchSegmentLists,
   getSourceSegmentLists,
@@ -11,7 +11,7 @@ import {
 } from "@/lib/content";
 import {
   readCorpusCard,
-  readNarrativeOrLineCard,
+  readStoryOrLineCard,
   readResearchOrManualCard,
   readSourceCardTitle,
   readTopicCard,
@@ -24,7 +24,7 @@ const CATEGORY_ORDER = [
   "Home",
   "Chart",
   "Person",
-  "Narrative",
+  "Story",
   "Line",
   "Topic",
   "Source",
@@ -70,19 +70,19 @@ export function getSiteSearchItems(): BrowseItem[] {
     });
   }
 
-  for (const slug of getNarrativeSlugs()) {
-    const { title, blurb } = readNarrativeOrLineCard("narratives", slug);
+  for (const slug of getStorySlugs()) {
+    const { title, blurb } = readStoryOrLineCard("stories", slug);
     items.push({
-      id: `narrative:${slug}`,
+      id: `story:${slug}`,
       title,
       subtitle: blurb || undefined,
-      href: `/narratives/${encodeURIComponent(slug)}`,
-      meta: "Narrative",
+      href: `/stories/${encodeURIComponent(slug)}`,
+      meta: "Story",
     });
   }
 
   for (const slug of getLineSlugs()) {
-    const { title, blurb } = readNarrativeOrLineCard("lines", slug);
+    const { title, blurb } = readStoryOrLineCard("lines", slug);
     items.push({
       id: `line:${slug}`,
       title,

@@ -3,7 +3,7 @@ import { SiteNav } from "@/components/SiteNav";
 
 const links = [
   { href: "/chart", label: "Ancestor chart", desc: "7-generation fan chart" },
-  { href: "/narratives", label: "Narratives", desc: "Long-form family essays" },
+  { href: "/stories", label: "Stories", desc: "Long-form family essays" },
   { href: "/people", label: "People", desc: "Biographical pages" },
   { href: "/sources", label: "Sources", desc: "Citation cards & corpus" },
 ];

@@ -5,11 +5,11 @@
 | [lines/persia.md](lines/persia.md) | Persia-line hub: outline, Mermaid sketch, registers, source table |
 | [family-tree.json](family-tree.json) | **Canonical** structured tree — schema 2; vault + JSON master, GEDCOM gap-fill optional (`scripts/sync_family_tree_json.py`) |
 | [people/](people/) | One Markdown article per person · **[ancestor roster](people/ancestor-coverage-list.md)** · **[extension plan](people/person-pages-extension-plan.md)** (Tamar/Cormick, siblings, phases) |
-| [narratives/](narratives/) | Multi-generation essays |
+| [stories/](stories/) | Multi-generation essays |
 | [topics/](topics/index.md) | Places, institutions, cross-cutting themes |
 | [sources/](sources/) | Citation cards · [sources/corpus/](sources/corpus/) · [sources/corpus-bibliography.md](sources/corpus-bibliography.md) (all `corpus/<slug>/`) |
 | [manual/](manual/README.md) | Inbox: read, then file into `people/`, corpus, or `media/` |
-| [research/](research/README.md) | Working memos — drain into `people/`, `narratives/`, `sources/` |
+| [research/](research/README.md) | Working memos — drain into `people/`, `stories/`, `sources/` |
 | [media/](media/) | Evidence files — see **Media layout** below |
 | [archive/](archive/index.md) | Legacy GEDCOM snapshots, Gramps/RootsMagic, **[sun-chart PDFs/PPTX](archive/sun-charts/)**, text notes, personal files |
 | [scripts/](scripts/) | [validate_family_tree_json.py](scripts/validate_family_tree_json.py), [ingest_source.py](scripts/ingest_source.py) |
@@ -31,6 +31,6 @@
 | [media/imports/opaque/](media/imports/opaque/) | Unlabeled or hash-named imports — [topics/opaque-media-imports.md](topics/opaque-media-imports.md) |
 | [media/loose-root/](media/loose-root/) | Empty inbox (`.gitkeep`) for future unclassified drops |
 
-**Other lines:** Zara (Italian Dalmatia — Addobbati, Zerauschek, interwar) — [lines/zara-italy-dalmatia.md](lines/zara-italy-dalmatia.md) · [people/antonio-zerauschek.md](people/antonio-zerauschek.md) · [narratives/zerauschek-zadar.md](narratives/zerauschek-zadar.md) · [narratives/addobbati-dalmatian-habsburg.md](narratives/addobbati-dalmatian-habsburg.md). **Lewis + Stump (Wales / Europe / Ireland)** — [lines/lewis-wales-stump-europe.md](lines/lewis-wales-stump-europe.md) · [narratives/lewis-aberdare-merthyr-coalfield.md](narratives/lewis-aberdare-merthyr-coalfield.md) · [narratives/david-john-lewis-italy-1945-silver-star.md](narratives/david-john-lewis-italy-1945-silver-star.md) · [narratives/stump-thurgau-tallinn-baltic-line.md](narratives/stump-thurgau-tallinn-baltic-line.md).
+**Other lines:** Zara (Italian Dalmatia — Addobbati, Zerauschek, interwar) — [lines/zara-italy-dalmatia.md](lines/zara-italy-dalmatia.md) · [people/antonio-zerauschek.md](people/antonio-zerauschek.md) · [stories/zerauschek-zadar.md](stories/zerauschek-zadar.md) · [stories/addobbati-dalmatian-habsburg.md](stories/addobbati-dalmatian-habsburg.md). **Lewis + Stump (Wales / Europe / Ireland)** — [lines/lewis-wales-stump-europe.md](lines/lewis-wales-stump-europe.md) · [stories/lewis-aberdare-merthyr-coalfield.md](stories/lewis-aberdare-merthyr-coalfield.md) · [stories/david-john-lewis-italy-1945-silver-star.md](stories/david-john-lewis-italy-1945-silver-star.md) · [stories/stump-thurgau-tallinn-baltic-line.md](stories/stump-thurgau-tallinn-baltic-line.md).
 
-**Line hubs:** [lines/persia.md](lines/persia.md) · [lines/zara-italy-dalmatia.md](lines/zara-italy-dalmatia.md) · [lines/lewis-wales-stump-europe.md](lines/lewis-wales-stump-europe.md). Persia long-form chronology: [narratives/saginian-burgess-bottin-stump.md](narratives/saginian-burgess-bottin-stump.md).
+**Line hubs:** [lines/persia.md](lines/persia.md) · [lines/zara-italy-dalmatia.md](lines/zara-italy-dalmatia.md) · [lines/lewis-wales-stump-europe.md](lines/lewis-wales-stump-europe.md). Persia long-form chronology: [stories/saginian-burgess-bottin-stump.md](stories/saginian-burgess-bottin-stump.md).

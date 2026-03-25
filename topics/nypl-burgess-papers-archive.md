@@ -20,4 +20,4 @@ New York Public Library manuscript group anchoring **Edward Burgess**, **Anna Sa
 
 ## Narrative
 
-- [Saginian → Burgess → Bottin → Stump](../narratives/saginian-burgess-bottin-stump.md)
+- [Saginian → Burgess → Bottin → Stump](../stories/saginian-burgess-bottin-stump.md)

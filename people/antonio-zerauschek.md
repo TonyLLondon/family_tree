@@ -38,11 +38,11 @@ The **Ausonia** chocolate and cocoa factory stood in **Voštarnica** (Ceraria), 
 
 ### Built works (interwar)
 
-He demolished an older building on **Široka ulica** and commissioned a modern hotel/café complex (**1937–1938**), architect **Umberto Nordio** (Trieste) — [narratives/zerauschek-zadar.md](../narratives/zerauschek-zadar.md). **Hotel Bristol → Excelsior** (~1936): takeover and rename per Adriatic press/hospitality histories linked there.
+He demolished an older building on **Široka ulica** and commissioned a modern hotel/café complex (**1937–1938**), architect **Umberto Nordio** (Trieste) — [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md). **Hotel Bristol → Excelsior** (~1936): takeover and rename per Adriatic press/hospitality histories linked there.
 
 ### Villa Ester, Sirmione (Lake Garda)
 
-Before the war, Antonio acquired the **Villa Giannantoni** on the tip of the Sirmione peninsula — Via Caio Valerio Catullo 7, overlooking the Grotte di Catullo — and renamed it **Villa Ester** after his wife. The family used it as their Lake Garda retreat; a [photograph of Fulvia on the loggia](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png) survives from this period. In the immediate post-war years, after the family's exile from Zara, Antonio sold the villa to **Angelo Marinoni** (electric-oven manufacturer, Verona). Marinoni in turn sold it in **December 1957** to **Comm. Giovanni Battista Meneghini**, who gave it to his wife **Maria Callas** — it became the famous **Villa Callas**. **Source:** *Incom* reportage by Savino Mariani, 10 May 1958 · [corpus](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/). **Narrative:** [Villa Ester — from the Zerauscheks to Maria Callas](../narratives/zerauschek-villa-callas-sirmione.md).
+Before the war, Antonio acquired the **Villa Giannantoni** on the tip of the Sirmione peninsula — Via Caio Valerio Catullo 7, overlooking the Grotte di Catullo — and renamed it **Villa Ester** after his wife. The family used it as their Lake Garda retreat; a [photograph of Fulvia on the loggia](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png) survives from this period. In the immediate post-war years, after the family's exile from Zara, Antonio sold the villa to **Angelo Marinoni** (electric-oven manufacturer, Verona). Marinoni in turn sold it in **December 1957** to **Comm. Giovanni Battista Meneghini**, who gave it to his wife **Maria Callas** — it became the famous **Villa Callas**. **Source:** *Incom* reportage by Savino Mariani, 10 May 1958 · [corpus](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/). **Narrative:** [Villa Ester — from the Zerauscheks to Maria Callas](../stories/zerauschek-villa-callas-sirmione.md).
 
 ### After WWII
 
@@ -58,12 +58,12 @@ Zara passed to Yugoslavia; Italian-speaking business families **emigrated**. The
 ## Evidence
 
 - Line hub: [Zara (Italian Dalmatia) — sources register](../lines/zara-italy-dalmatia.md).
-- [Zara — Zerauschek research essay](../narratives/zerauschek-zadar.md).
+- [Zara — Zerauschek research essay](../stories/zerauschek-zadar.md).
 - *Difesa Adriatica* (1973) — obituary (**„Un altro amico ci ha lasciato"**, **ANTONIO ZERAUSCHEK**): [Italian transcript](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/transcription-antonio-zerauschek-obituary-1973.it.md), [English translation](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md), [corpus folder](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/) · [JPEG scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg).
 - Manifattura Zaratina Sigarette history: [sigaretteitaliane.org — Zara 1920–43](../sources/sigaretteitaliane-zara-1920-43.md) · [corpus](../sources/corpus/sigaretteitaliane-zara-1920-43/).
 - Calypso cigarette pack (c. 1940): [zigsam.at](../sources/zigsam-at-calypso-cigarette-packs.md) · [corpus](../sources/corpus/zigsam-at-calypso-cigarette-packs/).
 - Ausonia chocolate factory: [Zadarski tjednik (2024)](../sources/zadarskitjednik-ausonia-tvornica-cokolade.md) · [corpus](../sources/corpus/zadarskitjednik-ausonia-tvornica-cokolade/). [Poslovni dnevnik (2011)](../sources/poslovni-hr-2011-ausonia-zadar-zerauschek.md) · [corpus](../sources/corpus/poslovni-hr-2011-ausonia-zadar-zerauschek/).
-- Villa Ester / Villa Callas narrative: [Villa Ester — from the Zerauscheks to Maria Callas](../narratives/zerauschek-villa-callas-sirmione.md) · *Incom* 1958: [source card](../sources/gbopera-2009-telefoni-e-rose-sirmione-callas.md) · [corpus](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/).
+- Villa Ester / Villa Callas narrative: [Villa Ester — from the Zerauscheks to Maria Callas](../stories/zerauschek-villa-callas-sirmione.md) · *Incom* 1958: [source card](../sources/gbopera-2009-telefoni-e-rose-sirmione-callas.md) · [corpus](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/).
 - [Fulvia at Villa Ester (photo)](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png).
 - [Grave slab — Florence / Zerauschek / Addobbati (photo)](../media/docs/Grave%20slab%20Florence%20Ester%20Addobbati%20Zerauschek%20Antonio%20Giuliana%20Zerauschek%20Rivolta.png).
 - Parish / civil scans: [media/collections/zerauschek/](../media/collections/zerauschek/).

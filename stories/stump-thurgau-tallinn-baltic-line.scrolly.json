@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "From Thurgau to Tallinn",
+    "subtitle": "A Swiss French teacher in the Baltic provinces of the Russian Empire",
+    "era": "1674 – 1910"
+  },
+  "scrollyStepCount": 4,
+  "steps": [
+    {
+      "era": "17th – 19th century",
+      "media": {
+        "src": "media/docs/Etienne - Damaged vintage portrait man mustache bow tie suit album page.jpg",
+        "alt": "Damaged vintage portrait from a family album — a young Stump man with bow tie and suit, creased and faded",
+        "caption": "The Stumpf patriline — Reformed parishes in Sulgen, Erlen, and Buchackern, northeastern Thurgau",
+        "focal": [0.5, 0.35]
+      }
+    },
+    {
+      "era": "1834 – 1903",
+      "media": {
+        "src": "media/images/portraits/etienne-stump-henriette-bottin-burgess-family.jpg",
+        "alt": "Étienne Stump and Henriette Bottin Burgess with family",
+        "caption": "Marc François Stump — Oberlehrer of French, Tallinn gymnasium",
+        "focal": [0.45, 0.2]
+      }
+    },
+    {
+      "era": "1844 – 1894",
+      "media": {
+        "src": "media/docs/Henriette Stump passport signalement born Tehran 1886 photos pages 4-5.jpg",
+        "alt": "Henriette Stump's passport — signalement page with personal photographs, born Tehran 1886, signed in her hand",
+        "caption": "Olga Caroline Erbe — born St. Petersburg, married in Tallinn, connecting the Baltic German civic world to a Swiss teacher's household",
+        "focal": [0.55, 0.3]
+      }
+    },
+    {
+      "era": "1874 – 1910",
+      "media": {
+        "src": "media/images/portraits/robert-stump-molly-white.jpg",
+        "alt": "Stump family descendants",
+        "caption": "Five children in the Tallinn Dome — and one who left for Tehran",
+        "focal": [0.5, 0.2]
+      }
+    }
+  ]
+}

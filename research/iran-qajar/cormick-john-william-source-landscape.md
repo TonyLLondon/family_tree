@@ -1,6 +1,6 @@
 # John & William Cormick — source landscape (research memo)
 
-**Status:** Working synthesis — digest into [william-cormick](../../people/william-cormick.md), [narratives/saginian-burgess-bottin-stump.md](../../narratives/saginian-burgess-bottin-stump.md), or `sources/` when stable.
+**Status:** Working synthesis — digest into [william-cormick](../../people/william-cormick.md), [stories/saginian-burgess-bottin-stump.md](../../stories/saginian-burgess-bottin-stump.md), or `sources/` when stable.
 
 **Canonical PDF:** [media/publications/persia-iran/cormick-john-william-research-executive-summary.pdf](../../media/publications/persia-iran/cormick-john-william-research-executive-summary.pdf) · **corpus:** [extracted.pdf.md](../../sources/corpus/cormick-john-william-research-executive-summary/extracted.pdf.md) · [source card](../../sources/cormick-john-william-research-executive-summary.md)
 

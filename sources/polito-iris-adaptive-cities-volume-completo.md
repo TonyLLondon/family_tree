@@ -6,4 +6,4 @@
 
 ## Use in this research
 
-Zara / adaptive cities volume cited from [narratives/zerauschek-zadar.md](../narratives/zerauschek-zadar.md).
+Zara / adaptive cities volume cited from [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md).

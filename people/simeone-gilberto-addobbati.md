@@ -44,7 +44,7 @@ Habsburg **k.k.** officer (German records: **Simeon Addobbati**). Brother of [Pi
 - **Further URLs (HAZU, KA leaflets, etc.):** [simeone-addobbati-digital-references.md](../sources/simeone-addobbati-digital-references.md).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — Teresianum, death at the ball, Lisette's death during 1943 exodus.
 - [family-tree.json](../family-tree.json).
-- Context: [narratives/addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md).
+- Context: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 
 ## Open questions
 

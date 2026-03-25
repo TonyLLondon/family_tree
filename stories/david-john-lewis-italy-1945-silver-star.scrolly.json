@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "title": "The Po Bridgehead",
+    "subtitle": "Major David Lewis, 1st Welch Regiment — 25 April 1945",
+    "era": "Second World War — Italy"
+  },
+  "scrollyStepCount": 9,
+  "steps": [
+    {
+      "era": "1939 – 1940",
+      "media": {
+        "src": "media/images/portraits/nonna-and-nonno.jpg",
+        "alt": "Fulvia and David Lewis at home in later years",
+        "caption": "David John Lewis — university student, twenty-one, commissioned into the Welch Regiment on 23 August 1940",
+        "focal": [0.55, 0.3]
+      }
+    },
+    {
+      "era": "July 1943",
+      "media": {
+        "src": "media/context/italy-wwii/british-troops-pachino-sicily-1943-iwm.jpg",
+        "alt": "British troops advance through Pachino during the Allied invasion of Sicily, 10 July 1943. IWM NA 4411",
+        "caption": "Sicily, July 1943 — the 1st Welch joined the 168th Brigade for the invasion. Photograph: IWM NA 4411"
+      }
+    },
+    {
+      "era": "January 1944",
+      "media": {
+        "src": "media/docs/david-john-lewis-war/letters/Army-Dj160843-01.jpg",
+        "alt": "Wartime letter from Lieut. D.J. Lewis, 1 Welch R., Central Mediterranean Force, 16 August 1943",
+        "caption": "Lewis's own letter from the Italian front — 'If anything should happen to me you can still claim the money'",
+        "focal": [0.7, 0.05]
+      }
+    },
+    {
+      "era": "February – March 1944",
+      "media": {
+        "src": "media/context/italy-wwii/anzio-beachhead-radio-operator-1944-iwm.jpg",
+        "alt": "Wireless operator Bombardier S. Williams in a shallow dugout at Anzio, 1944. IWM NA 12374",
+        "caption": "Anzio — the 168th Brigade suffered fifty per cent casualties in six weeks in the flat, waterlogged beachhead. Photograph: IWM NA 12374"
+      }
+    },
+    {
+      "era": "August – September 1944",
+      "media": {
+        "src": "media/context/italy-wwii/gothic-line-aa-gun-bombarding-1944-iwm.jpg",
+        "alt": "A 3.7-inch AA gun bombarding enemy positions on the Gothic Line, 2 September 1944. IWM NA 18197",
+        "caption": "The Gothic Line — the 56th Division took nearly half of Eighth Army's Operation Olive casualties. Photograph: IWM NA 18197"
+      }
+    },
+    {
+      "era": "Winter 1944 – 45",
+      "media": {
+        "src": "media/context/italy-wwii/po-crossing-searchlight-mirror-1945-iwm.jpg",
+        "alt": "Royal Artillery searchlight crew cleaning the mirror on the south bank of the Po, the pontoon bridge reflected in the glass, 30 April 1945. IWM TR 2854",
+        "caption": "The 1st Welch was rebuilt from cadre and attached to the 6th Armoured Division for the spring offensive. Photograph: IWM TR 2854"
+      }
+    },
+    {
+      "era": "April 1945",
+      "media": {
+        "src": "media/context/italy-wwii/po-river-pontoon-bridge-ferrara-1945-iwm.jpg",
+        "alt": "Pontoon Bailey bridge across the River Po near Ferrara, with the wrecked original bridge behind, 30 April 1945. IWM TR 2845",
+        "caption": "The Po bridgehead — Lewis's 1st Welch crossed the river under fire on 25 April 1945. Photograph: IWM TR 2845"
+      }
+    },
+    {
+      "era": "25 April 1945",
+      "media": {
+        "src": "media/docs/david-john-lewis-war/medals/DJL-Medals-003.jpg",
+        "alt": "The United States Silver Star medal — gold five-pointed star on red, white and blue ribbon, on dark green cloth",
+        "caption": "'Major Lewis led a platoon to assault the strong German positions … and by his personal efforts and example successfully overran the enemy'"
+      }
+    },
+    {
+      "era": "May 1945",
+      "media": {
+        "src": "media/docs/david-lewis-military-portrait.png",
+        "alt": "David Lewis with campaign medals beside the Royal Welsh regimental goat and uniformed handler",
+        "caption": "Major David Lewis — Sicily to Austria, the full length of the Italian peninsula",
+        "focal": [0.6, 0.15]
+      }
+    }
+  ]
+}

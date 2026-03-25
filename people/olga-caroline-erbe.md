@@ -25,7 +25,7 @@ children:
 
 Olga sits at the **collision point** between two very different nineteenth-century worlds in this tree: a **Baltic–German administrative and clerical milieu** on her father's side (Estonian and Livonian towns, German-language church registers, careers tied to cathedral chapters and Tsarist-era Baltic provinces) and a **Swiss Protestant artisan-to-professional line** through her husband [Marc Francois Stump](marc-francois-stump.md), who moved from **French teaching in Tallinn** to a **death recorded at Yverdon** in **1903** per the **Tallinn Dome** parish register digest in the [Estonian Biographical Center report (2005)](../sources/estonian-biographical-center-stump-report-2005.md)—not the simpler "died in Tallinn" line some GEDCOM exports carry.
 
-**Europe-only narrative:** [Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line](../narratives/stump-thurgau-tallinn-baltic-line.md) — §4 (Erbe–Eylandt).
+**Europe-only narrative:** [Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line](../stories/stump-thurgau-tallinn-baltic-line.md) — §4 (Erbe–Eylandt).
 
 That double anchor—**St. Petersburg birth**, **Tallinn death**, **Tallinn marriage in 1868** to a Swiss-born husband—is exactly what makes her useful for research discipline: every dramatic junction (imperial capital, Baltic port, Swiss canton) should eventually carry **one parish or civil image per claim**, not just merged online trees.
 

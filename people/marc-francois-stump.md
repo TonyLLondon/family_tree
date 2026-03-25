@@ -27,7 +27,7 @@ children:
 
 Swiss-born **Stump** patriline ancestor of [Étienne Stump](etienne-stump.md) (GEDCOM **F70**); therefore **great-grandfather** of [Robert Marc Murard Stump](robert-marc-murard-stump.md). The Findmypast GEDCOM uses the given names **Markus Franz**; this vault keeps the filename **`marc-francois-stump.md`** to match [ancestor-coverage-list.md](ancestor-coverage-list.md) (`@I140@` row).
 
-**Europe-only narrative (Thurgau → Tallinn, Erbe line):** [Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line](../narratives/stump-thurgau-tallinn-baltic-line.md).
+**Europe-only narrative (Thurgau → Tallinn, Erbe line):** [Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line](../stories/stump-thurgau-tallinn-baltic-line.md).
 
 His wife [Olga Caroline Erbe](olga-caroline-erbe.md) brings a **Baltic German** pedigree—**St. Petersburg** birth, **Tallinn** death, parents [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) and [Emilie Ida Eylandt](emilie-ida-eylandt.md) with deep **Reval / Riga / Rakvere / Gotha** documentation in the merged Geni blocks. That is why Étienne can be **Tallinn-born** and still end up a **Tehran court dentist**: the family had already practiced **long-distance imperial mobility** before the Swiss–Iran thread ever started.
 

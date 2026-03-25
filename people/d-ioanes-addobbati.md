@@ -16,22 +16,22 @@ GEDCOM **`@I32@`** uses **NPFX Captain** ("**Captain**"); **F17** lists **HUSB @
 ## Life
 
 - **1676** — Born (GEDCOM year only; Bergamo or Venetian Terraferma).
-- Father of **Daniele, Lorenzo, and Giuseppe Addobbati** — the three brothers who crossed the Adriatic and were admitted to the Zara council of citizens on **13 November 1733**.
-- **Captain** — GEDCOM prefix likely reflects Venetian Armata cavalry service, consistent with the brothers arriving as Venetian cavalry officers.
+- **Capitano dei corrazieri** — captain of cuirassiers (Sabalich p. 503). This resolves the GEDCOM prefix "Captain" to a specific heavy-cavalry command in the Venetian military.
+- Father of three sons who crossed the Adriatic: **D. Daniele** (1702), **D. Laurentius** (1705), **D. Iosephus** (1709). All three transferred to Zara and were admitted to the *cittadini originari* (Sabalich p. 503).
 
 ## Family
 
 - Father: [D. Daniel Addobbati](d-daniel-addobbati.md) (**F18**).
-- Children include [D. Daniele Addobbati](d-daniele-addobbati.md) per **F17**; also **Lorenzo** and **Giuseppe** (not in GEDCOM).
+- Children: [D. Daniele Addobbati](d-daniele-addobbati.md) (1702, per **F17**); **D. Laurentius** (1705, not in GEDCOM); **D. Iosephus** (1709, not in GEDCOM).
 
 ## Evidence
 
 - GEDCOM **`@I32@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F17** / **F18**; FamilySearch **GW1S-43Z**.
 - [family-tree.json](../family-tree.json).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Ioanes (1676) capitano dei corrazieri il quale ebbe tre figli: D. Daniele (1702), D. Laurentius (1705), D. Iosephus (1709) e questi tre si trasferirono a Zara" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
 - **DAZD family fonds (HR-DAZD-342):** 1745 Bergamo testimonial names Giovanni (Ivan) as father of the three brothers in the 1733 admission — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
-- Narrative: [addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md).
+- Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 
 ## Open questions
 
-- **Naval or cavalry service** — whether **Captain** reflects Venetian *Armata da Mar* or cavalry (*Fanti* / *Cavalleria*) command.
 - **Spouse** — not in GEDCOM **F17**; may appear in Bergamo parish records.

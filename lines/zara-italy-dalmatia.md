@@ -20,9 +20,9 @@
 
 | Essay | Role |
 |--------|------|
-| [Zara — Antonio Zerauschek (interwar)](../narratives/zerauschek-zadar.md) | Hotels, cafés, obituary context |
-| [Villa Ester — from the Zerauscheks to Maria Callas](../narratives/zerauschek-villa-callas-sirmione.md) | Sirmione villa: ownership chain to Meneghini/Callas |
-| [Addobbati: Venetian-Dalmatian civic family](../narratives/addobbati-dalmatian-habsburg.md) | *Cittadini*, Nin, DAZD, postal/protest context |
+| [Zara — Antonio Zerauschek (interwar)](../stories/zerauschek-zadar.md) | Hotels, cafés, obituary context |
+| [Villa Ester — from the Zerauscheks to Maria Callas](../stories/zerauschek-villa-callas-sirmione.md) | Sirmione villa: ownership chain to Meneghini/Callas |
+| [Addobbati: Venetian-Dalmatian civic family](../stories/addobbati-dalmatian-habsburg.md) | *Cittadini*, Nin, DAZD, postal/protest context |
 
 ## Topics
 
@@ -76,6 +76,7 @@
 
 | Topic | Citation card | Corpus bundle |
 |--------|----------------|---------------|
+| Sabalich — *Guida archeologica di Zara* (1897), pp. 503–509 (Addobbati) | [sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) | [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/) |
 | Addobbati family fonds (DAZD) | [dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) | [dazd-addobbati-family-fonds](../sources/corpus/dazd-addobbati-family-fonds/) |
 | Zara notaries (Angelo Daniele Addobbati register) | [dazd-notaries-zadar.md](../sources/dazd-notaries-zadar.md) | [dazd-notaries-zadar](../sources/corpus/dazd-notaries-zadar/) |
 | Petricioli family (DAZD) | [dazd-hr-dazd-497-petricioli-family.md](../sources/dazd-hr-dazd-497-petricioli-family.md) | [dazd-hr-dazd-497-petricioli-family](../sources/corpus/dazd-hr-dazd-497-petricioli-family/) |

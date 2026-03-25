@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "title": "From Bergamo to Zara",
+    "subtitle": "A Venetian civic dynasty across five centuries and four regimes",
+    "era": "1495 – 1930"
+  },
+  "scrollyStepCount": 6,
+  "steps": [
+    {
+      "era": "1495 – 1733",
+      "media": {
+        "src": "media/images/portraits/adolobati-family-group-handwritten-names-italian-caption.jpg",
+        "alt": "Addobbati family group portrait with handwritten Italian caption identifying members",
+        "caption": "The Addobbati family — Venetian cavalry officers turned Dalmatian citizens",
+        "focal": [0.5, 0.3]
+      }
+    },
+    {
+      "era": "Venetian Republic",
+      "media": {
+        "src": "media/images/portraits/vittoria-carobbi.jpg",
+        "alt": "Vittoria Carobbi portrait",
+        "caption": "The cittadini originari — hereditary civic class of the Venetian empire"
+      }
+    },
+    {
+      "era": "1769 – 1817",
+      "media": {
+        "src": "media/images/portraits/pietro-addobbati-golden-spur-1769.jpg",
+        "alt": "Portrait of Dr. Pietro Addobbati (1769–1832), Knight of the Papal Order of the Golden Spur",
+        "caption": "Dr. Pietro Addobbati — Knight of the Golden Spur, lawyer, noble of Nin",
+        "focal": [0.5, 0.25]
+      }
+    },
+    {
+      "era": "1806 – 1813",
+      "media": {
+        "src": "media/images/portraits/simeone-boara.jpg",
+        "alt": "Portrait of Simeone Boara, member of the intermarried Zara civic network",
+        "caption": "Simeone Boara — the civic families endured across Venetian, French, and Austrian rule"
+      }
+    },
+    {
+      "era": "Habsburg Dalmatia",
+      "media": {
+        "src": "media/docs/addobbati-simeone-gilberto/kriegsarchiv-qualifikation-page-2-career-awards.png",
+        "alt": "Grave monument of Generale Simeone Gilberto Addobbati (d. 20 June 1926) — stone slab with crossed-swords military insignia and flowers",
+        "caption": "Generale Simeone Gilberto Addobbati — Habsburg Feldmarschalleutnant, married Elisabetta Luxardo in 1885"
+      }
+    },
+    {
+      "era": "1890 – 1930s",
+      "media": {
+        "src": "media/images/portraits/antonio-zerauschek-ester-addobbati.jpg",
+        "alt": "Antonio Zerauschek and Ester Addobbati",
+        "caption": "Ester Addobbati and Antonio Zerauschek — the line continues into interwar Zara",
+        "focal": [0.3, 0.3]
+      }
+    }
+  ]
+}

@@ -37,10 +37,12 @@ Father of [Pietro Paolo Addobbati](pietro-paolo-addobbati.md) with [(Domenica) V
 
 - GEDCOM **`@I29@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F14** / **F15**.
 - [family-tree.json](../family-tree.json).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 508:** "Vincenzo Addobbati q m Luigi (nato 1776)" — confirms parentage and birth year — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Sabalich p. 505:** named in the 1804 Nin diploma: "D.r Petri et Joanes Vincentis fratres Addobbati q m Aloysium" — i.e. brothers Pietro and Giovanni Vincenzo, sons of the late Luigi.
 - **Granić 1817 Nin list:** names Ivan Vicko Addobbati (son of Lujo) among the 1804 Nin admissions and records his sons Petar and Josip in the 1817 generation — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) → [corpus/granic-nin-noble-list-1817/](../sources/corpus/granic-nin-noble-list-1817/).
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — 1 July 1804 Nin municipal confirmation "to brothers Pietro and Vincenzo Addobbati and their successors" — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Celić 1806 census:** "Vicko Addobbati" listed in Zara citizen council — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
-- Narrative: [addobbati-dalmatian-habsburg.md](../narratives/addobbati-dalmatian-habsburg.md).
+- Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 
 ## Open questions
 

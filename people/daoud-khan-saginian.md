@@ -80,7 +80,7 @@ Both passages are in *Narrative of a Mission to Bokhara* (1845), Chapter XXVI. T
 
 ## Related narrative
 
-- [narratives/saginian-burgess-bottin-stump.md](../narratives/saginian-burgess-bottin-stump.md) — section 1
+- [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — section 1
 
 ## Topics
 

@@ -54,7 +54,7 @@ Standalone **Emilie** biographies (Wikipedia, Wikidata) were **not** located in 
 
 | Source | URL | Notes |
 |--------|-----|--------|
-| **Vault narrative + EBC** | [narratives/stump-thurgau-tallinn-baltic-line.md](../narratives/stump-thurgau-tallinn-baltic-line.md) §4 · [estonian-biographical-center-stump-report-2005.md](estonian-biographical-center-stump-report-2005.md) | **St. Petersburg** birth and **1868** Tallinn marriage to **Marc François Stump** come from **GEDCOM + EBC**; not yet matched to a **BBLD** or **Wikipedia** article. |
+| **Vault narrative + EBC** | [stories/stump-thurgau-tallinn-baltic-line.md](../stories/stump-thurgau-tallinn-baltic-line.md) §4 · [estonian-biographical-center-stump-report-2005.md](estonian-biographical-center-stump-report-2005.md) | **St. Petersburg** birth and **1868** Tallinn marriage to **Marc François Stump** come from **GEDCOM + EBC**; not yet matched to a **BBLD** or **Wikipedia** article. |
 | **Open web (Mar 2026)** | — | Targeted searches did **not** surface a dedicated biography or newspaper corpus page for **“Olga Caroline Erbe”** / Stump under that string; treat **EBC**, parish books, and future **RA.EE** / **DIGAR** hits as the path forward. |
 
 **Sibling anchor (proves Erbe–Eylandt household in Reval):** [Eugen Edmund Erbe](../people/eugen-edmund-erbe.md) — tertiary bios: [English Wikipedia](https://en.wikipedia.org/wiki/Eugen_Edmund_Eduard_Erbe), [Estonian](https://et.wikipedia.org/wiki/Eugen_Erbe_(s%C3%BCndik)), [BBLD](https://bbld.de/GND1173663347), [Wikidata Q12362430](https://www.wikidata.org/wiki/Q12362430), [Commons category](https://commons.wikimedia.org/wiki/Category:Eugen_Edmund_Erbe).

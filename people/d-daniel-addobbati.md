@@ -15,7 +15,7 @@ Father of [D. Ioanes Addobbati](d-ioanes-addobbati.md) in **F18** (**HUSB @I33@*
 
 ## Life
 
-- **1651** — Born (GEDCOM year only).
+- **1651** — Born (GEDCOM year only). Listed in the 1745 Bergamo genealogical testimonial as "D. Daniel (1651)" (Sabalich p. 503).
 
 ## Family
 
@@ -26,6 +26,7 @@ Father of [D. Ioanes Addobbati](d-ioanes-addobbati.md) in **F18** (**HUSB @I33@*
 
 - GEDCOM **`@I33@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F18**; FamilySearch **GW5D-Y6X**.
 - [family-tree.json](../family-tree.json).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Daniel (1651)" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
 
 ## Open questions
 

@@ -21,7 +21,7 @@ Son of [William Evans (London)](william-evans-i289.md) and [Louisa Spencer](loui
 
 By the **1939 Register** (29 Sep 1939; TNA ref RG101/0291F/005, schedule 61), Alfred and Annie were living together in Islington. His listed occupation was **Costermonger** — a street seller of fruit and vegetables from a barrow, one of the oldest London working-class trades. Annie was recorded as a **Printers Maker**, a worker manufacturing components for the printing industry that Clerkenwell had housed since the nineteenth century.
 
-**Narrative:** [The Spencers and the Evans: Five Generations Between Clerkenwell and Islington](../narratives/evans-islington-clerkenwell.md).
+**Narrative:** [The Spencers and the Evans: Five Generations Between Clerkenwell and Islington](../stories/evans-islington-clerkenwell.md).
 
 ## Evidence
 

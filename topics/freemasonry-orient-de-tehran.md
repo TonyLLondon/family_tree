@@ -12,4 +12,4 @@ Tehran lodge context for **Julien Bottin** and Levantine fraternal networks.
 
 ## Narrative
 
-- [Saginian → Burgess → Bottin → Stump](../narratives/saginian-burgess-bottin-stump.md) — §3
+- [Saginian → Burgess → Bottin → Stump](../stories/saginian-burgess-bottin-stump.md) — §3

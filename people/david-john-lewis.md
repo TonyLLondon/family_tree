@@ -47,7 +47,7 @@ Asked by his son Ivor what he had done to earn the Silver Star, David replied: *
 - **1939** — Voluntary enlistment, No. 5675133, **Somerset Light Infantry**.
 - **23 Aug 1940** — **Emergency commission** as **2nd Lieutenant**, Welch Regiment (army number **143587**). London Gazette Supplement 34928 (20 Aug 1940), p. 5145.
 - **1942** — **Western Desert Campaign**.
-- **Second World War — Italy** — **Major**, **1st Battalion, The Welch Regiment**. Full narrative: [David John Lewis — Sicily to the Po, and the U.S. Silver Star](../narratives/david-john-lewis-italy-1945-silver-star.md).
+- **Second World War — Italy** — **Major**, **1st Battalion, The Welch Regiment**. Full narrative: [David John Lewis — Sicily to the Po, and the U.S. Silver Star](../stories/david-john-lewis-italy-1945-silver-star.md).
   - **May 1943** — 1st Welch joined **168th (2nd London) Brigade**, attached to **50th Northumbrian Division**.
   - **Jul 1943** — **Sicily** (Operation Husky): Allied invasion. Lewis later recalled being pinned down by enemy guns on the beach near **Avola**, when Admiral Sir William Davies' light cruiser **HMS *Mauritius*** bombarded the shore — *"Probably saved my life."*
   - **Oct 1943** — 168th Brigade returned to **56th (London) Division** on the Italian mainland.
@@ -255,7 +255,7 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **Officer file (WO 373):** U.S. awards to Commonwealth officers are documented in this TNA series; would contain the recommendation chain for the Silver Star.
 - **NARA GO No. 285:** Full general orders volume from HQ U.S. Army Forces, Mediterranean Theater, 10 November 1945.
 - **Promotion dates:** The specific dates of promotion to Captain and to Major are not yet found in the Gazette. The war diary (WO 169 / WO 172) or officer file would confirm when he reached each rank.
-- See also [narrative](../narratives/david-john-lewis-italy-1945-silver-star.md) Documents and media section.
+- See also [narrative](../stories/david-john-lewis-italy-1945-silver-star.md) Documents and media section.
 - **Keep Britain Tidy — full 1978 article text:** The Cambridge University Press abstract page is captured but the full text is paywalled. See [wishlist](../sources/wishlist/david-john-lewis-kbt.md).
 - **Keep Britain Tidy — annual reports (1970s–80s):** Would name the Director-General and document the organisation's activities under Lewis's leadership. The **LSE Brunner Papers (BRUNNER/4)** hold KBT annual reports 1961/62–1978, including 1970/71–1975 and 1977–1978. Requesting copies or visiting The Women's Library at LSE would confirm Lewis's name and tenure dates in print.
 - **London Gazette — civil honours:** If Lewis received an OBE or CBE for environmental service, it would appear in the New Year Honours or Birthday Honours lists (1970s–80s). Not yet searched systematically.

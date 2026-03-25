@@ -22,7 +22,7 @@ export default function TopicsHubPage() {
   return (
     <PageShell
       title="Topics"
-      subtitle="Places, institutions, and cross-cutting themes — each page links people, sources, and narratives."
+      subtitle="Places, institutions, and cross-cutting themes — each page links people, sources, and stories."
     >
       <BrowseGrid items={items} searchPlaceholder="Search topics…" />
       <p className="mt-10 border-t border-zinc-100 pt-6 text-sm text-zinc-500">

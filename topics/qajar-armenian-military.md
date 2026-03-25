@@ -14,4 +14,4 @@ Elite Armenian command under the Qajars — institutional frame for **Daoud Khan
 
 ## Narrative
 
-- [Saginian → Burgess → Bottin → Stump](../narratives/saginian-burgess-bottin-stump.md) — §1
+- [Saginian → Burgess → Bottin → Stump](../stories/saginian-burgess-bottin-stump.md) — §1

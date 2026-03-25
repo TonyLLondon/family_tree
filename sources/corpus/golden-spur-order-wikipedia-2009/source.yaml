@@ -1,0 +1,12 @@
+id: golden-spur-order-wikipedia-2009
+title: Ordine della Milizia Aurata o dello Speron d'Oro — Wikipedia compilation (2009)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-25T20:09:19Z'
+  sha256: c90f10387b36e25e5a12dea1fafb020048e2362a61f4a92485145cc09b017405
+  bytes: 1075674
+  media_reference: media/docs/Speron d'Oro-091209.doc.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/Speron d'Oro-091209.doc.pdf

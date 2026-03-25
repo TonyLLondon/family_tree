@@ -23,7 +23,7 @@ children:
 
 **Samuel Lewis's father** (**@I173@**), distinct from his grandson [David John Lewis](david-john-lewis.md) (**@I8@**, b. **1918**).
 
-**Line narrative:** [Lewis in Aberdare and Merthyr — coalfield labour and child mortality](../narratives/lewis-aberdare-merthyr-coalfield.md) — Gelligaer childhood, South Wales Borderers **1082**, Aberdare mining household to **1925**. The GEDCOM bundles civil birth index, parish baptism, decade runs of **1871–1911** census household extracts, **South Wales Borderers** service (**1082**, **1884**), and an **England & Wales** death index pointer (**May 1925**, Merthyr).
+**Line narrative:** [Lewis in Aberdare and Merthyr — coalfield labour and child mortality](../stories/lewis-aberdare-merthyr-coalfield.md) — Gelligaer childhood, South Wales Borderers **1082**, Aberdare mining household to **1925**. The GEDCOM bundles civil birth index, parish baptism, decade runs of **1871–1911** census household extracts, **South Wales Borderers** service (**1082**, **1884**), and an **England & Wales** death index pointer (**May 1925**, Merthyr).
 
 ## Life
 

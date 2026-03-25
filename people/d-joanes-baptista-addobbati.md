@@ -15,7 +15,7 @@ Father of [D. Jacobus Addobbati](d-jacobus-addobbati.md) in **F21** (**HUSB @I36
 
 ## Life
 
-- **1559** — Born (GEDCOM year only).
+- **1559** — *D. Ioanes Baptista creato notajo* — created notary. Listed in the 1745 Bergamo genealogical testimonial (Sabalich p. 503).
 
 ## Family
 
@@ -25,7 +25,4 @@ Father of [D. Jacobus Addobbati](d-jacobus-addobbati.md) in **F21** (**HUSB @I36
 ## Evidence
 
 - GEDCOM **`@I36@`**, **F21** / **F22**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW1S-LT2**.
-
-## Open questions
-
-- **1559** birth vs **Boara** marriage era—confirm not a merged individual.
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Ioanes Baptista creato notajo (1559)" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
