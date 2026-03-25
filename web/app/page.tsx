@@ -79,8 +79,8 @@ export default function HomePage() {
             Lewis · Evans · Zerauschek · Cerpa
           </h1>
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-zinc-600">
-            Seven generations from the South Wales coalfield and London (Spencer → Evans) to Chilean Maule (Cerpa · Pérez),
-            and through Qajar Persia, Habsburg Dalmatia, Swiss Thurgau, and Baltic Tallinn — parish registers, civil BMD,
+            Seven generations from South Wales and London to Chile — through Qajar Persia,
+            Habsburg Dalmatia, and Baltic Tallinn. Pieced together from parish registers,
             military citations, diplomatic letters, and family portraits.
           </p>
           <MasterSearch items={siteSearchItems} />
