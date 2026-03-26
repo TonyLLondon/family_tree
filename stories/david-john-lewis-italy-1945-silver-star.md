@@ -72,6 +72,8 @@ For this action he was awarded the **United States Silver Star** — an Allied d
 
 *Hall of Valor* lists **Service: Foreign** — an Allied (non-U.S.) servicemember. Published at [Hall of Valor — David Lewis](https://valor.militarytimes.com/hero/107821).
 
+Asked years later by his son [Ivor](../people/ivor-anthony-samuel-lewis.md) what he had done to earn it, David replied: ***"The same as everyone else; except someone saw me."***
+
 Lewis was also **mentioned in dispatches** — confirmed in the London Gazette, Supplement 37575, 23 May 1946, page 2466. He appears as **Maj. (temp.) D. J. LEWIS (143587)** under the Welch Regiment heading. The MiD and the Silver Star are separate recognitions: the American decoration was promulgated by U.S. Mediterranean Theater HQ, while the British mention came through the standard Commonwealth dispatches system. Between them they document both the specific Faccenda action and his broader service in the Italian campaign.
 
 **In-repo evidence:** [Major David Lewis Silver Star.pdf](../media/military/Major%20David%20Lewis%20Silver%20Star.pdf) · [extracted.pdf.md](../sources/corpus/major-david-lewis-silver-star-3cb536e3d7/extracted.pdf.md) · corpus [source.yaml](../sources/corpus/major-david-lewis-silver-star-3cb536e3d7/source.yaml).
