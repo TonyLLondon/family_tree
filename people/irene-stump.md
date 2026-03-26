@@ -12,19 +12,15 @@ mother: henriette-bottin
 
 # Irene Stump
 
-Daughter of [Étienne Stump](etienne-stump.md) and [Henriette Bottin](henriette-bottin.md) (union **F6**); sister of [Robert Marc Murard Stump](robert-marc-murard-stump.md). Known in the family as **"Loulou"** per the Henderson [Stump Family Tree chart](../sources/stump-family-tree-chart.md).
-
-## Life
-
-- **1917** — Born (GEDCOM).
+**Loulou** in family speech—**Irene** in the export—was born about **1917**, the **Stump** daughter between war and exile, raised in the perfume of **[Étienne](etienne-stump.md)**’s **Tehran** practice and **[Henriette](henriette-bottin.md)**’s **French** tables. Sister to **[Robert](robert-marc-murard-stump.md)**, **[Theo](theodore-stump.md)**, **[Jacques](jacques-stump.md)**, and **[Jean](jean-stump.md)**.
 
 ## Family
 
-- Parents: [Étienne Stump](etienne-stump.md); [Henriette Bottin](henriette-bottin.md) (**F6**).
+- Parents: [Étienne Stump](etienne-stump.md); [Henriette Bottin](henriette-bottin.md).
 - Siblings: [Robert Marc Murard Stump](robert-marc-murard-stump.md), [Theodore Stump](theodore-stump.md), [Jacques Stump](jacques-stump.md), [Jean Stump](jean-stump.md).
 
 ## Evidence
 
-- GEDCOM **`@I397@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection.
+- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I397@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Child of **F6**.

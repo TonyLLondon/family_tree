@@ -15,17 +15,17 @@ children:
 
 # Henry Lawson, of Nesham Abbey
 
-Husband of [Frances Conyers](frances-conyers.md) in **F200**; father of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) among other **CHIL** entries in **F200**. **FAMC** not filled in the export slice used here—Geni text cites further **Lawson** ascents not yet mirrored to `people/`.
+Henry Lawson, of Nesham Abbey, was the husband of [Frances Conyers](frances-conyers.md) and father of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) among other children named in the same export household. The export slice used here does not fill in his own parents; Geni text cites further Lawson ascents not yet mirrored to `people/`.
 
 ## Family
 
 - Wife: [Frances Conyers](frances-conyers.md).
-- Children include [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) per **F200**.
+- Children include [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md).
 
 ## Evidence
 
-- GEDCOM **`@I529@`**, **F200**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
+- **Export:** MyHeritage **`@I529@`** — union **F200** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
 
 ## Open questions
 
-- **FAMC** for **Henry**—next import pass from GEDCOM **@I529@** block.
+- Parents for Henry—recover on a full pass through his individual block in the GEDCOM.

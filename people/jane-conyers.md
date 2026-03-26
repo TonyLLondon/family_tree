@@ -15,18 +15,18 @@ children:
 
 # Jane Conyers
 
-Wife of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) in **F166**; mother of [Lady Frances Lawson](lady-frances-lawson.md). Birth **1570** **Sockburn**. GEDCOM lists additional **FAMS** (**F195**–**F198**)—likely duplicate unions from imports; this page follows **F166** for the strict ancestor line. **FAMC @F194@**: [John Conyers, of Sockburne](john-conyers.md); [Agnes Bowes](agnes-bowes.md).
+Jane Conyers was the wife of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) and mother of [Lady Frances Lawson](lady-frances-lawson.md). She was born in 1570 at Sockburn, Durham. The export lists several additional spousal-family rows that look like duplicate unions from imports; this page follows the Neesham household shared with [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) for the strict ancestor line. Her parents were [John Conyers, of Sockburne](john-conyers.md) and [Agnes Bowes](agnes-bowes.md).
 
 ## Family
 
 - Husband: [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md).
-- Parents: [John Conyers, of Sockburne](john-conyers.md); [Agnes Bowes](agnes-bowes.md) (**F194**).
-- Children include [Lady Frances Lawson](lady-frances-lawson.md) per **F166**.
+- Parents: [John Conyers, of Sockburne](john-conyers.md); [Agnes Bowes](agnes-bowes.md).
+- Children include [Lady Frances Lawson](lady-frances-lawson.md).
 
 ## Evidence
 
-- GEDCOM **`@I357@`**, **F166** / **F194**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
+- **Export:** MyHeritage **`@I357@`** — unions **F166**, **F194** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
 
 ## Open questions
 
-- Reconcile extra **FAMS** rows; long **NOTE** blocks are secondary scrapes only.
+- Reconcile the extra spousal-family rows in the export; long **NOTE** blocks are secondary scrapes only.

@@ -20,7 +20,7 @@ Mother of [William O'Byrne White](william-obyrne-white.md). She connects the **W
 ## Life
 
 - **1801** — Born **County Wicklow**.
-- **1856** — Died **County Carlow** (GEDCOM year only in the block read).
+- **1856** — Died **County Carlow** (year only in the merged export block used here).
 
 Her husband [Matthew Esmond White](matthew-esmond-white.md) died **1866** in Carlow; William’s **~1844** birth in **Carlow Town** fits the hypothesis that the couple had **settled in Carlow** well before her death.
 
@@ -31,7 +31,9 @@ Her husband [Matthew Esmond White](matthew-esmond-white.md) died **1866** in Car
 
 ## Evidence
 
-- GEDCOM **`@I328@`**, **F157**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+**Export:**
+
+- MyHeritage **`@I328@`** — union **F157** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

@@ -14,16 +14,16 @@ children:
 
 # John Conyers, of Sockburne
 
-Husband of [Agnes Bowes](agnes-bowes.md) in **F194**; father of [Jane Conyers](jane-conyers.md) among several **CHIL** entries. Birth **1550** **Sockburn**; marriage event **1564** **Sockburn** in GEDCOM; death **1610**. **NOTE** field contains long **Geni** / compiled-genealogy text—treat as **secondary** until primary transcripts are filed in `media/`.
+John Conyers, of Sockburne, was the husband of [Agnes Bowes](agnes-bowes.md) and father of [Jane Conyers](jane-conyers.md) among several children named in the export. He was born in 1550 at Sockburn; the export records marriage in 1564 at Sockburn and death in 1610. The **NOTE** field holds long Geni and compiled-genealogy text—treat as secondary until primary transcripts are filed in `media/`.
 
 ## Family
 
 - Wife: [Agnes Bowes](agnes-bowes.md).
-- Children include [Jane Conyers](jane-conyers.md) per **F194**.
+- Children include [Jane Conyers](jane-conyers.md).
 
 ## Evidence
 
-- GEDCOM **`@I477@`**, **F194**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MWT1-QW4**; **Geni** **SOUR** in export.
+- **Export:** MyHeritage **`@I477@`** — union **F194** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MWT1-QW4**; **Geni** **SOUR** in export.
 
 ## Open questions
 

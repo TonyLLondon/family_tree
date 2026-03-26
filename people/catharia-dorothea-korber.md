@@ -11,16 +11,16 @@ children:
 
 # Catharia Dorothea Korber
 
-Wife of [Georg Christian Erbe](georg-christian-erbe.md) in **F150**; mother of [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md). **@I317@** carries **no BIRT**/**DEAT** lines in the export slice—only the **F150** link.
+Catharia Dorothea Korber was the wife of [Georg Christian Erbe](georg-christian-erbe.md) and mother of [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md). The MyHeritage export used here records no birth or death events for her—only her link to that marriage and household.
 
 ## Family
 
 - Husband: [Georg Christian Erbe](georg-christian-erbe.md).
-- Children include [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md) per **F150**.
+- Children include [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md).
 
 ## Evidence
 
-- GEDCOM **`@I317@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F150** only.
+- **Export:** MyHeritage **`@I317@`** — union **F150** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

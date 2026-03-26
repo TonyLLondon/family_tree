@@ -15,13 +15,14 @@ siblings:
 
 # Miguel Cerpa Pérez
 
-Son of [Miguel Cerpa González](miguel-cerpa-gonzalez-i346.md) and [Laurencia Pérez Escobar](laurencia-perez-escobar-i347.md) — birth union **F162** (same as [Helia Cerpa-Pérez](helia-cerpa-perez.md)). Graph label **“Miguel Antonio Cerpa Pérez”** is kept in `also_known_as`. Vitals in the export use Spanish day-month wording; ISO dates here match the GEDCOM strings already normalized in [family-tree.json](../family-tree.json).
+**Miguel Cerpa Pérez**—also recorded as **Miguel Antonio**—was the son of [Laurencia del Carmen Pérez Escobar](laurencia-perez-escobar-i347.md) and [Miguel Luis Cerpa González](miguel-cerpa-gonzalez-i346.md), born **4 March 1948**, died **11 October 2015**. Brother of [Helia del Carmen Cerpa Pérez](helia-cerpa-perez.md).
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I352`**, union **F162**.
-- Research hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- [family-tree.json](../family-tree.json).
+- Hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- **Export:** MyHeritage **`@I352@`** — union **F162** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- Civil images for **1948** birth and **2015** death in the relevant Maule oficina.
+- Civil images for **1948** birth and **2015** death.

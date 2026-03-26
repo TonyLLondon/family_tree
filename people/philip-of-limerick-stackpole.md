@@ -17,22 +17,22 @@ children:
 
 # Philip of Limerick Stackpole
 
-Father of [Anna Stackpole](anna-stackpole.md) with [Christian Jane Creagh](christian-jane-creagh.md) in **F171** (marriage **1688** **Limerick**). Epithet **“of Limerick”** is part of the GEDCOM **GIVN** field.
+Philip “of Limerick” Stackpole was the husband of [Christian Jane Creagh](christian-jane-creagh.md) and father of [Anna Stackpole](anna-stackpole.md); they married in 1688 at Limerick. The epithet *of Limerick* is embedded in the export’s given-name field.
 
 ## Life
 
-- **1644** — Born **Ireland** (GEDCOM).
+- **1644** — Born **Ireland** (export).
 - **4 Dec 1715** — Died **Pery, Limerick, Ireland**.
 
 ## Family
 
 - Wife: [Christian Jane Creagh](christian-jane-creagh.md).
-- Parents: [James Stackpole](james-stackpole.md); [Christian MacMahon](christian-macmahon.md) (**F175**).
-- Children include [Anna Stackpole](anna-stackpole.md) per **F171**.
+- Parents: [James Stackpole](james-stackpole.md); [Christian MacMahon](christian-macmahon.md).
+- Children include [Anna Stackpole](anna-stackpole.md).
 
 ## Evidence
 
-- GEDCOM **`@I365@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F171** / **F175**; FamilySearch **LH1F-53H**.
+- **Export:** MyHeritage **`@I365@`** — unions **F171**, **F175** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LH1F-53H**.
 
 ## Open questions
 

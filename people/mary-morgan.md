@@ -15,24 +15,23 @@ children:
 
 # Mary Morgan
 
-Mother of [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md); wife of [David Cushen](david-cushen.md) (**F88**, **~Feb 1876**, Merthyr Tydfil).
+**Mary Morgan** was born **1854** in **Glamorganshire**, **Wales**. She married [David Cushen](david-cushen.md) about **February 1876** at **Merthyr Tydfil** and was mother of [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md). Parents: [Morgan](morgan.md); [Amelia](amelia.md). The export embeds a civil death index pointer under **@S22@**—use for lookup alongside imaged registers.
 
 ## Life
 
-- **1854** — Born **Glamorganshire, Wales** (GEDCOM).
-- Civil death index citation embedded under **@S22@** in export (volume/page line — use for lookup, not as proof text).
+- **1854** — Born **Glamorganshire**.
 
 ## Family
 
-- Parents: [Morgan](morgan.md); [Amelia](amelia.md) (**F187**).
+- Parents: [Morgan](morgan.md); [Amelia](amelia.md).
 - Husband: [David Cushen](david-cushen.md).
-- Children: [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md) and siblings per **F88** in [family-tree.json](../family-tree.json).
+- Children: [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md); siblings on union in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I176@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I176@`** — union **F88** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Death** date precision from GRO image; father’s forename via **F187** / **Mary**’s birth certificate.
+- GRO death image; father’s forename chain via **Mary**’s birth line.

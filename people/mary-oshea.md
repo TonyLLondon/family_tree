@@ -16,28 +16,25 @@ children:
 
 # Mary O'Shea
 
-Cork-born mother of [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md). **Civil birth certificate copy** and **Irish census** PDFs in `media/docs/` give a strong documentary core for the **O’Shea → White** bridge.
+**Mary** (often **May** in later portraits) was **Cork** coast born—**19 February 1893** at **Monkstown**, daughter of [Cornelius O'Shea](cornelius-oshea.md) and [Catherine Enright](catherine-enright.md). She married [Gerald Sebastian White](gerald-sebastian-white.md), the **Madras** solicitor-registrar, and was mother to [Maureen “Molly” White](maureen-catherine-finbarr-white.md)—the Anglo-Indian girl who would meet the **Tehran-born Stump** in **Essex**. Her line sits on a rare comfort for Irish vault work: **birth certificate copy** and **1901/1911** census forms already in `media/docs/`.
 
-## Life
-
-- **19 Feb 1893** — Born **Monkstown, County Cork, Ireland** (birth cert scan).
-- **Nov 1968** — Died (GEDCOM month/year; day precision from civil index if added later).
+She died **November 1968**; the exact day waits on an index image.
 
 ## Family
 
 - Parents: [Cornelius O'Shea](cornelius-oshea.md); [Catherine Enright](catherine-enright.md).
 - Husband: [Gerald Sebastian White](gerald-sebastian-white.md).
-- Children: [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md) and others per **F8** in [family-tree.json](../family-tree.json).
+- Children: [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md) and others — [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- [Ireland birth certificate (1967 copy) — Mary O’Shea, 19 Feb 1893, Monkstown](../media/docs/Ireland%20birth%20certificate%20Mary%20O%27Shea%201893-02-19%20Monkstown%20parents%20Cornelius%20O%27Shea%20Catherine%20Enright%20copy%201967.jpg).
-- [1911 Ireland census — Monkstown household (Forms A/B)](../media/docs/1911%20Ireland%20census%20Form%20A%20Catherine%20O%27Shea%20household%20Monkstown%20boarders%20Form%20B34.jpg).
-- [1901 Ireland census — Cork, Enright / O’Shea grandchildren context](../media/docs/1901%20Ireland%20census%20Form%20A%20Cork%20Catherine%20Enright%20O%27Shea%20grandchildren%20Form%20B7.jpg).
+- [Ireland birth certificate copy — 19 Feb 1893, Monkstown](../media/docs/Ireland%20birth%20certificate%20Mary%20O%27Shea%201893-02-19%20Monkstown%20parents%20Cornelius%20O%27Shea%20Catherine%20Enright%20copy%201967.jpg).
+- [1911 Ireland census — Monkstown household](../media/docs/1911%20Ireland%20census%20Form%20A%20Catherine%20O%27Shea%20household%20Monkstown%20boarders%20Form%20B34.jpg).
+- [1901 Ireland census — Cork Enright/O’Shea context](../media/docs/1901%20Ireland%20census%20Form%20A%20Cork%20Catherine%20Enright%20O%27Shea%20grandchildren%20Form%20B7.jpg).
 - [Portrait — Mary (May) O’Shea](../media/docs/Mary%20(May)%20O%27Shea.jpg).
-- GEDCOM **`@I13@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I13@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Marital union **F8** with Gerald.
 
 ## Open questions
 
-- **Exact death day** from Irish civil death index image.
+- Exact death day from Irish civil death index.

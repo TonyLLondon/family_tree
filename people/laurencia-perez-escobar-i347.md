@@ -1,6 +1,6 @@
 ---
 name: Laurencia Pérez Escobar
-alsoKnownAs:
+also_known_as:
   - Laurencia del Carmen Perez Escobar
 treeId: I347
 gedcom: "@I347@"
@@ -23,33 +23,28 @@ siblings:
 
 # Laurencia del Carmen Pérez Escobar
 
-Mother of [Helia del Carmen Cerpa Pérez](helia-cerpa-perez.md) and [Miguel Antonio Cerpa Pérez](miguel-cerpa-perez-i352.md) (**F162**). Wife of [Miguel Luis Cerpa González](miguel-cerpa-gonzalez-i346.md).
+**Laurencia** was born **16 July 1912** at **Parral**, **Linares**, **Maule**. She married [Miguel Luis Cerpa González](miguel-cerpa-gonzalez-i346.md) and was mother of [Helia del Carmen Cerpa Pérez](helia-cerpa-perez.md) and [Miguel Antonio Cerpa Pérez](miguel-cerpa-perez-i352.md). She died **9 December 2002** at **Coquimbo**.
 
-Born **16 July 1912** at **Parral, Linares, Maule, Chile** (FamilySearch [GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)). The GEDCOM export carried **27 March 1910** — the FamilySearch record supersedes this; the discrepancy should be resolved against the civil registration image when available.
+An older export had **27 March 1910**; **[FamilySearch GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)** gives the **1912** date—civil register should decide.
 
-Died **9 December 2002** at **Coquimbo, Chile** (FamilySearch). The GEDCOM had only "ABT 2002."
-
-Parents: [Francisco Antonio Pérez Avejares](francisco-antonio-perez-i350.md) (b. 1882) and [Soraida del Carmen Escobar Muñoz](zoraida-escobar-i351.md) (b. 1885) — **F164**.
-
-Siblings (from FamilySearch):
+Parents: [Francisco Antonio Pérez Avejares](francisco-antonio-perez-i350.md) and [Soraida del Carmen Escobar Muñoz](zoraida-escobar-i351.md). Siblings with pages: [María Estela](maria-perez-escobar-i382.md); **Jorge Antonio** and **María Lucinda** appear on FamilySearch without `people/` stubs yet.
 
 | Name | Born | Died |
 |------|------|------|
-| **Laurencia del Carmen** (this page) | 1912 | 2002 |
+| Laurencia del Carmen (this page) | 1912 | 2002 |
 | [María Estela Pérez Escobar](maria-perez-escobar-i382.md) | 1915 | deceased |
 | Jorge Antonio Pérez Escobar | 1918 | deceased |
 | María Lucinda Pérez Escobar | 1919 | deceased |
 
-Jorge Antonio and María Lucinda do not yet have person pages or tree IDs.
-
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I347`**, unions **F162** / **F164**.
-- FamilySearch tree person **[GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)** — birth, death, parents, siblings, children.
-- Research hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- [family-tree.json](../family-tree.json).
+- FamilySearch **[GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)**.
+- Hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- **Export:** MyHeritage **`@I347@`** — unions **F162**, **F164** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- Resolve birth date discrepancy (GEDCOM 27 Mar 1910 vs FamilySearch 16 Jul 1912) against civil registration image from Parral.
-- Civil image for **9 December 2002** death in Coquimbo.
-- Person pages for siblings Jorge Antonio (1918) and María Lucinda (1919) when tree IDs are assigned.
+- Civil image reconciling **1910** export vs **1912** FamilySearch.
+- Coquimbo death image **2002**.
+- Person pages for Jorge Antonio and María Lucinda when ids are assigned.

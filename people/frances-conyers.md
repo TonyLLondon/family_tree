@@ -15,16 +15,16 @@ children:
 
 # Frances Conyers
 
-Wife of [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md) in **F200**; mother of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md). Birth **1532** **Layton**; death **1580** **Bath** (Geni-style migration—confirm). **FAMC** not in the short export slice—Geni scrape names **Cuthbert Conyers** / **Mary Laton** as parents (not yet in `people/`).
+Frances Conyers was the wife of [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md) and mother of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md). She was born in 1532 at Layton, Durham, and is given as dying in 1580 at Bath, Somerset—a Geni-style migration that needs confirmation in registers. The short export slice does not carry a family-of-origin block; a Geni scrape names Cuthbert Conyers and Mary Laton as her parents (no vault pages yet).
 
 ## Family
 
 - Husband: [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md).
-- Children include [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) per **F200**.
+- Children include [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md).
 
 ## Evidence
 
-- GEDCOM **`@I530@`**, **F200**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
+- **Export:** MyHeritage **`@I530@`** — union **F200** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
 
 ## Open questions
 

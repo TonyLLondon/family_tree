@@ -9,17 +9,17 @@ children:
 
 # Alexander O'Moore
 
-Father of [Juliana O'Moore](juliana-omoore.md) in **F179** (**HUSB @I379@**, **CHIL @I370@**). **@I379@** has **no BIRT**/**DEAT** in the export slice.
+**Alexander O'Moore** was father of [Juliana O'Moore](juliana-omoore.md). No birth or death in the export slice; no wife on the parental union there.
 
 ## Family
 
-- Children include [Juliana O'Moore](juliana-omoore.md) per **F179**.
+- Children: [Juliana O'Moore](juliana-omoore.md).
 
 ## Evidence
 
-- GEDCOM **`@I379@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F179** only.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I379@`** — union **F179** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Spouse** — **F179** has no **WIFE** line in this export.
+- Spouse when **F179** gains a wife line.

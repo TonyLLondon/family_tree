@@ -16,22 +16,22 @@ children:
 
 # Robert Roche
 
-Father of [Stephen O'Moore Roche](stephen-omoore-roche.md) with [Juliana O'Moore](juliana-omoore.md) in **F173**.
+Robert Roche was the husband of [Juliana O'Moore](juliana-omoore.md) and father of [Stephen O'Moore Roche](stephen-omoore-roche.md).
 
 ## Life
 
-- **~1631** — Born **Castletown, County Cork, Ireland** (GEDCOM **ABT**).
-- **~1690** — Died **Ireland** (GEDCOM **ABT**).
+- **~1631** — Born **Castletown, County Cork, Ireland** (about, in export).
+- **~1690** — Died **Ireland** (about, in export).
 
 ## Family
 
 - Wife: [Juliana O'Moore](juliana-omoore.md).
-- Father: [John Roche](john-roche.md) (**F174**).
-- Children include [Stephen O'Moore Roche](stephen-omoore-roche.md) per **F173**.
+- Father: [John Roche](john-roche.md).
+- Children include [Stephen O'Moore Roche](stephen-omoore-roche.md).
 
 ## Evidence
 
-- GEDCOM **`@I369@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F173** / **F174**; FamilySearch **K8GF-PM2**.
+- **Export:** MyHeritage **`@I369@`** — unions **F173**, **F174** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K8GF-PM2**.
 
 ## Open questions
 

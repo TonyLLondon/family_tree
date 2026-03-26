@@ -14,17 +14,18 @@ children:
 
 # Agnes Bowes
 
-Wife of [John Conyers, of Sockburne](john-conyers.md) in **F194**; mother of [Jane Conyers](jane-conyers.md). Birth **~1548** **Sockburn**; marriage **1564** **Sockburn**; death **12 Feb 1597**. **NICK** **Agnes Bowes** in GEDCOM; **NOTE** blocks reference web trees—secondary only.
+**Agnes Bowes** was born about **1548** at **Sockburn**, **Yorkshire**. She married [John Conyers, of Sockburne](john-conyers.md) **1564** at **Sockburn** and was mother of [Jane Conyers](jane-conyers.md). She died **12 February 1597**. **NOTE** blocks in the export point at web trees—secondary only.
 
 ## Family
 
 - Husband: [John Conyers, of Sockburne](john-conyers.md).
-- Children include [Jane Conyers](jane-conyers.md) per **F194**.
+- Children: [Jane Conyers](jane-conyers.md).
 
 ## Evidence
 
-- GEDCOM **`@I478@`**, **F194**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GWXK-SP3**; **Geni** **SOUR** in export.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I478@`** — union **F194** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GWXK-SP3**; **Geni** in **SOUR**.
 
 ## Open questions
 
-- **Bowes** of **Barnard Castle** cluster vs this **Sockburn** marriage—prove with parish or will.
+- **Bowes** of **Barnard Castle** vs this **Sockburn** line—wills or parish proof.

@@ -14,13 +14,14 @@ children:
 
 # Elizabeth Moran
 
-Mother of [Rosina A Martin](rosina-a-martin-i104.md). Born **1871** **Islington** (tree / GEDCOM). Marriage to Thomas **25 May 1890** (**F113**). Birth union **F115**: father [William Moran](william-moran-i232.md); no second parent in the export.
+Elizabeth Moran was the wife of [Thomas Martin](thomas-martin-i229.md) and mother of [Rosina A Martin](rosina-a-martin-i104.md). She was born in 1871 at Islington, London. She married Thomas on 25 May 1890. Her father in the export is [William Moran](william-moran-i232.md); no second parent is named there.
 
-**Note:** Another **Elizabeth Moran** — [Elizabeth Moran (Holloway, 1871)](elizabeth-moran-i233.md) (**`I233`**, **F116**) — treat as a distinct individual until sources prove identity.
+Another **Elizabeth Moran**—[Elizabeth Moran (Holloway, 1871)](elizabeth-moran-i233.md) (`I233`)—should be treated as a distinct individual until sources prove identity.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I230`**, unions **F113** / **F115**.
+- **Export:** MyHeritage **`@I230@`** — unions **F113**, **F115** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json) **`I230`**.
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
 
 ## Open questions

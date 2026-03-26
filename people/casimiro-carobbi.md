@@ -15,7 +15,7 @@ children:
 
 # Casimiro Carobbi
 
-Father of [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md) with [Marianna Billicich](marianna-billicich.md) in **F31** (marriage **5 May 1820**, **Kotor, Montenegro** in GEDCOM text). Birth place **Senj** on **BIRT** line; death **5 Apr 1866** **Zara**.
+**Casimiro Carobbi** was born in **Senj** (Segna) on the Croatian coast; he married [Marianna Billicich](marianna-billicich.md) **5 May 1820** at **Kotor** (place string as in export) and was father of [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md). He died **5 April 1866** at **Zara**.
 
 ## Context
 
@@ -28,18 +28,18 @@ The Carobbi trajectory — Senj (birth) → Kotor (marriage 1820) → Zara (sett
 ## Life
 
 - Born **Senj** (Segna), Lika-Senj, Croatia (date unknown).
-- **5 May 1820** — Marriage **Kotor** to [Marianna Billicich](marianna-billicich.md) (**F31**).
+- **5 May 1820** — Marriage **Kotor** to [Marianna Billicich](marianna-billicich.md).
 - **5 Apr 1866** — Died **Zara, Dalmatia**.
 
 ## Family
 
 - Wife: [Marianna Billicich](marianna-billicich.md).
-- Father: [Giovanni Battista Carobbi](giovanni-battista-carobbi.md) (**F32**).
-- Children include [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md) per **F31**.
+- Father: [Giovanni Battista Carobbi](giovanni-battista-carobbi.md).
+- Children: [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md).
 
 ## Evidence
 
-- GEDCOM **`@I63@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F31** / **F32**; Geni URL in **SOUR**; FamilySearch **L22T-TMX**.
+- **Export:** MyHeritage **`@I63@`** — unions **F31**, **F32** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); Geni URL in **SOUR**; FamilySearch **L22T-TMX**.
 - [family-tree.json](../family-tree.json).
 - **Death register, Zara, 1866:** [media/collections/zerauschek/Zerauschek (1)/Death Casimiro Carobbi Zara 1866.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Death%20Casimiro%20Carobbi%20Zara%201866.jpg) — untranscribed; may reveal occupation and age at death.
 - **Marriage register of daughter Vittoria, Zara, 1849:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Carobbi Zara 1849.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Carobbi%20Zara%201849.jpg) — untranscribed; marriage of Vittoria Carobbi × Simeone Boara (F11).
@@ -54,5 +54,5 @@ The Carobbi trajectory — Senj (birth) → Kotor (marriage 1820) → Zara (sett
 ## Open questions
 
 - **Senj ↔ Zara** move — trade or military family path before **1820** Kotor marriage.
-- **Casimiro's birth date** — not recorded in GEDCOM; Senj baptism registers would resolve this.
+- **Casimiro's birth date** — not recorded in the merged export; Senj baptism registers would resolve this.
 - **Other Carobbi children** — are there siblings of Vittoria Elisa born in Zara?

@@ -15,18 +15,19 @@ children:
 
 # Caspar Stumpp
 
-Husband of [Anna Schuemperli](anna-schuemperli.md) in **F82**; father of [Augustin Stumpf](augustin-stumpf.md) (**@I153@**). GEDCOM carries parallel **NAME** lines (**Casper STUMP**, **Caspar Stump**, **Caspar Stumpp**). **DEAT Y** without **DATE** in export. **FAMC @F83@**: [Blaesi Stump](blaesi-stump.md); [Madalena Bruewschwyler](madalena-bruewschwyler.md) (marriage **~1590**, **Sulgen**).
+**Caspar Stumpp**—the export also gives **Casper STUMP**, **Caspar Stump**—was born **26 October 1596** at **Buchackern**, **Thurgau**. He married [Anna Schuemperli](anna-schuemperli.md) and was father of [Augustin Stumpf](augustin-stumpf.md). Parents: [Blaesi Stump](blaesi-stump.md) and [Madalena Bruewschwyler](madalena-bruewschwyler.md), married about **1590** at **Sulgen**. Death **Y** without date in export.
 
 ## Family
 
 - Wife: [Anna Schuemperli](anna-schuemperli.md).
-- Parents: [Blaesi Stump](blaesi-stump.md); [Madalena Bruewschwyler](madalena-bruewschwyler.md) (**F83**).
-- Children include [Augustin Stumpf](augustin-stumpf.md) per **F82**.
+- Parents: [Blaesi Stump](blaesi-stump.md); [Madalena Bruewschwyler](madalena-bruewschwyler.md).
+- Children: [Augustin Stumpf](augustin-stumpf.md).
 
 ## Evidence
 
-- GEDCOM **`@I163@`**, **F82** / **F83**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LW8F-1VX**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I163@`** — unions **F82**, **F83** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LW8F-1VX**.
 
 ## Open questions
 
-- Exact **death** year from **Sulgen** burial index.
+- Death year from **Sulgen** burial index.

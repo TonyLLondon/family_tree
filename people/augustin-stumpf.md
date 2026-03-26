@@ -17,18 +17,19 @@ children:
 
 # Augustin Stumpf
 
-Husband of [Barbara Rutershauer](barbara-rutershauer.md) in **F77** (marriage **~1661**, **Sulgen**); father of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) (**@I151@**). GEDCOM alternates **STUMP** / **Stumpf** surnames. **FAMC @F82@**: [Caspar Stumpp](caspar-stumpp.md); [Anna Schuemperli](anna-schuemperli.md) (marriage **12 Jun 1631**, **Evangelisch-Reformierte Kirche Sulgen**).
+**Augustin Stumpf**—**STUMP** / **Stumpf** alternate in export—married [Barbara Rutershauer](barbara-rutershauer.md) about **1661** at **Sulgen** and was father of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md). Born **28 April 1639** **Buchackern**; died **27 February 1679** **Sulgen**. Parents: [Caspar Stumpp](caspar-stumpp.md) and [Anna Schuemperli](anna-schuemperli.md), married **12 June 1631** at the **Evangelisch-Reformierte Kirche**, **Sulgen**.
 
 ## Family
 
 - Wife: [Barbara Rutershauer](barbara-rutershauer.md).
-- Parents: [Caspar Stumpp](caspar-stumpp.md); [Anna Schuemperli](anna-schuemperli.md) (**F82**).
-- Children include [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) per **F77**.
+- Parents: [Caspar Stumpp](caspar-stumpp.md); [Anna Schuemperli](anna-schuemperli.md).
+- Children: [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md).
 
 ## Evidence
 
-- GEDCOM **`@I153@`**, **F77** / **F82**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MVRD-DHW**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I153@`** — unions **F77**, **F82** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MVRD-DHW**.
 
 ## Open questions
 
-- **Stumpf** vs **Stump** in **Thurgau** family reconstitution tables.
+- **Stumpf** vs **Stump** in **Thurgau** reconstitution tables.

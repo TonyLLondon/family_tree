@@ -15,22 +15,23 @@ children:
 
 # Christian Jane Creagh
 
-Wife of [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md) in **F171**; mother of [Anna Stackpole](anna-stackpole.md).
+**Christian Jane Creagh** was born **1658** in **Clare**. She married [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md) and was mother of [Anna Stackpole](anna-stackpole.md). She died **3 May 1717** in **County Limerick**.
 
 ## Life
 
-- **1658** — Born **Clare, Ireland**.
-- **3 May 1717** — Died **County Limerick, Ireland**.
+- **1658** — Born **Clare**, **Ireland**.
+- **3 May 1717** — Died **County Limerick**.
 
 ## Family
 
 - Husband: [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md).
-- Children include [Anna Stackpole](anna-stackpole.md) per **F171**.
+- Children: [Anna Stackpole](anna-stackpole.md).
 
 ## Evidence
 
-- GEDCOM **`@I366@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F171**; FamilySearch **LH1F-5W5**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I366@`** — union **F171** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LH1F-5W5**.
 
 ## Open questions
 
-- **Creagh** kin networks — Clare merchant families tied to **Limerick** **Stackpole** marriage **1688**.
+- **Creagh** networks—Clare merchants tied to **Limerick** **Stackpole** **1688** marriage.

@@ -11,18 +11,18 @@ spouses:
 
 # Thomas Roche
 
-Husband of [Hellen Ankettle](hellen-ankettle.md) in **F160**; father of [Catherine Mary Roche](catherine-mary-roche.md) (**@I136@**) on the line to [William O'Byrne White](william-obyrne-white.md). Child of [Stephen John Roche](stephen-john-roche.md) and [Sarah O'Bryen](sarah-obryen.md) (**F167**).
+Thomas Roche was the husband of [Hellen Ankettle](hellen-ankettle.md) and father of [Catherine Mary Roche](catherine-mary-roche.md) on the line to [William O'Byrne White](william-obyrne-white.md). He was son of [Stephen John Roche](stephen-john-roche.md) and [Sarah O'Bryen](sarah-obryen.md).
 
 ## Family
 
-- Wife: [Hellen Ankettle](hellen-ankettle.md) (**F160**).
+- Wife: [Hellen Ankettle](hellen-ankettle.md).
 - Parents: [Stephen John Roche](stephen-john-roche.md); [Sarah O'Bryen](sarah-obryen.md).
-- Children include [Catherine Mary Roche](catherine-mary-roche.md) per **F160** in [family-tree.json](../family-tree.json).
+- Children include [Catherine Mary Roche](catherine-mary-roche.md); see [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I341@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F160** / **F167**.
+- **Export:** MyHeritage **`@I341@`** — unions **F160**, **F167** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Vitals** — **@I341@** has sparse **BIRT**/**DEAT** in the slice; pull full **INDI** or Limerick merchant records.
+- **Vitals** — sparse birth/death lines in the export slice; pull the full individual record or Limerick merchant records.

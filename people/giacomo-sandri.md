@@ -12,15 +12,15 @@ children:
 
 # Giacomo Sandri
 
-Father of [Perina Sandri](perina-sandri.md) in **F66**. **OCCU Capitano** in **@S12@** “Giacomo Sandri”. Death **BEF 1777** before daughter’s **1777** marriage.
+Giacomo Sandri was father of [Perina Sandri](perina-sandri.md). The structured tree gives his occupation as *Capitano* (captain). He died before 1777, ahead of his daughter’s marriage that year.
 
 ## Family
 
-- Children include [Perina Sandri](perina-sandri.md) per **F66**.
+- Children include [Perina Sandri](perina-sandri.md).
 
 ## Evidence
 
-- GEDCOM **`@I131@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F66**; **@S12@**.
+- **Export:** MyHeritage **`@I131@`** — union **F66** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@** “Giacomo Sandri”.
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

@@ -11,18 +11,18 @@ children:
 
 # Adelheit Claarer
 
-Wife of [Wendel Rutishauser](wendel-rutishauser.md) in **F86**; mother of [Hans Rutishauser](hans-rutishauser.md). **@I172@** has **no BIRT**/**DEAT** in the export slice.
+**Adelheit Claarer** married [Wendel Rutishauser](wendel-rutishauser.md) and was mother of [Hans Rutishauser](hans-rutishauser.md). No birth or death in the MyHeritage slice used here.
 
 ## Family
 
 - Husband: [Wendel Rutishauser](wendel-rutishauser.md).
-- Children include [Hans Rutishauser](hans-rutishauser.md) per **F86**.
+- Children: [Hans Rutishauser](hans-rutishauser.md).
 
 ## Evidence
 
-- GEDCOM **`@I172@`**, **F86**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I172@`** — union **F86** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Claarer** / **Klarer** dialect spelling.
+- **Claarer** vs **Klarer** dialect spellings in registers.

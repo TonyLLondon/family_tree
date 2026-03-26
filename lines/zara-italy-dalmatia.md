@@ -34,11 +34,11 @@
 
 | Person | Note |
 |--------|------|
-| [Antonio Zerauschek](../people/antonio-zerauschek.md) | Interwar investor; `@I14@` |
+| [Antonio Zerauschek](../people/antonio-zerauschek.md) | Interwar investor; Fulvia’s father |
 | [Ester Addobbati](../people/ester-addobbati.md) | Wife; links Addobbati narrative to Zerauschek |
 | [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) | Bridge to [David John Lewis](../people/david-john-lewis.md) |
 | [Pietro Pio Addobbati](../people/pietro-pio-addobbati.md) | Addobbati trunk (see narrative) |
-| [Antonio Zerauschek (senior)](../people/antonio-zerauschek-senior.md) | `@I25@` — father of `@I14@` |
+| [Antonio Zerauschek (senior)](../people/antonio-zerauschek-senior.md) | Carpenter line; father of the hotel Antonio |
 | [Tatiana Machiedo](../people/tatiana-machiedo.md) | [Riccardo](../people/riccardo-zerauschek.md)’s wife; Hvar **Machiedo** pedigree (Kovačić 2014) |
 
 **Parish / civil images:** [media/collections/zerauschek/](../media/collections/zerauschek/)

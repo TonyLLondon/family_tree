@@ -17,17 +17,17 @@ children:
 
 # Elizabeth Mackereth
 
-Wife of [William Grave](william-grave.md) in **F45**; mother of [Thomas Grave](thomas-grave.md). Birth **Nov 1584** **Kendal**; death **Jul 1670** **Kendal**. **FAMC @F47@** in GEDCOM (**HUSB @I96@** **Robert Mackereth**, **WIFE @I97@** **Margaret Shaw**, marriage **26 Jan 1585**, **Kendal**)—ancestor pages for **@I96@** / **@I97@** not yet in this vault.
+Elizabeth Mackereth was the wife of [William Grave](william-grave.md) and mother of [Thomas Grave](thomas-grave.md). She was born in November 1584 at Kendal, Westmorland, and died there in July 1670. The export places her as daughter of Robert Mackereth and Margaret Shaw, who married at Kendal on 26 January 1585; dedicated person pages for those parents are not yet in this vault.
 
 ## Family
 
 - Husband: [William Grave](william-grave.md).
-- Children include [Thomas Grave](thomas-grave.md) per **F45**.
+- Children include [Thomas Grave](thomas-grave.md).
 
 ## Evidence
 
-- GEDCOM **`@I95@`**, **F45**, **F47**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I95@`** — unions **F45**, **F47** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **F47** siblings of **Elizabeth**—if any—mirror from [family-tree.json](../family-tree.json).
+- Siblings of Elizabeth under the same parental household—if any—mirror from [family-tree.json](../family-tree.json).

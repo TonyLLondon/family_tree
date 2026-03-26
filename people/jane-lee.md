@@ -13,17 +13,18 @@ children:
 
 # Jane Lee
 
-Wife of [Lawrence White](lawrence-white.md) in **F161**; mother of [Mathew White](mathew-white.md). Birth **ABT 1735** **Ireland**; **DEAT** flagged without detail in the export.
+**Jane Lee** was born about **1735** in **Ireland**. She married [Lawrence White](lawrence-white.md) and was mother of [Mathew White](mathew-white.md). The export flags death **Y** without detail.
 
 ## Family
 
 - Husband: [Lawrence White](lawrence-white.md).
-- Children include [Mathew White](mathew-white.md) per **F161**.
+- Children: [Mathew White](mathew-white.md).
 
 ## Evidence
 
-- GEDCOM **`@I345@`**, **F161**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L5RW-X4M**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I345@`** — union **F161** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L5RW-X4M**.
 
 ## Open questions
 
-- **Lee** distribution in **Wexford** vs **Limerick** migration stories in secondary trees.
+- **Lee** in **Wexford** vs **Limerick** lines in secondary trees.

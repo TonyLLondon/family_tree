@@ -22,17 +22,17 @@ Mother of [Olga Caroline Erbe](olga-caroline-erbe.md) and [Eugen Edmund Erbe](eu
 
 ## Life
 
-- **20 March 1812** — Born **Tallinn**; baptism **2 April 1812**, **Reval** register wording in GEDCOM.
-- **27 March 1839** — Married [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) in **Tallinn** (**F140**).
+- **20 March 1812** — Born **Tallinn**; baptized **2 April 1812**, **Reval** (register wording as in export).
+- **27 March 1839** — Married [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) in **Tallinn**.
 - **14 July 1872** — Died **Tallinn**, a few months after Hermann’s **January** death in **Riga** — worth noting when reconstructing whether the household had already fragmented geographically.
 
-Her parents in the export are [Johan Jacob Eylandt](johan-jacob-eylandt.md) and [Maria Elisabeth Busse](maria-elisabeth-busse.md) (**F142**), married **27 December 1799** in **Viljandi**. The Geni narrative lists a large sibling set (Caroline Helene Pfeiffer, Henrietta Margaretha Elisabeth, Johann Emil, Carl Gottlieb, Therese Constanze Erbe, etc.); again, **confirm each in parish books** before promoting to separate biographies.
+Her parents in the export are [Johan Jacob Eylandt](johan-jacob-eylandt.md) and [Maria Elisabeth Busse](maria-elisabeth-busse.md), married **27 December 1799** in **Viljandi**. The Geni narrative lists a large sibling set (Caroline Helene Pfeiffer, Henrietta Margaretha Elisabeth, Johann Emil, Carl Gottlieb, Therese Constanze Erbe, etc.); again, **confirm each in parish books** before promoting to separate biographies.
 
 ## Family
 
 - Parents: [Johan Jacob Eylandt](johan-jacob-eylandt.md); [Maria Elisabeth Busse](maria-elisabeth-busse.md).
 - Husband: [Hermann Eberhard Erbe](hermann-eberhard-erbe.md).
-- Children: [Olga Caroline Erbe](olga-caroline-erbe.md); [Eugen Edmund Erbe](eugen-edmund-erbe.md); and others per **F140**.
+- Children: [Olga Caroline Erbe](olga-caroline-erbe.md); [Eugen Edmund Erbe](eugen-edmund-erbe.md); further children in [family-tree.json](../family-tree.json).
 
 ## Evidence
 

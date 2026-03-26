@@ -11,18 +11,19 @@ children:
 
 # Giovanni Battista Carobbi
 
-Father of [Casimiro Carobbi](casimiro-carobbi.md) in **F32** (**HUSB @I65@**, **CHIL @I63@**). **BEF 1822** death in **@S17@** / **@S12@** path; Geni scrape shows only child link.
+**Giovanni Battista Carobbi** was father of [Casimiro Carobbi](casimiro-carobbi.md). The export places death **before 1822** (source path **@S17@** / **@S12@** in file); **Geni** in the same bundle shows only the child link. A **1745** baptism scan from Segna (Senj) sits in repo media (untranscribed).
 
 ## Family
 
-- Children include [Casimiro Carobbi](casimiro-carobbi.md) per **F32**.
+- Children: [Casimiro Carobbi](casimiro-carobbi.md).
 
 ## Evidence
 
-- GEDCOM **`@I65@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F32**; MyHeritage **Geni** URL in **SOUR**.
 - [family-tree.json](../family-tree.json).
-- **Birth register, Segna, 1745:** [media/collections/zerauschek/Zerauschek (1)/Birth Giovanni Battista Carobbi Segna 1745.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Giovanni%20Battista%20Carobbi%20Segna%201745.jpg) — untranscribed; would provide birth date, parents, and confirm Senj origin.
+- **Export:** MyHeritage **`@I65@`** — union **F32** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** in **SOUR**.
+- **Birth register, Segna, 1745:** [Birth Giovanni Battista Carobbi Segna 1745.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Giovanni%20Battista%20Carobbi%20Segna%201745.jpg).
 
 ## Open questions
 
-- **Spouse** — **F32** has no **WIFE** line in this export.
+- Mother on **F32** when wife line is present in export.
+- Full transcription of **1745** baptism image.

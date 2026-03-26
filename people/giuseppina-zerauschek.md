@@ -8,14 +8,12 @@ mother: anna-herenda
 
 # Giuseppina Zerauschek
 
-Eldest sibling of [Antonio Zerauschek](antonio-zerauschek.md). She married a **tenor singer at La Scala in Milan**, who went on a tour (*tournée*) to South America and died there aged **32** of diabetes, leaving Giuseppina with **four children**. She was thereafter supported by her brother Antonio.
-
-Two of her sons later worked for Antonio in Zara. The eldest, known as **Vize**, later fell out with Fulvia over the disputed will of Zio Besto. (Fulvia memoir, 1996.)
+Giuseppina was the **eldest** of the Zerauschek children who reached adulthood around [Antonio](antonio-zerauschek.md)—the sister who married a **La Scala tenor**, buried him in **South America** at **thirty-two** (diabetes, tour), and came home to **four children** and a brother’s help. Two of her sons later worked in Antonio’s Zara firms; the eldest, **Vize**, would later collide with Fulvia over **Zio Besto**’s will—a sour postscript to dependence and gratitude (Fulvia memoir, 1996).
 
 ## Family
 
-- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md) (**F13**).
-- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), Marie, Emma, Giovanni, Giusit, Besto/Ernesto, Ginco/Riccardo.
+- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md).
+- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), [Besto](besto-zerauschek.md), [Riccardo](riccardo-zerauschek.md).
 
 ## Evidence
 
@@ -23,5 +21,5 @@ Two of her sons later worked for Antonio in Zara. The eldest, known as **Vize**,
 
 ## Open questions
 
-- Husband's name (La Scala tenor, died ~32 in South America).
-- Giuseppina's dates and death place.
+- Husband’s name (Milan tenor; died ~32 in South America).
+- Her own vital dates and burial.

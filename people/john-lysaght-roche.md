@@ -17,24 +17,24 @@ children:
 
 # John Lysaght Roche
 
-Father of [Stephen John Roche](stephen-john-roche.md) with [Anna Stackpole](anna-stackpole.md) in **F170**. **Merchant**; burial **1760** **St. Mary’s, County Limerick**; probate **1760** **County Limerick** in GEDCOM. Geni clusters disagree on mother’s spelling (**Anastatia** vs **Anastasia** **Lysaght**).
+John Lysaght Roche was a merchant, husband of [Anna Stackpole](anna-stackpole.md), and father of [Stephen John Roche](stephen-john-roche.md). The export records his burial in 1760 at St Mary’s, County Limerick, and probate the same year in County Limerick. Geni clusters disagree on his mother’s spelling (**Anastatia** vs **Anastasia** **Lysaght**).
 
 ## Life
 
-- **1688** — Born **Limerick City** area (GEDCOM long place string).
+- **1688** — Born **Limerick City** area (long place string in export).
 - **18 Jan 1760** — Died **Limerick, Munster, Ireland**.
 - **1760** — Burial **St. Mary’s**, **County Limerick**.
 
 ## Family
 
 - Wife: [Anna Stackpole](anna-stackpole.md).
-- Parents: [Stephen O'Moore Roche](stephen-omoore-roche.md); [Anastasia Lysagt Burke](anastasia-lysagt-burke.md) (**F172**).
-- Children include [Stephen John Roche](stephen-john-roche.md) per **F170**.
+- Parents: [Stephen O'Moore Roche](stephen-omoore-roche.md); [Anastasia Lysagt Burke](anastasia-lysagt-burke.md).
+- Children include [Stephen John Roche](stephen-john-roche.md).
 
 ## Evidence
 
-- GEDCOM **`@I363@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F170** / **F172** / **F202**; FamilySearch **LCVY-RWB**; multiple **Geni** **SOUR** blocks.
+- **Export:** MyHeritage **`@I363@`** — unions **F170**, **F172**, **F202** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LCVY-RWB**; multiple **Geni** **SOUR** blocks.
 
 ## Open questions
 
-- **F202** — second marriage or duplicate merge; parse before adding another wife page.
+- **F202** in the export — second marriage or duplicate merge; parse before adding another wife page.

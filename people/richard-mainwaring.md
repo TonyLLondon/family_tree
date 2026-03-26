@@ -15,26 +15,26 @@ children:
 
 # Richard Mainwaring
 
-Father of [Ann Mainwaring](ann-mainwaring.md) (**@I178@**) with [Mary Richards](mary-richards.md) in **F90** (marriage **25 Oct 1825**, **Merthyr Tydfil, Glamorganshire**). The GEDCOM carries only a light **Richard Mainwaring** source stub for birth (**Neath**, **1797**) and death (**Feb 1844** **Merthyr**), plus burial **1844** **Merthyr**.
+**Richard Mainwaring** was born **1797** at **Neath**, **Glamorgan**. He married [Mary Richards](mary-richards.md) **25 October 1825** at **Merthyr Tydfil** and was father of [Ann Mainwaring](ann-mainwaring.md). He died **February 1844** at **Merthyr**; burial **1844** **Merthyr** in the same export (light source stub only).
 
 ## Life
 
-- **1797** — Born **Neath, Glamorgan, Wales** (GEDCOM; no parish book image in export).
-- **25 Oct 1825** — Marriage **Merthyr Tydfil** to Mary Richards (**F90**).
-- **Feb 1844** — Died **Merthyr Tydfil** (GEDCOM).
-- **1844** — Burial **Merthyr Tydfil** (GEDCOM).
+- **1797** — Born **Neath** (no parish image in export).
+- **25 Oct 1825** — Marriage **Merthyr Tydfil** to Mary Richards.
+- **Feb 1844** — Died **Merthyr Tydfil**.
+- **1844** — Burial **Merthyr Tydfil**.
 
 ## Family
 
 - Wife: [Mary Richards](mary-richards.md).
-- Children include [Ann Mainwaring](ann-mainwaring.md) per **F90**.
+- Children: [Ann Mainwaring](ann-mainwaring.md).
 
 ## Evidence
 
-- GEDCOM **`@I179@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F90**; FamilySearch id **GWPL-R2M** in export.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I179@`** — union **F90** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GWPL-R2M**.
 
 ## Open questions
 
-- **Neath to Merthyr move** — occupation and timeline before **1825** marriage.
-- **Parents** — **FAMC** not attached in the slice used for this page.
+- **Neath** to **Merthyr** move before **1825**.
+- Parents not attached in slice used here.

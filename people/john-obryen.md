@@ -9,17 +9,17 @@ children:
 
 # John O'Bryen
 
-Father of [Sarah O'Bryen](sarah-obryen.md) in **F169** (**HUSB @I362@**, **CHIL @I359@**). **@I362@** has **no BIRT**/**DEAT** detail in the export slice—only **DEAT Y** style flags without dates.
+John O’Bryen was father of [Sarah O'Bryen](sarah-obryen.md). The export slice used here gives no usable birth or death dates—only generic death flags without chronology.
 
 ## Family
 
-- Children include [Sarah O'Bryen](sarah-obryen.md) per **F169**.
+- Children include [Sarah O'Bryen](sarah-obryen.md).
 
 ## Evidence
 
-- GEDCOM **`@I362@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F169** only.
+- **Export:** MyHeritage **`@I362@`** — union **F169** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions
 
-- **Spouse** — **F169** has no **WIFE** line in this export.
+- **Spouse** — this export’s household record for Sarah’s birth family names no wife line.

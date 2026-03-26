@@ -11,23 +11,21 @@ children:
 
 # D. Daniel Addobbati
 
-Father of [D. Ioanes Addobbati](d-ioanes-addobbati.md) in **F18** (**HUSB @I33@**, **CHIL @I32@**). **F18** has **no WIFE** line in the export.
+**D. Daniel Addobbati**, born about 1651, is the bridge in Sabalich’s précis between a Bergamo notary’s line and the *capitano dei corrazieri* who will father the Adriatic trio. The 1745 testimonial lists him plainly—“D. Daniel (1651)”—as one bead on a string read aloud in the Major church in September 1745.
 
-## Life
-
-- **1651** — Born (GEDCOM year only). Listed in the 1745 Bergamo genealogical testimonial as "D. Daniel (1651)" (Sabalich p. 503).
+We hold his son Ioanes in the structured tree; his wife remains unnamed in the export consulted for this vault. That gap is the usual invitation to parish books, not an assertion that none existed.
 
 ## Family
 
-- Father: [D. Ivanes Baptista Addobbati](d-ivanes-baptista-addobbati.md) (**F19**).
-- Children include [D. Ioanes Addobbati](d-ioanes-addobbati.md) per **F18**.
+- Father: [D. Ivanes Baptista Addobbati](d-ivanes-baptista-addobbati.md).
+- Children: [D. Ioanes Addobbati](d-ioanes-addobbati.md).
 
 ## Evidence
 
-- GEDCOM **`@I33@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F18**; FamilySearch **GW5D-Y6X**.
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Daniel (1651)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
 - [family-tree.json](../family-tree.json).
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Daniel (1651)" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Export:** GEDCOM individual `@I33@`, family F18 (no wife in export); FamilySearch GW5D-Y6X — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Spouse** — add from **F18** when **WIFE** is present in a cleaner GEDCOM export.
+- **Spouse** — not present in current tree export; parish or cleaner import may supply.

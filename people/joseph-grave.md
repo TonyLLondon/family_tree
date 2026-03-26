@@ -15,18 +15,19 @@ children:
 
 # Joseph Grave
 
-Father of [Sarah Grave](sarah-grave.md) with [Sarah Becke](sarah-becke.md) in **F43**. Birth **1671**; death **Nov 1722**. **FAMC @F44@**: [Thomas Grave](thomas-grave.md); [Jane](jane.md) (**F44**, marriage **1657**).
+**Joseph Grave** was born **1671** and died **November 1722**. With [Sarah Becke](sarah-becke.md) he fathered [Sarah Grave](sarah-grave.md). His parents were [Thomas Grave](thomas-grave.md) and [Jane](jane.md), married **1657**.
 
 ## Family
 
 - Wife: [Sarah Becke](sarah-becke.md).
 - Parents: [Thomas Grave](thomas-grave.md); [Jane](jane.md).
-- Children include [Sarah Grave](sarah-grave.md) per **F43**.
+- Children: [Sarah Grave](sarah-grave.md).
 
 ## Evidence
 
-- GEDCOM **`@I90@`**, **F43**, **F44**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I90@`** — unions **F43** (with Sarah Becke), **F44** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Nov 1722** burial — parish register image.
+- **November 1722** — parish burial register image.

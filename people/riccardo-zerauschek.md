@@ -18,21 +18,17 @@ children:
 
 # Riccardo Zerauschek (Zio Ginco)
 
-Youngest brother of [Antonio Zerauschek](antonio-zerauschek.md). Known in the family as **Zio Ginco**. Born **17 June 1896** in Zara (ITS/IRO file, 1951). He was only **three** when their father [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md) died, and was raised by his brother Antonio — "he was like a son to Nonno."
+In the family he was **Zio Ginco**—the youngest of [Anna Herenda](anna-herenda.md)’s boys, the one who lost [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md) at **three** and was folded into the household of his famous brother [Antonio Zerauschek](antonio-zerauschek.md) until he “was like a son to Nonno.” The Trieste **IRO** file is blunt where memory is soft: **17 June 1896** at **Zara**, the placename already carrying “Yugoslav” gloss in the clerks’ English after the border’s cruel rewrite.
 
-## Life
+Before the war he was **procurator**—not partner—for Antonio’s import houses: **Ford**, **Firestone**, **Zenith**, the glittering foreign brands that stood for Zara’s free-port world. He “worked with Nonno but never as a partner,” Fulvia wrote; the interview of **17 August 1951** says the same in officialese.
 
-- **17 Jun 1896** — Born **Zara, Dalmatia** (then Austria-Hungary; ITS/IRO documents give "Zara/Yugosl." reflecting the post-war territorial transfer).
-- **Pre-1938** — Worked as **procurator** (legal agent) for his brother Antonio's import-export businesses in Zara, which held agencies for **Ford, Firestone, Zenith**, and other international brands. He was explicitly not a business partner. (IRO interview, 17.8.51; Fulvia memoir, 1996 — "worked with Nonno but never as a partner.")
-- **Marriage** to **[Tatiana Machiedo](tatiana-machiedo.md)** (b. 16 Mar 1912, Zara) — a Dalmatian Italian family, not Serbian as Fulvia's memoir guessed. Fulvia knew her as "Tanie" or "Tania" because "she was not much older than us." **Published genealogy** (Kovačić 2014, *Hvar*) lists her as **Tatjana-Tanja Machiedo** (Zadar, 1912; **later Zerauschek**), daughter of **[Juraj-Zorko Machiedo](juraj-zorko-machiedo.md)** and **[Graziella Nakic d’Osljak](graziella-nakic-d-osljak.md)**, **sister of [Sergije Makiedo](sergije-makiedo.md)** and **niece of [Dr. Jerko Machiedo](jerko-machiedo.md)** — see [Tatiana’s page](tatiana-machiedo.md).
-- **Jan 1944** — Escaped from Zara to **Lošinj Grande** (Lussingrande), an island in the Adriatic, to avoid being mobilized by the Germans who had occupied Yugoslavia. "When the danger grew up," he moved with his family to the island of **Silba** (Feb 1945).
-- **Apr 1945** — Returned to Zara. Obtained work as a **singer with the Opera at Split and Zagreb**.
-- **Apr 1947** — Obtained a permit from the Zara municipal authority (*Gradski narodni odbor*) on the pretext of continuing his singing studies in Italy. Left for **Trieste** and did not return. Opted to retain **Italian citizenship**.
-- **17 Jul 1951** — Living at **Via 41 Brigata 1, Trieste**. Applied for IRO displaced persons assistance. Profession listed as "commercialista." Desired emigration: 1st USA, 2nd Canada. Jobless at time of application.
+He married **[Tatiana Machiedo](tatiana-machiedo.md)**, born **16 March 1912** in the same city; the memoir nicknamed her **Tanie** because she sat almost inside the cousins’ generation. Scholarship later drew her **Machiedo** line onto the map of Hvar and Zadar—siblings, judges, uncles in doctoral robes—where Fulvia had once guessed wrong about “Serbian” roots. The full reconstruction lives on [Tatiana’s page](tatiana-machiedo.md).
 
-Fulvia's memoir tells the story slightly differently: at the exodus, "halfway to Italy, having been reached by a message from their brother they returned to Zara" — and were trapped behind the Iron Curtain until Riccardo escaped with an opera company. The IRO documents confirm the core facts while revealing that the return to Zara preceded a deliberate wartime escape sequence (Lošinj → Silba → Zara) and that the final departure in 1947 was engineered via a singing-study pretext.
+**1944–1947** reads like an Adriatic fugue: flight to **Lošinj Grande** to dodge German **mobilization**; the family on **Silba** when “the danger grew up”; **April 1945** back in Zara; engagement as a **singer** with opera work centered on **Split** (and **Zagreb** named in the same breath). **April 1947**: a municipal **permit** from the city council on the polite fiction of voice study in Italy; crossing to **Trieste**; Italian **citizenship** held rather than surrendered. By **17 July 1951** he is at **Via 41 Brigata 1**, **jobless**, calling himself **commercialista**, asking the **IRO** for help and naming **America**, then **Canada**, as wishes.
 
-"As a non-partner he escaped the fate of the **Luxardo brothers**, who were murdered." (Fulvia memoir, 1996.)
+Fulvia’s memoir adds a counternote—messengers, a turning ship, a return that trapped them until the opera company offered cover—but the filed dates and the memoir’s moral arc agree on the essentials: islands, terror, music as passport, Trieste as threshold.
+
+“As a non-partner he escaped the fate of the **Luxardo brothers**, who were murdered.” (Fulvia memoir, 1996.)
 
 ### Luxardo context — what the IRO dates allow us *and do not* allow us to say
 
@@ -46,7 +42,7 @@ Italian and Croatian sources date the killings of **Nicolò** and **Pietro Luxar
 
 - Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md) (listed as "late" in 1951 — deceased); [Anna Herenda](anna-herenda.md).
 - Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), [Besto](besto-zerauschek.md).
-- Wife: Tatiana née Machiedo (b. 16.3.1912, Zara).
+- Wife: [Tatiana Machiedo](tatiana-machiedo.md) (b. 16 March 1912, Zara).
 - Children: **Nora** (b. 14.4.1933, Zara), **Renato** (b. 5.10.1934, Zara), **Luciano** (b. 3.6.1939, Zara).
 
 ## Evidence

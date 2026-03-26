@@ -13,26 +13,26 @@ children:
 
 # Anna Margaretha Jung
 
-Wife of [Hs. Konrad Stump](hs-konrad-stump.md) (**@I146@**) in **F73** (marriage **19 Jun 1766**, **Sulgen, Thurgau, Switzerland**); mother of [Hans Ulrich Stump](hans-ulrich-stump.md) (**@I144@**). The GEDCOM gives birth year **1735** and a death flag without date or place in the extract used here.
+**Anna Margaretha Jung** was born **1735**. She married [Hs. Konrad Stump](hs-konrad-stump.md) **19 June 1766** at **Sulgen**, **Thurgau**, and was mother of [Hans Ulrich Stump](hans-ulrich-stump.md) and other children on the same union in [family-tree.json](../family-tree.json). Death is flagged in the export without structured date or place. Father: [Hans Jacob Jung](hans-jacob-jung.md); the parental union in this file has no wife line—mother unknown here.
 
 ## Life
 
-- **1735** — Born (GEDCOM year only).
-- **19 Jun 1766** — Marriage **Sulgen** to Hs. Konrad Stump (**F73**).
-- **Death** — **DEAT** present without structured detail in the slice used for this page.
+- **1735** — Birth year in export.
+- **19 Jun 1766** — Marriage **Sulgen**.
+- **Death** — **Y** without detail in slice.
 
 ## Family
 
 - Husband: [Hs. Konrad Stump](hs-konrad-stump.md).
-- Children include [Hans Ulrich Stump](hans-ulrich-stump.md) plus **@I563@**, **@I564@**, **@I565@** per **F73**.
-- Father: [Hans Jacob Jung](hans-jacob-jung.md) (**@I150@**); **F75** lists no **WIFE** in the export—mother unknown in this file.
+- Father: [Hans Jacob Jung](hans-jacob-jung.md).
+- Children: [Hans Ulrich Stump](hans-ulrich-stump.md); siblings listed under **F73** in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I147@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F73** / **F75**; FamilySearch id **KFRC-6JP** in export.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I147@`** — unions **F73**, **F75** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KFRC-6JP**.
 
 ## Open questions
 
-- **Baptism** — Sulgen or another Thurgau parish for **1735**.
-- **Death** — before or after son **Hans Ulrich**’s birth **1767**; must satisfy **F72** timeline (she cannot die before **Hans Ulrich** is born unless GEDCOM dates conflict—spot-check Sulgen register).
+- **1735** baptism—**Sulgen** or another **Thurgau** parish.
+- Death timing vs **Hans Ulrich**’s **1767** birth—spot-check **Sulgen** register if dates look tight.

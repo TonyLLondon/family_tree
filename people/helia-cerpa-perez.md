@@ -1,6 +1,6 @@
 ---
 name: Helia Cerpa-Pérez
-alsoKnownAs:
+also_known_as:
   - Helia del Carmen Cerpa Pérez
 treeId: I19
 gedcom: "@I19@"
@@ -20,7 +20,7 @@ children:
 
 # Helia del Carmen Cerpa Pérez
 
-Born **4 June 1943** at **Parral, Linares, Maule, Chile** (tree / GEDCOM; FamilySearch confirms **1943–2025**). Full baptismal name **Helia del Carmen**. Daughter of [Miguel Luis Cerpa González](miguel-cerpa-gonzalez-i346.md) and [Laurencia del Carmen Pérez Escobar](laurencia-perez-escobar-i347.md); birth union **F162**. Brother [Miguel Antonio Cerpa Pérez](miguel-cerpa-perez-i352.md) (1948–2015) is also on **F162**. Wife of [Joseph Evans (1940)](joseph-evans-i18.md) — marriage **1982** (**F9**). Mother of [Jacqueline Caroline Evans](jacqueline-caroline-evans-i5.md). Died **2025** (year only in tree; refine with register citation when filed).
+**Helia del Carmen** was born **4 June 1943** in **Parral**, **Linares**, **Maule**—Neruda’s town, wine country, and later a nodal point of dictatorship and memory. Her parents were [Miguel Luis Cerpa González](miguel-cerpa-gonzalez-i346.md) and [Laurencia del Carmen Pérez Escobar](laurencia-perez-escobar-i347.md); her brother [Miguel Antonio Cerpa Pérez](miguel-cerpa-perez-i352.md) (1948–2015) shared that household. She married [Joseph Evans (1940)](joseph-evans-i18.md) in **1982** and was mother to [Jacqueline Caroline Evans](jacqueline-caroline-evans-i5.md). She died **2025** (year in tree; civil citation when filed). FamilySearch and the vault graph agree on **1943–2025** for her span.
 
 ---
 
@@ -93,8 +93,9 @@ General Pinochet was arrested in London on 16 October 1998 on a warrant from Spa
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I19`**.
+- [family-tree.json](../family-tree.json).
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
+- **Export:** MyHeritage **`@I19@`** — birth union **F162** with parents; marriage **F9** with Joseph — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 
 ### Online sources naming Helia Evans
 

@@ -13,18 +13,18 @@ children:
 
 # John Grave
 
-Father of [William Grave](william-grave.md) with [Jennett](jennett.md) in **F46**. Birth **1560** **Westmorland**; **DEAT** flagged without **DATE** in the export.
+**John Grave** was born **1560** in **Westmorland**. He married [Jennett](jennett.md) and fathered [William Grave](william-grave.md). The export marks a death **Y** without date.
 
 ## Family
 
 - Wife: [Jennett](jennett.md).
-- Children include [William Grave](william-grave.md) per **F46**.
+- Children: [William Grave](william-grave.md).
 
 ## Evidence
 
-- GEDCOM **`@I94@`**, **F46**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I94@`** — union **F46** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Pre-1600** **Grave** wills at **Carlisle** or **York**.
+- Pre-**1600** **Grave** wills **Carlisle** or **York**.

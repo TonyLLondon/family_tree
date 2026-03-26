@@ -12,20 +12,20 @@ children:
 
 # Simeone Guiseppe Boara
 
-Husband of [Maria Teresa Robustella](maria-teresa-robustella.md) in **F56** (marriage **29 Oct 1763**, **Zara**); father of [Giovanni Battista Boara](giovanni-battista-boara.md). **Guiseppe** spelling is verbatim from GEDCOM (**Giuseppe** expected in registers).
+**Simeone Guiseppe Boara**—**Guiseppe** is the export spelling; registers likely read **Giuseppe**—married [Maria Teresa Robustella](maria-teresa-robustella.md) **29 October 1763** at **Zara** and was father of [Giovanni Battista Boara](giovanni-battista-boara.md). His father in the graph is [Giuseppe Boara](giuseppe-boara.md); the parental union in the same export names **Giuseppe** as husband but no wife line.
 
 ## Family
 
 - Wife: [Maria Teresa Robustella](maria-teresa-robustella.md).
-- Father: [Giuseppe Boara](giuseppe-boara.md) (**F62**: **HUSB @I127@**, **CHIL @I113@**—no **WIFE** line in **F62** in this export).
-- Children include [Giovanni Battista Boara](giovanni-battista-boara.md) per **F56**.
+- Father: [Giuseppe Boara](giuseppe-boara.md).
+- Children: [Giovanni Battista Boara](giovanni-battista-boara.md).
 
 ## Evidence
 
-- GEDCOM **`@I113@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F56** / **F62**; FamilySearch **GW1S-LXW**.
 - [family-tree.json](../family-tree.json).
-- **Marriage register, Zara, 29 Oct 1763:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Robustella Zara 1763.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Robustella%20Zara%201763.jpg) — untranscribed; his marriage to Maria Teresa Robustella (F56).
+- **Export:** MyHeritage **`@I113@`** — unions **F56**, **F62** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW1S-LXW**.
+- **Marriage register, Zara, 29 Oct 1763:** [Marriage Boara Robustella Zara 1763.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Robustella%20Zara%201763.jpg) — untranscribed scan in repo.
 
 ## Open questions
 
-- **Vitals** — **@I113@** has no **BIRT**/**DEAT** lines in the slice used here.
+- Birth and death when **BIRT**/**DEAT** blocks are transcribed from the full export.

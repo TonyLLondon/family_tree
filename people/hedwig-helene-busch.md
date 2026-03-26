@@ -13,24 +13,24 @@ children:
 
 # Hedwig Helene Busch
 
-Wife of [Caspar Martin I. Eylandt](caspar-martin-i-eylandt.md) in **F148**; mother of [Carl Gustav Eylandt](carl-gustav-eylandt.md). Birth **ABT 1705** at **Haiba’scher Krug, Haggers** (Livonian estate / tavern toponym in export spelling).
+**Hedwig Helene Busch** married [Caspar Martin I. Eylandt](caspar-martin-i-eylandt.md) and was mother of [Carl Gustav Eylandt](carl-gustav-eylandt.md). She was born about **1705** at **Haiba’scher Krug, Haggers**—a Livonian estate / tavern toponym as spelled in the export.
 
 ## Life
 
-- **~1705** — Born (GEDCOM place as above).
-- **~1729** — Marriage **Nonnenhof** (**F148**).
-- **Death** — **DEAT** flag without date in the slice used here.
+- **~1705** — Birth bracket and place as in graph.
+- **~1729** — Marriage **Nonnenhof**.
+- **Death** — Recorded as **Y** without date in the export slice.
 
 ## Family
 
 - Husband: [Caspar Martin I. Eylandt](caspar-martin-i-eylandt.md).
-- Children include [Carl Gustav Eylandt](carl-gustav-eylandt.md) per **F148**.
+- Children: [Carl Gustav Eylandt](carl-gustav-eylandt.md).
 
 ## Evidence
 
-- GEDCOM **`@I313@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F148**; FamilySearch **KJ5Q-8J6**.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I313@`** — union **F148** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KJ5Q-8J6**.
 
 ## Open questions
 
-- **Busch** **FAMC** — not linked in the slice; add parents when **Livland** communion books are cited.
+- **Busch** parentage when **Livland** communion books are cited.

@@ -13,25 +13,28 @@ children:
 
 # Rachel James
 
-Mother of [David John Lewis (1857)](david-john-lewis-1857.md) (**@I173@**) with [Lewis Lewis](lewis-lewis.md) in **F189**. Census bundles mirror his **Gelligaer** trail: **1861** wife age **35** (**RG09/4046**), **1871** age **47** (**RG10/5388**), **1881** age **57** (**RG11/5308**)—same household IDs as **@I427@** in the GEDCOM **TEXT** blocks.
+Rachel enters the record as the wife beside [Lewis Lewis](lewis-lewis.md) at Gelligaer—thirty-five in 1861, forty-seven a decade later, fifty-seven when the 1881 enumerator called her carpenter’s spouse on the same folio run as her husband. Glamorganshire is all the birthplace line offers for now; the James maiden line still waits on a marriage or baptism image that names her parents.
 
-## Life
-
-- **1824** — Born **Glamorganshire** (GEDCOM year only in the extract used here).
-- **1861–1881** — Co-resident **Merthyr / Gelligaer** census events as wife of household head Lewis Lewis.
-- **Death** — **DEAT Y** without date or place in the slice used for this page.
+Like Lewis, she carries only a death flag in the merged export—work to find her after 1881 belongs to civil indexes and burial books.
 
 ## Family
 
 - Husband: [Lewis Lewis](lewis-lewis.md).
-- Children include [David John Lewis (1857)](david-john-lewis-1857.md) plus **@I429@**, **@I431@**, **@I432@**, **@I433@**, **@I430@** per **F189** in [family-tree.json](../family-tree.json).
+- Children: [David John Lewis (1857)](david-john-lewis-1857.md); further siblings on the same union in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I428@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F189**; **RG09/4046**, **RG10/5388**, **RG11/5308** text in export.
+- Census extracts in merged export — co-residence with Lewis Lewis 1861–1881, Merthyr / Gelligaer (piece references under **Export**).
+
+**Export:**
+
+- MyHeritage **`@I428@`**; union **F189** with [Lewis Lewis](lewis-lewis.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- Census in export: RG09/4046; RG10/5388; RG11/5308 — same household folio run as Lewis’s extract blocks.
+- Further children on **F189**: see [family-tree.json](../family-tree.json).
+- Death: export marks **DEAT Y** without date/place in slice used here.
 - [family-tree.json](../family-tree.json).
 
 ## Open questions
 
-- **James** maiden-line parents — not stated in **F189**; Welsh **James** clusters in Merthyr need a BMD anchor.
-- **Death** — post-**1881** civil or burial index.
+- James parents — not stated on the parental union in [family-tree.json](../family-tree.json); Welsh James clusters in Merthyr need a BMD anchor.
+- Death after 1881 — civil or burial index.

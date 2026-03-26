@@ -9,17 +9,17 @@ children:
 
 # Denis MacMahon
 
-Father of [Christian MacMahon](christian-macmahon.md) in **F177** (**HUSB @I376@** with **CHIL @I373@**). **@I376@** has **no BIRT**/**DEAT** in the slice.
+**Denis MacMahon** was father of [Christian MacMahon](christian-macmahon.md). No birth or death in the export slice used here.
 
 ## Family
 
-- Children include [Christian MacMahon](christian-macmahon.md) per **F177**.
+- Children: [Christian MacMahon](christian-macmahon.md).
 
 ## Evidence
 
-- GEDCOM **`@I376@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F177** only.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I376@`** — union **F177** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Spouse** — **F177** has no **WIFE** line in this export.
+- Spouse—**F177** has no wife line in this export.

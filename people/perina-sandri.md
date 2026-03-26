@@ -13,23 +13,23 @@ children:
 
 # Perina Sandri
 
-Wife of [Pietro Paolo Coltelli](pietro-paolo-coltelli.md) in **F61**; mother of [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md). **FAMC @F66@**: father [Giacomo Sandri](giacomo-sandri.md) (**HUSB @I131@**, **CHIL @I123@**); **no WIFE** line in **F66** in the export.
+Perina Sandri was the wife of [Pietro Paolo Coltelli](pietro-paolo-coltelli.md) and mother of [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md). Her father in the export is [Giacomo Sandri](giacomo-sandri.md); that birth-family record names father and daughter only—no mother line in this slice.
 
 ## Life
 
-- Birth year not in the slice; **Zara** on **BIRT** line.
+- Birth year not in the slice; **Zara** on the birth line.
 
 ## Family
 
 - Husband: [Pietro Paolo Coltelli](pietro-paolo-coltelli.md).
 - Father: [Giacomo Sandri](giacomo-sandri.md).
-- Children include [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md) per **F61**.
+- Children include [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md).
 
 ## Evidence
 
-- GEDCOM **`@I123@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F61** / **F66**; FamilySearch **GWF6-LGY**.
+- **Export:** MyHeritage **`@I123@`** — unions **F61**, **F66** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GWF6-LGY**.
 - [family-tree.json](../family-tree.json).
 
 ## Open questions
 
-- **Sandri** mother — **F66** lacks **WIFE**; recover from parish.
+- **Sandri** mother — birth-family record in export lacks a mother line; recover from parish.

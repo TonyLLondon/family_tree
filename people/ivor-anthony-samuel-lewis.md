@@ -16,18 +16,17 @@ children:
 
 # Ivor Anthony Samuel Lewis
 
-Son of [David John Lewis](david-john-lewis.md) and [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md); father of [Anthony Robert Lewis](anthony-robert-lewis.md). The GEDCOM records a **Florence birth** and **Dr** name prefix (professional title in export).
+**Ivor** sits at the chemical knot where Wales, Italy, and a childhood on the **Copperbelt** meet. Born in **Florence** in **December 1951**, he was the son of a wartime major who had crossed the **Po** under fire and a mother who had watched **Zara** turn to smoke—[David John Lewis](david-john-lewis.md) and [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md). The export tags him **Dr**; the record trail tags him **I. A. S. Lewis** on mass spectra, co-authored books, and chromatography papers across three continents.
+
+He made his professional life in **analytical chemistry** and **mass spectrometry**—the art of weighing molecules in flight. Colleagues at **King’s College London** knew him through the late **1980s** and beyond; the **1990 Springer** volume on **LC/MS**, co-written with **Yergey**, **Edmonds**, and **Vestal**, is still a shelf standard. In **Canberra**, at the **Australian National University**, he worked with **J. K. MacLeod** on toxic plants and natural products—**Wedelia**, **Verbesina**, alkaloids with unglamorous names and serious poison. Italian industry appears in the bibliography too: a **1983** paper on **Iopamidol** by-products with **Bracco** in Milan reads like a quiet bow to his mother’s language. By the **1990s** he was publishing with **Glaxo Wellcome** in drug metabolism. He died at **Bolsena**, north of Rome—a small volcanic lake town, far from Ndola’s red dust but still on Italian soil.
 
 ## Life
 
-- **4 Dec 1951** — Born **Florence** (GEDCOM).
-- **3 Aug 1974** — Marriage to [Catherine Stump](catherine-stump.md) at **Hove, Sussex, United Kingdom** (family **F1**).
+On **3 August 1974** he married [Catherine Stump](catherine-stump.md) at **Hove**, Sussex—the same coastal strip where his parents would end their days.
 
 ## Career
 
-Ivor Lewis was a chemist specialising in **analytical chemistry and mass spectrometry**. He was a member of the **Department of Chemistry, King's College London** through at least the late 1980s–1990 (confirmed by the 1989 electrospray paper and the 1990 Springer book). He also taught at the **Australian National University (ANU)** in Canberra, where he collaborated with **J. K. MacLeod** at the **Research School of Chemistry** on Australian toxic-plant studies (1980–1992). By 1999 he was publishing with **Glaxo Wellcome R&D**. He died in **Bolsena, Italy**.
-
-His published work spans FAB (fast atom bombardment) mass spectrometry, electrospray ionisation, thermospray LC-MS, capillary electrophoresis, Maillard reaction chemistry, and natural-product toxicology. He also collaborated with Italian researchers at **Bracco Industria Chimica SpA, Milan** (1983 paper on Iopamidol synthesis), consistent with his Italian roots.
+His published work moves from **FAB** and **electrospray** through **thermospray LC–MS**, **capillary electrophoresis**, **Maillard** chemistry in food science, and **natural-product toxicology**—a coherent obsession with how compounds separate, fragment, and betray themselves in detectors.
 
 ### Selected publications (~27 on Google Scholar, 1980–1999)
 
@@ -52,18 +51,18 @@ His published work spans FAB (fast atom bombardment) mass spectrometry, electros
 
 - Parents: [David John Lewis](david-john-lewis.md); [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md).
 - Wife: [Catherine Stump](catherine-stump.md).
-- Children: [Anthony Robert Lewis](anthony-robert-lewis.md) and others per **F1** in [family-tree.json](../family-tree.json).
+- Children: [Anthony Robert Lewis](anthony-robert-lewis.md) and others — [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I2@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [family-tree.json](../family-tree.json) — unions **F1**, **F4**.
 - Springer author page for *LC/MS* book: [link.springer.com/book/10.1007/978-1-4899-3605-9](https://link.springer.com/book/10.1007/978-1-4899-3605-9) — affiliation **King's College, London, UK**.
 - Google Scholar results for author "Ivor A. S. Lewis": ~27 publications (1980–1999).
 - Open Library author record: [openlibrary.org/authors/OL3419627A](https://openlibrary.org/authors/OL3419627A).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage GEDCOM **`@I2@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Unions **F1**, **F4** in same graph.
 
 ## Open questions
 
 - Civil registration image for **1951 Florence** birth in `media/` (optional ingest).
-- **ANU Canberra:** dates of appointment not yet confirmed online.
-- **Death date in Bolsena** — no obituary or death notice found online.
+- **ANU Canberra:** exact dates of appointment not yet confirmed online.
+- **Death date at Bolsena** — obituary or civil notice not yet located.

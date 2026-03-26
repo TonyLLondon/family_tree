@@ -11,18 +11,16 @@ children:
 
 # D. Jacobus Addobbati
 
-Father of [D. Ivanes Baptista Addobbati](d-ivanes-baptista-addobbati.md) in **F20** (**HUSB @I35@**, **CHIL @I34@**). **F20** has **no WIFE** line in this export.
+**D. Jacobus Addobbati** combines two honorable early-modern labels in one short line from Sabalich: *notajo* and *creato cittadino*, notary and enfranchised citizen, dated 1610 in the Bergamo testimonial of 1745. The juxtaposition hints at the social physics of north Italian towns—ink, property, belonging—long before any Addobbati swore an oath in Zara.
 
-## Life
-
-- **1610** — *D. Iacobus notajo, creato cittadino* — notary, created citizen. Listed in the 1745 Bergamo genealogical testimonial (Sabalich p. 503).
+He appears here as father of Ivanes Baptista; the export used for the vault does not name a spouse.
 
 ## Family
 
-- Father: [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md) (**F21**).
-- Children include [D. Ivanes Baptista Addobbati](d-ivanes-baptista-addobbati.md) per **F20**.
+- Father: [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md).
+- Children: [D. Ivanes Baptista Addobbati](d-ivanes-baptista-addobbati.md).
 
 ## Evidence
 
-- GEDCOM **`@I35@`**, **F20** / **F21**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW1S-G8N**.
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Iacobus notajo, creato cittadino (1610)" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Iacobus notajo, creato cittadino (1610)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Export:** GEDCOM individual `@I35@`, families F20 / F21; FamilySearch GW1S-G8N — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).

@@ -17,26 +17,27 @@ children:
 
 # Carl Gustav Eylandt
 
-Father of [Johan Jacob Eylandt](johan-jacob-eylandt.md). The export gives a **Hageri (Harjumaa)** origin—south of Tallinn in the **Harrien** church district—and a death **after 1816** at **Kirrefer** in **Livonia**, showing how Eylandt / Eiland families moved between **Estland** and **Livland** provinces under the same imperial administration.
+**Carl Gustav Eylandt** was father of [Johan Jacob Eylandt](johan-jacob-eylandt.md). The export places his birth in **Hageri (Harjumaa)**—south of **Tallinn** in the **Harrien** church district—and his last known place at **Kirrefer** in **Livonia**, with death **after 1816**—typical **Estland** / **Livland** movement under one imperial administration.
 
 ## Life
 
-- **25 September 1743** — Born **Haggers (Hageri)**; christened **29 September 1743**, **Hageri kihelkond** (pastorate district).
-- **Death after 1816** — GEDCOM qualifier; **Kirrefer** as last known place.
+- **25 September 1743** — Born **Haggers (Hageri)**; christened **29 September 1743**, **Hageri kihelkond**.
+- **After 1816** — Death bracket in export; **Kirrefer** as last named place.
 
-He married [Margarete Elisabeth Wiedau](margarete-elisabeth-wiedau.md) (**F143**). She was born **1744** also in **Hageri**, which often indicates **same-parish marriage** and inherited farm or tenant continuity.
+He married [Margarete Elisabeth Wiedau](margarete-elisabeth-wiedau.md). She was born **1744** also in **Hageri**, which often marks same-parish marriage and continuity on tenant or farm holdings.
 
 ## Family
 
-- Parents: [Caspar Martin I. Eylandt](caspar-martin-i-eylandt.md); [Hedwig Helene Busch](hedwig-helene-busch.md) (**F148**).
+- Parents: [Caspar Martin I. Eylandt](caspar-martin-i-eylandt.md); [Hedwig Helene Busch](hedwig-helene-busch.md).
 - Wife: [Margarete Elisabeth Wiedau](margarete-elisabeth-wiedau.md).
-- Children: [Johan Jacob Eylandt](johan-jacob-eylandt.md) and others per **F143**.
+- Children: [Johan Jacob Eylandt](johan-jacob-eylandt.md); further children on the marriage union in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I304@`**, **F143**, **F148** (`FAMC`): [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I304@`** — unions **F143** (with Margarete), **F148** (`FAMC`) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **F148** parents (**@I312@** husband, **@I313@** wife per export) — next generation page when Thuringian/Livonian research extends.
-- Exact **year of death** if Kirrefer burial register is indexed.
+- Next generation pages for **F148** spouses when **Thuringian** / **Livonian** work extends.
+- Exact death year from **Kirrefer** burial registers if indexed.

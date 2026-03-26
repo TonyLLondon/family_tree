@@ -16,22 +16,22 @@ children:
 
 # Juliana O'Moore
 
-Wife of [Robert Roche](robert-roche.md) in **F173**; mother of [Stephen O'Moore Roche](stephen-omoore-roche.md).
+Juliana O’Moore was the wife of [Robert Roche](robert-roche.md) and mother of [Stephen O'Moore Roche](stephen-omoore-roche.md).
 
 ## Life
 
-- **~1636** — Born **Ballina, County Kildare, Ireland** (GEDCOM **ABT**).
-- **~1689** — Died **Ireland** (GEDCOM **ABT**).
+- **~1636** — Born **Ballina, County Kildare, Ireland** (about, in export).
+- **~1689** — Died **Ireland** (about, in export).
 
 ## Family
 
 - Husband: [Robert Roche](robert-roche.md).
-- Father: [Alexander O'Moore](alexander-omoore.md) (**F179**).
-- Children include [Stephen O'Moore Roche](stephen-omoore-roche.md) per **F173**.
+- Father: [Alexander O'Moore](alexander-omoore.md).
+- Children include [Stephen O'Moore Roche](stephen-omoore-roche.md).
 
 ## Evidence
 
-- GEDCOM **`@I370@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F173** / **F179**; FamilySearch **M17Q-CF3**.
+- **Export:** MyHeritage **`@I370@`** — unions **F173**, **F179** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **M17Q-CF3**.
 
 ## Open questions
 

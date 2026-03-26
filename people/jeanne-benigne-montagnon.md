@@ -13,22 +13,22 @@ children:
 
 # Jeanne Benigne Montagnon
 
-Mother of [Marc Francois Stump](marc-francois-stump.md) (**@I140@**) with [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) in GEDCOM **F71** (marriage **25 Sep 1832**, **Sulgen, Thurgau, Switzerland**). The MyHeritage export compresses her own birth and christening to **1800** and **France** only—enough to anchor the tree but not enough for a parish-level biography.
+Jeanne Benigne Montagnon was the wife of [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) and mother of [Marc Francois Stump](marc-francois-stump.md) and [Luise Elizabeta Stump](luise-elizabeta-stump.md). They married on 25 September 1832 at Sulgen, Thurgau, Switzerland. The MyHeritage export compresses her birth and christening to the year 1800 in France only—enough to anchor the tree but not for a parish-level biography.
 
 ## Life
 
-- **1800** — Birth and christening year **France** (GEDCOM; no département or parish in export).
-- **25 Sep 1832** — Marriage **Sulgen, Thurgau** (**F71**).
-- **Death** — GEDCOM marks a death without date/place in the extract used here.
+- **1800** — Birth and christening year **France** (no département or parish in export).
+- **25 Sep 1832** — Marriage **Sulgen, Thurgau**.
+- **Death** — marked without date or place in the extract used here.
 
 ## Family
 
 - Husband: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md).
-- Children include [Marc Francois Stump](marc-francois-stump.md) and **@I393@** per **F71** in [family-tree.json](../family-tree.json).
+- Children include [Marc Francois Stump](marc-francois-stump.md) and [Luise Elizabeta Stump](luise-elizabeta-stump.md); see [family-tree.json](../family-tree.json) for the full household.
 
 ## Evidence
 
-- GEDCOM **`@I143@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F71**; FamilySearch id **MSD2-9QP** in export.
+- **Export:** MyHeritage **`@I143@`** — union **F71** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSD2-9QP**.
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

@@ -18,7 +18,7 @@ children:
 
 # Vera Obolensky
 
-Russian émigré who fled the 1917 Revolution to Tehran, managed a large European-style **guesthouse on the Mahmoudieh estate** belonging to **Dr. Étienne Stump**, and later became Stump's wife. Her son **Georges Obolensky** was born in Tehran in 1920.
+**Vera**—**Nemtchinova** before the world insisted on **Princess Obolensky**—fled the **1917** storm south to **Tehran**, where she ran what functioned as a **forty-room hotel** on **[Mahmoudieh](../topics/mahmoudieh-house.md)**: European beds, Russian tongues, **[Étienne Stump](etienne-stump.md)**’s land beneath her lease and later his name beside hers in marriage. Her son **Georges**, born **1920** in the same city, would write the memoir that saves the guesthouse from anecdote.
 
 ## Life
 

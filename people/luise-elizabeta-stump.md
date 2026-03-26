@@ -13,22 +13,22 @@ mother: jeanne-benigne-montagnon
 
 # Luise Elizabeta Stump
 
-Sister of [Marc Francois Stump](marc-francois-stump.md) (both children of [Hans Jacob Stump](hans-jacob-stump-1800.md) and [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md), union **F71**). Born in **Erlen, Thurgau** — the Stump family's place of origin — she lived and died in **Tallinn**, Estonia, following the same Baltic path as her brother Marc.
+Sister of [Marc Francois Stump](marc-francois-stump.md); both children of [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) and [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md). Born in **Erlen**, **Thurgau**, she lived and died in **Tallinn**, **Estonia**, the same Baltic arc as Marc.
 
 ## Life
 
-- **11 July 1837** — Born Erlen, Thurgau, Switzerland (GEDCOM).
-- Lived in **Tallinn** (Reval); the Henderson [Stump Family Tree chart](../sources/stump-family-tree-chart.md) records death at **Yverdon?** but GEDCOM has **Tallinn**.
-- **8 March 1910** — Died Tallinn, Estonia (GEDCOM). The [Estonian Biographical Center report (2005)](../sources/estonian-biographical-center-stump-report-2005.md) notes a **1910** Tallinn newspaper obituary for **"Louise Stump"** with mourners including **"Dr Etienne Stump and wife in Teheran"** — this is likely her.
+- **11 July 1837** — Born **Erlen**, **Thurgau**, **Switzerland**.
+- Lived in **Tallinn** (**Reval**); the Henderson [Stump Family Tree chart](../sources/stump-family-tree-chart.md) records death at **Yverdon** in one hand, while the structured export gives **Tallinn**.
+- **8 March 1910** — Died **Tallinn**. The [Estonian Biographical Center report (2005)](../sources/estonian-biographical-center-stump-report-2005.md) notes a **1910** Tallinn obituary for **“Louise Stump”** with mourners including **“Dr Etienne Stump and wife in Teheran”** — almost certainly her.
 
 ## Family
 
-- Parents: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md) (**F71**).
+- Parents: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md).
 - Brother: [Marc Francois Stump](marc-francois-stump.md).
 - Nephew: [Étienne Stump](etienne-stump.md).
 
 ## Evidence
 
-- GEDCOM **`@I393@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I393@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection.

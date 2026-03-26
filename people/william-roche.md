@@ -15,25 +15,25 @@ children:
 
 # William Roche
 
-Father of [Catherine Mary Roche](catherine-mary-roche.md). GEDCOM **`@I137@`** gives **birth before 1794** “of Dublin,” death **14 Apr 1894** Dublin, and marriage **1 Mar 1832** at **St. Andrew’s, Westland Row** (**F68**).
+William Roche was father of [Catherine Mary Roche](catherine-mary-roche.md). The export gives his birth before 1794 in Dublin, death on 14 April 1894 in Dublin, and marriage on 1 March 1832 at St Andrew’s, Westland Row.
 
 ## Life
 
-- **1832** — Marriage in Dublin (wife `@I360@` per GEDCOM — page pending).
+- **1832** — Marriage in Dublin to [Eliza Knight](eliza-knight.md).
 - **1894** — Died Dublin.
 
 ## Family
 
-- Parents: [Thomas Roche](thomas-roche.md); [Hellen Ankettle](hellen-ankettle.md) (**F160**).
+- Parents: [Thomas Roche](thomas-roche.md); [Hellen Ankettle](hellen-ankettle.md).
 - Wife: [Eliza Knight](eliza-knight.md).
 - Daughter: [Catherine Mary Roche](catherine-mary-roche.md).
 
 ## Evidence
 
-- GEDCOM **`@I137@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Export:** MyHeritage **`@I137@`** — unions **F68**, **F160** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - [O’Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions
 
-- **F68** marriage image to [Eliza Knight](eliza-knight.md) (**@I360@**).
+- Marriage image for the 1832 Dublin union with [Eliza Knight](eliza-knight.md).

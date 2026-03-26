@@ -17,17 +17,18 @@ children:
 
 # Andreas Heinrich
 
-Husband of [Anna Epper](anna-epper.md) in **F80**; father of [Aenderli Heinrich](aenderli-heinrich.md) (**@I157@**). Christening **23 Jan 1594** **Sulgen** matches birth event in GEDCOM.
+**Andreas Heinrich** was christened **23 January 1594** at **Sulgen** (held to match the birth event in the export). He married [Anna Epper](anna-epper.md) and was father of [Aenderli Heinrich](aenderli-heinrich.md). He died **28 October 1670** at **Heldswil**, **Thurgau**.
 
 ## Family
 
 - Wife: [Anna Epper](anna-epper.md).
-- Parents: [Jacob Heinrich](jacob-heinrich.md); [Ursula Rutershaus](ursula-rutershaus.md) (**F81**).
-- Children include [Aenderli Heinrich](aenderli-heinrich.md) per **F80**.
+- Parents: [Jacob Heinrich](jacob-heinrich.md); [Ursula Rutershaus](ursula-rutershaus.md).
+- Children: [Aenderli Heinrich](aenderli-heinrich.md).
 
 ## Evidence
 
-- GEDCOM **`@I159@`**, **F80** / **F81**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KZ2F-8XR**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I159@`** — unions **F80**, **F81** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KZ2F-8XR**.
 
 ## Open questions
 

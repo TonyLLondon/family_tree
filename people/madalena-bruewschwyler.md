@@ -12,16 +12,17 @@ children:
 
 # Madalena Bruewschwyler
 
-Wife of [Blaesi Stump](blaesi-stump.md) in **F83**; mother of [Caspar Stumpp](caspar-stumpp.md). Birth **1569**; **DEAT** flagged without **DATE** in the export.
+**Madalena Bruewschwyler** was born **1569**. She married [Blaesi Stump](blaesi-stump.md) and was mother of [Caspar Stumpp](caspar-stumpp.md). The export flags death **Y** without date.
 
 ## Family
 
 - Husband: [Blaesi Stump](blaesi-stump.md).
-- Children include [Caspar Stumpp](caspar-stumpp.md) per **F83**.
+- Children: [Caspar Stumpp](caspar-stumpp.md).
 
 ## Evidence
 
-- GEDCOM **`@I166@`**, **F83**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I166@`** — union **F83** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

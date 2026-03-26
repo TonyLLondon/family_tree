@@ -13,27 +13,27 @@ children:
 
 # Thomas Griffiths
 
-Father of [Catherine Griffiths](catherine-griffiths.md) (**@I174@**) with [Anne](anne.md) (**@I423@**, no surname in export) in GEDCOM **F188**. Born **Trecastle, Brecknockshire** (**1830**), he appears in **Aberdare** census extracts as household head (**1861** **RG09/4068**, **1871** **RG10/5405**, **1881** **RG11/5320**) with occupation **colliery lab** in **1881**.
+**Thomas Griffiths** was born **1830** at **Trecastle**, **Brecknockshire**. He married [Anne](anne.md)—forename only in the export—and was father of [Catherine Griffiths](catherine-griffiths.md). **Aberdare** census extracts show him as head (**1861** RG09/4068, **1871** RG10/5405 folio 12 p. 17 sched. 76 with young Catherine, **1881** RG11/5320 folio 51 p. 7 sched. 409) with occupation **colliery labourer** in **1881**.
 
 ## Life
 
-- **1830** — Born **Trecastle, Brecknockshire, Wales**.
-- **1861** — Age **30**, head, **Aberdare**, Merthyr district.
-- **1871** — Age **40**, same folio run (**RG10/5405** folio **12** page **17**, schedule **76**—shared with young Catherine’s “daughter of head” row).
-- **1881** — Age **51**, **colliery lab**, **Aberdare** (**RG11/5320** folio **51** page **7**, schedule **409**).
-- **Death** — **DEAT Y** only in the export slice used here.
+- **1830** — Born **Trecastle**, **Brecknockshire**.
+- **1861** — Age **30**, head, **Aberdare**.
+- **1871** — Age **40**, same folio run.
+- **1881** — Age **51**, **colliery lab**, **Aberdare**.
+- **Death** — **Y** only in export slice.
 
 ## Family
 
-- Wife: [Anne](anne.md) (**@I423@**).
-- Children include [Catherine Griffiths](catherine-griffiths.md) plus **@I424@**, **@I425@**, **@I426@** per **F188** in [family-tree.json](../family-tree.json).
+- Wife: [Anne](anne.md).
+- Children: [Catherine Griffiths](catherine-griffiths.md); further children on union in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I422@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F188**; census **TEXT** blocks **RG09**, **RG10**, **RG11**.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I422@`** — union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); census **TEXT** blocks RG09 / RG10 / RG11.
 
 ## Open questions
 
-- **Death** — Aberdare or Breconshire return; may post-date Catherine’s marriage **1884**.
-- **Brecknock to Glamorgan move** — apprenticeship, colliery hiring, or family chain; needs a documentary bridge beyond census age/place.
+- Death return — **Aberdare** or **Breconshire**; may post-date Catherine’s **1884** marriage.
+- Move **Brecknock** → **Glamorgan** — documentary bridge beyond census ages.

@@ -13,18 +13,18 @@ children:
 
 # Sarah Becke
 
-Wife of [Joseph Grave](joseph-grave.md) in **F43**; mother of [Sarah Grave](sarah-grave.md). Birth **14 Jun 1679**; death **7 May 1709**. **FAMC** not attached in the export slice read for this page.
+**Sarah Becke** was born **14 June 1679** and died **7 May 1709**. She married [Joseph Grave](joseph-grave.md) and was mother of [Sarah Grave](sarah-grave.md). No parents are attached in the export slice used for this page.
 
 ## Family
 
 - Husband: [Joseph Grave](joseph-grave.md).
-- Children include [Sarah Grave](sarah-grave.md) per **F43**.
+- Children: [Sarah Grave](sarah-grave.md).
 
 ## Evidence
 
-- GEDCOM **`@I91@`**, **F43**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I91@`** — union **F43** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Becke** parentage — extend **GEDCOM** **FAMC** if present elsewhere in file.
+- **Becke** parentage if a parental union appears elsewhere in the full export.

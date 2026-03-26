@@ -12,18 +12,18 @@ children:
 
 # Antonio Grabar
 
-Husband of [Antonia Polettit](antonia-polettit.md) in **F57**; father of [Giovanna Grabar](giovanna-grabar.md). Birth **Palmanova** (Friuli) on **BIRT** line; no year in export slice.
+**Antonio Grabar** was born at **Palmanova**, **Friuli** (year not in export slice). He married [Antonia Polettit](antonia-polettit.md) and was father of [Giovanna Grabar](giovanna-grabar.md).
 
 ## Family
 
 - Wife: [Antonia Polettit](antonia-polettit.md).
-- Children include [Giovanna Grabar](giovanna-grabar.md) per **F57**.
+- Children: [Giovanna Grabar](giovanna-grabar.md).
 
 ## Evidence
 
-- GEDCOM **`@I114@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F57** only.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I114@`** — union **F57** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Palmanova → Zara** migration — military **fortezza** posting vs civilian trade.
+- **Palmanova** → **Zara** move—**fortezza** posting vs trade.

@@ -12,16 +12,16 @@ children:
 
 # Antonio Guerino
 
-Father of [Antonia Maria Guerino](antonia-maria-guerino.md) with [Maria Zuajetto](maria-zuajetto.md) in **F183**. **BIRT** **PLAC** **Venice, Italy** in GEDCOM; **DEAT** without **DATE** in the export.
+Antonio Guerino was the husband of [Maria Zuajetto](maria-zuajetto.md) and father of [Antonia Maria Guerino](antonia-maria-guerino.md). The export records his birth in Venice, Italy; a death is flagged but without a date.
 
 ## Family
 
 - Wife: [Maria Zuajetto](maria-zuajetto.md).
-- Children include [Antonia Maria Guerino](antonia-maria-guerino.md) per **F183**.
+- Children include [Antonia Maria Guerino](antonia-maria-guerino.md).
 
 ## Evidence
 
-- GEDCOM **`@I389@`**, **F183**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I389@`** — union **F183** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

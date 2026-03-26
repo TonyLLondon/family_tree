@@ -15,33 +15,34 @@ children:
 
 # Antonio Zerauschek (senior)
 
-**`@I25@`** — father of the interwar hotelier [Antonio Zerauschek](antonio-zerauschek.md) (`@I14@`). In the export he is the **1850-born Zara native** who marries [Anna Herenda](anna-herenda.md) in **1878**; that son later marries [Ester Addobbati](ester-addobbati.md) and becomes Fulvia's father.
+Think of him as **Nonno’s father**: the carpenter from Zara who appears in registers as **Antonio Giacomo Vincenzo**, born in **1850**, who crossed the water to **Pag** to marry [Anna Herenda](anna-herenda.md) and raised the crowded household that produced the interwar hotelier [Antonio Zerauschek](antonio-zerauschek.md)—Fulvia’s grandfather—and the younger brothers and sisters whose fates spill across Fulvia’s 1996 memoir. Keeping the two Antonios straight matters: **this** Antonio is Anna’s husband; **his son** is Ester’s husband and Fulvia’s father.
 
-Keeping the two Antonios straight is the single most important editorial rule for the **Zara** branch: **senior = F13 husband of Anna Herenda**; **junior = F5 husband of Ester, father of Fulvia**.
+His start in the world was messy in the way old registers are honest: the **1850 birth book** first called him illegitimate, then struck the word and recorded his parents’ marriage a few months later—the paper trail of a child legitimated by wedlock. By **1878** he was **falegname**, a cabinet-maker, standing at the altar in Pag with witnesses who knew him as a local tradesman. Both his parents were already dead on that marriage day; he was building a new household on his own account.
+
+Fulvia remembers him chiefly through others: he died when his youngest, [Riccardo / Ginco](riccardo-zerauschek.md), was only **three**, which points to the **1890s or very early 1900s** for his end. His famous son dismissed him with a shrug—*just a carpenter*—while the memoir adds the gentler detail that his own father [Giuseppe Zerauschek](giuseppe-zerauschek.md) had bought him a **furniture workshop**.
 
 ## Life
 
-- **15 March 1850** — Born **Zara, Dalmatia** (modern Zadar, Croatia). Full baptismal name: **Antonio Giacomo Vincenzo**. Birth register Entry 54 originally marked **"Illegitimo"** (illegitimate), then **crossed out** and the entry legitimized — confirming a premarital birth with subsequent legitimation by his parents' marriage five months later.
-- **24 August 1850** — His parents [Giuseppe Zerauschek](giuseppe-zerauschek.md) and [Antonia Maria Guerino](antonia-maria-guerino.md) married in Zara (**F58**). The birth register records this marriage date in Antonio's entry as the legitimation event. Father identified as **"Zerauschek [qu.] Biagio, Giuseppe"** — i.e. Giuseppe Zerauschek, son of Biagio — confirming the GEDCOM patriline.
-- **26 January 1878** — Marriage **Pago** to [Anna Herenda](anna-herenda.md) (**F13**). The marriage register describes him as **falegname** (carpenter), celibe (bachelor), born 15 March 1850, Catholic, from Pago. His father listed as **"Biaggio Zerauschek"** (using the patronymic), coachman, Catholic, **deceased**. His mother listed as **"Antonia Guerino"**, Catholic, **deceased**.
+On **15 March 1850** he was born in **Zara** (modern Zadar). The birth entry’s story of legitimation is tied to his parents’ wedding on **24 August 1850**—[Giuseppe Zerauschek](giuseppe-zerauschek.md) and [Antonia Maria Guerino](antonia-maria-guerino.md)—recorded in the same documentary bundle as his son Antonio junior’s later baptismal godparents.
 
-Death date was not present in the INDI block inspected. Fulvia's 1996 memoir indicates he died when his youngest son Riccardo (Ginco) was only **three years old**, placing his death roughly in the 1890s-early 1900s. His son [Antonio](antonio-zerauschek.md) described him curtly as *"un falegname, ecco che cos'era"* — a carpenter. Fulvia heard from Zio Tanio that Antonio senior's father ([Giuseppe Zerauschek](giuseppe-zerauschek.md)) had bought him a **furniture factory**. ([Fulvia memoir, 1996](../sources/famhist-nonna-memoir-1996.md).)
+On **26 January 1878** he married Anna in **Pago** (Pag). The priest’s form lists him as carpenter, bachelor, Catholic, born 15 March 1850; his late father appears under the patronymic form **Biaggio Zerauschek**.
+
+No civil death has been transcribed here yet. The memoir’s timeline is the best emotional chronology.
 
 ## Family
 
 - Parents: [Giuseppe Zerauschek](giuseppe-zerauschek.md); [Antonia Maria Guerino](antonia-maria-guerino.md).
 - Wife: [Anna Herenda](anna-herenda.md).
-- Children: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni / Zio Nini](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), [Besto](besto-zerauschek.md), [Riccardo / Zio Ginco](riccardo-zerauschek.md) — five sons and three daughters per Fulvia memoir (1996).
+- Children: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni / Zio Nini](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), [Besto](besto-zerauschek.md), [Riccardo / Zio Ginco](riccardo-zerauschek.md) — eight children, five sons and three daughters, per Fulvia memoir (1996).
 
 ## Evidence
 
-- GEDCOM **`@I25@`**, **F13**, **F58**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — preferred anchor because it matches [ancestor-coverage-list.md](ancestor-coverage-list.md).
-- Older mirror: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - Scans: [media/collections/zerauschek/](../media/collections/zerauschek/).
-- **Birth register, Entry 54, 15 Mar 1850:** "Illegitimo" crossed out; father "Zerauschek [qu.] Biagio, Giuseppe"; mother "Guarino Antonia"; marriage date 24 Aug 1850 — [media/collections/zerauschek/Zerauschek (1)/Birth Antonio Zerauschek Sr. Zara 1850.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Antonio%20Zerauschek%20Sr.%20Zara%201850.jpg).
-- **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** full details of both spouses' parents, occupations, and vital status — [media/collections/zerauschek/Zerauschek (1)/Marriage Zerauschek Herenda Pago 1878.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — carpenter / furniture factory, early death.
+- **Birth register, Entry 54, 15 Mar 1850** (Zara): [image](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Antonio%20Zerauschek%20Sr.%20Zara%201850.jpg).
+- **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **Export:** MyHeritage GEDCOM `@I25@`; unions referenced as **F13** (with Anna Herenda), **F58** (his parents’ marriage) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). Older mirror: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 
 ## Open questions
 
-- Exact death date — memoir implies c. 1890s (Riccardo was 3 when father died).
+- Exact death date — memoir implies c. 1890s–early 1900s (Riccardo was three).

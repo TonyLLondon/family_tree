@@ -17,23 +17,24 @@ children:
 
 # Richard Braithwaite (of Hurworth)
 
-Husband of [Lady Frances Lawson](lady-frances-lawson.md) in **F99** (marriage **4 May 1617**, **Hurworth-on-Tees, Darlington**); father of [Richard Braithwaite](richard-braithwaite.md) (**@I194@**) among other **CHIL** entries in **F99**. **FAMC @F100@**: [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md); [Dorothy Bindlose](dorothy-bindlose.md). GEDCOM also lists **FAMS @F205@** (second union **@I560@**—not on strict ancestor list).
+**Richard Braithwaite** of **Hurworth** married [Lady Frances Lawson](lady-frances-lawson.md) **4 May 1617** at **Hurworth-on-Tees**, **Darlington**, and was father of [Richard Braithwaite](richard-braithwaite.md) among other children in that union. Parents: [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md) and [Dorothy Bindlose](dorothy-bindlose.md). The export also lists a second marriage (union **F205**, spouse not on the strict ancestor spine).
 
 ## Life
 
-- **1588** — Born **Ambleside** (GEDCOM); christening **29 Jan 1591** **Strickland Ketel, Westmorland**.
-- **4 May 1673** — Died **Catterick, Yorkshire** (burial note aligns).
+- **1588** — Born **Ambleside**; christened **29 January 1591** **Strickland Ketel**, **Westmorland**.
+- **4 May 1673** — Died **Catterick**, **Yorkshire** (burial note in export aligns).
 
 ## Family
 
-- Wife: [Lady Frances Lawson](lady-frances-lawson.md) (**F99**).
-- Parents: [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md); [Dorothy Bindlose](dorothy-bindlose.md) (**F100**).
-- Children include [Richard Braithwaite](richard-braithwaite.md) per **F99**.
+- Wife: [Lady Frances Lawson](lady-frances-lawson.md).
+- Parents: [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md); [Dorothy Bindlose](dorothy-bindlose.md).
+- Children: [Richard Braithwaite](richard-braithwaite.md); further children on the same union in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I195@`**, **F99** / **F100** / **F205**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **2CNB-3WT**; **Geni** **SOUR** blocks in export.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I195@`** — unions **F99**, **F100**, **F205** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **2CNB-3WT**; **Geni** blocks in **SOUR**.
 
 ## Open questions
 
-- **F205** second wife — outside strict ancestor path unless a merge error.
+- Second wife in **F205**—merge noise vs real remarriage.

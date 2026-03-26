@@ -13,23 +13,23 @@ children:
 
 # Biagio Zerauschek
 
-Father of [Giuseppe Zerauschek](giuseppe-zerauschek.md) with [Maria Schinkouz](maria-schinkouz.md) in **F182**. The 1850 marriage register of his son Giuseppe describes him as **"padre defunto"** (deceased father), placing his death **before August 1850**. His name appears as a patronymic in his grandson's 1850 birth record: **"Zerauschek [qu.] Biagio, Giuseppe"** — confirming the GEDCOM patriline.
+Biagio is a **name carried only in patronymic** by the time this line reaches the camera: **Giuseppe, son of Biagio**, in the **1850 marriage book** for [Giuseppe Zerauschek](giuseppe-zerauschek.md) and [Antonia Maria Guerino](antonia-maria-guerino.md). He was already **dead** when that ink dried—“**padre defunto**”—so everything we know is posture and absence: [Maria Schinkouz](maria-schinkouz.md) still listed among the living, a wedding forged over his grave.
 
 ## Life
 
-- **BEF 24 Aug 1850** — Deceased. Listed as "Zerauschek Biagio — padre defunto" in the marriage register of his son Giuseppe.
+Died **before 24 August 1850** (Zara marriage register of his son Giuseppe).
 
 ## Family
 
-- Wife: [Maria Schinkouz](maria-schinkouz.md) (alive in 1850 — listed without "defunta" in the same marriage register).
-- Children include [Giuseppe Zerauschek](giuseppe-zerauschek.md) per **F182**.
+- Wife: [Maria Schinkouz](maria-schinkouz.md).
+- Son: [Giuseppe Zerauschek](giuseppe-zerauschek.md).
 
 ## Evidence
 
-- GEDCOM **`@I387@`**, **F182**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Marriage register, 1850 (Zara):** “Zerauschek Biagio — padre defunto” — [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg).
 - [family-tree.json](../family-tree.json); [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md).
-- **Marriage register, 1850 (Zara):** "Zerauschek Biagio — padre defunto" — [media/collections/zerauschek/Zerauschek (1)/Marriage Zerauschek Guerino Zara 1850.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg).
+- **Export:** MyHeritage GEDCOM **`@I387@`**; union with Maria as **F182** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Vinodol** vs **Zara** parish trail for **Schinkouz** / **Šinkovec** orthography.
+- **Vinodol** vs **Zara** trail for **Schinkouz** / **Šinkovec** spelling.

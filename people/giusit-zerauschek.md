@@ -10,14 +10,12 @@ mother: anna-herenda
 
 # Giusit Zerauschek ("el bon Giusit")
 
-Brother of [Antonio Zerauschek](antonio-zerauschek.md). Known as **"el bon Giusit"** — Antonio's affectionate nickname for him. Had a **cigarette shop** in Zara, set up by Antonio. After the exodus, settled near **Venice**.
-
-Had **four children**: **Italo** (mentally affected by a severe case of measles in childhood; later went to Australia, disliked it, and was on the boat back when his father died in his sleep); a daughter close in age to Fulvia who also died in her sleep in her thirties; **Graziella** ("a beauty"), who married and had two children. (Fulvia memoir, 1996.)
+Antonio called him **el bon Giusit**—the good Giusit—the brother who ran the **tobacco shop** [Antonio](antonio-zerauschek.md) set up for him in Zara and who, after exile, lived near **Venice**. His story in Fulvia’s pages mixes tenderness and freak chance: **four children**; **Italo**, slowed by childhood measles, fetched home from a failed Australian adventure only to lose his father the night the ship docked; a daughter who died in her sleep in her **thirties**; **Graziella**, remembered as a beauty with two children of her own (1996).
 
 ## Family
 
-- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md) (**F13**).
-- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni](giovanni-zerauschek.md), Besto/Ernesto, Ginco/Riccardo.
+- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md).
+- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni](giovanni-zerauschek.md), [Besto](besto-zerauschek.md), [Riccardo](riccardo-zerauschek.md).
 
 ## Evidence
 
@@ -25,5 +23,5 @@ Had **four children**: **Italo** (mentally affected by a severe case of measles 
 
 ## Open questions
 
-- Full baptismal name — "Giusit" may be a Dalmatian-Italian diminutive of Giuseppe.
+- Full baptismal name — “Giusit” may be Dalmatian-Italian for Giuseppe.
 - Exact dates.

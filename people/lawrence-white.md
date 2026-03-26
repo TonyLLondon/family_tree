@@ -13,17 +13,18 @@ children:
 
 # Lawrence White
 
-Father of [Mathew White](mathew-white.md) with [Jane Lee](jane-lee.md) in **F161**. Birth **ABT 1732** **Scarnagh Cross Roads, County Wexford**; **DEAT** flagged without detail in the export.
+**Lawrence White** was born about **1732** at **Scarnagh Cross Roads**, **County Wexford**. He married [Jane Lee](jane-lee.md) and was father of [Mathew White](mathew-white.md). The export flags death **Y** without detail.
 
 ## Family
 
 - Wife: [Jane Lee](jane-lee.md).
-- Children include [Mathew White](mathew-white.md) (**@I329@**) per **F161**.
+- Children: [Mathew White](mathew-white.md).
 
 ## Evidence
 
-- GEDCOM **`@I344@`**, **F161**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L5RW-C5F**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I344@`** — union **F161** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L5RW-C5F**.
 
 ## Open questions
 
-- **Scarnagh Cross Roads** parish mapping (Wexford RC vs CoI).
+- **Scarnagh Cross Roads** — which parish book (RC vs Church of Ireland).

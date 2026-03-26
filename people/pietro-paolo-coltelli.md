@@ -13,24 +13,24 @@ children:
 
 # Pietro Paolo Coltelli
 
-Father of [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md) with [Perina Sandri](perina-sandri.md) in **F61** (marriage **21 Jun 1777**, **Zara**). **@S12@** and FamilySearch **GWF6-G47** in export. The 1811 marriage register of his daughter Vincenza identifies him as **"Paolo Coltelli, Pub.co Notajo"** (Public Notary) — the GEDCOM uses the fuller name **Pietro Paolo**.
+Pietro Paolo Coltelli was the husband of [Perina Sandri](perina-sandri.md) and father of [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md); they married on 21 June 1777 at Zara. **@S12@** and FamilySearch **GWF6-G47** appear in the export. The 1811 marriage register of his daughter Vincenza identifies him as **"Paolo Coltelli, Pub.co Notajo"** (Public Notary); the export uses the fuller forename **Pietro Paolo**.
 
 ## Life
 
-- Birth year not in the export slice; **birth place Zara** on **BIRT** line.
+- Birth year not in the export slice; birth place **Zara** on the birth line.
 - Occupation: **Pubblico Notajo** (Public Notary) per the 1811 marriage register.
 
 ## Family
 
-- Father: [Antonio Coltelli](antonio-coltelli.md) (**F65** lists **HUSB @I130@** and **CHIL @I122@** only—mother not in this export).
-- Wife: [Perina Sandri](perina-sandri.md) (**F61**).
-- Children include [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md) per **F61**.
+- Father: [Antonio Coltelli](antonio-coltelli.md) (the export’s birth-family record names father and son only—no mother in this slice).
+- Wife: [Perina Sandri](perina-sandri.md).
+- Children include [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md).
 
 ## Evidence
 
-- GEDCOM **`@I122@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F61** / **F65**.
+- **Export:** MyHeritage **`@I122@`** — unions **F61**, **F65** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions
 
-- **Mother (birth)** — missing **WIFE** under **F65**; add from Zara baptism of **Pietro Paolo Coltelli**.
+- **Mother (birth)** — missing mother in the export’s birth-family record; add from Zara baptism of **Pietro Paolo Coltelli**.

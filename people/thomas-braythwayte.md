@@ -13,15 +13,15 @@ children:
 
 # Thomas Braythwayte
 
-Father of [Richard Braithwait](richard-braithwait.md) in **F155** (**HUSB @I325@**, **CHIL @I323@**). Birth **~1459** **Brathay**; death **AFT 1494** **Brathay**. **F155** has **no WIFE** line in this export.
+Thomas Braythwayte was father of [Richard Braithwait](richard-braithwait.md). He was born about 1459 at Brathay and died after 1494 there. The export’s household record for this line names no wife.
 
 ## Family
 
-- Children include [Richard Braithwait](richard-braithwait.md) per **F155**.
+- Children include [Richard Braithwait](richard-braithwait.md).
 
 ## Evidence
 
-- GEDCOM **`@I325@`**, **F155**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L2TF-KRZ**.
+- **Export:** MyHeritage **`@I325@`** — union **F155** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L2TF-KRZ**.
 
 ## Open questions
 

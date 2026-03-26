@@ -19,18 +19,19 @@ children:
 
 # Thomas Grave
 
-Father of [Joseph Grave](joseph-grave.md) with [Jane](jane.md) in **F44** (marriage **1657**). Birth **1633** **Westmorland**; death **Jun 1708** **Orest Head, Westmorland**; burial **21 Jun 1708** **Westmorland**. **FAMC @F45@**: [William Grave](william-grave.md); [Elizabeth Mackereth](elizabeth-mackereth.md) (**F45**, marriage **19 Jun 1619**).
+**Thomas Grave** was born **1633** in **Westmorland**. He married [Jane](jane.md) in **1657** and was father of [Joseph Grave](joseph-grave.md). He died **June 1708** at **Orest Head**, **Westmorland**, and was buried **21 June 1708**. Parents: [William Grave](william-grave.md) and [Elizabeth Mackereth](elizabeth-mackereth.md), married **19 June 1619**.
 
 ## Family
 
 - Wife: [Jane](jane.md).
 - Parents: [William Grave](william-grave.md); [Elizabeth Mackereth](elizabeth-mackereth.md).
-- Children include [Joseph Grave](joseph-grave.md) per **F44**.
+- Children: [Joseph Grave](joseph-grave.md).
 
 ## Evidence
 
-- GEDCOM **`@I92@`**, **F44**, **F45**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I92@`** — unions **F44**, **F45** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Orest Head** locality spelling vs **Orrest Head**.
+- **Orest Head** vs **Orrest Head** cartography.

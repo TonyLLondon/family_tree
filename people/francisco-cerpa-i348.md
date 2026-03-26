@@ -13,13 +13,14 @@ children:
 
 # Francisco Cerpa
 
-Husband of [Ana González](ana-gonzalez-i349.md) — union **F163**, marriage **1909**. Father of [Miguel Cerpa González](miguel-cerpa-gonzalez-i346.md), [René Cerpa González](rene-cerpa-gonzalez-i353.md), and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md). No vitals in the current JSON slice.
+**Francisco Cerpa** married [Ana González](ana-gonzalez-i349.md) in **1909** and was father of [Miguel Cerpa González](miguel-cerpa-gonzalez-i346.md), [René Cerpa González](rene-cerpa-gonzalez-i353.md), and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md). Vitals are not yet in the JSON slice.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I348`**, union **F163**.
+- [family-tree.json](../family-tree.json).
 - Research hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- **Export:** MyHeritage **`@I348@`** — union **F163** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- Chilean civil or parish entries to anchor birth, marriage, and death.
+- Chilean civil or parish entries for birth, marriage, and death.

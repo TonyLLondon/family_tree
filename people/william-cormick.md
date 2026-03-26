@@ -3,7 +3,7 @@ name: Dr. William Cormick
 treeId: I386
 gedcom: "@I386@"
 born: 1822
-born_alt: 1819-07-19 (GEDCOM @I386@ — Tabriz birth in export)
+born_alt: 1819-07-19 (Tabriz birth in merged export — conflicts with primary 1822)
 died: 1877
 birth_place: Tabriz, Iran
 sex: male
@@ -18,7 +18,7 @@ generation: 2
 
 # Dr. William Cormick
 
-Irish-Armenian physician born in **Tabriz**; **Tier B priority collateral** (not on the strict [@I1@ ancestor list](ancestor-coverage-list.md)) but central to **Qajar court history** and to **Bábí-era** eyewitness literature. Husband of [Tamar Saginian](tamar-saginian.md), linking the Saginian sisters to **both** diplomacy/mercantile sources (Anna → Burgess) and **royal medicine** (Tamar → Cormick).
+Irish-Armenian physician born in **Tabriz**; **Tier B priority collateral** (not on the strict [ancestor coverage list](ancestor-coverage-list.md)) but central to **Qajar court history** and to **Bábí-era** eyewitness literature. Husband of [Tamar Saginian](tamar-saginian.md), linking the Saginian sisters to **both** diplomacy/mercantile sources (Anna → Burgess) and **royal medicine** (Tamar → Cormick).
 
 ## Life
 

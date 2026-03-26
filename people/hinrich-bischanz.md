@@ -9,17 +9,17 @@ children:
 
 # Hinrich Bischanz
 
-Father of [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md) in **F146** (**HUSB @I310@**, **CHIL @I309@**). **@I310@** has **no BIRT**/**DEAT**/**NAME** variants beyond the single line in the slice used here. Geni parent link: **Hinrich Bischanz (born Bischantz)**—orthographic drift **Bischanz** / **Bischantz**.
+**Hinrich Bischanz** was father of [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md). The export gives a single name line; **Geni** sometimes spells the line **Bischantz**—orthography drifts **Bischanz** / **Bischantz**.
 
 ## Family
 
-- Children include [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md) per **F146**.
+- Children: [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md).
 
 ## Evidence
 
-- GEDCOM **`@I310@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F146** only.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I310@`** — union **F146** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Spouse** — **F146** has no **WIFE** line in this export.
+- Spouse—**F146** has no wife line in this export.

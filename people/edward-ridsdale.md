@@ -12,17 +12,18 @@ children:
 
 # Edward Ridsdale
 
-Father of [Frances Ridsdale](frances-ridsdale.md) with [Elizabeth Romley](elizabeth-romley.md) in **F135**. Birth **1735** in GEDCOM; **DEAT** flagged without **DATE**/**PLAC** in the export.
+**Edward Ridsdale** was born **1735** (year in graph). He married [Elizabeth Romley](elizabeth-romley.md)—**28 July 1772**, **Whitgift**, **York**, **England** in export—and was father of [Frances Ridsdale](frances-ridsdale.md). Death **Y** without date or place in slice.
 
 ## Family
 
 - Wife: [Elizabeth Romley](elizabeth-romley.md).
-- Children include [Frances Ridsdale](frances-ridsdale.md) per **F135** (marriage **28 Jul 1772**, **Whitgift, York, England**).
+- Children: [Frances Ridsdale](frances-ridsdale.md).
 
 ## Evidence
 
-- GEDCOM **`@I287@`**, **F135**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I287@`** — union **F135** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Yorkshire** **Ridsdale** parish trail before **Wakefield** baptism of **Frances**.
+- **Yorkshire** **Ridsdale** trail before **Frances**’s **Wakefield** baptism.

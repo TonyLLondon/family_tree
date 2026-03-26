@@ -8,12 +8,12 @@ mother: anna-herenda
 
 # Marie Zerauschek
 
-Sister of [Antonio Zerauschek](antonio-zerauschek.md). Died aged **18** after jumping from too high a wall and sustaining fatal internal injuries. (Fulvia memoir, 1996.)
+Marie is the sister who never got to be old: in Fulvia’s telling she leapt from **too high a wall** in Zara and died at **eighteen** of internal injuries—a blunt, pointless death in a family that would soon know larger catastrophes. She belongs to the same household as [Antonio](antonio-zerauschek.md) and [Anna Herenda](anna-herenda.md)’s eight children.
 
 ## Family
 
-- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md) (**F13**).
-- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), Emma, Giovanni, Giusit, Besto/Ernesto, Ginco/Riccardo.
+- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md).
+- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), [Besto](besto-zerauschek.md), [Riccardo](riccardo-zerauschek.md).
 
 ## Evidence
 
@@ -21,4 +21,4 @@ Sister of [Antonio Zerauschek](antonio-zerauschek.md). Died aged **18** after ju
 
 ## Open questions
 
-- Exact dates of birth and death.
+- Exact birth and death dates from parish or civil registers.

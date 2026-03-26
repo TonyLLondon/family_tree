@@ -22,7 +22,7 @@ generation: 2
 
 # Tamar Saginian
 
-Sister of [Anna Saginian](anna-saginian.md). She is **not** on the strict [@I1@ ancestor path](ancestor-coverage-list.md) but is **Tier B priority collateral**: the same **Saginian** network that produced Anna’s Burgess marriage also produced a direct tie to **Qajar court medicine** through Tamar’s marriage to [Dr. William Cormick](william-cormick.md).
+Sister of [Anna Saginian](anna-saginian.md). She is **not** on the strict [ancestor coverage list](ancestor-coverage-list.md) but is **Tier B priority collateral**: the same **Saginian** network that produced Anna’s Burgess marriage also produced a direct tie to **Qajar court medicine** through Tamar’s marriage to [Dr. William Cormick](william-cormick.md).
 
 ## Life
 

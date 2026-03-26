@@ -17,18 +17,19 @@ children:
 
 # Aenderli Heinrich
 
-Husband of [Anna Lachenauer](anna-lauchenauer.md) in **F79**; father of [Johannes Heinrich](johannes-heinrich.md) (**@I155@**). **FAMC @F80@**: [Andreas Heinrich](andreas-heinrich.md); [Anna Epper](anna-epper.md) (marriage **~1612**, **Sulgen**).
+**Aenderli Heinrich** was born **1623** at **Heldswil**, **Thurgau**, and died **16 August 1666** there. He married [Anna Lauchenauer](anna-lauchenauer.md) and was father of [Johannes Heinrich](johannes-heinrich.md). Parents: [Andreas Heinrich](andreas-heinrich.md) and [Anna Epper](anna-epper.md), married about **1612** at **Sulgen**.
 
 ## Family
 
-- Wife: [Anna Lachenauer](anna-lauchenauer.md).
-- Parents: [Andreas Heinrich](andreas-heinrich.md); [Anna Epper](anna-epper.md) (**F80**).
-- Children include [Johannes Heinrich](johannes-heinrich.md) per **F79**.
+- Wife: [Anna Lauchenauer](anna-lauchenauer.md).
+- Parents: [Andreas Heinrich](andreas-heinrich.md); [Anna Epper](anna-epper.md).
+- Children: [Johannes Heinrich](johannes-heinrich.md).
 
 ## Evidence
 
-- GEDCOM **`@I157@`**, **F79** / **F80**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KHNS-C5S**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I157@`** — unions **F79**, **F80** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KHNS-C5S**.
 
 ## Open questions
 
-- **Aenderli** as **diminutive** of **Andreas**—confirm in baptism register.
+- **Aenderli** as diminutive of **Andreas**—confirm in baptism register.

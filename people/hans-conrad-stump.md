@@ -14,25 +14,25 @@ children:
 
 # Hans Conrad Stump (b. 1702)
 
-Son of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) (**@I151@**) and **@I152@** Anna Heinrich (**F76**); husband of [Anna Barbel Kaegi](anna-barbel-kaegi.md) (**F74**, marriage **28 Sep 1728**). Father of [Hs. Konrad Stump](hs-konrad-stump.md) (**@I146@**), who in turn fathers [Hans Ulrich Stump](hans-ulrich-stump.md)’s line via **F73**—so this profile sits **between** the two **Hans Jacob** generations and **Hans Ulrich**.
+**Hans Conrad Stump** was son of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) and [Anna Heinrich](anna-heinrich.md). He married [Anna Barbel Kaegi](anna-barbel-kaegi.md) **28 September 1728** and was father of [Hs. Konrad Stump](hs-konrad-stump.md), who in turn fathers [Hans Ulrich Stump](hans-ulrich-stump.md)’s line—so this profile sits **between** the two **Hans Jacob** generations and **Hans Ulrich**.
 
 ## Life
 
-- **1702** — Born (GEDCOM year only).
-- **28 Sep 1728** — Marriage (**F74**); place not spelled out in the family record slice used here.
-- **Death** — GEDCOM carries a death flag without date or place in the extract used for this page.
+- **1702** — Born (year in export).
+- **28 Sep 1728** — Marriage to Anna Barbel Kaegi (place not spelled out in family-record slice used here).
+- **Death** — Flag in export without date or place.
 
 ## Family
 
-- Wife: **@I149@** Anna Barbel Kaegi (**F74**).
-- Children include **@I146@** per **F74** (see [ancestor-coverage-list.md](ancestor-coverage-list.md) **`@I146@`** row for target filename once written).
+- Wife: [Anna Barbel Kaegi](anna-barbel-kaegi.md).
+- Children: [Hs. Konrad Stump](hs-konrad-stump.md).
 
 ## Evidence
 
-- GEDCOM **`@I148@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F74** / **F76**; FamilySearch id **K67V-HSP** in export.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I148@`** — unions **F74**, **F76** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K67V-HSP**.
 
 ## Open questions
 
-- **Death** — Sulgen burial register after **1728** marriage.
-- **Kaegi** **FAMC** (**@F91@**) — parents of Anna Barbel.
+- Death — **Sulgen** burial after **1728** marriage.
+- **Kaeg** parental union in export—parents of Anna Barbel.

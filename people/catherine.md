@@ -12,16 +12,16 @@ children:
 
 # Catherine (maiden name unknown)
 
-Mother of [Catherine Enright](catherine-enright.md) in **F60** (**WIFE @I121@**). GEDCOM **NAME** line is **Catherine //** (**GIVN** only, no **SURN**). Birth **ABT 1832**; **DEAT** flagged without detail in the export.
+Catherine—maiden surname unknown—was the wife of [Enright](enright.md) and mother of [Catherine Enright](catherine-enright.md). The export gives only her forename **Catherine** with no surname line. She was born about 1832; a death is flagged without detail.
 
 ## Family
 
-- Husband: [Enright](enright.md) (**@I120@**).
-- Children include [Catherine Enright](catherine-enright.md) per **F60**.
+- Husband: [Enright](enright.md).
+- Children include [Catherine Enright](catherine-enright.md).
 
 ## Evidence
 
-- GEDCOM **`@I121@`**, **F60**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I121@`** — union **F60** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

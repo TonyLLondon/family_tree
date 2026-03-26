@@ -19,24 +19,26 @@ children:
 
 # Elizabeth Lilian Cushen
 
-Mother of [David John Lewis](david-john-lewis.md); wife of [Samuel Lewis](samuel-lewis.md). GEDCOM ties her to **1891** census **Merthyr Tydfil** (RG12 piece **4438**, schedule **57**) as a child in her parents’ household.
+**Lily** in family speech—**Elizabeth Lilian Cushen** in the registers—was Merthyr born and Merthyr married: **21 August 1886** in the crowded Glamorgan registration district, daughter of [David Cushen](david-cushen.md) and [Mary Morgan](mary-morgan.md). The **1891** census caught her as a child in her parents’ **Merthyr** household; by **1917** she was wife to [Samuel Lewis](samuel-lewis.md), the miner who would become assurance man and Carmel deacon. Together they raised **[David John Lewis](david-john-lewis.md)**—the **1918** boy who would earn a **Silver Star**—and **[Brynmor Keith Lewis](brynmor-keith-lewis.md)** in the long rhythm of **Penydarren Street**.
+
+She died in **Merthyr** in **November 1972**, a few years after Samuel; the valley remembers them in chapel obituaries and studio photographs where **Lily** never quite loses her **Edwardian** poise.
 
 ## Life
 
-- **21 Aug 1886** — Born **Merthyr Tydfil, Glamorganshire, Wales** (GEDCOM).
-- **1917** — Marriage **Merthyr Tydfil** to Samuel Lewis (**F7**).
+- **21 Aug 1886** — Born **Merthyr Tydfil, Glamorganshire, Wales**.
+- **1917** — Marriage to Samuel Lewis at **Merthyr Tydfil**.
 
 ## Family
 
-- Parents: [David Cushen](david-cushen.md); [Mary Morgan](mary-morgan.md) (**F88**).
+- Parents: [David Cushen](david-cushen.md); [Mary Morgan](mary-morgan.md).
 - Husband: [Samuel Lewis](samuel-lewis.md).
-- Children: [David John Lewis](david-john-lewis.md) and **Brynmor Keith Lewis** (I73) per **F7** in [family-tree.json](../family-tree.json).
+- Children: [David John Lewis](david-john-lewis.md); [Brynmor Keith Lewis](brynmor-keith-lewis.md) — [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I28@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I28@`** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). **1891** child: **RG12** piece **4438**, schedule **57**. Marital union **F7** with Samuel; parental union **F88**.
 
 ## Open questions
 
-- **Cushen / Morgan** GRO certificates imaged in `media/docs/`; full **F88** sibling list in prose.
+- **Cushen / Morgan** GRO images in `media/docs/` — fold full sibling list into prose when keyed.

@@ -11,17 +11,17 @@ children:
 
 # Wendel Rutishauser
 
-Husband of [Adelheit Claarer](adelheit-claarer.md) in **F86**; father of [Hans Rutishauser](hans-rutishauser.md) (**@I169@**). **@I171@** has **no BIRT**/**DEAT** in the export slice; **F86** has **no MARR** detail in the lines read.
+Wendel Rutishauser was the husband of [Adelheit Claarer](adelheit-claarer.md) and father of [Hans Rutishauser](hans-rutishauser.md). The export carries no birth or death events for him, and the family record read here has no marriage detail.
 
 ## Family
 
 - Wife: [Adelheit Claarer](adelheit-claarer.md).
-- Children include [Hans Rutishauser](hans-rutishauser.md) per **F86**.
+- Children include [Hans Rutishauser](hans-rutishauser.md).
 
 ## Evidence
 
-- GEDCOM **`@I171@`**, **F86**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I171@`** — union **F86** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- Earlier **Rutishauser** generation not in strict **F86** export.
+- Earlier **Rutishauser** generation not in the export slice for this household.

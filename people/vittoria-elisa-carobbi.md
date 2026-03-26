@@ -18,7 +18,7 @@ children:
 
 # Vittoria Elisa Carobbi
 
-Wife of [Simeone Vincenzo Boara](simeone-vincenzo-boara.md) in **F11**; mother of [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md). Geni scrape and **@S12@** agree on **1828** birth and **1902** death.
+Vittoria Elisa Carobbi was the wife of [Simeone Vincenzo Boara](simeone-vincenzo-boara.md) and mother of [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md). Geni scrape and the structured tree (**@S12@**) agree on an 1828 birth and 1902 death.
 
 ## Context
 
@@ -31,20 +31,20 @@ Vittoria survived Simeone by six years (he died 1896; she died 1902) and witness
 ## Life
 
 - **10 Oct 1828** — Born **Zara, Dalmatia**.
-- **8 Aug 1849** — Marriage **Sv. Šime, Zara** to [Simeone Vincenzo Boara](simeone-vincenzo-boara.md) (**F11**).
-- **11 Dec 1902** — Died (GEDCOM).
+- **8 Aug 1849** — Marriage **Sv. Šime, Zara** to [Simeone Vincenzo Boara](simeone-vincenzo-boara.md).
+- **11 Dec 1902** — Died (export).
 
-**Memoir discrepancy:** Fulvia's 1996 memoir gives dates "(1820–1911)" for "Vittorie Carobbi" — the **1820** is likely Simeone Boara's birth year, and **1911** may be a misremembered death year (GEDCOM gives 1902). The documentary dates (1828–1902) from GEDCOM/Geni/FamilySearch are preferred.
+**Memoir discrepancy:** Fulvia's 1996 memoir gives dates "(1820–1911)" for "Vittorie Carobbi" — the **1820** is likely Simeone Boara's birth year, and **1911** may be a misremembered death year (the export gives 1902). The documentary dates (1828–1902) from Geni/FamilySearch and the structured tree are preferred.
 
 ## Family
 
 - Husband: [Simeone Vincenzo Boara](simeone-vincenzo-boara.md).
-- Parents: [Casimiro Carobbi](casimiro-carobbi.md); [Marianna Billicich](marianna-billicich.md) (**F31**, marriage **5 May 1820**, **Kotor**).
-- Children: **eight** per Fulvia memoir (1996), including [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md), **@I62@** (Artemisia), **Eveline** (married a Croat — the scandal that triggered the gendered inheritance will), **Casimiro Boara** (famous for lectures on the classics), and **Carmela Boara** (last of the Boara line). Three unmarried Boara sons left their inheritances to the **Lega Nazionale**, the Italian irredentist cultural association (founded 1891, Trieste; established Italian schools and cultural circles across Habsburg Dalmatia, Istria, and the Littoral). Casimiro and Carmela lived together in comfort; the last Boara land was sold by Casimiro to [Antonio Zerauschek](../people/antonio-zerauschek.md). When Carmela died, she left something to the Addobbati who had assisted her.
+- Parents: [Casimiro Carobbi](casimiro-carobbi.md); [Marianna Billicich](marianna-billicich.md) (married **5 May 1820**, **Kotor**).
+- Children: **eight** per Fulvia memoir (1996), including [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md), Artemisia (export id I62), **Eveline** (married a Croat — the scandal that triggered the gendered inheritance will), **Casimiro Boara** (famous for lectures on the classics), and **Carmela Boara** (last of the Boara line). Three unmarried Boara sons left their inheritances to the **Lega Nazionale**, the Italian irredentist cultural association (founded 1891, Trieste; established Italian schools and cultural circles across Habsburg Dalmatia, Istria, and the Littoral). Casimiro and Carmela lived together in comfort; the last Boara land was sold by Casimiro to [Antonio Zerauschek](antonio-zerauschek.md). When Carmela died, she left something to the Addobbati who had assisted her.
 
 ## Evidence
 
-- GEDCOM **`@I27@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F11** / **F31**; MyHeritage **Geni** URL in **SOUR**; FamilySearch **L22T-RHS**.
+- **Export:** MyHeritage **`@I27@`** — unions **F11**, **F31** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); MyHeritage **Geni** URL in **SOUR**; FamilySearch **L22T-RHS**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — eight children, Boara inheritance dispute, Casimiro and Carmela.
 - **Marriage register of daughter Ottilia, Entry N. 8, 12 Feb 1890:** "Carobbi Vittoria, da Zara, Cattolica, Civile, Vivente" — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
 - **Marriage register, Zara, 8 Aug 1849:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Carobbi Zara 1849.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Carobbi%20Zara%201849.jpg) — untranscribed; her marriage to Simeone Vincenzo Boara (F11).

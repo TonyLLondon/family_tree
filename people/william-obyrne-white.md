@@ -56,19 +56,19 @@ White's career follows a well-documented pattern. Irish Catholics comprised **26
 
 ### Bombay marriage and India phase
 
-Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** in **Bombay Presidency** (**F67**) — placing the family in India from at least that date. Son Gerald born Jabalpur **February 1878**.
+Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** in **Bombay Presidency**—from that date the couple’s paper trail belongs to **India**. Son Gerald born **Jabalpur February 1878**.
 
 ### Tralee decades
 
 - **1901** — Head of household, **Tralee Urban**, **Denny Street** (census `EVEN`)
-- **1911** — Same street; HouseholdID **282016** per **@S39@** citation in GEDCOM
+- **1911** — Same **Denny Street** household (census cluster indexed in export sources)
 - **1931** — Died **Tralee, Kerry**
 
 ## Family
 
 - Parents: [Matthew Esmond White](matthew-esmond-white.md); [Catherine Byrne](catherine-byrne.md)
 - Wife: [Catherine Mary Roche](catherine-mary-roche.md)
-- Children: [Gerald Sebastian White](gerald-sebastian-white.md) and siblings per **F67** in [family-tree.json](../family-tree.json)
+- Children: [Gerald Sebastian White](gerald-sebastian-white.md) and siblings — [family-tree.json](../family-tree.json)
 
 ## Evidence
 
@@ -77,7 +77,7 @@ Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** i
 - [Army List — surgeon lieutenant-colonels](../sources/army-list-amd-surgeon-lt-colonels.md) · [scan](../media/docs/Army%20List%20non-effective%20surgeon%20lieutenant-colonels%20page%202056-7%20Adye-Curran%20to%20White.jpg)
 - [Army Medical Department half-pay register](../sources/army-medical-department-half-pay-register.md) · [scan](../media/docs/Army%20Medical%20Department%20half%20pay%20register%20page%201080%20Lt%20Colonels%20and%20Surgeon%20Majors.jpg)
 - [FIBIwiki — Jubbulpore](../sources/fibis-jubbulpore.md) — station context
-- GEDCOM **`@I135@`**, **F67**, **F157**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged)
+- **Export:** MyHeritage **`@I135@`**; unions **F67** (with Catherine Mary Roche), **F157** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged)
 - [O'Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/)
 - [family-tree.json](../family-tree.json)
 

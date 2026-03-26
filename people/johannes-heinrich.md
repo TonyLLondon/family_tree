@@ -13,17 +13,17 @@ children:
 
 # Johannes Heinrich
 
-Husband of [Anna Duenner](anna-duenner.md) in **F78**; father of [Anna Heinrich](anna-heinrich.md) (**@I152@**). **@I155@** has **no BIRT**/**DEAT** in the export slice. **FAMC @F79@**: [Aenderli Heinrich](aenderli-heinrich.md); [Anna Lachenauer](anna-lauchenauer.md) (marriage **~1642**, **Sulgen**).
+Johannes Heinrich was the husband of [Anna Duenner](anna-duenner.md) and father of [Anna Heinrich](anna-heinrich.md). The export carries no birth or death events for him. His parents were [Aenderli Heinrich](aenderli-heinrich.md) and [Anna Lachenauer](anna-lauchenauer.md), recorded as marrying about 1642 at Sulgen.
 
 ## Family
 
 - Wife: [Anna Duenner](anna-duenner.md).
-- Parents: [Aenderli Heinrich](aenderli-heinrich.md); [Anna Lachenauer](anna-lauchenauer.md) (**F79**).
-- Children include [Anna Heinrich](anna-heinrich.md) per **F78**.
+- Parents: [Aenderli Heinrich](aenderli-heinrich.md); [Anna Lachenauer](anna-lauchenauer.md).
+- Children include [Anna Heinrich](anna-heinrich.md).
 
 ## Evidence
 
-- GEDCOM **`@I155@`**, **F78** / **F79**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K4P5-2WB**.
+- **Export:** MyHeritage **`@I155@`** — unions **F78**, **F79** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K4P5-2WB**.
 
 ## Open questions
 

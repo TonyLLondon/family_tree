@@ -11,17 +11,17 @@ children:
 
 # John Roche
 
-Father of [Robert Roche](robert-roche.md) in **F174** (**HUSB @I371@**, **CHIL @I369@**). Birth **ABT 1600** **Ireland**; **DEAT** flag without detail in slice.
+**John Roche** was born about **1600** in **Ireland** and was father of [Robert Roche](robert-roche.md). The export flags death **Y** without detail; no wife on the parental union in that slice.
 
 ## Family
 
-- Children include [Robert Roche](robert-roche.md) per **F174**.
+- Children: [Robert Roche](robert-roche.md).
 
 ## Evidence
 
-- GEDCOM **`@I371@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F174** only.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I371@`** — union **F174** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Spouse** — **F174** lacks **WIFE** in this export.
+- Spouse when **F174** wife line appears in a fuller export.

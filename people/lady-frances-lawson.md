@@ -17,17 +17,17 @@ children:
 
 # Lady Frances Lawson
 
-Wife of [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md) in **F99**; mother of [Richard Braithwaite](richard-braithwaite.md) (**@I194@**). Birth **~1597** **Neesham, Durham**; death **1633** **Catterick**. **FAMC @F166@**: [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md); [Jane Conyers](jane-conyers.md) (marriage **8 Jan 1593**, **Neesham**).
+Lady Frances Lawson was the wife of [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md) and mother of [Richard Braithwaite](richard-braithwaite.md). She was born about 1597 at Neesham, Durham, and died in 1633 at Catterick, Yorkshire. Her parents were [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) and [Jane Conyers](jane-conyers.md), who married at Neesham on 8 January 1593.
 
 ## Family
 
 - Husband: [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md).
-- Parents: [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md); [Jane Conyers](jane-conyers.md) (**F166**).
-- Children include [Richard Braithwaite](richard-braithwaite.md) per **F99**.
+- Parents: [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md); [Jane Conyers](jane-conyers.md).
+- Children include [Richard Braithwaite](richard-braithwaite.md).
 
 ## Evidence
 
-- GEDCOM **`@I196@`**, **F99** / **F166**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K1TH-C53**; **Geni** **SOUR** in export.
+- **Export:** MyHeritage **`@I196@`** — unions **F99**, **F166** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K1TH-C53**; **Geni** **SOUR** in export.
 
 ## Open questions
 

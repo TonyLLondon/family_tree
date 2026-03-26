@@ -11,18 +11,18 @@ children:
 
 # Anna Epper
 
-Wife of [Andreas Heinrich](andreas-heinrich.md) in **F80**; mother of [Aenderli Heinrich](aenderli-heinrich.md). **@I160@** has **no BIRT**/**DEAT** in the export slice.
+**Anna Epper** married [Andreas Heinrich](andreas-heinrich.md) and was mother of [Aenderli Heinrich](aenderli-heinrich.md). No birth or death in the export slice.
 
 ## Family
 
 - Husband: [Andreas Heinrich](andreas-heinrich.md).
-- Children include [Aenderli Heinrich](aenderli-heinrich.md) per **F80**.
+- Children: [Aenderli Heinrich](aenderli-heinrich.md).
 
 ## Evidence
 
-- GEDCOM **`@I160@`**, **F80**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I160@`** — union **F80** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Epper** farm name vs patronymic.
+- **Epper** as farm name vs patronymic.

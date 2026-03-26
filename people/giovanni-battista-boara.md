@@ -15,24 +15,24 @@ children:
 
 # Giovanni Battista Boara
 
-Father of [Simeone Vincenzo Boara](simeone-vincenzo-boara.md) with [Giovanna Grabar](giovanna-grabar.md) in **F55** (marriage **2 Oct 1819**, **Zara**). Occupation **bottegaio di commestibili** (**1819**, **Zara**) in **@S12@** “Giovanni Battista Maria Boara”.
+Giovanni Battista Boara was the husband of [Giovanna Grabar](giovanna-grabar.md) and father of [Simeone Vincenzo Boara](simeone-vincenzo-boara.md). He married in Zara on 2 October 1819. The structured tree lists him as *bottegaio di commestibili* (grocer) there in 1819, under the page title “Giovanni Battista Maria Boara”.
 
 ## Life
 
 - **15 Sep 1780** — Born **Zara, Dalmatia**.
 - **1819** — Occupation **bottegaio di commestibili**, **Zara**.
-- **2 Oct 1819** — Marriage **Zara** (**F55**).
-- **Death** — **DEAT** flag without date in the slice used here.
+- **2 Oct 1819** — Marriage **Zara**.
+- **Death** — flagged without date in the slice used here.
 
 ## Family
 
 - Wife: [Giovanna Grabar](giovanna-grabar.md).
-- Parents: [Simeone Guiseppe Boara](simeone-guiseppe-boara.md); [Maria Teresa Robustella](maria-teresa-robustella.md) (**F56**, marriage **29 Oct 1763**, **Zara**).
-- Children include [Simeone Vincenzo Boara](simeone-vincenzo-boara.md) per **F55**.
+- Parents: [Simeone Guiseppe Boara](simeone-guiseppe-boara.md); [Maria Teresa Robustella](maria-teresa-robustella.md) (married **29 Oct 1763**, **Zara**).
+- Children include [Simeone Vincenzo Boara](simeone-vincenzo-boara.md).
 
 ## Evidence
 
-- GEDCOM **`@I111@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F55** / **F56**; **@S12@**; FamilySearch **L22T-R6M**.
+- **Export:** MyHeritage **`@I111@`** — unions **F55**, **F56** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@**; FamilySearch **L22T-R6M**.
 - [family-tree.json](../family-tree.json).
 - **Parents' marriage register, Zara, 1763:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Robustella Zara 1763.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Robustella%20Zara%201763.jpg) — untranscribed; marriage of Simeone Guiseppe Boara × Maria Teresa Robustella (F56 date: 29 Oct 1763).
 

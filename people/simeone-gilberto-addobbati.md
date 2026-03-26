@@ -15,29 +15,29 @@ children: []
 
 # Simeone Gilberto Addobbati
 
-Habsburg **k.k.** officer (German records: **Simeon Addobbati**). Brother of [Pietro Pio Addobbati](pietro-pio-addobbati.md)’s father [Pietro Paolo Addobbati](pietro-paolo-addobbati.md) (**F12**). Marriage **11 Apr 1885** to **Elisabetta Emilia Maria Luxardo** (**I58**, **F27**).
+Simeone Gilberto Addobbati was the younger son of Pietro Paolo and Geralda Rovero Brizzi—the boy for whom his father composed a birthday poem in the family papers, the man who rose through the Theresian Military Academy in Vienna to landwehr command in Prague and a general’s stars. German military typescripts know him as **Simeon Addobbati**; Dalmatia knew him as an imperial-royal captain at his brother Pietro Pio’s wedding in 1890, signing the register from Vienna in a careful hand.
+
+He married Elisabetta Emilia Maria Luxardo—Lisette in family memory, of the Maraschino house—in Zara on 11 April 1885. Decades later, Fulvia’s memoir would amplify his rank into something almost operatic; the sober staff lists keep him closer to *Generalmajor* and a late titular *Feldmarschalleutnant* without needing the English words “field marshal.”
+
+His end matched the theatre of his life. On 20 June 1926 he died in Zara while greeting guests at a ball for the fortress commander; the music stopped, the army buried him with honours—cannon, gun carriage, the whole choreography of a career soldier. Lisette’s own death belongs to the 1943 exodus, a coffin nailed from wood meant for shelter. Family story credits him with pulling strings when Pietro Pio’s eldest son faced a court-martial in the Great War—the kind of intervention uncles make when memory needs a hero.
 
 ## Life
 
-- **4 Feb 1851** — Born **Zara, Dalmatia** (ÖStA/KA biography letter 1968; aligns with GEDCOM scrape).
-- Attended the **Theresianische Militärakademie** (Teresianum) in Vienna. (Fulvia memoir, 1996.)
-- **11 Apr 1885** — Marriage **Zara** to Elisabetta Emilia Maria Luxardo (**F27**); Kriegsarchiv typescript gives **Elisabeth Emilie Marie Luxardo**. Known in the family as **Lisette**; she was of the **Luxardo** Maraschino liqueur family.
-- **12 Feb 1890** — Served as witness at brother [Pietro Pio](pietro-pio-addobbati.md)'s wedding at the Basilica Metropolitana, Zara. Listed as **"I.R. Capitano"** (Imperial-Royal Captain), from Zara, living in **Vienna**. Signed the register as "Simeone [?] Addobbati, testimoni."
-- **1900–1909** — Landwehr command and **Generalmajor** (42nd Landwehr Infantry Brigade, Prague); retired **1 Nov 1909**; titular **Feldmarschalleutnant** **17 Dec 1910** (Qualifikationsliste page 2; [ÖStA generals PDF](../sources/oesta-kuk-generale-1816-1918.md)). The Fulvia memoir (1996) inflates this to "Field Marshall" — family oral tradition rounding up the rank.
-- **20 Jun 1926** — Died **Zara** while shaking hands with the Italian General commanding the **Piazzaforte di Zara**, welcoming guests at a **Ball**. The ball was immediately suspended. Funeral with full **military honours** — cannon salute and gun carriage. (Fulvia memoir, 1996; date confirmed by grave inscription *spirava 20-6-1926* and published generals list **20.6.1926**; DAZD fond inventory cites obituary **21 Jun 1926** — [DAZD Addobbati fonds](../sources/corpus/dazd-addobbati-family-fonds/extracted.pdf.md).)
-- His influence within the Austrian/Italian military establishment was substantial: he personally intervened to save [Pietro Pio Addobbati](pietro-pio-addobbati.md)'s eldest son from court martial after the young officer slapped a superior in the WWI Austrian army mess. (Fulvia memoir, 1996.)
-
-**Lisette Luxardo** died during the **1943 island-hopping exodus** from Dalmatia. A coffin was improvised from planks that another refugee had secured for a shelter. (Fulvia memoir, 1996.)
+- **4 Feb 1851** — Born Zara (ÖStA/KA biography letter 1968; aligns with structured-tree scrape).
+- **Education** — Theresianische Militärakademie (Teresianum), Vienna (Fulvia memoir, 1996).
+- **11 Apr 1885** — Marriage Zara to Elisabetta Emilia Maria Luxardo; Kriegsarchiv typescript gives *Elisabeth Emilie Marie Luxardo*.
+- **12 Feb 1890** — Witness at [Pietro Pio Addobbati](pietro-pio-addobbati.md)’s wedding, Basilica Metropolitana, Zara; listed as *I.R. Capitano*, domiciled Vienna.
+- **1900–1909** — Landwehr command, *Generalmajor* (42nd Landwehr Infantry Brigade, Prague); retired 1 Nov 1909; titular *Feldmarschalleutnant* 17 Dec 1910 (Qualifikationsliste; [ÖStA generals PDF](../sources/oesta-kuk-generale-1816-1918.md)).
+- **20 Jun 1926** — Died Zara at the fortress ball; funeral with military honours (Fulvia memoir; grave inscription *spirava 20-6-1926*; published generals list 20.6.1926; DAZD fond inventory cites obituary 21 Jun 1926 — [DAZD Addobbati fonds](../sources/corpus/dazd-addobbati-family-fonds/extracted.pdf.md)).
 
 ## Family
 
-- Parents: [Pietro Paolo Addobbati](pietro-paolo-addobbati.md); [Geralda Rovero Brizzi](geralda-rovero-brizzi.md) (**F12**).
-- Wife: **Elisabetta Emilia Maria Luxardo** (**I58** / **F27**); no `people/` page yet.
-- Children: none documented in DAZD analytical inventory or KA marriage note (**F27** has no children in [family-tree.json](../family-tree.json)).
+- Parents: [Pietro Paolo Addobbati](pietro-paolo-addobbati.md); [Geralda Rovero Brizzi](geralda-rovero-brizzi.md).
+- Wife: **Elisabetta Emilia Maria Luxardo** (no `people/` page yet).
+- Children: none documented in DAZD analytical inventory or KA marriage note for this union in the current structured tree.
 
 ## Evidence
 
-- GEDCOM **`@I54@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F12** / **F27**.
 - **ÖStA typescripts & grave (PNG):** [addobbati-simeone-oesta-kriegsarchiv-excerpts.md](../sources/addobbati-simeone-oesta-kriegsarchiv-excerpts.md) → [corpus bundle](../sources/corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/extracted.pdf.md); images under [media/docs/addobbati-simeone-gilberto/](../media/docs/addobbati-simeone-gilberto/).
 - **Published generals list:** [oesta-kuk-generale-1816-1918.md](../sources/oesta-kuk-generale-1816-1918.md).
 - **DAZD family fonds (HR-DAZD-342), Series 3.3:** sig. 41 — notes of Simeone Addobbati (37 leaves, undated); sig. 42 — obituary (21 Jun 1926); sig. 43 — funeral accounts (Jun 1926, 6 leaves); sig. 44 — letter from a nephew in Linz to widow Elisa (23 Dec 1930). Also sig. 59 — copy of nephew Pietro's medical degree (29 May 1915) — [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
@@ -46,6 +46,7 @@ Habsburg **k.k.** officer (German records: **Simeon Addobbati**). Brother of [Pi
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — Teresianum, death at the ball, Lisette's death during 1943 exodus.
 - [family-tree.json](../family-tree.json).
 - Context: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
+- **Export:** GEDCOM individual `@I54@`, families F12 / F27 — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

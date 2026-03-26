@@ -11,18 +11,18 @@ children:
 
 # Margaret Shaw
 
-Wife of [Robert Mackereth](robert-mackereth.md) in **F47**; mother of [Elizabeth Mackereth](elizabeth-mackereth.md). **@I97@** has **BIRT** and **DEAT** flags without **DATE**/**PLAC** in the export slice.
+**Margaret Shaw** married [Robert Mackereth](robert-mackereth.md) and was mother of [Elizabeth Mackereth](elizabeth-mackereth.md). Birth and death are flagged in the export without date or place.
 
 ## Family
 
 - Husband: [Robert Mackereth](robert-mackereth.md).
-- Children include [Elizabeth Mackereth](elizabeth-mackereth.md) per **F47**.
+- Children: [Elizabeth Mackereth](elizabeth-mackereth.md).
 
 ## Evidence
 
-- GEDCOM **`@I97@`**, **F47**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I97@`** — union **F47** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Shaw** line in **Kendal** parish books (often confused with **Scottish** Shaw clusters).
+- **Shaw** in **Kendal** registers (often tangled with Scottish **Shaw** clusters).

@@ -13,18 +13,18 @@ children:
 
 # Lacy (surname unknown)
 
-Wife of [Christopher Knight](christopher-knight.md) in **F180**; mother of [Eliza Knight](eliza-knight.md). GEDCOM **NAME** line **Lacy //** (**GIVN** only). Birth **ABT 1748** **Limerick, County Limerick**; **DEAT** flagged without detail.
+**Lacy**—given name only in the export—was born about **1748** in **Limerick**, **County Limerick**. She married [Christopher Knight](christopher-knight.md) and was mother of [Eliza Knight](eliza-knight.md). The export flags death **Y** without detail.
 
 ## Family
 
 - Husband: [Christopher Knight](christopher-knight.md).
-- Children include [Eliza Knight](eliza-knight.md) per **F180**.
+- Children: [Eliza Knight](eliza-knight.md).
 
 ## Evidence
 
-- GEDCOM **`@I381@`**, **F180**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I381@`** — union **F180** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Lacy** as **GIVN** vs mis-parsed **surname**—confirm on **Eliza**’s baptism.
+- Whether **Lacy** is truly forename-only or a mis-parsed surname—cross-check on **Eliza**’s baptism.

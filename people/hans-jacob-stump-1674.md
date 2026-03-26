@@ -18,26 +18,26 @@ children:
 
 # Hans Jacob Stump (b. 1674)
 
-Earlier **Sulgen** Stump on the strict ancestor path: father of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) (**@I148@**) in **F76**. This life is **`@I151@`**; [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) is **`@I142@`** (Marc’s line) — the export reuses the full name across generations.
+This is the **earlier** **Hans Jacob** on the strict **Sulgen** line: father of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md). The export reuses the same full name for his descendant [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) on **Marc**’s branch—two different men, two different centuries.
 
 ## Life
 
-- **13 Sep 1674** — Born **Buchackern, Thurgau**; christened **Sulgen, Thurgau** (GEDCOM).
-- **4 Dec 1701** — Marriage **Sulgen** to **@I152@** Anna Heinrich (**F76**).
-- **21 Jan 1706** — Died **Sulgen** (GEDCOM).
+- **13 Sep 1674** — Born **Buchackern**, **Thurgau**; christened **Sulgen**, **Thurgau**.
+- **4 Dec 1701** — Marriage **Sulgen** to [Anna Heinrich](anna-heinrich.md).
+- **21 Jan 1706** — Died **Sulgen**.
 
 ## Family
 
-- Wife: [Anna Heinrich](anna-heinrich.md) (**F76**).
-- Parents: [Augustin Stumpf](augustin-stumpf.md); [Barbara Rutershauer](barbara-rutershauer.md) (**F77**).
-- Children include [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) (**@I148@**) per **F76**.
+- Wife: [Anna Heinrich](anna-heinrich.md).
+- Parents: [Augustin Stumpf](augustin-stumpf.md); [Barbara Rutershauer](barbara-rutershauer.md).
+- Children: [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md).
 
 ## Evidence
 
-- GEDCOM **`@I151@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F76** / **F77**; FamilySearch id **2Z3K-94V** in export.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I151@`** — unions **F76**, **F77** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **2Z3K-94V**.
 
 ## Open questions
 
-- **Buchackern** — confirm modern locality spelling (Bucherkern / Bezirk) against Thurgau gazetteer.
-- **@I153@ / @I154@** — next generation pages when **F77** is written up.
+- **Buchackern** spelling vs modern **Thurgau** gazetteer.
+- Sibling set under **Augustin**/**F77** when additional vault pages are added.

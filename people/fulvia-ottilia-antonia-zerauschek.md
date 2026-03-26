@@ -18,32 +18,30 @@ children:
 
 # Fulvia Ottilia Antonia Zerauschek
 
-Daughter of [Antonio Zerauschek](antonio-zerauschek.md) (`@I14@`); wife of [David John Lewis](david-john-lewis.md). Connects the **Zara interwar hotel investor** line to the **Welsh Lewis** line and to **Anglo-Italian burial** at Sirmione. A [photograph from the family archive](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png) shows her as a young woman on the loggia of **Villa Ester**, the Zerauschek family's Lake Garda retreat — later sold and renamed [Villa Callas](../stories/zerauschek-villa-callas-sirmione.md).
+Fulvia is the hinge where the Adriatic line meets the Welsh one: the only child of [Antonio Zerauschek](antonio-zerauschek.md) and [Ester Addobbati](ester-addobbati.md) who carries this vault forward into [David John Lewis](david-john-lewis.md) and their English descendants. She was born in **Zara** in **1923**, when the city still wore the Italian kingdom’s flag and her father’s name was on cigarette papers and café awnings. A young woman on the **loggia of Villa Ester** at Sirmione—marble, cypress, lake light—survives in the family photograph; the villa would pass out of the family and into the story of **Maria Callas**, but Fulvia’s smile on that terrace is the human-sized memory.
+
+She died at **Hove** in **Sussex** in **2000** and was laid to rest at **Sirmione**, beside the Garda shore, not far from the worlds she had left and kept returning.
 
 ## Life
 
-- **10 Nov 1923** — Born **Zara, Dalmatia** (kingdom-era placename in GEDCOM).
-- **20 Dec 2000** — Died **Hove / Brighton & Hove**; death registration indexed **Brighton and Hove, Sussex**.
-- **Burial** — **Sirmione, Brescia, Lombardy, Italy** (same cemetery complex as David John Lewis per GEDCOM).
-- Occupation in export: **Collector** (treat as label from online tree; confirm from primary record if needed).
+The published tree labels her occupation **Collector**—treat that as an export from an online tree until a primary record says otherwise. What is certain from this vault is lineage, marriage to David John Lewis, and children including [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md); the full sibling set sits in [family-tree.json](../family-tree.json).
 
 ## Family
 
 - Parents: [Antonio Zerauschek](antonio-zerauschek.md); [Ester Addobbati](ester-addobbati.md).
 - Husband: [David John Lewis](david-john-lewis.md).
-- Children: [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md) and siblings per **F4** in [family-tree.json](../family-tree.json).
+- Children: [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md) and siblings — see [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I9@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- FamilySearch / MyHeritage citation blocks inside same GEDCOM (death index, Geni URL).
-- Zara narrative context: [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md).
-- Villa Ester / Villa Callas narrative: [stories/zerauschek-villa-callas-sirmione.md](../stories/zerauschek-villa-callas-sirmione.md).
-- **Fulvia at Villa Ester (photo):** [Fulvia Zerauschek at Villa Ester Sirmione.png](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png) — loggia, marble floors, conifer park.
-- Scans: [media/collections/zerauschek/](../media/collections/zerauschek/).
-- **Father’s obituary (clipping JPEG):** [*Difesa Adriatica* 1973 scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg) · [Italian transcript + English](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md) (prose memorial; not a civil register).
+- Zara narrative: [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md).
+- Villa Ester / Villa Callas: [stories/zerauschek-villa-callas-sirmione.md](../stories/zerauschek-villa-callas-sirmione.md).
+- [Fulvia at Villa Ester (photo)](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png).
+- Father’s obituary (*Difesa Adriatica*, 1973): [scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg) · [transcript + English](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md).
 - [Adolfobati family portrait (caption references Zerauschek line)](../media/docs/Adolfobati%20family%20portrait%20nine%20Ottilie%20Piero%20Vittoria%20Pietro%20Ester%20Nonna%20caption.jpeg).
+- Scans: [media/collections/zerauschek/](../media/collections/zerauschek/).
+- **Export:** GEDCOM individual `@I9@` — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged) (FamilySearch / MyHeritage citation blocks, death index, Geni URL inside same file).
 
 ## Open questions
 
-- Mother **Ester Addobbati** — dedicated `people/` page when parish PDFs are keyed.
+- Parish and civil images keyed to Fulvia’s own birth and marriage events (Zara / UK).

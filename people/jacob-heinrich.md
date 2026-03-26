@@ -13,17 +13,18 @@ children:
 
 # Jacob Heinrich
 
-Husband of [Ursula Rutershaus](ursula-rutershaus.md) in **F81**; father of [Andreas Heinrich](andreas-heinrich.md) (**@I159@**). Birth **1563**; death **21 Sep 1628**.
+**Jacob Heinrich** was born **1563** and died **21 September 1628**. He married [Ursula Rutershaus](ursula-rutershaus.md) and was father of [Andreas Heinrich](andreas-heinrich.md).
 
 ## Family
 
 - Wife: [Ursula Rutershaus](ursula-rutershaus.md).
-- Children include [Andreas Heinrich](andreas-heinrich.md) per **F81**.
+- Children: [Andreas Heinrich](andreas-heinrich.md).
 
 ## Evidence
 
-- GEDCOM **`@I161@`**, **F81**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I161@`** — union **F81** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **F81** lacks **MARR** block in export—date marriage from Sulgen book.
+- Marriage date from **Sulgen** parish book (export union lacks **MARR** block in slice used).

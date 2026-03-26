@@ -13,18 +13,19 @@ children:
 
 # Barbara Rutershauer
 
-Wife of [Augustin Stumpf](augustin-stumpf.md) in **F77**; mother of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md). **@I154@** has **no BIRT**/**DEAT** in the export slice. **FAMC @F85@**: [Hans Rutishauser](hans-rutishauser.md); [Wybrata Rockenbass](wybrata-rockenbass.md).
+**Barbara Rutershauer** married [Augustin Stumpf](augustin-stumpf.md) and was mother of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md). No birth or death in the export slice. Parents: [Hans Rutishauser](hans-rutishauser.md); [Wybrata Rockenbass](wybrata-rockenbass.md).
 
 ## Family
 
 - Husband: [Augustin Stumpf](augustin-stumpf.md).
-- Parents: [Hans Rutishauser](hans-rutishauser.md); [Wybrata Rockenbass](wybrata-rockenbass.md) (**F85**).
-- Children include [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) per **F77**.
+- Parents: [Hans Rutishauser](hans-rutishauser.md); [Wybrata Rockenbass](wybrata-rockenbass.md).
+- Children: [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md).
 
 ## Evidence
 
-- GEDCOM **`@I154@`**, **F77** / **F85**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K27S-W2Z**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I154@`** — unions **F77**, **F85** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K27S-W2Z**.
 
 ## Open questions
 
-- **Rutershauer** orthography vs **Rüetschauer** dialect forms.
+- **Rutershauer** vs **Rüetschauer** dialect spellings.

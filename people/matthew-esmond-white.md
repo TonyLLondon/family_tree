@@ -17,28 +17,22 @@ children:
 
 # Matthew Esmond White
 
-Father of [William O'Byrne White](william-obyrne-white.md). The export gives a **Wexford** origin and a **Carlow** death with **probate** tied to the same **1866** date—useful for locating **will calendars** and **estate files** if the Irish civil index alone is not enough.
+**Matthew Esmond White** of **County Wexford** was father of [Lieutenant Colonel William O’Byrne White](william-obyrne-white.md). The graph ties his span to **1802** birth in **Wexford** and **26 June 1866** death in **Carlow**; the same export associates **probate** language with that death line, which may help when matching him to Irish administration calendars.
 
-## Life
-
-- **1802** — Born **County Wexford** (GEDCOM).
-- **1856** — Wife [Catherine Byrne](catherine-byrne.md) died **County Carlow**; Matthew outlived her by a decade.
-- **26 June 1866** — Died **Carlow**; **probate** event same date and place in export (check whether this is **administration** vs **will proved** wording from the calendar).
-
-The marriage appears in **F157** without a separate `MARR` block in the snippet read earlier—often means the union was inferred from children’s civil records; **locate the church marriage** between Matthew and Catherine for a firm pre-1844 date.
+His wife [Catherine Byrne](catherine-byrne.md) died in **1856** in **Carlow**; Matthew survived her by ten years.
 
 ## Family
 
-- Parents: [Mathew White](mathew-white.md); [Mary Esmonde](mary-esmonde.md) (**F158**, marriage **1772**, Ireland).
+- Parents: [Mathew White](mathew-white.md); [Mary Esmonde](mary-esmonde.md) (union **F158**, marriage **1772**, Ireland in export).
 - Wife: [Catherine Byrne](catherine-byrne.md).
-- Children: [William O'Byrne White](william-obyrne-white.md) (only child in **F157** in the lines read—reconcile if siblings exist elsewhere in the GEDCOM).
+- Children: [William O’Byrne White](william-obyrne-white.md) — only child attached to union **F157** in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I327@`**, **F157**, **F158**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- Irish civil index citations **@S40@** on Matthew’s birth/death events in the same export.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I327@`** — unions **F157** (with Catherine), **F158** (parents); source pointers **@S40@** on vitals in the same file — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Exact marriage year** and parish (Wexford vs Carlow vs Wicklow given Catherine’s **Wicklow** birth).
-- Whether **“Esmond”** reflects a maternal surname or a clerical variant of **Esmonde**.
+- Firm **marriage** date and parish for Matthew and Catherine.
+- Whether **Esmond** reflects **Esmonde** (maternal surname already in the line) or clerical variation.

@@ -14,18 +14,22 @@ children:
 
 # Dorothy Bindlose
 
-Wife of [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md) in **F100**; mother of [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md). Birth **~1544** **Hailston**; christening **1 Sep 1564** **Worton, Kendal**; death/burial **1624** notes **Westmorland**. **FAMC @F102@**: [Sir Robert Bindlosse](robert-bindlosse.md) (**HUSB @I201@**); **no WIFE** line in **F102** in this export.
+**Dorothy Bindlose** was born about **1544** at **Hailston**, **Westmorland**; christened **1 September 1564** **Worton**, **Kendal**; death/burial notes point to **1624** and **Westmorland** in the export. She married [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md) and was mother of [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md). Her father in the graph is [Sir Robert Bindlosse](robert-bindlosse.md); the parental union in this export has no wife line.
 
 ## Family
 
 - Husband: [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md).
-- Father: [Sir Robert Bindlosse](robert-bindlosse.md) (**F102**).
-- Children include [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md) per **F100**.
+- Father: [Sir Robert Bindlosse](robert-bindlosse.md).
+- Children: [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md).
 
 ## Evidence
 
-- GEDCOM **`@I198@`**, **F100** / **F102**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MKFF-J4J**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I198@`** — unions **F100**, **F102** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MKFF-J4J**.
 
 ## Open questions
 
-- **F102** mother; **Bindlose** vs **Bindlosse** armorial spellings.
+- Mother on **F102**; **Bindlose** vs **Bindlosse** armorial spellings.</think>
+
+<｜tool▁calls▁begin｜><｜tool▁call▁begin｜>
+StrReplace

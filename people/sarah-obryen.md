@@ -15,17 +15,17 @@ children:
 
 # Sarah O'Bryen
 
-Wife of [Stephen John Roche](stephen-john-roche.md) in **F167**; mother of [Thomas Roche](thomas-roche.md). **BIRT** line gives **Moyvanine and Clounties, Limerick** without year in the slice; death **8 Nov 1786** **Ireland**.
+Sarah O’Bryen was the wife of [Stephen John Roche](stephen-john-roche.md) and mother of [Thomas Roche](thomas-roche.md). The export gives her birthplace as Moyvanine and Clounties, Limerick, without a birth year in the slice used here; she died on 8 November 1786 in Ireland.
 
 ## Family
 
 - Husband: [Stephen John Roche](stephen-john-roche.md).
-- Father: [John O'Bryen](john-obryen.md) (**F169**).
-- Children include [Thomas Roche](thomas-roche.md) per **F167**.
+- Father: [John O'Bryen](john-obryen.md).
+- Children include [Thomas Roche](thomas-roche.md).
 
 ## Evidence
 
-- GEDCOM **`@I359@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F167** / **F169**; FamilySearch **MB2B-GCZ**.
+- **Export:** MyHeritage **`@I359@`** — unions **F167**, **F169** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MB2B-GCZ**.
 
 ## Open questions
 

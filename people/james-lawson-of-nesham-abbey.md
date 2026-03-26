@@ -16,18 +16,18 @@ children:
 
 # James Lawson, of Nesham Abbey
 
-Husband of [Jane Conyers](jane-conyers.md) in **F166** (marriage **8 Jan 1593**, **Neesham, Durham**); father of [Lady Frances Lawson](lady-frances-lawson.md) among other **CHIL** entries in **F166**. Christening **17 Nov 1568** **Hurworth-on-Tees** in GEDCOM conflicts with **1568** birth **Neesham**—resolve in register image. Death **20 Oct 1631**. **FAMC @F200@**: [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md); [Frances Conyers](frances-conyers.md).
+James Lawson, of Nesham Abbey, was the husband of [Jane Conyers](jane-conyers.md)—they married on 8 January 1593 at Neesham, Durham—and father of [Lady Frances Lawson](lady-frances-lawson.md) and other children named in the same export household. The export gives a christening on 17 November 1568 at Hurworth-on-Tees alongside a birth year 1568 at Neesham; those details need reconciliation against the register image. He died on 20 October 1631. His parents were [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md) and [Frances Conyers](frances-conyers.md).
 
 ## Family
 
 - Wife: [Jane Conyers](jane-conyers.md).
-- Parents: [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md); [Frances Conyers](frances-conyers.md) (**F200**).
-- Children include [Lady Frances Lawson](lady-frances-lawson.md) per **F166**.
+- Parents: [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md); [Frances Conyers](frances-conyers.md).
+- Children include [Lady Frances Lawson](lady-frances-lawson.md).
 
 ## Evidence
 
-- GEDCOM **`@I356@`**, **F166** / **F200**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** blocks in export.
+- **Export:** MyHeritage **`@I356@`** — unions **F166**, **F200** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** blocks in export.
 
 ## Open questions
 
-- **Geni** duplicate **“James Unknown”** merges—keep strict **F166** / **F200** only until parish proof.
+- **Geni** duplicate **“James Unknown”** merges—anchor to parish proof for the Neesham household before folding in alternate merges.

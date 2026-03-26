@@ -11,18 +11,16 @@ children:
 
 # D. Joannes Aloysious Addobbati
 
-Father of [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md) in **F22** (**HUSB @I37@**, **CHIL @I36@**). **F22** has **no WIFE** line in this export.
+**D. Joannes Aloysious Addobbati** is the sixteenth-century notary who, in Sabalich’s digest of the 1745 Bergamo genealogical testimonial, receives his brevet in 1511. The Latinized *Aloysius* ties him to the same onomastic world as the “Alloisio” that will surface in Zara baptisms three centuries later—names travelling like heirlooms even when careers diverge.
 
-## Life
-
-- **1511** — *D. Joanes Aloysius creato notajo* — created notary. Listed in the 1745 Bergamo genealogical testimonial (Sabalich p. 503).
+His documented child in this vault is [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md); a wife is not named in the export that built this slice of the tree.
 
 ## Family
 
-- Father: [Pietro Addobbati](pietro-addobbati.md) (**F23**).
-- Children include [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md) per **F22**.
+- Father: [Pietro Addobbati](pietro-addobbati.md).
+- Children: [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md).
 
 ## Evidence
 
-- GEDCOM **`@I37@`**, **F22** / **F23**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW1S-H7M**.
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Joanes Aloysius creato notajo (1511)" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Joanes Aloysius creato notajo (1511)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Export:** GEDCOM individual `@I37@`, families F22 / F23; FamilySearch GW1S-H7M — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).

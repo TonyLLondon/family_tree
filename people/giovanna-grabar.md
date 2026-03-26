@@ -14,19 +14,19 @@ children:
 
 # Giovanna Grabar
 
-Wife of [Giovanni Battista Boara](giovanni-battista-boara.md) in **F55**; mother of [Simeone Vincenzo Boara](simeone-vincenzo-boara.md). **BIRT** line gives **Zara** without year; **DEAT** without detail in slice.
+**Giovanna Grabar** was born in **Zara** (year not in export slice). She married [Giovanni Battista Boara](giovanni-battista-boara.md) and was mother of [Simeone Vincenzo Boara](simeone-vincenzo-boara.md). Parents: [Antonio Grabar](antonio-grabar.md) and [Antonia Polettit](antonia-polettit.md).
 
 ## Family
 
 - Husband: [Giovanni Battista Boara](giovanni-battista-boara.md).
-- Parents: [Antonio Grabar](antonio-grabar.md); [Antonia Polettit](antonia-polettit.md) (**F57**).
-- Children include [Simeone Vincenzo Boara](simeone-vincenzo-boara.md) per **F55**.
+- Parents: [Antonio Grabar](antonio-grabar.md); [Antonia Polettit](antonia-polettit.md).
+- Children: [Simeone Vincenzo Boara](simeone-vincenzo-boara.md).
 
 ## Evidence
 
-- GEDCOM **`@I112@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F55** / **F57**; FamilySearch **L22T-RV8**.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I112@`** — unions **F55**, **F57** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L22T-RV8**.
 
 ## Open questions
 
-- **Birth year** — Zara baptism index under **Grabar**.
+- Birth year — **Zara** baptism index under **Grabar**.

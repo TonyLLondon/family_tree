@@ -13,17 +13,30 @@ children:
 
 # Louisa Spencer
 
-London-born **Spencer** line into the **Evans → Lewis** side of the Welsh tree: wife of [William Evans (London)](william-evans-i289.md) (**26 July 1891**, **F136**); mother of [Alfred Edward William Evans](alfred-edward-william-evans.md). **Birth union F191** (parents in [family-tree.json](../family-tree.json) as **I435** / **I436** with siblings **I437–I442**) — add parent person pages when parish PDFs are keyed.
+**Louisa** is where **Charterhouse** meets **Clerkenwell** on paper: **20 June 1871** in the **St Thomas Charterhouse** slice of **Middlesex**, the sort of registration district that hugged London’s charitable and monastic ghosts. She married [William Evans](william-evans-i289.md) in **July 1891** and became mother to [Alfred Edward William Evans](alfred-edward-william-evans.md)—the man the **1939 Register** would catch as **fruit-and-veg costermonger**, ancestor of **Joseph**, **Helia**, and the **Chile** story.
+
+Her parents in the graph are still placeholders; siblings cluster in the same birth union. Loose scans in `media/docs/` hold a birth image and an **1865** register spread—read captions twice before merging generations.
+
+**Hub:** [Evans · Cerpa Pérez — London line](../lines/evans-cerpa-perez-london-chile.md) (loose media batch note).
+
+## Family
+
+Husband: William Evans. Child: Alfred Edward William Evans.
 
 ## Evidence
 
-- **Structured tree:** [family-tree.json](../family-tree.json) **`I290`**.
-- **Ancestry-style capture (image):** [Louisa Spencer Birth.jpg](../media/docs/Louisa%20Spencer%20Birth.jpg).
-- **St Thomas Charterhouse register (1865 spread):** [St Thomas Charterhouse marriage register 1865 pages 18-19 Norman French Spencer Evans.jpg](../media/docs/St%20Thomas%20Charterhouse%20marriage%20register%201865%20pages%2018-19%20Norman%20French%20Spencer%20Evans.jpg) — dated **1865**; confirm which marriage it records (not automatically **F136** **26 Jul 1891**); see [Evans hub loose captures](../lines/evans-cerpa-perez-london-chile.md#loose-media-docs-evans-spencer-batch).
-- **Corpus (PDF + extract):** [louisa-spencer-england-select-births-and-christe-c5d42f5463](../sources/corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/) — parish-register style export; read alongside civil images.
-- **Cluster:** [Lewis / White / Roche / Obolensky — Ireland corpus](../sources/lewis-white-roche-ireland-corpus-cluster.md).
+- [Louisa Spencer Birth.jpg](../media/docs/Louisa%20Spencer%20Birth.jpg).
+- [St Thomas Charterhouse marriage register 1865, pp. 18–19](../media/docs/St%20Thomas%20Charterhouse%20marriage%20register%201865%20pages%2018-19%20Norman%20French%20Spencer%20Evans.jpg) — 1865; confirm subject before citing as Louisa’s parents’ marriage.
+- [Corpus — England select births/christenings](../sources/corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/) — export-style transcript; read with civil images.
+- Cluster: [Lewis / White / Roche / Obolensky — Ireland corpus](../sources/lewis-white-roche-ireland-corpus-cluster.md).
+
+**Export:**
+
+- **Export:** MyHeritage **`@I290@`** — birth union **F191** in [family-tree.json](../family-tree.json); parents and siblings still placeholders in the graph until stubs exist.
+- Death and burial not in the JSON slice used here — same export individual when merging vitals.
+- Confirm [Louisa Spencer Birth.jpg](../media/docs/Louisa%20Spencer%20Birth.jpg) matches I290 / same Ancestry person as corpus PDF.
 
 ## Open questions
 
-- Death and burial not carried in the JSON slice used here — pull from GEDCOM **@I290@** when merging vitals.
-- Confirm **Louisa Spencer Birth.jpg** matches this **I290** (same Ancestry person as corpus PDF).
+- Parents’ names and marriage from parish or civil images.
+- Death and burial from export or new captures.

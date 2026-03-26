@@ -11,18 +11,16 @@ children:
 
 # D. Joanes Baptista Addobbati
 
-Father of [D. Jacobus Addobbati](d-jacobus-addobbati.md) in **F21** (**HUSB @I36@**, **CHIL @I35@**). **F21** has **no WIFE** line in this export.
+**D. Joanes Baptista Addobbati** enters the received genealogy as a notary *creato*—authorized—in 1559, when Bergamo’s benches of proof still thought in Latin headings and long ink lines. Sabalich’s précis, fed by the 1745 Bergamo genealogical testimonial, is almost stenographic: name, office, year. Yet those three data points matter because they anchor the next rung on the ladder, Jacobus and then the seventeenth-century Ivani and Daniels who keep the patronym alive.
 
-## Life
-
-- **1559** — *D. Ioanes Baptista creato notajo* — created notary. Listed in the 1745 Bergamo genealogical testimonial (Sabalich p. 503).
+The mother of his son Jacobus does not appear in the machine export summarised here; that silence is a historical problem, not a family judgment.
 
 ## Family
 
-- Father: [D. Joannes Aloysious Addobbati](d-joannes-aloysious-addobbati.md) (**F22**).
-- Children include [D. Jacobus Addobbati](d-jacobus-addobbati.md) per **F21**.
+- Father: [D. Joannes Aloysious Addobbati](d-joannes-aloysious-addobbati.md).
+- Children: [D. Jacobus Addobbati](d-jacobus-addobbati.md).
 
 ## Evidence
 
-- GEDCOM **`@I36@`**, **F21** / **F22**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW1S-LT2**.
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** "D. Ioanes Baptista creato notajo (1559)" — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Ioanes Baptista creato notajo (1559)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Export:** GEDCOM individual `@I36@`, families F21 / F22; FamilySearch GW1S-LT2 — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).

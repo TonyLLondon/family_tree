@@ -11,16 +11,16 @@ children:
 
 # Thomas Lysagt Burke
 
-Husband of [Burke](burke.md) (**@I377@**) in **F178**; father of [Anastasia Lysagt Burke](anastasia-lysagt-burke.md). **@I378@** has **no BIRT**/**DEAT** in the export slice.
+Thomas Lysagt Burke was the husband of [Burke](burke.md) and father of [Anastasia Lysagt Burke](anastasia-lysagt-burke.md). The export carries no birth or death events for him.
 
 ## Family
 
 - Wife: [Burke](burke.md).
-- Children include [Anastasia Lysagt Burke](anastasia-lysagt-burke.md) per **F178**.
+- Children include [Anastasia Lysagt Burke](anastasia-lysagt-burke.md).
 
 ## Evidence
 
-- GEDCOM **`@I378@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F178** only.
+- **Export:** MyHeritage **`@I378@`** — union **F178** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

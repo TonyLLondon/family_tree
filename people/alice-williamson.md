@@ -13,17 +13,18 @@ children:
 
 # Alice Williamson
 
-Wife of [Robert Braithwait](robert-braithwait.md) in **F101**; mother of [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md). Birth **~1514** **Millbeck, Cumberland**; **DEAT** flagged without **DATE** in the export.
+**Alice Williamson** was born about **1514** at **Millbeck**, **Cumberland**. She married [Robert Braithwait](robert-braithwait.md) and was mother of [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md). The export flags death **Y** without date.
 
 ## Family
 
 - Husband: [Robert Braithwait](robert-braithwait.md).
-- Children include [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md) per **F101**.
+- Children: [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md).
 
 ## Evidence
 
-- GEDCOM **`@I200@`**, **F101**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L6C1-BM6**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I200@`** — union **F101** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L6C1-BM6**.
 
 ## Open questions
 
-- **Williamson** in **Millbeck** parish (often **Cumberland** / **Westmorland** border).
+- **Williamson** in **Millbeck** and the **Cumberland** / **Westmorland** edge.

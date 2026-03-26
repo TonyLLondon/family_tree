@@ -15,34 +15,35 @@ children:
 
 # Anna Herenda
 
-Mother of [Antonio Zerauschek](antonio-zerauschek.md) (`@I14@`) and wife of [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md) (`@I25@`). Her paper trail is the **Dalmatian Zara** parish network; the **Zerauschek** descent through her runs to [Ester Addobbati](ester-addobbati.md) and [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md).
+Anna is the **mother of the hotel Antonio**—[Antonio Zerauschek](antonio-zerauschek.md)—and the grandmother who sits at the centre of Fulvia’s memory of the **Zara** household: a woman brushing hair “a foot on the ground when loose,” boys clattering through the rooms, grief piled high with **Marie**’s fall and **Emma**’s fever. Born on **Pag** in **1859**, she married the carpenter [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md) in **1878** and moved with him into the city’s fabric; by **1889** the family was at **Via del Cristo, C.M. § 24**, where her famous son would be registered.
+
+The memoir says she was **orphaned at sixteen** and cheated of an inheritance by brothers she had helped raise; the **1878 marriage book**, when she was nineteen, still lists both parents as **living**—**Giovanni Erenda** and **Giuseppina Magassich**—so “orphan” may mean emotional exile, not literal burial. She was a **negoziante**, a tradeswoman, on her wedding day: commerce, not merely needlework, in her file.
+
+Fulvia gives her death at **sixty-four** with that prodigal hair still below her knees; her own mother had ended life under a **wig**. If the arithmetic from **1859** holds, she died about **1923**—a year the civil books here have not yet confirmed.
 
 ## Life
 
-- **14 February 1859** — Born **Pago, Zara, Dalmatia** (Habsburg-era placename; modern **Pag** island). Confirmed by the 1878 marriage register.
-- **"Orphaned at the age of 16"** per the Fulvia memoir — she carried on the family's business and raised her younger brothers, who once grown cheated her out of it. However, the 1878 marriage register (when Anna was 19) lists both her father Giovanni Erenda and mother Giuseppina Magassich as **living**. The conflict may reflect effective abandonment or estrangement rather than literal death.
-- **26 January 1878** — Marriage **Pago** to [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md) (**F13**). The register describes her as **Negoziante** (merchant), Catholic, from Pago. Banns published 1, 6, and 13 January 1878. Witnesses: Andrea Armiani (civile, Pago), Andrea Beveroni/Devercovi (negoziante, Novigno).
-- By 1889, the family was domiciled at **Via del Cristo, C.M. § 24, Zara** (from son Antonio's birth register).
-- **Five sons** including [Antonio Zerauschek](antonio-zerauschek.md) ("Nonno"). The boys played in and out around her while she brushed her famously long **blond hair** — a foot on the ground when loose. She died suddenly at **64** (c. 1923) with her hair still below her knees. Her mother had ended her life wearing a wig. (Fulvia memoir, 1996.)
+**14 February 1859** — born at **Pago** (Pag island, Zara circle), Habsburg Dalmatia. The **1878 marriage register** confirms date and origin.
 
-The memoir records the family's children from the couple as: [Antonio](antonio-zerauschek.md) (I14), Marie (died aged 18 from a fall), Emma (died of Spanish flu), Giuseppina (married a La Scala tenor), Giovanni ("Zio Nini", had a shipyard), Giusit ("el bon Giusit"), Besto (merchant navy, South Africa), and Ginco/Riccardo (married Tania). This gives eight children (five boys, three girls), consistent with "her five boys" and three daughters.
+**26 January 1878** — married [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md) in **Pago**, with banns read **1, 6, and 13 January**. Witnesses: **Andrea Armiani** (civile, Pago), **Andrea Beveroni / Devercovi** (merchant, Novigno).
+
+Children named in family pages: [Antonio](antonio-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Giovanni](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), [Besto](besto-zerauschek.md), [Riccardo](riccardo-zerauschek.md).
 
 ## Family
 
-- Parents: [Giovanni Erenda](giovanni-erenda.md) (Negoziante, from Pago, Catholic, living in 1878); [Giuseppina Magassich](giuseppina-magassich.md) (from Trieste, Catholic, living in 1878) (**F184**).
+- Parents: [Giovanni Erenda](giovanni-erenda.md); [Giuseppina Magassich](giuseppina-magassich.md).
 - Husband: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md).
-- Children: [Antonio Zerauschek](antonio-zerauschek.md), Marie, Emma, Giuseppina, Giovanni, Giusit, Besto/Ernesto, and Ginco/Riccardo Zerauschek (**F13**).
+- Children: as listed above (eight counted in the memoir).
 
 ## Evidence
 
-- GEDCOM **`@I26@`**, **F13**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** bride described as "Negoziante", father Giovanni Erenda (Negoziante, living), mother Giuseppina Magassich (from Trieste, living) — [media/collections/zerauschek/Zerauschek (1)/Marriage Zerauschek Herenda Pago 1878.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — orphaned at 16, blond hair, death at 64, children's names and fates.
-- **ITS/IRO file (1951) — Riccardo Zerauschek:** [sources/its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) — lists "ZERAUSCHEK geb. HERENDA, Anna" as mother; father Antonio listed as "late" (deceased), confirming early death.
+- **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **ITS/IRO file (1951) — Riccardo Zerauschek:** [sources/its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) — mother as “ZERAUSCHEK geb. HERENDA, Anna”; father Antonio “late.”
+- **Export:** MyHeritage GEDCOM **`@I26@`**; union with senior Antonio as **F13**; her parents’ marriage **F184** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- Whether **Herenda** is Italianized **Herendich** South Slavic form (parents now on **`people/`**).
-- Civil status of **Pago** birth (St. George parish on Pag island is a common guess—still a guess until the book is opened).
-- Exact death date — the memoir implies c. 1923 (born 1859, died at 64) but no documentary confirmation yet.
-- The memoir says Antonio Zerauschek senior was "un falegname" (a carpenter), and his father bought him a furniture factory — this detail belongs on [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md)'s page.
+- Orthography **Herenda** vs South Slavic **Herendich** (parents now have `people/` pages).
+- Pag parish birth register entry.
+- Exact death date — memoir suggests c. **1923**.

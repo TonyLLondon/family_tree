@@ -14,17 +14,18 @@ children:
 
 # Blaesi Stump
 
-Husband of [Madalena Bruewschwyler](madalena-bruewschwyler.md) in **F83**; father of [Caspar Stumpp](caspar-stumpp.md) (**@I163@**).
+**Blaesi Stump**—Latin registers often read **Blasius**—was born about **1565** at **Sulgen**, **Thurgau**, and died **7 October 1629**. He married [Madalena Bruewschwyler](madalena-bruewschwyler.md) and was father of [Caspar Stumpp](caspar-stumpp.md).
 
 ## Family
 
 - Wife: [Madalena Bruewschwyler](madalena-bruewschwyler.md).
-- Children include [Caspar Stumpp](caspar-stumpp.md) per **F83**.
+- Children: [Caspar Stumpp](caspar-stumpp.md).
 
 ## Evidence
 
-- GEDCOM **`@I165@`**, **F83**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **26L8-74Q**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I165@`** — union **F83** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **26L8-74Q**.
 
 ## Open questions
 
-- **Blaesi** spelling vs **Blasius** in Latin baptism.
+- **Blaesi** vs **Blasius** in Latin baptism entries.

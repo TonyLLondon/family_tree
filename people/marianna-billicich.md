@@ -16,17 +16,17 @@ children:
 
 # Marianna Billicich
 
-Wife of [Casimiro Carobbi](casimiro-carobbi.md) in **F31**; mother of [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md). **ABT 1795** birth **Cattaro** (Kotor); death **24 Apr 1860** **Zara**.
+Marianna Billicich was the wife of [Casimiro Carobbi](casimiro-carobbi.md) and mother of [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md). She was born about 1795 at Cattaro (Kotor) and died on 24 April 1860 at Zara.
 
 ## Family
 
 - Husband: [Casimiro Carobbi](casimiro-carobbi.md).
-- Father: [Jakov Bilicic](jakov-bilicic.md) (**F33**).
-- Children include [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md) per **F31**.
+- Father: [Jakov Bilicic](jakov-bilicic.md).
+- Children include [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md).
 
 ## Evidence
 
-- GEDCOM **`@I64@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F31** / **F33**; FamilySearch **L22T-T73**.
+- **Export:** MyHeritage **`@I64@`** — unions **F31**, **F33** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L22T-T73**.
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

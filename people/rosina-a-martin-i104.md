@@ -15,14 +15,21 @@ children:
 
 # Rosina A Martin
 
-Wife of [Archibald Percy Coolbear](archibald-percy-coolbear.md) — marriage **December 1911** (**F51**). Mother of [May Coolbear](may-coolbear-i100.md). Birth union **F113**: parents [Thomas Martin](thomas-martin-i229.md) and [Elizabeth Moran](elizabeth-moran-i230.md); their marriage **25 May 1890**.
+**Rosina** was **Islington-born**—**12 June 1892**—daughter of [Thomas Martin](thomas-martin-i229.md) and [Elizabeth Moran](elizabeth-moran-i230.md), wife of **[Archibald Percy Coolbear](archibald-percy-coolbear.md)** from **October 1911** (RAF form) or **December** in some exports, mother of **[May](may-coolbear-i100.md)**. Her name sits on **Southend** and **Holloway** next-of-kin lines in her husband’s **AIR 79** file—the domestic geography of a **Great War** marriage.
+
+## Family
+
+- Parents: [Thomas Martin](thomas-martin-i229.md); [Elizabeth Moran](elizabeth-moran-i230.md).
+- Husband: [Archibald Percy Coolbear](archibald-percy-coolbear.md).
+- Daughter: [May Coolbear](may-coolbear-i100.md).
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I104`**, unions **F51** / **F113**.
-- Husband’s RAF / WWI dossier: [Archibald Percy Coolbear](archibald-percy-coolbear.md).
+- [Archibald Percy Coolbear](archibald-percy-coolbear.md) — RAF file, pensions card, medals.
+- [family-tree.json](../family-tree.json).
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
+- **Export:** MyHeritage **`@I104@`** — marriage **F51**; birth union **F113** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 
 ## Open questions
 
-- GRO or parish images for **1892** Islington birth and for parents’ **1890** marriage.
+- GRO images for **1892** Islington birth and parents’ **1890** marriage.

@@ -17,26 +17,26 @@ children:
 
 # Maria Teresa Robustella
 
-Wife of [Simeone Guiseppe Boara](simeone-guiseppe-boara.md) in **F56**; mother of [Giovanni Battista Boara](giovanni-battista-boara.md). Death **BEF 1819** per **@S12@** (before son’s **1819** marriage).
+Maria Teresa Robustella was the wife of [Simeone Guiseppe Boara](simeone-guiseppe-boara.md) and mother of [Giovanni Battista Boara](giovanni-battista-boara.md). The structured tree gives her death before 1819—before her son’s marriage that year.
 
 ## Life
 
-- **4 Sep 1743** — Born **Zara, Dalmatia** (**@S12@**).
-- **29 Oct 1763** — Marriage **Zara** (**F56**).
-- **BEF 1819** — Died (GEDCOM).
+- **4 Sep 1743** — Born **Zara, Dalmatia** (structured tree).
+- **29 Oct 1763** — Marriage **Zara**.
+- **BEF 1819** — Died (export).
 
 ## Family
 
 - Husband: [Simeone Guiseppe Boara](simeone-guiseppe-boara.md).
-- Parents: [Marco Robustella](marco-robustella.md); [Francesca Arcolin](francesca-arcolin.md) (**F63**).
-- Children include [Giovanni Battista Boara](giovanni-battista-boara.md) per **F56**.
+- Parents: [Marco Robustella](marco-robustella.md); [Francesca Arcolin](francesca-arcolin.md).
+- Children include [Giovanni Battista Boara](giovanni-battista-boara.md).
 
 ## Evidence
 
-- GEDCOM **`@I126@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F56** / **F63**; **@S12@**; FamilySearch **GW1S-KT3**.
+- **Export:** MyHeritage **`@I126@`** — unions **F56**, **F63** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@**; FamilySearch **GW1S-KT3**.
 - [family-tree.json](../family-tree.json).
 - **Marriage register, Zara, 29 Oct 1763:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Robustella Zara 1763.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Robustella%20Zara%201763.jpg) — untranscribed; her marriage to Simeone Guiseppe Boara (F56).
 
 ## Open questions
 
-- **Robustella** siblings — **F63** sibling list not expanded in this vault yet.
+- **Robustella** siblings — sibling list under her parents’ household not expanded in this vault yet.

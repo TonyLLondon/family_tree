@@ -11,17 +11,17 @@ children:
 
 # Jennett (surname unknown)
 
-Wife of [John Grave](john-grave.md) in **F46**; mother of [William Grave](william-grave.md). GEDCOM **`@I134@`**: **NAME** **Jennett //** (**GIVN** only); no **BIRT**/**DEAT** in the export.
+**Jennett**—forename only in the export—married [John Grave](john-grave.md) and was mother of [William Grave](william-grave.md). No birth or death in that slice.
 
 ## Family
 
 - Husband: [John Grave](john-grave.md).
-- Children include [William Grave](william-grave.md) per **F46**.
+- Children: [William Grave](william-grave.md).
 
 ## Evidence
 
-- GEDCOM **`@I134@`**, **F46**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I134@`** — union **F46** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

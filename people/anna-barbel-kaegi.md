@@ -12,21 +12,20 @@ children:
 
 # Anna Barbel Kaegi
 
-Wife of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) in **F74** (marriage **28 Sep 1728**); mother of [Hs. Konrad Stump](hs-konrad-stump.md) (**@I146@**). The GEDCOM carries **@S6@** source placeholders but no birth, death, or baptism lines in the extract used for this page.
+**Anna Barbel Kaegi** married [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) **28 September 1728** and was mother of [Hs. Konrad Stump](hs-konrad-stump.md). The MyHeritage extract used here has source placeholders but no birth, death, or baptism lines for her.
 
 ## Family
 
-- Father: [Daniel Kaeg](daniel-kaeg.md) (**F91**).
+- Father: [Daniel Kaeg](daniel-kaeg.md).
 - Husband: [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md).
-- Children include [Hs. Konrad Stump](hs-konrad-stump.md) per **F74**.
-- **FAMC** — **@F91@** (parents not yet written in this vault).
+- Children: [Hs. Konrad Stump](hs-konrad-stump.md).
 
 ## Evidence
 
-- GEDCOM **`@I149@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F74** / **F91**; FamilySearch id **L163-QVC** in export.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I149@`** — unions **F74**, **F91** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L163-QVC**.
 
 ## Open questions
 
-- **Vital dates** — pull **Kaegi** / **Sulgen** parish entries around **1728** marriage.
-- **F91** mother — not named in export.
+- **Kaegi** / **Sulgen** parish vitals around the **1728** marriage.
+- Mother on **Daniel Kaeg**’s union in the export—unnamed there.

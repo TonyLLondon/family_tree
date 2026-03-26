@@ -13,18 +13,19 @@ children:
 
 # Anna Heinrich
 
-Wife of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) in **F76**; mother of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) (**@I148@**). **@I152@** has **no BIRT**/**DEAT** structure in the export slice. **FAMC @F78@**: [Johannes Heinrich](johannes-heinrich.md); [Anna Duenner](anna-duenner.md).
+**Anna Heinrich** married [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) and was mother of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md). No birth or death structure in the export slice. Parents: [Johannes Heinrich](johannes-heinrich.md) and [Anna Duenner](anna-duenner.md).
 
 ## Family
 
 - Husband: [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md).
-- Parents: [Johannes Heinrich](johannes-heinrich.md); [Anna Duenner](anna-duenner.md) (**F78**).
-- Children include [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) per **F76**.
+- Parents: [Johannes Heinrich](johannes-heinrich.md); [Anna Duenner](anna-duenner.md).
+- Children: [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md).
 
 ## Evidence
 
-- GEDCOM **`@I152@`**, **F76** / **F78**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KZR1-Y8S**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I152@`** — unions **F76**, **F78** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KZR1-Y8S**.
 
 ## Open questions
 
-- **Heinrich** farmstead in **Heldswil** / **Sulgen** land books.
+- **Heinrich** holding in **Heldswil** / **Sulgen** land books.

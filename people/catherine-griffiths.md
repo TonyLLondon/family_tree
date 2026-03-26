@@ -15,34 +15,36 @@ children:
 
 # Catherine Griffiths
 
-Mother of [Samuel Lewis](samuel-lewis.md) (**@I17@**) with [David John Lewis (1857)](david-john-lewis-1857.md) in GEDCOM **F87**.
+**Catherine** is the woman the **1911** enumerator found at **41 Glen Road, Aberdare** beside **[David John Lewis (1857)](david-john-lewis-1857.md)**—the mother whose fertility return became the coalfield story: **twelve** children born, **seven** dead, **five** living, the industrial age written in a single row. Born about **1862** in **Glamorganshire**, she grew from a **nine-year-old** in her father’s **Aberdare** household to a **teenage tin worker** in **1881**, then Merthyr bride in **1884** and decade after decade a miner’s wife on the census trail that mirrors her husband’s.
 
-**Line narrative:** [Lewis in Aberdare and Merthyr — coalfield labour and child mortality](../stories/lewis-aberdare-merthyr-coalfield.md) — §3 **1911** schedule (twelve children born alive, five living, seven dead). The export ties her to **1871** (age **9**, father’s household **Aberdare**, **RG10/5405**) and **1881** (age **18**, **RG11/5320**), then **1891–1911** as wife in the same **Merthyr / Aberdare** household sequence as David—ending on **1911** schedule **77** with occupation **tin worker** in the **1881** event block.
+Her son **[Samuel Lewis](samuel-lewis.md)**—the boy who would go down the pit at **thirteen**—is the child this vault follows forward; other sons and daughters wait in the same export cluster until each earns a named page.
 
 ## Life
 
-- **1862** — Born **Glamorganshire, Wales** (GEDCOM); **1871** census extract implies Aberdare area upbringing.
-- **~Feb 1884** — Civil marriage **Merthyr** to David John Lewis (**F87**).
-- **1881** — Occupation **tin worker** (GEDCOM snapshot, Aberdare).
-- **1891–1911** — Co-resident census trail with husband (same pieces as **@I173@** narrative).
-- **Death** — GEDCOM contains a death tag without date or place in the slice used here.
+- **1862** — Born Glamorganshire (export / census consensus).
+- **1871** — Child in father’s Aberdare-area household (**RG10/5405**).
+- **1881** — **Tin worker**, Aberdare (**RG11/5320**).
+- **~February 1884** — Civil marriage at **Merthyr** to David John Lewis.
+- **1891–1911** — Household sequence with husband (same census pieces as David’s narrative).
+- **Death** — not dated in the export slice used here; likely after **1911**; may nest with David’s **1925** Merthyr death context.
 
 ## Family
 
 - Husband: [David John Lewis (1857)](david-john-lewis-1857.md).
-- Children include [Samuel Lewis](samuel-lewis.md) plus **@I337@**, **@I336@**, **@I334@**, **@I333@**, **@I421@**, **@I335@** per **F87** in [family-tree.json](../family-tree.json).
-- Parents: [Thomas Griffiths](thomas-griffiths.md); [Anne](anne.md) (**@I423@**, no surname in export) — **F188**.
+- Children: [Samuel Lewis](samuel-lewis.md) and others — [family-tree.json](../family-tree.json).
+- Parents: [Thomas Griffiths](thomas-griffiths.md); [Anne](anne.md) (surname blank in export).
 
 ## Photographs
 
-- [Family portrait, c. 1888](../media/images/portraits/david-john-lewis-1857-catherine-griffiths-family-c1888.png) — Victorian studio photograph with husband [David John Lewis](david-john-lewis-1857.md) and two young children (toddler probably Mary Ann, infant probably [Samuel](samuel-lewis.md)). See identification notes on [Samuel Lewis](samuel-lewis.md).
+- [Family portrait, c. 1888](../media/images/portraits/david-john-lewis-1857-catherine-griffiths-family-c1888.png) — with David; toddler likely Mary Ann; infant likely Samuel. See [Samuel Lewis](samuel-lewis.md) for caption correction.
 
 ## Evidence
 
-- GEDCOM **`@I174@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F87** / **F188**; FamilySearch id **GWPL-SVD** in export.
+- Coalfield narrative: [Lewis in Aberdare and Merthyr](../stories/lewis-aberdare-merthyr-coalfield.md) — **1911** schedule and mortality arithmetic.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I174@`**; marriage **F87** with David; parents’ union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). FamilySearch id **GWPL-SVD** in export text.
 
 ## Open questions
 
-- **Death** — post-**1911** Merthyr or Aberdare BMD; may align with husband’s **1925** death context.
-- **Siblings** — **@I424@**, **@I425@**, **@I426@** from **F188**: names and BMD from the same Aberdare census cluster as [Thomas Griffiths](thomas-griffiths.md).
+- Death register — Merthyr or Aberdare after **1911**.
+- Siblings under [Thomas Griffiths](thomas-griffiths.md) — names and BMD from same Aberdare cluster.

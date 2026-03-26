@@ -15,18 +15,18 @@ children:
 
 # Richard Braithwaite
 
-Father of [Ann Braithwaite](ann-braithwaite.md) in **F98** (**HUSB @I194@**, **CHIL @I191@**). **F98** has **no WIFE** line—Ann’s mother is not named in this export. Birth **19 May 1621** (**Cartmel** in **NAME** block; **CHR** also **19 May 1621** at **Saint Mary, Luton, Bedfordshire**—Geni-style conflict to resolve in registers). Death **14 Apr 1679**; burial **Windermere, Westmorland**. **FAMC @F99@**: [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md); [Lady Frances Lawson](lady-frances-lawson.md) (marriage **4 May 1617**, **Hurworth-on-Tees**).
+Richard Braithwaite was father of [Ann Braithwaite](ann-braithwaite.md). The export’s household record for Ann names no wife—her mother is not named there. He was born 19 May 1621 (Cartmel in the name block; christening the same day at Saint Mary, Luton, Bedfordshire—a Geni-style conflict to resolve in registers). He died 14 April 1679 and was buried at Windermere, Westmorland. His parents were [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md) and [Lady Frances Lawson](lady-frances-lawson.md), who married on 4 May 1617 at Hurworth-on-Tees.
 
 ## Family
 
-- Parents: [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md); [Lady Frances Lawson](lady-frances-lawson.md) (**F99**).
-- Children include [Ann Braithwaite](ann-braithwaite.md) per **F98**.
+- Parents: [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md); [Lady Frances Lawson](lady-frances-lawson.md).
+- Children include [Ann Braithwaite](ann-braithwaite.md).
 
 ## Evidence
 
-- GEDCOM **`@I194@`**, **F98** / **F99**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I194@`** — unions **F98**, **F99** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
 - **Cartmel** vs **Luton** christening conflict.
-- **F98** spouse for Ann’s mother.
+- Spouse for Ann’s mother in the export household that lists Ann as child.

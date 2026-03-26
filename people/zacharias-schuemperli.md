@@ -11,17 +11,18 @@ children:
 
 # Zacharias Schuemperli
 
-Husband of [Barbel Weber](barbel-weber.md) in **F84**; father of [Anna Schuemperli](anna-schuemperli.md) (**@I164@**). **@I167@** has **no BIRT**/**DEAT** in the export slice.
+**Zacharias Schuemperli** married [Barbel Weber](barbel-weber.md) and was father of [Anna Schuemperli](anna-schuemperli.md). No birth or death in the export slice used here.
 
 ## Family
 
 - Wife: [Barbel Weber](barbel-weber.md).
-- Children include [Anna Schuemperli](anna-schuemperli.md) per **F84**.
+- Children: [Anna Schuemperli](anna-schuemperli.md).
 
 ## Evidence
 
-- GEDCOM **`@I167@`**, **F84**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I167@`** — union **F84** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **F84** marriage date from parish book.
+- Marriage date from **Sulgen** parish book.

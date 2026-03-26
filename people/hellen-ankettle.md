@@ -12,18 +12,19 @@ children:
 
 # Hellen Ankettle
 
-Wife of [Thomas Roche](thomas-roche.md) in **F160**; mother of [William Roche](william-roche.md) (**@I137@**). **@I342@** has **DEAT Y** without **DATE**/**PLAC** in the export; **FAMC @F168@** (**HUSB @I361@** **John Ankettle**, no **WIFE** line in this export).
+**Hellen Ankettle** married [Thomas Roche](thomas-roche.md) and was mother of [William Roche](william-roche.md). The export marks a death **Y** without date or place. Her father is [John Ankettle](john-ankettle.md); the parental union in the same file names **John** as husband but no wife line.
 
 ## Family
 
 - Husband: [Thomas Roche](thomas-roche.md).
-- Father: [John Ankettle](john-ankettle.md) (**F168**).
-- Children include [William Roche](william-roche.md) per **F160**.
+- Father: [John Ankettle](john-ankettle.md).
+- Children: [William Roche](william-roche.md).
 
 ## Evidence
 
-- GEDCOM **`@I342@`**, **F160**, **F168**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MMZP-LMX**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I342@`** — unions **F160** (with Thomas Roche), **F168** (father) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MMZP-LMX**.
 
 ## Open questions
 
-- **Hellen** vs **Ellen** / **Helen** in Limerick church books.
+- **Hellen** vs **Ellen** / **Helen** in Limerick registers.

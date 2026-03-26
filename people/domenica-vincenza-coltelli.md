@@ -17,23 +17,23 @@ children:
 
 # (Domenica) Vincenza Coltelli
 
-Mother of [Pietro Paolo Addobbati](pietro-paolo-addobbati.md) with [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md) in **F14**. **@S12@** labels her **possidente** (landed owner).
+(Domenica) Vincenza Coltelli was the wife of [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md) and mother of [Pietro Paolo Addobbati](pietro-paolo-addobbati.md). The structured tree labels her as a *possidente* (landed owner).
 
 ## Life
 
 - **4 Apr 1786** — Born **Zara, Dalmatia**.
-- **25 Feb 1811** — Marriage **Zara** (**F14**).
+- **25 Feb 1811** — Marriage **Zara**.
 - **13 Mar 1851** — Died **Zara, Dalmatia**.
 
 ## Family
 
 - Husband: [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md).
-- Parents: [Pietro Paolo Coltelli](pietro-paolo-coltelli.md) (**"Paolo Coltelli, Pub.co Notajo"** in the 1811 marriage register); [Perina Sandri](perina-sandri.md) (**F61**, marriage **21 Jun 1777**, **Zara**). The 1811 register names the mother as **"Devina Sandri"** — possibly a variant of "Perina" or a middle/alternate name.
-- Children include [Pietro Paolo Addobbati](pietro-paolo-addobbati.md) and **Anna** (per DAZD inventory §2.2) per **F14**.
+- Parents: [Pietro Paolo Coltelli](pietro-paolo-coltelli.md) (**"Paolo Coltelli, Pub.co Notajo"** in the 1811 marriage register); [Perina Sandri](perina-sandri.md) (parents’ marriage **21 Jun 1777**, **Zara**). The 1811 register names the mother as **"Devina Sandri"** — possibly a variant of "Perina" or a middle/alternate name.
+- Children include [Pietro Paolo Addobbati](pietro-paolo-addobbati.md) and **Anna** (per DAZD inventory §2.2).
 
 ## Evidence
 
-- GEDCOM **`@I55@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F14** / **F61**; **@S12@**.
+- **Export:** MyHeritage **`@I55@`** — unions **F14**, **F61** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); source note **@S12@** (*possidente*).
 - [family-tree.json](../family-tree.json).
 - **Marriage register, Entry nº 13, 25 Feb 1811:** bride identified as "Vincenza Coltelli, d'anni 24, figlia del Sig.r Paolo Coltelli, Pub.co Notajo, e della Sig.ra Devina Sandri" — [media/collections/zerauschek/Zerauschek (1)/Matrimonio Addobbati Coltelli Zara 1811.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Matrimonio%20Addobbati%20Coltelli%20Zara%201811.jpg).
 

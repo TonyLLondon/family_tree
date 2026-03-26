@@ -17,17 +17,17 @@ children:
 
 # Thomas Braithwait, of Worcop
 
-Father of [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md) with [Dorothy Bindlose](dorothy-bindlose.md) in **F100** (also **CHIL @I559@** in **F100** per GEDCOM). Birth **~1537** **Hawkshead**; death **1610** **Burneside**; burial **6 May 1610** **Westmorland**. **FAMC @F101@**: [Robert Braithwait](robert-braithwait.md); [Alice Williamson](alice-williamson.md).
+Thomas Braithwait, of Worcop, was the husband of [Dorothy Bindlose](dorothy-bindlose.md) and father of [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md). Another child on the same parental union appears in [family-tree.json](../family-tree.json) without a `people/` stub yet. He was born about 1537 at Hawkshead, died in 1610 at Burneside, and was buried on 6 May 1610 in Westmorland. His parents were [Robert Braithwait](robert-braithwait.md) and [Alice Williamson](alice-williamson.md).
 
 ## Family
 
 - Wife: [Dorothy Bindlose](dorothy-bindlose.md).
-- Parents: [Robert Braithwait](robert-braithwait.md); [Alice Williamson](alice-williamson.md) (**F101**).
-- Children include [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md) per **F100**.
+- Parents: [Robert Braithwait](robert-braithwait.md); [Alice Williamson](alice-williamson.md).
+- Children include [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md).
 
 ## Evidence
 
-- GEDCOM **`@I197@`**, **F100** / **F101**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I197@`** — unions **F100**, **F101** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). Extra **F101** child row **I559** in JSON only until a page exists.
 
 ## Open questions
 

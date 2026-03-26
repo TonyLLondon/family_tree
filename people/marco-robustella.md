@@ -11,18 +11,18 @@ children:
 
 # Marco Robustella
 
-Husband of [Francesca Arcolin](francesca-arcolin.md) in **F63**; father of [Maria Teresa Robustella](maria-teresa-robustella.md). **@I128@** has no **BIRT**/**DEAT** lines in the export slice.
+**Marco Robustella** married [Francesca Arcolin](francesca-arcolin.md) and was father of [Maria Teresa Robustella](maria-teresa-robustella.md). The export slice used for this vault has no birth or death lines for him, and the marriage union has no dated **MARR** block in that slice.
 
 ## Family
 
 - Wife: [Francesca Arcolin](francesca-arcolin.md).
-- Children include [Maria Teresa Robustella](maria-teresa-robustella.md) per **F63**.
+- Children: [Maria Teresa Robustella](maria-teresa-robustella.md).
 
 ## Evidence
 
-- GEDCOM **`@I128@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F63** only.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I128@`** — union **F63** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Marriage** — **F63** has no **MARR** block in the export slice.
+- Marriage date and parish when the full union is transcribed.

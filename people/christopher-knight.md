@@ -13,16 +13,16 @@ children:
 
 # Christopher Knight
 
-Father of [Eliza Knight](eliza-knight.md) with [Lacy](lacy.md) in **F180**. Birth **ABT 1746** **Brickfield, Limerick**; **DEAT** flagged without **DATE** in the export.
+Christopher Knight was the husband of [Lacy](lacy.md) and father of [Eliza Knight](eliza-knight.md). He was born about 1746 at Brickfield, Limerick, Ireland. The export flags a death without a date.
 
 ## Family
 
 - Wife: [Lacy](lacy.md).
-- Children include [Eliza Knight](eliza-knight.md) per **F180**.
+- Children include [Eliza Knight](eliza-knight.md).
 
 ## Evidence
 
-- GEDCOM **`@I380@`**, **F180**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I380@`** — union **F180** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

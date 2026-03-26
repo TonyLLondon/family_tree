@@ -51,11 +51,11 @@ This represents a coherent second-generation pattern: where his father William u
 - [Obituary notices March 1953](../sources/gerald-white-obituary-1953.md) · [clipping 1](../media/docs/Gerald%20Sebastian%20White%20obituary%201953%20newspaper%20clipping%20on%20lined%20card.png) · [clipping 2](../media/docs/Gerald%20Sebastian%20White%20obituary%20notice%20March%201953%20Times%20clipping%20on%20card.jpg)
 - [FamilySearch death registration Q1 1953 Wandsworth, age 75](../media/docs/FamilySearch%20Gerald%20S%20White%20death%20registration%20Q1%201953%20Wandsworth%20London%20age%2075.jpg)
 - [National Probate Calendar 1953](../media/docs/National%20Probate%20Calendar%201953%20pages%20302-303%20surname%20White.png)
-- GEDCOM **`@I12@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged)
+- **Export:** MyHeritage **`@I12@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged)
 - [family-tree.json](../family-tree.json)
 
 ## Open questions
 
 - Exact dates of Registrar tenure within the Beasley window (1929–1937); whether Gerald continued under successor Leach (1937–).
-- Siblings **@I409@–@I412@** under **F67** — short pages when civil or army records surface.
+- Younger **White** siblings under union **F67** in [family-tree.json](../family-tree.json) — short pages when civil or army records surface.
 - Law Society solicitor admission roll entry (SRA archive, London).

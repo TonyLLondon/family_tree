@@ -11,18 +11,18 @@ children:
 
 # Anna Duenner
 
-Wife of [Johannes Heinrich](johannes-heinrich.md) in **F78**; mother of [Anna Heinrich](anna-heinrich.md). **@I156@** has **no vitals** in the export slice.
+**Anna Duenner** married [Johannes Heinrich](johannes-heinrich.md) and was mother of [Anna Heinrich](anna-heinrich.md). The MyHeritage extract used here carries **no birth or death** for her.
 
 ## Family
 
 - Husband: [Johannes Heinrich](johannes-heinrich.md).
-- Children include [Anna Heinrich](anna-heinrich.md) per **F78**.
+- Children: [Anna Heinrich](anna-heinrich.md).
 
 ## Evidence
 
-- GEDCOM **`@I156@`**, **F78**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I156@`** — union **F78** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Duenner** / **Dünner** parish spellings.
+- **Duenner** vs **Dünner** spellings in parish books.

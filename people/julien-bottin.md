@@ -75,4 +75,4 @@ Indexed **Google-style** queries did **not** surface further material on **this*
 
 ## Open questions
 
-- **Death** date/place and any second marriage (GEDCOM silent in export used here).
+- **Death** date/place and any second marriage (no dates in the export slice used here).

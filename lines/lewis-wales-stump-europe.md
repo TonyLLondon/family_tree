@@ -2,7 +2,7 @@
 
 **Scope:** Welsh **Lewis** line (coalfield, WWII Italy, English retirement, Sirmione burial), **Stump / Erbe** Baltic–Swiss–Tehran generations, the **Fulvia Zerauschek** bridge to **[Zara / Italian Dalmatia](zara-italy-dalmatia.md)**, and the **London Evans → Chilean Cerpa–Pérez** branch (see **[Evans · Cerpa Pérez — London & Chile](evans-cerpa-perez-london-chile.md)**). **Structured tree:** [family-tree.json](../family-tree.json). **Vault map:** [index.md](../index.md).
 
-This hub is the **outline + source register** for everything that is *not* the Persia trunk but still feeds **Tony’s direct line** toward `@I1@`.
+This hub is the **outline + source register** for everything that is *not* the Persia trunk but still feeds **Tony’s direct line** toward [Anthony Robert Lewis](../people/anthony-robert-lewis.md).
 
 ---
 
@@ -23,13 +23,13 @@ This hub is the **outline + source register** for everything that is *not* the P
 
 | Person | Role |
 |--------|------|
-| [Anthony Robert Lewis](../people/anthony-robert-lewis.md) | `@I1@` — present-day anchor |
+| [Anthony Robert Lewis](../people/anthony-robert-lewis.md) | Present-day anchor in [family-tree.json](../family-tree.json) |
 | [David John Lewis](../people/david-john-lewis.md) | Major, Silver Star, Sirmione |
 | [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) | Italy / Zara → Lewis |
 | [Étienne Stump](../people/etienne-stump.md) | Swiss dentist, Tehran |
 | [Olga Caroline Erbe](../people/olga-caroline-erbe.md) · [Marc Francois Stump](../people/marc-francois-stump.md) | Baltic / Stump–Erbe nexus |
-| [Louisa Spencer](../people/louisa-spencer.md) · [William Evans (London)](../people/william-evans-i289.md) · [Alfred Edward William Evans](../people/alfred-edward-william-evans.md) | London Spencer → Evans → Lewis side (`I290` / `I289` / `I101`) |
-| [Joseph Evans (1940)](../people/joseph-evans-i18.md) · [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) | London Evans × Maule, Chile — marriage **F9** (`I18` / `I19`); detail: [Evans · Cerpa Pérez hub](evans-cerpa-perez-london-chile.md) |
+| [Louisa Spencer](../people/louisa-spencer.md) · [William Evans (London)](../people/william-evans-i289.md) · [Alfred Edward William Evans](../people/alfred-edward-william-evans.md) | London Spencer → Evans → Lewis side |
+| [Joseph Evans (1940)](../people/joseph-evans-i18.md) · [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) | London Evans × Maule, Chile — see [Evans · Cerpa Pérez hub](evans-cerpa-perez-london-chile.md) |
 
 ---
 

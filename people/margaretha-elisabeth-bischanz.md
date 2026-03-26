@@ -14,19 +14,19 @@ children:
 
 # Margaretha Elisabeth Bischanz
 
-Wife of [Georg Busse](georg-busse.md) in **F145**; mother of [Ernst Gottlieb Busse](ernst-gottlieb-busse.md). Geni text describes her as **“verw. Rippel”** (widow Rippel)—earlier marriage to **Johann Wilhelm Rippel** and children **Daniel / Johann Wilhelm / Christian Ludewig Rippel** in the same scrape; this vault records only the **Busse** union per **F145**.
+Margaretha Elisabeth Bischanz was the wife of [Georg Busse](georg-busse.md) and mother of [Ernst Gottlieb Busse](ernst-gottlieb-busse.md). Geni text describes her as **“verw. Rippel”** (widow Rippel)—earlier marriage to **Johann Wilhelm Rippel** and children **Daniel / Johann Wilhelm / Christian Ludewig Rippel** in the same scrape; this vault foregrounds the Busse marriage and children in the structured tree.
 
 ## Family
 
 - Husband: [Georg Busse](georg-busse.md).
-- Father: [Hinrich Bischanz](hinrich-bischanz.md) (**F146**).
-- Children include [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) plus **@I547@**, **@I548@** per **F145**.
+- Father: [Hinrich Bischanz](hinrich-bischanz.md).
+- Children include [Ernst Gottlieb Busse](ernst-gottlieb-busse.md); see [family-tree.json](../family-tree.json) for the full sibling set under the Busse household.
 
 ## Evidence
 
-- GEDCOM **`@I309@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F145** / **F146**; MyHeritage **Geni** URL in **SOUR**.
+- **Export:** MyHeritage **`@I309@`** — unions **F145**, **F146** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); MyHeritage **Geni** URL in **SOUR**.
 - [family-tree.json](../family-tree.json).
 
 ## Open questions
 
-- **Rippel** first marriage — separate narrative if **@I309@** is merged correctly with Geni’s **widow** note.
+- **Rippel** first marriage — separate narrative if this individual is merged correctly with Geni’s **widow** note.

@@ -16,18 +16,20 @@ children:
 
 # Richard Braithwait
 
-Husband of [Anne Sandys](anne-sandys.md) in **F154** (marriage **~1510**, **Ambleside**); father of [Robert Braithwait](robert-braithwait.md) (**@I199@**). Birth **~1485** **Ambleside**; death **AFT 1537** **Ambleside**. **FAMC @F155@**: [Thomas Braythwayte](thomas-braythwayte.md)—**no WIFE** line in **F155** in this export.
+**Richard Braithwait** of **Ambleside**, **Westmorland**, is placed about **1485**–**after 1537** in the graph. He married [Anne Sandys](anne-sandys.md) around **1510** at **Ambleside** and was father of [Robert Braithwait](robert-braithwait.md). His father in the export is [Thomas Braythwayte](thomas-braythwayte.md); no mother is named on that parental union in the MyHeritage extract used for this vault.
 
 ## Family
 
 - Wife: [Anne Sandys](anne-sandys.md).
-- Father: [Thomas Braythwayte](thomas-braythwayte.md) (**F155**; **no WIFE** line in export).
-- Children include [Robert Braithwait](robert-braithwait.md) per **F154**.
+- Father: [Thomas Braythwayte](thomas-braythwayte.md).
+- Children: [Robert Braithwait](robert-braithwait.md).
 
 ## Evidence
 
-- GEDCOM **`@I323@`**, **F154** / **F155**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L6YD-3ZB**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I323@`** — unions **F154** (with Anne), **F155** (father only) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- FamilySearch **L6YD-3ZB**.
 
 ## Open questions
 
-- **F155** mother; **Braithwait** / **Braythwayte** orthography across Lancashire and Westmorland.
+- Mother on **F155**; **Braithwait** vs **Braythwayte** spellings across Lancashire and Westmorland records.

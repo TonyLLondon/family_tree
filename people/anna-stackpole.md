@@ -19,22 +19,23 @@ children:
 
 # Anna Stackpole
 
-Wife of [John Lysaght Roche](john-lysaght-roche.md) in **F170**; mother of [Stephen John Roche](stephen-john-roche.md). Geni titles her **Anne Roche (born Stacpoole)**; GEDCOM **NAME** uses **Stackpole**. Same **18 Jan 1760** death date as husband in export—verify as shared burial index or transcription duplicate.
+**Anna Stackpole**—**Geni** uses **Anne Roche (born Stacpoole)**; the export uses **Stackpole**—was born **1689** at **Mount Cashel**, **Clare**. She married [John Lysaght Roche](john-lysaght-roche.md) and was mother of [Stephen John Roche](stephen-john-roche.md). She died **18 January 1760** in **County Limerick**; the export gives her husband the same death date, which may be one burial index line or a duplicated transcription.
 
 ## Life
 
-- **1689** — Born **Mount Cashel, Clare, Ireland**.
-- **18 Jan 1760** — Died **County Limerick, Ireland** (GEDCOM).
+- **1689** — Born **Mount Cashel**, **Clare**, **Ireland**.
+- **18 Jan 1760** — Died **County Limerick**.
 
 ## Family
 
 - Husband: [John Lysaght Roche](john-lysaght-roche.md).
-- Parents: [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md); [Christian Jane Creagh](christian-jane-creagh.md) (**F171**, marriage **1688** **Limerick**).
-- Children include [Stephen John Roche](stephen-john-roche.md) per **F170**.
+- Parents: [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md); [Christian Jane Creagh](christian-jane-creagh.md) (parents’ marriage **1688** **Limerick** in export).
+- Children: [Stephen John Roche](stephen-john-roche.md).
 
 ## Evidence
 
-- GEDCOM **`@I364@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F170** / **F171**; FamilySearch **LCVY-RZP**; **Geni** in **SOUR**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I364@`** — unions **F170**, **F171** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LCVY-RZP**; **Geni** in **SOUR**.
 
 ## Open questions
 

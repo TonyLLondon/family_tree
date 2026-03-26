@@ -13,17 +13,18 @@ children:
 
 # Margaretha Freyenmuth
 
-Wife of [Hans Conrad Haag](hans-conrad-haag.md) in **F92**; mother of [Anna Margaretha Hagg](anna-margaretha-hagg.md). Christening **15 Oct 1743** **Wigoltimgen, Thurgan, Switzerland** (GEDCOM spelling—normalize against parish register); **DEAT** flagged without **DATE** in the export.
+**Margaretha Freyenmuth** was christened **15 October 1743** at **Wigoltimgen**, **Thurgau** (export spelling—align to parish register). She married [Hans Conrad Haag](hans-conrad-haag.md) and was mother of [Anna Margaretha Hagg](anna-margaretha-hagg.md). The export flags death **Y** without date.
 
 ## Family
 
 - Husband: [Hans Conrad Haag](hans-conrad-haag.md).
-- Children include [Anna Margaretha Hagg](anna-margaretha-hagg.md) per **F92**.
+- Children: [Anna Margaretha Hagg](anna-margaretha-hagg.md).
 
 ## Evidence
 
-- GEDCOM **`@I183@`**, **F92**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K81F-HS2**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I183@`** — union **F92** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K81F-HS2**.
 
 ## Open questions
 
-- **Freyenmuth** orthography in Thurgau family reconstitution tables.
+- **Freyenmuth** orthography in **Thurgau** reconstitution tables.

@@ -17,23 +17,23 @@ children:
 
 # Stephen John Roche
 
-Father of [Thomas Roche](thomas-roche.md) (**@I341@**) with [Sarah O'Bryen](sarah-obryen.md) in **F167** (marriage **Limerick** in export). **Merchant** in GEDCOM. Multiple **Geni** URLs embed conflicting spouse names (**Sarah O’Brien** vs **Margaret Meade** in one scrape); **F167** uses **@I359@** as wife—this vault follows the GEDCOM pointer.
+Stephen John Roche was a merchant, husband of [Sarah O'Bryen](sarah-obryen.md), and father of [Thomas Roche](thomas-roche.md); the export records their marriage at Limerick. Several Geni URLs embed conflicting spouse names (**Sarah O’Brien** vs **Margaret Meade** in one scrape); the structured export pairs him with Sarah O’Bryen, and this vault follows that pointer.
 
 ## Life
 
-- **5 Dec 1724** — Born **County Limerick, Ireland** (structured **BIRT**; another Geni block says **1724** without day—reconcile in registers).
+- **5 Dec 1724** — Born **County Limerick, Ireland** (structured birth line; another Geni block says **1724** without day—reconcile in registers).
 - **12 Feb 1804** — Died **Limerick, Munster, Ireland**.
 
 ## Family
 
-- Wife: [Sarah O'Bryen](sarah-obryen.md) (**F167**).
-- Parents: [John Lysaght Roche](john-lysaght-roche.md); [Anna Stackpole](anna-stackpole.md) (**F170**).
-- Children include [Thomas Roche](thomas-roche.md) per **F167** in [family-tree.json](../family-tree.json).
+- Wife: [Sarah O'Bryen](sarah-obryen.md).
+- Parents: [John Lysaght Roche](john-lysaght-roche.md); [Anna Stackpole](anna-stackpole.md).
+- Children include [Thomas Roche](thomas-roche.md); see [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I358@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F167** / **F170** / **F203**; FamilySearch **LZPD-GR4**; MyHeritage **Geni** in **SOUR**.
+- **Export:** MyHeritage **`@I358@`** — unions **F167**, **F170**, **F203** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LZPD-GR4**; MyHeritage **Geni** in **SOUR**.
 
 ## Open questions
 
-- **F203** second union — treat separately from **F167** when **`@F203@`** is expanded.
+- Second union **F203** in the export — treat separately from the Sarah O’Bryen household when that family record is expanded.

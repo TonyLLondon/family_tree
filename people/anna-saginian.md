@@ -5,7 +5,7 @@ gedcom: "@I80@"
 born: ~1830 (approximate from narrative)
 died: unknown
 ignore_gedcom_death: true
-born_alt: 1815 (GEDCOM @I80@ — conflicts with narrative ~1830)
+born_alt: 1815 (export — conflicts with narrative ~1830)
 sex: female
 ethnicity: Armenian
 role: Court and diplomatic circles (via marriage to Edward Burgess); in Leicester by 1880
@@ -60,6 +60,6 @@ Secondary genealogy notes sometimes use alternate spellings (**Seguinoff** and s
 ## Open questions
 
 - Mother’s name (died before Daoud Khan; not named in the interview).
-- Anna’s exact birth date: GEDCOM has 1815; narrative implies c. 1830 for a woman married c. 1851.
+- Anna’s exact birth date: export has **1815**; narrative implies c. 1830 for a woman married c. 1851.
 - The unnamed sister (widow of Aga Pedros, three sons in Tehran) — name not recorded in the interview.
 - Whether Anna remained in Leicester after 1880 or returned to Iran.

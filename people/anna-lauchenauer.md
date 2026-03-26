@@ -11,16 +11,16 @@ children:
 
 # Anna Lachenauer
 
-Wife of [Aenderli Heinrich](aenderli-heinrich.md) in **F79**; mother of [Johannes Heinrich](johannes-heinrich.md). **@I158@** has **no BIRT**/**DEAT** in the export slice. (GEDCOM **SURN** **LAUCHENAUER**—file slug follows [ancestor list](ancestor-coverage-list.md) **`anna-lauchenauer.md`**.)
+Anna Lachenauer was the wife of [Aenderli Heinrich](aenderli-heinrich.md) and mother of [Johannes Heinrich](johannes-heinrich.md). The MyHeritage export used here carries no birth or death events for her. The surname is given there as **Lauchenauer**; this vault file follows the [ancestor list](ancestor-coverage-list.md) slug **`anna-lauchenauer.md`**.
 
 ## Family
 
 - Husband: [Aenderli Heinrich](aenderli-heinrich.md).
-- Children include [Johannes Heinrich](johannes-heinrich.md) per **F79**.
+- Children include [Johannes Heinrich](johannes-heinrich.md).
 
 ## Evidence
 
-- GEDCOM **`@I158@`**, **F79**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I158@`** — union **F79** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

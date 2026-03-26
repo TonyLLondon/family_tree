@@ -1,6 +1,6 @@
 ---
 name: Miguel Cerpa González
-alsoKnownAs:
+also_known_as:
   - Miguel Luis Cerpa González
 treeId: I346
 gedcom: "@I346@"
@@ -19,14 +19,19 @@ children:
 
 # Miguel Luis Cerpa González
 
-Father of [Helia del Carmen Cerpa Pérez](helia-cerpa-perez.md) and [Miguel Antonio Cerpa Pérez](miguel-cerpa-perez-i352.md) (**F162**). Full name **Miguel Luis** per FamilySearch (tree uses shorter form). Born **1910** at **Chanco, Cauquenes, Maule**; died **1966** (tree / GEDCOM). Marriage to [Laurencia del Carmen Pérez Escobar](laurencia-perez-escobar-i347.md) in **F162** (date not set in JSON slice). Parents [Francisco Cerpa](francisco-cerpa-i348.md) and [Ana González](ana-gonzalez-i349.md) — **F163**, marriage **1909**; brothers [René Cerpa González](rene-cerpa-gonzalez-i353.md) and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md).
+**Miguel**—**Miguel Luis** in fuller record-keeping—was born **1910** at **Chanco**, **Cauquenes**, in **Maule**. He married [Laurencia del Carmen Pérez Escobar](laurencia-perez-escobar-i347.md) and was father of [Helia del Carmen Cerpa Pérez](helia-cerpa-perez.md) and [Miguel Antonio Cerpa Pérez](miguel-cerpa-perez-i352.md).
+
+Parents: [Francisco Cerpa](francisco-cerpa-i348.md) and [Ana González](ana-gonzalez-i349.md). Brothers with person pages: [René Cerpa González](rene-cerpa-gonzalez-i353.md) and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md).
+
+He died **1966** (export / tree; civil register citation still to file).
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I346`**, unions **F162** / **F163**.
-- FamilySearch tree (via [Laurencia GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)) — full name "Miguel Luis Cerpa González", 1910–1966.
-- Research hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- [family-tree.json](../family-tree.json).
+- FamilySearch — e.g. via [Laurencia GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3) (linked tree for household).
+- Hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- **Export:** MyHeritage **`@I346@`** — unions **F162** (with Laurencia), **F163** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- Chilean **civil registration** images for birth (**1910** Chanco) and death (**1966**).
+- Chilean civil images for **1910** Chanco birth and **1966** death.

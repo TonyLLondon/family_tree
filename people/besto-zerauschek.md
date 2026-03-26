@@ -11,17 +11,15 @@ mother: anna-herenda
 
 # Besto Zerauschek (Zio Besto)
 
-Brother of [Antonio Zerauschek](antonio-zerauschek.md). Joined the **merchant navy**, eventually settling in **South Africa** where he married **Auntie Lilly** (likely in or near Cape Town). He came back twice to persuade Antonio to invest; Antonio was unwilling. Besto set up a **furniture factory** in South Africa.
+**Zio Besto** went to sea in the **merchant navy** and washed up in **South Africa**, married to **Auntie Lilly**—Fulvia thinks **Cape Town**—and hungry for home. He talked [Antonio](antonio-zerauschek.md) twice into considering **investment**; Antonio held back. Besto built a **furniture factory** on the far side of the world and hated almost every hour of it: **homesick**, hemmed in, then caged as an **enemy alien** in the Second World War, “in agony… without news.” Childless, the memoir says, which deepened the ache; Lilly “was ever such a nice wife to him in his misery.”
 
-He was **desperately homesick** and during the Second World War was placed in a **concentration camp for enemy aliens**. "Never happy in South Africa but tied there, was in agony during the war years without news." He and Lilly had no children, which Fulvia noted added to his sadness. "Auntie Lilly was ever such a nice wife to him in his misery."
-
-A post-mortem will dispute arose: Besto left a will favouring **Tina** (possibly Jureme) rather than his wife Lilly (Cape Town), which Fulvia considered illegal. This caused a lasting family rift. (Fulvia memoir, 1996.)
+His **will** favoured someone called **Tina** (perhaps **Jureme**) over Lilly; Fulvia thought that illegal, and the families **split** (1996).
 
 ## Family
 
-- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md) (**F13**).
-- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), Ginco/Riccardo.
-- Wife: Lilly (Cape Town).
+- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md).
+- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giovanni](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), [Riccardo](riccardo-zerauschek.md).
+- Wife: Lilly (Cape Town area).
 
 ## Evidence
 
@@ -29,6 +27,5 @@ A post-mortem will dispute arose: Besto left a will favouring **Tina** (possibly
 
 ## Open questions
 
-- Full name — "Besto" may be a diminutive of Ernesto.
-- Dates of birth, death, and internment.
-- South African records for the furniture factory and the enemy alien camp.
+- Whether “Besto” shortens **Ernesto**.
+- Birth, death, internment dates; South African factory and camp records.

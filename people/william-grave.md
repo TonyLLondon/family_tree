@@ -17,17 +17,18 @@ children:
 
 # William Grave
 
-Father of [Thomas Grave](thomas-grave.md) with [Elizabeth Mackereth](elizabeth-mackereth.md) in **F45**. Birth **1587** **Kendal, Westmorland**; death **1641** **Hugill, Westmorland**. **FAMC @F46@**: [John Grave](john-grave.md); [Jennett](jennett.md).
+**William Grave** was born **1587** at **Kendal**, **Westmorland**, and died **1641** at **Hugill**. He married [Elizabeth Mackereth](elizabeth-mackereth.md) and fathered [Thomas Grave](thomas-grave.md). Parents: [John Grave](john-grave.md) and [Jennett](jennett.md).
 
 ## Family
 
 - Wife: [Elizabeth Mackereth](elizabeth-mackereth.md).
 - Parents: [John Grave](john-grave.md); [Jennett](jennett.md).
-- Children include [Thomas Grave](thomas-grave.md) per **F45**.
+- Children: [Thomas Grave](thomas-grave.md).
 
 ## Evidence
 
-- GEDCOM **`@I93@`**, **F45**, **F46**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I93@`** — unions **F45**, **F46** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

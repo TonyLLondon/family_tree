@@ -23,38 +23,35 @@ children:
 
 # Olga Caroline Erbe
 
-Olga sits at the **collision point** between two very different nineteenth-century worlds in this tree: a **Baltic–German administrative and clerical milieu** on her father's side (Estonian and Livonian towns, German-language church registers, careers tied to cathedral chapters and Tsarist-era Baltic provinces) and a **Swiss Protestant artisan-to-professional line** through her husband [Marc Francois Stump](marc-francois-stump.md), who moved from **French teaching in Tallinn** to a **death recorded at Yverdon** in **1903** per the **Tallinn Dome** parish register digest in the [Estonian Biographical Center report (2005)](../sources/estonian-biographical-center-stump-report-2005.md)—not the simpler "died in Tallinn" line some GEDCOM exports carry.
+Olga belongs to two nineteenth-century worlds at once. Through her father’s Baltic German service she moved in the orbit of cathedral chapters, crown towns, and German-language registers across Estonia and Livonia. Through her marriage she tied that world to a Swiss Protestant line that had already left Thurgau for the Russian Empire’s northern coast. St Petersburg gave her birth; Tallinn gave her marriage, her children, and her grave.
 
-**Europe-only narrative:** [Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line](../stories/stump-thurgau-tallinn-baltic-line.md) — §4 (Erbe–Eylandt).
+Her parents, [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) and [Emilie Ida Eylandt](emilie-ida-eylandt.md), wed in Reval in 1839 and raised a household that shifted between Tallinn, Rakvere, and Riga as Hermann’s duties required. When Olga married [Marc Francois Stump](marc-francois-stump.md) in Tallinn on 22 June 1868, he was already the senior French master at the city’s government gymnasium—roughly a dozen years her senior, established, and recorded in the Dome parish books summarised in the [Estonian Biographical Center report (2005)](../sources/estonian-biographical-center-stump-report-2005.md).
 
-That double anchor—**St. Petersburg birth**, **Tallinn death**, **Tallinn marriage in 1868** to a Swiss-born husband—is exactly what makes her useful for research discipline: every dramatic junction (imperial capital, Baltic port, Swiss canton) should eventually carry **one parish or civil image per claim**, not just merged online trees.
+The children came quickly: among them [Jean Jacque Stump](jean-jacque-stump.md), who died in childhood; [Arthur Roger Stump](arthur-roger-stump.md); [Marguerite Emilie Stump](marguerite-emilie-stump.md), who married into the von Frey circle; [Antoinette Stump](antoinette-stump.md), lost in 1881; and [Étienne Stump](etienne-stump.md), the Tallinn-born dentist who would make Tehran his life’s work. Olga did not live to see that second emigration. She died in Tallinn on 15 October 1894. The same day’s *Revalsche Zeitung* carried a brief family notice that matches the parish digest.
 
-## Life
+Marc outlived her by nine years. Commissioned research on the Dome parish books places his death at Yverdon, Switzerland, on 3 April 1903—a detail that matters for how we tell Étienne’s story: a Baltic household first, then Swiss exile, then Persia.
 
-Olga was born **11 November 1844** in **St. Petersburg** as recorded in the MyHeritage export. Her parents, [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) and [Emilie Ida Eylandt](emilie-ida-eylandt.md), married in **Reval (Tallinn)** on **27 March 1839** (**F140**). Hermann's occupation appears in the embedded Geni narrative as **Domschloßvogt** (a senior steward or provost-type role tied to a cathedral chapter); he died in **Riga** in **1872**, and Emilie died the same summer in **Tallinn**. Olga therefore spent her youth in a household that straddled **Reval/Tallinn, Rakvere, and Riga** as Baltic German families commonly did when fathers held crown or church-related posts.
+The longer Erbe sibling set appears in online compilations attached to her father’s profile; those names should not be folded into this vault until each person is confirmed against the structured tree or a register image.
 
-She married **Markus Franz (Marc François) Stump** on **22 June 1868** in **Tallinn** (**F70**); date and place match the **Tallinn Dome** marriage entry summarized in the [EBC Stump report](../sources/estonian-biographical-center-stump-report-2005.md). He was chronologically about a dozen years her senior; by **1868** he was already established as a **French teacher** in the **Tallinn government gymnasium** (from **1868** per the same report). Their son [Étienne Stump](etienne-stump.md) was born in Tallinn **7 March 1880** (parish register extract in EBC) — older GEDCOM text in this vault sometimes gave **3 July 1880** (likely **day/month transposition** vs European **DD.MM.YYYY** in the report).
-
-Olga died **15 October 1894** in **Tallinn** (EBC agrees with the export). Her husband outlived her by about nine years; the **commissioned Estonian research** records his death **3 April 1903** at **Yverdon** with a **Switzerland** gloss in the **Tallinn Dome parishioner** book, which **overrides** the export's **16 April 1903 Tallinn** death for narrative purposes until a conflicting primary image is added. Étienne's later career in **Iran** is therefore a second emigration: from a **Baltic–Swiss household in Tallinn**, then to **Tehran** (already noted in a **1910** Tallinn newspaper obituary quoted in EBC).
+**Line narrative:** [Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line](../stories/stump-thurgau-tallinn-baltic-line.md) (Erbe section).
 
 ## Family
 
-- Parents: [Hermann Eberhard Erbe](hermann-eberhard-erbe.md); [Emilie Ida Eylandt](emilie-ida-eylandt.md).
-- Brother (vault page): [Eugen Edmund Erbe](eugen-edmund-erbe.md) — Tallinn **deputy mayor** / city councilor; see his page for Wikipedia and BBLD.
-- Husband: [Marc Francois Stump](marc-francois-stump.md).
-- Children: [Jean Jacque Stump](jean-jacque-stump.md) (`@I398@`, d. 1874), [Arthur Roger Stump](arthur-roger-stump.md) (`@I399@`, d. 1935 Berlin), [Marguerite Emilie Stump](marguerite-emilie-stump.md) (`@I400@`, m. [von Frey](cuno-von-frey.md)), [Antoinette Stump](antoinette-stump.md) (`@I401@`, d. 1881), [Étienne Stump](etienne-stump.md) (`@I16@`). The Geni-derived block in Hermann's note also names a long Erbe sibling set (Emil Hermann, Eugen, Richard Maximilian, Karl Edmund, Alexander Lionel Arnold, etc.); **do not merge those** into this vault's YAML until each ID is confirmed against `family-tree.json` or primary registers.
+Parents: Hermann Eberhard Erbe; Emilie Ida Eylandt. Brother (vault page): [Eugen Edmund Erbe](eugen-edmund-erbe.md). Husband: Marc Francois Stump. Children: Jean Jacque, Arthur Roger, Marguerite Emilie, Antoinette, Étienne (links above).
 
 ## Evidence
 
-- **Press (death notice):** *Revalsche Zeitung* **15 October 1894** — **„Familien-Nachrichten"** / **„Verstorben"** (p. 3): **„Frau Olga Stump, geb. Erbe † 15. Oct. in Reval."** Same calendar date as the EBC parish digest. Local corpus: [transcription (DE)](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/transcription-olga-stump-familien-nachricht-1894.de.md) · [translation (EN)](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/translation-olga-stump-familien-nachricht-1894.en.md) · [page 3 JPEG](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/pages-jpeg/page-03-of-04.jpg) · [reference / DIGAR links / PDF](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/reference.md).
-- **Tallinn parish summary (commissioned):** [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) — marriage **22 June 1868**, vitals for children including Étienne, husband's career and **1903** death at **Yverdon** per register notes.
-- **Web (parents' documentary context, sibling):** [Eugen Edmund Erbe](eugen-edmund-erbe.md) (brother; BBLD / Wikipedia); summary [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md). Targeted open-web search **Mar 2026** did not surface a standalone biography for **Olga Caroline Erbe** under that string — **EBC** and parish imaging remain primary.
-- GEDCOM individual **`@I141@`** and family **F70**, **F140**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- MyHeritage / Geni citation blocks under **`@S43@`** on Hermann and Emilie (secondary; extract dates and test against microfilm).
-- [family-tree.json](../family-tree.json) for merged topology if the JSON was hand-edited after GEDCOM import.
+- **Press:** *Revalsche Zeitung* 15 Oct 1894, p. 3 — [transcription (DE)](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/transcription-olga-stump-familien-nachricht-1894.de.md) · [translation (EN)](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/translation-olga-stump-familien-nachricht-1894.en.md) · [page image](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/pages-jpeg/page-03-of-04.jpg) · [reference / DIGAR](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/reference.md).
+- [Estonian Biographical Center — Stump report (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — marriage 22 June 1868, children’s vitals, Marc’s career and 1903 Yverdon death note.
+- [Eugen Edmund Erbe](eugen-edmund-erbe.md) — brother; [Erbe Baltic web summary](../sources/erbe-baltic-german-web-references.md). Standalone biography under “Olga Caroline Erbe” was not located in a March 2026 open-web sweep; parish imaging remains primary.
+
+**Export:**
+
+- **Export:** MyHeritage **`@I141@`** — marriage union **F70**; parents’ union **F140** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). Child rows match [Jean Jacque Stump](jean-jacque-stump.md), [Arthur Roger Stump](arthur-roger-stump.md), [Marguerite Emilie Stump](marguerite-emilie-stump.md), [Antoinette Stump](antoinette-stump.md), and [Étienne Stump](etienne-stump.md). MyHeritage / Geni blocks under **`@S43@`** on Hermann and Emilie — secondary until microfilm check.
+- [family-tree.json](../family-tree.json) — topology if hand-edited after import.
 
 ## Open questions
 
-- **St. Petersburg birth record** (Orthodox, Lutheran, or civil?) and whether the mother was temporarily in the capital for confinement or the family was posted there long-term.
-- Whether **"Talinn" vs "Tallinn"** spellings in the export hide two different jurisdictions (Reval city vs Harrien parish) for death and marriage.
-- **Étienne birth date:** confirm **7 March 1880** against grave marker / any Swiss passport file (EBC vs GEDCOM **3 July**).
+- St Petersburg birth: which register series (Orthodox, Lutheran, civil) and whether the family was posted long-term or briefly in the capital.
+- “Talinn” vs “Tallinn” in older exports — one jurisdiction or two for marriage and death.
+- Étienne’s birth: confirm 7 March 1880 vs stray July date in some exports against grave and any Swiss passport file.

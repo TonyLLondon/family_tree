@@ -10,11 +10,12 @@ children:
 
 # William Martin
 
-Father of [Thomas Martin](thomas-martin-i229.md) (**F114**). The export lists **F114** with a single named partner (**`I231`**); no mother is attached in [family-tree.json](../family-tree.json).
+William Martin was father of [Thomas Martin](thomas-martin-i229.md). The export’s birth-family record for Thomas names only one parent; no mother is attached in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I231`**, union **F114**.
+- **Export:** MyHeritage **`@I231@`** — union **F114** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json) **`I231`**.
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
 
 ## Open questions

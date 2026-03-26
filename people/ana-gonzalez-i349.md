@@ -15,13 +15,14 @@ children:
 
 # Ana González
 
-Wife of [Francisco Cerpa](francisco-cerpa-i348.md) — **F163** (**1909**). Mother of [Miguel Cerpa González](miguel-cerpa-gonzalez-i346.md), [René Cerpa González](rene-cerpa-gonzalez-i353.md), and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md). Graph label in JSON uses **“Ana Delia GONZALEZ”**; `also_known_as` records that variant.
+**Ana González** married [Francisco Cerpa](francisco-cerpa-i348.md) in **1909** and was mother of [Miguel Cerpa González](miguel-cerpa-gonzalez-i346.md), [René Cerpa González](rene-cerpa-gonzalez-i353.md), and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md). The JSON label **“Ana Delia GONZALEZ”** is kept in `also_known_as`.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I349`**, union **F163**.
+- [family-tree.json](../family-tree.json).
 - Research hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- **Export:** MyHeritage **`@I349@`** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- Same as Francisco: civil / parish documentation for Maule jurisdictions.
+- Same documentation goals as **Francisco**—Maule civil / parish images.

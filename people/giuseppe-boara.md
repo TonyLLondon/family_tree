@@ -9,17 +9,17 @@ children:
 
 # Giuseppe Boara
 
-Father of [Simeone Guiseppe Boara](simeone-guiseppe-boara.md) in **F62** (**HUSB @I127@**, **CHIL @I113@**). **@I127@** has no **BIRT**/**DEAT**/**NAME** variants beyond the single given name in the slice used here.
+**Giuseppe Boara** was father of [Simeone Guiseppe Boara](simeone-guiseppe-boara.md). The slice used here gives his given name only—no birth, death, or mother on the parental union.
 
 ## Family
 
-- Children include [Simeone Guiseppe Boara](simeone-guiseppe-boara.md) per **F62**.
+- Children: [Simeone Guiseppe Boara](simeone-guiseppe-boara.md).
 
 ## Evidence
 
-- GEDCOM **`@I127@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F62** only.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I127@`** — union **F62** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Spouse** — **F62** lacks **WIFE** in this export; required to validate **Simeone Guiseppe**’s full **FAMC**.
+- Mother when **F62** gains a wife line in a fuller export.

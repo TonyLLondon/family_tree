@@ -8,12 +8,12 @@ mother: anna-herenda
 
 # Emma Zerauschek
 
-Sister of [Antonio Zerauschek](antonio-zerauschek.md). Died of **Spanish fever** (the 1918–19 influenza pandemic). (Fulvia memoir, 1996.)
+Emma died in the **Spanish flu** wave that took so many young adults between **1918 and 1919**—one more empty chair at [Anna Herenda](anna-herenda.md)’s table, one more name [Antonio](antonio-zerauschek.md) would carry quietly into his ambitious adulthood.
 
 ## Family
 
-- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md) (**F13**).
-- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), Giovanni, Giusit, Besto/Ernesto, Ginco/Riccardo.
+- Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md).
+- Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Giovanni](giovanni-zerauschek.md), [Giusit](giusit-zerauschek.md), [Besto](besto-zerauschek.md), [Riccardo](riccardo-zerauschek.md).
 
 ## Evidence
 
@@ -21,4 +21,4 @@ Sister of [Antonio Zerauschek](antonio-zerauschek.md). Died of **Spanish fever**
 
 ## Open questions
 
-- Exact dates of birth and death.
+- Exact birth and death dates from civil or parish books.

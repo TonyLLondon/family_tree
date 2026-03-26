@@ -12,16 +12,16 @@ children:
 
 # Maria Zuajetto
 
-Wife of [Antonio Guerino](antonio-guerino.md) in **F183**; mother of [Antonia Maria Guerino](antonia-maria-guerino.md). **BIRT** **PLAC** **Venice, Italy**; **DEAT** flagged without detail in the export.
+Maria Zuajetto was the wife of [Antonio Guerino](antonio-guerino.md) and mother of [Antonia Maria Guerino](antonia-maria-guerino.md). The export records her birth in Venice, Italy; a death is flagged without detail.
 
 ## Family
 
 - Husband: [Antonio Guerino](antonio-guerino.md).
-- Children include [Antonia Maria Guerino](antonia-maria-guerino.md) per **F183**.
+- Children include [Antonia Maria Guerino](antonia-maria-guerino.md).
 
 ## Evidence
 
-- GEDCOM **`@I390@`**, **F183**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I390@`** — union **F183** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

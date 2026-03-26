@@ -11,16 +11,16 @@ children:
 
 # Wybrata Rockenbass
 
-Wife of [Hans Rutishauser](hans-rutishauser.md) in **F85**; mother of [Barbara Rutershauer](barbara-rutershauer.md). **@I170@** has **no BIRT**/**DEAT** in the export slice.
+Wybrata Rockenbass was the wife of [Hans Rutishauser](hans-rutishauser.md) and mother of [Barbara Rutershauer](barbara-rutershauer.md). The export carries no birth or death events for her.
 
 ## Family
 
 - Husband: [Hans Rutishauser](hans-rutishauser.md).
-- Children include [Barbara Rutershauer](barbara-rutershauer.md) per **F85**.
+- Children include [Barbara Rutershauer](barbara-rutershauer.md).
 
 ## Evidence
 
-- GEDCOM **`@I170@`**, **F85**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** MyHeritage **`@I170@`** — union **F85** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

@@ -15,22 +15,22 @@ children:
 
 # Caspar Martin I. Eylandt
 
-Father of [Carl Gustav Eylandt](carl-gustav-eylandt.md) (**@I304@**) with [Hedwig Helene Busch](hedwig-helene-busch.md) in **F148** (marriage **ABT 1729**, **Nonnenhof, Livland, Estonia**). **EST 1713** birth **Riga**; death **20 Nov 1766** **Kirrefer** (Kirbla area, **Wiek** / western Estonia).
+With his wife [Hedwig Helene Busch](hedwig-helene-busch.md) he was father of [Carl Gustav Eylandt](carl-gustav-eylandt.md). He was born about 1713 in Riga, Livland, and is recorded as marrying about 1729 at Nonnenhof, Livland, Estonia. He died on 20 November 1766 at Kirrefer in Wiek (Kirbla area, western Estonia), in the imperial-era placename form carried by the export.
 
 ## Life
 
-- **~1713** — Born **Riga**, **Livland** (GEDCOM **EST** year).
-- **~1729** — Marriage **Nonnenhof, Livland, Estonia** (**F148**).
+- **~1713** — Born **Riga**, **Livland** (estimated year in export).
+- **~1729** — Marriage **Nonnenhof, Livland, Estonia**.
 - **20 Nov 1766** — Died **Kirrefer**, **Wiek**, **Ostseeprovinz Estland** (imperial-era wording in export).
 
 ## Family
 
 - Wife: [Hedwig Helene Busch](hedwig-helene-busch.md).
-- Children include [Carl Gustav Eylandt](carl-gustav-eylandt.md) per **F148**.
+- Children include [Carl Gustav Eylandt](carl-gustav-eylandt.md).
 
 ## Evidence
 
-- GEDCOM **`@I312@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F148**; FamilySearch **KJ5Q-8JD**.
+- **Export:** MyHeritage **`@I312@`** — union **F148** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KJ5Q-8JD**.
 - [family-tree.json](../family-tree.json).
 
 ## Open questions

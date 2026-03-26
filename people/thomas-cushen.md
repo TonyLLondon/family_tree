@@ -15,26 +15,27 @@ children:
 
 # Thomas Cushen
 
-Husband of [Ann Mainwaring](ann-mainwaring.md) (**@I178@**) in **F89**; father of [David Cushen](david-cushen.md) (**@I175@**). The GEDCOM and an embedded **Geni** scrape agree on **1821** birth **Cork, Ireland**, then a **Merthyr Tydfil** census arc (**1851** through **1881**) ending as **labourer** and, in **1881**, “father of the head of the household” in the same district. Death **Jul 1889** **Merthyr**; civil index **volume 11A, page 283, line 50**; burial **13 Jul 1889** **Dowlais, Glamorgan**.
+**Thomas Cushen** was **Cork-born** (**1821**) and spent his working life in the **Merthyr** district. Census-age clauses in the export run **1851**–**1881**; by **1881** he appears as **labourer**, described in that year as **father of the head of household** in the same return. He died **July 1889** at **Merthyr Tydfil**; the civil index line is **volume 11A, page 283, line 50**, with burial **13 July 1889** at **Dowlais**, **Glamorgan**. An embedded **Geni** block in the same export echoes those Irish and Welsh facts.
+
+He married [Ann Mainwaring](ann-mainwaring.md); [David Cushen](david-cushen.md) is the child with a vault page. Further children are listed on the marriage union in [family-tree.json](../family-tree.json) but do not yet have `people/` stubs.
 
 ## Life
 
-- **1821** — Born **Cork, County Cork, Ireland** (GEDCOM; Irish civil birth registers begin **1864**—earlier proof needs parish work).
-- **1851–1881** — Merthyr-area census events (ages **26** to **60** in GEDCOM **EVEN** blocks).
-- **1881** — Occupation **labourer**, **Merthyr Tydfil**.
-- **Jul 1889** — Died **Merthyr Tydfil**; burial **Dowlais**.
+- **1821** — Born **Cork**, **County Cork** (Irish civil birth registers start **1864**; a parish book would anchor this year).
+- **1851–1881** — Merthyr-area census trajectory (ages **26** to **60** in export).
+- **Jul 1889** — Death **Merthyr**; burial **Dowlais**.
 
 ## Family
 
 - Wife: [Ann Mainwaring](ann-mainwaring.md).
-- Children include [David Cushen](david-cushen.md) plus **@I458@**, **@I454@**, **@I455@**, **@I456@**, **@I457@**, **@I453@** per **F89** in [family-tree.json](../family-tree.json).
+- Children: [David Cushen](david-cushen.md); others named only in [family-tree.json](../family-tree.json) until pages exist.
 
 ## Evidence
 
-- GEDCOM **`@I177@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F89**; FamilySearch id **KJ5C-P89**; MyHeritage **Geni** URL in **SOUR**.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I177@`** — union **F89**; FamilySearch **KJ5C-P89**; **Geni** URL in **SOUR** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Irish parish** — which **Cork** church book matches **1821** before Welsh migration.
-- **FAMC @F187@** — parents not yet written in this vault.
+- Which **Cork** parish matches **1821** before the move to Wales.
+- Parents: union **F187** in the export has no vault pages yet.

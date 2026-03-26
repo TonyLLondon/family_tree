@@ -11,18 +11,18 @@ children:
 
 # Barbel Weber
 
-Wife of [Zacharias Schuemperli](zacharias-schuemperli.md) in **F84**; mother of [Anna Schuemperli](anna-schuemperli.md). **@I168@** has **no BIRT**/**DEAT** in the export slice.
+**Barbel Weber** married [Zacharias Schuemperli](zacharias-schuemperli.md) and was mother of [Anna Schuemperli](anna-schuemperli.md). The export slice used here has no birth or death for her.
 
 ## Family
 
 - Husband: [Zacharias Schuemperli](zacharias-schuemperli.md).
-- Children include [Anna Schuemperli](anna-schuemperli.md) per **F84**.
+- Children: [Anna Schuemperli](anna-schuemperli.md).
 
 ## Evidence
 
-- GEDCOM **`@I168@`**, **F84**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I168@`** — union **F84** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Weber** occupational surname density in **Sulgen**.
+- **Weber** as occupational surname density in **Sulgen** parish.

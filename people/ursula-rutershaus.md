@@ -11,17 +11,17 @@ children:
 
 # Ursula Rutershaus
 
-Wife of [Jacob Heinrich](jacob-heinrich.md) in **F81**; mother of [Andreas Heinrich](andreas-heinrich.md). **@I162@** has **no BIRT**/**DEAT** in the export slice.
+**Ursula Rutershaus** married [Jacob Heinrich](jacob-heinrich.md) and was mother of [Andreas Heinrich](andreas-heinrich.md). No birth or death in the export slice.
 
 ## Family
 
 - Husband: [Jacob Heinrich](jacob-heinrich.md).
-- Children include [Andreas Heinrich](andreas-heinrich.md) per **F81**.
+- Children: [Andreas Heinrich](andreas-heinrich.md).
 
 ## Evidence
 
-- GEDCOM **`@I162@`**, **F81**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I162@`** — union **F81** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

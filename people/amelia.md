@@ -11,18 +11,18 @@ children:
 
 # Amelia (surname unknown)
 
-Wife of [Morgan](morgan.md) in **F187**; mother of [Mary Morgan](mary-morgan.md). GEDCOM **`@I414@`**: **GIVN** **Amelia**, **NAME** line lacks **SURN**; no vitals in the export.
+**Amelia**—forename only in the MyHeritage extract; no surname field—married [Morgan](morgan.md) and was mother of [Mary Morgan](mary-morgan.md). No vitals in that slice.
 
 ## Family
 
-- Husband: [Morgan](morgan.md) (**@I413@**).
-- Children include [Mary Morgan](mary-morgan.md) per **F187**.
+- Husband: [Morgan](morgan.md).
+- Children: [Mary Morgan](mary-morgan.md).
 
 ## Evidence
 
-- GEDCOM **`@I414@`**, **F187**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I414@`** — union **F187** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Maiden name** — same certificate pass as [Morgan](morgan.md).
+- Maiden name from the same certificate pass as [Morgan](morgan.md).

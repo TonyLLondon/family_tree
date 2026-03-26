@@ -13,16 +13,17 @@ children:
 
 # Sir Robert Bindlosse
 
-Father of [Dorothy Bindlose](dorothy-bindlose.md) in **F102** (**HUSB @I201@**, **CHIL @I198@**). **NPFX** **Sir** and **NSFX** **"Knight"** in GEDCOM—confirm in heraldic or inquisition sources. **F102** has **no WIFE** line in this export.
+**Sir Robert Bindlosse** of **Borwick**, **Lancashire**, was father of [Dorothy Bindlose](dorothy-bindlose.md). The export carries **Sir** and **Knight** style fields—treat heraldic rank against inquisition or pedigree sources, not Geni alone. No wife line on the parental union in this export.
 
 ## Family
 
-- Children include [Dorothy Bindlose](dorothy-bindlose.md) per **F102**.
+- Children: [Dorothy Bindlose](dorothy-bindlose.md).
 
 ## Evidence
 
-- GEDCOM **`@I201@`**, **F102**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I201@`** — union **F102** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **F102** spouse; **Bindlosse** of **Borwick** pedigree (heavy Geni scrape risk).
+- Spouse on **F102**; **Bindlosse** of **Borwick** (heavy compiled-tree risk).

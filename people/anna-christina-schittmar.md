@@ -15,24 +15,25 @@ children:
 
 # Anna Christina Schittmar
 
-Mother of [Maria Elisabeth Busse](maria-elisabeth-busse.md); wife of [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) in **F144**. Geni scrape **“Anna Christina Busse (born Schittmar)”**; structured GEDCOM gives **1757** birth and **~1790** death **Viljandi County**. **FAMC @F147@** links mother [Anna Christina](anna-christina.md) (**@I311@**) with **no father** line in the export.
+**Anna Christina Schittmar**—**Geni** styles her **Anna Christina Busse (born Schittmar)**—married [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) and was mother of [Maria Elisabeth Busse](maria-elisabeth-busse.md). Born **1757**; died about **1790** in **Viljandi County**, **Estonia**, in the export. Her mother in the graph is [Anna Christina](anna-christina.md); the parental union in this file names no father.
 
 ## Life
 
-- **1757** — Born (GEDCOM year; Geni says “circa”).
-- **~1790** — Died **Viljandi County, Estonia** (GEDCOM).
+- **1757** — Born (year in export; Geni sometimes says “circa”).
+- **~1790** — Died **Viljandi County**.
 
 ## Family
 
-- Mother: [Anna Christina](anna-christina.md) (**F147**).
+- Mother: [Anna Christina](anna-christina.md).
 - Husband: [Ernst Gottlieb Busse](ernst-gottlieb-busse.md).
-- Children: [Maria Elisabeth Busse](maria-elisabeth-busse.md) and siblings per **F144** / Geni (Hedwig, Christina Amalia, etc.—verify parentage where Ernst remarried).
+- Children: [Maria Elisabeth Busse](maria-elisabeth-busse.md); further children on union **F144** / **Geni** (e.g. half-siblings if Ernst remarried—confirm per child).
 
 ## Evidence
 
-- GEDCOM **`@I307@`**, **F144**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I307@`** — unions **F144**, **F147** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
 - **Schittmar** parish of origin (often Swedish-Estonian coastal registers).
-- Whether she died before Ernst’s **1803** death in Viljandi (would explain second marriage in Geni text).
+- Whether she died before Ernst’s **1803** death (would fit a remarriage in **Geni** text).

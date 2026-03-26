@@ -12,32 +12,32 @@ spouses:
   - jeanne-benigne-montagnon
 children:
   - marc-francois-stump
+  - luise-elizabeta-stump
 ---
 
 # Hans Jacob Stump (b. 1800)
 
-**Thurgau Stump** line: father of [Marc Francois Stump](marc-francois-stump.md) (**@I140@**) in GEDCOM family **F71**; therefore **great-great-grandfather** of [Robert Marc Murard Stump](robert-marc-murard-stump.md). This profile is **`@I142@`** (1800 Sulgen birth); [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) is **`@I151@`** earlier on the same patriline.
+**Hans Jacob Stump** of **Sulgen**—the **1800** birth on this patriline—is father of [Marc Francois Stump](marc-francois-stump.md) and **great-great-grandfather** of [Robert Marc Murard Stump](robert-marc-murard-stump.md). He is the later **Hans Jacob** in the chart; [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) is the seventeenth-century namesake on the same line.
 
-The export places his birth and christening on **15 Jun 1800** at **Sulgen, Thurgau** and his marriage to [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md) on **25 Sep 1832**, also **Sulgen**—before Marc’s later **Tallinn** marriage to [Olga Caroline Erbe](olga-caroline-erbe.md) in **F70**.
+The export places birth and christening **15 June 1800** at **Sulgen**, **Thurgau**, and marriage **25 September 1832** at **Sulgen** to [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md)—before Marc’s **Tallinn** marriage to [Olga Caroline Erbe](olga-caroline-erbe.md).
 
 ## Life
 
-- **15 Jun 1800** — Birth and christening **Sulgen, Thurgau, Switzerland** (GEDCOM).
-- **25 Sep 1832** — Marriage **Sulgen** to Jeanne Benigne Montagnon (**F71**).
-- **Death** — GEDCOM flags a death event without structured date or place in the extract used here; treat as **open** until a parish burial book is cited.
+- **15 Jun 1800** — Birth and christening **Sulgen**, **Thurgau**, **Switzerland**.
+- **25 Sep 1832** — Marriage **Sulgen** to Jeanne Benigne Montagnon.
+- **Death** — Flag in export without structured date or place in the slice used here.
 
 ## Family
 
-- Parents: [Hans Ulrich Stump](hans-ulrich-stump.md); [Anna Margaretha Hagg](anna-margaretha-hagg.md) (**F72**).
+- Parents: [Hans Ulrich Stump](hans-ulrich-stump.md); [Anna Margaretha Hagg](anna-margaretha-hagg.md).
 - Wife: [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md).
-- Children include [Marc Francois Stump](marc-francois-stump.md) and **@I393@** per **F71** in [family-tree.json](../family-tree.json).
+- Children: [Marc Francois Stump](marc-francois-stump.md); [Luise Elizabeta Stump](luise-elizabeta-stump.md); full list in [family-tree.json](../family-tree.json).
 
 ## Evidence
 
-- GEDCOM **`@I142@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F71** / **F72**; FamilySearch id **MSXZ-Z6F** in export.
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I142@`** — unions **F71**, **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSXZ-Z6F**.
 
 ## Open questions
 
-- **Death** — Sulgen or elsewhere; link to Thurgau church book.
-- **@I393@** — full name and life dates from **F71** / Swiss registers.
+- Death from **Sulgen** or later Baltic burial books.

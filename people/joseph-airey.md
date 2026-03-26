@@ -15,16 +15,18 @@ children:
 
 # Joseph Airey
 
-Father of [Sarah Airey](sarah-airey.md) with [Sarah Grave](sarah-grave.md) in **F42**. Birth **10 Apr 1701**; death **31 Aug 1777**. **FAMC @F96@** — parents **@I190@** / **@I191@** (**Joseph Ayrey** / **Ann Braithwaite** in GEDCOM **SURN** spellings); `people/` pages for **P4** Braithwaite tier not written yet.
+**Joseph Airey** was born **10 April 1701** and died **31 August 1777**. He married [Sarah Grave](sarah-grave.md) and fathered [Sarah Airey](sarah-airey.md). His parents in the graph are [Joseph Ayrey](joseph-ayrey.md) and [Ann Braithwaite](ann-braithwaite.md) (**Ayrey** / **Braithwaite** spellings follow the export).
 
 ## Family
 
 - Wife: [Sarah Grave](sarah-grave.md).
-- Children include [Sarah Airey](sarah-airey.md) per **F42**.
+- Parents: [Joseph Ayrey](joseph-ayrey.md); [Ann Braithwaite](ann-braithwaite.md).
+- Children: [Sarah Airey](sarah-airey.md).
 
 ## Evidence
 
-- GEDCOM **`@I88@`**, **F42**, **F96**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LHDT-5PG**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I88@`** — unions **F42** (with Sarah Grave), **F96** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LHDT-5PG**.
 
 ## Open questions
 

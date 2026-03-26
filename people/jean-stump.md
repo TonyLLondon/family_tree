@@ -10,19 +10,15 @@ mother: henriette-bottin
 
 # Jean Stump
 
-Son of [Étienne Stump](etienne-stump.md) and [Henriette Bottin](henriette-bottin.md) (union **F6**); brother of [Robert Marc Murard Stump](robert-marc-murard-stump.md). Listed as **"Jean"** on the Henderson [Stump Family Tree chart](../sources/stump-family-tree-chart.md) with approximate birth year **1929**.
-
-## Life
-
-- **1929** — Born (GEDCOM; chart concurs with "1929 ?").
+**Jean** closes the **Henriette–Étienne** sibling set in the Henderson chart—born about **1929**, the baby evoked with a cautious **“?”** beside the year in ink that knew how often **Persian** births slipped their **Swiss** paper twins. Brother to **[Robert](robert-marc-murard-stump.md)**, **[Theo](theodore-stump.md)**, **[Jacques](jacques-stump.md)**, and **[Loulou](irene-stump.md)**.
 
 ## Family
 
-- Parents: [Étienne Stump](etienne-stump.md); [Henriette Bottin](henriette-bottin.md) (**F6**).
+- Parents: [Étienne Stump](etienne-stump.md); [Henriette Bottin](henriette-bottin.md).
 - Siblings: [Robert Marc Murard Stump](robert-marc-murard-stump.md), [Theodore Stump](theodore-stump.md), [Jacques Stump](jacques-stump.md), [Irene Stump](irene-stump.md).
 
 ## Evidence
 
-- GEDCOM **`@I396@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection.
+- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md).
 - [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I396@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Child of **F6**.

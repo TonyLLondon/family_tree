@@ -14,18 +14,19 @@ children:
 
 # Joseph Ayrey
 
-Father of [Joseph Airey](joseph-airey.md) with [Ann Braithwaite](ann-braithwaite.md) in **F96**. Birth **1675**; **DEAT** line reads **WFT Est 1686-1770** in GEDCOM (software estimate—do not treat as sourced). **FAMC @F97@**: [Richard Ayray](richard-ayray.md); [Mary Whitehead](mary-whitehead.md).
+**Joseph Ayrey** was born **1675**. He married [Ann Braithwaite](ann-braithwaite.md) and fathered [Joseph Airey](joseph-airey.md). His parents were [Richard Ayray](richard-ayray.md) and [Mary Whitehead](mary-whitehead.md).
 
 ## Family
 
 - Wife: [Ann Braithwaite](ann-braithwaite.md).
-- Parents: [Richard Ayray](richard-ayray.md); [Mary Whitehead](mary-whitehead.md) (**F97**).
-- Children include [Joseph Airey](joseph-airey.md) per **F96**.
+- Parents: [Richard Ayray](richard-ayray.md); [Mary Whitehead](mary-whitehead.md).
+- Children: [Joseph Airey](joseph-airey.md).
 
 ## Evidence
 
-- GEDCOM **`@I190@`**, **F96** / **F97**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **9HNC-9GQ**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I190@`** — unions **F96**, **F97** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **9HNC-9GQ**. (Death field in file is a **WFT** software bracket—not a sourced date.)
 
 ## Open questions
 
-- Replace **WFT** death estimate with a burial or probate citation.
+- Replace estimate with burial or probate when imaged.
