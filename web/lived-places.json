@@ -59,7 +59,7 @@
   "I14": {
     "displayName": "Antonio Zerauschek",
     "livedPlaces": [
-      { "place": "Zadar, Croatia", "period": "1889–c. 1943" },
+      { "place": "Zara, Dalmatia", "period": "1889–c. 1943" },
       { "place": "Sirmione, Lake Garda, Italy", "period": "c. 1930s–c. 1943" },
       { "place": "Florence, Italy", "period": "c. 1944–1973" }
     ]
@@ -99,6 +99,12 @@
     "livedPlaces": [
       { "place": "Tralee, County Kerry, Ireland", "period": "c. 1885–c. 1910s" },
       { "place": "Madras, India", "period": "c. 1919–c. 1947" }
+    ]
+  },
+  "I25": {
+    "displayName": "Antonio ZERAUSCHEK",
+    "livedPlaces": [
+      { "place": "Pag, Croatia", "period": "c. 1850s–1878" }
     ]
   }
 }

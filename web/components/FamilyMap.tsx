@@ -184,7 +184,7 @@ export function FamilyMap({ data }: { data: MapData }) {
                     fillOpacity: 0.85,
                   }}
                 >
-                  <Popup maxWidth={320} minWidth={200}>
+                  <Popup maxWidth={320} minWidth={200} maxHeight={400}>
                     <PopupContent loc={loc} people={loc.filteredPeople} />
                   </Popup>
                 </CircleMarker>
