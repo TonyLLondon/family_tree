@@ -39,6 +39,7 @@
 | [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) | Bridge to [David John Lewis](../people/david-john-lewis.md) |
 | [Pietro Pio Addobbati](../people/pietro-pio-addobbati.md) | Addobbati trunk (see narrative) |
 | [Antonio Zerauschek (senior)](../people/antonio-zerauschek-senior.md) | `@I25@` — father of `@I14@` |
+| [Tatiana Machiedo](../people/tatiana-machiedo.md) | [Riccardo](../people/riccardo-zerauschek.md)’s wife; Hvar **Machiedo** pedigree (Kovačić 2014) |
 
 **Parish / civil images:** [media/collections/zerauschek/](../media/collections/zerauschek/)
 
@@ -52,6 +53,7 @@
 |--------|----------------|---------------|
 | Fulvia Zerauschek — family history memoir to PML (18 & 24 Sep 1996) | [famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) | [famhist-nonna-memoir-1996](../sources/corpus/famhist-nonna-memoir-1996/) — PDF + extract |
 | ITS/IRO — Riccardo Zerauschek displaced persons file (Trieste, 1951) | [its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) | [its-iro-riccardo-zerauschek-1951](../sources/corpus/its-iro-riccardo-zerauschek-1951/) — scans + transcription |
+| Kovačić 2014 — Machiedo family of Hvar (pedigree incl. Tatiana Zerauschek née Machiedo) | [kovacic-2014-rod-machiedo-hvar.md](../sources/kovacic-2014-rod-machiedo-hvar.md) | [kovacic-2014-rod-machiedo-hvar](../sources/corpus/kovacic-2014-rod-machiedo-hvar/) — Hrčak PDF + extract + [reference.md](../sources/corpus/kovacic-2014-rod-machiedo-hvar/reference.md) |
 | *Difesa Adriatica* — Antonio Zerauschek obituary (1973) | [difesa-adriatica-1973-zerauschek-obituary.md](../sources/difesa-adriatica-1973-zerauschek-obituary.md) | [difesa-adriatica-1973-antonio-zerauschek-obituary](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/) — transcript + translation |
 | Interwar Zara cafés (web captures) | — | [retrozadar-povijest-kavana-u-zadru](../sources/corpus/retrozadar-povijest-kavana-u-zadru/) · [slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror](../sources/corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/) |
 | *Adaptive cities* (Polito PDF — urban context) | — | [polito-iris-adaptive-cities-volume-completo](../sources/corpus/polito-iris-adaptive-cities-volume-completo/) |
@@ -122,6 +124,8 @@
 **Repo-wide automation:** from repo root, `.venv/bin/python scripts/source_coverage_report.py` — lists corpus bundles with no inbound link from vault `*.md` (excluding `sources/corpus/` internals), and top-level cards that do not reference `corpus/`. **Regenerate full slug index:** `.venv/bin/python scripts/generate_corpus_bibliography.py` → [sources/corpus-bibliography.md](../sources/corpus-bibliography.md).
 
 **Inbox for new drops:** [manual/README.md](../manual/README.md)
+
+**Working research:** [Riccardo Zerauschek — IRO dates, Luxardo chronology, HNK Split overlap](../research/zadar/riccardo-zerauschek-war-exile-luxardo-chronology.md).
 
 ---
 

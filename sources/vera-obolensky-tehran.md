@@ -14,7 +14,7 @@ Source cluster for **Vera Obolensky** (née Nemtchinova), Russian émigré who m
 | Item | Location |
 |------|----------|
 | Portrait — Vera & Georges, c. 1920s Tehran | [media/collections/stump-etienne/vera-obolensky-and-georges.png](../media/collections/stump-etienne/vera-obolensky-and-georges.png) |
-| Henderson archive copy of NYT notice | [manual/Henderson/Vera Obolensky death notice NYTimes.pdf](../manual/Henderson/Vera%20Obolensky%20death%20notice%20NYTimes.pdf) |
+| Henderson album copy of NYT notice | [media/albums/henderson/Vera Obolensky death notice NYTimes.pdf](../media/albums/henderson/Vera%20Obolensky%20death%20notice%20NYTimes.pdf) |
 | Research synthesis PDF | [manual/Vera Obolensky – Russian Émigré in Tehran.pdf](../manual/Vera%20Obolensky%20%E2%80%93%20Russian%20%C3%89migr%C3%A9%20in%20Tehran.pdf) |
 
 ## Key memoir source (not yet in repo)

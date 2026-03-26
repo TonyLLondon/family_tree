@@ -14,7 +14,7 @@ Thin topical cards in **`sources/*.md`** (work- or site-oriented filenames). Lin
 
 ## Manual / working extracts
 
-Working translations and notes outside corpus ingest: **`manual_output/*.md`** (example: [beytoote-stump-translation.md](../manual_output/beytoote-stump-translation.md)).
+Working translations alongside corpus bundles: e.g. Beytoote article — [annotated English](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md) (lives under `corpus/…/` with the web capture).
 
 ## Structured tree and people
 

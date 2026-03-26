@@ -1,6 +1,6 @@
 # Beytoote article — annotated English translation
 
-**Source:** [extracted.web.md](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/extracted.web.md)
+**Source:** [extracted.web.md](./extracted.web.md)
 **Original URL:** <https://www.beytoote.com/art/negah-gozashte/dentist-atabak2-ahmadshah.html>
 **Original publication:** iran-newspaper.com (republished by Beytoote)
 **Persian title:** دندانساز اتابک و دندانپزشک احمدشاه — "The Dentist of Atabak and Dentist to Ahmad Shah"
@@ -34,7 +34,7 @@
 - **First name rendered as "Atkin"** (اتکین) — likely a Persianisation of "Étienne"
 - **Hired in New York** during Atabak's 1904 trip to the US (see §5 below)
 - **Arrival date: c. 1904** — this contradicts the person page's "c. 1921"
-- Najm-Abadi: **Austrian origin, Swiss citizen** — the vault [person page](../people/etienne-stump.md) records **Swiss** nationality and treats Austrian/German labels in memoirs and encyclopedias as frequent misattributions.
+- Najm-Abadi: **Austrian origin, Swiss citizen** — the vault [person page](../../../people/etienne-stump.md) records **Swiss** nationality and treats Austrian/German labels in memoirs and encyclopedias as frequent misattributions.
 - Clinic: corner of Manuchehri & Ferdowsi streets, Tehran
 - Residence: large garden between Fisherabad & Iranshahr streets
 
@@ -263,7 +263,7 @@ The article (citing Najm-Abadi) says Stump died at **83** in 1951, implying birt
 - **Persian edition:** 3 volumes; first published 1945, revised 1965
 - **English translation:** *Administrative and Social History of the Qajar Period*, trans. Nayer Mostofi-Glenn, Mazda Publishers, 1997, 1338 pp.
 - **Contains:** Mahmoudieh land belonging to "Dr. Stemp the dentist"; Stump as Mustawfi's own dentist (pyorrhea treatment with injection and forceps)
-- **Already in repo:** [mustawfi-mahmoudieh-stump.md](../sources/mustawfi-mahmoudieh-stump.md) (legacy email summarising vol. 1)
+- **Already in repo:** [mustawfi-mahmoudieh-stump.md](../../mustawfi-mahmoudieh-stump.md) (legacy email summarising vol. 1)
 - **Action:** The English translation from Mazda Publishers would allow direct citation of both Mahmoudieh and dental treatment passages
 
 ### 10. Majles proceedings — automobile anecdote
@@ -293,7 +293,7 @@ The article (citing Najm-Abadi) says Stump died at **83** in 1951, implying birt
 
 | # | Material | Status | Location |
 |---|---|---|---|
-| **A** | **Encyclopaedia Iranica — DENTISTRY** | **Ingested** | [corpus/iranica-dentistry-article/extracted.web.md](../sources/corpus/iranica-dentistry-article/extracted.web.md) — full article text; names "Stump, an Austrian" alongside Melczarski; cites Najm-Abadi 1974, Golparvar 1987, Simjur 1976 |
+| **A** | **Encyclopaedia Iranica — DENTISTRY** | **Ingested** | [corpus/iranica-dentistry-article/extracted.web.md](../iranica-dentistry-article/extracted.web.md) — full article text; names "Stump, an Austrian" alongside Melczarski; cites Najm-Abadi 1974, Golparvar 1987, Simjur 1976 |
 | **B** | **Daneshvar, *Savushun*** (English trans.) | **Located** | Internet Archive: <https://archive.org/details/savushunnovelabo00dani> (borrowable) — Mage Publishers 1990 trans. by Ghanoonparvar |
 
 ### Located but not digitally accessible
@@ -301,7 +301,7 @@ The article (citing Najm-Abadi) says Stump died at **83** in 1951, implying birt
 | # | Material | Status | Where to obtain |
 |---|---|---|---|
 | **1** | **Elgood, *A Medical History of Persia* (CUP, 1951)** | Google Books confirms **page 536** hit for "Stump dentist". CUP table of contents shows this falls in **Chapter XVIII: "The Sanitary Council and the Quarantine Service" (pp 514–537)**. Under copyright until 2062. HathiTrust has search-only access (ID: `inu.30000053313932`). | **CUP digital: £47** — [Cambridge UP](https://www.cambridge.org/core/books/medical-history-of-persia-and-the-eastern-caliphate/903C69EEE9B3867991D46E654D15C63C) (DOI: `10.1017/CBO9780511710766`); ISBN 9781108015882 (paperback), 9780511710766 (digital). Also: [Google Books](https://books.google.com/books?id=XFB8-xIyUpAC&q=Stump+dentist); [Wellcome Collection](https://wellcomecollection.org/works/bgeqxv4p) (open shelves, London); [HathiTrust](https://babel.hathitrust.org/cgi/pt?id=inu.30000053313932); rare book dealer has first edition for $250. |
-| **2** | **Mustawfi, *Sharh-e Zendegani-ye Man*** (Persian, 3 vols) | Persian PDF available from [persianpdf.com](https://persianpdf.com/book/دانلود-کتاب-شرح-زندگانی-من-اثر-عبدالله/), [taaghche.com](https://taaghche.com/book/205631/شرح-زندگانی-من-جلد-اول), [fidibo.com](https://fidibo.com/book/174886-شرح-حال-زندگانی-من-جلد-1). **English translation**: *Administrative and Social History of the Qajar Period*, trans. Nayer Mostofi-Glenn, Mazda Publishers 1997, 1338 pp. | Purchase from [Mazda Publishers](http://www.mazdapublishers.com/book/administrative-and-social-history-of-the-qajar-period); already partially in repo via [mustawfi-mahmoudieh-stump.md](../sources/mustawfi-mahmoudieh-stump.md) |
+| **2** | **Mustawfi, *Sharh-e Zendegani-ye Man*** (Persian, 3 vols) | Persian PDF available from [persianpdf.com](https://persianpdf.com/book/دانلود-کتاب-شرح-زندگانی-من-اثر-عبدالله/), [taaghche.com](https://taaghche.com/book/205631/شرح-زندگانی-من-جلد-اول), [fidibo.com](https://fidibo.com/book/174886-شرح-حال-زندگانی-من-جلد-1). **English translation**: *Administrative and Social History of the Qajar Period*, trans. Nayer Mostofi-Glenn, Mazda Publishers 1997, 1338 pp. | Purchase from [Mazda Publishers](http://www.mazdapublishers.com/book/administrative-and-social-history-of-the-qajar-period); already partially in repo via [mustawfi-mahmoudieh-stump.md](../../mustawfi-mahmoudieh-stump.md) |
 | **3** | **Ebtehaj memoirs** (London, 1991, 2 vols) | Preview on [Google Books](https://books.google.com/books?id=kHPIAwAAQBAJ) and [Open Library](https://openlibrary.org/works/OL38662880W). Stump passage not found in snippet search. | Library loan; search Persian text for اشتومپ |
 | **4** | **Kamareh'i diary** (*Ruznameh-ye Khaterat*, Shirazeh, 2003, 2 vols, 1784 pp) | Not digitised. Catalogued on [WikiFeqh](https://fa.wikifeqh.ir/روزنامه%20خاطرات%20سید%20محمد%20کمره‌ای‌%20(کتاب)). | Iranian bookshops; diaspora libraries |
 | **5** | **Najm-Abadi, *Tarikh-e tebb dar Iran pas az Eslam*** (Tehran, 1353 Š./1974) | Identified via Iranica bibliography as the primary source for Stump's biography (nationality, arrival, death). Not digitised. | Tehran university libraries; Iranian book dealers |

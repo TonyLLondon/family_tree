@@ -21,12 +21,15 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Dr. Cormick — The man who met the Báb (Connections), part 1](corpus/cormick-man-who-met-bab-connections/) — `cormick-man-who-met-bab-connections`
 - [Dr. Cormick — The man who met the Báb (Connections), part 2](corpus/cormick-man-who-met-bab-connections-2/) — `cormick-man-who-met-bab-connections-2`
 - [David Yaghoubian - Ethnicity Identity and Nationalism in Iran](corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/) — `david-yaghoubian-ethnicity-identity-and-national-00eefee0c9`
+- [en-wikipedia-edward-burgess-merchant](corpus/en-wikipedia-edward-burgess-merchant/) — `en-wikipedia-edward-burgess-merchant`
 - [English Wikipedia: William Cormick — offline curl captures](corpus/en-wikipedia-william-cormick-curl-mirrors/) — `en-wikipedia-william-cormick-curl-mirrors`
 - [Gabriele Yonan - Lest We Perish - Christian Assyrians Turkey and Persia 1996](corpus/gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3/) — `gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3`
 - [Henderson Burgess-Stump Family Tree (spreadsheet)](corpus/henderson-burgess-stump-family-tree/) — `henderson-burgess-stump-family-tree`
 - [Fanny Burgess Bottin Timeline 1854–1938](corpus/henderson-fbb-timeline/) — `henderson-fbb-timeline`
+- [iranica-censorship-karimi-hakkak](corpus/iranica-censorship-karimi-hakkak/) — `iranica-censorship-karimi-hakkak`
 - [Encyclopaedia Iranica — DENTISTRY (dandān-pezeškī) in Persia](corpus/iranica-dentistry-article/) — `iranica-dentistry-article`
 - [Encyclopaedia Iranica — Firearms i. History](corpus/iranica-firearms-history/) — `iranica-firearms-history`
+- [Lady Mary Sheil, Glimpses of Life and Manners in Persia (1856), Ch. 13 — newspaper passage](corpus/lady-sheil-glimpses-persia-ch13/) — `lady-sheil-glimpses-persia-ch13`
 - [Freemasonry and fraternalism in the Middle East](corpus/levantine-freemasonry/) — `levantine-freemasonry`
 - [Lior Sternfeld - Reclaiming Their Past Jewish History in Iran Pahlavi early revolution - UT Austin dissertation 2014](corpus/lior-sternfeld-reclaiming-their-past-jewish-hist-bc02d32469/) — `lior-sternfeld-reclaiming-their-past-jewish-hist-bc02d32469`
 - [london-gazette-1870-03-15-white-1st-foot](corpus/london-gazette-1870-03-15-white-1st-foot/) — `london-gazette-1870-03-15-white-1st-foot`
@@ -48,6 +51,8 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [O'Brien / Roche notes — offline curl captures (01–15)](corpus/obrien-roche-url-offline-captures/) — `obrien-roche-url-offline-captures`
 - [Andreas Onnerfors - Freemasonry and Fraternalism in the Middle East](corpus/onnerfors-freemasonry-fraternalism-middle-east/) — `onnerfors-freemasonry-fraternalism-middle-east`
 - [Persian-language research: portrait labelled Portrait of Tamar Saginian (attribution)](corpus/persia-tamar-saginian-portrait-persian-research/) — `persia-tamar-saginian-portrait-persian-research`
+- [Sarpoosh: First Permanent Press in Iran (Iranian press history)](corpus/sarpoosh-first-permanent-press-iran/) — `sarpoosh-first-permanent-press-iran`
+- [SHARP Lingua Franca: Transfer of Typographic Printing Technology to Iran (2023)](corpus/sharp-printing-technology-qajar-iran/) — `sharp-printing-technology-qajar-iran`
 - [Solayman Khan Saham al-Dowleh (Wikipedia)](corpus/wikipedia-solayman-khan-saham-al-dowleh/) — `wikipedia-solayman-khan-saham-al-dowleh`
 - [Dr William Cormick — Connections (article PDF)](corpus/william-cormick-connections/) — `william-cormick-connections`
 - [William Cormick (short publication PDF)](corpus/william-cormick-monograph-pdf/) — `william-cormick-monograph-pdf`
@@ -66,14 +71,17 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [DAZD HR-DAZD-31 — Notaries of Zadar inventory (includes Angelo Daniele Addobbati 1806–1831)](corpus/dazd-notaries-zadar/) — `dazd-notaries-zadar`
 - [DAZD — Obavijesna pomagala (finding aids index)](corpus/dazd-obavijesna-pomagala-index/) — `dazd-obavijesna-pomagala-index`
 - [Difesa Adriatica — Antonio Zerauschek obituary (1973, scan)](corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/) — `difesa-adriatica-1973-antonio-zerauschek-obituary`
+- [Fulvia Zerauschek — family history memoir to Peter Martin Lewis (18 & 24 Sep 1996)](corpus/famhist-nonna-memoir-1996/) — `famhist-nonna-memoir-1996`
 - [Popis plemića grada Nina iz 1817. godine (List of nobles of Nin 1817)](corpus/granic-2014-popis-plemenica-nina/) — `granic-2014-popis-plemenica-nina`
 - [Granić — Popis plemića grada Nina iz 1817. godine (Zbornik HAZU Zadar, 32, 2014, pp. 199–244)](corpus/granic-nin-noble-list-1817/) — `granic-nin-noble-list-1817`
 - [HAZU DIZBI — Nin nobles list 1817 (g9bamu9vjedr)](corpus/hazu-dizbi-nin-nobles-list-1817/) — `hazu-dizbi-nin-nobles-list-1817`
 - [Ivna Anzulović: Ninska plemićka obitelj Pritičević i njihova kuća u Novigradu (Starohrvatska prosvjeta III/36, 2009)](corpus/hazu-hrcak-anzulovic-priticevic-nin-noble-family/) — `hazu-hrcak-anzulovic-priticevic-nin-noble-family`
 - [History Walks Venice — Citizen of the Republic of Venice (cittadini overview)](corpus/historywalks-venetian-citizenship/) — `historywalks-venetian-citizenship`
+- [ITS / IRO displaced persons file — Riccardo Zerauschek family, Trieste (1951)](corpus/its-iro-riccardo-zerauschek-1951/) — `its-iro-riccardo-zerauschek-1951`
 - [Polito IRIS — Adaptive cities (volume completo)](corpus/polito-iris-adaptive-cities-volume-completo/) — `polito-iris-adaptive-cities-volume-completo`
 - [Erste banka odbila kreditirati proizvođača čokolade — Ausonia / Zerauschek history (Poslovni dnevnik, 2011)](corpus/poslovni-hr-2011-ausonia-zadar-zerauschek/) — `poslovni-hr-2011-ausonia-zadar-zerauschek`
 - [Retrozadar — Povijest kavana u Zadru](corpus/retrozadar-povijest-kavana-u-zadru/) — `retrozadar-povijest-kavana-u-zadru`
+- [Guida archeologica di Zara — Addobbati family entry (pp. 503–509)](corpus/sabalich-guida-zara-addobbati/) — `sabalich-guida-zara-addobbati`
 - [Zara (1920-43) — Collezione di pacchetti di sigarette prodotti in Italia ed ex colonie italiane](corpus/sigaretteitaliane-zara-1920-43/) — `sigaretteitaliane-zara-1920-43`
 - [Slobodna Dalmacija — Povijest kavana u Zadru (2. dio) — curl snapshot](corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/) — `slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror`
 - [Società Dalmata di Storia Patria — Per l'Italia (includes 1909 protest list with Pietro Pio Addobbati, Ufficiale postale superiore)](corpus/societa-dalmata-storia-patria-2017/) — `societa-dalmata-storia-patria-2017`
@@ -139,6 +147,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Lessona - I Babi - Conferenze Torinesi 1881 Ermanno Loescher Torino](corpus/lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7/) — `lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7`
 - [Narrative of a mission to Bokhara](corpus/narrative-mission-bokhara/) — `narrative-mission-bokhara`
 - [SOLAS Bahai Studies English-speaking Europe Irish ed vol 4 Autumn Winter 2004](corpus/solas-bahai-studies-english-speaking-europe-iris-390913e50c/) — `solas-bahai-studies-english-speaking-europe-iris-390913e50c`
+- [List of Teachers Employed by the Commissioners of National Education on 31 March 1905 (O'Keane–O'Sullivan volume)](corpus/teachers-census-1905/) — `teachers-census-1905`
 - [Woman and her Saviour](corpus/woman-and-her-saviour-bd2948a214/) — `woman-and-her-saviour-bd2948a214`
 
 ## Military / India / colonial courts
@@ -157,6 +166,9 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 - [2020-10-01 Sartip David Sakinian](corpus/2020-10-01-sartip-david-sakinian-172b364799/) — `2020-10-01-sartip-david-sakinian-172b364799`
 - [2020-10-01 Sartip David Sakinian 2](corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/) — `2020-10-01-sartip-david-sakinian-2-c6ecff59d2`
+- [fa-wikipedia-vaqaye-ettefaqiye](corpus/fa-wikipedia-vaqaye-ettefaqiye/) — `fa-wikipedia-vaqaye-ettefaqiye`
+- [gbopera-2009-telefoni-e-rose-sirmione-callas](corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/) — `gbopera-2009-telefoni-e-rose-sirmione-callas`
+- [Ordine della Milizia Aurata o dello Speron d'Oro — Wikipedia compilation (2009)](corpus/golden-spur-order-wikipedia-2009/) — `golden-spur-order-wikipedia-2009`
 - [Hungaricana — Kriegs-Marine / Schematismus 1909, pp. 169–172 (Landwehr brigade excerpt)](corpus/hungaricana-kriegsmarine-schematismus-1909-pp169-172/) — `hungaricana-kriegsmarine-schematismus-1909-pp169-172`
 - [Hungaricana — Militär-Almanach/Schematismus 1887, pp. 471–472 (officer list excerpt)](corpus/hungaricana-militar-almanach-1887-pp471-472/) — `hungaricana-militar-almanach-1887-pp471-472`
 - [kbt-david-j-lewis-env-conservation-1978](corpus/kbt-david-j-lewis-env-conservation-1978/) — `kbt-david-j-lewis-env-conservation-1978`
@@ -164,10 +176,14 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [kbt-founder-lady-brunner-oxford-mail](corpus/kbt-founder-lady-brunner-oxford-mail/) — `kbt-founder-lady-brunner-oxford-mail`
 - [keep-britain-tidy-history](corpus/keep-britain-tidy-history/) — `keep-britain-tidy-history`
 - [keep-britain-tidy-wikipedia](corpus/keep-britain-tidy-wikipedia/) — `keep-britain-tidy-wikipedia`
+- [Joško Kovačić: Rod Machiedo sa Hvara (Prilozi povijesti otoka Hvara XII/1, 2014, 225–248)](corpus/kovacic-2014-rod-machiedo-hvar/) — `kovacic-2014-rod-machiedo-hvar`
 - [loc-authority-keep-britain-tidy-group](corpus/loc-authority-keep-britain-tidy-group/) — `loc-authority-keep-britain-tidy-group`
+- [luxardo-history](corpus/luxardo-history/) — `luxardo-history`
 - [ÖStA/KA — Personenforschung im Kriegsarchiv (Merkblatt 1868–1918)](corpus/oesta-ka-personenforschung-merkblatt-1868-1918/) — `oesta-ka-personenforschung-merkblatt-1868-1918`
 - [ÖStA — Genealogie im Kriegsarchiv (Dec 2014 leaflet)](corpus/oesta-kriegsarchiv-genealogie-2014/) — `oesta-kriegsarchiv-genealogie-2014`
 - [ÖStA — k.k./k.u.k. Generale 1816–1918 (PDF)](corpus/oesta-kuk-generale-1816-1918/) — `oesta-kuk-generale-1816-1918`
+- [Obituary notices for Samuel Lewis (d. 7 Aug 1967)](corpus/samuel-lewis-obituary-notices-1967/) — `samuel-lewis-obituary-notices-1967`
 - [Nómina de Personas Reconocidas como Víctimas — Comisión Nacional sobre Prisión Política y Tortura (Valech I)](corpus/valech-i-nomina-victimas/) — `valech-i-nomina-victimas`
+- [Per Maria Callas questa villa è una catapecchia](corpus/villa-callas-catapecchia-magazine-c1959/) — `villa-callas-catapecchia-magazine-c1959`
 - [Calypso — cigarette packet collector database (zigsam.at)](corpus/zigsam-at-calypso-cigarette-packs/) — `zigsam-at-calypso-cigarette-packs`
 

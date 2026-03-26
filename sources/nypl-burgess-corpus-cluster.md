@@ -1,6 +1,6 @@
 # NYPL & Burgess — corpus cluster (Schwartz bulletin + letters)
 
-Machine-ingested bundles for **NYPL Burgess family papers** / **Persian Letters** thread. Pair with the human-facing cards [nypl-burgess-papers.md](nypl-burgess-papers.md), [nypl-burgess-appendix-anna-interview.md](nypl-burgess-appendix-anna-interview.md), [nypl-burgess-bulletin-pdf.md](nypl-burgess-bulletin-pdf.md).
+Machine-ingested bundles for **NYPL Burgess family papers** / **Persian Letters** thread. Pair with the human-facing cards [nypl-burgess-papers.md](nypl-burgess-papers.md), [nypl-burgess-appendix-anna-interview.md](nypl-burgess-appendix-anna-interview.md), [nypl-burgess-bulletin-pdf](corpus/nypl-burgess-bulletin-pdf/).
 
 ## Schwartz bulletin parts (NYPL)
 

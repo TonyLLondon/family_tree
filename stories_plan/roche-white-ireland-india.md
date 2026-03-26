@@ -2,7 +2,7 @@
 
 ## Pitch
 
-A quieter story than the Persia or Chile arcs, but a distinctive imperial-Irish angle not represented at all on the site. Catherine Mary Roche, daughter of Dublin Crown Solicitor William Roche, married in Bombay in 1869. William O'Byrne White rose through the Indian Medical Service — the Army Medical Department pathway that was disproportionately Irish Catholic. Gerald Sebastian White served as Madras Registrar, with a Times obituary. The thread connects Dublin legal elites, Bombay colonial service, and the Spencer/Evans London line through marriage.
+Tony's direct maternal line through the Stumps. **Catherine Mary "Katie" Roche** (I136), daughter of Dublin Crown Solicitor William Roche, married **William O'Byrne White** (I135) in Bombay in 1869. Their son **Gerald Sebastian White** (I12) served as Madras Registrar. Gerald's daughter **Maureen "Molly" White** (I10) married **Robert Stump** (I11) in 1944. Their daughter **Catherine "Kitty" Stump** (I3) married Ivor Lewis — making Katie Roche Tony's great-great-grandmother. An Irish Catholic pathway from Dublin solicitors through the Army Medical Service to India, and eventually into the Stump-Lewis line.
 
 ## Proposed sections (scrolly beats)
 
@@ -11,7 +11,7 @@ A quieter story than the Persia or Chile arcs, but a distinctive imperial-Irish 
 3. **The IMS pathway** — Irish Catholic avenue into imperial service; the "Cork accent" historiography.
 4. **William O'Byrne White** — promotion table, career arc.
 5. **Gerald Sebastian White** — Madras Registrar, the Times obituary.
-6. **Bombay to London** — how the Irish imperial thread connects to the Spencer line.
+6. **Madras to Essex** — Gerald's daughter Molly born in Madras 1919, marries Robert Stump in wartime Essex 1944, producing Kitty Stump — Tony's mother.
 
 Appendix: Evidence, Sources.
 
@@ -27,8 +27,8 @@ Most images will need sourcing from CC/public-domain collections (Dublin, Bombay
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/lewis-wales-stump-europe.md` (Spencer-side context).
+Add to **Narratives** table in `lines/lewis-wales-stump-europe.md`.
 
 ## Note
 
-This is the thinnest of the nine proposed stories. It may work better as a shorter piece (5–6 scrolly steps) or as an expanded section within a broader "imperial connections" story if more material surfaces.
+Direct line: Katie Roche (I136) → Gerald White (I12) → Molly White (I10) → Kitty Stump (I3) → Tony (I1). Material is moderate — strong on the Roche parentage argument and the IMS/AMD research, thinner on personal narrative. May work better as a shorter piece (5–6 scrolly steps) unless more material from the person pages or Gerald's Times obituary surfaces.

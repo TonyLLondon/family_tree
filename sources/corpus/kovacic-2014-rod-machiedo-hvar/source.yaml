@@ -1,0 +1,15 @@
+id: kovacic-2014-rod-machiedo-hvar
+title: 'Joško Kovačić: Rod Machiedo sa Hvara (Prilozi povijesti otoka Hvara XII/1, 2014, 225–248)'
+remote:
+  primary_pdf_url: https://hrcak.srce.hr/file/191871
+  webpage_url: https://hrcak.srce.hr/129874
+fetches:
+- kind: pdf
+  at: '2026-03-26T13:29:08Z'
+  sha256: c453c9e51982cafbb0223f3466178b5beb6c886297db951c24bd47bcbe5d6523
+  bytes: 2403192
+  remote_url: https://hrcak.srce.hr/file/191871
+files:
+  pdf_markdown: extracted.pdf.md
+  pdf: original.pdf
+  reference: reference.md

@@ -23,7 +23,9 @@ She was **brought up in Geneva**, Switzerland (Lac Léman / Lake Geneva).
 
 - **13 Dec 1949** — Born **Richmond, London**.
 - **1949** — Birth registration district: **Surrey Northern, Surrey, England** (GEDCOM event).
-- **Upbringing** — **Geneva**, Switzerland; the image used for her on this site is a Lac Léman view of the city (Jet d’Eau), not a studio portrait.
+- **Upbringing** — **Geneva**, Switzerland.
+- **Chart / site photo** — [Outdoor portrait (white jacket, gold necklace)](../media/docs/Smiling%20woman%20white%20jacket%20gold%20geometric%20necklace%20outdoor%20bright.jpg) — used on the ancestor chart and person page.
+- **Wedding (Aug 1974, Hove)** — [Bride centre, trio outdoors](../media/images/portraits/outdoor-wedding-trio-beaded-gown-champagne-hills.jpg); other frames: `media/images/portraits/outdoor-wedding-*.jpg`.
 - **3 Aug 1974** — Married [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md), **Hove, Sussex** (**F1**).
 
 ## Family

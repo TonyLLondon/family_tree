@@ -282,19 +282,12 @@ export function classifyBirthPlaceRegion(birthPlace: string | undefined): string
   return "unknown";
 }
 
-function pairFromBase(base: string): [string, string] {
-  const c = rgb(base);
-  const a = c.formatHex();
-  const dim = rgb(Math.round(c.r * 0.92), Math.round(c.g * 0.92), Math.round(c.b * 0.92));
-  return [a, dim.formatHex()];
-}
-
-/** Two fills for alternating wedge shading (same as former generation striping). */
-export function chartFillPairFromBirthPlace(birthPlace: string | undefined): [string, string] {
+/** Wedge fill: one solid color per region (matches legend swatches). */
+export function chartFillFromBirthPlace(birthPlace: string | undefined): string {
   const id = classifyBirthPlaceRegion(birthPlace);
-  if (id === "unknown") return pairFromBase(UNKNOWN_BASE);
+  if (id === "unknown") return UNKNOWN_BASE;
   const rule = RULES.find((r) => r.id === id);
-  return pairFromBase(rule?.base ?? UNKNOWN_BASE);
+  return rule?.base ?? UNKNOWN_BASE;
 }
 
 export function chartStrokeFromBirthPlace(birthPlace: string | undefined): string {

@@ -46,7 +46,7 @@ Simin Daneshvar's novel *Savushun* — the best-selling Persian novel of the twe
 
 ## 5. Henriette and the family (1909–c. 1940s)
 
-In **1909**, Étienne married **[Henriette Louise Fernande Bottin](../people/henriette-bottin.md)** in Tehran. Henriette was the daughter of **[Julien Bottin](../people/julien-bottin.md)** and **[Fanny Burgess](../people/fanny-burgess.md)** — herself part of the extraordinary [Burgess family of Tehran](stories/saginian-burgess-bottin-stump.md), English residents of Persia since the mid-nineteenth century. Through Henriette, Étienne married into one of Tehran's oldest European families.
+In **1909**, Étienne married **[Henriette Louise Fernande Bottin](../people/henriette-bottin.md)** in Tehran. Henriette was the daughter of **[Julien Bottin](../people/julien-bottin.md)** and **[Fanny Burgess](../people/fanny-burgess.md)** — herself part of the extraordinary [Burgess family of Tehran](saginian-burgess-bottin-stump.md), English residents of Persia since the mid-nineteenth century. Through Henriette, Étienne married into one of Tehran's oldest European families.
 
 They had five children: **[Robert Marc Murard](../people/robert-marc-murard-stump.md)** (1910), **Theo** (1911), **Irene** ("Loulou", 1917), **Jacques**, and **Jean** (1929). The [Henderson family tree](../sources/henderson-burgess-stump-family-tree.md) records the full genealogy.
 

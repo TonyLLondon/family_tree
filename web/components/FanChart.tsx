@@ -13,7 +13,7 @@ import type { PhotoInfo } from "@/lib/photos";
 import { personSlugFromPage } from "@/lib/genealogy";
 import {
   CHART_BIRTH_PLACE_LEGEND,
-  chartFillPairFromBirthPlace,
+  chartFillFromBirthPlace,
   chartNameFillForSegmentFill,
   chartStrokeFromBirthPlace,
   chartYearsFillForSegmentFill,
@@ -343,8 +343,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 const name = s.person?.displayName ?? "?";
                 const years = yearRange(s.person);
                 const span = s.endAngle - s.startAngle;
-                const pair = chartFillPairFromBirthPlace(s.person?.birthPlace);
-                const fill = pair[idx % 2];
+                const fill = chartFillFromBirthPlace(s.person?.birthPlace);
                 const nameFill = chartNameFillForSegmentFill(fill);
                 const yearsFill = chartYearsFillForSegmentFill(fill);
                 const rm = (inner + outer) / 2;

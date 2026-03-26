@@ -1,6 +1,6 @@
 # Étienne Stump — held sources & wishlist
 
-Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkthrough of the Beytoote article: [beytoote-stump-translation.md](../../manual_output/beytoote-stump-translation.md).
+Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkthrough of the Beytoote article: [translation.en.md](../../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md).
 
 **Mahmoudieh house / Mustawfi / Tehran encyclopedia / provenance (email to Henderson):** [mahmoudieh-mustawfi-house.md](mahmoudieh-mustawfi-house.md)
 
@@ -19,7 +19,7 @@ Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkt
 | [../corpus/beytoote-stump-dentist-atabak-ahmadshah/](../corpus/beytoote-stump-dentist-atabak-ahmadshah/) | `mirror.html` (~119 KB) + `extracted.web.md` + `source.yaml` | Full web capture |
 | [../corpus/iranica-dentistry-article/](../corpus/iranica-dentistry-article/) | `extracted.web.md` + `source.yaml` | Full article extract; no raw HTML (Cloudflare) |
 | [../estonian-biographical-center-stump-report-2005.md](../estonian-biographical-center-stump-report-2005.md) | Citation card → [corpus/estonian-biographical-center-stump-family-resear-856c90185e/](../corpus/estonian-biographical-center-stump-family-resear-856c90185e/) | Tallinn Stump/Erbe parish digest (2005) |
-| [../../manual_output/beytoote-stump-translation.md](../../manual_output/beytoote-stump-translation.md) | Annotated EN translation + reference catalog | ~27 KB |
+| [../../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md](../../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md) | Annotated EN translation + reference catalog | in bundle |
 | [../mustawfi-mahmoudieh-stump.md](../mustawfi-mahmoudieh-stump.md) | Legacy email summary of Mustawfi vol. 1 (Mahmoudieh / dentist) | Not full memoir text |
 | [../dental-register-stump-mandamus-1902.md](../dental-register-stump-mandamus-1902.md) | *Chicago Tribune* 10 Aug 1902, repr. *Dental Register* 56:582–583 → [corpus/dental-register-stump-mandamus-1902/](../corpus/dental-register-stump-mandamus-1902/) | Mandamus dismissed; German-American Dental College license refusal |
 
