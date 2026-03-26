@@ -15,12 +15,15 @@ children:
 
 # Catherine Stump
 
-Mother of [Anthony Robert Lewis](anthony-robert-lewis.md); daughter of the **Tehran-born Stump** line and the **Irish–Anglo-Indian White** line. Vitals below follow the Findmypast GEDCOM export.
+Mother of [Anthony Robert Lewis](anthony-robert-lewis.md); daughter of the **Tehran-born Stump** line and the **Irish–Anglo-Indian White** line. Known in the family as **Kitty**. Vitals below follow the Findmypast GEDCOM export.
+
+She was **brought up in Geneva**, Switzerland (Lac Léman / Lake Geneva).
 
 ## Life
 
 - **13 Dec 1949** — Born **Richmond, London**.
 - **1949** — Birth registration district: **Surrey Northern, Surrey, England** (GEDCOM event).
+- **Upbringing** — **Geneva**, Switzerland; the image used for her on this site is a Lac Léman view of the city (Jet d’Eau), not a studio portrait.
 - **3 Aug 1974** — Married [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md), **Hove, Sussex** (**F1**).
 
 ## Family

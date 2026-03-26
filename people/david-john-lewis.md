@@ -248,8 +248,8 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 
 - ~~**Army number:**~~ **Resolved.** Army number **143587**.
 - ~~**Commission date:**~~ **Resolved.** Emergency commission as 2nd Lt., 23 August 1940, gazetted in Supplement 34928 (20 Aug 1940), p. 5145. [Online](https://www.thegazette.co.uk/London/issue/34928/supplement/5145). Full entry confirmed: "David John LEWIS (143587)" under "Welch R."
-- ~~**Forces War Records:**~~ The entry "Lewis, David — UK Welsh Regiments 1899–1942" is a different person (Pvt., b. 1885, KIA 21 Dec 1914, South Wales Borderers).
-- ~~**Powerbase — David John Lewis:**~~ Different person (b. 1939, chartered surveyor). No match.
+- ~~**Forces War Records:**~~ The hit "Lewis, David — UK Welsh Regiments 1899–1942" lists **Pvt., b. 1885, KIA 21 Dec 1914** (South Wales Borderers) — no overlap with this profile’s army number or commission trail.
+- ~~**Powerbase — David John Lewis:**~~ **b. 1939**, chartered surveyor — no overlap with this life dates.
 - ~~**Colonial service career:**~~ **Resolved.** Full career from 1948 CV: Tripoli (1948–51), Northern Rhodesia DC (1952–61), Secretariat (1962–66), Acting Permanent Secretary (1966), Director-General KBT from 1969.
 - **1st Welch war diary (WO 169 / WO 172):** Not digitised. Would confirm Lewis's presence at individual engagements (Sicily, Anzio, Gemmano, Argenta Gap, Faccenda) and provide a day-by-day account of 25 April 1945.
 - **Officer file (WO 373):** U.S. awards to Commonwealth officers are documented in this TNA series; would contain the recommendation chain for the Silver Star.

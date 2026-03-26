@@ -17,15 +17,15 @@ children:
 
 # Luigi Anzolo Alloisio Addobbati
 
-Father of [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md) with [Maddelena Plarino](maddelena-plarino.md) in **F15** (marriage **28 Apr 1766**, **Zara**). Death **BEF 1811** per **@S12@** — consistent with son's **1811** marriage in **F14**. In the Italian sources styled **Lujo** (Croatian form); the **Granić 1817 article** identifies him as the petitioner who approached Venetian authorities in **1793** to seek his family's admission to the council of Nin.
+Father of [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md), [Dr. Pietro Addobbati](dr-pietro-addobbati.md), and **Margarita** with [Maddelena Plarinò](maddelena-plarino.md) in **F15** (marriage **4 Apr 1766**, **Zara**). Death **BEF 1811** — the 1811 marriage register describes both Luigi and Maddalena as **"fù"** (deceased). In the Italian sources styled **Lujo** (Croatian form); the **Granić 1817 article** identifies him as the petitioner who approached Venetian authorities in **1793** to seek his family's admission to the council of Nin.
 
 ## Life
 
 Sabalich (pp. 505–506) provides a detailed civic career, drawing on documents then held by Lt. Col. Simeone Addobbati.
 
-- **1 Oct 1744** — Born **Zara, Dalmatia** (**@S12@**; confirmed Sabalich p. 505: "Luigi q.m Daniele, nato 1 ottobre 1744 a Zara").
+- **1 Oct 1744** — Born **Zara, Dalmatia** (**@S12@**; confirmed Sabalich p. 505: "Luigi q.m Daniele, nato 1 ottobre 1744 a Zara"). Baptized **2 Nov [?] 1744** at the Metropolitan Church (Cathedral) by Don Carlo [C/F]elicinouvich, Curate. Baptismal names: **Anzolo Alloisio** (the secular name "Luigi" derives from "Alloisio" = Latin *Aloysius*). Father described as "Daniel Addobbati Cittadino di q.ta Città" with "Margaritta Lanfranchi" in legitimate marriage. Godfather: **Cristoffo Guardi**.
 - **27 Sep 1762** — Swore the citizen's oath (*giurò come Cittadino*) — Sabalich p. 505.
-- **28 Apr 1766** — Marriage **Zara** (**F15**) to [Maddelena Plarino](maddelena-plarino.md).
+- **4 Apr 1766** — Marriage **Zara** (**F15**) to [Maddelena Plarinò](maddelena-plarino.md), in the bride's house, officiated by Don Simeone Tatovich (priest of the Metropolitan church), with dispensation from banns by Dr. Don Giovanni Caspana (Archdeacon & Vicar General). Witnesses: Dr. Giacomo and Dr. Antonio Danieli, physicians. Recorded by Don Michele Corsina, parish priest. The bride is identified as **"Maddalena figlia del Sig.r Pietro Plarinò"**, confirming the surname.
 - **21 Mar 1772** — As *Procurator e Coadjutor* of the Order, received an attestato from the Father Provincial of the convent of Carin (Sabalich p. 506).
 - **10 Jun 1783** — *Priore della Casa di Pietà* (Sabalich p. 505).
 - **1786** — *Procuratore e Capo dell'Università* [of the Citizens] (Sabalich p. 505).
@@ -41,9 +41,9 @@ Sabalich (pp. 505–506) provides a detailed civic career, drawing on documents 
 
 ## Family
 
-- Wife: [Maddelena Plarino](maddelena-plarino.md).
-- Parents: [D. Daniele Addobbati](d-daniele-addobbati.md); [Margherita Lanfranchi](margherita-lanfranchi.md) (**F16**).
-- Sons: [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md) (I29, = **Ivan Vicko**, admitted Nin 1804) per **F15**; [Dr. Pietro Addobbati](dr-pietro-addobbati.md) (I75, b. 1769, d. 4 Nov 1832) — Knight of the Golden Spur, Lateran Count, lawyer.
+- Wife: [Maddelena Plarinò](maddelena-plarino.md) (register spells **Plarinò**; GEDCOM "Plarino"; 1811 scribal variant "Plavina").
+- Parents: [D. Daniele Addobbati](d-daniele-addobbati.md); [Margherita Lanfranchi](margherita-lanfranchi.md) (**F16**). The 1766 marriage register identifies the groom as **"il Sig.r Luigi Addobbati figlio del Sig.r Danielle"**.
+- Children: [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md) (I29, = **Ivan Vicko**, admitted Nin 1804); [Dr. Pietro Addobbati](dr-pietro-addobbati.md) (I75, b. 1769, d. 4 Nov 1832) — Knight of the Golden Spur, Lateran Count, lawyer; **Margarita** (per DAZD inventory §2.2, alongside Pietro and Vincenzo as children of Luigi and Maddalena).
 - Brothers (not in GEDCOM): **Simon Salustio** (Capo e Procurator dell'Università de' Cittadini, 1797 Extraordinary Congress speech; Secretary/Chancellor of the Tribunal of Šibenik 1798); **Antonio** (*Sardaro* at Bilibrigh); **Don Giovanni** (Canon of the Metropolitan Cathedral, 1797, at nomination of Rukavina — Bianchi, *Zara Cristiana*, p. 453).
 
 ## Evidence
@@ -54,4 +54,6 @@ Sabalich (pp. 505–506) provides a detailed civic career, drawing on documents 
 - **Granić 1817 Nin list:** primary source for Luigi's 1793 petition and his sons' 1804 Nin admission — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) → [corpus/granic-nin-noble-list-1817/](../sources/corpus/granic-nin-noble-list-1817/).
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — 1 July 1804 Nin municipal confirmation to "Pietro and Vincenzo Addobbati and their successors" — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Celić 1806 census:** family members in Zara citizen council — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
+- **Baptism register, Metropolitan Church, Zara, 2 Nov [?] 1744:** "un Fanciulo nato li p.mo ottobre … figlio del Sig.r Daniel Addobbati Cittadino di q.ta Città … co la Sig.ra Margaritta Lanfranchi; al quale vien nome Anzolo Alloisio. P.no il Sig.r Cristoffo Guardi" — [media/collections/zerauschek/Zerauschek (1)/Birth Luigi Addobbati Zara 1744.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Luigi%20Addobbati%20Zara%201744.jpg).
+- **Marriage register, p. 163, 4 Apr 1766:** primary-source transcription — "il Sig.r Luigi Addobbati figlio del Sig.r Danielle con la Sig.ra Maddalena figlia del Sig.r Pietro Plarinò" — [media/collections/zerauschek/Zerauschek (1)/Marriage Luigi Addobbati Plarinò Zara 1766.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Luigi%20Addobbati%20Plarin%C3%B2%20Zara%201766.jpg).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).

@@ -1,5 +1,6 @@
 ---
 name: Jacqueline Caroline Evans
+display_name: Jacquie EVANS
 treeId: I5
 gedcom: "@I5@"
 also_known_as:

@@ -40,6 +40,7 @@ The marriage church, **Sv. Šime** (Church of Saint Simeon), is one of Zadar's m
 - **23 Jul 1820** — Born **Zara, Dalmatia**.
 - **8 Aug 1849** — Marriage **Sv. Šime** to [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md) (**F11**).
 - **1855** — Documented as **assessore comunale**, Zara (**@S12@**).
+- **12 Feb 1890** — Described as **"Possidente, Civile, Vivente"** (property owner, civilian, living) in daughter Ottilia's marriage register at the Basilica Metropolitana, Zara.
 - **1891** — Still serving as **assessore comunale**, Zara (**@S12@**).
 - **3 Apr 1896** — Died **Zara, Dalmatia**.
 
@@ -53,6 +54,9 @@ The marriage church, **Sv. Šime** (Church of Saint Simeon), is one of Zadar's m
 
 - GEDCOM **`@I22@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F11** / **F55** / **F204**; **@S12@**; Geni note in **SOUR**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — "landowners and intellectuals, very much Italians", eight children, inheritance dispute.
+- **Marriage register of daughter Ottilia, Entry N. 8, 12 Feb 1890:** "Boara Simeone, da Zara, Cattolico, Possidente, Civile, Vivente" — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
+- **Parents' marriage register, Zara, 1849:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Carobbi Zara 1849.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Carobbi%20Zara%201849.jpg) — untranscribed; marriage of Giovanni Battista Boara × Vittoria Carobbi (F11 date: 8 Aug 1849).
+- **Boara sibling/family birth and marriage images (untranscribed):** [Birth Artemia Boara Zara 1850](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Artemia%20Boara%20Zara%201850.jpg), [Birth Evelina Boara Zara 1861](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Evelina%20Boara%20Zara%201861.jpg), [Marriage Kirchmayer Boara Zara 1869](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Kirchmayer%20Boara%20Zara%201869.jpg), [Marriage Velzek Boara Zara 1886](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Velzek%20Boara%20Zara%201886.jpg), [Birth Giovanni Francesco Velzek Spalato 1860](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Giovanni%20Francesco%20Velzek%20Spalato%201860.jpg).
 - [family-tree.json](../family-tree.json) · [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md) · [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 
 ## Wishlist

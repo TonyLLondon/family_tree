@@ -13,11 +13,12 @@ children:
 
 # Pietro Paolo Coltelli
 
-Father of [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md) with [Perina Sandri](perina-sandri.md) in **F61** (marriage **21 Jun 1777**, **Zara**). **@S12@** and FamilySearch **GWF6-G47** in export.
+Father of [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md) with [Perina Sandri](perina-sandri.md) in **F61** (marriage **21 Jun 1777**, **Zara**). **@S12@** and FamilySearch **GWF6-G47** in export. The 1811 marriage register of his daughter Vincenza identifies him as **"Paolo Coltelli, Pub.co Notajo"** (Public Notary) — the GEDCOM uses the fuller name **Pietro Paolo**.
 
 ## Life
 
 - Birth year not in the export slice; **birth place Zara** on **BIRT** line.
+- Occupation: **Pubblico Notajo** (Public Notary) per the 1811 marriage register.
 
 ## Family
 

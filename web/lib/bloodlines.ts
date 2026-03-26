@@ -93,9 +93,21 @@ const VENICE_CARPACCIO: BgPanel = {
   caption: "Carpaccio — Venice, 1494",
 };
 
+const LONDON_ST_JOHN: BgPanel = {
+  src: "media/context/london-clerkenwell/st-johns-gate-clerkenwell-1880-dixon.jpg",
+  alt: "St John's Gate, Clerkenwell, Henry Dixon, 1880",
+  caption: "Clerkenwell — St John's Gate, 1880",
+};
+
+const LONDON_SOMERS: BgPanel = {
+  src: "media/context/london-clerkenwell/ossulston-walker-house.jpg",
+  alt: "Walker House, Ossulston Estate, London",
+  caption: "London — Somers Town, near Camden",
+};
+
 export function buildBloodlineData(tree: FamilyTree): BloodlineData {
   const allIds = [
-    "I1", "I2", "I3", "I9", "I11", "I15", "I16", "I20", "I23", "I29",
+    "I1", "I2", "I3", "I5", "I6", "I7", "I9", "I11", "I15", "I16", "I20", "I23", "I29",
     "I30", "I31", "I32", "I33", "I34", "I35", "I36", "I37", "I38",
     "I140", "I142", "I144", "I146", "I148", "I151", "I153", "I163", "I165",
   ];
@@ -103,6 +115,30 @@ export function buildBloodlineData(tree: FamilyTree): BloodlineData {
   const n = (id: string, role: string) => makeNode(tree, id, role, photos);
 
   const steps: BloodlineStep[] = [
+    {
+      era: "2016 – 2018",
+      fullBg: {
+        src: "media/images/portraits/archer-sloan-california.jpg",
+        alt: "Archer and Sloan Lewis, California",
+        caption: "Archer & Sloan — California",
+      },
+      stump: n("I7", "Son · Los Gatos"),
+      addobbati: n("I6", "Daughter"),
+    },
+    {
+      era: "1982 – 2012",
+      leftBg: LONDON_ST_JOHN,
+      rightBg: LONDON_SOMERS,
+      stump: n("I1", "Macclesfield · Stump line via Catherine"),
+      addobbati: n("I5", "Camden · Evans line"),
+    },
+    {
+      era: "1949 – 1974",
+      leftBg: LONDON_ST_JOHN,
+      rightBg: VENICE_CANALETTO,
+      stump: n("I3", "Richmond · Robert Stump’s line"),
+      addobbati: n("I2", "Florence · Ivor & Fulvia’s line"),
+    },
     {
       era: "1910 – 1923",
       leftBg: {

@@ -26,7 +26,7 @@ Daughter of [Fanny Burgess](fanny-burgess.md) and [Julien Bottin](julien-bottin.
 ## Life
 
 - **6 Mar 1886** — Born **Téhéran (Perse)** per passport *signalement* scan (see Evidence).
-- GEDCOM **`@I76@`** gives **26 Jun 1888** and **Henriette Louise Bottin** — treat as **same person** only after record reconciliation (Open questions).
+- GEDCOM **`@I76@`** gives **26 Jun 1888** and **Henriette Louise Bottin** — reconcile with the passport *signalement* before treating the dates as one life (Open questions).
 - Married [Étienne Stump](etienne-stump.md) **1909** (GEDCOM marriage year on **F6**).
 - **26 Jun 1961** — Death date in GEDCOM export (primary image pending in `media/`).
 - **1909** — Vintage album composite with Étienne documents the couple visually in the pre–World War I period.

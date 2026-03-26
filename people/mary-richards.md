@@ -34,4 +34,4 @@ Mother of [Ann Mainwaring](ann-mainwaring.md) (**@I178@**) with [Richard Mainwar
 ## Open questions
 
 - **Richards** origin — Glamorgan parish for **1802** baptism and **1852** burial or civil death.
-- **Overlap with Ann’s life** — Ann’s **1875** death means Mary cannot be confused with her; still, **1852** death for Mary should be anchored to a register image.
+- **Overlap with Ann’s life** — Ann died **1875**; Mary’s **1852** death needs a register image to sit cleanly in the prior generation.

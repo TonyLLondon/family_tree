@@ -24,6 +24,7 @@ Husband of [Maria Teresa Robustella](maria-teresa-robustella.md) in **F56** (mar
 
 - GEDCOM **`@I113@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F56** / **F62**; FamilySearch **GW1S-LXW**.
 - [family-tree.json](../family-tree.json).
+- **Marriage register, Zara, 29 Oct 1763:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Robustella Zara 1763.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Robustella%20Zara%201763.jpg) — untranscribed; his marriage to Maria Teresa Robustella (F56).
 
 ## Open questions
 

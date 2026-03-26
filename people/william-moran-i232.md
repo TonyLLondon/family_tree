@@ -19,4 +19,4 @@ Father of [Elizabeth Moran](elizabeth-moran-i230.md) (**F115**). Like **F114**, 
 
 ## Open questions
 
-- Identify Elizabeth’s mother; do not confuse with [William Moran (St Neots)](william-moran-i235.md) (`I235`) or [Elizabeth Moran (Holloway)](elizabeth-moran-i233.md) (**F116**).
+- Identify Elizabeth’s mother. **`I232`** / **F115** → [Elizabeth Moran](elizabeth-moran-i230.md) (`I230`). Parallel Moran cluster: **`I235`** / **F116** — [William Moran (St Neots)](william-moran-i235.md); [Elizabeth Moran (Holloway)](elizabeth-moran-i233.md) (`I233`).

@@ -18,7 +18,7 @@ children:
 
 # Hans Jacob Stump (b. 1674)
 
-Earlier **Sulgen** Stump on the strict ancestor path: father of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) (**@I148@**) in **F76**. He is **not** the same person as [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) (**@I142@**, Marc’s father); the GEDCOM recycles the full name across generations.
+Earlier **Sulgen** Stump on the strict ancestor path: father of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) (**@I148@**) in **F76**. This life is **`@I151@`**; [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) is **`@I142@`** (Marc’s line) — the export reuses the full name across generations.
 
 ## Life
 

@@ -13,7 +13,7 @@ children:
 
 # Anne (Griffiths)
 
-Wife of [Thomas Griffiths](thomas-griffiths.md) in **F188**; mother of [Catherine Griffiths](catherine-griffiths.md) (**@I174@**). The GEDCOM gives **no surname** in the **NAME** line—only **Anne //**—so this file is intentionally titled **Anne (Griffiths)** for disambiguation from [Ann Mainwaring](ann-mainwaring.md) and other **Ann** profiles.
+Wife of [Thomas Griffiths](thomas-griffiths.md) in **F188**; mother of [Catherine Griffiths](catherine-griffiths.md) (**@I174@**). The GEDCOM gives **no surname** in the **NAME** line—only **Anne //**—so this file uses **Anne (Griffiths)** beside [Ann Mainwaring](ann-mainwaring.md) and other **Ann** profiles.
 
 ## Life
 

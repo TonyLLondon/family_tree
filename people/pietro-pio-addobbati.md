@@ -23,23 +23,23 @@ Father of [Ester Addobbati](ester-addobbati.md). GEDCOM ties him to **Zara** bir
 - **5 May 1852** — Born **Zara, Dalmatia**.
 - Originally **destined for the church** and attended the Seminary in Zara. Expelled after placing a rat in the dish of a visiting Bishop — "considered unsuitable and luckily released (or we wouldn't be here)." (Fulvia memoir, 1996.)
 - Worked as a **secretary in a lawyer's firm** after leaving the seminary; the family was without money and his salary did not last to the end of the month. His wife Ottilia borrowed from her Boara relations (Zio Casimiro and Zia Carmela), returning the money each month via one of the daughters — Casimiro always waved it off. (Fulvia memoir, 1996.)
-- **12 Feb 1890** — Marriage **Zara** to [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md) (**F10**).
+- **12 Feb 1890** — Marriage **Basilica Metropolitana, Zara** to [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md) (**F10**), officiated by Monsignor Stefano Franc[avieri?] (Cooperator), delegated by Dr. Marco [S/Z]accini (Canon Parish Priest). Pietro Pio listed as **"Imp. Assistente alla Direz. delle Poste"** (Imperial Assistant at the Post Office Directorate), Catholic, bachelor, aged 37. Ottilia listed as **"Civile"**, aged 24. Banns published 19, 26 Jan and 2 Feb 1890. Witnesses: **Mariano Rovaro Brizzi** (accountant at the Lieutenancy — a relative of Geralda), **[Simeone Addobbati](simeone-gilberto-addobbati.md)** (I.R. Captain, from Zara but living in Vienna — Pietro Pio's brother), **Francesco Kirschner** (Imperial Councillor at the Lieutenancy), and **[?] Opaludo** of Zara. Marginal annotation records Pietro Pio's death: **† 8.4.1919**.
 - **8 Apr 1919** — Died **Zara, Dalmatia** — before his granddaughter Fulvia was born.
 
 The Addobbati, despite their civic standing, defied the gentry convention of not working. Pietro Pio's children followed suit: the eldest son became a doctor (qualified in Vienna); Noemi worked at the Poste & Telegraphs; Else was a piano teacher; Irma and "Bill" were teachers; Villosie served 25 years as [Antonio Zerauschek](antonio-zerauschek.md)'s secretary and administrator before becoming a nun at 50, rising to Sister Superior at the Convent of the Dame Inglesi in Rovereto (Trento); Bice married and settled in Rome. In Zara it was said as a compliment: *un vero Addobbati*. (Fulvia memoir, 1996.)
 
 ## Family
 
-- Parents: [Pietro Paolo Addobbati](pietro-paolo-addobbati.md); [Geralda Rovero Brizzi](geralda-rovero-brizzi.md) (**F12**).
-- Paternal uncle: [Simeone Gilberto Addobbati](simeone-gilberto-addobbati.md) (**@I54@**).
+- Parents: [Pietro Paolo Addobbati](pietro-paolo-addobbati.md) (described posthumously in the 1890 register as **"Residente Contabile in pensione, Defunto"** — retired Resident Accountant, deceased); [Geralda Rovero Brizzi](geralda-rovero-brizzi.md) (described as **"Pensionata, Civile, Vivente"** — pensioner, living) (**F12**).
+- Brother: [Simeone Gilberto Addobbati](simeone-gilberto-addobbati.md) (**@I54@**) — served as witness at the 1890 wedding; I.R. Captain, living in Vienna.
 - Wife: [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md).
 - Children (per Fulvia memoir — "wife and 7 children"): the eldest son (doctor, died ~30 in Trieste of blood poisoning), Noemi, Else, Irma, "Bill", Villosie (later Sister Superior), Bice, and [Ester Addobbati](ester-addobbati.md). Of the sisters, only Bice and Ester married.
-- The eldest son served in the Austrian army during WWI; in the Officers' mess he slapped a superior officer and was saved from court martial only by [Simeone Gilberto Addobbati](simeone-gilberto-addobbati.md)'s position and influence. He later practised medicine in Trieste and died within 24 hours of blood poisoning, aged about 30.
+- The eldest son (**Pietro Addobbati**) served in the Austrian army during WWI; in the Officers' mess he slapped a superior officer and was saved from court martial only by [Simeone Gilberto Addobbati](simeone-gilberto-addobbati.md)'s position and influence. He later practised medicine in Trieste and died within 24 hours of blood poisoning, aged about 30. **DAZD sig. 59 (1915)** preserves a copy of his medical degree, described as belonging to "Pietro Addobbati, nephew of Simeone" — consistent with this identification.
 
 ## Evidence
 
 - GEDCOM **`@I20@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [media/collections/zerauschek/](../media/collections/zerauschek/) — match scans to **`@I20@`** when catalogued.
+- **Marriage register, Entry N. 8, 12 Feb 1890 (Basilica Metropolitana, Zara):** full details of both spouses, parents' occupations and vital status, four witnesses — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 - [family-tree.json](../family-tree.json).
 
@@ -53,4 +53,4 @@ The Addobbati, despite their civic standing, defied the gentry convention of not
 ## Open questions
 
 - Full **F10** child list: memoir names 8 children but says "7" — reconcile with parish records.
-- Identify the eldest son (doctor) by name from Zara parish or Trieste records.
+- ~~Identify the eldest son (doctor) by name~~ — likely **Pietro Addobbati** per DAZD sig. 59 (1915 medical degree copy, "nephew of Simeone"). Confirm from Zara parish or Trieste records.

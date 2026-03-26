@@ -1,5 +1,8 @@
 ---
 name: Maureen Catherine Finbarr White
+display_name: Maureen WHITE
+also_known_as:
+  - Molly White
 treeId: I10
 gedcom: "@I10@"
 born: 1919-06-02
@@ -13,15 +16,17 @@ spouses:
   - robert-marc-murard-stump
 children:
   - catherine-stump
+role: Teacher
 ---
 
 # Maureen Catherine Finbarr White
 
-Anglo-Indian birth (Madras) on the **White** line; wife of [Robert Marc Murard Stump](robert-marc-murard-stump.md); grandmother of [Anthony Robert Lewis](anthony-robert-lewis.md) through [Catherine Stump](catherine-stump.md).
+Anglo-Indian birth (Madras) on the **White** line; wife of [Robert Marc Murard Stump](robert-marc-murard-stump.md); grandmother of [Anthony Robert Lewis](anthony-robert-lewis.md) through [Catherine Stump](catherine-stump.md). Known in the family as **Molly**.
 
 ## Life
 
 - **2 Jun 1919** — Born **Madras, India**; christening recorded **8 Jun 1919**, Madras (GEDCOM).
+- **Second World War** — Met [Robert Marc Murard Stump](robert-marc-murard-stump.md) in **Essex, England**, during the war; **both were teachers** (family account).
 - **29 Aug 2006** — Died **Kingston upon Thames, Surrey, England** (civil death index citations in GEDCOM).
 
 ## Family
@@ -36,6 +41,7 @@ Anglo-Indian birth (Madras) on the **White** line; wife of [Robert Marc Murard S
 - [1939 Register style household page (Prosser Stewart White Pallett — context for White line research)](../media/docs/1939%20Register%20style%20household%20page%20Prosser%20Stewart%20White%20Pallett%20closed%20records%20redactions.png).
 - [census for whites in 1911 in ireland.pdf](../media/docs/census%20for%20whites%20in%201911%20in%20ireland.pdf).
 - [family-tree.json](../family-tree.json).
+- **Essex, teaching, wartime meeting** — Family knowledge (2026); to be corroborated with service, school, or register sources when available.
 
 ## Open questions
 

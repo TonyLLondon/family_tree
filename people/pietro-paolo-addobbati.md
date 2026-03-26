@@ -22,8 +22,8 @@ Father of [Pietro Pio Addobbati](pietro-pio-addobbati.md) (**@I20@**) with [Gera
 
 ## Life
 
-- **27 Apr 1815** — Born **Zara, Dalmatia** (**@S12@** "Pietro Paolo Addobbati"; Sabalich p. 508 gives "(1815)").
-- **1845** — Marriage **Zara** to Geralda Rovero Brizzi (**F12**, 26 Oct 1845).
+- **27 Apr 1815** — Born **Zara, Dalmatia** (**@S12@** "Pietro Paolo Addobbati"; Sabalich p. 508 gives "(1815)"; confirmed by the 1845 marriage register).
+- **26 Oct 1845** — Marriage **Zara** to Gerarda Rovero Brizzi (**F12**), at the Collegiate Parish Church (Parrocchia di S. Simeone), officiated by D. Dom. Morovich (administrator). Pietro described as **Impiegato** (employee), aged 30, Catholic, bachelor, domiciled in this parish. Banns published 13, 20, and 27 July 1845 without impediment. Gerarda was **underage** (20, below the Austrian majority of 24) — the **Praetor's consent** was obtained 14 July 1845, two days after her 20th birthday. Witnesses: Giuseppe Tenni Cupilli and Giuseppe Sebasticho, both **Ufficiale dei conti della Ragioneria** (Accounts Officers) — consistent with Pietro's accounting career.
 - **1848** — *Tenente della guardia Nazionale* (Lieutenant of the National Guard) — Sabalich p. 508.
 - **1852** — Occupation **computista presso la contabilità dalmata** (GEDCOM); Sabalich styles him *Revidente Contabile Luogotenenziale* (Auditor of the Lieutenant-Governor's Accounting Office).
 - **Death** — GEDCOM gives **29 Dec 1888**; Sabalich (p. 508) gives "† 1886". The two-year discrepancy is unresolved; both sources are close to the event.
@@ -32,7 +32,7 @@ Father of [Pietro Pio Addobbati](pietro-pio-addobbati.md) (**@I20@**) with [Gera
 
 - Wife: [Geralda Rovero Brizzi](geralda-rovero-brizzi.md).
 - Children include [Pietro Pio Addobbati](pietro-pio-addobbati.md) and [Simeone Gilberto Addobbati](simeone-gilberto-addobbati.md) (**@I54@**) per **F12** in [family-tree.json](../family-tree.json).
-- Parents: [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md); [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md) (**F14**).
+- Parents: [Vincenzo Giovanni Domenico Valentino Addobbati](vincenzo-giovanni-domenico-valentino-addobbati.md) (listed as **"C. R. Impiegato"** — Imperial-Royal Employee — in the 1845 register; deceased since 1839); [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md) (**F14**).
 
 ## Marriage alliances
 
@@ -45,4 +45,5 @@ Sabalich (p. 508) records that the Addobbati family, after arriving in Zara, int
 - **Sabalich, *Guida archeologica di Zara* (1897), p. 508:** "Pietro Paolo Addobbati q.m Vincenzo (1815) Revidente Contabile Luogotenenziale, Tenente della guardia Nazionale (1848 — † 1886)"; marriage alliances — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
 - **DAZD family fonds (HR-DAZD-342):** documents covering property, legal matters, and family correspondence from the 1840s–1880s span his lifetime — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Filippi family fonds (HR-DAZD-355):** Pietro Addobbati appears in documents in the Filippi archive — [sources/dazd-hr-dazd-355-filippi-family.md](../sources/dazd-hr-dazd-355-filippi-family.md).
+- **Marriage register, 26 Oct 1845:** groom "Addobbati, Pietro" born 27 Apr 1815, Impiegato; bride "Gerarda Rovero Brizzi" born 12 Jul 1825, underage (Praetor's consent 14 Jul 1845); parents Vincenzo Addobbati / Vincenza Coltelli and Giuseppe Rovero Brizzi / Anastasia Castellanovich; witnesses Giuseppe Tenni Cupilli and Giuseppe Sebasticho (Accounts Officers) — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Rovaro Brizzi Zara 1845.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Rovaro%20Brizzi%20Zara%201845.jpg).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).

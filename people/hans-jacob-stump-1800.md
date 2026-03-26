@@ -16,7 +16,7 @@ children:
 
 # Hans Jacob Stump (b. 1800)
 
-**Thurgau Stump** line: father of [Marc Francois Stump](marc-francois-stump.md) (**@I140@**) in GEDCOM family **F71**; therefore **great-great-grandfather** of [Robert Marc Murard Stump](robert-marc-murard-stump.md). Disambiguated from the **1674** namesake [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) (**@I151@**), an earlier Sulgen ancestor on the same patriline.
+**Thurgau Stump** line: father of [Marc Francois Stump](marc-francois-stump.md) (**@I140@**) in GEDCOM family **F71**; therefore **great-great-grandfather** of [Robert Marc Murard Stump](robert-marc-murard-stump.md). This profile is **`@I142@`** (1800 Sulgen birth); [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) is **`@I151@`** earlier on the same patriline.
 
 The export places his birth and christening on **15 Jun 1800** at **Sulgen, Thurgau** and his marriage to [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md) on **25 Sep 1832**, also **Sulgen**—before Marc’s later **Tallinn** marriage to [Olga Caroline Erbe](olga-caroline-erbe.md) in **F70**.
 

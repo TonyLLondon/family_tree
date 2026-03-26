@@ -6,42 +6,129 @@ Confidence tags: **HIGH** (clear handwriting, structured grid), **MEDIUM** (legi
 
 ---
 
-## 1. Marriage Addobbati Boara Zara 1890
+## 1. Marriage Addobbati Boara Zara 1890 — RESOLVED
 
 **File:** `Marriage Addobbati Boara Zara 1890.jpg`
-**Register:** REGISTRO MATRIMONIALE, Regno di Dalmazia. Page Tav. 88. Five entries visible (N. 7–11), year 1890.
-**Confidence:** MEDIUM — structured grid but small script; target entry must be identified among five rows.
+**Register:** REGISTRO MATRIMONIALE, Basilica Metropolitana (Cathedral), Zara. Entry N. 8, year 1890.
+**Confidence:** HIGH — structured grid; all columns legible.
 
 **Relevant to:** [Pietro Pio Addobbati](../people/pietro-pio-addobbati.md) × [Ottilia Anna Vincenza Boara](../people/ottilia-anna-vincenza-boara.md), marriage F10 (existing date: **12 Feb 1890**, Zara).
 
-**Extracted:** One of the five entries on this spread records the Addobbati–Boara marriage. The grid columns capture groom/bride names, ages, exact birth dates, birthplaces, parents (with occupations/status), witnesses, and annotations (banns). The entry should yield:
-- Exact parish (Parrocchia column appears in header but partly illegible on this copy)
-- Parents of both parties (confirms Boara father line for Ottilia)
-- Witness names (social-network data)
-- Any annotations re: dispensations
+**RESOLVED (Mar 2026).** Full transcription of Entry N. 8:
 
-**Action:** Confirm entry number and cross-reference parents against `family-tree.json` F10. Link image directly to `people/pietro-pio-addobbati.md` and `people/ottilia-anna-vincenza-boara.md`.
+### Transcription (Italian)
+
+| Column | Italian |
+|--------|---------|
+| Data / Parroco | N. 8. 1890. Diec'anno mille ottocento e nonanta Addì 12. dodici Febbrajo. Congiunse il Revmo Mons. Cooperatore [?] Stefano Franc[avieri?], delegato da me Dr. Marco [S/Z]accini Canonico Parroco. |
+| Sposo: Nome, Cognome e Condizione | Addobbati Pietro Pio, Imp. Assistente alla Direz. delle Poste |
+| Sposo: Luogo di nascita | Zara |
+| Sposo: Luogo di domicilio | Zara |
+| Sposo: Religione | Cattolico |
+| Sposo: Età | Nato li 5 Maggio 1852 |
+| Sposo: Stato | Celibe |
+| Sposa: Nome, Cognome e Condizione | Boara Ottilia Anna Vincenza, Civile |
+| Sposa: Luogo di nascita | Zara |
+| Sposa: Luogo di domicilio | Zara |
+| Sposa: Religione | Cattolica |
+| Sposa: Età | Nata li 14 Aprile 1865 |
+| Padre dello Sposo | Addobbati Pietro Paolo, da Zara, cattolico, Residente Contabile in pensione, Defunto. |
+| Madre dello Sposo | Rovaro Brizzi Geralda, da Zara, cattolica, Pensionata, Civile, Vivente. |
+| Padre della Sposa | Boara Simeone, da Zara, Cattolico, Possidente, Civile, Vivente. |
+| Madre della Sposa | Carobbi Vittoria, da Zara, Cattolica, Civile, Vivente. |
+| Testimone 1 | Mariano Rovaro Brizzi, Cattolico, Residente, contabile alla luogotenenza. Zara, Zara. |
+| Testimone 2 | Simeone Addobbati, Cattolico, [I.R.?] Capitano. Zara, Vienna. |
+| Testimone 3 | Francesco Kirschner, Cattolico, Consigliere Imperiale, Re[ferente?] dell'Avvoc[atura?] Al[?] Lug[otenenza?]. |
+| Testimone 4 | [?] Opaludo. Zara. |
+| Annotazioni | Furono fatte le trine pubbl. cazioni in questa Basilica Metropolitana nei giorni festivi 19, 26 Gennaio e 2 Febbraro 1890. |
+| Rinvio | Vedi atti Matrim. 70, N. 8. |
+| Annotazione marginale (sposo) | Pietro Pio Addobbato † 8.4.1919 |
+| Annotazione marginale (sposa) | Ottilia Boara sposa |
+
+### Translation (English)
+
+| Column | English |
+|--------|---------|
+| Date / Priest | No. 8. 1890. In the year one thousand eight hundred and ninety, on the 12th, twelfth of February. United [them] the Most Reverend Monsignor Cooperator [?] Stefano Franc[avieri?], delegated by me, Dr. Marco [S/Z]accini, Canon Parish Priest. |
+| Groom: Name, Surname and Condition | Addobbati Pietro Pio, Imperial Assistant at the Post Office Directorate |
+| Groom: Place of birth | Zara |
+| Groom: Place of domicile | Zara |
+| Groom: Religion | Catholic |
+| Groom: Age | Born 5 May 1852 |
+| Groom: Status | Bachelor |
+| Bride: Name, Surname and Condition | Boara Ottilia Anna Vincenza, Civilian |
+| Bride: Place of birth | Zara |
+| Bride: Place of domicile | Zara |
+| Bride: Religion | Catholic |
+| Bride: Age | Born 14 April 1865 |
+| Father of the Groom | Addobbati Pietro Paolo, from Zara, Catholic, Resident Accountant (retired), Deceased. |
+| Mother of the Groom | Rovaro Brizzi Geralda, from Zara, Catholic, Pensioner, Civilian, Living. |
+| Father of the Bride | Boara Simeone, from Zara, Catholic, Property Owner, Civilian, Living. |
+| Mother of the Bride | Carobbi Vittoria, from Zara, Catholic, Civilian, Living. |
+| Witness 1 | Mariano Rovaro Brizzi, Catholic, Resident, accountant at the Lieutenancy [provincial government]. From Zara, living in Zara. |
+| Witness 2 | Simeone Addobbati, Catholic, [I.R.?] Captain. From Zara, living in Vienna. |
+| Witness 3 | Francesco Kirschner, Catholic, Imperial Councillor, [Referent?] of the [Avvocatura?] at the Lieutenancy[?]. |
+| Witness 4 | [?] Opaludo. Zara. |
+| Annotations | The three public banns were read in this Metropolitan Basilica on the feast days of 19, 26 January and 2 February 1890. |
+| Cross-reference | See Marriage records [vol.] 70, No. 8. |
+| Marginal annotation (groom) | Pietro Pio Addobbato died 8 April 1919 |
+| Marginal annotation (bride) | Ottilia Boara, bride |
+
+### New data for the vault
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Marriage date | **12 Feb 1890** | 12 Feb 1890 | **Confirmed** ✓ |
+| Marriage parish | **Basilica Metropolitana** (Zara Cathedral) | "Zara" (no parish specified) | **NEW** — specific parish identified |
+| Groom birth | **5 May 1852** | 5 May 1852 | **Confirmed** ✓ |
+| Groom occupation | **Imp. Assistente alla Direz. delle Poste** | I.R. Assistente alla Direzione delle Poste | **Confirmed** ✓ |
+| Bride birth | **14 Apr 1865** | 14 Apr 1865 | **Confirmed** ✓ |
+| Groom's father occupation | **Contabile in pensione** (retired accountant) | None recorded | **NEW** — Pietro Paolo was an accountant |
+| Groom's father status | **Defunto** (deceased by 12 Feb 1890) | Death date unknown | **NEW** — terminus ante quem for Pietro Paolo's death |
+| Groom's mother status | **Vivente** (living 12 Feb 1890); Pensionata | Died 10 Mar 1908 | **Consistent** ✓ |
+| Bride's father occupation | **Possidente** (property owner/landowner) | None recorded | **NEW** — confirms Boara family wealth (Fulvia memoir: Casimiro and Carmela Boara lent money freely) |
+| Bride's father status | **Vivente** (living 12 Feb 1890) | None recorded | **NEW** |
+| Bride's mother | **Vittoria Carobbi**, Vivente | Vittoria Elisa Carobbi | **Confirmed** ✓ (middle name Elisa not recorded in this register) |
+| Groom death | **† 8.4.1919** (marginal annotation) | 8 Apr 1919 | **Confirmed** ✓ |
+| Witness: Mariano Rovaro Brizzi | Contabile alla luogotenenza, Zara | Not in vault | **NEW** — maternal relative of the groom; accountant at the provincial government |
+| Witness: Simeone Addobbati | Capitano, Zara / Vienna | [Simeone Gilberto Addobbati](../people/simeone-gilberto-addobbati.md) `@I54@` | **Confirms** brother's military rank (Captain) and Vienna residence in 1890 |
+| Witness: Francesco Kirschner | Imperial Councillor | Not in vault | **NEW** — social-network data |
+| Banns | 19, 26 Jan & 2 Feb 1890, Basilica Metropolitana | Not recorded | **NEW** |
 
 ---
 
-## 2. Birth Antonio Zerauschek Jr. Zara 1889
+## 2. Birth Antonio Zerauschek Jr. Zara 1889 — RESOLVED
 
 **File:** `Birth Antonio Zerauschek Jr. Zara 1889.jpg`
-**Register:** LIBRO DEGLI ATTI DI NASCITA, page 70, archival ref HDA 495. Entries 113–118 visible.
-**Confidence:** MEDIUM — grid is structured but handwriting is dense; the Zerauschek entry appears to be around entry 116.
+**Register:** LIBRO DEGLI ATTI DI NASCITA, page 70. Entry 116.
+**Confidence:** HIGH — Tony's direct transcription.
 
-**Relevant to:** [Antonio Zerauschek](../people/antonio-zerauschek.md) (`@I14@`), existing birth date: **24 Jun 1889**.
+**Relevant to:** [Antonio Zerauschek](../people/antonio-zerauschek.md) (`@I14@`).
 
-**Extracted:**
-- The page shows births from late 1889. One entry (possibly 116) contains "Zerauschek" in the father's surname column.
-- The child's given names are visible but partially difficult — existing GEDCOM gives just "Antonio"; the birth record likely includes additional baptismal names (common in Dalmatian registers).
-- Father column should show **Antonio Zerauschek** (senior, `@I25@`); mother **Anna Herenda** (`@I26@`).
-- Parents' marriage date and parish should appear in the "se coniugi" column.
-- Godparents/witnesses column provides social-network data.
+**RESOLVED (Tony's direct reading, Mar 2026).** Full entry:
 
-**Potential finding:** The entry may supply additional baptismal names for Antonio Jr. beyond what the GEDCOM carries. The parents' marriage date within the entry should read **26 Jan 1878** — if it shows a different date, that's a correction.
+> **Entry 116.** Born at 12 noon on 24 June 1889. Baptized 1 January 1890 by D. Marco Faccini, Canonico Parroco.
+> **Antonio Carlo Giovanni Battista** — Legitimate.
+> Mother: Anna Herenda, from Pago, domiciled at C.M. § 24, Via del Cristo.
+> Father: Antonio Zerauschek, domiciled at same address.
+> Parents married in Parish of Pago, 26 January 1878. Both Catholic; father falegname (carpenter), mother cucitrice (seamstress).
+> **Padrini (Godparents):** Carlo Herenda (Negoziante), Catterina Zerauschek (cucitrice) — all domiciled in Zara.
+> **Testimoni (Witnesses):** Francesco Fort (Muratore), Giambattista Mapari[?] (falegname), Antonio Rivelli (falegname).
+> **Levatrice (Midwife):** Maria Stein[?].
 
-**Action:** Careful re-reading of the specific entry row needed. Link image to `people/antonio-zerauschek.md`.
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Birth date | **24 Jun 1889** at noon | 24 Jun 1889 | **Confirmed** ✓ |
+| Full name | **Antonio Carlo Giovanni Battista** | Antonio | **ADDITION** — three extra baptismal names |
+| Legitimacy | Legitimate | — | Confirmed |
+| Baptism | **1 Jan 1890** | Not recorded | **NEW** — six-month delay is unusual |
+| Address | **Via del Cristo, C.M. § 24, Zara** | Not recorded | **NEW** |
+| Officiant | **D. Marco Faccini, Canonico Parroco** | Not recorded | **NEW** — same Canon Parish Priest who delegated Pietro Pio's 1890 wedding |
+| Godparents (Padrini) | **Carlo Herenda** (Negoziante/merchant — likely Anna's brother), **Catterina Zerauschek** (cucitrice/seamstress — likely a relative of Antonio Sr.) | Not known | **NEW** — all domiciled in Zara |
+| Witnesses (Testimoni) | **Francesco Fort** (Muratore/mason), **Giambattista Mapari[?]** (falegname/carpenter), **Antonio Rivelli** (falegname/carpenter) | Not known | **NEW** — all domiciled in Zara |
+| Midwife (Levatrice) | **Maria Stein[?]** | Not recorded | **NEW** |
+| Parents' occupations (1889) | Father: **falegname** (carpenter); Mother: **cucitrice** (seamstress) | Father: falegname (1878 register) | **ADDITION** — Anna's occupation changed from Negoziante (1878) to cucitrice (1889) |
+| Parents' religion | Both Catholic | — | Confirmed |
 
 ---
 
@@ -257,47 +344,78 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 ---
 
-## 13. Marriage Addobbati Rovaro Brizzi Zara 1845
+## 13. Marriage Addobbati Rovaro Brizzi Zara 1845 — RESOLVED
 
 **File:** `Marriage Addobbati Rovaro Brizzi Zara 1845.jpg`
-**Register:** REGISTRO MATRIMONIALE, Parrocchia di S. Simeone, Comune di Zara. Year 1845. Multiple entries visible.
-**Confidence:** HIGH — structured 19th-c. grid; clear handwriting; well-preserved pages.
+**Register:** REGISTRO MATRIMONIALE, Parrocchia di S. Simeone (Collegiate Parish Church), Comune di Zara.
+**Confidence:** HIGH — Tony's direct transcription.
 
-**Relevant to:** [Pietro Paolo Addobbati](../people/pietro-paolo-addobbati.md) (`@I23@`) × [Geralda Rovero Brizzi](../people/geralda-rovero-brizzi.md), marriage F12 (existing date: **26 Oct 1845**).
+**Relevant to:** [Pietro Paolo Addobbati](../people/pietro-paolo-addobbati.md) (`@I23@`) × [Geralda Rovero Brizzi](../people/geralda-rovero-brizzi.md), marriage F12.
 
-**Extracted:**
-- Full structured columns: groom/bride names, ages, birthplace, religion, parents (with status), witnesses, annotations (long paragraph per entry re banns/dispensations).
-- Parish: Parrocchia di S. Simeone, Zara.
-- Should yield:
-  - Pietro Paolo's age/exact birthdate (existing: 27 Apr 1815) — cross-check
-  - Geralda's parents and birthdate (existing: born 1825, parents unrecorded in GEDCOM)
-  - Both sets of parents' occupations/status
-  - Witnesses
+**RESOLVED (Tony's direct reading, Mar 2026).** Full entry:
 
-**Potential finding:** The companion image `Birth Gerarda Rovaro Brizzi Zara 1825.jpg` (#14) should give Geralda's exact birthdate and parents, which can then be validated against what's recorded in this marriage register.
+| Column | Italian | English |
+|--------|---------|---------|
+| Date | 26 Ottobre 1845 / D. Dom. Morovich amministratore | 26 Oct 1845 / Fr. Dom. Morovich, administrator |
+| Groom | Addobbati, Pietro — nato 27 Aprile 1815, Cattolico celibe Impiegato | Pietro Addobbati, born 27 Apr 1815, Catholic, bachelor, employee |
+| Bride | Gerarda Rovero Brizzi — nata 12 Luglio 1825, Cattolica nubile | Gerarda Rovero Brizzi, born 12 Jul 1825, Catholic, unmarried |
+| Groom's parents | Addobbati Vincenzo / Coltelli Vincenza — Zara C. R. Impiegato | Vincenzo Addobbati / Vincenza Coltelli — Imperial-Royal Employee |
+| Bride's parents | Rovero Brizzi Giuseppe / Castellanovich Anastasia | Giuseppe Rovero Brizzi / Anastasia Castellanovich |
+| Bride's father | Zara Venditore di Tabacchi all'Ingrosso | Wholesale tobacco seller |
+| Bride's mother | Zara, Cucitrice | Seamstress |
+| Witnesses | Giuseppe Tenni Cupilli + Giuseppe Sebasticho — Ufficiali dei conti della Ragioneria | Accounts Officers |
+| Banns | 13, 20, 27 July 1845 — no impediment | |
+| Annotation | Bride underage — Praetor's consent 14 Jul 1845 | Two days after her 20th birthday |
 
-**Action:** Link to `people/pietro-paolo-addobbati.md`. Extract witness names for social-network data.
+**Key findings:**
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Groom name | **"Addobbati, Pietro"** | Pietro Paolo | Register uses primary baptismal name only |
+| Groom birth | **27 Apr 1815** | 27 Apr 1815 | **Confirmed** ✓ |
+| Groom occupation | **Impiegato** (employee) | computista (later) | Earlier career stage |
+| Father Vincenzo | **"C. R. Impiegato"** | "Possidente" (1811) | Different occupation — government service vs landowner |
+| Bride birth | **12 Jul 1825** | 12 Jul 1825 | **Confirmed** ✓ (cross-validates #14) |
+| Bride's father | **Giuseppe Rovero Brizzi, Venditore di Tabacchi all'Ingrosso** | retail salt & tobacco (1825) | Business grew: retail → wholesale |
+| Bride's mother | **Castellanovich Anastasia, Cucitrice** | Castellanich / seamstress | Spelling variant ✓ |
+| Bride underage | **Praetor's consent** 14 Jul 1845 | Not recorded | **NEW** |
+| Witnesses | Two accounting officials | Not recorded | **NEW** — consistent with Pietro's career |
 
 ---
 
-## 14. Birth Gerarda Rovaro Brizzi Zara 1825
+## 14. Birth Gerarda Rovaro Brizzi Zara 1825 — RESOLVED
 
 **File:** `Birth Gerarda Rovaro Brizzi Zara 1825.jpg`
-**Register:** [Libro degli atti di nascita], Parrocchia di Zara. Page Tav. 35. Entries 103–108 visible.
-**Confidence:** MEDIUM — handwriting is a transitional style (early 19th c.); structured but denser than later registers.
+**Register:** Libro degli atti di nascita, Parrocchia di Zara. Entry 107.
+**Confidence:** HIGH — Tony's direct transcription.
 
-**Relevant to:** [Geralda Rovero Brizzi](../people/geralda-rovero-brizzi.md) — wife of Pietro Paolo Addobbati. No existing birth details in the vault beyond "born 1825."
+**Relevant to:** [Geralda Rovero Brizzi](../people/geralda-rovero-brizzi.md) — wife of Pietro Paolo Addobbati.
 
-**Extracted:**
-- Entry 107 appears to be the target — shows **Gerarda / Maria** (given names), born **July 1825** in Zara.
-- **Father:** name containing "Rovaro Brizzi" — likely with first name visible.
-- **Mother:** first name visible, maiden surname visible.
-- Parents' marriage date in the grid.
-- Godparent: "Antonia Brozzi" or similar visible in the last column.
+**RESOLVED (Tony's direct reading, Mar 2026).** Full entry for Entry 107:
 
-**Potential finding:** This fills in Geralda's currently-empty parent data (no GEDCOM entries exist for her parents). Her marriage register entry (1845) can then be cross-validated.
+| Column | Italian | English |
+|--------|---------|---------|
+| Date | Nata il giorno dodici Luglio Anno 1825 alle ore una pomeridiane. Battezzata li quindici Agosto Anno 1825. | Born 12 July 1825 at 1pm. Baptized 15 August 1825. |
+| Name | Gerarda Maria. † 10/III. 1908 | Gerarda Maria. Died 10 March 1908. |
+| Legitimacy | Legittima | Legitimate |
+| Father | Giuseppe Rovaro Brizzi nato e do. in Zara | Giuseppe Rovaro Brizzi, born and domiciled in Zara |
+| Mother | Annastasia Castalanich nata e d. abitaanta in Zara Calle S. Michele al Nº 590 | Annastasia Castellanich, born and living in Zara, Calle S. Michele No. 590 |
+| Parents' marriage | Maritati in questa Parrocchia il giorno 25 Agosto 1821 | Married in this parish 25 August 1821 |
+| Occupations | Venditore di Sali e Tabacchi al minuto il Brizzi. Cucitrice la Casta[la]nich. | Salt & tobacco retailer (Brizzi). Seamstress (Castellanich). |
+| Godparents | Pietro Battara, Stampatore (Printer), Calle S. Crisogono. Giovanni Durmanti, Stampatore (Printer), Calle S. Rocco Nº 26. | Two printers as godfathers |
+| Godmother | Antonia Brizzi, Lavatrice (Washerwoman) | Likely a relative of the father |
 
-**Action:** Create or update person page for Geralda Rovero Brizzi with extracted parentage.
+**New data for the vault:**
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Birth date | **12 July 1825** | "born 1825" | **Precise date** — fills the gap |
+| Death date | **10 March 1908** | "after 1890" | **NEW** — precise date from marginal annotation |
+| Full name | **Gerarda Maria** | "Geralda" | Baptismal name is Gerarda; "Geralda" is a later spelling variant |
+| Father | **Giuseppe Rovaro Brizzi** | Not recorded | **NEW** — occupation: salt & tobacco retailer |
+| Mother | **Annastasia Castellanich** | Not recorded | **NEW** — occupation: seamstress; address: Calle S. Michele 590 |
+| Parents' marriage | **25 August 1821** in this parish | Not recorded | **NEW** — cross-validates with image #15 (Marriage Rovaro Brizzi Castellanich Zara 1821) |
+| Baptism date | **15 August 1825** (Assumption feast) | Not recorded | NEW |
 
 ---
 
@@ -332,7 +450,25 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 - Names are legible at the margin (marginal surname labels in larger script).
 - The narrative paragraphs contain "figlio/a di" parentage, church names, banns, witnesses.
 
-**Action:** High-value for establishing the Addobbati × Coltelli marriage date. Existing data has no marriage date for F14.
+**RESOLVED (Tony's direct reading, Mar 2026).** Full transcription of Entry nº 13:
+
+**"Zara li venticinque 25 Feb.ro Anno 1811 undici"** — married at 6 PM by D. Antonio Can.co Grazovich, Curato of the Metropolitana (Cathedral), with dispensation from banns (Curia nº 50, 23 Feb), in the bride's house.
+
+- **Groom:** Sig.r **Vincenzo Addobbati, d'anni 30 c.a, Possidente**, son of the late **Luigi Addobbati** and the late **Maddalena Plavina**.
+- **Bride:** Sig.ra **Vincenza Coltelli, d'anni 24**, daughter of **Paolo Coltelli**, Public Notary, and **Devina Sandri**.
+- **Witnesses:** Nicolò Sandri (Justice of the Peace, from Vicenza), Francesco Medin (Capo de Dalmati ex Veneti, from Castel dell'Acqua), Giacomo Delosti (Imperial Criminal Court chancellor, from Corfu), Alessandro Sanfici (Public Notary, Zara), Giovanni Felicinovik (provincial government Razionale, Zara).
+
+**Key findings:**
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Marriage date | **25 Feb 1811** | None (F14 had no date) | **NEW** |
+| Vincenzo's age | **~30 circa** | Born 1776 (Sabalich) or 1781 (DAZD) | **Supports DAZD 1781** — age ~30 in Feb 1811 = born ~1781; if 1776 he'd be ~35 |
+| Luigi Addobbati | **"fù"** (deceased) | No death info | **NEW** — dead before Feb 1811 |
+| Luigi's wife | **"fù" Maddalena Plavina** | "Plarino" (GEDCOM) / "Canona" (DAZD) | **Third variant** — "Plavina" = feminine of "Plavinò" (Sabalich's spelling); likely all the same person |
+| Bride's parents | **Paolo Coltelli** (Pub. Notary) + **Devina Sandri** | None recorded | **NEW** — fills Vincenza's parentage |
+| Ceremony | In Casa della Sposa (bride's house), Cathedral parish | — | New |
+| Witnesses | Five civic/judicial officials | — | Socially significant wedding |
 
 ---
 
@@ -390,13 +526,33 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 ---
 
-## 21. Marriage Luigi Addobbati Plarinò Zara 1766
+## 21. Marriage Luigi Addobbati Plarinò Zara 1766 — RESOLVED
 
 **File:** `Marriage Luigi Addobbati Plarinò Zara 1766.jpg`
-**Register:** Narrative-format parish marriage book, 1760s. Tight binding and faded document labels.
-**Confidence:** LOW — tight binding obscures gutter text; faded ink in places.
+**Register:** Narrative-format parish marriage book, page 163. Metropolitan Church, Zara.
+**Confidence:** HIGH — Tony's direct transcription.
 
-**Relevant to:** Luigi Addobbati × Plarinò. Sabalich lists "Plavinò" among Addobbati marriage alliances. This is two generations above Pietro Paolo.
+**Relevant to:** [Luigi Anzolo Alloisio Addobbati](../people/luigi-anzolo-alloisio-addobbati.md) × Maddalena Plarinò.
+
+**RESOLVED (Tony's direct reading, Mar 2026).** Full transcription:
+
+> "Alli … A.D. P. 4. Ap.le 1766. Dispensate le solite Pubblicazioni dal R.mo Sig.r D.r D. Gio: Caspana Archid.o e Vic.o G.nle con la S.tia facoltà, il R.do D. Simeone Tatovich Sacerdote di q.ta Metropolit.a ha congionto in Matrim.o A. verba de p.nti con le formalità solite, e presenza dal P.it. R.mo in casa della Sposa il Sig.r Luigi Addobbati figlio del Sig.r Danielle con la Sig.ra Maddalena figlia del Sig.r Pietro Plarinò previe le di lui interrogazioni ad il loro mutuo Consenso. Test: il Sig.r D.r Giacomo ed il Sig.r D.r Antonio Danieli Medici fisici. Ed io D. Michele Corsina Curato di q.ta Metrop.li ho annotato."
+
+| Field | Value |
+|-------|-------|
+| Date | **4 April 1766** |
+| Groom | **Luigi Addobbati, son of Daniele** |
+| Bride | **Maddalena, daughter of Pietro Plarinò** |
+| Officiant | Don Simeone Tatovich, priest |
+| Authority | Dr. Don Giovanni Caspana, Archdeacon & Vicar General |
+| Witnesses | Dr. Giacomo and Dr. Antonio Danieli, physicians |
+| Venue | In the bride's house |
+| Recorded by | Don Michele Corsina, parish priest |
+| Banns | Dispensed (waived) |
+
+**Surname settled definitively:** The original 1766 marriage register says **Plarinò**. The GEDCOM's "Plarino" is correct (missing accent). The 1811 entry's "Plavina" is a later scribal variant / feminine form. The DAZD inventory's "Canona" is simply wrong — likely a misreading or confusion with the separate Plarinò × Canova 1732 marriage (image #27). The two families (Plarinò and Canova) intermarried one generation earlier, which explains the confusion.
+
+**Also notable:** banns waived, ceremony in the bride's house (same pattern as the 1811 Vincenzo × Coltelli wedding — an Addobbati family custom?). Witnesses were two physicians named Danieli.
 
 **Extracted:**
 - Multiple entries visible from March and July 1766.
@@ -436,28 +592,67 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 ---
 
-## 24–25. Marriage Daniele Addobbati Tori 1749 / Marriage Daniele Addobbati Lanfranchi 1730
+## 24. Marriage Daniele Addobbati Tori 1749 — RESOLVED
 
-**Files:**
-- `Marriage Daniele Addobbati Tori Zara 1749.jpg`
-- `Marriage Daniele Addobbati Lanfranchi Zara 1730.jpg`
+**File:** `Marriage Daniele Addobbati Tori Zara 1749.jpg`
+**Register:** Narrative-format parish marriage book, Metropolitan Church, Zara. Italian.
+**Confidence:** HIGH — Tony's direct transcription.
 
-**Registers:** Narrative-format Zara marriage books.
-**Confidence:** MEDIUM (1749), LOW–MEDIUM (1730).
+**Relevant to:** [D. Daniele Addobbati](../people/d-daniele-addobbati.md) (`@I31@`) — second marriage after death of first wife Margherita Lanfranchi.
 
-**Relevant to:** **Daniele Addobbati** — appears to have married twice: first to Lanfranchi (1730), then to Tori (1749). The Death Margherita Lanfranchi Addobbati 1749 image (#26) may record the death of his first wife, followed closely by remarriage to Tori.
+**RESOLVED (Tony's direct transcription, Mar 2026).** Full entry (Italian):
 
-**Extracted (1749):**
-- Entry margin: "Arizzio" or "Addobbati" — multiple entries from February–March 1749.
-- Entry text follows formulaic pattern: "Dispensato … Pubblicazioni … S. [church]."
-- Right-page entries from October–December 1749.
+> **Adobati** [left margin] — **Torj** [right margin; terminal *j* = *i lunga*, standard Venetian scribal convention for final *i*]
+>
+> Adi 12 Marzo 1749. Dispensate le tre Pubblicazioni da Mons.r Ill.mo e R.mo Arciv.o con facoltà del med.mo il R.mo S.r Primicerio D. Pietro Garo ha congiunto in Matrimonio verba de suis il S.r Daniel Adobati Cittadino di Zara con la S.ra Laura figlia del q.m S.r Salustio Tori Nobile Senese, previe le sue interrogazioni ed il loro mutuo consenso. Testimonij li SS.ri Giam Batta Lorenzo Adobatti, e Girolamo Lantana. Ed io D. Gio: Frangipani Mandatario e Curato di questa Metropolina ho fatto la presente Annotazione.
 
-**Extracted (1730):**
-- Left-page entries include one marginal label "Lisbati" or "Lebbati" (possibly "Addobbati" in earlier spelling?).
-- Entry "Adi 14 Nov[embre] 1730" visible on right page — margin label "Gaspermo" (or Gasparo).
-- Another entry with "Corion" or "Carion" label.
+**Translation (English):**
 
-**Potential finding:** The 1730 marriage of Daniele Addobbati to a Lanfranchi woman, followed by her death in 1749 and his immediate remarriage to Tori, reconstructs a key generational link. Daniele's children from both marriages form the Addobbati trunk that leads to Pietro Paolo.
+> On the 12th of March 1749. The three banns having been dispensed by the Most Illustrious and Most Reverend Archbishop, with the authority of the same, the Most Reverend Signor Primicerio Don Pietro Garo joined in Marriage with the customary words Signor Daniel Adobati, Citizen of Zara, with Signora Laura, daughter of the late Signor Salustio Tori, a Sienese nobleman, having conducted his interrogations and with their mutual consent. Witnesses: the Signori Giam Battista Lorenzo Adobatti, and Girolamo Lantana. And I, Don Giovanni Frangipani, delegate and Parish Priest of this Metropolitan Church, have made the present annotation.
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Marriage date | **12 Mar 1749** | Not recorded (no second union in GEDCOM) | **NEW** |
+| Groom | **Daniel Adobati**, Cittadino di Zara | I31 | **Confirmed** ✓ |
+| Bride | **Laura Tori**, d/o late Salustio Tori | Not in tree | **NEW** |
+| Bride's father | **Salustio Tori**, *Nobile Senese* (Sienese nobleman, deceased) | Not recorded | **NEW** — Tuscan minor nobility (see note below) |
+| Officiant | **Don Pietro Garo**, Primicerio | Not recorded | **NEW** |
+| Banns | All three dispensed by Archbishop | — | **NEW** — same pattern as 1730, 1766, 1811 Addobbati marriages |
+| Witnesses | **Giam Battista Lorenzo Adobatti** (relative), **Girolamo Lantana** | Not recorded | **NEW** |
+| Recorder | **Don Giovanni Frangipani**, delegate/Curate of the Metropolitan Church | — | **NEW** |
+| Timing | Weeks after Margherita Lanfranchi's death (early 1749) | — | Rapid remarriage |
+
+**Note on the Tori surname and scribal convention:** The register writes "Torj" with a terminal *j*, which is the *i lunga* — the standard Venetian/Dalmatian scribal convention for writing a final "i" with a descender. The same convention appears throughout these registers ("testimonij" for "testimoni", "interrogazionj" for "interrogazioni"). The actual surname is **Tori**, confirmed by the Sienese armorial database (ilpalio.siena.it), which lists the **Tori** family of Siena with arms *"Vaiato d'argento e di rosso"* (vairy argent and gules), cited in the Archivio di Stato di Firenze and Biblioteca Nazionale di Venezia (ms. 314, p. 106).
+
+**Note on the Tori family and "Sallustio" naming tradition:** The given name "Sallustio" (from the Roman historian Sallust) was characteristic of Sienese humanist naming — the most famous bearer being the economist **Sallustio Bandini** (1677–1760) of Siena. Before this 1749 marriage the name was unknown among the Addobbati. After it, the name entered the family directly: Daniele and Laura's son born 1751 was christened **Simone Sallustio Addobbati** (named for his maternal grandfather). That Sallustio then persisted for three generations — **Simon Salustio Addobbati** became Capo e Procurator dell'Università de' Cittadini and delivered the 1797 Congress speech; **Salustio Addobbati** was appointed Secretary/Chancellor of the Tribunal of Šibenik in 1798.
+
+**Applied to:** `people/d-daniele-addobbati.md` (Life, Family, Evidence sections).
+
+---
+
+## 25. Marriage Daniele Addobbati Lanfranchi 1730 — RESOLVED
+
+**File:** `Marriage Daniele Addobbati Lanfranchi Zara 1730.jpg`
+**Register:** Narrative-format Zara parish marriage book, Latin. Margin label "Adobati."
+**Confidence:** HIGH — Tony's direct transcription from cropped image.
+
+**Relevant to:** [D. Daniele Addobbati](../people/d-daniele-addobbati.md) (`@I31@`) × [Margherita Lanfranchi](../people/margherita-lanfranchi.md) (`@I125@`), union **F16**.
+
+**RESOLVED (Tony's direct transcription, Mar 2026).** Full entry (Latin):
+
+> Die 22 9bris 1730. Omissis Publicationibus, de Facultate Reverendissimi et Perillustris Domini Archiepiscopi Vincentii Zmaerich [Zmajević], ego Canonicus Petrus Bado, de licentia eiusdem Archiepiscopi, interrogavi Dominum Danielem Adobati et Dominam Margaritam filiam quondam Francisci Lanfranchi, eorumque mutuo consensu habito, matrimonio copulavi iuxta ritum Sanctae Matris Ecclesiae, praesentibus testibus notis Dominis Francisco Armanini et Petro Pilarino ac aliis multis.
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Marriage date | **22 Nov 1730** | Previously "14 Nov 1730" (misread from adjacent entry) | **CORRECTED** |
+| Language | Latin | — | Noted (earlier registers in Latin, later ones in Italian) |
+| Banns | Dispensed ("Omissis Publicationibus") by archiepiscopal faculty | Not recorded | **NEW** |
+| Officiant | **Canon Petrus Bado**, by licence of Abp Vincenzo Zmajević | Not recorded | **NEW** |
+| Bride's father | **quondam Francisci Lanfranchi** — Francesco already dead | Alive at 1716 baptism | **NEW** — death bracketed: after 1717, before Nov 1730 |
+| Witnesses | **Francesco Armanini** and **Pietro Pilarino** | Not recorded | **NEW** — Pilarino/Plarinò family connection predates 1766 marriage |
+| Entry adjacent | "Adi 14 Nov 1730" with margin "Gaspermo" is a different marriage on the same page | — | Explains original misattribution of "14 Nov" to this entry |
+
+**Applied to:** `family-tree.json` (F16 date corrected to 22 NOV 1730), `people/d-daniele-addobbati.md`, `people/margherita-lanfranchi.md`.
 
 ---
 
@@ -478,27 +673,207 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 ---
 
-## 27. Marriage Plarinò Canova Zara 1732
+## 27. Marriage Plarinò Canova Zara 1732 — RESOLVED
 
 **File:** `Marriage Plarinò Canova Zara 1732.jpg`
-**Register:** Narrative-format parish marriage book, 1732.
-**Confidence:** LOW–MEDIUM — early 18th-c. hand.
+**Register:** Narrative-format parish marriage book, Zara, 1732. Italian.
+**Confidence:** HIGH — Tony's direct transcription.
 
-**Relevant to:** Plarinò × Canova — both names appear in Sabalich's list of Addobbati marriage allies.
+**Relevant to:** [Pietro Plarino](../people/pietro-plarino.md) (`@I129@`), father of [Maddelena Plarino](../people/maddelena-plarino.md) (`@I124@`), union **F64**.
+
+**RESOLVED (Tony's direct transcription, Mar 2026).** Full entry (Italian):
+
+> Dì 19 8bre 1732. Dispensate le tre solite pubblicationi di Mons.re Ill.mo et R.mo Arciv.o Zmaiovich, con di lui permissione da Carta, D. Pietro Cortese hò congiunto in Matrimonio questo dì, precedute le mie interrogationi, e il loro mutuo consenso, il S.r Pietro Plarinò con la S.ra Margherita figlia del q.m Gio Maria Canova, in Casa di loro habitatione, presenti il S.r Dom.co Bonaielli, e il S.r Gio Batta Romani con molti altri.
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Marriage date | **19 Oct 1732** | Not recorded (F64 had null) | **NEW** — now in JSON |
+| Groom | **Pietro Plarinò** | Pietro Plarino (I129) | **Confirmed** ✓ |
+| Bride | **Margherita Canova** d/o late Giovanni Maria Canova | F64 had no wife | **NEW** — resolves open question "Mother of Maddelena" |
+| Officiant | **Don Pietro Cortese** | Not recorded | **NEW** |
+| Banns | Dispensed by Abp Zmajević (written authorization) | — | **NEW** |
+| Location | Couple's home ("in Casa di loro habitatione") | — | **NEW** |
+| Witnesses | **Domenico Bonaielli**, **Giovanni Battista Romani** | — | **NEW** |
+
+**Cross-references:**
+- Giovanni Maria Canova = the godfather "Gio: Maria Canovia [?]" at the 1715/16 baptism of Margherita Lanfranchi — surname now confirmed as **Canova** (not "Canovia").
+- The DAZD "Canona" variant for Luigi Addobbati's wife is explained: an archivist conflated the Plarinò surname with the Canova maternal surname from this intermarriage.
+- The 1730 marriage witness "Pietro Pilarino" may be the same Pietro Plarinò, connecting the families before either marriage.
+
+**Applied to:** `people/pietro-plarino.md`, `people/maddelena-plarino.md`, `people/margherita-lanfranchi.md` (godfather surname corrected), `family-tree.json` (F64 marriage date).
 
 ---
 
-## 28. Marriage Lanfranchi Doriceo Zara 1707
+## 28. Marriage Lanfranchi Doriceo Zara 1707 — RESOLVED
 
 **File:** `Marriage Lanfranchi Doriceo Zara 1707.jpg`
-**Register:** Narrative-format parish marriage book, 1707–1709.
-**Confidence:** LOW–MEDIUM — early 18th-c. Venetian hand.
+**Register:** Narrative-format parish marriage book, metropolitan church of Zara.
+**Confidence:** MEDIUM — narrative cursive with abbreviations; Archbishop's title partially illegible but consistent with Vittorio Priuli (served 1688–1712). Opening date abbreviation before "4° Giugnio" uncertain.
 
-**Relevant to:** Lanfranchi × Doriceo. The Lanfranchi family later connects to the Addobbati via the 1730 Daniele Addobbati marriage. This pushes the network back to the earliest decade of the 1700s.
+**Relevant to:** Francesco Lanfranchi × **Francesca** Doriceo — **CORRECTION:** the bride is **Francesca**, not Margaritta as previously assumed from the filename. This changes the two-wives model (see analysis below).
+
+**RESOLVED (Tony's direct transcription, Mar 2026).** Full entry:
+
+### Transcription (Italian)
+
+> **Lanfranchi** — [Adì?] 4° Giugnio 1707
+>
+> Premesse le tre solite pubblicazioni fatte in tre giorni festivi inter missarum solemnia, ne essendosi scoperto alcun legittimo impedimento, io Curato Gio: Batt[ist]a Cardini con licenza dell'Ill[ustrissi]mo e Rev[erendissi]mo Mons[igno]r Vittorio Priulli Arci[vescov]o di Zara ho congionto in matrimonio in fac[cia] [ecclesiae?] di presenti con le solennità connesse Fran[ces]co Lanfranchi della Dioce[se] di Bergamo, e Fran[ces]ca figliola del q[uonda]m Sig[no]r Gio[vanni] Doriceo, precedenti le mie interrogazioni e[d] il loro mutuo consenso. Presenti [li] Sig[no]ri Cocchian[o?] e Bratto Fr[at]elli Ponti con molti altri.
+
+### Translation (English)
+
+> **Lanfranchi** — [On the] 4th of June 1707
+>
+> After the three customary banns were published on three feast days *inter missarum solemnia*, no legitimate impediment having been discovered, I, Parish Priest Giovanni Battista Cardini, with the licence of the Most Illustrious and Most Reverend Monsignor Vittorio Priuli, Archbishop of Zara, joined in marriage in the presence [of witnesses] with the customary solemnities **Francesco Lanfranchi**, of the Diocese of Bergamo, and **Francesca**, daughter of the late Signor Giovanni Doriceo, following my interrogations and their mutual consent. Present: the gentlemen Cocchiano and Bratto, the Ponti brothers, with many others.
+
+### Extracted facts
+
+| Field | Value | Significance |
+|-------|-------|-------------|
+| Date | **4 June 1707** | Six months before Santa Lanfranchi's birth (Dec 1707) |
+| Groom | **Francesco Lanfranchi**, Diocese of Bergamo | **NEW** — confirms Lombard/Bergamasque origin; needed Archbishop's licence to marry outside home diocese |
+| Bride | **Francesca Doriceo**, daughter of the late Giovanni Doriceo | **CORRECTION** — previously assumed to be "Margaritta" from filename; actual name is **Francesca** |
+| Bride's father | **Giovanni Doriceo** (quondam = deceased) | **NEW** — maternal grandfather identified |
+| Officiant | Curato **Giovanni Battista Cardini** | — |
+| Archbishop | **Vittorio Priuli** of Zara (served 1688–1712) | Confirms date range |
+| Banns | Three published, no impediment | Standard (cf. the 1730 Addobbati marriage, which *dispensed* banns) |
+| Witnesses | **Cocchiano** and **Bratto**, the **Ponti brothers**, and many others | — |
+
+### Chronological problem — Francesca vs. Margaritta vs. Maria Scapallina
+
+The previous model had two wives: (1) Maria Scapallina → Santa (Dec 1707), then (2) Margaritta Doriceo → Margherita (Dec 1715). This marriage was assumed to record wife #2. Now that the bride is **Francesca** Doriceo, the chronology breaks:
+
+- **4 June 1707:** Francesco marries **Francesca** Doriceo
+- **~early Dec 1707:** Santa born, mother recorded as "**Maria Scapallina**" — but Francesco was already married to Francesca
+
+**Possible reinterpretations:**
+
+1. **"Maria Scapallina" was misread.** The Santa birth record (confidence: MEDIUM, father's name obscured, several surnames uncertain) may have the mother's name wrong. Santa was actually the daughter of Francesco × Francesca Doriceo, born ~6 months after the marriage (premature birth or prenuptial conception — common in this period). This is the simplest resolution.
+
+2. **Francesca and Margaritta were two different Doriceo women** — possibly sisters (both daughters of Giovanni Doriceo). Francesca married June 1707, died at some point, and Francesco then married her sister Margaritta (named as mother in 1715). The "Maria Scapallina" problem remains unexplained under this model.
+
+3. **Francesca had a double name** — baptized "Francesca Margherita" or similar, recorded differently in different registers. The 1715 baptism used "Margaritta," the 1707 marriage used "Francesca." Common in Italian records of the period. Under this reading, there were only two wives: Maria Scapallina (if correctly read) and Francesca/Margaritta Doriceo.
+
+**Resolution needed:** Re-examine the Santa Lanfranchi 1707 birth image at higher resolution to confirm or revise the "Maria Scapallina" reading. If that reading is wrong, the simplest model is: Maria Scapallina never existed, and all Lanfranchi children were from one Doriceo wife (Francesca, also called Margaritta).
 
 ---
 
-## 29–64. Birth records (1707–1760, Addobbati / Lanfranchi / Plarinò)
+## 28b. Birth Santa Lanfranchi Zara 1707 — RESOLVED
+
+**File:** `Birth Santa Lanfranchi Zara 1707.jpg`
+**Register:** Baptismal register, Duomo di Zara. Narrative-format.
+**Confidence:** MEDIUM — Tony's direct transcription from cropped image. Father's first name partially obscured; several witness surnames uncertain.
+
+**Relevant to:** Sibling of [Margherita Lanfranchi](../people/margherita-lanfranchi.md) (`@I125@`) — but reveals a **different mother**.
+
+**RESOLVED (Tony's direct transcription, Mar 2026).** Full entry:
+
+> Adì 8 Dece 1707. Io Bernard.o Stef.o Bealco Marin.o e Cur.to di Duomo di Zara hò batezzato una Bamb.a nata li porvi passao fig.a di S. [**…**] Lanfranchi … e di **Maria Scapallina** sua Leg.ma Cons.e a cui fu posto nome **Santa Michiela Isabella**. Fue Padrini il S. Cap.o **Roberto Dusian** …
+
+| Field | Extracted | Significance |
+|-------|-----------|-------------|
+| Birth date | **~early Dec 1707** ("porvi passao" = recently past) | Earliest Lanfranchi child recorded |
+| Baptism date | **8 Dec 1707** | — |
+| Child | **Santa Michiela Isabella Lanfranchi** | Not a direct ancestor (sibling line) |
+| Father | **[…] Lanfranchi** (first name obscured, presumably Francesco) | — |
+| Mother | **Maria Scapallina** | **DISCREPANCY** — Margherita's 1715 baptism names the mother as **Margaritta Doriceo** |
+| Godfather | Cap.o **Roberto Dusian** | — |
+| Officiant | **Bernardo Stefano Bealco**, Curate of the Duomo | — |
+
+**Critical finding — wives of Francesco Lanfranchi (REVISED):**
+
+The `Marriage Lanfranchi Doriceo 1707` transcription (see §28 above) reveals the bride was **Francesca** Doriceo (d/o late Giovanni Doriceo), married **4 June 1707** — six months before Santa's birth. This creates a chronological problem if "Maria Scapallina" is correctly read here: Francesco was already married to Francesca when Santa was born. See §28 for three possible reinterpretations. The most parsimonious: **"Maria Scapallina" was misread** in this difficult cursive entry, and Santa was actually the daughter of Francesco × Francesca Doriceo.
+
+Separately, the 1715 baptism names the mother as **Margaritta Doriceo** — whether Francesca and Margaritta are the same person (double name) or different Doriceo women (sisters?) remains unresolved. If Margherita and Santa share the same Doriceo mother, Margherita was a full sister, not a half-sister.
+
+**Consequence:** The half-sister / full-sister question depends on resolving the "Maria Scapallina" reading and the Francesca/Margaritta identity. The 1730 marriage register's "filiam quondam Francisci Lanfranchi" names only the father, which is consistent with any scenario.
+
+---
+
+## 29. Birth Margherita Lanfranchi Zara 1715 — RESOLVED
+
+**File:** `Birth Margherita Lanfranchi Zara 1715.jpg`
+**Register:** Baptismal register, Duomo (Cathedral) of Zara. Narrative-format. Entry dated "Adì 2 Geno: 1715" (= 2 January 1716 common style, More Veneto calendar).
+**Confidence:** HIGH — Tony's direct transcription.
+
+**Relevant to:** [Margherita Lanfranchi](../people/margherita-lanfranchi.md) (`@I125@`), wife of D. Daniele Addobbati.
+
+**RESOLVED (Tony's direct transcription, Mar 2026).** Full entry:
+
+> **Lanfranchi** — Adì 2 Geno: 1715. Io D. Giorgio Bonicelli Reverendo e Curato del Duomo di Zara per causa d'imminente necessità ho Battezato in casa una Bambina nata li 26 Xbre 1715 figlia del Sig.r Franc.o Lanfranchi procreata con la Sig.ra Margaritta Doriceo [?] sua legittima Consorte alla quale ho posto nome **Regina Margaritta**. Fu Padrino il Sig.r Gio: Maria Canovia [?]. — Adì 3 d.o Marzo [formal registration].
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Birth date | **26 Dec 1715** | Not recorded | **NEW** — fills major gap |
+| Baptism | **2 Jan 1716** (emergency, at home) | Not recorded | **NEW** — infant in danger at birth |
+| Full name | **Regina Margaritta** | Margherita | **ADDITION** — first baptismal name Regina |
+| Father | **Francesco Lanfranchi** | Not recorded | **NEW** — identifies father |
+| Mother | **Margaritta Doriceo [?]** | Not recorded | **NEW** — identifies mother (surname uncertain) |
+| Godfather | **Giovanni Maria Canovia [?]** | Not recorded | **NEW** |
+| Officiant | **Don Giorgio Bonicelli**, Curate of the Duomo | Not recorded | **NEW** |
+| More Veneto | Header "1715" = 1716 common style | — | Calendar convention noted |
+| Death | **1749** (from death register image) | Not recorded | Confirmed by `Death Margherita Lanfranchi Addobbati Zara 1749.jpg` |
+
+**Applied to:** `people/margherita-lanfranchi.md`, `people/d-daniele-addobbati.md`, `family-tree.json` (I125 birth/death dates, F16 marriage date corrected to 22 Nov 1730).
+
+---
+
+## 30. Birth Luigi Addobbati Zara 1744 — RESOLVED
+
+**File:** `Birth Luigi Addobbati Zara 1744.jpg`
+**Register:** Baptismal register, Metropolitan Church (Cathedral), Zara. Narrative-format. Italian.
+**Confidence:** MEDIUM — Tony's direct transcription; baptism month uncertain.
+
+**Relevant to:** [Luigi Anzolo Alloisio Addobbati](../people/luigi-anzolo-alloisio-addobbati.md) (`@I30@`), direct patriline.
+
+**RESOLVED (Tony's direct transcription, Mar 2026).** Full entry:
+
+> Adì ii [Nov?] 1744. D. D.n Carlo [C/F]elicinouvich Curato di q.ta Chiesa Metropolitana hò Battezato un Fanciulo nato li p.mo ottobre p.p. figlio del Sig.r Daniel Addobbati Cittadino di q.ta Città provved.o di leg.mo matrimonio co la Sig.ra Margaritta Lanfranchi; al quale vien nome Anzolo Alloisio. P.no il Sig.r Cristoffo Guardi.
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Birth date | **1 Oct 1744** | 1 Oct 1744 (@S12@, Sabalich) | **Confirmed** ✓ from primary source |
+| Baptism date | **2 Nov [?] 1744** | Not recorded | **NEW** — month uncertain but November is chronologically coherent |
+| Baptismal names | **Anzolo Alloisio** | Luigi Anzolo Alloisio | **Confirmed** ✓ — "Luigi" is the vernacular of "Alloisio" |
+| Father | **Daniel Addobbati, Cittadino di q.ta Città** | I31 | **Confirmed** ✓ |
+| Mother | **Margaritta Lanfranchi** | I125 | **Confirmed** ✓ |
+| Legitimacy | Legitimate ("provveduto di legittimo matrimonio") | — | **Confirmed** ✓ |
+| Godfather | **Cristoffo Guardi** | Not recorded | **NEW** |
+| Officiant | **Don Carlo [C/F]elicinouvich**, Curate | Not recorded | **NEW** |
+
+**Applied to:** `people/luigi-anzolo-alloisio-addobbati.md` (Life and Evidence sections).
+
+---
+
+## 31. Birth Maddalena Plarinò Zara 1736 — RESOLVED
+
+**File:** `Birth Maddalena Plarinò Zara 1736.jpg`
+**Register:** Baptismal register, Duomo (Cathedral) of Zara. Narrative-format. Italian.
+**Confidence:** MEDIUM — Tony's direct transcription. Month and priest's name uncertain; core genealogical data clear.
+
+**Relevant to:** [Maddelena Plarino](../people/maddelena-plarino.md) (`@I124@`), wife of Luigi Anzolo Alloisio Addobbati.
+
+**RESOLVED (Tony's direct transcription, Mar 2026).** Full entry:
+
+> [†] Adì a [8?] di [Giug(no)?]. Io Pre [?] Curato del Duomo ho Battezzato una Bambina nata li 4 d.o figlia del Sig.r D. Pietro Plarinò procreata da legittimo Matrimonio con la Sig.ra Margherita Canova sua legittima Consorte alla quale fu posto nome Maddalena. Furono Patrini l'Ill.mo Sig.r Tomaso Franceschi e la Sig.ra Maddalena [surname uncertain].
+
+| Field | Extracted | Vault / GEDCOM | Verdict |
+|-------|-----------|----------------|---------|
+| Birth date | **4 [Jun?] 1736** | Not recorded | **NEW** — fills open question; month uncertain |
+| Baptism date | **[8?] [Jun?] 1736** | Not recorded | **NEW** |
+| Child | **Maddalena** | Maddelena Plarino (I124) | **Confirmed** ✓ |
+| Father | **Don Pietro Plarinò** | I129 | **Confirmed** ✓ — styled "Don" here |
+| Mother | **Margherita Canova** | Not in GEDCOM (identified from 1732 marriage) | **Confirmed** ✓ from second source |
+| Legitimacy | Legitimate ("procreata da legittimo Matrimonio") | — | **Confirmed** ✓ |
+| Godfather | **Tomaso Franceschi** (Ill.mo) | Not recorded | **NEW** — Zaratine family of standing |
+| Godmother | **Maddalena [surname uncertain]** | Not recorded | **NEW** — child likely named after godmother |
+| Sibling | Maria Domenica Plarinò (b. 1734) in collection | Not recorded | **NEW** |
+
+**Applied to:** `people/maddelena-plarino.md` (full rewrite with birth, family, evidence), `family-tree.json` (I124 birth date added).
+
+---
+
+## 32–64. Birth records (1707–1760, Addobbati / Lanfranchi / Plarinò)
 
 The remaining 36 images are **birth/baptism records** spanning 1707–1760, almost entirely for children named **Addobbati**, **Lanfranchi**, or **Plarinò** born in Zara. They are narrative-format baptismal entries from the Venetian period.
 
@@ -557,7 +932,7 @@ One must be wrong or they refer to two different people. The inventory is explic
 |-------------|-------|----------------|
 | [`luigi-anzolo-alloisio-addobbati.md`](../people/luigi-anzolo-alloisio-addobbati.md) | Wife: **Maddelena Plarino** (F15). | Luigi's children with **Maddalena Canona**: Pietro, Vincenzo, **Margarita**. |
 
-Could be scribal/variant surnames (**Canona** vs **Plarino/Plarinò**), or a real mistake in one source. **Cross-reference with image #21** (Marriage Luigi Addobbati Plarinò Zara 1766): the marriage register should settle the bride's surname definitively. **Also cross-reference with image #27** (Marriage Plarinò Canova Zara 1732): if Plarinò and Canova are separate families that intermarried, then "Maddalena Canona" might be a Canova who was previously recorded under her mother's Plarinò maiden name, or vice versa.
+**RESOLVED:** The 1766 marriage register (image #21) definitively says **"Maddalena figlia del Sig.r Pietro Plarinò"**. The GEDCOM's "Plarino" is correct (missing accent). The DAZD inventory's "Canona" is wrong — likely a misreading or confusion with the separate **Plarinò × Canova marriage of 1732** (image #27), where the two families intermarried one generation earlier.
 
 **Additionally:** The DAZD inventory names a **daughter Margarita** alongside Pietro and Vincenzo — no `people/` page exists for her. The vault currently lists other siblings but not Margarita.
 
@@ -629,8 +1004,8 @@ Several findings from the two sources reinforce or constrain each other:
 
 | Image | DAZD finding | Convergence |
 |-------|-------------|-------------|
-| **#16 — Matrimonio Addobbati Coltelli 1811** | DAZD-1: Vincenzo birth date clash (1776 vs 1781) | The marriage register should give Vincenzo's age → breaks the tie. Also fills F14 marriage date. |
-| **#21 — Marriage Luigi Addobbati Plarinò 1766** | DAZD-2: Wife surname Plarino vs Canona | The marriage register settles the bride's actual surname. |
+| **#16 — Matrimonio Addobbati Coltelli 1811** | DAZD-1: Vincenzo birth date clash (1776 vs 1781) | **RESOLVED** — "d'anni 30 c.a" → supports **1781** (DAZD). Marriage date **25 Feb 1811** fills F14. Both Luigi and Maddalena "fù" (deceased). Bride's parents: Paolo Coltelli + Devina Sandri (NEW). |
+| **#21 — Marriage Luigi Addobbati Plarinò 1766** | DAZD-2: Wife surname Plarino vs Canona | **RESOLVED** — register says **"Maddalena figlia del Sig.r Pietro Plarinò"**. DAZD's "Canona" is wrong. |
 | **#25 — Marriage Daniele Addobbati Lanfranchi 1730** | DAZD-5: 1730 date predates 1733 *cittadini* | The image is independent primary confirmation of the DAZD inventory's pre-1733 dating. |
 | **#27 — Marriage Plarinò Canova 1732** | DAZD-2: Canona surname question | If Plarinò and Canova intermarried in 1732, that explains why the two surnames might be conflated one generation later for Luigi's wife. |
 | **Birth records 1731–1760** | DAZD-4: Missing daughter Margarita of Luigi | The birth record set includes many Addobbati children from this era — Margarita's birth may be among the unexamined images. |
@@ -644,12 +1019,18 @@ Several findings from the two sources reinforce or constrain each other:
 1. ~~**Re-examine Birth Antonio Zerauschek Sr. 1850** (image #11)~~ — **RESOLVED** (Mar 2026). Father is **Giuseppe [di Biagio] Zerauschek**; "Biagio" is the patronymic. GEDCOM chain confirmed. Child's full name: **Antonio Giacomo Vincenzo**. "Illegitimo" crossed out confirms premarital birth + subsequent legitimization. Mother: **Guarino Antonia** = Antonia Maria Guerino.
 2. ~~**Confirm bride's birth year in Marriage Zerauschek Herenda Pago 1878** (image #4)~~ — **RESOLVED** (Mar 2026). Tony confirms **14 February 1859** — matches GEDCOM exactly.
 3. ~~**Identify entry in Marriage Zerauschek Guerino 1850** (image #9)~~ — **No longer critical** now that the birth record confirms Giuseppe. Still worth extracting for Giuseppe's full vitals and witnesses.
-4. **Extract Vincenzo's age from Matrimonio Addobbati Coltelli 1811** (image #16) — breaks the 1776 vs 1781 birth-date tie (DAZD-1). Image is very dense narrative format; may need in-person reading.
+4. ~~**Extract Vincenzo's age from Matrimonio Addobbati Coltelli 1811** (image #16)~~ — **RESOLVED** (Mar 2026). Tony's direct reading: **"d'anni 30 c.a"** (circa 30) in Feb 1811 → born ~1781. **Strongly supports DAZD birth date of 24 Mar 1781** over Sabalich/GEDCOM 1776. Also yields: marriage date **25 Feb 1811**, both Luigi Addobbati and Maddalena **deceased** ("fù"), wife's surname **Plavina** (= Plavinò/Plarino), bride's parents **Paolo Coltelli** (notary) + **Devina Sandri** (NEW).
+
+### Additional Zerauschek clarifications (Mar 2026)
+
+- **Antonio Sr. birth month:** 1878 marriage register says "maggio" (May) but 1850 birth record says 15 March. Birth record is the primary source — marriage register has a scribal error.
+- **Giuseppe Zerauschek's occupation:** "Cocchiere" (coachman) in 1878 register vs "archivist" in family memoir. Tony: "both could be true, over time." No conflict — different life stages.
+- **Anna Herenda "orphaned at 16"** but both parents listed as living at her 1878 wedding (age 19). Tony: "we can say there is a conflict, its possible they were technically alive but abandoned her." Note the discrepancy but do not override register data.
 
 ## Tier 2 — Fill gaps in existing data
 
-5. **Extract parents from Birth Gerarda Rovaro Brizzi 1825** (image #14) — fills currently empty parentage.
-6. **Extract Luigi Addobbati marriage entry 1766** (image #21) — settles Plarino vs Canona surname (DAZD-2).
+5. ~~**Extract parents from Birth Gerarda Rovaro Brizzi 1825** (image #14)~~ — **RESOLVED** (Mar 2026). Father: **Giuseppe Rovaro Brizzi** (salt & tobacco retailer). Mother: **Annastasia Castellanich** (seamstress). Parents married **25 Aug 1821**. Gerarda born **12 July 1825**, died **10 March 1908** (was "after 1890"). Full name: **Gerarda Maria**.
+6. ~~**Extract Luigi Addobbati marriage entry 1766** (image #21)~~ — **RESOLVED** (Mar 2026). Bride is **Maddalena, daughter of Pietro Plarinò**. Surname definitively settled: **Plarinò** is correct. GEDCOM's "Plarino" = correct (missing accent). 1811's "Plavina" = scribal variant. DAZD's "Canona" = wrong (likely confusion with Plarinò × Canova 1732 intermarriage). Also confirms Luigi's father: **Daniele** (already known). Marriage: **4 April 1766**, in the bride's house, banns waived.
 7. **Add daughter Anna** to `vincenzo-giovanni-domenico-valentino-addobbati.md` (DAZD-4).
 8. **Add daughter Margarita** to `luigi-anzolo-alloisio-addobbati.md` (DAZD-4); search birth images for her record.
 9. **Link sig. 59** (Pietro medical degree) to `pietro-pio-addobbati.md` doctor-son section (DAZD-7).

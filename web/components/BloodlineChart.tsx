@@ -30,7 +30,7 @@ function PersonCard({
 
   const inner = (
     <div
-      className="group flex items-center gap-3.5 rounded-xl bg-white/92 px-4 py-3.5 shadow-xl ring-1 ring-black/5 backdrop-blur-sm transition-all hover:bg-white hover:shadow-2xl"
+      className="group flex min-h-[22vh] items-center gap-2 rounded-xl bg-white/92 px-2.5 py-3 shadow-xl ring-1 ring-black/5 backdrop-blur-sm transition-all hover:bg-white hover:shadow-2xl sm:min-h-[20vh] sm:gap-2.5 sm:px-3 md:min-h-0 md:gap-3.5 md:px-4 md:py-3.5"
       style={{
         borderLeft: side === "left" ? `3px solid ${color}` : undefined,
         borderRight: side === "right" ? `3px solid ${color}` : undefined,
@@ -41,7 +41,7 @@ function PersonCard({
         <img
           src={node.photo.url}
           alt={name}
-          className="h-12 w-12 flex-none rounded-full object-cover ring-2 ring-white shadow"
+          className="h-14 w-14 flex-none rounded-full object-cover ring-2 ring-white shadow sm:h-15 sm:w-15 md:h-12 md:w-12"
           style={{
             objectPosition: node.photo.focal
               ? `${Math.round(node.photo.focal[0] * 100)}% ${Math.round(node.photo.focal[1] * 100)}%`
@@ -51,7 +51,7 @@ function PersonCard({
         />
       ) : (
         <div
-          className="flex h-12 w-12 flex-none items-center justify-center rounded-full text-sm font-bold text-white shadow"
+          className="flex h-14 w-14 flex-none items-center justify-center rounded-full text-sm font-bold text-white shadow sm:h-15 sm:w-15 sm:text-base md:h-12 md:w-12 md:text-sm"
           style={{ backgroundColor: color }}
         >
           {name
@@ -62,11 +62,17 @@ function PersonCard({
             .join("")}
         </div>
       )}
-      <div className="min-w-0 flex-1">
-        <p className="truncate text-sm font-semibold text-zinc-900">{name}</p>
-        {yearStr && <p className="text-xs text-zinc-500">{yearStr}</p>}
+      <div className="min-w-0 flex-1 py-0.5">
+        <p className="wrap-break-word text-sm font-semibold leading-snug text-zinc-900 md:text-sm">
+          {name}
+        </p>
+        {yearStr && (
+          <p className="mt-0.5 text-xs text-zinc-500 sm:text-[13px] md:mt-0 md:text-xs">
+            {yearStr}
+          </p>
+        )}
         {node.role && (
-          <p className="mt-0.5 truncate text-[11px] leading-tight text-zinc-400 italic">
+          <p className="mt-0.5 wrap-break-word text-[11px] leading-snug text-zinc-400 italic sm:text-xs md:mt-0.5 md:text-[11px]">
             {node.role}
           </p>
         )}
@@ -86,8 +92,10 @@ function PersonCard({
 
 function EmptySlot({ lineLabel }: { side: "left" | "right"; lineLabel: string }) {
   return (
-    <div className="flex h-[76px] items-center justify-center rounded-xl border border-dashed border-white/20 px-4">
-      <p className="text-xs text-white/30 italic">{lineLabel} line ends</p>
+    <div className="flex min-h-[22vh] items-center justify-center rounded-xl border border-dashed border-white/20 px-2.5 py-3 sm:min-h-[20vh] md:h-[76px] md:min-h-0 md:px-4 md:py-0">
+      <p className="text-center text-[11px] text-white/30 italic sm:text-xs md:text-xs">
+        {lineLabel} line ends
+      </p>
     </div>
   );
 }
@@ -105,6 +113,21 @@ export function BloodlineChart({ data }: Props) {
     ({ data: stepIndex }: { data: number }) => {
       setActiveStep(stepIndex);
       setHeroVisible(false);
+    },
+    [],
+  );
+
+  const handleStepExit = useCallback(
+    ({
+      data: stepIndex,
+      direction,
+    }: {
+      data: number;
+      direction: "up" | "down";
+    }) => {
+      if (stepIndex !== 0 || direction !== "up") return;
+      setHeroVisible(true);
+      setActiveStep(-1);
     },
     [],
   );
@@ -303,13 +326,13 @@ export function BloodlineChart({ data }: Props) {
             }}
           >
             <p className="mb-4 text-xs font-semibold uppercase tracking-[0.25em] text-white/50 md:text-sm">
-              1495 – present
+              Archer &amp; Sloan · Tony &amp; Jacquie · Ivor &amp; Kitty — then deep past
             </p>
             <h1 className="max-w-3xl text-4xl font-bold leading-tight tracking-tight text-white md:text-6xl lg:text-7xl">
               Bloodlines
             </h1>
             <p className="mt-5 max-w-xl text-base leading-relaxed text-white/60 md:text-lg">
-              Two lineages traced back through the centuries — the{" "}
+              From this generation backward — two lineages through the centuries — the{" "}
               <span style={{ color: stumpColor }} className="font-semibold">
                 Stumps
               </span>{" "}
@@ -355,10 +378,14 @@ export function BloodlineChart({ data }: Props) {
           </div>
 
           {/* Steps */}
-          <Scrollama onStepEnter={handleStepEnter} offset={0.45}>
+          <Scrollama
+            onStepEnter={handleStepEnter}
+            onStepExit={handleStepExit}
+            offset={0.45}
+          >
             {steps.map((step, i) => (
               <Step key={i} data={i}>
-                <div className="px-4 py-[18vh] first:pt-[5vh] last:pb-[35vh] md:px-6">
+                <div className="px-3 py-[18vh] first:pt-[5vh] last:pb-[35vh] sm:px-4 md:px-6">
                   <div className="mx-auto max-w-4xl">
                     {/* Era label */}
                     <div className="mb-4 text-center">
@@ -367,8 +394,8 @@ export function BloodlineChart({ data }: Props) {
                       </span>
                     </div>
 
-                    {/* Two columns */}
-                    <div className="flex items-start gap-4 md:gap-6">
+                    {/* Always two columns — matches split background; tight gutter on small screens */}
+                    <div className="flex items-stretch gap-1.5 sm:gap-2 md:items-start md:gap-6">
                       {/* Stump (left) */}
                       <div className="min-w-0 flex-1">
                         {step.stump ? (
@@ -384,7 +411,7 @@ export function BloodlineChart({ data }: Props) {
                       </div>
 
                       {/* Center connector dot */}
-                      <div className="flex flex-col items-center justify-center pt-3">
+                      <div className="flex w-4 shrink-0 flex-col items-center justify-center md:w-auto md:pt-3">
                         <div className="h-2.5 w-2.5 rounded-full bg-white/30 ring-2 ring-white/10" />
                       </div>
 

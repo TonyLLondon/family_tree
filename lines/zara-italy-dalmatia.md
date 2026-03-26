@@ -38,7 +38,7 @@
 | [Ester Addobbati](../people/ester-addobbati.md) | Wife; links Addobbati narrative to Zerauschek |
 | [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) | Bridge to [David John Lewis](../people/david-john-lewis.md) |
 | [Pietro Pio Addobbati](../people/pietro-pio-addobbati.md) | Addobbati trunk (see narrative) |
-| [Antonio Zerauschek (senior)](../people/antonio-zerauschek-senior.md) | `@I25@` — do not conflate with `@I14@` |
+| [Antonio Zerauschek (senior)](../people/antonio-zerauschek-senior.md) | `@I25@` — father of `@I14@` |
 
 **Parish / civil images:** [media/collections/zerauschek/](../media/collections/zerauschek/)
 

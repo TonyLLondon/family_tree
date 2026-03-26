@@ -13,16 +13,21 @@ spouses:
   - maureen-catherine-finbarr-white
 children:
   - catherine-stump
+role: Le Rosey — art and tennis teacher; artist
 ---
 
 # Robert Marc Murard Stump
 
-**Tehran-born** son of [Étienne Stump](etienne-stump.md) and [Henriette Bottin Burgess](henriette-bottin.md) (GEDCOM **F6**: `@I16@` + `@I76@`); husband of [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md). Bridges **Qajar/Pahlavi Tehran** to **post-war European** residence (Lausanne). Patriline continues **upward** through Étienne to [Marc Francois Stump](marc-francois-stump.md) (**F70**).
+**Tehran-born** son of [Étienne Stump](etienne-stump.md) and [Henriette Bottin Burgess](henriette-bottin.md) (GEDCOM **F6**: `@I16@` + `@I76@`); husband of [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md) — known in the family as **Molly**. He left **Persia in about 1920** and spent much of his adult life in **Switzerland** and **France**, with **England** during the war where the couple met. Patriline continues **upward** through Étienne to [Marc Francois Stump](marc-francois-stump.md) (**F70**).
 
 ## Life
 
 - **25 Oct 1910** — Born **Tehran, Iran** (GEDCOM).
-- **19 Aug 1944** — Married Maureen White (family **F3**).
+- **c. 1920** — Left **Iran** with the family’s move out of **Qajar/Pahlavi** Tehran (family account).
+- **Switzerland · Geneva area** — Taught at **Institut Le Rosey** (boarding school, Rolle / Gstaad), Switzerland’s “Le Rosey”: **art** (studio teacher and practising **artist**) and **tennis** (family account).
+- **France** — Kept a **home in the south of France** near **Marseille**, used across the year when not in Switzerland or England (family account).
+- **Second World War · England** — In **Essex**; met [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md) (**Molly**) there during the war. **Both were teachers** (family account).
+- **19 Aug 1944** — Married Maureen White (family **F3**) (GEDCOM).
 - **1997** — Died **Lausanne, Switzerland** (Henderson [Stump Family Tree chart](../sources/stump-family-tree-chart.md); GEDCOM had 1996).
 
 ## Family
@@ -39,6 +44,7 @@ children:
 - Visual context (parents’ generation): [Henriette passport](../media/docs/Henriette%20Stump%20passport%20signalement%20born%20Tehran%201886%20photos%20pages%204-5.jpg) · [1909 album page](../media/docs/Album%20page%201909%20Henriette%20Etienne%20Stump%20five%20vintage%20photos%20note.jpg).
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection one-page pedigree.
 - [family-tree.json](../family-tree.json).
+- **Teaching, Le Rosey, Provence, Essex courtship** — Family knowledge (2026); to be tied to school records, wartime address trails, or art catalogues when available.
 
 ## Open questions
 

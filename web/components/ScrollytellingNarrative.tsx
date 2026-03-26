@@ -73,6 +73,29 @@ export function ScrollytellingNarrative({
     [slugForIndex],
   );
 
+  const handleStepExit = useCallback(
+    ({
+      data,
+      direction,
+    }: {
+      data: number;
+      direction: "up" | "down";
+    }) => {
+      if (data !== 0 || direction !== "up") return;
+      setHeroVisible(true);
+      setActiveStep(-1);
+      if (typeof window !== "undefined" && lastPushedHash.current) {
+        lastPushedHash.current = "";
+        history.replaceState(
+          null,
+          "",
+          `${window.location.pathname}${window.location.search}`,
+        );
+      }
+    },
+    [],
+  );
+
   useEffect(() => {
     const scrollToHash = () => {
       const hash = window.location.hash.replace(/^#/, "");
@@ -217,7 +240,11 @@ export function ScrollytellingNarrative({
           </div>
 
           {/* ── Scrollama steps ───────────────────────────────────────── */}
-          <Scrollama onStepEnter={handleStepEnter} offset={0.45}>
+          <Scrollama
+            onStepEnter={handleStepEnter}
+            onStepExit={handleStepExit}
+            offset={0.45}
+          >
             {scrollySections.map((section, i) => (
               <Step key={section.slug || i} data={i}>
                 <div
