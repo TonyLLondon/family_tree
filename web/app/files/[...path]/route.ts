@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { REPO_ROOT } from "@/lib/paths";
+import { decodeUriPathSegment } from "@/lib/vaultLinks";
 
 const MIME: Record<string, string> = {
   ".pdf": "application/pdf",
@@ -30,7 +31,7 @@ export async function GET(
     return new Response("Not found", { status: 404 });
   }
 
-  const decoded = segments.map((s) => decodeURIComponent(s));
+  const decoded = segments.map((s) => decodeUriPathSegment(s));
   const rel = decoded.join(path.sep);
   const abs = path.resolve(path.join(REPO_ROOT, rel));
   const rootResolved = path.resolve(REPO_ROOT);
