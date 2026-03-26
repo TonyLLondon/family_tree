@@ -1,9 +1,9 @@
-import fs from "fs";
 import path from "path";
 import Link from "next/link";
+import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 import matter from "gray-matter";
-import { REPO_ROOT } from "@/lib/paths";
+import { readVaultFileUtf8ForView } from "@/lib/readVaultFileForView";
 import { decodeUriPathSegment } from "@/lib/vaultLinks";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { SiteNav } from "@/components/SiteNav";
@@ -48,19 +48,17 @@ export default async function FileViewPage({ params }: Props) {
 
   const decoded = segments.map((s) => decodeUriPathSegment(s));
   const rel = decoded.join("/");
-  const abs = path.resolve(path.join(REPO_ROOT, rel));
-  const rootResolved = path.resolve(REPO_ROOT);
 
-  if (!abs.startsWith(rootResolved + path.sep) && abs !== rootResolved) {
-    notFound();
-  }
-  if (!fs.existsSync(abs) || !fs.statSync(abs).isFile()) {
-    notFound();
-  }
+  const h = await headers();
+  const host = h.get("x-forwarded-host") ?? h.get("host");
+  const proto = h.get("x-forwarded-proto") ?? "http";
+  const selfOrigin = host ? `${proto}://${host}` : undefined;
 
-  const ext = path.extname(abs).toLowerCase();
-  const raw = fs.readFileSync(abs, "utf8");
-  const rawUrl = `/files/${rel}?raw`;
+  const raw = await readVaultFileUtf8ForView(rel, selfOrigin);
+  if (raw === null) notFound();
+
+  const ext = path.extname(rel).toLowerCase();
+  const rawUrl = `/files/${decoded.map(encodeURIComponent).join("/")}?raw`;
 
   if (ext === ".md") {
     return <MarkdownView raw={raw} filePath={rel} rawUrl={rawUrl} />;
