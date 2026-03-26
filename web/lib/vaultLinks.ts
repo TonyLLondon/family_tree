@@ -83,7 +83,6 @@ export function resolveVaultHref(currentFileRelPosix: string, raw: string): stri
 
   joined = joined.replace(/\/$/, "");
 
-  if (joined === "family-tree.json") return `/chart${hashSuffix}`;
   if (joined === "index.md") return `/${hashSuffix}`;
 
   const mdRoute = (
@@ -136,7 +135,7 @@ export function resolveVaultHref(currentFileRelPosix: string, raw: string): stri
     joined.startsWith("archive/") ||
     joined.startsWith("media/") ||
     joined.startsWith("scripts/") ||
-    /\.(ged|pdf|png|jpe?g|jfif|tif|tiff|webp|gif|xml|html|txt)$/i.test(joined)
+    /\.(ged|json|pdf|png|jpe?g|jfif|tif|tiff|webp|gif|xml|html|txt)$/i.test(joined)
   ) {
     return `${toFilesUrl(joined)}${hashSuffix}`;
   }

@@ -7,7 +7,7 @@
 | `family-tree.json` | **Single source of truth** for structured tree (web app). **Schema 2:** topology + rich optional fields (vitals, `alsoKnownAs`, `personPage`, etc.). **Master workflow:** edit JSON and/or `people/*.md` (`treeId`), then run `scripts/sync_family_tree_json.py` (vault + existing JSON win; GEDCOM only fills gaps). Wrapper: `scripts/merge_gedcom_vitals_into_family_tree.py`. Validate: `scripts/validate_family_tree_json.py`. |
 | `lines/persia.md` | Human hub: outline, Mermaid, tables, source index (Persia line). |
 | `people/*.md` | One file per person; YAML frontmatter + prose + links. Planning: `ancestor-coverage-list.md`, `person-pages-extension-plan.md`. |
-| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `stories/`, `lines/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/` and `sources/corpus/` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
+| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `stories/`, `lines/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/`, `sources/corpus/`, and `family-tree.json` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
 
 ## Primary workflow (read → write)
 
@@ -94,8 +94,8 @@ Optional tooling—not a substitute for reading corpus files and editing prose.
 The `/files/[...path]` API route uses `fs.readFileSync` at runtime, which works for local dev but not on Vercel's serverless functions (files aren't on the function's filesystem). Instead:
 
 1. `web/scripts/copy-static-files.mjs` runs before `next build` (via the `build` script in `package.json`).
-2. It copies `../media/` and `../sources/corpus/` into `web/public/files/`.
-3. Next.js serves `public/files/` as static CDN assets — requests to `/files/media/…` and `/files/sources/corpus/…` are served from the edge without invoking a serverless function.
+2. It copies `../media/`, `../sources/corpus/`, and repo-root `family-tree.json` into `web/public/files/` (same paths as `/files/…` on the site).
+3. Next.js serves `public/files/` as static CDN assets — requests to `/files/media/…`, `/files/sources/corpus/…`, and `/files/family-tree.json` are served from the edge without invoking a serverless function.
 4. `web/public/files/` is gitignored (build artifact, regenerated each deploy).
 5. `next.config.ts` has `outputFileTracingExcludes` to prevent the ~1 GB of static files from being bundled into serverless functions (Vercel's 300 MB function limit).
 
@@ -149,6 +149,17 @@ Stories are **visual-rich scrollytelling pages** on the web app, not plain markd
 3. Create `stories/<slug>.scrolly.json` matching the number of `##` sections to `scrollyStepCount` and `steps[]`.
 4. Link the story from the relevant `lines/*.md` hub (not from unrelated line hubs — Evans stories link from `evans-cerpa-perez-london-chile.md`, not from `lewis-wales-stump-europe.md`).
 5. Test locally: `cd web && npm run dev` → visit `/stories/<slug>`.
+
+## Editorial voice
+
+Treat **reader-facing genealogy** as distinct from **working vault** material.
+
+| Audience / role | Paths | Voice |
+|-----------------|-------|--------|
+| **Prose & engagement** | `people/*.md`, `topics/*.md`, `stories/*.md`, narrative sections of `lines/*.md` | Continuous prose: clear biographical or topical writing that a non-genealogist can read. Lead with people, places, and story; explain context in plain language. |
+| **Working vault** | `research/`, `manual/`, `index.md`, `sources/*.md` cards, `sources/corpus/*` extracts | Operational detail is fine: tables, filing codes, wishlists, GEDCOM/file-level provenance, sync notes, “next steps.” |
+
+When **people/topics/stories/lines** need machine or export identifiers (`treeId`, GEDCOM `@I…@`, FamilySearch IDs), keep them in YAML frontmatter and/or a compact **Evidence** / **Sources & identifiers** section so the main body reads like an article, not a database dump.
 
 ## Conventions
 

@@ -17,6 +17,7 @@ const MIME: Record<string, string> = {
   ".txt": "text/plain",
   ".html": "text/html",
   ".xml": "application/xml",
+  ".json": "application/json; charset=utf-8",
   ".md": "text/markdown; charset=utf-8",
   ".yaml": "text/yaml; charset=utf-8",
   ".yml": "text/yaml; charset=utf-8",

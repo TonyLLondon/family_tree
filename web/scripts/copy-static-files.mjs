@@ -20,6 +20,9 @@ const DIRS_TO_COPY = [
   "sources/corpus",
 ];
 
+/** Repo-root files mirrored to public/files/ (same paths as /files/... on the site). */
+const ROOT_FILES_TO_COPY = ["family-tree.json"];
+
 function rmrf(p) {
   if (fs.existsSync(p)) fs.rmSync(p, { recursive: true, force: true });
 }
@@ -41,6 +44,18 @@ for (const rel of DIRS_TO_COPY) {
   const dst = path.join(dest, rel);
   console.log(`  ${rel}/ → public/files/${rel}/`);
   copyDir(src, dst);
+}
+
+for (const rel of ROOT_FILES_TO_COPY) {
+  const src = path.join(repoRoot, rel);
+  const dst = path.join(dest, rel);
+  if (!fs.existsSync(src)) {
+    console.log(`  skip (not found): ${rel}`);
+    continue;
+  }
+  fs.mkdirSync(path.dirname(dst), { recursive: true });
+  fs.copyFileSync(src, dst);
+  console.log(`  ${rel} → public/files/${rel}`);
 }
 
 console.log("copy-static-files: done");

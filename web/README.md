@@ -30,7 +30,7 @@ npm start
 | `/corpus`, `/corpus/[slug]` | Corpus bundle file listings + links via `/files/...` |
 | `/vault/research/...`, `/vault/manual/...` | `../research/**`, `../manual/**` |
 | `/chart` | Fan chart from `../family-tree.json` (root **I1**) |
-| `/files/...` | Any file under repo root (path traversal blocked) |
+| `/files/...` | Prebuild copy: `media/`, `sources/corpus/`, `family-tree.json` → static CDN on Vercel; local dev reads from repo via route |
 
 ## Photos
 
