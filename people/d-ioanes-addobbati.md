@@ -22,7 +22,7 @@ GEDCOM **`@I32@`** uses **NPFX Captain** ("**Captain**"); **F17** lists **HUSB @
 ## Family
 
 - Father: [D. Daniel Addobbati](d-daniel-addobbati.md) (**F18**).
-- Children: [D. Daniele Addobbati](d-daniele-addobbati.md) (1702, per **F17**); **D. Laurentius** (1705, not in GEDCOM); **D. Iosephus** (1709, not in GEDCOM).
+- Children: [D. Daniele Addobbati](d-daniele-addobbati.md) (1702, per **F17**); **D. Laurentius** (1705, not in GEDCOM; married **Anzola Plavino**, son Zuanne born Zara 1731 per DAZD inventory §2.2); **D. Iosephus** (1709, not in GEDCOM).
 
 ## Evidence
 

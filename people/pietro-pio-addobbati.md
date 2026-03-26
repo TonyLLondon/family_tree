@@ -41,6 +41,7 @@ The Addobbati, despite their civic standing, defied the gentry convention of not
 - GEDCOM **`@I20@`**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - **Marriage register, Entry N. 8, 12 Feb 1890 (Basilica Metropolitana, Zara):** full details of both spouses, parents' occupations and vital status, four witnesses — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **DAZD sig. 59 (29 May 1915):** Copy of certificate of completion of medical studies of Pietro Addobbati, "nephew of Simeone Addobbati" — 2 leaves, Latin. Identifies the eldest son (doctor who died in Trieste) as **Pietro Addobbati** — [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - [family-tree.json](../family-tree.json).
 
 ## Context

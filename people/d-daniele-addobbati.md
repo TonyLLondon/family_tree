@@ -13,7 +13,7 @@ children:
 
 # D. Daniele Addobbati
 
-Father of [Luigi Anzolo Alloisio Addobbati](luigi-anzolo-alloisio-addobbati.md) in **F16** with [Margherita Lanfranchi](margherita-lanfranchi.md). **"D."** = **Don** (honorific) in Dalmatian Catholic registers. Progenitor of the Zara Addobbati branch — one of three brothers who crossed the Adriatic from the Venetian Terraferma in 1733. His 1749 remarriage to **Laura Tori**, daughter of a Sienese nobleman, brought the first connection to Italian minor nobility into the Addobbati family — previously *cittadini* of artisan-officer origins from Bergamo.
+Father of [Luigi Anzolo Alloisio Addobbati](luigi-anzolo-alloisio-addobbati.md) in **F16** with [Margherita Lanfranchi](margherita-lanfranchi.md). **"D."** = **Don** (honorific) in Dalmatian Catholic registers. Progenitor of the Zara Addobbati branch — one of three brothers who crossed the Adriatic from the Venetian Terraferma, present in the Zara contado by 1728 (Turanj registers) and in Zara itself by 1730 (his marriage); formally admitted as *cittadini* 1733. His 1749 remarriage to **Laura Tori**, daughter of a Sienese nobleman, brought the first connection to Italian minor nobility into the Addobbati family — previously *cittadini* of artisan-officer origins from Bergamo.
 
 ## Life
 
@@ -36,7 +36,7 @@ Father of [Luigi Anzolo Alloisio Addobbati](luigi-anzolo-alloisio-addobbati.md) 
 
 ### Brother Lorenzo's line
 
-Lorenzo (1705) received a Grimani land investiture at **Nadin** in the contado of Zara (1756); served as *Deputato foraneo di Sanità* during the plague at **Dobropolci** (1770). His son **Giuseppe** was *Capitano delle Craine* (border militia captain, 1770). The Dominican friar **Padre Daniele** (doctorate in Theology 1789, became *Priore*; portrait at the Biblioteca Paravia) was also from this branch (Sabalich p. 504).
+Lorenzo (1705) married **Anzola Plavino** — their son **Zuanne** was born in Zara in 1731 (per DAZD inventory §2.2), confirming the family was settled before the 1733 admission. Lorenzo received a Grimani land investiture at **Nadin** in the contado of Zara (1756); served as *Deputato foraneo di Sanità* during the plague at **Dobropolci** (1770). His son **Giuseppe** was *Capitano delle Craine* (border militia captain, 1770). The notary **Angelo Addobbati q.m Lorenzo** (DAZD sig. 56, 1806–1817) was from this branch. The Dominican friar **Padre Daniele** (doctorate in Theology 1789, became *Priore*; portrait at the Biblioteca Paravia) was also from this branch (Sabalich p. 504).
 
 ## Evidence
 

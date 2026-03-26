@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Parral to Camden",
+    "subtitle": "Helia Cerpa-Pérez — Allende, exile, and thirty years of housing advocacy on a London council estate",
+    "era": "1943 – 2025"
+  },
+  "scrollyStepCount": 8,
+  "steps": [
+    {
+      "era": "1943 – 1970",
+      "media": {
+        "src": "media/context/chile-exile/parral-main-street-2013.jpg",
+        "alt": "Aníbal Pinto main avenue in Parral, Chile — the small agricultural city in the Maule region where Helia Cerpa-Pérez was born in 1943",
+        "caption": "Parral, Maule, Chile — birthplace of Pablo Neruda and of Helia Cerpa-Pérez. The town later housed a DINA intelligence headquarters"
+      }
+    },
+    {
+      "era": "1970 – 1973",
+      "media": {
+        "src": "media/context/chile-exile/allende-un-new-york-1970.jpg",
+        "alt": "Salvador Allende, President of Chile, photographed at the United Nations in New York between 1970 and 1973",
+        "caption": "Salvador Allende at the United Nations, c. 1970–73. Photograph by Bernard Gotfryd, Library of Congress. Helia worked within the Allende government"
+      }
+    },
+    {
+      "era": "11 September 1973",
+      "media": {
+        "src": "media/context/chile-exile/golpe-de-estado-la-moneda-1973.jpg",
+        "alt": "The bombing of La Moneda presidential palace during the Chilean military coup of 11 September 1973",
+        "caption": "La Moneda under bombardment, 11 September 1973. Biblioteca del Congreso Nacional de Chile. Three of Helia's uncles later appeared on the Valech torture-victim lists"
+      }
+    },
+    {
+      "era": "1973 – 1978",
+      "media": {
+        "src": "media/context/chile-exile/la-moneda-palace-santiago.jpg",
+        "alt": "The Palacio de la Moneda, Santiago, rebuilt after the 1973 coup — a symbol of Chilean democratic restoration",
+        "caption": "La Moneda rebuilt. The Italian embassy in Santiago sheltered 700 people after the coup; Piero De Masi bought mattresses with his own money"
+      }
+    },
+    {
+      "era": "1974 – 1982",
+      "media": {
+        "src": "media/context/chile-exile/chile-solidarity-campaign-london-1979.jpg",
+        "alt": "Chile Solidarity Campaign national demonstration at Trafalgar Square, London, 16 September 1979",
+        "caption": "Trafalgar Square, 16 September 1979. Photograph by Gillfoto. The Chile Solidarity Campaign had sixty local committees and thirty affiliated trade unions by 1976"
+      }
+    },
+    {
+      "era": "1980s – 2023",
+      "media": {
+        "src": "media/context/london-clerkenwell/ossulston-walker-house.jpg",
+        "alt": "Walker House, Ossulston Estate, Somers Town, Camden — the Grade II listed council estate where Helia settled after exile from Chile",
+        "caption": "Walker House, Ossulston Estate, Somers Town. Built 1929–31 by the LCC. Helia represented the Ossulston Tenants and Residents Association for over a decade"
+      }
+    },
+    {
+      "era": "1998 – 2000",
+      "media": {
+        "src": "media/context/chile-exile/wentworth-estate-surrey.jpg",
+        "alt": "Wentworth Estate, Virginia Water, Surrey — the gated luxury estate where General Pinochet was held under house arrest from December 1998 to March 2000",
+        "caption": "Wentworth Estate, Virginia Water, Surrey. Pinochet was held at 28 Lindale Close ('Twin Pines'), rented by the Chilean government for £10,000 a month. Helia protested at the gates"
+      }
+    },
+    {
+      "era": "2004 – 2025",
+      "media": {
+        "src": "media/context/chile-exile/museo-memoria-santiago-2019.jpg",
+        "alt": "Museo de la Memoria y los Derechos Humanos, Santiago — the national museum commemorating victims of the Chilean dictatorship",
+        "caption": "Museo de la Memoria y los Derechos Humanos, Santiago, 2019. Photograph by Carlos Figueroa Rojas. The Valech commissions recognised over 40,000 victims"
+      }
+    }
+  ]
+}

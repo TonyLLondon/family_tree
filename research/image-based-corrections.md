@@ -786,6 +786,12 @@ The `Marriage Lanfranchi Doriceo 1707` transcription (see §28 above) reveals th
 
 Separately, the 1715 baptism names the mother as **Margaritta Doriceo** — whether Francesca and Margaritta are the same person (double name) or different Doriceo women (sisters?) remains unresolved. If Margherita and Santa share the same Doriceo mother, Margherita was a full sister, not a half-sister.
 
+**Evidence assessment (Mar 2026):**
+
+A systematic search of the repo and DAZD corpus found **no evidence for a second adult male Lanfranchi in Zara c. 1707**. Francesco Lanfranchi is the only securely attested early Lanfranchi male across three independent records (1707 marriage, 1715 baptism, 1730 marriage). A **Pietro Lanfranchi** appears later as a merchant in Calle Larga (1776 letter from Bergamo, DAZD sig. 51), proving the surname persisted, but he is far too late to evidence a second man in 1707. The sibling baptism images (1708, 1710, 1717) were examined but seam damage and archival stickers obscure the parent-name lines — no second male Lanfranchi was found. The Santa birth entry remains the weakest and most distortion-prone record in the set.
+
+**Current status:** OPEN QUESTION. The "Maria Scapallina" reading is the single point of failure. Resolution path: (1) professional paleographer on the Santa 1707 birth entry, or (2) secure mother's-name reading from any of the 1708–1717 sibling baptisms.
+
 **Consequence:** The half-sister / full-sister question depends on resolving the "Maria Scapallina" reading and the Francesca/Margaritta identity. The 1730 marriage register's "filiam quondam Francisci Lanfranchi" names only the father, which is consistent with any scenario.
 
 ---
@@ -1031,15 +1037,15 @@ Several findings from the two sources reinforce or constrain each other:
 
 5. ~~**Extract parents from Birth Gerarda Rovaro Brizzi 1825** (image #14)~~ — **RESOLVED** (Mar 2026). Father: **Giuseppe Rovaro Brizzi** (salt & tobacco retailer). Mother: **Annastasia Castellanich** (seamstress). Parents married **25 Aug 1821**. Gerarda born **12 July 1825**, died **10 March 1908** (was "after 1890"). Full name: **Gerarda Maria**.
 6. ~~**Extract Luigi Addobbati marriage entry 1766** (image #21)~~ — **RESOLVED** (Mar 2026). Bride is **Maddalena, daughter of Pietro Plarinò**. Surname definitively settled: **Plarinò** is correct. GEDCOM's "Plarino" = correct (missing accent). 1811's "Plavina" = scribal variant. DAZD's "Canona" = wrong (likely confusion with Plarinò × Canova 1732 intermarriage). Also confirms Luigi's father: **Daniele** (already known). Marriage: **4 April 1766**, in the bride's house, banns waived.
-7. **Add daughter Anna** to `vincenzo-giovanni-domenico-valentino-addobbati.md` (DAZD-4).
-8. **Add daughter Margarita** to `luigi-anzolo-alloisio-addobbati.md` (DAZD-4); search birth images for her record.
-9. **Link sig. 59** (Pietro medical degree) to `pietro-pio-addobbati.md` doctor-son section (DAZD-7).
+7. ~~**Add daughter Anna** to `vincenzo-giovanni-domenico-valentino-addobbati.md` (DAZD-4)~~ — **DONE** (already on page).
+8. ~~**Add daughter Margarita** to `luigi-anzolo-alloisio-addobbati.md` (DAZD-4)~~ — **DONE** (already on page).
+9. ~~**Link sig. 59** (Pietro medical degree) to `pietro-pio-addobbati.md` doctor-son section (DAZD-7)~~ — **DONE** (Mar 2026).
 
 ## Tier 3 — Enrichment and linking
 
-10. **Link all 64 images** to relevant `people/*.md` files with repo-relative paths.
+10. ~~**Link all 64 images** to relevant `people/*.md` files with repo-relative paths~~ — **DONE** (Mar 2026). All 64 images connected to person pages.
 11. **Investigate Casimiro Carobbi death date** (image #6) vs the memoir's "Zio Casimiro" timeline.
 12. **Map the Boara siblings** using birth records #7, #10 and marriage records #3, #5, #12.
-13. **Update 1733 wording** on `d-daniele-addobbati.md` / `d-ioanes-addobbati.md` to incorporate 1728/1730 pre-*cittadini* register hits (DAZD-5).
-14. **Add DAZD sig numbers** as evidence bullets on `pietro-paolo-addobbati.md` and `simeone-gilberto-addobbati.md` (DAZD-7).
-15. **Tie Giuseppe Addobbati sardine petition** (sig. 53) to `luigi-anzolo-alloisio-addobbati.md` (DAZD-4).
+13. ~~**Update 1733 wording** on `d-daniele-addobbati.md` / `d-ioanes-addobbati.md` to incorporate 1728/1730 pre-*cittadini* register hits (DAZD-5)~~ — **DONE** (Mar 2026). Also added Lorenzo's wife (Anzola Plavino) and 1731 son (Zuanne) from DAZD §2.2; added notary Angelo Addobbati q.m Lorenzo (sig. 56).
+14. ~~**Add DAZD sig numbers** as evidence bullets on `pietro-paolo-addobbati.md` and `simeone-gilberto-addobbati.md` (DAZD-7)~~ — **DONE** (Mar 2026). Pietro Paolo: sigs 38–40; Simeone: sigs 41–44, 59.
+15. ~~**Tie Giuseppe Addobbati sardine petition** (sig. 53) to `luigi-anzolo-alloisio-addobbati.md` (DAZD-4)~~ — **DONE** (Mar 2026).

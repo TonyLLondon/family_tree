@@ -6,7 +6,13 @@ title: Evans · Cerpa Pérez — London & Chile
 
 **Scope:** The **London Evans** line from Holborn and Islington (via [Alfred Edward William Evans](../people/alfred-edward-william-evans.md) and his son [Joseph Evans (1940)](../people/joseph-evans-i18.md)) and the **Chilean Maule** ancestry of [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) — the union (**F9**, 1982) that brings the Americas into the same structured tree as the Welsh Lewis branch. **Master topology:** [family-tree.json](../family-tree.json). **Sibling hub (Wales, Baltic, Ireland):** [Lewis · Stump · Europe](lewis-wales-stump-europe.md).
 
-This page is the **working hub** for registers, civil records, and family media that are still thin compared with the Persia and Dalmatia corpora; it names the key JSON anchors so research can accumulate in one place. **Narrative:** [The Spencers and the Evans: Five Generations Between Clerkenwell and Islington](../stories/evans-islington-clerkenwell.md).
+This page is the **working hub** for registers, civil records, and family media that are still thin compared with the Persia and Dalmatia corpora; it names the key JSON anchors so research can accumulate in one place. **Narratives:**
+
+| Story | Scope |
+|-------|-------|
+| [The Spencers and the Evans — Clerkenwell to Islington](../stories/evans-islington-clerkenwell.md) | Five London generations: Spencer, Fensom, Evans, Coolbear (1838–1972) |
+| [Chimney Sweep to the Founding of the RAF](../stories/coolbear-essex-gallipoli-raf.md) | Archibald Percy Coolbear: Essex, Gallipoli, Western Front, RFC/RAF |
+| [Parral to Camden — Helia Cerpa-Pérez](../stories/helia-cerpa-perez-chile-exile-camden.md) | Chile under Allende, the 1973 coup, Italian embassy, London exile, Ossulston housing advocacy, Valech lists |
 
 ---
 
@@ -73,7 +79,7 @@ Parents of [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) (**F1
 
 **Grandparents:** [Francisco Cerpa](../people/francisco-cerpa-i348.md) & [Ana González](../people/ana-gonzalez-i349.md) (**F163**); [Francisco Antonio Pérez Avejares](../people/francisco-antonio-perez-i350.md) (b. 1882) & [Soraida del Carmen Escobar Muñoz](../people/zoraida-escobar-i351.md) (b. 1885) (**F164**).
 
-**Biographical context (2026):** [Helia's person page](../people/helia-cerpa-perez.md) now carries a full biographical narrative — Allende administration, flight through Rome, resettlement in London, and decades of housing advocacy at the Ossulston Estate in Camden (documented in council minutes 2011–2023).
+**Biographical context (2026):** [Helia's person page](../people/helia-cerpa-perez.md) now carries a full biographical narrative — Allende administration, flight through Rome, resettlement in London, and decades of housing advocacy at the Ossulston Estate in Camden (documented in council minutes 2011–2023). **Story:** [Parral to Camden — Helia Cerpa-Pérez](../stories/helia-cerpa-perez-chile-exile-camden.md).
 
 **Research direction:** Chilean **civil registration** (Registro Civil) for Maule and online finding aids for **Parral / Linares / Chanco / Cauquenes**; family photographs and obituaries under `media/` should be linked here when filed. No dedicated corpus bundle yet — when PDFs or scans land, add a `sources/corpus/<slug>/` bundle and a short card under `sources/`.
 
