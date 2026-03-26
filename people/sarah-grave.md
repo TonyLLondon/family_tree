@@ -15,18 +15,19 @@ children:
 
 # Sarah Grave
 
-Wife of [Joseph Airey](joseph-airey.md) in **F42**; mother of [Sarah Airey](sarah-airey.md). Birth **28 Feb 1704**; death **23 Feb 1774**. **FAMC @F43@**: [Joseph Grave](joseph-grave.md); [Sarah Becke](sarah-becke.md) (**F43**, marriage **11 Sep 1698**).
+**Sarah Grave** was born **28 February 1704** and died **23 February 1774**. She married [Joseph Airey](joseph-airey.md) and was mother of [Sarah Airey](sarah-airey.md). Her parents were [Joseph Grave](joseph-grave.md) and [Sarah Becke](sarah-becke.md), married **11 September 1698**.
 
 ## Family
 
 - Husband: [Joseph Airey](joseph-airey.md).
 - Parents: [Joseph Grave](joseph-grave.md); [Sarah Becke](sarah-becke.md).
-- Children include [Sarah Airey](sarah-airey.md) per **F42**.
+- Children: [Sarah Airey](sarah-airey.md).
 
 ## Evidence
 
-- GEDCOM **`@I89@`**, **F42**, **F43**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LHDT-5R5**.
+- [family-tree.json](../family-tree.json).
+- **Export:** MyHeritage **`@I89@`** — unions **F42**, **F43** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **[LHDT-5R5](https://www.familysearch.org/tree/person/details/LHDT-5R5)**.
 
 ## Open questions
 
-- **Westmorland** parish vs **Quaker** duplicate entries.
+- **Westmorland** parish entries vs **Quaker** duplicate registers.
