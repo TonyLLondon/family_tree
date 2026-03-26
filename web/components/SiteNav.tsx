@@ -11,7 +11,6 @@ const links = [
   { href: "/people", label: "People" },
   { href: "/chart/lineages", label: "Bloodlines" },
   { href: "/topics", label: "Topics" },
-  { href: "/lines", label: "Lines" },
   { href: "/sources", label: "Sources" },
 ] as const;
 

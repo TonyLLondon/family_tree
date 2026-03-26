@@ -1,17 +1,15 @@
 # Topics
 
-Cross-cutting places, institutions, and themes — linked from [lines/persia.md](../lines/persia.md) and person files. **Where files live on disk:** [index.md § Media layout](../index.md#media-layout).
+Cross-cutting places, institutions, and themes — linked from person files and line hubs. Each topic page stands alone as a reference article with sourced historical context and family connections.
 
 | Topic | Scope |
 |-------|--------|
-| [tehran-protestant-cemetery.md](tehran-protestant-cemetery.md) | Burials: Fanny Burgess Bottin, Étienne Stump, related British community |
-| [mahmoudieh-house.md](mahmoudieh-house.md) | Qajar estate → Stump villa → Mahmoudieh district; Hotel Esteghlal (ex-Hilton); ownership chain; Mustawfi, Hamshahri, Mahdavi |
-| [qajar-armenian-military.md](qajar-armenian-military.md) | Daoud Khan Saginian; Isfahan army; 1834 context |
-| [war-ministry-arsenal-tehran.md](war-ministry-arsenal-tehran.md) | Julien Bottin; Ministry of War contract; military manufactures |
-| [modern-dentistry-iran.md](modern-dentistry-iran.md) | Stump, Melczarski; Encyclopaedia Iranica |
-| [freemasonry-orient-de-tehran.md](freemasonry-orient-de-tehran.md) | Lodge 1898; Levantine Heritage PDF |
-| [nypl-burgess-papers-archive.md](nypl-burgess-papers-archive.md) | NYPL MSS 431; Edward, Anna, Fanny |
-| [zadar-interwar-hotels.md](zadar-interwar-hotels.md) | Antonio Zerauschek; Zara 1930s; Hotel Zerauschek |
-| [opaque-media-imports.md](opaque-media-imports.md) | `media/imports/opaque/` — hash-named files awaiting identification |
-| [order-golden-spur.md](order-golden-spur.md) | Papal Order of the Golden Spur (Milizia Aurata); Addobbati 1786 diploma; sub-collation |
-| [../stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md) | Addobbati family; Venetian-Dalmatian *cittadini*; Habsburg postal service; DAZD archive |
+| [tehran-protestant-cemetery.md](tehran-protestant-cemetery.md) | Akbarabad cemetery (1884–1970): founding, 508 graves, 1967 diplomatic crisis, relocation to 'Azimabad; burials of Fanny Burgess Bottin and Étienne Stump |
+| [mahmoudieh-house.md](mahmoudieh-house.md) | Qajar garden estate → Stump villa → Mahmoudieh neighbourhood; ownership chain from Mohammad Shah through Amin al-Zarb to Stump; Hotel Esteghlal (ex-Hilton); Vera Obolensky's guesthouse |
+| [qajar-armenian-military.md](qajar-armenian-military.md) | Caucasian officer pipeline into Qajar command; Daoud Khan Saginian as sartip at Isfahan; 1834 conflict; daughters Anna and Tamar and the marriage bridge to Europeans |
+| [war-ministry-arsenal-tehran.md](war-ministry-arsenal-tehran.md) | Julien Bottin's contract as arsenal engineer: 2,400 tomans salary, 30 students, powder factory and cartridge works; French technical wave in late Qajar Tehran |
+| [modern-dentistry-iran.md](modern-dentistry-iran.md) | Three generations of European dentists in Iran; Étienne Stump recruited in New York (1904), Ahmad Shah's dentist, rivalry with Melczarski, 1916 dental school proposal |
+| [freemasonry-orient-de-tehran.md](freemasonry-orient-de-tehran.md) | Alliance Française committee, Spanish rite lodge (1898), founding of Réveil de l'Iran (1906); Julien Bottin as organizer; masonry and the Constitutional Revolution |
+| [nypl-burgess-papers-archive.md](nypl-burgess-papers-archive.md) | MSS 431: 4.25 linear feet of letters, watercolours, Persian documents (1794–1929); Anna Saginian's 1880 interview — the family's most vivid primary source |
+| [zadar-interwar-hotels.md](zadar-interwar-hotels.md) | Antonio Zerauschek's free-port empire: Caffè Centrale, Hotel Excelsior, Calypso cigarettes, Ausonia chocolate; Umberto Nordio's 1937 rebuild; loss under Allied bombing |
+| [order-golden-spur.md](order-golden-spur.md) | Papal Order of the Golden Spur (Milizia Aurata); sub-collation by Bishop Stratico; Dr Petar Addobbati's 1786 diploma; Nin nobility petition |

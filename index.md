@@ -28,7 +28,7 @@
 | [media/charts/other/](media/charts/other/) | Other chart PDFs |
 | [media/military/](media/military/) | Service / award PDFs (e.g. Lewis) |
 | [media/images/loose/](media/images/loose/) | One-off portraits and photos |
-| [media/imports/opaque/](media/imports/opaque/) | Unlabeled or hash-named imports — [topics/opaque-media-imports.md](topics/opaque-media-imports.md) |
+| [media/imports/opaque/](media/imports/opaque/) | Unlabeled or hash-named imports |
 | [media/loose-root/](media/loose-root/) | Empty inbox (`.gitkeep`) for future unclassified drops |
 
 **Other lines:** Zara (Italian Dalmatia — Addobbati, Zerauschek, interwar) — [lines/zara-italy-dalmatia.md](lines/zara-italy-dalmatia.md) · [people/antonio-zerauschek.md](people/antonio-zerauschek.md) · [stories/zerauschek-zadar.md](stories/zerauschek-zadar.md) · [stories/addobbati-dalmatian-habsburg.md](stories/addobbati-dalmatian-habsburg.md). **Lewis + Stump (Wales / Europe / Ireland)** — [lines/lewis-wales-stump-europe.md](lines/lewis-wales-stump-europe.md) · [stories/lewis-aberdare-merthyr-coalfield.md](stories/lewis-aberdare-merthyr-coalfield.md) · [stories/david-john-lewis-italy-1945-silver-star.md](stories/david-john-lewis-italy-1945-silver-star.md) · [stories/stump-thurgau-tallinn-baltic-line.md](stories/stump-thurgau-tallinn-baltic-line.md).
