@@ -4,8 +4,11 @@ import type { NextRequest } from "next/server";
 const RENDERABLE_EXTENSIONS = /\.(md|yaml|yml)$/i;
 
 /**
- * Renderable vault files under `/files/...` open in `/view/...` (Markdown / YAML shell).
- * `?raw` skips this and serves the static `/files/...` asset (see `readVaultFileForView` + proxy).
+ * Rewrite `/files/…` text assets to `/view/…` so they render in the site shell
+ * (Markdown / YAML). `?raw` bypasses the rewrite and serves the static file.
+ *
+ * `/view/` pages are pre-rendered at build time via `generateStaticParams`, so
+ * both local dev and production serve the same rendered HTML.
  */
 export function proxy(request: NextRequest) {
   const { pathname, searchParams } = request.nextUrl;

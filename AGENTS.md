@@ -96,7 +96,7 @@ The `/files/[...path]` API route uses `fs.readFileSync` at runtime, which works 
 1. `web/scripts/copy-static-files.mjs` runs before `next build` (via the `build` script in `package.json`).
 2. It copies `../media/`, `../sources/corpus/`, and repo-root `family-tree.json` into `web/public/files/` (same paths as `/files/…` on the site).
 3. Next.js serves `public/files/` as static CDN assets — requests to `/files/media/…`, `/files/sources/corpus/…`, and `/files/family-tree.json` are served from the edge without invoking a serverless function.
-4. Edge `web/proxy.ts`: `.md`/`.yaml` under `/files/` rewrite to `/view/…` (unless `?raw`). `/view` loads from the full repo in dev, from `public/files` when present, else **fetches** same-origin `/files/…?raw` so the Markdown shell works on Vercel (serverless bundle omits `public/files` per `outputFileTracingExcludes`).
+4. Edge `web/proxy.ts`: `.md`/`.yaml` under `/files/` rewrite to `/view/…` (unless `?raw`). `/view/` pages are **pre-rendered at build time** via `generateStaticParams` (SSG) — the build reads from the full repo, so local dev and production serve identical rendered HTML with no serverless function.
 5. `web/public/files/` is gitignored (build artifact, regenerated each deploy).
 6. `next.config.ts` has `outputFileTracingExcludes` to prevent the ~1 GB of static files from being bundled into serverless functions (Vercel's 300 MB function limit).
 

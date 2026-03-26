@@ -1,14 +1,12 @@
 import path from "path";
 import Link from "next/link";
-import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 import matter from "gray-matter";
-import { readVaultFileUtf8ForView } from "@/lib/readVaultFileForView";
+import { enumerateViewableFiles, readVaultFileUtf8 } from "@/lib/readVaultFileForView";
 import { decodeUriPathSegment } from "@/lib/vaultLinks";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { SiteNav } from "@/components/SiteNav";
 
-/** Parent segments → first-party list/hub routes (never implemented as <a> in the original header). */
 function getBreadcrumbHref(segments: string[], index: number): string | null {
   if (index >= segments.length - 1) return null;
 
@@ -42,6 +40,12 @@ function getBreadcrumbHref(segments: string[], index: number): string | null {
 
 type Props = { params: Promise<{ path: string[] }> };
 
+export function generateStaticParams() {
+  return enumerateViewableFiles().map((rel) => ({
+    path: rel.split("/"),
+  }));
+}
+
 export default async function FileViewPage({ params }: Props) {
   const { path: segments } = await params;
   if (!segments?.length) notFound();
@@ -49,12 +53,7 @@ export default async function FileViewPage({ params }: Props) {
   const decoded = segments.map((s) => decodeUriPathSegment(s));
   const rel = decoded.join("/");
 
-  const h = await headers();
-  const host = h.get("x-forwarded-host") ?? h.get("host");
-  const proto = h.get("x-forwarded-proto") ?? "http";
-  const selfOrigin = host ? `${proto}://${host}` : undefined;
-
-  const raw = await readVaultFileUtf8ForView(rel, selfOrigin);
+  const raw = readVaultFileUtf8(rel);
   if (raw === null) notFound();
 
   const ext = path.extname(rel).toLowerCase();
@@ -76,37 +75,49 @@ function FileHeader({
 }) {
   const crumbs = filePath.split("/");
   return (
-    <header className="mb-6 border-b border-zinc-200 pb-4 dark:border-zinc-700">
-      <nav className="mb-2 flex flex-wrap items-center gap-1 text-sm text-zinc-400">
+    <header className="mb-8 border-b border-zinc-200 pb-5">
+      <nav aria-label="Path" className="mb-3 flex flex-wrap items-baseline gap-x-0 gap-y-1 text-sm">
         {crumbs.map((seg, i) => {
           const href = getBreadcrumbHref(crumbs, i);
           const isCurrent = i === crumbs.length - 1;
           return (
-            <span key={i} className="inline-flex items-center">
-              {i > 0 && <span className="mx-1">/</span>}
+            <span key={i} className="inline-flex items-baseline">
+              {i > 0 && (
+                <span className="mx-1.5 select-none text-zinc-300" aria-hidden>
+                  /
+                </span>
+              )}
               {href ? (
                 <Link
                   href={href}
-                  className="text-zinc-500 hover:text-zinc-800 hover:underline dark:text-zinc-400 dark:hover:text-zinc-200"
+                  className="font-medium text-sky-800 underline decoration-sky-300 decoration-2 underline-offset-2 hover:text-sky-950 hover:decoration-sky-600"
                 >
                   {seg}
                 </Link>
               ) : (
-                <span className={isCurrent ? "text-zinc-700 font-medium dark:text-zinc-200" : ""}>{seg}</span>
+                <span
+                  className={
+                    isCurrent
+                      ? "font-semibold text-zinc-950"
+                      : "text-zinc-600"
+                  }
+                >
+                  {seg}
+                </span>
               )}
             </span>
           );
         })}
       </nav>
-      <div className="flex items-center justify-between">
-        <h1 className="text-2xl font-bold tracking-tight text-zinc-900 dark:text-zinc-100">
+      <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+        <h1 className="font-sans text-2xl font-bold tracking-tight text-zinc-950">
           {crumbs[crumbs.length - 1]}
         </h1>
         <a
           href={rawUrl}
-          className="rounded border border-zinc-200 px-3 py-1 text-xs font-medium text-zinc-500 transition hover:bg-zinc-50 hover:text-zinc-700 dark:border-zinc-600 dark:text-zinc-400 dark:hover:bg-zinc-800 dark:hover:text-zinc-200"
+          className="inline-flex shrink-0 items-center justify-center rounded-md border border-zinc-300 bg-white px-3 py-1.5 text-xs font-semibold text-zinc-800 shadow-sm transition hover:border-zinc-400 hover:bg-zinc-50"
         >
-          Raw
+          View raw file
         </a>
       </div>
     </header>
@@ -118,23 +129,69 @@ function FrontmatterTable({ data }: { data: Record<string, unknown> }) {
   if (entries.length === 0) return null;
 
   return (
-    <div className="mb-6 overflow-hidden rounded-lg border border-zinc-200 bg-zinc-50/50 dark:border-zinc-700 dark:bg-zinc-900/50">
+    <section
+      className="mb-8 overflow-hidden rounded-xl border border-zinc-200 bg-white shadow-sm ring-1 ring-zinc-950/5"
+      aria-label="YAML front matter"
+    >
+      <div className="border-b border-zinc-100 bg-zinc-50 px-4 py-2">
+        <h2 className="text-xs font-semibold uppercase tracking-wide text-zinc-700">
+          Front matter
+        </h2>
+      </div>
       <table className="w-full text-sm">
         <tbody>
           {entries.map(([key, value]) => (
-            <tr key={key} className="border-b border-zinc-100 last:border-0 dark:border-zinc-800">
-              <td className="whitespace-nowrap px-4 py-2 font-mono text-xs font-medium text-zinc-500 dark:text-zinc-400">
+            <tr key={key} className="border-b border-zinc-100 last:border-0">
+              <th
+                scope="row"
+                className="w-40 max-w-[45%] whitespace-nowrap px-4 py-2.5 text-left align-top font-mono text-xs font-semibold text-zinc-800 sm:w-48"
+              >
                 {key}
-              </td>
-              <td className="px-4 py-2 text-zinc-700 dark:text-zinc-200">
-                {typeof value === "object"
-                  ? JSON.stringify(value, null, 2)
-                  : String(value)}
+              </th>
+              <td className="px-4 py-2.5 align-top text-zinc-900">
+                <span className="wrap-break-word font-mono text-xs leading-relaxed sm:text-sm">
+                  {typeof value === "object"
+                    ? JSON.stringify(value, null, 2)
+                    : String(value)}
+                </span>
               </td>
             </tr>
           ))}
         </tbody>
       </table>
+    </section>
+  );
+}
+
+function corpusBundleHref(filePath: string): string | null {
+  const m = filePath.match(/^sources\/corpus\/([^/]+)/);
+  return m ? `/corpus/${encodeURIComponent(m[1]!)}` : null;
+}
+
+function MachineExtractNotice({ filePath }: { filePath: string }) {
+  const isLikelyMachineExtract = /\/extracted\.(pdf|web)\.md$/i.test(filePath);
+  if (!isLikelyMachineExtract) return null;
+
+  const bundleHref = corpusBundleHref(filePath);
+
+  return (
+    <div className="mb-8 rounded-xl border border-amber-200/90 bg-amber-50 px-4 py-3 text-sm text-amber-950 shadow-sm ring-1 ring-amber-950/5">
+      <p className="m-0 font-medium leading-snug">
+        This file is <strong className="font-semibold">machine-extracted</strong> from a PDF or
+        web capture. OCR and layout conversion often produce broken words and stray symbols the
+        extractor could not interpret. For clean reading, use the original scan or HTML in this
+        evidence bundle.
+      </p>
+      {bundleHref ? (
+        <p className="mb-0 mt-2">
+          <Link
+            href={bundleHref}
+            className="font-semibold text-sky-800 underline decoration-sky-400 decoration-2 underline-offset-2 hover:text-sky-950"
+          >
+            Back to bundle file list
+          </Link>
+        </p>
+      ) : null}
     </div>
   );
 }
@@ -157,6 +214,7 @@ function MarkdownView({
       <main className="mx-auto max-w-6xl flex-1 px-4 py-8">
         <FileHeader filePath={filePath} rawUrl={rawUrl} />
         {hasFrontmatter && <FrontmatterTable data={data} />}
+        <MachineExtractNotice filePath={filePath} />
         <MarkdownContent content={content} filePath={filePath} />
       </main>
     </>
