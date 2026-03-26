@@ -25,8 +25,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I163@`** — unions **F82**, **F83** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LW8F-1VX**.
+- **Export:** **treeId** **I163** — unions **F82**, **F83** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LW8F-1VX**.
 
 ## Open questions
 

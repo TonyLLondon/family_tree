@@ -17,7 +17,7 @@ children:
 
 **Thomas Cushen** was **Cork-born** (**1821**) and spent his working life in the **Merthyr** district. Census-age clauses in the export run **1851**–**1881**; by **1881** he appears as **labourer**, described in that year as **father of the head of household** in the same return. He died **July 1889** at **Merthyr Tydfil**; the civil index line is **volume 11A, page 283, line 50**, with burial **13 July 1889** at **Dowlais**, **Glamorgan**. An embedded **Geni** block in the same export echoes those Irish and Welsh facts.
 
-He married [Ann Mainwaring](ann-mainwaring.md); [David Cushen](david-cushen.md) is the child with a vault page. Further children are listed on the marriage union in [family-tree.json](../family-tree.json) but do not yet have `people/` stubs.
+He married [Ann Mainwaring](ann-mainwaring.md); [David Cushen](david-cushen.md) is the child with a vault page. Further children are listed on the marriage union in the working tree but do not yet have `people/` stubs.
 
 ## Life
 
@@ -28,12 +28,11 @@ He married [Ann Mainwaring](ann-mainwaring.md); [David Cushen](david-cushen.md) 
 ## Family
 
 - Wife: [Ann Mainwaring](ann-mainwaring.md).
-- Children: [David Cushen](david-cushen.md); others named only in [family-tree.json](../family-tree.json) until pages exist.
+- Children: [David Cushen](david-cushen.md); others named only in the working tree until pages exist.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I177@`** — union **F89**; FamilySearch **KJ5C-P89**; **Geni** URL in **SOUR** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I177** — union **F89**; FamilySearch **KJ5C-P89**; **Geni** URL in **SOUR** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

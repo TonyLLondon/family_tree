@@ -20,9 +20,7 @@ Wybrata Rockenbass was the wife of [Hans Rutishauser](hans-rutishauser.md) and m
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I170@`** — union **F85** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I170** — union **F85** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Rockenbass** / **Rockenbach** variant.

@@ -93,9 +93,8 @@ General Pinochet was arrested in London on 16 October 1998 on a warrant from Spa
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
-- **Export:** MyHeritage **`@I19@`** — birth union **F162** with parents; marriage **F9** with Joseph — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Export:** **treeId** **I19** — birth union **F162** with parents; marriage **F9** with Joseph — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 
 ### Online sources naming Helia Evans
 

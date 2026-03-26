@@ -34,8 +34,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I364@`** — unions **F170**, **F171** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LCVY-RZP**; **Geni** in **SOUR**.
+- **Export:** **treeId** **I364** — unions **F170**, **F171** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LCVY-RZP**; **Geni** in **SOUR**.
 
 ## Open questions
 

@@ -30,16 +30,15 @@ He died **1997** at **Lausanne** (Henderson chart; some exports read **1996**—
 
 - Parents: [Étienne Stump](etienne-stump.md); [Henriette Bottin Burgess](henriette-bottin.md).
 - Wife: [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md).
-- Children: [Catherine Stump](catherine-stump.md) and siblings — [family-tree.json](../family-tree.json).
+- Children: [Catherine Stump](catherine-stump.md) and siblings — not yet on individual pages.
 
 ## Evidence
 
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) · [corpus](../sources/corpus/stump-family-tree-c3cb58201a/).
 - [Henriette passport](../media/docs/Henriette%20Stump%20passport%20signalement%20born%20Tehran%201886%20photos%20pages%204-5.jpg) · [1909 album page](../media/docs/Album%20page%201909%20Henriette%20Etienne%20Stump%20five%20vintage%20photos%20note.jpg).
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I11@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Export:** **treeId** **I11** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - **Le Rosey, Provence, Essex courtship** — family account (2026); school records, wartime address, or exhibition catalogues when available.
 
 ## Open questions
 
-- Reconcile **Henriette passport birth 6 Mar 1886** with export **`@I76@` 26 Jun 1888** if both describe one woman.
+- Reconcile **Henriette passport birth 6 Mar 1886** with export **treeId** **I76** (26 Jun 1888) if both describe one woman.

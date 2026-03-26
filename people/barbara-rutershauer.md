@@ -23,8 +23,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I154@`** — unions **F77**, **F85** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K27S-W2Z**.
+- **Export:** **treeId** **I154** — unions **F77**, **F85** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K27S-W2Z**.
 
 ## Open questions
 

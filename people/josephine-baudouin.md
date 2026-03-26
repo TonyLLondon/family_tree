@@ -26,9 +26,7 @@ Mother of [Julien Bottin](julien-bottin.md). Named on the **Nice 1853** birth su
 ## Evidence
 
 - [Ancestry screenshot — Julien Bottin 1853 Nice](../media/docs/Ancestry%20Julien%20Bottin%20birth%201853%20Nice%20Charles%20Bottin%20Josephine%20Baudoin%20Alpes-Maritimes.png).
-- **Export:** MyHeritage **`@I139@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I139** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 ## Open questions
 
 - Civil record **image** (not just index) for Julien’s birth under `media/docs/`.

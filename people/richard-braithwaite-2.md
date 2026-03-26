@@ -28,12 +28,11 @@ children:
 
 - Wife: [Lady Frances Lawson](lady-frances-lawson.md).
 - Parents: [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md); [Dorothy Bindlose](dorothy-bindlose.md).
-- Children: [Richard Braithwaite](richard-braithwaite.md); further children on the same union in [family-tree.json](../family-tree.json).
+- Children: [Richard Braithwaite](richard-braithwaite.md); further children on the same union in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I195@`** — unions **F99**, **F100**, **F205** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **2CNB-3WT**; **Geni** blocks in **SOUR**.
+- **Export:** **treeId** **I195** — unions **F99**, **F100**, **F205** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **2CNB-3WT**; **Geni** blocks in **SOUR**.
 
 ## Open questions
 

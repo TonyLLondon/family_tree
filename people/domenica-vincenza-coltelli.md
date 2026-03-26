@@ -33,8 +33,7 @@ children:
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I55@`** — unions **F14**, **F61** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); source note **@S12@** (*possidente*).
-- [family-tree.json](../family-tree.json).
+- **Export:** **treeId** **I55** — unions **F14**, **F61** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); source note **@S12@** (*possidente*).
 - **Marriage register, Entry nº 13, 25 Feb 1811:** bride identified as "Vincenza Coltelli, d'anni 24, figlia del Sig.r Paolo Coltelli, Pub.co Notajo, e della Sig.ra Devina Sandri" — [media/collections/zerauschek/Zerauschek (1)/Matrimonio Addobbati Coltelli Zara 1811.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Matrimonio%20Addobbati%20Coltelli%20Zara%201811.jpg).
 
 ## Open questions

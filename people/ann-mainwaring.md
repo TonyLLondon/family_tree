@@ -29,12 +29,11 @@ spouses:
 
 - Husband: [Thomas Cushen](thomas-cushen.md).
 - Parents: [Richard Mainwaring](richard-mainwaring.md); [Mary Richards](mary-richards.md) (married **25 Oct 1825** Merthyr).
-- Children: [David Cushen](david-cushen.md); further children on the marriage union in [family-tree.json](../family-tree.json).
+- Children: [David Cushen](david-cushen.md); further children on the marriage union in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I178@`** — unions **F89**, **F90** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KJ5C-PJP**; **Geni** in **SOUR**.
+- **Export:** **treeId** **I178** — unions **F89**, **F90** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KJ5C-PJP**; **Geni** in **SOUR**.
 
 ## Open questions
 

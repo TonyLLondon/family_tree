@@ -19,12 +19,11 @@ children:
 
 # Hannah Walton
 
-Hannah Walton was the wife of [William Moran](william-moran-i235.md); they married on 6 September 1868. She was mother of the Moran–Walton sibling set in [family-tree.json](../family-tree.json), including [Elizabeth Moran](elizabeth-moran-i233.md), born 1871 at Holloway. The export names her parents as John Walton and Sarah Harlott—no dedicated vault pages yet.
+Hannah Walton was the wife of [William Moran](william-moran-i235.md); they married on 6 September 1868. She was mother of the Moran–Walton sibling set in the working tree, including [Elizabeth Moran](elizabeth-moran-i233.md), born 1871 at Holloway. The export names her parents as John Walton and Sarah Harlott—no dedicated vault pages yet.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I234@`** — unions **F116**, **F117** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json) **`I234`**.
+- **Export:** **treeId** **I234** — unions **F116**, **F117** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md) (London table — parallel Moran household).
 
 ## Open questions

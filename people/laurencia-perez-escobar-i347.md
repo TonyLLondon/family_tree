@@ -38,10 +38,9 @@ Parents: [Francisco Antonio Pérez Avejares](francisco-antonio-perez-i350.md) an
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
 - FamilySearch **[GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)**.
 - Hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
-- **Export:** MyHeritage **`@I347@`** — unions **F162**, **F164** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I347** — unions **F162**, **F164** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

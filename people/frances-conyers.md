@@ -24,7 +24,7 @@ Frances Conyers was the wife of [Henry Lawson, of Nesham Abbey](henry-lawson-of-
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I530@`** — union **F200** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
+- **Export:** **treeId** **I530** — union **F200** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
 
 ## Open questions
 

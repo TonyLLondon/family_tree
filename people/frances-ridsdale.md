@@ -29,12 +29,11 @@ Mother of [Edward Burgess](edward-burgess.md). Baptized **10 June 1784** at **Wa
 
 - Parents: [Edward Ridsdale](edward-ridsdale.md); [Elizabeth Romley](elizabeth-romley.md).
 - Husband: [Henry Burgess](henry-burgess.md).
-- Children: [Edward Burgess](edward-burgess.md); siblings on marriage union in [family-tree.json](../family-tree.json).
+- Children: [Edward Burgess](edward-burgess.md); siblings on marriage union in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I82@`** — unions **F40** (with Henry), **F135** (parents) — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Export:** **treeId** **I82** — unions **F40** (with Henry), **F135** (parents) — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - Ridsdale collateral PDFs: search `media/docs/` and `media/publications/genealogy-regional/` when filenames are standardized.
 
 ## Open questions

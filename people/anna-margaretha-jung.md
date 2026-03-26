@@ -13,7 +13,7 @@ children:
 
 # Anna Margaretha Jung
 
-**Anna Margaretha Jung** was born **1735**. She married [Hs. Konrad Stump](hs-konrad-stump.md) **19 June 1766** at **Sulgen**, **Thurgau**, and was mother of [Hans Ulrich Stump](hans-ulrich-stump.md) and other children on the same union in [family-tree.json](../family-tree.json). Death is flagged in the export without structured date or place. Father: [Hans Jacob Jung](hans-jacob-jung.md); the parental union in this file has no wife line—mother unknown here.
+**Anna Margaretha Jung** was born **1735**. She married [Hs. Konrad Stump](hs-konrad-stump.md) **19 June 1766** at **Sulgen**, **Thurgau**, and was mother of [Hans Ulrich Stump](hans-ulrich-stump.md) and other children on the same union in the working tree. Death is flagged in the export without structured date or place. Father: [Hans Jacob Jung](hans-jacob-jung.md); the parental union in this file has no wife line—mother unknown here.
 
 ## Life
 
@@ -25,12 +25,11 @@ children:
 
 - Husband: [Hs. Konrad Stump](hs-konrad-stump.md).
 - Father: [Hans Jacob Jung](hans-jacob-jung.md).
-- Children: [Hans Ulrich Stump](hans-ulrich-stump.md); siblings listed under **F73** in [family-tree.json](../family-tree.json).
+- Children: [Hans Ulrich Stump](hans-ulrich-stump.md); siblings listed under **F73** in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I147@`** — unions **F73**, **F75** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KFRC-6JP**.
+- **Export:** **treeId** **I147** — unions **F73**, **F75** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KFRC-6JP**.
 
 ## Open questions
 

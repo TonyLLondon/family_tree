@@ -35,10 +35,10 @@ Her parents in the export are [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) an
 
 ## Evidence
 
-- GEDCOM **`@I303@`**, **F142**, **F144**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I303**, **F142**, **F144**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - MyHeritage URL in **`@S43@`**.
 
 ## Open questions
 
 - **Cause of death** at 43 (childbirth complications vs. epidemic year in Tallinn—check 1823 mortality lists).
-- Siblings **Christina Amalia** and others named in Geni—map to **`@I303@` FAMC** children.
+- Siblings **Christina Amalia** and others named in Geni—map to **treeId** **I303** **FAMC** children.

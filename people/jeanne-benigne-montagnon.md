@@ -24,13 +24,11 @@ Jeanne Benigne Montagnon was the wife of [Hans Jacob Stump (b. 1800)](hans-jacob
 ## Family
 
 - Husband: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md).
-- Children include [Marc Francois Stump](marc-francois-stump.md) and [Luise Elizabeta Stump](luise-elizabeta-stump.md); see [family-tree.json](../family-tree.json) for the full household.
+- Children include [Marc Francois Stump](marc-francois-stump.md) and [Luise Elizabeta Stump](luise-elizabeta-stump.md); see **Export** below for the full household.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I143@`** — union **F71** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSD2-9QP**.
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I143** — union **F71** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSD2-9QP**.
 ## Open questions
 
 - **French origin** — identify civil parish or département from marriage record margin notes, Swiss residency permits, or children’s later documents.

@@ -20,7 +20,7 @@ Like Lewis, she carries only a death flag in the merged export—work to find he
 ## Family
 
 - Husband: [Lewis Lewis](lewis-lewis.md).
-- Children: [David John Lewis (1857)](david-john-lewis-1857.md); further siblings on the same union in [family-tree.json](../family-tree.json).
+- Children: [David John Lewis (1857)](david-john-lewis-1857.md); further siblings on the same union in the working tree.
 
 ## Evidence
 
@@ -28,13 +28,12 @@ Like Lewis, she carries only a death flag in the merged export—work to find he
 
 **Export:**
 
-- MyHeritage **`@I428@`**; union **F189** with [Lewis Lewis](lewis-lewis.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I428**; union **F189** with [Lewis Lewis](lewis-lewis.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - Census in export: RG09/4046; RG10/5388; RG11/5308 — same household folio run as Lewis’s extract blocks.
-- Further children on **F189**: see [family-tree.json](../family-tree.json).
+- Further children on **F189** — full row only in merged export for now; **Site:** [Ancestor chart](/chart) (**treeId** **I428** matches YAML).
 - Death: export marks **DEAT Y** without date/place in slice used here.
-- [family-tree.json](../family-tree.json).
 
 ## Open questions
 
-- James parents — not stated on the parental union in [family-tree.json](../family-tree.json); Welsh James clusters in Merthyr need a BMD anchor.
+- James parents — not stated on the parental union in the working tree; Welsh James clusters in Merthyr need a BMD anchor.
 - Death after 1881 — civil or burial index.

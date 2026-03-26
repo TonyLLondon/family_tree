@@ -23,7 +23,8 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) **`I235`**, union **F116**.
+- **Export:** [Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **treeId** **I235**, marriage **F116** with [Hannah Walton](hannah-walton-i234.md).
+- **Site:** [Ancestor chart](/chart) — same compiled graph as the vault.
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
 
 ## Open questions

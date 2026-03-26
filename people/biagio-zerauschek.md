@@ -27,8 +27,8 @@ Died **before 24 August 1850** (Zara marriage register of his son Giuseppe).
 ## Evidence
 
 - **Marriage register, 1850 (Zara):** “Zerauschek Biagio — padre defunto” — [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg).
-- [family-tree.json](../family-tree.json); [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md).
-- **Export:** MyHeritage GEDCOM **`@I387@`**; union with Maria as **F182** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- [Zerauschek — Zadar](../stories/zerauschek-zadar.md).
+- **Export:** **treeId** **I387**; union with Maria as **F182** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

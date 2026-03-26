@@ -28,7 +28,7 @@ Military papers tag a **South Wales Borderer** stint in **1884**—service numbe
 ## Family
 
 - Wife: [Catherine Griffiths](catherine-griffiths.md).
-- Children: [Samuel Lewis](samuel-lewis.md) and others — [family-tree.json](../family-tree.json).
+- Children: [Samuel Lewis](samuel-lewis.md) and others — not yet on individual pages.
 - Parents: [Lewis Lewis](lewis-lewis.md); [Rachel James](rachel-james.md).
 
 ## Photographs
@@ -39,8 +39,7 @@ Military papers tag a **South Wales Borderer** stint in **1884**—service numbe
 
 - Line narrative: [Lewis in Aberdare and Merthyr](../stories/lewis-aberdare-merthyr-coalfield.md).
 - [1911 census — 41 Glen Road cluster](../media/docs/1911%20census%2041%20Glen%20Road%20Aberdare%20David%20J%20Lewis%20household%20schedule%2079.jpg) — related Aberdare street network.
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I173@`** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%200929.ged). Marriage to Catherine **F87**; parents’ union **F189**. Civil index, Wales baptisms batch **C02533-2**, census **RG10/5388**, **RG11/5308**, **RG12/4444**, **RG13/5035**, **RG14/32495** sch. **77**; military **South Wales Borderers** no. **1082** (1884). Sibling ids in **F87** per JSON.
+- **Export:** **treeId** **I173** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%200929.ged). Marriage to Catherine **F87**; parents’ union **F189**. Civil index, Wales baptisms batch **C02533-2**, census **RG10/5388**, **RG11/5308**, **RG12/4444**, **RG13/5035**, **RG14/32495** sch. **77**; military **South Wales Borderers** no. **1082** (1884). Sibling ids in **F87** in the merged export / site graph.
 
 ## Open questions
 

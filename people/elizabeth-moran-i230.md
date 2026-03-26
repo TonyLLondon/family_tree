@@ -20,8 +20,7 @@ Another **Elizabeth Moran**—[Elizabeth Moran (Holloway, 1871)](elizabeth-moran
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I230@`** — unions **F113**, **F115** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json) **`I230`**.
+- **Export:** **treeId** **I230** — unions **F113**, **F115** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
 
 ## Open questions

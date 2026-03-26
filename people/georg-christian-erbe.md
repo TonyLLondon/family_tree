@@ -30,8 +30,7 @@ Georg Christian Erbe was the husband of [Catharia Dorothea Korber](catharia-doro
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I316@`** — unions **F150**, **F152** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW13-KV7**.
-- [family-tree.json](../family-tree.json).
+- **Export:** **treeId** **I316** — unions **F150**, **F152** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW13-KV7**.
 - **Web (Mar 2026):** no **BBLD** / **Wikipedia** match for **Georg Christian Erbe** **1714 Ohrdruf**; [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md) § *Thuringian / Franconian Erbe line*.
 
 ## Open questions

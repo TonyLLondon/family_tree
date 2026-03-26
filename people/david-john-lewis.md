@@ -148,7 +148,7 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 
 - Line hub: [Lewis · Stump · Europe](../lines/lewis-wales-stump-europe.md) — Ireland / chart / Baltic corpus clusters.
 - [Lewis / White / Roche / Ireland corpus cluster](../sources/lewis-white-roche-ireland-corpus-cluster.md) — census, MyHeritage charts, Limerick, Obolensky (`corpus/<slug>/`).
-- **Export:** MyHeritage GEDCOM individual **`@I8@`** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%200929.ged) · [alternate export snapshot](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged) (MyHeritage URL in note).
+- **Export:** **treeId** **I8** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%200929.ged) · [alternate export snapshot](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged) (MyHeritage URL in note).
 - [1911 census — Aberdare household (David J Lewis)](../media/docs/1911%20census%2041%20Glen%20Road%20Aberdare%20David%20J%20Lewis%20household%20schedule%2079.jpg) (grandfather's household; not this David's generation).
 
 ### Military evidence
@@ -241,8 +241,6 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **Bristol reference (1 Dec 1947):** [BristolRef011247.doc](../media/docs/david-john-lewis-personal/education/BristolRef011247.doc), [scan](../media/docs/david-john-lewis-personal/education/BristolRef011247.jpg) — post-war return to university.
 
 ### Other
-
-- [family-tree.json](../family-tree.json).
 
 ## Open questions
 

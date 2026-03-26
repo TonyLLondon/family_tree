@@ -25,12 +25,11 @@ His wife [Catherine Byrne](catherine-byrne.md) died in **1856** in **Carlow**; M
 
 - Parents: [Mathew White](mathew-white.md); [Mary Esmonde](mary-esmonde.md) (union **F158**, marriage **1772**, Ireland in export).
 - Wife: [Catherine Byrne](catherine-byrne.md).
-- Children: [William O’Byrne White](william-obyrne-white.md) — only child attached to union **F157** in [family-tree.json](../family-tree.json).
+- Children: [William O’Byrne White](william-obyrne-white.md) — only child attached to union **F157** in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I327@`** — unions **F157** (with Catherine), **F158** (parents); source pointers **@S40@** on vitals in the same file — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I327** — unions **F157** (with Catherine), **F158** (parents); source pointers **@S40@** on vitals in the same file — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

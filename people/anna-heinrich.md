@@ -23,8 +23,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I152@`** — unions **F76**, **F78** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KZR1-Y8S**.
+- **Export:** **treeId** **I152** — unions **F76**, **F78** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KZR1-Y8S**.
 
 ## Open questions
 

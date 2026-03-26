@@ -25,11 +25,11 @@ Great-grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md). The merged exp
 
 - Parents: [Georg Christian Erbe](georg-christian-erbe.md); [Catharia Dorothea Korber](catharia-dorothea-korber.md).
 - Wife: [Johanna Magdalena Schultz](johanna-magdalena-schultz.md).
-- Son: [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md); further **CHIL** rows on the same unions in [family-tree.json](../family-tree.json).
+- Son: [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md); further **CHIL** rows on the same unions in the working tree.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I314@`** — unions **F149**, **F150** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I314** — unions **F149**, **F150** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - **Web (Mar 2026):** no **BBLD** / **Wikipedia** hit for **Sigmund** + **1746** + this **Erbe** line; [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md) § *Thuringian / Franconian Erbe line*.
 
 ## Open questions

@@ -23,8 +23,7 @@ We hold his son Ioanes in the structured tree; his wife remains unnamed in the e
 ## Evidence
 
 - **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Daniel (1651)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
-- [family-tree.json](../family-tree.json).
-- **Export:** GEDCOM individual `@I33@`, family F18 (no wife in export); FamilySearch GW5D-Y6X — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I33**, family F18 (no wife in export); FamilySearch GW5D-Y6X — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

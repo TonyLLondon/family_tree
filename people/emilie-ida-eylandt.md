@@ -32,11 +32,11 @@ Her parents in the export are [Johan Jacob Eylandt](johan-jacob-eylandt.md) and 
 
 - Parents: [Johan Jacob Eylandt](johan-jacob-eylandt.md); [Maria Elisabeth Busse](maria-elisabeth-busse.md).
 - Husband: [Hermann Eberhard Erbe](hermann-eberhard-erbe.md).
-- Children: [Olga Caroline Erbe](olga-caroline-erbe.md); [Eugen Edmund Erbe](eugen-edmund-erbe.md); further children in [family-tree.json](../family-tree.json).
+- Children: [Olga Caroline Erbe](olga-caroline-erbe.md); [Eugen Edmund Erbe](eugen-edmund-erbe.md); further children in the working tree.
 
 ## Evidence
 
-- GEDCOM **`@I299@`**, **F140**, **F142**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I299**, **F140**, **F142**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - **Web:** named as **M.: Emilie, geb. Eylandt** on son Eugen’s [BBLD entry](https://bbld.de/GND1173663347); summary table [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md).
 - **Press (Emilie death, not found in DIGAR text layer):** Full-issue *Revalsche Zeitung* PDF **14 Jul 1872** was searched **2026-03-23** via embedded text for **Familien-Nachrichten**, **Eylandt**, **Emilie**, **Erbe** — **no** matching line; see [DIGAR URL sheet](../sources/erbe-baltic-digar-newspaper-urls.md).
 - MyHeritage URL in **`@S43@`** on Emilie’s block.

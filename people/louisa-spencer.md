@@ -32,7 +32,7 @@ Husband: William Evans. Child: Alfred Edward William Evans.
 
 **Export:**
 
-- **Export:** MyHeritage **`@I290@`** — birth union **F191** in [family-tree.json](../family-tree.json); parents and siblings still placeholders in the graph until stubs exist.
+- **Export:** **treeId** **I290** — birth union **F191** in the working tree; parents and siblings still placeholders in the graph until stubs exist.
 - Death and burial not in the JSON slice used here — same export individual when merging vitals.
 - Confirm [Louisa Spencer Birth.jpg](../media/docs/Louisa%20Spencer%20Birth.jpg) matches I290 / same Ancestry person as corpus PDF.
 

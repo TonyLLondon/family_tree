@@ -29,7 +29,7 @@ James Stackpole was the husband of [Christian MacMahon](christian-macmahon.md) a
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I372@`** — unions **F175**, **F176** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I372** — unions **F175**, **F176** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

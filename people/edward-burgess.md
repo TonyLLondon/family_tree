@@ -130,7 +130,7 @@ Anna's testimony (interview, Leicester, March 1880) provides the only account of
 
 **Export:**
 
-- MyHeritage **`@I79@`** — parents’ union **F40** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I79** — parents’ union **F40** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ### Iranian press history (Persian-language sources)
 

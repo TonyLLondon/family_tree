@@ -29,4 +29,4 @@ Parents: David John Lewis; Fulvia Ottilia Antonia Zerauschek. Siblings and desce
 
 **Export:**
 
-- `treeId` I39; GEDCOM `@I39@`. Chart label “Peter Morgan LEWIS” vs memoir “Peter Martin Lewis” — both preserved in YAML `also_known_as`.
+- **treeId** **I39** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). Chart label “Peter Morgan LEWIS” vs memoir “Peter Martin Lewis” — both preserved in YAML `also_known_as`.

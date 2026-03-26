@@ -15,7 +15,7 @@ mother: henriette-bottin
 
 **Jacques**—**Jacque** on the Henderson chart—was **Morges-born** in **February 1920**, youngest **Stump** son of **[Étienne](etienne-stump.md)** and **[Henriette](henriette-bottin.md)** in the decade when the family was already threading **Switzerland** and **Persia**. He died **November 2013** at **Villars-sur-Ollon**, a Vaud resort town—alpine air, old age, the Swiss bookend to a Tehran childhood he shared with **[Robert](robert-marc-murard-stump.md)** and his brothers.
 
-Spouse and further descendants: see [family-tree.json](../family-tree.json) (export union **F185**).
+Spouse and further descendants: see **Export** below (export union **F185**).
 
 ## Family
 
@@ -25,5 +25,4 @@ Spouse and further descendants: see [family-tree.json](../family-tree.json) (exp
 ## Evidence
 
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md).
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I395@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Child of **F6**; marriage **F185**.
+- **Export:** **treeId** **I395** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Child of **F6**; marriage **F185**.

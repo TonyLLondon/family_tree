@@ -51,15 +51,14 @@ His published work moves from **FAB** and **electrospray** through **thermospray
 
 - Parents: [David John Lewis](david-john-lewis.md); [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md).
 - Wife: [Catherine Stump](catherine-stump.md).
-- Children: [Anthony Robert Lewis](anthony-robert-lewis.md) and others — [family-tree.json](../family-tree.json).
+- Children: [Anthony Robert Lewis](anthony-robert-lewis.md) and others — not yet on individual pages.
 
 ## Evidence
 
 - Springer author page for *LC/MS* book: [link.springer.com/book/10.1007/978-1-4899-3605-9](https://link.springer.com/book/10.1007/978-1-4899-3605-9) — affiliation **King's College, London, UK**.
 - Google Scholar results for author "Ivor A. S. Lewis": ~27 publications (1980–1999).
 - Open Library author record: [openlibrary.org/authors/OL3419627A](https://openlibrary.org/authors/OL3419627A).
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage GEDCOM **`@I2@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Unions **F1**, **F4** in same graph.
+- **Export:** **treeId** **I2** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Unions **F1**, **F4** in same graph.
 
 ## Open questions
 

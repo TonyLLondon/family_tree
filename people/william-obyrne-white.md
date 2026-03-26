@@ -68,7 +68,7 @@ Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** i
 
 - Parents: [Matthew Esmond White](matthew-esmond-white.md); [Catherine Byrne](catherine-byrne.md)
 - Wife: [Catherine Mary Roche](catherine-mary-roche.md)
-- Children: [Gerald Sebastian White](gerald-sebastian-white.md) and siblings — [family-tree.json](../family-tree.json)
+- Children: [Gerald Sebastian White](gerald-sebastian-white.md) and siblings — not yet on individual pages
 
 ## Evidence
 
@@ -77,10 +77,8 @@ Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** i
 - [Army List — surgeon lieutenant-colonels](../sources/army-list-amd-surgeon-lt-colonels.md) · [scan](../media/docs/Army%20List%20non-effective%20surgeon%20lieutenant-colonels%20page%202056-7%20Adye-Curran%20to%20White.jpg)
 - [Army Medical Department half-pay register](../sources/army-medical-department-half-pay-register.md) · [scan](../media/docs/Army%20Medical%20Department%20half%20pay%20register%20page%201080%20Lt%20Colonels%20and%20Surgeon%20Majors.jpg)
 - [FIBIwiki — Jubbulpore](../sources/fibis-jubbulpore.md) — station context
-- **Export:** MyHeritage **`@I135@`**; unions **F67** (with Catherine Mary Roche), **F157** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged)
+- **Export:** **treeId** **I135**; unions **F67** (with Catherine Mary Roche), **F157** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged)
 - [O'Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/)
-- [family-tree.json](../family-tree.json)
-
 ## Open questions
 
 - **Campaign medals** — Royal Scots 2nd Bn in Central Provinces 1866–1885: any active service (Second Anglo-Afghan War 1878–1880 is in range; search London Gazette for White's name in campaign dispatches)

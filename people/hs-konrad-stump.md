@@ -34,12 +34,11 @@ children:
 
 - Wife: [Anna Margaretha Jung](anna-margaretha-jung.md).
 - Parents: [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md); [Anna Barbel Kaegi](anna-barbel-kaegi.md).
-- Children: [Hans Ulrich Stump](hans-ulrich-stump.md); further children on the marriage union in [family-tree.json](../family-tree.json).
+- Children: [Hans Ulrich Stump](hans-ulrich-stump.md); further children on the marriage union in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I146@`** — unions **F73**, **F74** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KF58-2K8**.
+- **Export:** **treeId** **I146** — unions **F73**, **F74** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KF58-2K8**.
 
 ## Open questions
 

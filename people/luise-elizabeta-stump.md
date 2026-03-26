@@ -29,6 +29,5 @@ Sister of [Marc Francois Stump](marc-francois-stump.md); both children of [Hans 
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I393@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Export:** **treeId** **I393** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection.

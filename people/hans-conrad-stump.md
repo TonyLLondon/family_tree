@@ -29,8 +29,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I148@`** — unions **F74**, **F76** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K67V-HSP**.
+- **Export:** **treeId** **I148** — unions **F74**, **F76** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K67V-HSP**.
 
 ## Open questions
 

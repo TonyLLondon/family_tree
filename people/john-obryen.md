@@ -17,9 +17,7 @@ John O’Bryen was father of [Sarah O'Bryen](sarah-obryen.md). The export slice 
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I362@`** — union **F169** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I362** — union **F169** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Spouse** — this export’s household record for Sarah’s birth family names no wife line.

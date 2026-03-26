@@ -19,11 +19,11 @@ Hans Conrad Haag was the husband of [Margaretha Freyenmuth](margaretha-freyenmut
 ## Family
 
 - Wife: [Margaretha Freyenmuth](margaretha-freyenmuth.md).
-- Children include [Anna Margaretha Hagg](anna-margaretha-hagg.md); see [family-tree.json](../family-tree.json) for the full sibling list in the same household.
+- Children include [Anna Margaretha Hagg](anna-margaretha-hagg.md); see **Export** below for the full sibling list in the same household.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I182@`** — union **F92** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KC92-TYB**.
+- **Export:** **treeId** **I182** — union **F92** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KC92-TYB**.
 
 ## Open questions
 

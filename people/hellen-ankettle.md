@@ -22,8 +22,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I342@`** — unions **F160** (with Thomas Roche), **F168** (father) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MMZP-LMX**.
+- **Export:** **treeId** **I342** — unions **F160** (with Thomas Roche), **F168** (father) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MMZP-LMX**.
 
 ## Open questions
 

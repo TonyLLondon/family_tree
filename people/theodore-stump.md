@@ -21,5 +21,4 @@ mother: henriette-bottin
 
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md).
 - Photo: [Etienne, Henriette, Robert and Theo](../media/albums/henderson/Etienne,%20Henriette,%20Robert%20and%20Theo.jpg).
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I394@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Child of union **F6** in same graph.
+- **Export:** **treeId** **I394** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Child of union **F6** in same graph.

@@ -21,8 +21,7 @@ children:
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I57@`** — union **F26** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
+- **Export:** **treeId** **I57** — union **F26** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - **Birth register of daughter Gerarda, Entry 107, 12 Jul 1825:** "Annastasia Castalanich nata e d. abitaanta in Zara Calle S. Michele al Nº 590… Cucitrice" — [media/collections/zerauschek/Zerauschek (1)/Birth Gerarda Rovaro Brizzi Zara 1825.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Gerarda%20Rovaro%20Brizzi%20Zara%201825.jpg).
 - **Marriage register of daughter Gerarda, 26 Oct 1845:** "Castellanovich Anastasia… Zara, Cucite [Cucitrice]" — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Rovaro Brizzi Zara 1845.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Rovaro%20Brizzi%20Zara%201845.jpg).
 - **Birth register, Zara, 1799:** [media/collections/zerauschek/Zerauschek (1)/Birth Anastasia Castellanich Zara 1799.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Anastasia%20Castellanich%20Zara%201799.jpg) — untranscribed; would provide birth date and parents.

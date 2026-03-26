@@ -21,9 +21,7 @@ Giovanni Erenda was the husband of [Giuseppina Magassich](giuseppina-magassich.m
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I391@`** — union **F184** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I391** — union **F184** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Herenda** etymology vs parish spellings on **Pag** / **Zara** books.

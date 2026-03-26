@@ -15,7 +15,7 @@ children:
 
 # Georg Busse
 
-With his wife [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md), Georg Busse was father of [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) and of other children listed under the same household in [family-tree.json](../family-tree.json). A Geni scrape gives the alias **Jürgen**, occupation tailor (*Schneider*) in Reval, and death on 19 March 1757 at Tallinn, which matches the structured death event in the export.
+With his wife [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md), Georg Busse was father of [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) and of other children listed under the same household in the working tree. A Geni scrape gives the alias **Jürgen**, occupation tailor (*Schneider*) in Reval, and death on 19 March 1757 at Tallinn, which matches the structured death event in the export.
 
 ## Life
 
@@ -25,13 +25,11 @@ With his wife [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md),
 ## Family
 
 - Wife: [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md).
-- Children include [Ernst Gottlieb Busse](ernst-gottlieb-busse.md); see [family-tree.json](../family-tree.json) for the full sibling set.
+- Children include [Ernst Gottlieb Busse](ernst-gottlieb-busse.md); see **Export** below for the full sibling set.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I308@`** — union **F145** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); MyHeritage **Geni** URL in **SOUR**.
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I308** — union **F145** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); MyHeritage **Geni** URL in **SOUR**.
 ## Open questions
 
 - **Birth** — Geni lists many children; birth event not in the export slice for this individual—pull full **INDI** or Tallinn guild books.

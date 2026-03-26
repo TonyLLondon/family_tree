@@ -30,9 +30,7 @@ With his wife [Hedwig Helene Busch](hedwig-helene-busch.md) he was father of [Ca
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I312@`** — union **F148** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KJ5Q-8JD**.
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I312** — union **F148** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KJ5Q-8JD**.
 ## Open questions
 
 - **“I.”** — distinguishes from later **Caspar Martin** descendants in Baltic registers.

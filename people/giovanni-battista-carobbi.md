@@ -19,8 +19,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I65@`** — union **F32** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** in **SOUR**.
+- **Export:** **treeId** **I65** — union **F32** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** in **SOUR**.
 - **Birth register, Segna, 1745:** [Birth Giovanni Battista Carobbi Segna 1745.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Giovanni%20Battista%20Carobbi%20Segna%201745.jpg).
 
 ## Open questions

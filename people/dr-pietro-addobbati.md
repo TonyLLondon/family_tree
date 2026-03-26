@@ -45,7 +45,7 @@ He died in Zara on 4 November 1832. The registers quiet; the briefs and decrees 
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) — birth 1769, death 4 Nov 1832.
+- Merged export / site graph: birth **1769**, death **4 Nov 1832** (matches YAML **treeId** for this page).
 - **Sabalich, *Guida archeologica di Zara* (1897), pp. 504–508:** principal civic career — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
 - **Granić 1817 Nin list:** Dr. Petar among 1804 admissions — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) → [corpus/granic-nin-noble-list-1817/](../sources/corpus/granic-nin-noble-list-1817/).
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — Nin confirmation; 1786 Golden Spur diploma — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md).

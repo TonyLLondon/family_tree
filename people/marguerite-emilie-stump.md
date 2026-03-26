@@ -23,7 +23,7 @@ Third child of [Marc Francois Stump](marc-francois-stump.md) and [Olga Caroline 
 - **Baptised 31 December 1872** at home, registered in **Tallinn Dome** congregation. Godparents: Miss **Amalie Weisse**, Mrs **Caroline Pfeiffer** née **Eylandt**, Mrs **Weisse** (wife of a doctor), Mr **Edmund Erbe**, senior teacher **Roselfeldt**, Miss **Valerie Rosenbaum**.
 - **Confirmed 21 October 1890** in Tallinn.
 - **Holy Communion 11 April 1902** in Tallinn Dome congregation.
-- **Married 11 August 1902** in Tallinn Dome congregation to **Cuno Alfred von Frey** ([EBC](../sources/estonian-biographical-center-stump-report-2005.md); matches **F207** marriage date in [family-tree.json](../family-tree.json)).
+- **Married 11 August 1902** in Tallinn Dome congregation to **Cuno Alfred von Frey** ([EBC](../sources/estonian-biographical-center-stump-report-2005.md); matches **F207** marriage date in the working tree).
 - **1902** — left the Tallinn Dome congregation and joined a **Lutheran congregation in Valmiera, Latvia** (husband's place of residence).
 - **1910** — the Louise Stump obituary lists mourners including *"Kuno Frey and wife in Libaži"* (Limbazi, Latvia), confirming Marguerite was **alive** in 1910. The merged export's death date of "1910" is almost certainly a **last-known-alive date misrecorded as death**; no cause or place of death appears in any source.
 
@@ -37,9 +37,7 @@ Third child of [Marc Francois Stump](marc-francois-stump.md) and [Olga Caroline 
 ## Evidence
 
 - [Estonian Biographical Center — Stump family Tallinn research (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — birth, baptism, godparents, confirmation, communion, marriage, move to Valmiera, 1910 Louise Stump obituary.
-- **Export:** MyHeritage **`@I400@`** — unions **F70**, **F207** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json) — topology.
-
+- **Export:** **treeId** **I400** — unions **F70**, **F207** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Actual date and place of death.** The export's "1910 Latvia" is not confirmed by EBC; she was alive in 1910.

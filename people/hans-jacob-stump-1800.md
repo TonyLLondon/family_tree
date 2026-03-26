@@ -31,12 +31,11 @@ The export places birth and christening **15 June 1800** at **Sulgen**, **Thurga
 
 - Parents: [Hans Ulrich Stump](hans-ulrich-stump.md); [Anna Margaretha Hagg](anna-margaretha-hagg.md).
 - Wife: [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md).
-- Children: [Marc Francois Stump](marc-francois-stump.md); [Luise Elizabeta Stump](luise-elizabeta-stump.md); full list in [family-tree.json](../family-tree.json).
+- Children: [Marc Francois Stump](marc-francois-stump.md); [Luise Elizabeta Stump](luise-elizabeta-stump.md); full list in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I142@`** — unions **F71**, **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSXZ-Z6F**.
+- **Export:** **treeId** **I142** — unions **F71**, **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSXZ-Z6F**.
 
 ## Open questions
 

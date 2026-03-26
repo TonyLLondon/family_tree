@@ -24,7 +24,7 @@ She died **November 1968**; the exact day waits on an index image.
 
 - Parents: [Cornelius O'Shea](cornelius-oshea.md); [Catherine Enright](catherine-enright.md).
 - Husband: [Gerald Sebastian White](gerald-sebastian-white.md).
-- Children: [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md) and others — [family-tree.json](../family-tree.json).
+- Children: [Maureen Catherine Finbarr White](maureen-catherine-finbarr-white.md) and others — not yet on individual pages.
 
 ## Evidence
 
@@ -32,8 +32,7 @@ She died **November 1968**; the exact day waits on an index image.
 - [1911 Ireland census — Monkstown household](../media/docs/1911%20Ireland%20census%20Form%20A%20Catherine%20O%27Shea%20household%20Monkstown%20boarders%20Form%20B34.jpg).
 - [1901 Ireland census — Cork Enright/O’Shea context](../media/docs/1901%20Ireland%20census%20Form%20A%20Cork%20Catherine%20Enright%20O%27Shea%20grandchildren%20Form%20B7.jpg).
 - [Portrait — Mary (May) O’Shea](../media/docs/Mary%20(May)%20O%27Shea.jpg).
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I13@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Marital union **F8** with Gerald.
+- **Export:** **treeId** **I13** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Marital union **F8** with Gerald.
 
 ## Open questions
 

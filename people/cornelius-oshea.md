@@ -51,9 +51,7 @@ He married [Catherine Enright](catherine-enright.md) around **1892**. Mary's bir
 - [Cornelius O'Shea.jpg](../media/docs/Cornelius%20O%27Shea.jpg) — portrait photograph (later life).
 - [Mary's birth certificate](../media/docs/Ireland%20birth%20certificate%20Mary%20O%27Shea%201893-02-19%20Monkstown%20parents%20Cornelius%20O%27Shea%20Catherine%20Enright%20copy%201967.jpg) — civil registration naming **Cornelius O'Shea, National Teacher, Castle Terrace, Monkstown** and **Catherine O'Shea, formerly Enright**; informant Catherine Enright (grandmother); copy certified 12 April 1967.
 - **[1905 Teachers' Census](../sources/corpus/teachers-census-1905/)** — NAI/ED/PCO/10/1/29 (O'Keane–O'Sullivan); Cornelius is **absent** from the O'Shea entries (pages 15–17), confirming he was no longer a serving national teacher by March 1905.
-- GEDCOM **`@I118@`**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [family-tree.json](../family-tree.json).
-
+- **treeId** **I118**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 ## Open questions
 
 - **Birth, marriage, and death** civil records for Cornelius — none located yet.

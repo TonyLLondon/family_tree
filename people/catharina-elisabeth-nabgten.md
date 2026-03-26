@@ -26,9 +26,7 @@ Catharina Elisabeth Nabgten was the wife of [Hanns Erbe](hanns-erbe.md) and moth
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I321@`** — union **F152** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I321** — union **F152** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Surname orthography** — primary **Erbe–Nabgten** marriage image.

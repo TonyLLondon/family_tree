@@ -34,12 +34,11 @@ English **banker, economist, and editor** (Schwartz, NYPL Bulletin) — father o
 
 - Parents: [Joseph Burgess](joseph-burgess.md); [Sarah Airey](sarah-airey.md) (Quaker marriage **6 Feb 1769**, Stramongate Meeting House, Kendal).
 - Wife: [Frances Ridsdale](frances-ridsdale.md).
-- Children: **Charles Henry Burgess** (eldest; Persian trade **1827** onward; died Aix-la-Chapelle winter **1854–55**); [Edward Burgess](edward-burgess.md); **Joseph** (“brother Joe,” Liverpool schooling); **George** (Philadelphia / New York; Edward’s main correspondent from the **1840s**). Full list and ids: [family-tree.json](../family-tree.json).
+- Children: **Charles Henry Burgess** (eldest; Persian trade **1827** onward; died Aix-la-Chapelle winter **1854–55**); [Edward Burgess](edward-burgess.md); **Joseph** (“brother Joe,” Liverpool schooling); **George** (Philadelphia / New York; Edward’s main correspondent from the **1840s**). Further siblings appear in the merged export and **Export** section below.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I81@`** — unions **F40** (with Frances), **F41** (parents) — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [family-tree.json](../family-tree.json).
+- **Export:** **treeId** **I81** — unions **F40** (with Frances), **F41** (parents) — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - [Burgess Persian Letters — full volume](../sources/corpus/burgess-persian-letters-full-volume/) — Schwartz's introduction identifies Henry as "the English banker, economist, and editor." Henry's letter (Part II, Oct 1830) is the only surviving letter *from* him in the collection. Edward's letters throughout contain extensive references to Henry's character, finances, and role.
 - [NYPL / Burgess corpus cluster](../sources/nypl-burgess-corpus-cluster.md) — Schwartz bulletin parts, full letters volume, scans.
 - **Sun-chart portrait (Henry):** [henry-burgess.jpg](../media/images/portraits/henry-burgess.jpg) — extracted from the family sun chart; was mislabelled `joseph-burgess.jpg` and corrected. Also on file: [Henry Burgess.jpg](../media/images/loose/Henry%20Burgess.jpg) (loose copy). Tie to [NYPL Burgess papers / seated portrait note](../sources/corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md) (finding aid mentions **Henry Burgess** cartes-de-visite) or other primary ID before treating sitter as proved.

@@ -20,7 +20,7 @@ Wendel Rutishauser was the husband of [Adelheit Claarer](adelheit-claarer.md) an
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I171@`** — union **F86** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I171** — union **F86** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

@@ -50,10 +50,10 @@ Parents: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); [Jeanne Benigne
 
 **Export:**
 
-- `treeId` I140; GEDCOM `@I140@`; marriage F70 to Olga; parents’ union F71. GEDCOM: [Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **treeId** **I140** — marriage **F70** (Olga); parents’ union **F71** — [Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - FamilySearch (in export text): Switzerland baptisms ark `/61903/1:1:FVFK-CQH` — Markus Franz Stump, 1834.
-- Children: Jean `I398`, Arthur `I399`, Marguerite `I400`, Antoinette `I401`, Étienne `I16`.
-- [family-tree.json](../family-tree.json) — topology; vitals may be minimal in JSON `meta.coverage`.
+- Children in export: **I398** (Jean), **I399** (Arthur), **I400** (Marguerite), **I401** (Antoinette), **I16** (Étienne).
+- Person card **Coverage** may stay thin until parish work lands; same person in YAML above.
 
 ## Open questions
 

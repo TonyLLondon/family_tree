@@ -39,7 +39,6 @@ He died in Zara on 28 January 1839. The 1845 marriage of his posthumous “voice
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
 - **Sabalich, *Guida archeologica di Zara* (1897), p. 508:** “Vincenzo Addobbati q m Luigi (nato 1776)” — parentage confirmed; birth year 1776 **superseded** by 1811 register and DAZD (24 Mar 1781) — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
 - **Marriage register, Entry nº 13, 25 Feb 1811:** age “d'anni 30 c.a”, ceremony in bride's house, five civic witnesses; father “fù Luigi”, mother “fù Maddalena Plavina” — [media/collections/zerauschek/Zerauschek (1)/Matrimonio Addobbati Coltelli Zara 1811.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Matrimonio%20Addobbati%20Coltelli%20Zara%201811.jpg).
 - **Sabalich p. 505:** 1804 Nin diploma: “D.r Petri et Joanes Vincentis fratres Addobbati q m Aloysium.”
@@ -47,7 +46,7 @@ He died in Zara on 28 January 1839. The 1845 marriage of his posthumous “voice
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — 1 July 1804 Nin municipal confirmation — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Celić 1806 census:** “Vicko Addobbati” in Zara citizen council — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Export:** GEDCOM individual `@I29@`, families F14 / F15 — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch GW1S-CGK.
+- **Export:** **treeId** **I29**, families F14 / F15 — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch GW1S-CGK.
 
 ## Open questions
 

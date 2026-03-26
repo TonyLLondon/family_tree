@@ -25,12 +25,11 @@ children:
 ## Family
 
 - Husband: [Thomas Griffiths](thomas-griffiths.md).
-- Children: [Catherine Griffiths](catherine-griffiths.md); further children on union in [family-tree.json](../family-tree.json).
+- Children: [Catherine Griffiths](catherine-griffiths.md); further children on union in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I423@`** — union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); census extracts as for Thomas Griffiths.
+- **Export:** **treeId** **I423** — union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); census extracts as for Thomas Griffiths.
 
 ## Open questions
 

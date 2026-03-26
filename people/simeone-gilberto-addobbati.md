@@ -44,9 +44,8 @@ His end matched the theatre of his life. On 20 June 1926 he died in Zara while g
 - **Hungaricana Schematismus (1887 / 1909 page exports):** [hungaricana-militar-almanach-1887-pp471-472](../sources/corpus/hungaricana-militar-almanach-1887-pp471-472/extracted.pdf.md) · [hungaricana-kriegsmarine-schematismus-1909-pp169-172](../sources/corpus/hungaricana-kriegsmarine-schematismus-1909-pp169-172/extracted.pdf.md); PDFs under [media/docs/hungaricana-schematismus/](../media/docs/hungaricana-schematismus/).
 - **Further URLs (HAZU, KA leaflets, etc.):** [simeone-addobbati-digital-references.md](../sources/simeone-addobbati-digital-references.md).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — Teresianum, death at the ball, Lisette's death during 1943 exodus.
-- [family-tree.json](../family-tree.json).
 - Context: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Export:** GEDCOM individual `@I54@`, families F12 / F27 — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I54**, families F12 / F27 — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

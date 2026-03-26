@@ -10,12 +10,11 @@ children:
 
 # William Moran
 
-William Moran was father of [Elizabeth Moran](elizabeth-moran-i230.md). As with the parallel **F114** household, the export models only one parent for Elizabeth’s birth family; the other side is not present in JSON.
+William Moran was father of [Elizabeth Moran](elizabeth-moran-i230.md). As with the parallel **F114** household, the export models only one parent for Elizabeth’s birth family; the other parent is not attached in the working graph.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I232@`** — union **F115** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json) **`I232`**.
+- **Export:** **treeId** **I232** — union **F115** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
 
 ## Open questions

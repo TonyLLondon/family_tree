@@ -26,9 +26,7 @@ Marianna Billicich was the wife of [Casimiro Carobbi](casimiro-carobbi.md) and m
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I64@`** — unions **F31**, **F33** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L22T-T73**.
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I64** — unions **F31**, **F33** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L22T-T73**.
 ## Open questions
 
 - **Billicich / Bilicic** spelling — same family, clerical variants.

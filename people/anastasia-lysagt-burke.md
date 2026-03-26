@@ -33,8 +33,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I368@`** — unions **F172**, **F178** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KCQZ-SZY**.
+- **Export:** **treeId** **I368** — unions **F172**, **F178** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KCQZ-SZY**.
 
 ## Open questions
 

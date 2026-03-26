@@ -32,12 +32,11 @@ She died in **Merthyr** in **November 1972**, a few years after Samuel; the vall
 
 - Parents: [David Cushen](david-cushen.md); [Mary Morgan](mary-morgan.md).
 - Husband: [Samuel Lewis](samuel-lewis.md).
-- Children: [David John Lewis](david-john-lewis.md); [Brynmor Keith Lewis](brynmor-keith-lewis.md) — [family-tree.json](../family-tree.json).
+- Children: [David John Lewis](david-john-lewis.md); [Brynmor Keith Lewis](brynmor-keith-lewis.md) — not yet on individual pages.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I28@`** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). **1891** child: **RG12** piece **4438**, schedule **57**. Marital union **F7** with Samuel; parental union **F88**.
+- **Export:** **treeId** **I28** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). **1891** child: **RG12** piece **4438**, schedule **57**. Marital union **F7** with Samuel; parental union **F88**.
 
 ## Open questions
 

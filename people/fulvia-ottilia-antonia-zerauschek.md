@@ -24,13 +24,13 @@ She died at **Hove** in **Sussex** in **2000** and was laid to rest at **Sirmion
 
 ## Life
 
-The published tree labels her occupation **Collector**—treat that as an export from an online tree until a primary record says otherwise. What is certain from this vault is lineage, marriage to David John Lewis, and children including [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md); the full sibling set sits in [family-tree.json](../family-tree.json).
+The published tree labels her occupation **Collector**—treat that as an export from an online tree until a primary record says otherwise. What is certain from this vault is lineage, marriage to David John Lewis, and children including [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md); the full sibling set sits in the working tree.
 
 ## Family
 
 - Parents: [Antonio Zerauschek](antonio-zerauschek.md); [Ester Addobbati](ester-addobbati.md).
 - Husband: [David John Lewis](david-john-lewis.md).
-- Children: [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md) and siblings — see [family-tree.json](../family-tree.json).
+- Children: [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md) and siblings — see **Export** below.
 
 ## Evidence
 
@@ -40,7 +40,7 @@ The published tree labels her occupation **Collector**—treat that as an export
 - Father’s obituary (*Difesa Adriatica*, 1973): [scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg) · [transcript + English](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md).
 - [Adolfobati family portrait (caption references Zerauschek line)](../media/docs/Adolfobati%20family%20portrait%20nine%20Ottilie%20Piero%20Vittoria%20Pietro%20Ester%20Nonna%20caption.jpeg).
 - Scans: [media/collections/zerauschek/](../media/collections/zerauschek/).
-- **Export:** GEDCOM individual `@I9@` — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged) (FamilySearch / MyHeritage citation blocks, death index, Geni URL inside same file).
+- **Export:** **treeId** **I9** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged) (FamilySearch / MyHeritage citation blocks, death index, Geni URL inside same file).
 
 ## Open questions
 

@@ -26,8 +26,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I323@`** — unions **F154** (with Anne), **F155** (father only) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I323** — unions **F154** (with Anne), **F155** (father only) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - FamilySearch **L6YD-3ZB**.
 
 ## Open questions

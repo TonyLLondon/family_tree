@@ -31,7 +31,7 @@ The **1886** passport birth and the **1888** export birthday may be one woman tw
 
 - Parents: [Julien Bottin](julien-bottin.md); [Fanny Burgess](fanny-burgess.md).
 - Husband: [Étienne Stump](etienne-stump.md).
-- Children: [Robert Marc Murard Stump](robert-marc-murard-stump.md) and others — [family-tree.json](../family-tree.json).
+- Children: [Robert Marc Murard Stump](robert-marc-murard-stump.md) and others — not yet on individual pages.
 
 ## Evidence
 
@@ -40,8 +40,7 @@ The **1886** passport birth and the **1888** export birthday may be one woman tw
 - [Etienne, Henriette, Robert and Theo](../media/albums/henderson/Etienne,%20Henriette,%20Robert%20and%20Theo.jpg).
 - Baltic parents-in-law digest: [Estonian Biographical Center report (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — [Marc Francois Stump](marc-francois-stump.md); [Olga Caroline Erbe](olga-caroline-erbe.md).
 - Narrative: [Saginian · Burgess · Bottin · Stump](../stories/saginian-burgess-bottin-stump.md) — §4.
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I76@`** — alternate birth **26 Jun 1888**, name variant **Henriette Louise Bottin**; marriage **F6** with Étienne — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Export:** **treeId** **I76** — alternate birth **26 Jun 1888**, name variant **Henriette Louise Bottin**; marriage **F6** with Étienne — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 
 ## Topics
 

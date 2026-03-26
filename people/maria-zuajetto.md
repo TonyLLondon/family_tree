@@ -21,9 +21,7 @@ Maria Zuajetto was the wife of [Antonio Guerino](antonio-guerino.md) and mother 
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I390@`** — union **F183** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I390** — union **F183** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Zuajetto** spelling variants in Venetian / Dalmatian registers.

@@ -40,7 +40,7 @@ Children named in family pages: [Antonio](antonio-zerauschek.md), [Marie](marie-
 - **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 - **ITS/IRO file (1951) — Riccardo Zerauschek:** [sources/its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) — mother as “ZERAUSCHEK geb. HERENDA, Anna”; father Antonio “late.”
-- **Export:** MyHeritage GEDCOM **`@I26@`**; union with senior Antonio as **F13**; her parents’ marriage **F184** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I26**; union with senior Antonio as **F13**; her parents’ marriage **F184** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

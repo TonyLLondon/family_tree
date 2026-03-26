@@ -28,8 +28,7 @@ Pietro Plarino was the husband of **Margherita Canova** (daughter of the late **
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I129@`** — union **F64** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@**.
-- [family-tree.json](../family-tree.json).
+- **Export:** **treeId** **I129** — union **F64** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@**.
 - **Marriage register, p. 163, 4 Apr 1766:** "figlia del Sig.r Pietro Plarinò" — [media/collections/zerauschek/Zerauschek (1)/Marriage Luigi Addobbati Plarinò Zara 1766.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Luigi%20Addobbati%20Plarin%C3%B2%20Zara%201766.jpg).
 - **Marriage register, 19 Oct 1732:** "il S.r Pietro Plarinò con la S.ra Margherita figlia del q.m Gio Maria Canova" — [media/collections/zerauschek/Zerauschek (1)/Marriage Plarinò Canova Zara 1732.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Plarin%C3%B2%20Canova%20Zara%201732.jpg).
 - **Older child's baptism, Zara, 1734:** [media/collections/zerauschek/Zerauschek (1)/Birth Maria Domenica Plarinò Zara 1734.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Maria%20Domenica%20Plarin%C3%B2%20Zara%201734.jpg) — untranscribed; Maria Domenica, older sister of Maddalena.

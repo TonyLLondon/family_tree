@@ -27,9 +27,7 @@ Perina Sandri was the wife of [Pietro Paolo Coltelli](pietro-paolo-coltelli.md) 
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I123@`** — unions **F61**, **F66** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GWF6-LGY**.
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I123** — unions **F61**, **F66** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GWF6-LGY**.
 ## Open questions
 
 - **Sandri** mother — birth-family record in export lacks a mother line; recover from parish.

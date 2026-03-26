@@ -25,8 +25,7 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I88@`** — unions **F42** (with Sarah Grave), **F96** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LHDT-5PG**.
+- **Export:** **treeId** **I88** — unions **F42** (with Sarah Grave), **F96** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LHDT-5PG**.
 
 ## Open questions
 

@@ -20,9 +20,7 @@ Anna Lachenauer was the wife of [Aenderli Heinrich](aenderli-heinrich.md) and mo
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I158@`** — union **F79** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I158** — union **F79** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Lauchenauer** / **Lauchnauer** in **Thurgau** tax lists.

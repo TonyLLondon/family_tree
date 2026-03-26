@@ -38,11 +38,11 @@ The Geni block bundled into the merged export lists many children besides Olga (
 
 - Parents: [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md); [Caroline Sophie Heimberger](caroline-sophie-heimberger.md).
 - Wife: [Emilie Ida Eylandt](emilie-ida-eylandt.md).
-- Children: [Olga Caroline Erbe](olga-caroline-erbe.md); [Eugen Edmund Erbe](eugen-edmund-erbe.md); further children on the **Hermann–Emilie** union in [family-tree.json](../family-tree.json).
+- Children: [Olga Caroline Erbe](olga-caroline-erbe.md); [Eugen Edmund Erbe](eugen-edmund-erbe.md); further children on the **Hermann–Emilie** union in the working tree.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I298@`** — unions **F140**, **F141** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I298** — unions **F140**, **F141** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - **Web (BBLD / GND / Geni hub):** [Erbe / Eylandt — Baltic German line (web references)](../sources/erbe-baltic-german-web-references.md) — [BBLD Hermann Eberhard Erbe](https://bbld.de/GND1203190484), [Deutsche Biographie GND 1203190484](https://www.deutsche-biographie.de/1203190484.html), [EADB index entry](https://amburger.ios-regensburg.de/?id=65373) (linked from BBLD **Nachweise**).
 - **Local corpus:** [Baltic Erbe / Stump cluster](../sources/baltic-erbe-stump-corpus-cluster.md) · [BBLD mirror](../sources/corpus/bbld-erbe-hermann-eberhard-gnd1203190484/extracted.web.md) · [Deutsche Biographie mirror](../sources/corpus/deutsche-biographie-hermann-erbe-gnd1203190484/extracted.web.md) · [EADB mirror](../sources/corpus/eadb-erbe-hermann-memorial-65373/extracted.web.md) — see [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md#local-corpus-offline-mirrors).
 - **Son’s obituary (press scan):** [DIGAR nr. 19, 23 Jan 1908 — page 2 JPEG](../sources/corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/pages-jpeg/page-02-of-04.jpg) (necrology column; compare wording to transcript).

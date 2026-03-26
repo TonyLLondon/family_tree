@@ -28,9 +28,7 @@ Pietro Paolo Coltelli was the husband of [Perina Sandri](perina-sandri.md) and f
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I122@`** — unions **F61**, **F65** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I122** — unions **F61**, **F65** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Mother (birth)** — missing mother in the export’s birth-family record; add from Zara baptism of **Pietro Paolo Coltelli**.

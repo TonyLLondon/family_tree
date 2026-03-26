@@ -29,10 +29,9 @@ children:
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I145@`** — union **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KHPV-HT6**.
+- **Export:** **treeId** **I145** — union **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KHPV-HT6**.
 
 ## Open questions
 
 - Full birth date from **Hüttwilen** baptism book.
-- Other children on parental union **F92**—see [family-tree.json](../family-tree.json).
+- Other children on parental union **F92**—see **Export** below.

@@ -31,7 +31,7 @@ Her son **[Samuel Lewis](samuel-lewis.md)**—the boy who would go down the pit 
 ## Family
 
 - Husband: [David John Lewis (1857)](david-john-lewis-1857.md).
-- Children: [Samuel Lewis](samuel-lewis.md) and others — [family-tree.json](../family-tree.json).
+- Children: [Samuel Lewis](samuel-lewis.md) and others — not yet on individual pages.
 - Parents: [Thomas Griffiths](thomas-griffiths.md); [Anne](anne.md) (surname blank in export).
 
 ## Photographs
@@ -41,8 +41,7 @@ Her son **[Samuel Lewis](samuel-lewis.md)**—the boy who would go down the pit 
 ## Evidence
 
 - Coalfield narrative: [Lewis in Aberdare and Merthyr](../stories/lewis-aberdare-merthyr-coalfield.md) — **1911** schedule and mortality arithmetic.
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I174@`**; marriage **F87** with David; parents’ union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). FamilySearch id **GWPL-SVD** in export text.
+- **Export:** **treeId** **I174**; marriage **F87** with David; parents’ union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). FamilySearch id **GWPL-SVD** in export text.
 
 ## Open questions
 

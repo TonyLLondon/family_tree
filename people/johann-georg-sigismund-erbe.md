@@ -34,11 +34,11 @@ He married [Caroline Sophie Heimberger](caroline-sophie-heimberger.md). Their so
 
 - Parents: [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md); [Johanna Magdalena Schultz](johanna-magdalena-schultz.md).
 - Wife: [Caroline Sophie Heimberger](caroline-sophie-heimberger.md).
-- Children: [Hermann Eberhard Erbe](hermann-eberhard-erbe.md); further siblings in [family-tree.json](../family-tree.json).
+- Children: [Hermann Eberhard Erbe](hermann-eberhard-erbe.md); further siblings in the working tree.
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I300@`** — unions **F141**, **F149** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I300** — unions **F141**, **F149** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - MyHeritage URL in **`@S43@`** (“Georg Sigismund Erbe”).
 - **Web (Mar 2026):** no **BBLD** / **Wikipedia** article located for this name + **Gotha / Pärnu Schulinspektor** cluster; see [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md) § *Thuringian / Franconian Erbe line*.
 

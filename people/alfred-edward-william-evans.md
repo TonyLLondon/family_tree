@@ -37,10 +37,10 @@ Parents: William Evans; Louisa Spencer. Wife: Annie Fensom. Child: Joseph Evans 
 
 **Export:**
 
-- MyHeritage **`@I101@`** — [web/photo-map.json](../web/photo-map.json) maps **`I101`** to the first portrait path. Parents’ union **F136**; marriage to Annie **F50**.
+- **treeId** **I101** — [web/photo-map.json](../web/photo-map.json) maps **`I101`** to the first portrait path. Parents’ union **F136**; marriage to Annie **F50**.
 - **1939 Register:** RG101/0291F/005, schedule 61 — Alfred Evans, costermonger, Islington (citation from export metadata only).
 - [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [family-tree.json](../family-tree.json) — **`I101`**.
+- **Site:** [Ancestor chart](/chart) — **treeId** **I101** matches YAML.
 
 ## Open questions
 

@@ -21,7 +21,7 @@ First World War **soldier-turned-airman** (**RAF official number 125257**) whose
 
 ### Before the war
 
-- **Mar 1892** — Born **Maldon, Essex** (vitals from merged export aligned to structured tree). Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md) and [Alma Newcomb](alma-newcomb-i106.md); their marriage **1879** in [family-tree.json](../family-tree.json).
+- **Mar 1892** — Born **Maldon, Essex** (vitals from merged export aligned to structured tree). Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md) and [Alma Newcomb](alma-newcomb-i106.md); their marriage **1879** in the working tree.
 - **Civilian occupation** — **Chimney sweep** (RAF service form, field 5a).
 - **28 Oct 1911** — Marriage to [Rosina A Martin](rosina-a-martin-i104.md). Town on the service form is partially legible (possibly Bottlewell / Southwell). The merged export had **December 1911**; the form's **28.10.11** is primary evidence and takes precedence.
 - **Mar 1916** — Daughter [May Coolbear](may-coolbear-i100.md) born (tree).
@@ -138,8 +138,8 @@ The Fold3 record exists (confirming the card was once indexed) but the physical 
 
 ### Structured tree and import
 
-- **Export:** MyHeritage **`@I103@`** — unions **F51**, **F52** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- [family-tree.json](../family-tree.json) **`I103`**.
+- **Export:** **treeId** **I103** — unions **F51**, **F52** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **treeId** **I103** — same id as YAML above; vitals align to structured graph used for this file.
 - Web chart portrait: [web/photo-map.json](../web/photo-map.json) maps **`I103`** → `media/docs/Cool Bear, Archibald Percy (125257).jpg`.
 
 ### Surname origins — Colbia / Coolbar / Colbear / Coolbear (Mundon, Essex)

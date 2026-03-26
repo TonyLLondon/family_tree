@@ -18,7 +18,7 @@ spouses:
 
 **Jacqueline** was born in **Camden** in **September 1983**—the borough her mother [Helia](helia-cerpa-perez.md) would serve for years as a tenant representative on **Somers Town** estates—daughter of [Joseph Evans (1940)](joseph-evans-i18.md) and the **Chilean–London** line that ties **Parral** to **Exmouth Market** christenings. She married [Anthony Robert Lewis](anthony-robert-lewis.md) **25 June 2012**, braiding the **Evans–Cerpa Pérez** hub into the **Lewis–Stump–Zara** trunk.
 
-Younger children in this branch stay in [family-tree.json](../family-tree.json) only—living minors, no public vitals on this page.
+Younger children in this branch stay in the working tree only—living minors, no public vitals on this page.
 
 ## Family
 
@@ -27,9 +27,8 @@ Younger children in this branch stay in [family-tree.json](../family-tree.json) 
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
 - Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
-- **Export:** MyHeritage **`@I5@`** — unions **F9** / **F2** with parents and spouse (topology in [family-tree.json](../family-tree.json)).
+- **Export:** **treeId** **I5** — unions **F9** / **F2** with parents and spouse (topology in the working tree).
 
 ## Open questions
 

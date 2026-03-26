@@ -64,7 +64,7 @@ His parents were [Marc Francois Stump](marc-francois-stump.md) and [Olga Carolin
 
 **Export:**
 
-- MyHeritage **`@I16@`** — household **F6** in [family-tree.json](../family-tree.json) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I16** — household **F6** in the working tree — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - Older exports sometimes give Étienne’s birth as 3 July 1880 (likely day/month transposition vs Tallinn parish 7 March 1880).
 - [Stump wishlist — Elgood purchase lead](../sources/wishlist/stump.md).
 

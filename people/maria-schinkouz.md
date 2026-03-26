@@ -21,8 +21,7 @@ Maria Schinkouz was the wife of [Biagio Zerauschek](biagio-zerauschek.md) and mo
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I388@`** — union **F182** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
+- **Export:** **treeId** **I388** — union **F182** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - **Marriage register, 1850 (Zara):** "Maria Schinkovz — madre" (alive, no "defunta") — [media/collections/zerauschek/Zerauschek (1)/Marriage Zerauschek Guerino Zara 1850.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg).
 
 ## Open questions

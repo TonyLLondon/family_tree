@@ -25,12 +25,11 @@ children:
 
 - Parents: [Morgan](morgan.md); [Amelia](amelia.md).
 - Husband: [David Cushen](david-cushen.md).
-- Children: [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md); siblings on union in [family-tree.json](../family-tree.json).
+- Children: [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md); siblings on union in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I176@`** — union **F88** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I176** — union **F88** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

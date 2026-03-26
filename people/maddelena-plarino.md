@@ -35,8 +35,7 @@ Maddelena Plarino was the wife of [Luigi Anzolo Alloisio Addobbati](luigi-anzolo
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I124@`** — unions **F15**, **F64** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@**; FamilySearch **GW1S-F5X**.
-- [family-tree.json](../family-tree.json).
+- **Export:** **treeId** **I124** — unions **F15**, **F64** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@**; FamilySearch **GW1S-F5X**.
 - **Baptism register, Duomo di Zara, [8?] [Jun?] 1736:** "una Bambina nata li 4 d.o … figlia del Sig.r D. Pietro Plarinò … con la Sig.ra Margherita Canova … posto nome Maddalena" — [media/collections/zerauschek/Zerauschek (1)/Birth Maddalena Plarinò Zara 1736.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Maddalena%20Plarin%C3%B2%20Zara%201736.jpg).
 - **Marriage register, p. 163, 4 Apr 1766:** "la Sig.ra Maddalena figlia del Sig.r Pietro Plarinò" — [media/collections/zerauschek/Zerauschek (1)/Marriage Luigi Addobbati Plarinò Zara 1766.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Luigi%20Addobbati%20Plarin%C3%B2%20Zara%201766.jpg).
 - **Older sister's baptism, Zara, 1734:** [media/collections/zerauschek/Zerauschek (1)/Birth Maria Domenica Plarinò Zara 1734.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Maria%20Domenica%20Plarin%C3%B2%20Zara%201734.jpg) — untranscribed; Maria Domenica Plarinò (confirmed in Maddalena's baptism entry as older sibling).

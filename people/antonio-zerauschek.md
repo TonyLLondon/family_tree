@@ -54,7 +54,7 @@ Zara passed to Yugoslavia; Italian-speaking business families **emigrated**. The
 
 - Parents: [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md); [Anna Herenda](anna-herenda.md).
 - Wife: [Ester Addobbati](ester-addobbati.md).
-- Children: [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md) and siblings — [family-tree.json](../family-tree.json).
+- Children: [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md) and siblings — not yet on individual pages.
 - Siblings: [Giuseppina](giuseppina-zerauschek.md) (eldest), [Marie](marie-zerauschek.md) (died young), [Emma](emma-zerauschek.md) (Spanish influenza), [Giovanni / Zio Nini](giovanni-zerauschek.md) (shipbuilding, Sardinia), [Giusit](giusit-zerauschek.md) (cigarette shop, near Venice), [Besto](besto-zerauschek.md) (merchant navy, South Africa), [Riccardo / Zio Ginco](riccardo-zerauschek.md) (exile and Trieste DP files). Fulvia’s memoir counts **five boys and three girls** for [Anna Herenda](anna-herenda.md).
 
 ## Evidence
@@ -74,7 +74,7 @@ Zara passed to Yugoslavia; Italian-speaking business families **emigrated**. The
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — agencies, communist trial, 1943 armistice, INCAS chocolate, siblings.
 - **ITS/IRO file (1951) — Riccardo Zerauschek:** [sources/its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) → [corpus/its-iro-riccardo-zerauschek-1951/](../sources/corpus/its-iro-riccardo-zerauschek-1951/) — independently confirms Ford, Firestone, **Zenith** agencies from official IRO interview; Antonio described as "his brother who had a representative of Ford, Firestone, Zenith etc."
 - Topic: [topics/zadar-interwar-hotels.md](../topics/zadar-interwar-hotels.md).
-- **Export:** MyHeritage GEDCOM individual **`@I14@`**; marriage to Ester as union **F5** in [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I14**; marriage to Ester as union **F5** in [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

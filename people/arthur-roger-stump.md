@@ -43,10 +43,8 @@ Second child of [Marc Francois Stump](marc-francois-stump.md) and [Olga Caroline
 - [Estonian Biographical Center — Stump family Tallinn research (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — birth, baptism, godparents, confirmation, Moscow marriage note, 1922 transit, death and obituary reference.
 - *Revalsche Zeitung* no. 135-1935 — obituary (not yet in corpus).
 - *Revaler Bote* no. 89-1920 — wife Lydia's obituary (not yet in corpus).
-- **Export:** MyHeritage **`@I399@`** — unions **F70**, **F206** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I399** — unions **F70**, **F206** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection one-page pedigree (chart incorrectly shows death at Tallinn; obituary confirms Berlin).
-- [family-tree.json](../family-tree.json) — topology.
-
 ## Open questions
 
 - **Children's names and fates.** The 1935 obituary says "sons and relatives" — recover from DIGAR or Berlin civil records.

@@ -31,7 +31,7 @@ children:
 - Father: [William Roche](william-roche.md) — Burke’s **1833**: “William, a solicitor in Dublin, married Eliza… daughter and co-heir of — Knight”; son of **Thomas Roche of Limerick**.
 - Mother: **Eliza Knight** — co-heiress with sister Catherine; both sisters married **Roche** brothers.
 - Husband: [William O’Byrne White](william-obyrne-white.md).
-- Children: [Gerald Sebastian White](gerald-sebastian-white.md) and siblings — [family-tree.json](../family-tree.json).
+- Children: [Gerald Sebastian White](gerald-sebastian-white.md) and siblings — not yet on individual pages.
 
 ## Roche of Limerick ancestry (Burke’s 1833)
 
@@ -51,8 +51,7 @@ Arms: *Gules, three roaches naiant in pale.* The legal thread runs father **soli
 
 - [Roche of Limerick — Forgotten Victorians (Burke’s 1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/).
 - [O’Brien / Roche notes](../sources/obrien-roche-notes.md).
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I136@`** — union **F67** with William — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I136** — union **F67** with William — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

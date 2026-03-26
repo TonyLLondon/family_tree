@@ -29,13 +29,12 @@ Family memory sets the courtship in **wartime Essex**—two **teachers** in the 
 
 - Parents: [Gerald Sebastian White](gerald-sebastian-white.md); [Mary O'Shea](mary-oshea.md).
 - Husband: [Robert Marc Murard Stump](robert-marc-murard-stump.md).
-- Children: [Catherine Stump](catherine-stump.md) and siblings — [family-tree.json](../family-tree.json).
+- Children: [Catherine Stump](catherine-stump.md) and siblings — not yet on individual pages.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
 - Context for White line: [1939 Register–style household page](../media/docs/1939%20Register%20style%20household%20page%20Prosser%20Stewart%20White%20Pallett%20closed%20records%20redactions.png); [1911 Ireland census PDF — Whites](../media/docs/census%20for%20whites%20in%201911%20in%20ireland.pdf).
-- **Export:** MyHeritage **`@I10@`** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Export:** **treeId** **I10** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - **Wartime Essex, teaching, meeting Robert** — family account (2026); tie to school or service records when images surface.
 
 ## Open questions

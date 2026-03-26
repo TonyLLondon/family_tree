@@ -20,7 +20,7 @@ Death in the merged file is only a flag without date or stone; work remains to c
 ## Family
 
 - Wife: [Rachel James](rachel-james.md).
-- Children: [David John Lewis (1857)](david-john-lewis-1857.md); further siblings on the same union in [family-tree.json](../family-tree.json).
+- Children: [David John Lewis (1857)](david-john-lewis-1857.md); further siblings on the same union in the working tree.
 
 ## Evidence
 
@@ -28,11 +28,10 @@ Death in the merged file is only a flag without date or stone; work remains to c
 
 **Export:**
 
-- MyHeritage **`@I427@`**; union **F189** with [Rachel James](rachel-james.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I427**; union **F189** with [Rachel James](rachel-james.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - Census in export: 1861 RG09/4046; 1871 RG10/5388 folio 55 p. 28 schedule 117; 1881 RG11/5308 folio 3 p. 6 schedule 24 — occupation carpenter in 1881.
-- Further children on **F189**: [family-tree.json](../family-tree.json).
+- Further children on **F189** — merged export; **Site:** [Ancestor chart](/chart) (**treeId** **I427** matches YAML).
 - Death: export marks **DEAT Y** without structured date/place in slice used here.
-- [family-tree.json](../family-tree.json).
 
 ## Open questions
 

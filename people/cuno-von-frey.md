@@ -16,7 +16,7 @@ Husband of [Marguerite Emilie Stump](marguerite-emilie-stump.md). A Baltic noble
 
 ## Life
 
-- **Married 11 August 1902** in Tallinn Dome congregation to Marguerite Emilie Stump ([EBC 2005](../sources/estonian-biographical-center-stump-report-2005.md); matches **F207** in [family-tree.json](../family-tree.json)).
+- **Married 11 August 1902** in Tallinn Dome congregation to Marguerite Emilie Stump ([EBC 2005](../sources/estonian-biographical-center-stump-report-2005.md); matches **F207** in the working tree).
 - At the time of marriage he lived in **Valmiera, Latvia**.
 - **1910** — listed in the **Louise Stump obituary** as *"Kuno Frey and wife in Libaži"* (**Limbazi**, Latvia).
 
@@ -28,9 +28,7 @@ Husband of [Marguerite Emilie Stump](marguerite-emilie-stump.md). A Baltic noble
 ## Evidence
 
 - [Estonian Biographical Center — Stump family Tallinn research (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — marriage, residence in Valmiera and Limbazi.
-- GEDCOM **`@I562@`**, family **F207**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json) — topology.
-
+- **treeId** **I562**, family **F207**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Birth date, birthplace, death date** — all unknown.

@@ -29,15 +29,14 @@ Ester spent her first years in **kingdom-era Zara** (now Zadar, Croatia), anchor
 
 - Parents: [Pietro Pio Addobbati](pietro-pio-addobbati.md); [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md).
 - Husband: [Antonio Zerauschek](antonio-zerauschek.md).
-- Children: [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md) and siblings (structured tree: [family-tree.json](../family-tree.json)).
+- Children: [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md); further siblings not yet on standalone pages.
 
 ## Evidence
 
 - [Grave slab — Florence, Ester Addobbati / Antonio / Giuliana Zerauschek Rivolta](../media/docs/Grave%20slab%20Florence%20Ester%20Addobbati%20Zerauschek%20Antonio%20Giuliana%20Zerauschek%20Rivolta.png).
 - Zara context: [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md) · [media/collections/zerauschek/](../media/collections/zerauschek/).
 - Addobbati narrative: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- [family-tree.json](../family-tree.json).
-- **Export identifiers:** MyHeritage GEDCOM individual `@I15@` — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export identifiers:** **treeId** **I15** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

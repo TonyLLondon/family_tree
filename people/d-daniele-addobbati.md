@@ -51,8 +51,7 @@ Lorenzo married **Anzola Plavino**; son **Zuanne** b. Zara 1731 (DAZD §2.2). Gr
 - **Celić 1806 census (HAZU):** — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
 - **Granić 1817 Nin list:** — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- [family-tree.json](../family-tree.json).
-- **Export:** GEDCOM individual `@I31@`, families F16 / F17; FamilySearch GW1S-FRS — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I31**, families F16 / F17; FamilySearch GW1S-FRS — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Children’s baptism images (Zerauschek collection)
 

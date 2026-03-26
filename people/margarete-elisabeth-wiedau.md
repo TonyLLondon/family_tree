@@ -29,7 +29,7 @@ Mother of [Johan Jacob Eylandt](johan-jacob-eylandt.md). She shares **Hageri** a
 
 ## Evidence
 
-- GEDCOM **`@I305@`**, **F143**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I305**, **F143**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

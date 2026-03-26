@@ -47,11 +47,10 @@ Wife: Elizabeth Lilian Cushen (“Elizabeth Lily” in death notice; “Elizabet
 
 **Export:**
 
-- MyHeritage **`@I17@`** — YAML **`ignore_gedcom_death: true`** (export death month/day transposed vs press) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I17** — YAML **`ignore_gedcom_death: true`** (export death month/day transposed vs press) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - Embedded census and 1939 citations in export: RG12/4444, RG13/5035, RG14/32495 schedule 77, RG101/7310F/013/9; 1901 age 13 coal miner (RG13/5035 — no scan in repo).
 - Marriage to Elizabeth — union **F7**.
-- Further siblings on father’s **F87**: [family-tree.json](../family-tree.json).
-- [family-tree.json](../family-tree.json).
+- Further siblings on father’s **F87** — recorded in merged export only until each has a page.
 
 ## Open questions
 

@@ -19,10 +19,9 @@ When Laurencia was born (1912), Francisco was 30 years old.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json) — **`I350`**, marriage union **F164** with Zoraida.
 - FamilySearch (via [Laurencia GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)) — “Francisco Antonio Pérez Avejares”, b. 1882.
 - Research hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
-- **Export:** MyHeritage **`@I350@`** — union with Zoraida — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I350** — union with Zoraida — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 

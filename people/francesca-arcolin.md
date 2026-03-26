@@ -22,9 +22,7 @@ Francesca Arcolin was the wife of [Marco Robustella](marco-robustella.md) and mo
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I339@`** — unions **F63**, **F159** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
-
+- **Export:** **treeId** **I339** — unions **F63**, **F159** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 ## Open questions
 
 - **Birth** — not in the slice; Zara **Arcolin** family group.

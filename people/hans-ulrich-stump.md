@@ -29,12 +29,11 @@ children:
 
 - Parents: [Hs. Konrad Stump](hs-konrad-stump.md); [Anna Margaretha Jung](anna-margaretha-jung.md).
 - Wife: [Anna Margaretha Hagg](anna-margaretha-hagg.md).
-- Children: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); further siblings under the parental union in [family-tree.json](../family-tree.json).
+- Children: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); further siblings under the parental union in the working tree.
 
 ## Evidence
 
-- [family-tree.json](../family-tree.json).
-- **Export:** MyHeritage **`@I144@`** — unions **F72**, **F73** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K88Z-FQ2**.
+- **Export:** **treeId** **I144** — unions **F72**, **F73** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K88Z-FQ2**.
 
 ## Open questions
 

@@ -29,8 +29,7 @@ Hanns Erbe was the husband of [Catharina Elisabeth Nabgten](catharina-elisabeth-
 
 ## Evidence
 
-- **Export:** MyHeritage **`@I320@`** — unions **F152**, **F153** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- [family-tree.json](../family-tree.json).
+- **Export:** **treeId** **I320** — unions **F152**, **F153** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 - **Web (Mar 2026):** no tertiary biography hit for **Hanns Erbe** + **Schweinau ~1680**; [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md) § *Thuringian / Franconian Erbe line*.
 
 ## Open questions

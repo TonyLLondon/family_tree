@@ -26,9 +26,8 @@ His wife does not appear in the same structured export as his children; parish b
 
 - **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Ioanes (1676) capitano dei corrazieri il quale ebbe tre figli: D. Daniele (1702), D. Laurentius (1705), D. Iosephus (1709) e questi tre si trasferirono a Zara” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
 - **DAZD family fonds (HR-DAZD-342):** sig. 46 — 1745 Bergamo testimonial names Giovanni (Ivan) as father of the three brothers; analytical inventory records 1728 Turanj and 1730–1731 Zara — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
-- [family-tree.json](../family-tree.json).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Export:** GEDCOM individual `@I32@`, families F17 / F18 (no wife in export); FamilySearch GW1S-43Z — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Export:** **treeId** **I32**, families F17 / F18 (no wife in export); FamilySearch GW1S-43Z — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
