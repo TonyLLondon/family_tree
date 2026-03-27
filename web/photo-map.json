@@ -11,7 +11,7 @@
   "I15":   { "src": "media/images/portraits/antonio-zerauschek-ester-addobbati.jpg", "focal": [0.25, 0.22], "zoom": 2.2 },
   "I16":   { "src": "media/albums/henderson/Etienne - Chicago 1902 (1).jpg", "focal": [0.5, 0.35], "zoom": 1.5 },
   "I17":   { "src": "media/images/portraits/samuel-lewis-young-man-c1910.png", "focal": [0.5, 0.2] },
-  "I18":   { "src": "media/images/portraits/uniform-epaulettes-man-holding-baby-vintage-tv-room.jpg", "focal": [0.6, 0.25], "zoom": 1.5 },
+  "I18":   { "src": "media/images/portraits/outdoor-wedding-candid-laughing-trio.jpg", "focal": [0.3, 0.4], "zoom": 2 },
   "I19":   { "src": "media/images/portraits/three-generations-outdoors-flowering-tree.jpg", "focal": [0.25, 0.3], "zoom": 2 },
   "I20":   { "src": "media/images/portraits/adolobati-family-group-handwritten-names-italian-caption.jpg", "focal": [0.57, 0.42], "zoom": 3 },
   "I21":   { "src": "media/images/portraits/adolobati-family-group-handwritten-names-italian-caption.jpg", "focal": [0.33, 0.42], "zoom": 3 },
@@ -39,5 +39,7 @@
   "I3":    { "src": "media/docs/Smiling woman white jacket gold geometric necklace outdoor bright.jpg", "focal": [0.48, 0.32] },
   "I326":  { "src": "media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png", "focal": [0.5, 0.15] },
   "I346":  { "src": "media/docs/miguel-cerpa-gonzalez.jpg", "focal": [0.5, 0.2] },
-  "I347":  { "src": "media/docs/laurencia-perez-escobar.jpg", "focal": [0.5, 0.2] }
+  "I347":  { "src": "media/images/portraits/older-woman-baby-vintage-pram-indoors.jpg", "focal": [0.5, 0.25] },
+  "I351":  { "src": "media/docs/zoraida-escobar.jpg", "focal": [0.5, 0.2] },
+  "I100":  { "src": "media/images/portraits/woman-blue-dress-holding-baby-wingback-chair.jpg", "focal": [0.5, 0.3] }
 }

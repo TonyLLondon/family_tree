@@ -14,21 +14,27 @@ Person: [David John Lewis](../../people/david-john-lewis.md)
 |--------|---------------|---------------|--------|
 | **"The Keep Britain Tidy Group"**, David J. Lewis, *Environmental Conservation* 5(1): 56, Spring 1978 (Cambridge University Press) | Full text would confirm Lewis's exact title and describe his vision for the organisation. Currently only the abstract page is captured. | Single article purchase from [Cambridge Core](https://doi.org/10.1017/S037689290003811X) or institutional library access (JSTOR / Cambridge Core) | Not yet acquired |
 
-## Priority 2 — annual reports and archival records
+## Priority 2 — Queen Mother patronage date (LSE Brunner Papers)
+
+| Source | What it gives | Where to look |
+|--------|---------------|---------------|
+| **LSE Brunner Papers (BRUNNER/4)** — KBT annual reports 1961/62–1978 | Annual reports would name the patron, resolving when the Queen Mother's patronage began — before or during David Lewis's tenure (1969–). The earliest public reference to her involvement is the 1977 Silver Jubilee "Clean for the Queen" event, but patronage may have been granted much earlier given Lady Brunner's social standing (OBE for KBT work, 1964). | The Women's Library, LSE. [Catalogue](https://archives.lse.ac.uk/records/BRUNNER/4). |
+| **Pre-1998 charity records (Charity Commission)** | The predecessor charity's file would list officers, trustees, and potentially patrons from the 1960s–1990s, as well as the original charity registration number. | Charity Commission archived records or TNA |
+
+## Priority 3 — annual reports and archival records
 
 | Source | What it gives | Where to look |
 |--------|---------------|---------------|
 | **Keep Britain Tidy Group annual reports (1970s–1980s)** | Would name the Director General by title, describe the organisation's programme of work under Lewis's leadership, and give dates of tenure. | British Library (legal deposit copies), The National Archives, or Keep Britain Tidy directly (current office: Elizabeth House, The Pier, Wigan WN3 4EX) |
-| **Pre-1998 charity records** | The current charity (no. 1071737) was incorporated in 1998. The predecessor charity's Charity Commission file would list officers/trustees from the 1960s–1990s. | Charity Commission archived records or TNA |
 | **Companies House — predecessor company** | If the pre-1998 Keep Britain Tidy Group was a company limited by guarantee, dissolved company records at Companies House would list directors. | Companies House dissolved companies search |
 
-## Priority 3 — London Gazette civil honours
+## Priority 4 — London Gazette civil honours
 
 | Source | What it gives |
 |--------|---------------|
 | **New Year Honours / Birthday Honours lists (1970s–80s)** | If Lewis received an OBE, CBE, or other honour for environmental/charitable service, the London Gazette would record it. Search for "D. J. Lewis" or "David John Lewis" in the civil division supplements for this period. |
 
-## Priority 4 — direct enquiry
+## Priority 5 — direct enquiry
 
 | Source | What it gives |
 |--------|---------------|

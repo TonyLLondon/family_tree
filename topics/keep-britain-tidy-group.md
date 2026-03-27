@@ -4,7 +4,7 @@ The Keep Britain Tidy Group was Britain's principal anti-litter charity, founded
 
 ## Origins
 
-The campaign against litter in Britain began with **Lady Brunner** (née Elizabeth Irving), wife of the industrialist and philanthropist Sir Felix Brunner, 3rd Baronet. In **1954** she established the Women's Advisory Council on Solid Fuel, but her attention quickly turned to the growing problem of roadside litter in post-war Britain. The **Keep Britain Tidy Group** was formally launched in **1955**, registered as a charity in **1960** (company number 03496361), and attracted the patronage of the **Queen Mother**.
+The campaign against litter in Britain began with **Lady Brunner** (née Elizabeth Irving), wife of the industrialist and philanthropist Sir Felix Brunner, 3rd Baronet. In **1954** she established the Women's Advisory Council on Solid Fuel, but her attention quickly turned to the growing problem of roadside litter in post-war Britain. A resolution at the 1954 WI AGM led to a conference of 26 organisations, and the **Keep Britain Tidy Group** was formally launched in **1955**, chaired by Lady Brunner. The NFWI initially provided office space at its own headquarters; the Group later moved to its own premises. KBT registered as a charity in **1960** (the original charity number predates the current registration; the modern entity, company 03496361, was incorporated in **1998** as "Environmental Campaigns" and re-registered as charity 1071737).
 
 The organisation's early headquarters were at **Bostel House, 37 West Street, Brighton BN1 2RE**. By the time David Lewis became Director-General in 1969, KBT had established itself as the national voice on litter and environmental cleanliness, but it remained a relatively small charity with ambitions to grow its reach.
 
@@ -47,9 +47,9 @@ KBT worked closely with local authorities on enforcement and education, and with
 
 ## Legacy
 
-The Keep Britain Tidy Group was renamed the **Tidy Britain Group** in 1987, then **ENCAMS** (Environmental Campaigns) in 2002, before reverting to **Keep Britain Tidy** in 2009. Today it operates as an independent charity from Wigan, running the Eco-Schools programme, the Blue Flag beach award, and the Green Flag Award for parks and green spaces. The Library of Congress authority record (LCCN n86809834) confirms the Bostel House, Brighton address from David's era.
+The Keep Britain Tidy Group was renamed the **Tidy Britain Group** in 1987, then **ENCAMS** (Environmental Campaigns) in 2002, before reverting to **Keep Britain Tidy** in 2009. Today it operates as an independent charity from Wigan, running the Eco-Schools programme, the Blue Flag beach award, and the Green Flag Award for parks and green spaces. The Library of Congress authority record (LCCN n86809834) confirms the Bostel House, Brighton address from the organisation's early decades (a 1985 marine litter report still carried the Brighton address, though by then the main office had moved to London under David's leadership).
 
-David's tenure as Director-General placed him at the head of Britain's anti-litter movement through its formative decades — from the first oil crisis and the rise of disposable packaging through the Thatcher government's early environmental legislation. The **LSE Brunner Papers (BRUNNER/4)** hold KBT annual reports from 1961/62–1978, including folders covering 1970/71–1975 and 1977–1978, which would name Lewis as Director-General across his peak years.
+David's tenure as Director-General placed him at the head of Britain's anti-litter movement through its formative decades — from the first oil crisis and the rise of disposable packaging through the Thatcher government's early environmental legislation.
 
 ## Evidence
 
@@ -62,7 +62,7 @@ David's tenure as Director-General placed him at the head of Britain's anti-litt
 - **KBT photo references:** [KBT-042](../media/docs/david-john-lewis-kbt/international/KBT-042.doc), [KBT-043](../media/docs/david-john-lewis-kbt/international/KBT-043.doc), [KBT-008](../media/docs/david-john-lewis-kbt/international/KBT-008.doc), [KBT-044](../media/docs/david-john-lewis-kbt/international/KBT-044.doc), [KBT-048](../media/docs/david-john-lewis-kbt/international/KBT-048.doc), [KBT-050](../media/docs/david-john-lewis-kbt/international/KBT-050.doc).
 - **Journal article (1978):** [corpus](../sources/corpus/kbt-david-j-lewis-env-conservation-1978/extracted.web.md). DOI: [10.1017/S037689290003811X](https://doi.org/10.1017/S037689290003811X).
 - **KBT history:** [corpus (official timeline)](../sources/corpus/keep-britain-tidy-history/extracted.web.md) · [Wikipedia](../sources/corpus/keep-britain-tidy-wikipedia/extracted.web.md).
-- **Charity/company record:** [Find That Charity](../sources/corpus/kbt-findthatcharity-company-record/extracted.web.md) (company 03496361).
+- **Charity/company record:** [Find That Charity](../sources/corpus/kbt-findthatcharity-company-record/extracted.web.md) (company 03496361, incorporated 1998 — the modern entity; the original 1960 charity registration was under a now-superseded number).
 - **Library of Congress authority:** [corpus](../sources/corpus/loc-authority-keep-britain-tidy-group/) (LCCN n86809834).
 - **Lady Brunner:** [Oxford Mail](../sources/corpus/kbt-founder-lady-brunner-oxford-mail/extracted.web.md).
 - **The Spectator (9 Oct 1976):** [Archive](http://archive.spectator.co.uk/article/9th-october-1976/14/consuming-interest).
