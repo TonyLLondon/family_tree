@@ -47,6 +47,12 @@ His end matched the theatre of his life. On 20 June 1926 he died in Zara while g
 - Context: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 - **Export:** **treeId** **I54**, families F12 / F27 — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
+### Zara album (pre-marriage album 01)
+
+- **Military portrait (c. 1890s–1900s):** [SAddobbati01.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/SAddobbati01.jpg) — full-length studio photograph in Austro-Hungarian officer's dress uniform with saber and kepi; consistent with Landwehr rank and period. [SAddobbati02.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/SAddobbati02.jpg), [SAddobbati03.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/SAddobbati03.jpg), [SAddobbati04.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/SAddobbati04.jpg) — additional views.
+- **Portrait promoted to photo-map:** [simeone-gilberto-addobbati-uniform.jpg](../media/images/portraits/simeone-gilberto-addobbati-uniform.jpg) (copy of SAddobbati01, I54 in chart).
+- **Luxardo — Elisabetta's family:** [Luxardo1896.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/luxardo/Luxardo1896.jpg) — 1896 painting with Luxardo Maraschino advertisement in a Zara street scene; [Luxardo001.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/luxardo/Luxardo001.jpg). Simeone's wife Elisabetta Emilia Maria Luxardo was of the Maraschino dynasty.
+
 ## Open questions
 
 - Exact **burial place** of the monument (locality/cemetery) if not Zara — not stated on the scan set used here.

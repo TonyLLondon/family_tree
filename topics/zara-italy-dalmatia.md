@@ -27,6 +27,7 @@
 ## Topics
 
 - [Zara interwar hotels and cafés](../topics/zadar-interwar-hotels.md)
+- [*Il Signor Max* (1937) — Samos cigarettes on screen](il-signor-max-1937.md)
 
 ---
 

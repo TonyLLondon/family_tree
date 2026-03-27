@@ -144,6 +144,41 @@ All 153 files read, content extracted, information integrated into people pages,
 
 **Per album:** select key images for Zara line story, Fulvia person page, and context images. File to `media/docs/fulvia-lewis-photos/` or `media/context/`.
 
+### 5a — Zara album 01 — DONE
+
+**Source:** `manual/dump/fulvia-lewis-photos/pre-marriage-zara-album-01/` (124 files — 73 Main-Photos + Photos-dated + Eros + Trieste + Yugoslavia)
+
+All 124 files read, content identified from annotations, and moved to `media/docs/fulvia-lewis-photos/zara-album-01/` with the following structure:
+
+| Destination | Files | Content |
+|-------------|-------|---------|
+| `addobbati-portraits/` | 14 | Addobbati family group (PAddoFam captioned "Otilia e Piero Addobbati and Vittoria, Pietro, Ester, Beatrice, Noemi, Elsa e Irma — Nonna"); Zia Elsa (Zara 20-9-19); Zia Noemi (30-6-18); Zia Vittoria group (photographer V. Cesagotto, Zara); S. Addobbati military portraits ×4 (Austro-Hungarian uniform); ZieAddobbati groups ×2; PAddobbati01 (painting of Dr. Pietro with Golden Spur cross, annotated "Holder of the Order of the Holy Spear / 100 holders at any one time"); PAddobbati02 portraits |
+| `nonna-ester/` | 2 | Ester Addobbati young studio portraits (Victorian-era, lace collar profile + standing in dark coat) |
+| `boara-family/` | 4 | "El zio Casimiro Boara" (ID photo with stamp); "Casa Boara / nonna Ottilia / piazza dell'Erbe" (Boara family house); S. Boara framed miniature portrait; V. Carobbi framed miniature oil portrait (Boara kin) |
+| `zara-views/` | 38 | Land001–030 panoramic views of Zara (annotated: Riva Vecchia, Ugljan Island, church spires, "le Fornaci"); Café Centrale before/after reconstruction/destruction ×3; "Nonno's Post Office headquarters" (harbor, seaplanes, annotated about bomb/fire); Liceo e Convitto S. Demetrio ("Nonna's Convent school under the English Sisters"); Benkovac town |
+| `zerauschek-business/` | 9 | A. Zerauschek business card (CCIA 496, Telefono 48); Ausonia chocolate factory correspondence ×2 (30 May 1939, to Gambini in Napoli); Calypso/Samos cigarette labels (Manifattura Zaratina); Raimondi watercolours ×5 ("4 of the 12 commissioned by Nonno as advertisement") |
+| `luxardo/` | 3 | Luxardo Maraschino: 1896 painting with advertisement; Luxardo001; detail crop |
+| `dated-photos/` | 36 | Year-subfolder structure 1916–1997: Nonno-Antonio 1916; IAddobbati 14-4-17; PAddobbati 1920; Café Centrale 1927; cart001–012 (1928 postcards); cards dated 1935, 1942, 1953, 1957 (N&I Addobbati, Le Addobbati), 1961, 1964, 1981, 1992, 1993, 1995, 1996; Art090197 article (1997 PDF + page images) |
+| `eros/` | 5 | Eros a Zara photo; Nico 12-03-00; ErosRoma1977 PDF + 2 page images |
+| `trieste/` | 5 | Trieste city views ×5 |
+| `yugoslavia/` | 7 | ExodeSeb1916 (exile/displacement); Mostar ×2; Sarajevo ×4 |
+| `miscellaneous/` | 1 | Il Signor Max (1937 film credits, Mario Camerini / De Sica) |
+
+**Portraits promoted:**
+- **Ester Addobbati (I15):** `Nonna-Ester01.jpg` → `media/images/portraits/ester-addobbati-young-zara.jpg` — replaced couple-photo crop in photo-map with standalone studio portrait
+- **Simeone Gilberto Addobbati (I54):** `SAddobbati01.jpg` → `media/images/portraits/simeone-gilberto-addobbati-uniform.jpg` — new photo-map entry (was unmapped)
+
+**People pages updated:** `ester-addobbati.md`, `antonio-zerauschek.md`, `simeone-gilberto-addobbati.md`, `pietro-pio-addobbati.md`, `dr-pietro-addobbati.md`
+
+**Key genealogical findings integrated:**
+- **Casa Boara** confirmed at **Piazza dell'Erbe**, Zara — Ottilia Boara's family home
+- **Zio Casimiro Boara** — ID-card photo with official stamp (the uncle who lent money monthly, per Fulvia memoir)
+- **Ester's school** — Liceo e Convitto S. Demetrio, Zara, under the "English Sisters" (Dame Inglesi / Istituto B.V. Maria)
+- **Nonno's Post Office headquarters** — the building visible in the Zara harbor, destroyed by Allied bombing ("burned for three days melting safes & money")
+- **Raimondi watercolours** — 4 of 12 commissioned by Antonio as advertisements for his business
+- **Ausonia letterhead** confirms production was active in May 1939 (correspondence with Naples customer)
+- **Calypso & Samos** — original cigarette packet label designs preserved from the Manifattura Zaratina
+
 ---
 
 ## Phase 6 — Fulvia Africa albums
@@ -187,6 +222,7 @@ This is ~5,800 files covering 1968–2000. Lowest genealogical density, highest 
 | 2c — Correspondence (friends/general) | Not started | 0 / ~90 | |
 | 3 — Souvenirs | **Done** | 153 / 153 | 2026-03-27 |
 | 4 — DjL photos | Not started | 0 / 552 | |
-| 5 — Fulvia pre-marriage | Not started | 0 / ~1,500 | |
+| 5a — Zara album 01 | **Done** | 124 / 124 | 2026-03-27 |
+| 5 — Fulvia pre-marriage (remaining) | Not started | 0 / ~1,376 | |
 | 6 — Fulvia Africa | Not started | 0 / ~2,000 | |
 | 7 — Fulvia Hove + various | Not started | 0 / ~5,800 | |

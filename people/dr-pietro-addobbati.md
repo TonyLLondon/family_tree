@@ -51,5 +51,6 @@ He died in Zara on 4 November 1832. The registers quiet; the briefs and decrees 
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — Nin confirmation; 1786 Golden Spur diploma — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md).
 - **Fulvia memoir (1996):** Padua investiture, hundred-knight limit, miniature to Peter Martin Lewis — [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md).
 - Portrait: `media/images/portraits/pietro-addobbati-golden-spur-1769.jpg` (photo-map I75).
+- **Annotated portrait photograph (Zara album):** [PAddobbati01.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/PAddobbati01.jpg) — photograph of the painting with Fulvia's annotation: *"Zio Pietro Addobbati / Holder of the Order of the Holy Spear / 100 holders at any one time."* The Golden Spur cross is visible on his lapel; matches the miniature tradition and Stratico's 1786 investiture.
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 - **Export:** structured tree individual I75 (no GEDCOM id in frontmatter file used here).
