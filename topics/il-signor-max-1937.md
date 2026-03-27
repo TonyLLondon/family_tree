@@ -1,6 +1,6 @@
 # *Il Signor Max* (1937) — Samos cigarettes on screen
 
-**Scope:** The appearance of **Samos** cigarettes — produced by [Antonio Zerauschek](../people/antonio-zerauschek.md)'s **Manifattura Zaratina Sigarette** — as a plot-critical prop in Mario Camerini's 1937 Italian comedy *Il Signor Max*, starring Vittorio De Sica and Assia Noris. One of the earliest documented examples of narrative product placement in European cinema, and the family knew about it.
+**Scope:** The appearance of **Samos** cigarettes — produced by [Antonio Zerauschek](../people/antonio-zerauschek.md)'s **Manifattura Zaratina Sigarette** — as a plot-critical prop in Mario Camerini's 1937 Italian comedy *Il Signor Max*, starring Vittorio De Sica and Assia Noris. The earliest documented example of **narrative brand integration** in cinema — where a real branded product drives the plot — predating the milestones usually cited (Reese's Pieces in *E.T.*, 1982) by nearly half a century.
 
 ---
 
@@ -51,7 +51,25 @@ Whether Antonio Zerauschek paid for this placement or whether the props departme
 
 The family tradition, passed down through [Fulvia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md), held that Zerauschek cigarettes had appeared in Italian films of the 1930s–40s. The tradition never specified which brand — and the evidence shows it was **Samos**, not Calypso. Fulvia kept a credits page for *Il Signor Max* ([SigMax.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/miscellaneous/SigMax.jpg)) in her pre-marriage Zara album, filed alongside Antonio's business card, Ausonia chocolate letterheads, Raimondi watercolour commissions, and the original Samos/Calypso packet label designs. The credits page was not a casual keepsake — it sat among business evidence, suggesting the family understood the film connection as a commercial achievement.
 
-This makes Antonio Zerauschek an early practitioner of what would later be called **product placement** — getting a branded consumer product into a narrative film at a moment when the concept barely existed in European cinema. Whether achieved through a formal arrangement with Camerini's production or through informal channels (Zara's business community had connections across Adriatic Italy), the result was a Manifattura Zaratina brand name spoken aloud in dialogue, handled as a prop, and used as the mechanism that resolves the central plot.
+---
+
+## Product placement in historical context
+
+Product placement in cinema is older than narrative film itself. The Lumière brothers may have featured **Sunlight soap** in short films for Lever Brothers as early as **1896**. By the 1920s, trade journal *Harrison's Reports* was already denouncing on-screen brand appearances: **Red Crown gasoline** in *The Garage* (1920), **Corona Typewriter** in several mid-1920s First National Pictures films including *The Lost World* (1925). Fritz Lang placed **Odol mouthwash** in *Woman in the Moon* (1929) and a **Wrigley's PK Chewing Gum** banner in *M* (1931). **Hershey's chocolate** appeared in *Wings* (1927), the first Best Picture winner.
+
+But all of these are what the modern advertising industry classifies as **basic placement** — a logo visible, a product on screen, a brand name readable. The closest pre-1937 example of verbal brand integration is *Horse Feathers* (1932), where Groucho Marx tosses a **Life Savers** candy to a drowning Thelma Todd who calls for a "life saver" — a pun, not a plot mechanism.
+
+The Samos placement in *Il Signor Max* is qualitatively different. The industry now distinguishes three levels:
+
+| Level | Definition | Pre-1937 examples |
+|-------|-----------|-------------------|
+| **Basic** | Logo or product visible on screen | Sunlight soap (1896), Red Crown gasoline (1920), Hershey's in *Wings* (1927), Wrigley's in *M* (1931) |
+| **Advanced** | Brand spoken in dialogue | Life Savers in *Horse Feathers* (1932) — as a pun |
+| **Brand integration** | Product becomes part of the narrative, drives plot or character development | **Samos in *Il Signor Max* (1937)** |
+
+In *Il Signor Max*, Samos is visually prominent (close-ups of the pack), verbally referenced in dialogue ("Do you smoke this brand?" / "Not normally, but I do for this special occasion..."), and **plot-critical** — it is the physical evidence that tests the dual identity at the heart of the film. The brand also carries thematic weight, bridging the class divide between the kiosk vendor and the fake aristocrat. This is full narrative brand integration, and it precedes by decades the examples usually cited as milestones: **Reese's Pieces** in *E.T.* (1982), **FedEx** in *Cast Away* (2000), **Taco Bell** in *Demolition Man* (1993).
+
+Whether Antonio Zerauschek paid for this placement or achieved it through informal channels — Zara's business community had connections across Adriatic Italy, and the Manifattura Zaratina's "foreign" cigarettes were a real product sold at Roman edicole — remains unknown. The family's retention of the film's credits page among business documents suggests they understood it as a commercial achievement rather than a coincidence.
 
 ---
 
