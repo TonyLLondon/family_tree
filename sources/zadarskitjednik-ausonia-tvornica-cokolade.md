@@ -4,4 +4,4 @@ Croatian photo-feuilleton on the Voštarnica (Ceraria) quarter of Zadar. After t
 
 Corpus: [zadarskitjednik-ausonia-tvornica-cokolade](corpus/zadarskitjednik-ausonia-tvornica-cokolade/).
 
-Person: [Antonio Zerauschek](../people/antonio-zerauschek.md). Line hub: [Zara (Italian Dalmatia)](../lines/zara-italy-dalmatia.md).
+Person: [Antonio Zerauschek](../people/antonio-zerauschek.md). Line hub: [Zara (Italian Dalmatia)](../topics/zara-italy-dalmatia.md).

@@ -192,6 +192,6 @@ The evidence for this continuity is scattered across the vault — census return
 
 ## Related
 
-- [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md) — line hub and structured person table
+- [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md) — line hub and structured person table
 - [Chimney Sweep to the Founding of the RAF](coolbear-essex-gallipoli-raf.md) — Archibald Coolbear narrative (Rosina Martin's husband)
 - [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) — full biographical narrative (Chile, exile, Camden housing)

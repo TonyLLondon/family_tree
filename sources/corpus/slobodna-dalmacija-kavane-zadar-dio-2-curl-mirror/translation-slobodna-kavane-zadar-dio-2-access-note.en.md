@@ -13,4 +13,4 @@ Open the **live URL** in a normal browser session (or save a personal PDF/screen
 
 ## Related vault material
 
-For Zara café history and context, see the Zara hub (`lines/zara-italy-dalmatia.md`) and other Dalmatian press or retrozadar bundles linked from there.
+For Zara café history and context, see the Zara hub (`topics/zara-italy-dalmatia.md`) and other Dalmatian press or retrozadar bundles linked from there.

@@ -17,7 +17,7 @@ children:
 
 Her parents in the graph are still placeholders; siblings cluster in the same birth union. Loose scans in `media/docs/` hold a birth image and an **1865** register spread—read captions twice before merging generations.
 
-**Hub:** [Evans · Cerpa Pérez — London line](../lines/evans-cerpa-perez-london-chile.md) (loose media batch note).
+**Hub:** [Evans · Cerpa Pérez — London line](../topics/evans-cerpa-perez-london-chile.md) (loose media batch note).
 
 ## Family
 

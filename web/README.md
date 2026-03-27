@@ -24,7 +24,6 @@ npm start
 | `/` | `../index.md` |
 | `/people`, `/people/[slug]` | `../people/*.md` |
 | `/stories/[slug]` | `../stories/*.md` |
-| `/lines/[slug]` | `../lines/*.md` |
 | `/topics` | `../topics/index.md` · `/topics/[slug]` other topic files |
 | `/sources`, `/sources/...` | `../sources/**/*.md` (excluding `corpus/`) |
 | `/corpus`, `/corpus/[slug]` | Corpus bundle file listings + links via `/files/...` |

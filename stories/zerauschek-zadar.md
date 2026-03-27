@@ -1,6 +1,6 @@
 # Zara — Antonio Zerauschek and the Italian Adriatic enclave
 
-[Antonio Zerauschek](../people/antonio-zerauschek.md): **"trgovac, bankar, veleposjednik i tvorničar"** — trader, banker, large landowner, and factory owner in interwar **Zara** (Kingdom of Italy). **Line hub:** [lines/zara-italy-dalmatia.md](../lines/zara-italy-dalmatia.md). **Addobbati narrative:** [addobbati-dalmatian-habsburg.md](addobbati-dalmatian-habsburg.md).
+[Antonio Zerauschek](../people/antonio-zerauschek.md): **"trgovac, bankar, veleposjednik i tvorničar"** — trader, banker, large landowner, and factory owner in interwar **Zara** (Kingdom of Italy). **Hub:** [topics/zara-italy-dalmatia.md](../topics/zara-italy-dalmatia.md). **Addobbati narrative:** [addobbati-dalmatian-habsburg.md](addobbati-dalmatian-habsburg.md).
 
 ---
 

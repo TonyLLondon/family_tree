@@ -85,4 +85,4 @@ Anna, interviewed in Leicester in March 1880, twenty-five years after Edward's d
 ## Related
 
 - [From Tabriz to Tehran — Saginian–Burgess–Bottin–Stump](saginian-burgess-bottin-stump.md)
-- [lines/persia.md](../lines/persia.md)
+- [topics/persia.md](../topics/persia.md)

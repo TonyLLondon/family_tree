@@ -15,7 +15,7 @@ William Moran was father of [Elizabeth Moran](elizabeth-moran-i230.md). As with 
 ## Evidence
 
 - **Export:** **treeId** **I232** — union **F115** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
+- Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 
 ## Open questions
 

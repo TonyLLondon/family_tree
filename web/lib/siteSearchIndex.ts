@@ -1,7 +1,6 @@
 import type { BrowseItem } from "@/components/BrowseGrid";
 import {
   getCorpusSlugs,
-  getLineSlugs,
   getManualSegmentLists,
   getStorySlugs,
   getPeopleSlugs,
@@ -11,7 +10,7 @@ import {
 } from "@/lib/content";
 import {
   readCorpusCard,
-  readStoryOrLineCard,
+  readStoryCard,
   readResearchOrManualCard,
   readSourceCardTitle,
   readTopicCard,
@@ -25,7 +24,6 @@ const CATEGORY_ORDER = [
   "Chart",
   "Person",
   "Story",
-  "Line",
   "Topic",
   "Source",
   "Corpus",
@@ -71,24 +69,13 @@ export function getSiteSearchItems(): BrowseItem[] {
   }
 
   for (const slug of getStorySlugs()) {
-    const { title, blurb } = readStoryOrLineCard("stories", slug);
+    const { title, blurb } = readStoryCard(slug);
     items.push({
       id: `story:${slug}`,
       title,
       subtitle: blurb || undefined,
       href: `/stories/${encodeURIComponent(slug)}`,
       meta: "Story",
-    });
-  }
-
-  for (const slug of getLineSlugs()) {
-    const { title, blurb } = readStoryOrLineCard("lines", slug);
-    items.push({
-      id: `line:${slug}`,
-      title,
-      subtitle: blurb || undefined,
-      href: `/lines/${encodeURIComponent(slug)}`,
-      meta: "Line",
     });
   }
 

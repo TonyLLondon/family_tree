@@ -37,18 +37,29 @@ function PersonCard({
       }}
     >
       {node.photo ? (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={node.photo.url}
-          alt={name}
-          className="h-14 w-14 flex-none rounded-full object-cover ring-2 ring-white shadow sm:h-15 sm:w-15 md:h-12 md:w-12"
-          style={{
-            objectPosition: node.photo.focal
-              ? `${Math.round(node.photo.focal[0] * 100)}% ${Math.round(node.photo.focal[1] * 100)}%`
-              : undefined,
-          }}
-          draggable={false}
-        />
+        <div className="h-14 w-14 flex-none rounded-full ring-2 ring-white shadow overflow-hidden sm:h-15 sm:w-15 md:h-12 md:w-12">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={node.photo.url}
+            alt={name}
+            className="h-full w-full object-cover"
+            style={(() => {
+              const focal = node.photo!.focal ?? [0.5, 0.5] as [number, number];
+              const zoom = node.photo!.zoom ?? 1;
+              if (zoom <= 1) {
+                return { objectPosition: `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%` };
+              }
+              const dx = 50 - focal[0] * 100;
+              const dy = 50 - focal[1] * 100;
+              return {
+                objectPosition: `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%`,
+                transform: `scale(${zoom}) translate(${dx.toFixed(1)}%, ${dy.toFixed(1)}%)`,
+                transformOrigin: "50% 50%",
+              };
+            })()}
+            draggable={false}
+          />
+        </div>
       ) : (
         <div
           className="flex h-14 w-14 flex-none items-center justify-center rounded-full text-sm font-bold text-white shadow sm:h-15 sm:w-15 sm:text-base md:h-12 md:w-12 md:text-sm"

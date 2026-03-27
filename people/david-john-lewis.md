@@ -64,7 +64,7 @@ Asked by his son Ivor what he had done to earn the Silver Star, David replied: *
   - **2 May 1945** — German surrender in Italy.
   - **May 1945** — 6th Armoured Division moved to **Austria**. Lewis recalled that he **ended his war in Austria**. Division subsequently deployed to the **Trieste** border zone.
   - **4 Dec 1945** — Battalion stationed at **Sirmione, Lake Garda**. Battalion Orders (No. 113, Lt-Col D.L.C. Reynolds OBE commanding) formally announce the Silver Star under "Honours and Awards." It was here, at Sirmione, that David met **Fulvia Zerauschek**.
-- **1947** — Demobilised with rank of **Major**. Returned to Sirmione to marry Fulvia.
+- **1947** — Demobilised with rank of **Major**. Returned to Sirmione to marry Fulvia. By **mid-October 1947** the couple were at Sirmione preparing the *corredo di nozze* (wedding trousseau) for export to England — the customs declaration, signed "David J. Lewis. Major." at the British Consulate General in Milan (17 Oct 1947), gave his address as **32 Pendarren Street, Aberdare** (his parents' home).
 - **23 May 1946** — **Mentioned in dispatches** (London Gazette, Supplement 37575, p. 2466).
 - **18 Jul 1947** — Silver Star formally gazetted (London Gazette, Second Supplement 38018, p. 3319).
 - **31 Oct 1953** — **Relinquished commission**; granted honorary rank of **Major** (London Gazette Supplement, p. 5761).
@@ -81,18 +81,41 @@ Brigadier **O.G. Brooke CBE DSO**, his former commanding officer, wrote to David
 ## HM Overseas Civil Service (1948–1969)
 
 - **1948** — Appointed **HM Colonial Administrative Service**.
-- **1948–1950** — Seconded to **Foreign Office Administration of African Territories**. **District Officer in charge of Sabratha District, Libya**.
+- **1948–1950** — Seconded to **Foreign Office Administration of African Territories**. **District Officer in charge of Sabratha District, [Tripolitania, Libya](../topics/libya-tripolitania-british-administration.md)**.
+- **1949** — Present at the formal **reception for Emir Idris al-Senussi** in Tripolitania (see below).
 - **1951** — **Magistrate, Western Province, Tripolitania, Libya**.
 - **Jun 1952** — **Oath of office** taken (certificate dated 6 Jun 1952).
 - **1952–1955** — **District Officer and District Commissioner, Fort Jameson, Northern Rhodesia**.
 - **1956** — **District Commissioner, Chinsali**.
 - **1957–1958** — **District Commissioner, Livingstone**.
 - **1958–1961** — **District Commissioner, Ndola**.
-- **1961** — **Deputy Provincial Commissioner, Western Province (Copperbelt)**.
+- **1961** — **Deputy Provincial Commissioner, Western Province (Copperbelt)**. In **July 1961**, **Bishop Francis Mazzieri OFM Conv.** of the Ndola Diocese (Catholic Mission, Franciscan Fathers) wrote a personal letter of introduction to the Vatican's Maestro di Camera, requesting a papal audience for David and his family during their European holiday — describing him as "il Sig. Lewis, Sostituto Commissario Provinciale di Ndola, mio carissimo amico" (my dearest friend).
 - **1962–1966** — **Assistant Secretary** in the Ministries of the Chief Secretary, Home Affairs, and Information and Postal Services.
 - **1966** — **Acting Permanent Secretary, Ministry of Information and Postal Services** (Zambia).
 
 Passed government examinations in **Law** and the **Nyanja language**. Italian speaker from wartime service and marriage to Fulvia.
+
+### Tripolitania and the rise of King Idris (1948–1951)
+
+David's first overseas posting placed him at the heart of one of the most consequential political transitions in post-war North Africa. The [British Military Administration](../topics/libya-tripolitania-british-administration.md) had governed Tripolitania since the Eighth Army drove out the Axis in 1943, and the territory's future was the subject of intense negotiation between Britain, the United States, Italy, and the United Nations. As **District Officer in charge of Sabratha**, David combined judicial, administrative, and policing functions under **Brigadier Travers Blackley**, Chief Administrator of Tripolitania, in a district that also hosted the major British archaeological excavations of the Roman city (1948–1951, under Dame Kathleen Kenyon and John Ward-Perkins of the British School at Rome). Administrative responsibility for the former Italian territories transferred from the War Office to the **Foreign Office** during David's posting, in 1949.
+
+In **May 1949**, the **Bevin-Sforza Plan** — a British-Italian compromise that would have returned Tripolitania to Italian trusteeship — provoked violent demonstrations across the territory that David administered. The plan was defeated at the UN General Assembly vote on 17–18 May, and its failure opened the door to full Libyan independence under Senussi leadership.
+
+On **1 March 1949**, **Emir Idris al-Senussi** — hereditary leader of the Senussi religious order and Britain's principal Libyan ally since the First World War — had already proclaimed the independent **Emirate of Cyrenaica** from Benghazi. With the Bevin-Sforza plan dead, Tripolitanian leaders under **Selim Muntasser** and the United National Front agreed to accept Idris as monarch rather than risk further European colonial rule. Idris was formally invited to become **Emir of Tripolitania** as well, uniting the two British-administered regions under a single monarchy. This acceptance was marked by **ceremonial receptions across Tripolitania** — formal gatherings of British officers and Libyan dignitaries, mounted processions, and public celebrations flying the black Senussi flag with its white crescent and star.
+
+The family archive preserves **thirteen photographs** from one such reception in 1949, taken in David's district. The images show:
+
+- British and Libyan officials seated together on a terrace overlooking palm trees.
+- Horsemen in traditional dress forming a ceremonial mounted escort, Italian road signs still visible in the background.
+- Large crowds gathered beneath a welcoming arch hung with Senussi flags and Arabic banners.
+- A formal dais with an Arabic banner referencing "the beloved Emir," where dignitaries were received under military guard with carpets laid on the ground.
+- A portrait of Idris carried aloft in procession.
+- David walking alongside Libyan officials in fez and traditional robes — the tall young European in a light suit, clearly at ease in his role as the British district authority.
+- David standing informally with two Arab leaders in a garden among olive trees.
+- [Fulvia](fulvia-ottilia-antonia-zerauschek.md) posing with Libyan dignitaries — a European woman in a summer dress, integrated into the social fabric of the district.
+- David and Fulvia together in a formal group photograph on building steps, flanked by local leaders.
+
+On **21 November 1949** the UN General Assembly directed that Libya become independent before 1952. The Dutch diplomat **Adrian Pelt** was appointed UN Commissioner for Libya on 10 December 1949, charged with shepherding the three regions towards unified independence. David remained through the transition — and through Pelt's work on the ground — serving as **Magistrate, Western Province** by 1951, before transferring to Northern Rhodesia in 1952. Idris was proclaimed **King Idris I** at independence on 24 December 1951 — the culmination of the process David had witnessed from the ground.
 
 ### The Congo Crisis (July 1960)
 
@@ -126,27 +149,35 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 
 ## Director-General, Keep Britain Tidy Group (1969–c. 1987)
 
-- **From 1969** — **Director-General, Keep Britain Tidy Group**, based at **Bostel House, 37 West Street, Brighton BN1 2RE**. Later moved to **27 Queen Anne's Gate, London SW1**. Member, Government Working Group on Waste Management. Member, Packaging Council. Associate, Institute of Wastes Management.
+- **From 1969** — **Director-General, Keep Britain Tidy Group**, based at **Bostel House, 37 West Street, Brighton BN1 2RE**. By 1972 the London office was at **Cecil Chambers, 76/86 Strand, London WC2** (confirmed by David's own compliments slip, May 1972); later moved to **27 Queen Anne's Gate, London SW1**. Member, Government Working Group on Waste Management. Member, Packaging Council. Associate, Institute of Wastes Management.
 - **Nov 1975** — Led the British delegation to the **Clean World International Conference** in **Berlin** (held in the Reichstag building), alongside **James C. Bowling** (Chairman, Keep America Beautiful) and **Gordon Oakes MP**.
 - **Spring 1978** — Authored "The Keep Britain Tidy Group", a short communication in *Environmental Conservation* (Cambridge University Press), Vol. 5, No. 1, p. 56. DOI: [10.1017/S037689290003811X](https://doi.org/10.1017/S037689290003811X).
 - **Aug 1981** — Received a personal telegram from **Queen Elizabeth II** thanking him for birthday wishes sent on behalf of KBT (*"I am extremely touched by your telegram of good wishes on my birthday"*). The **Queen Mother** was patron of the Group; her private secretary corresponded with David on organisational matters, including condolences on the death of co-founder **Sir Felix Brunner** (Nov 1982).
+- **Oct 1983** — **Beautiful Britain in Bloom** awards ceremony at the **Café Royal**, hosted by Lord Parry. Princess Michael of Kent presented awards including "**the Fulvia Lewis Keep Britain Tidy Trophy** to Cheltenham." Both the *Daily Telegraph* and *The Times* (4 October 1983) reported the event, listing "Mr and Mrs D. J. Lewis" among the guests — confirming that a trophy had been named after **[Fulvia](fulvia-ottilia-antonia-zerauschek.md)** in recognition of her contribution to the Keep Britain Tidy movement.
 - **Sep 1984** — **Peter Walker**, Secretary of State for Energy, wrote praising the KBT annual report: *"Naturally I am delighted at the progress you continuously achieve and the impact you make in the country."*
 - KBT was the UK partner of **Keep America Beautiful**; David hosted a reception at **Claridges** with **Sir Derek Ezra** (KBT Chairman) in June 1981 for the US parent organisation's Chairman William A. Fickling Jr.
 - The Keep Britain Tidy Group was founded in 1955; registered as a charity in 1960. It became the **Tidy Britain Group** in 1987, then **ENCAMS** in 2002, reverting to **Keep Britain Tidy** in 2009. Lewis's tenure as Director-General placed him at the head of Britain's principal anti-litter charity through the 1970s and into the 1980s.
 
 ## Family
 
-- Parents: [Samuel Lewis](samuel-lewis.md); [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md).
+- Parents: [Samuel Lewis](samuel-lewis.md); [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md). Lewis family home: **32 Pendarren Street, Aberdare, South Wales** (confirmed by David's 1947 customs declaration).
 - Brother: [Brynmor Keith Lewis](brynmor-keith-lewis.md) (b. 1934).
 - Wife: [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md) — met at **Sirmione, Lake Garda** while the 1st Welch were stationed there after VE Day. David returned to Sirmione after demobilisation to marry her.
-- **Five children** (per 1996 CV), including [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md). The children were raised in Northern Rhodesia and Zambia.
+- **Five children:** **Valerie** ("Baba"), **Michele** (Michael), [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md), **Peter** (Peter Martin Lewis), **Marco**. All five named in a 1957 Christmas card to Antonio and Ester. The children were raised in Northern Rhodesia and Zambia.
+- Family home: **26 Hove Park Way, Hove, Sussex** (confirmed by David's 1968 aerogramme). Earlier Africa addresses included **8 Prospect Hill, Lusaka** (per Mario's 1962 telegram).
+- **David's mother died suddenly in November 1972**. Mario and Giuliana Zerauschek sent condolences from Florence; the news was relayed through Giuliana.
 - David died **22 August 2000** in Hove. Fulvia died **20 December 2000**. Their son Ivor wrote to the Northern Rhodesia Society: *"They both had marvellous and treasured memories of the country and the people that they knew, in their time there. So actually did we their children; effectively brought up there."*
 - David and Fulvia attended the **Northern Rhodesia Society Reunion Lunch** in their later years, maintaining the bonds of their African decades.
 - **Personal interests** (per 1996 CV): big game hunting, rugby, swimming.
 
 ## Evidence
 
-- Line hub: [Lewis · Stump · Europe](../lines/lewis-wales-stump-europe.md) — Ireland / chart / Baltic corpus clusters.
+- Hub: [Lewis · Stump · Europe](../topics/lewis-wales-stump-europe.md) — Ireland / chart / Baltic corpus clusters.
+- Topic: [British Administration of Tripolitania and the Rise of King Idris](../topics/libya-tripolitania-british-administration.md) — BMA 1943–51, Emirate of Cyrenaica, Idris reception 1949.
+- Topic: [Northern Rhodesia — Colonial Service](../topics/northern-rhodesia-colonial-service.md) — district administration, Congo crisis, transition to Zambia.
+- Topic: [Keep Britain Tidy Group](../topics/keep-britain-tidy-group.md) — environmental campaigning and royal patronage (1969–c. 1987).
+- Topic: [Sirmione on Lake Garda](../topics/sirmione-lake-garda.md) — the family's axis mundi (1945–2000).
+- Topic: [Aberdare and the Welsh Valleys](../topics/aberdare-welsh-valleys.md) — 32 Pendarren Street, Aberdare Grammar School, Bristol University.
 - [Lewis / White / Roche / Ireland corpus cluster](../sources/lewis-white-roche-ireland-corpus-cluster.md) — census, MyHeritage charts, Limerick, Obolensky (`corpus/<slug>/`).
 - **Export:** **treeId** **I8** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%200929.ged) · [alternate export snapshot](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged) (MyHeritage URL in note).
 - [1911 census — Aberdare household (David J Lewis)](../media/docs/1911%20census%2041%20Glen%20Road%20Aberdare%20David%20J%20Lewis%20household%20schedule%2079.jpg) (grandfather's household; not this David's generation).
@@ -171,6 +202,24 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **Silver Star — Ivor's note (2009):** [DJL-SStar211109.doc](../media/docs/david-john-lewis-war/service-history/DJL-SStar211109.doc) — records the quote *"The same as everyone else; except someone saw me"* and the American War Library listing confirming LEWIS DAVID J (WW2).
 - **Release papers (3 Nov 1945):** [DJ-Release031145.jpg](../media/docs/david-john-lewis-war/service-history/DJ-Release031145.jpg).
 - **General Eberle portrait:** [GLEberle.jpg](../media/docs/david-john-lewis-war/service-history/GLEberle.jpg).
+
+### Libya — Idris reception photographs (1949)
+
+Thirteen photographs from Africa Album 01, documenting a formal reception for Emir Idris al-Senussi in Tripolitania during David's posting as District Officer at Sabratha. Topic: [British Administration of Tripolitania and the Rise of King Idris](../topics/libya-tripolitania-british-administration.md).
+
+- **Officials meeting on terrace:** [libya-1949-officials-meeting-terrace.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-officials-meeting-terrace.jpg) — British and Libyan officials seated outdoors with palm trees; David likely the young man in a light suit on the far left.
+- **Italian colonial building:** [libya-1949-italian-colonial-building-locals.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-italian-colonial-building-locals.jpg) — white castellated Moorish-revival building with local Libyans gathered outside.
+- **Mounted horsemen:** [libya-1949-mounted-horsemen-procession.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-mounted-horsemen-procession.jpg) — ceremonial mounted escort in traditional dress; Italian road sign partially visible.
+- **Crowd with Senussi flags:** [libya-1949-crowd-senussi-flags-welcome-arch.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-crowd-senussi-flags-welcome-arch.jpg) — large crowd beneath a welcoming arch with crescent-and-star banner; black Emirate of Cyrenaica flags; British soldiers and Libyan men.
+- **Building with flags and banners:** [libya-1949-building-senussi-flags-banners.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-building-senussi-flags-banners.jpg) — the same castellated building dressed with Senussi flags and Arabic banners.
+- **Procession with Emir portrait:** [libya-1949-procession-emir-portrait-carried.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-procession-emir-portrait-carried.jpg) — crowd procession with a portrait of Idris carried aloft on a standard.
+- **Ceremonial dais:** [libya-1949-ceremonial-dais-arabic-banner.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-ceremonial-dais-arabic-banner.jpg) — canopied reception platform with Arabic banner ("the beloved Emir"), Senussi flags, British military sentries, carpets on the ground.
+- **Formal reception banquet:** [libya-1949-formal-reception-banquet.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-formal-reception-banquet.jpg) — Arab dignitaries and European officials at tables inside the pavilion.
+- **Dignitaries at dais table:** [libya-1949-dignitaries-dais-table-served.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-dignitaries-dais-table-served.jpg) — dignitary in fez seated at the high table, served by attendants.
+- **David Lewis walking with officials:** [libya-1949-david-lewis-walking-libyan-officials.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-walking-libyan-officials.jpg) — David (tall, light suit) walking alongside a Libyan official in fez and an elder in white robes.
+- **David Lewis in garden:** [libya-1949-david-lewis-arab-leaders-garden.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-arab-leaders-garden.jpg) — David standing informally with two Arab leaders among olive trees.
+- **Fulvia with dignitaries:** [libya-1949-fulvia-group-libyan-dignitaries.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-fulvia-group-libyan-dignitaries.jpg) — Fulvia in a summer dress with Libyan men in traditional dress and fezzes; seated elder.
+- **David and Fulvia group photo:** [libya-1949-david-fulvia-group-steps.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-fulvia-group-steps.jpg) — David and Fulvia on building steps flanked by Libyan dignitaries; formal group portrait.
 
 ### Colonial service evidence
 
@@ -197,6 +246,10 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **NR Government and press:** [NRG190760-001.jpg](../media/docs/david-john-lewis-colonial-service/congo-crisis/NRG190760-001.jpg), [NRP140760-001.jpg](../media/docs/david-john-lewis-colonial-service/congo-crisis/NRP140760-001.jpg).
 - **FBC additional broadcast pages:** [FBC120760](../media/docs/david-john-lewis-colonial-service/congo-crisis/FBC120760-01.jpg), [FBC270760](../media/docs/david-john-lewis-colonial-service/congo-crisis/FBC270760-001.jpg) series, [GH220760](../media/docs/david-john-lewis-colonial-service/congo-crisis/GH220760-001.jpg) series.
 - **BESL presentation — Ndola farewell (1961):** [BESL110461-01.jpg](../media/docs/david-john-lewis-colonial-service/besl-presentation-1961/BESL110461-01.jpg), [BESL150461 series](../media/docs/david-john-lewis-colonial-service/besl-presentation-1961/BESL150461-01.jpg) (8 pages).
+
+### Mazzieri Vatican letter (1961)
+
+- **Bishop Francis Mazzieri — letter to the Vatican (1 Jul 1961):** [Mazzieri010661-01.jpg](../media/docs/souvenirs/colonial-service/Mazzieri010661-01.jpg) — letter on Ndola Diocese letterhead (Catholic Mission, Franciscan Fathers, P.O. Box 244, Ndola, Northern Rhodesia) addressed to "S.E. il Maestro di Camera di Sua Santità, VATICANO," introducing "il Sig. Lewis, Sostituto Commissario Provinciale di Ndola, mio carissimo amico" and requesting a papal audience during the family's European holiday. [Mazzieri010661-02.jpg](../media/docs/souvenirs/colonial-service/Mazzieri010661-02.jpg) — envelope with the Bishop's official seal ("FRANCISCUS MAZZIERI EPISCOPUS NDOLAENSIS").
 
 ### Kaunda correspondence evidence
 
@@ -226,6 +279,7 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **Peter Walker, Secretary of State for Energy (Sep 1984):** [FLDavid-V-012.doc](../media/docs/david-john-lewis-kbt/royal/FLDavid-V-012.doc) — "Naturally I am delighted at the progress you continuously achieve."
 - **Claridges reception invitation (18 May 1981):** [FLDavid-V-020.doc](../media/docs/david-john-lewis-kbt/royal/FLDavid-V-020.doc) — Charter Medical Corporation hosting Sir Derek Ezra (KBT Chairman) and Keep America Beautiful representatives.
 - **Clean World International Conference, Berlin (Nov 1975):** [KBT-037.doc](../media/docs/david-john-lewis-kbt/international/KBT-037.doc) — Reichstag Building conference report.
+- **Beautiful Britain in Bloom — press clippings (4 Oct 1983):** [KBT041083.jpg](../media/docs/david-john-lewis-kbt/KBT041083.jpg) — *Daily Telegraph* and *The Times* "Court and Social" columns reporting the Café Royal awards ceremony; "the Fulvia Lewis Keep Britain Tidy Trophy to Cheltenham"; "Mr and Mrs D. J. Lewis" listed among guests alongside Lord Mayor of Westminster, Princess Michael of Kent, Sir Robert and Lady Cook, and others.
 - **KBT photo references:** [KBT-042.doc](../media/docs/david-john-lewis-kbt/international/KBT-042.doc) (David with James C. Bowling, Keep America Beautiful, and Gordon Oakes MP); [KBT-043.doc](../media/docs/david-john-lewis-kbt/international/KBT-043.doc) (David with Angela Rumbold MP and TAFF Chairman David Hobbs); [KBT-008.doc](../media/docs/david-john-lewis-kbt/international/KBT-008.doc) (KFC Awards, House of Commons).
 
 ### Personal and family evidence
@@ -240,7 +294,30 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **Bristol University (27 Jun 1939):** [DJ-Uni270639.doc](../media/docs/david-john-lewis-personal/education/DJ-Uni270639.doc), [scan](../media/docs/david-john-lewis-personal/education/DJ-Uni270639.jpg) — pre-war university letter.
 - **Bristol reference (1 Dec 1947):** [BristolRef011247.doc](../media/docs/david-john-lewis-personal/education/BristolRef011247.doc), [scan](../media/docs/david-john-lewis-personal/education/BristolRef011247.jpg) — post-war return to university.
 
-### Other
+### Watercolours
+
+Three watercolour paintings filed among the Fulvia-to-Antonio correspondence, depicting North African coastal scenes likely connected to David's Tripolitania posting:
+
+- **Coastal landscape:** [FLtoAZ-007.jpg](../media/docs/correspondence/fulvia-to-antonio-ester/FLtoAZ-007.jpg) — shoreline with mountains and a small boat; possibly a view from Sabratha or the Tripolitanian coast.
+- **Mountain cove:** [FLtoAZ-008.jpg](../media/docs/correspondence/fulvia-to-antonio-ester/FLtoAZ-008.jpg) — rocky inlet with sea, captioned in pencil (partially legible; possibly "Capo…").
+- **Arab sailing boats:** [FLtoAZ-009.jpg](../media/docs/correspondence/fulvia-to-antonio-ester/FLtoAZ-009.jpg) — red-sailed lateen boats, captioned "Arabian boats" and what appears to be "Gulf of…", dated **29.12.95**.
+
+The 1995 date on the last painting suggests these may be later works from memory rather than field sketches, though earlier dating (1945–50) cannot be ruled out.
+
+### Personal letters
+
+- **David to Fulvia, 2 May 1972 (London):** [DJFL020572-001.jpg](../media/docs/correspondence/david-lewis-personal/DJFL020572-001.jpg), [DJFL020572-002.jpg](../media/docs/correspondence/david-lewis-personal/DJFL020572-002.jpg) — note on Keep Britain Tidy Group compliments slip ("With compliments from the Director General," Cecil Chambers, 76/86 Strand, London WC2). Peter away in Birmingham with Miller; Valerie "shaping into a good cook"; Michael studying for exams; Royal Commonwealth Club membership; "Hope Nonno liked coperta." Signed "Miss you. David."
+- **David to Fulvia, 2 Dec 1968 (Zambia):** [DJFL021268-001.jpg](../media/docs/correspondence/david-lewis-personal/DJFL021268-001.jpg)–[DJFL021268-004.jpg](../media/docs/correspondence/david-lewis-personal/DJFL021268-004.jpg) — aerogramme from R.W. 38 (Ridgeway), Zambia stamps ("International Human Rights Year 1968"). David giving up the house on 20 Dec, moving into "Blagden" on 19th; cancelled hostel. Judicial work: Rachel Kalulu acquitted of wounding Solomon; Mitchley represented Solomon; white magistrate did not believe Kalulu's story. Pete Bullock visiting "26" on 29-30 December. Fulvia on Florence holiday; David asks for news of "Firenze, Zurich, children." Requests extension of Lloyds overdraft. Addressed to "Mrs Fulvia Lewis, 26 Hove Park Way, Hove, Sussex, U.K."
+- **Michele (Michael) Lewis to David & Fulvia, 21 May 1996 (Twickenham):** [OML210596-01.jpg](../media/docs/correspondence/michele-lewis/OML210596-01.jpg), [OML210596-02.jpg](../media/docs/correspondence/michele-lewis/OML210596-02.jpg) — letterhead: 44 Lebanon Park, Twickenham, Middlesex, TW1 3DG. Addresses them as "Dear Nonno e Nanna." Encloses photo of children **Stephen** and **Alice** on their way to school (Nov 1994). Describes renovating three-floor house with basement. "How did you bring up five children?"
+- **Fulvia to Valerie, 26 Jan 1967:** [Val260167-001.jpg](../media/docs/correspondence/fulvia-to-valerie/Val260167-001.jpg)–[Val260167-003.jpg](../media/docs/correspondence/fulvia-to-valerie/Val260167-003.jpg) — congratulations on two O-levels; Valerie ("Baba") considering modelling and interior design school; David initially against the modelling but Fulvia "smoothed" him. Mentions "Michelle" (Michele) and Mrs Dixon. Italian proverb: "Impara un'arte e mettila da parte."
+- **Mario Zerauschek telegram to David, 18 Jul 1962 (Florence → Lusaka):** [Mario180762-001.jpg](../media/docs/correspondence/mario-zerauschek/Mario180762-001.jpg) — "ASPETTAMI VENERDI VENI ORE 11.40 AEROPORTO SALISBURY DIRETTI BEIRA = MARIO." Confirms David's address as 8 Prospect Hill, Lusaka.
+- **Mario & wife to David & Fulvia, 12 Nov 1972 (Florence):** [M&GZ121172-01.jpg](../media/docs/correspondence/mario-zerauschek/M%26GZ121172-01.jpg), [M&GZ121172-02.jpg](../media/docs/correspondence/mario-zerauschek/M%26GZ121172-02.jpg) — condolence on sudden death of "la Signora Lewis" (David's mother). News relayed by Giuliana. Antonio ("il Nonno") and "la zia Mena" also send condolences.
+
+### Marriage and emigration (October 1947)
+
+- **Italian customs declaration (15 Oct 1947):** [Customs151047-01.jpg](../media/docs/sirmione-villa-ester/Customs151047-01.jpg)–[04](../media/docs/sirmione-villa-ester/Customs151047-04.jpg) — "Bagaglio personale della Sig. Fulvia Zerauschek sposata al Sig. David J. Lewis — come da allegato certificato di matrimonio — contenente il corredo di nozze da trasferirsi in Inghilterra." Ministry of Commerce authorization dated 8 Oct 1947, protocol 521538/189/Z/1467. Stamped Banca d'Italia, Brescia, 15 OTT. 1947. Four parcels: linens, clothing (black fur coat, silver fox jacket, 3 silk dresses, tailleur, 2 tennis rackets, 5 books, 8 pairs gloves), mattresses, cushions, carpets.
+- **English customs declaration (16–17 Oct 1947):** [Customs171047-01.jpg](../media/docs/sirmione-villa-ester/Customs171047-01.jpg), [Customs171047-02.jpg](../media/docs/sirmione-villa-ester/Customs171047-02.jpg) — "I, David J. Lewis, a British subject, at present residing at 32 Pendarren St. Aberdare, S. Wales, do sincerely declare that the items enumerated in the attached list belong entirely to my wife and myself and are being transported to the United Kingdom for our own domestic use, and not for resale." Silver dining service, tea service (5 pieces), 1 Radio (Marelli Fido), 4 carpets, household goods. Signed "David J. Lewis. Major." Declared at H.B.M. Consulate General, Milan, 17 October 1947; Consular Service revenue stamps (4s + 2s 6d).
+- **Tirrenia postcard — M/N "Città di Alessandria":** [PCard-001A.jpg](../media/docs/sirmione-villa-ester/PCard-001A.jpg), [PCard-001B.jpg](../media/docs/sirmione-villa-ester/PCard-001B.jpg) — unused souvenir postcard of the Tirrenia (Società di Navigazione, Napoli) vessel M/N "Città di Alessandria" (2,300 t.s.l.), likely from a Mediterranean voyage to or from Tripoli during the family's posting (1948–1951).
 
 ## Open questions
 
@@ -249,6 +326,8 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - ~~**Forces War Records:**~~ The hit "Lewis, David — UK Welsh Regiments 1899–1942" lists **Pvt., b. 1885, KIA 21 Dec 1914** (South Wales Borderers) — no overlap with this profile’s army number or commission trail.
 - ~~**Powerbase — David John Lewis:**~~ **b. 1939**, chartered surveyor — no overlap with this life dates.
 - ~~**Colonial service career:**~~ **Resolved.** Full career from 1948 CV: Tripoli (1948–51), Northern Rhodesia DC (1952–61), Secretariat (1962–66), Acting Permanent Secretary (1966), Director-General KBT from 1969.
+- **TNA FO 1015 — Foreign Office Administration of African Territories:** [1,033 registered files (1915–1952)](https://discovery.nationalarchives.gov.uk/details/r/C8314) covering Cyrenaica, Tripolitania, Eritrea, and Somalia. District Officer reports, intelligence summaries, and administrative correspondence from the British Military Administration in which David served. Lewis's reports from Sabratha District (1948–1950) would be filed here. Related: [FO 1021](https://discovery.nationalarchives.gov.uk/details/r/C8320) — Embassy and Residency, Libya: General Correspondence (1947–1970).
+- **Blackley papers (King's College London Archives):** Papers of Brigadier Travers Robert Blackley (1899–1982), Chief Administrator of Tripolitania 1943–1951 — David's ultimate superior. Include lectures on military government delivered at the University of Virginia.
 - **1st Welch war diary (WO 169 / WO 172):** Not digitised. Would confirm Lewis's presence at individual engagements (Sicily, Anzio, Gemmano, Argenta Gap, Faccenda) and provide a day-by-day account of 25 April 1945.
 - **Officer file (WO 373):** U.S. awards to Commonwealth officers are documented in this TNA series; would contain the recommendation chain for the Silver Star.
 - **NARA GO No. 285:** Full general orders volume from HQ U.S. Army Forces, Mediterranean Theater, 10 November 1945.

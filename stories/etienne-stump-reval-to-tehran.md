@@ -2,7 +2,7 @@
 
 **Canonical structured tree:** [family-tree.json](../family-tree.json) (I16).
 **Person page:** [Étienne Stump](../people/etienne-stump.md).
-**Line hub:** [Lewis · Stump · Europe](../lines/lewis-wales-stump-europe.md) · [Persia trunk](../lines/persia.md).
+**Line hub:** [Lewis · Stump · Europe](../topics/lewis-wales-stump-europe.md) · [Persia trunk](../topics/persia.md).
 
 ---
 

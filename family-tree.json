@@ -1022,7 +1022,9 @@
       "sex": "M",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
       "personPage": "people/samuel-lewis.md",
-      "birthDate": "1887-06-23"
+      "birthDate": "1887-06-23",
+      "deathDate": "1967-07-08",
+      "deathDateGedcom": "8 JUL 1967"
     },
     "I170": {
       "id": "I170",
@@ -2435,7 +2437,7 @@
     },
     "I28": {
       "id": "I28",
-      "displayName": "Elizabeth CUSHEN",
+      "displayName": "Lily CUSHEN",
       "birthUnionId": "F88",
       "spouseUnionIds": [
         "F7"
@@ -6524,7 +6526,9 @@
       "role": "Court and diplomatic circles",
       "era": "Qajar",
       "personPage": "people/anna-saginian.md",
-      "birthDate": "~1830"
+      "birthDate": "~1830",
+      "deathDate": "1892-01-08",
+      "deathDateGedcom": "8 JAN 1892"
     },
     "I81": {
       "id": "I81",

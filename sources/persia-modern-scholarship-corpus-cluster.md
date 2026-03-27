@@ -20,7 +20,7 @@ Academic and reference PDFs ingested for **Qajar / Pahlavi** context, **minoriti
 
 ## Line hub
 
-- [lines/persia.md](../lines/persia.md)
+- [topics/persia.md](../topics/persia.md)
 
 ## Index
 

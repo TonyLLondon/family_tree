@@ -1,6 +1,6 @@
 # Kavkaz newspaper & Adolf Berzhe — wishlist
 
-Lines: [Persia](../../lines/persia.md).
+Lines: [Persia](../../topics/persia.md).
 
 Spotted at British Library; noted in [british-library-notes.md](../british-library-notes.md).
 

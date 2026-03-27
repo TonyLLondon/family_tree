@@ -6,4 +6,4 @@ Seven-image Arolsen Archives (International Tracing Service) file. ITS Nr. **S-1
 
 Key content: wartime escape from Zara to Lošinj Grande and Silba; employment as singer with Opera at Split and Zagreb; exit to Trieste (April 1947) on pretext of continuing singing studies; confirms brother ([Antonio Zerauschek](../people/antonio-zerauschek.md)) held Ford, Firestone, Zenith agencies; political statement opposing fascism, Nazism, and communism.
 
-**Corpus:** [corpus/its-iro-riccardo-zerauschek-1951/](corpus/its-iro-riccardo-zerauschek-1951/) — scans in `media/docs/its-iro-riccardo-zerauschek/`, transcription. **Line hub:** [Zara (Italian Dalmatia)](../lines/zara-italy-dalmatia.md).
+**Corpus:** [corpus/its-iro-riccardo-zerauschek-1951/](corpus/its-iro-riccardo-zerauschek-1951/) — scans in `media/docs/its-iro-riccardo-zerauschek/`, transcription. **Line hub:** [Zara (Italian Dalmatia)](../topics/zara-italy-dalmatia.md).

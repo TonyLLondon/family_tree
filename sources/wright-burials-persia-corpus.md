@@ -17,4 +17,4 @@ Two-volume set in corpus (machine extracts). Complements **Tehran Protestant Cem
 
 ## Line hub
 
-- [lines/persia.md](../lines/persia.md)
+- [topics/persia.md](../topics/persia.md)

@@ -5,6 +5,8 @@ also_known_as:
   - Ricardo Zerauschek
 born: 1896-06-17
 birth_place: Zara, Dalmatia
+died: 1978-02-13
+death_place: Trieste, Italy
 sex: male
 father: antonio-zerauschek-senior
 mother: anna-herenda
@@ -51,11 +53,11 @@ Italian and Croatian sources date the killings of **Nicolò** and **Pietro Luxar
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Research synthesis — war exile, Split opera, Luxardo chronology:** [research/zadar/riccardo-zerauschek-war-exile-luxardo-chronology.md](../research/zadar/riccardo-zerauschek-war-exile-luxardo-chronology.md) (working memo; secondary URLs for regional context).
 - **Wishlist (archives to contact / manifests):** [sources/wishlist/riccardo-zerauschek-iro-trieste-hnk.md](../sources/wishlist/riccardo-zerauschek-iro-trieste-hnk.md).
+- **Death telegram (13 Feb 1978):** [Ginko130278.jpg](../media/docs/zerauschek-family/AZ%20family/Ginco/Ginko130278.jpg) — telegram from TRIESTE to "LEWIS / HOVE PARK WAY 26 / HOVE": "ZIO GINCO MANCATO STAMANE ABBRACCI TANIA." Brighton postmark 13 FEB 78. Confirms Riccardo died in Trieste on 13 February 1978; sender **Tania** = Tatiana Machiedo.
 
 ## Open questions
 
-- **Death date and place** — emigrate to USA or Canada after 1951 IRO filing, or remain in Trieste/Italy? Chase: [Arolsen Archives](https://collections.arolsen-archives.org/en/search/) **People** search *Zerauschek* / ITS follow-up; **Archivio di Stato di Trieste** stato civile; Italian **Anagrafe** mortality query Trieste.
+- ~~**Death date and place**~~ — emigrate to USA or Canada after 1951 IRO filing, or remain in Trieste/Italy? Chase: [Arolsen Archives](https://collections.arolsen-archives.org/en/search/) **People** search *Zerauschek* / ITS follow-up; **Archivio di Stato di Trieste** stato civile; Italian **Anagrafe** mortality query Trieste.
 - **Filing card** notes `REGISTERED AT SOR ON 17609` — whether additional ITS sheets exist under that registration (Arolsen reference).
 - **HNK Split** archive — payrolls or chorus/artist lists **1945–1947** (surname variants **Zerauschek** / Italian spelling).
-- **Ship manifests** — if any US/Canada arrival **1952–1965** under family names from Trieste embarkation.
 - Tatiana's family: [tatiana-machiedo](tatiana-machiedo.md); memoir “judge brother” = **[Sergije Makiedo](sergije-makiedo.md)** (HBL + Kovačić 2014).

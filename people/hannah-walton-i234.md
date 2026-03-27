@@ -24,7 +24,7 @@ Hannah Walton was the wife of [William Moran](william-moran-i235.md); they marri
 ## Evidence
 
 - **Export:** **treeId** **I234** — unions **F116**, **F117** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md) (London table — parallel Moran household).
+- Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md) (London table — parallel Moran household).
 
 ## Open questions
 

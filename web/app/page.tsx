@@ -8,7 +8,7 @@ import { buildPhotoInfoMap, focalToObjectPosition } from "@/lib/photos";
 import { countBiographicalPersonPages, getStorySlugs } from "@/lib/content";
 import { getSiteSearchItems } from "@/lib/siteSearchIndex";
 import { readScrollySidecar, resolveScrollySteps } from "@/lib/scrollytelling";
-import { readStoryOrLineCard } from "@/lib/browse";
+import { readStoryCard } from "@/lib/browse";
 
 function getAllPortraits(): PortraitEntry[] {
   const tree = loadFamilyTree();
@@ -35,7 +35,7 @@ function getStorySlides(): StorySlide[] {
   const slugs = getStorySlugs();
   return slugs.map((slug) => {
     const sidecar = readScrollySidecar(slug);
-    const { title: mdTitle } = readStoryOrLineCard("stories", slug);
+    const { title: mdTitle } = readStoryCard(slug);
     if (sidecar) {
       const resolved = resolveScrollySteps(sidecar);
       return {

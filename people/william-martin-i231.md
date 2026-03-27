@@ -15,7 +15,7 @@ William Martin was father of [Thomas Martin](thomas-martin-i229.md). The export�
 ## Evidence
 
 - **Export:** **treeId** **I231** — union **F114** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
+- Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 
 ## Open questions
 

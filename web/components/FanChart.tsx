@@ -35,11 +35,35 @@ type Props = {
   centers?: Person[];
 };
 
-function focalToPreserveAspectRatio(focal: [number, number]): string {
-  const [fx, fy] = focal;
-  const xAlign = fx < 0.33 ? "xMin" : fx > 0.66 ? "xMax" : "xMid";
-  const yAlign = fy < 0.33 ? "yMin" : fy > 0.66 ? "yMax" : "yMid";
-  return `${xAlign}${yAlign} slice`;
+function focalToObjectPosition(focal: [number, number]): string {
+  return `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%`;
+}
+
+function photoImgStyle(
+  focal: [number, number],
+  zoom: number,
+): React.CSSProperties {
+  const op = focalToObjectPosition(focal);
+  if (zoom <= 1) {
+    return {
+      width: "100%",
+      height: "100%",
+      objectFit: "cover",
+      objectPosition: op,
+      display: "block",
+    };
+  }
+  const dx = 50 - focal[0] * 100;
+  const dy = 50 - focal[1] * 100;
+  return {
+    width: "100%",
+    height: "100%",
+    objectFit: "cover",
+    objectPosition: op,
+    transform: `scale(${zoom}) translate(${dx.toFixed(1)}%, ${dy.toFixed(1)}%)`,
+    transformOrigin: "50% 50%",
+    display: "block",
+  };
 }
 
 const W = 2400;
@@ -340,6 +364,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 const pInfo = photoInfos[s.id];
                 const photo = pInfo?.url ?? null;
                 const photoFocal = pInfo?.focal ?? [0.5, 0.5] as [number, number];
+                const photoZoom = pInfo?.zoom ?? 1;
                 const name = s.person?.displayName ?? "?";
                 const years = yearRange(s.person);
                 const span = s.endAngle - s.startAngle;
@@ -360,7 +385,6 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 const tightRadial = arcLen < 92 || s.generation >= 5;
                 const veryTight = arcLen < 40 || (s.generation >= 6 && arcLen < 58);
                 const showPhoto = Boolean(photo) && band >= 5 && photoR >= 3.5;
-                const clipId = `fc-${idx}`;
                 const regionShort = regionShortLabelFromBirthPlace(s.person?.birthPlace);
                 const tooltip = [name, years, s.person?.birthPlace].filter(Boolean).join(" · ");
 
@@ -487,22 +511,23 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
 
                     {showPhoto && (
                       <>
-                        <defs>
-                          <clipPath id={clipId}>
-                            <circle cx={cx} cy={cy - 4} r={photoR} />
-                          </clipPath>
-                        </defs>
                         <circle cx={cx} cy={cy - 4} r={photoR + 1.5} fill="#fff" stroke="#d4d4d8" strokeWidth={0.5} />
-                        <image
-                          href={photo!}
+                        <foreignObject
                           x={cx - photoR}
                           y={cy - photoR - 4}
                           width={photoR * 2}
                           height={photoR * 2}
-                          clipPath={`url(#${clipId})`}
-                          preserveAspectRatio={focalToPreserveAspectRatio(photoFocal)}
                           style={{ pointerEvents: "none" }}
-                        />
+                        >
+                          <div style={{ width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <img
+                              src={photo!}
+                              alt=""
+                              style={photoImgStyle(photoFocal, photoZoom)}
+                            />
+                          </div>
+                        </foreignObject>
                       </>
                     )}
 
@@ -522,6 +547,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                   if (sharedPhoto) {
                     const photo = photoUrls[0]!;
                     const focal = photoInfos[centers[0].id]?.focal ?? ([0.5, 0.5] as [number, number]);
+                    const rootZoom = photoInfos[centers[0].id]?.zoom ?? 1;
                     const ring = chartStrokeFromBirthPlace(centers[0].birthPlace);
                     const clipR = 70;
 
@@ -538,21 +564,22 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                     return (
                       <g transform="translate(0,30)">
                         <circle r={ROOT_R} fill="#fff" stroke={ring} strokeWidth={3} />
-                        <defs>
-                          <clipPath id="root-clip-combined">
-                            <circle r={clipR} />
-                          </clipPath>
-                        </defs>
-                        <image
-                          href={photo}
+                        <foreignObject
                           x={-clipR}
                           y={-clipR}
                           width={clipR * 2}
                           height={clipR * 2}
-                          clipPath="url(#root-clip-combined)"
-                          preserveAspectRatio={focalToPreserveAspectRatio(focal)}
                           style={{ pointerEvents: "none" }}
-                        />
+                        >
+                          <div style={{ width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <img
+                              src={photo}
+                              alt=""
+                              style={photoImgStyle(focal, rootZoom)}
+                            />
+                          </div>
+                        </foreignObject>
                         <text y={108} x={0} textAnchor="middle" fontSize={17} fontWeight={700} fill="#0f172a" style={{ pointerEvents: "none" }}>
                           {combinedName}
                         </text>
@@ -574,6 +601,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                     const pInfo = photoInfos[p.id];
                     const photo = pInfo?.url ?? null;
                     const rootFocal = pInfo?.focal ?? ([0.5, 0.5] as [number, number]);
+                    const rootZoom = pInfo?.zoom ?? 1;
                     const years = yearRange(p);
                     const ring = chartStrokeFromBirthPlace(p.birthPlace);
                     const shortName = name.length > 22 ? `${name.slice(0, 21)}…` : name;
@@ -583,23 +611,22 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                       <g key={p.id} transform={`translate(${xOff},0)`}>
                         <circle r={ROOT_R} fill="#fff" stroke={ring} strokeWidth={3} />
                         {photo ? (
-                          <>
-                            <defs>
-                              <clipPath id={`root-clip-${p.id}`}>
-                                <circle r={70} />
-                              </clipPath>
-                            </defs>
-                            <image
-                              href={photo}
-                              x={-70}
-                              y={-70}
-                              width={140}
-                              height={140}
-                              clipPath={`url(#root-clip-${p.id})`}
-                              preserveAspectRatio={focalToPreserveAspectRatio(rootFocal)}
-                              style={{ pointerEvents: "none" }}
-                            />
-                          </>
+                          <foreignObject
+                            x={-70}
+                            y={-70}
+                            width={140}
+                            height={140}
+                            style={{ pointerEvents: "none" }}
+                          >
+                            <div style={{ width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
+                              {/* eslint-disable-next-line @next/next/no-img-element */}
+                              <img
+                                src={photo}
+                                alt=""
+                                style={photoImgStyle(rootFocal, rootZoom)}
+                              />
+                            </div>
+                          </foreignObject>
                         ) : null}
                         {slug ? (
                           <circle

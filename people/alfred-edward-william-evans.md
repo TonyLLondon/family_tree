@@ -17,7 +17,7 @@ children:
 
 # Alfred Edward William Evans
 
-**Alfred** drew first breath where **Clerkenwell** elbows **Holborn**: **2 February 1893** in the **Holborn** district, christened **19 February** at **Holy Redeemer**, **Exmouth Market**—**Sedding**’s polychrome pile on the old **Spa Fields** mission site. His parents were [William Evans](william-evans-i289.md) and [Louisa Spencer](louisa-spencer.md). On **Christmas Day 1912** he married [Annie Fensom](annie-fensom-i291.md); their son [Joseph Evans](joseph-evans-i99.md) began the run toward [Joseph (1940)](joseph-evans-i18.md), [Helia](helia-cerpa-perez.md), and the [Evans–Cerpa Pérez hub](../lines/evans-cerpa-perez-london-chile.md).
+**Alfred** drew first breath where **Clerkenwell** elbows **Holborn**: **2 February 1893** in the **Holborn** district, christened **19 February** at **Holy Redeemer**, **Exmouth Market**—**Sedding**’s polychrome pile on the old **Spa Fields** mission site. His parents were [William Evans](william-evans-i289.md) and [Louisa Spencer](louisa-spencer.md). On **Christmas Day 1912** he married [Annie Fensom](annie-fensom-i291.md); their son [Joseph Evans](joseph-evans-i99.md) began the run toward [Joseph (1940)](joseph-evans-i18.md), [Helia](helia-cerpa-perez.md), and the [Evans–Cerpa Pérez hub](../topics/evans-cerpa-perez-london-chile.md).
 
 **September 1939** catches him in truth: **National Register**, **Islington**, **fruit-and-vegetable costermonger** beside Annie, **printer’s maker**—barrow and bench, husband and wife, the same working city the church had blessed in ribbon and incense.
 

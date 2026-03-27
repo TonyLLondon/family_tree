@@ -1,6 +1,6 @@
 # Addobbati: Venetian-Dalmatian civic family and the Habsburg postal service
 
-Connected to the Zerauschek line via [Ester Addobbati](../people/ester-addobbati.md) × [Antonio Zerauschek](../people/antonio-zerauschek.md). **Archive:** Državni arhiv u Zadru (DAZD) — HR-DAZD-342 Obitelj Addobbati (1732–1930). **Narrative companion:** [Zara — Antonio Zerauschek](zerauschek-zadar.md). **Line hub:** [lines/zara-italy-dalmatia.md](../lines/zara-italy-dalmatia.md).
+Connected to the Zerauschek line via [Ester Addobbati](../people/ester-addobbati.md) × [Antonio Zerauschek](../people/antonio-zerauschek.md). **Archive:** Državni arhiv u Zadru (DAZD) — HR-DAZD-342 Obitelj Addobbati (1732–1930). **Narrative companion:** [Zara — Antonio Zerauschek](zerauschek-zadar.md). **Hub:** [topics/zara-italy-dalmatia.md](../topics/zara-italy-dalmatia.md).
 
 ---
 
@@ -106,7 +106,7 @@ The Državni arhiv u Zadru (DAZD) holds remarkable documentation for this family
 
 | Source | Corpus slug | Notes |
 |--------|-------------|-------|
-| Sabalich — *Guida archeologica di Zara* (1897), pp. 503–509 | [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/) | Full Addobbati family entry; 1745 Bergamo genealogy; civic offices; Dr. Pietro career; marriage alliances; 7 page-scans + transcription/translation |
+| Sabalich — *Guida archeologica di Zara* (1897), pp. 503–509 | [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/) | Full Addobbati family entry; 1745 Bergamo genealogy; civic offices; Dr. Pietro career; marriage alliances; 7 page-scans + transcription/translation. **Caveat (Fulvia, Jan 2000):** the dates in Sabalich refer to nominations, honours, and achievements — not birth dates. "The only [testimonial] I know of, is not always clear and in my chart partially not always right." — [NonnaNotes110100](../media/docs/fulvia-family-tree-file/NonnaNotes110100/page-1.jpg). |
 | Granić — Popis plemića grada Nina iz 1817. (Zbornik HAZU, 32, 2014) | [granic-nin-noble-list-1817](../sources/corpus/granic-nin-noble-list-1817/) | Primary article on the 1817 Nin noble list; Addobbati section; full text |
 | Celić — Zadarsko plemstvo i građanstvo početkom francuske uprave (Radovi HAZU, 2014) | [celic-zadarsko-plemstvo-francuska-uprava](../sources/corpus/celic-zadarsko-plemstvo-francuska-uprava/) | 1806 census analysis; Addobbati in Zara citizen council; French period |
 | Società Dalmata di Storia Patria — Per l'Italia (2017) | [societa-dalmata-storia-patria-2017](../sources/corpus/societa-dalmata-storia-patria-2017/) | 1909 protest list: Pietro Pio *Ufficiale postale superiore*; Marino, Vincenzo |

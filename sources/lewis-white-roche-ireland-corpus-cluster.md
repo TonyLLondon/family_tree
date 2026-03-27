@@ -32,7 +32,7 @@ Machine-ingested bundles for **Welsh–Irish–English** lines (census extracts,
 
 ## Narratives & line hub
 
-- [stories/lewis-aberdare-merthyr-coalfield.md](../stories/lewis-aberdare-merthyr-coalfield.md) · [lines/lewis-wales-stump-europe.md](../lines/lewis-wales-stump-europe.md)
+- [stories/lewis-aberdare-merthyr-coalfield.md](../stories/lewis-aberdare-merthyr-coalfield.md) · [topics/lewis-wales-stump-europe.md](../topics/lewis-wales-stump-europe.md)
 
 ## Index
 

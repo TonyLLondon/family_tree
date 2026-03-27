@@ -24,7 +24,7 @@ Appendix: Evidence, Sources.
 - `research/iran-qajar/armenian-officers-qajar-military.md` — research memo (Cronin, 1834 Isfahan, patronage analysis).
 - `sources/nypl-burgess-appendix-anna-interview.md` — Anna's 1880 interview recalling her father.
 - `media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png` — portrait.
-- `lines/persia.md` — Generation 1 section.
+- `topics/persia.md` — Generation 1 section.
 - Dr. Wolff's 1843 account (quoted on person page) — "Russian colonel" / "Armenian" identity negotiation.
 
 ## Images needed
@@ -41,4 +41,4 @@ Appendix: Evidence, Sources.
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/persia.md`.
+Add to **Narratives** table in `topics/persia.md`.

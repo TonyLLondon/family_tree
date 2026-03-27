@@ -8,7 +8,7 @@ Bundles under `sources/corpus/<slug>/` — provenance (`source.yaml`), extracts 
 
 ## Citation cards
 
-Thin topical cards in **`sources/*.md`** (work- or site-oriented filenames). Line hubs (`lines/*.md`) and [topics/index.md](../topics/index.md) also aggregate links.
+Thin topical cards in **`sources/*.md`** (work- or site-oriented filenames). Line hubs (`topics/*.md`) and [topics/index.md](../topics/index.md) also aggregate links.
 
 **Cluster hubs** (many `corpus/<slug>/` on one page): [nypl-burgess-corpus-cluster.md](nypl-burgess-corpus-cluster.md), [lewis-white-roche-ireland-corpus-cluster.md](lewis-white-roche-ireland-corpus-cluster.md), [missions-bahai-babi-corpus-cluster.md](missions-bahai-babi-corpus-cluster.md), [persia-modern-scholarship-corpus-cluster.md](persia-modern-scholarship-corpus-cluster.md), [baltic-erbe-stump-corpus-cluster.md](baltic-erbe-stump-corpus-cluster.md), [wright-burials-persia-corpus.md](wright-burials-persia-corpus.md).
 

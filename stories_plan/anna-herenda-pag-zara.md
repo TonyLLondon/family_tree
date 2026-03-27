@@ -40,4 +40,4 @@ Appendix: Evidence, Sources, Open questions.
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/zara-italy-dalmatia.md`.
+Add to **Narratives** table in `topics/zara-italy-dalmatia.md`.

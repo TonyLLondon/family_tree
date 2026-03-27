@@ -16,7 +16,7 @@ children:
 
 The vault still holds only **about 1862** for his birth and the invitation for a future **GRO** or parish bundle to fix him to a named household. A candid file labelled *William Evans doing Louisa Spencer* may be the pair—compare dress and backdrop to other **Evans** album leaves before calling it evidence for faces.
 
-**Hub:** [Evans · Cerpa Pérez](../lines/evans-cerpa-perez-london-chile.md) (loose media batch).
+**Hub:** [Evans · Cerpa Pérez](../topics/evans-cerpa-perez-london-chile.md) (loose media batch).
 
 ## Family
 

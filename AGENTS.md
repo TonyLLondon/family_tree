@@ -5,16 +5,15 @@
 | Asset | Role |
 |-------|------|
 | `family-tree.json` | **Single source of truth** for structured tree (web app). **Schema 2:** topology + rich optional fields (vitals, `alsoKnownAs`, `personPage`, etc.). **Master workflow:** edit JSON and/or `people/*.md` (`treeId`), then run `scripts/sync_family_tree_json.py` (vault + existing JSON win; GEDCOM only fills gaps). Wrapper: `scripts/merge_gedcom_vitals_into_family_tree.py`. Validate: `scripts/validate_family_tree_json.py`. |
-| `lines/persia.md` | Human hub: outline, Mermaid, tables, source index (Persia line). |
 | `people/*.md` | One file per person; YAML frontmatter + prose + links. Planning: `ancestor-coverage-list.md`, `person-pages-extension-plan.md`. |
-| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `stories/`, `lines/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/`, `sources/corpus/`, and `family-tree.json` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
+| `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `stories/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/`, `sources/corpus/`, and `family-tree.json` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
 
 ## Primary workflow (read → write)
 
 The vault is for **judgment and narrative**, not for treating machine extracts as finished work.
 
 1. **Read the evidence** in `sources/corpus/<slug>/`: prefer **`transcription*.md`**, **`translation*.md`**, and **`reference.md`** when present; use **`extracted.pdf.md` / `extracted.web.md`** or the file under **`media/`** when that is what you have.
-2. **Integrate** defensible facts and (where rights allow) short quotations into **`people/*.md`**, **`stories/*.md`**, **`lines/*.md`**, or a thin **`sources/*.md`** card—always with **repo-relative links** back to the bundle.
+2. **Integrate** defensible facts and (where rights allow) short quotations into **`people/*.md`**, **`stories/*.md`**, **`topics/*.md`**, or a thin **`sources/*.md`** card—always with **repo-relative links** back to the bundle.
 3. **`research/`** is working space; fold stable conclusions into those canonical files and trim redundant memos.
 
 Scripts (below) handle **sync, ingest, and validation**. They do not replace opening the markdown or PDF and writing what you learned.
@@ -24,12 +23,12 @@ Scripts (below) handle **sync, ingest, and validation**. They do not replace ope
 | Dir | Holds |
 |-----|--------|
 | `stories/` | Multi-gen or long-form essays rendered as **visual scrollytelling** on the web app. Each story has two files: `<slug>.md` (vault markdown with `# Title` and `## Section` headings) and `<slug>.scrolly.json` (sidecar configuring the visual layout). See **Building a story** below. |
-| `topics/` | Cross-links: places, institutions (`topics/index.md` hub). |
+| `topics/` | Places, institutions, themes, and regional family hubs (`topics/index.md` hub). Includes former "line hubs" (Persia, Zara, Lewis/Stump, Evans/Cerpa-Pérez). |
 | `sources/*.md` | **Citation cards**: short summary, links to people, pointer into corpus. Optional YAML `corpus:` + `kind: pdf\|web`. |
 | `index.md` | Vault map (tables for `media/` layout). |
 | `manual/` | **Inbox** for raw drops to be **read and relocated** into `people/`, `stories/`, `sources/corpus/`, `media/`, etc. See `manual/README.md`. |
 
-**Line hubs:** `lines/persia.md` (Persia trunk); `lines/zara-italy-dalmatia.md` (Zara); `lines/lewis-wales-stump-europe.md` (Lewis + Stump/Erbe + Ireland); `lines/evans-cerpa-perez-london-chile.md` (London Evans × Chile).
+**Regional hubs (in `topics/`):** `topics/persia.md` (Persia trunk); `topics/zara-italy-dalmatia.md` (Zara); `topics/lewis-wales-stump-europe.md` (Lewis + Stump/Erbe + Ireland); `topics/evans-cerpa-perez-london-chile.md` (London Evans × Chile).
 
 ## Sources: corpus bundles
 
@@ -148,7 +147,7 @@ Stories are **visual-rich scrollytelling pages** on the web app, not plain markd
 1. Write `stories/<slug>.md` with `# Title`, then `## Section` per visual beat, then `## Evidence` / `## Related` as appendix.
 2. Gather images: family photos in `media/docs/`; download CC/public-domain context images to `media/context/<topic>/` with a `CREDITS.md`.
 3. Create `stories/<slug>.scrolly.json` matching the number of `##` sections to `scrollyStepCount` and `steps[]`.
-4. Link the story from the relevant `lines/*.md` hub (not from unrelated line hubs — Evans stories link from `evans-cerpa-perez-london-chile.md`, not from `lewis-wales-stump-europe.md`).
+4. Link the story from the relevant `topics/*.md` hub (not from unrelated hubs — Evans stories link from `evans-cerpa-perez-london-chile.md`, not from `lewis-wales-stump-europe.md`).
 5. Test locally: `cd web && npm run dev` → visit `/stories/<slug>`.
 
 ## Editorial voice
@@ -157,10 +156,10 @@ Treat **reader-facing genealogy** as distinct from **working vault** material.
 
 | Audience / role | Paths | Voice |
 |-----------------|-------|--------|
-| **Prose & engagement** | `people/*.md`, `topics/*.md`, `stories/*.md`, narrative sections of `lines/*.md` | Continuous prose: clear biographical or topical writing that a non-genealogist can read. Lead with people, places, and story; explain context in plain language. |
+| **Prose & engagement** | `people/*.md`, `topics/*.md`, `stories/*.md` | Continuous prose: clear biographical or topical writing that a non-genealogist can read. Lead with people, places, and story; explain context in plain language. |
 | **Working vault** | `research/`, `manual/`, `index.md`, `sources/*.md` cards, `sources/corpus/*` extracts | Operational detail is fine: tables, filing codes, wishlists, GEDCOM/file-level provenance, sync notes, “next steps.” |
 
-When **people/topics/stories/lines** need machine or export identifiers (`treeId`, GEDCOM `@I…@`, FamilySearch IDs), keep them in YAML frontmatter and/or a compact **Evidence** / **Sources & identifiers** section so the main body reads like an article, not a database dump.
+When **people/topics/stories** need machine or export identifiers (`treeId`, GEDCOM `@I…@`, FamilySearch IDs), keep them in YAML frontmatter and/or a compact **Evidence** / **Sources & identifiers** section so the main body reads like an article, not a database dump.
 
 ## Conventions
 

@@ -52,7 +52,7 @@ A plaque on the exterior commemorates Callas and Meneghini. The villa's facade h
 
 ## Evidence
 
-- **Incom** reportage by Savino Mariani, published 10 May 1958 (reproduced on GBOPERA): corpus [gbopera-2009-telefoni-e-rose-sirmione-callas](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/). Names the full ownership chain: Giannantoni → Antonio Zerauschek ("industriale zaratino, ora trasferitosi in quel di Firenze") → Angelo Marinoni → Comm. Battista Meneghini (December 1957, ~60 million lire, gift for Maria Callas).
+- **Incom** reportage by Savino Mariani, published 10 May 1958 (reproduced on GBOPERA): corpus [gbopera-2009-telefoni-e-rose-sirmione-callas](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/). Names the full ownership chain: Giannantoni → Antonio Zerauschek ("industriale zaratino, ora trasferitosi in quel di Firenze") → Angelo Marinoni → Comm. Battista Meneghini (December 1957, ~60 million lire, gift for Maria Callas). **Original magazine scans** (*La Settimana INCOM Illustrata*, N. 19, Anno XI, 10 Maggio 1958): [INCOM100558-01.jpg](../media/docs/sirmione-villa-ester/INCOM100558-01.jpg)–[07](../media/docs/sirmione-villa-ester/INCOM100558-07.jpg) — masthead, headline, exterior photo of the villa with 1950s cars, article text (two columns), photo of Callas on the villa steps with caretaker Emma Brutti, and group portrait of the restoration team (Ing. Neddo Faccioli, Comm. Battista Meneghini, Arch. Gianni Barbesi, Maria Callas, and Meneghini's secretary Aldo Maurin holding a signed Cho-cho-san photograph).
 - Family photograph: [Fulvia Zerauschek at Villa Ester, Sirmione](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png) — young woman on the loggia balustrade, marble floors, wrought-iron doors, conifer park behind.
 - Period exterior photograph: [Villa Ester exterior, c. 1958](../media/docs/Villa%20Ester%20Sirmione%20exterior%20c1958.png) — road-side view showing three floors, solarium turret, four window types, external staircase with quatrefoil balustrade, two late-1950s cars parked in front.
 - *Difesa Adriatica* obituary (1973): [translation (EN)](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md) — describes Antonio's post-war exile in Florence.
@@ -65,4 +65,4 @@ A plaque on the exterior commemorates Callas and Meneghini. The villa's facade h
 - [Antonio Zerauschek](../people/antonio-zerauschek.md) — person page
 - [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) — person page
 - [Zara — Antonio Zerauschek (interwar)](zerauschek-zadar.md) — Zara narrative
-- [Zara / Italian Dalmatia line hub](../lines/zara-italy-dalmatia.md)
+- [Zara / Italian Dalmatia line hub](../topics/zara-italy-dalmatia.md)

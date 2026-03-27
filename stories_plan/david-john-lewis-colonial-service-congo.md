@@ -39,4 +39,4 @@ Appendix: Evidence, Medals and decorations (combined WWII + colonial), Sources.
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/lewis-wales-stump-europe.md`.
+Add to **Narratives** table in `topics/lewis-wales-stump-europe.md`.

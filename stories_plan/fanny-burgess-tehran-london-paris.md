@@ -43,4 +43,4 @@ Appendix: Evidence, Sources.
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/persia.md`.
+Add to **Narratives** table in `topics/persia.md`.

@@ -1,7 +1,7 @@
 import { SiteNav } from "@/components/SiteNav";
 import { getStorySlugs } from "@/lib/content";
 import { readScrollySidecar, resolveScrollySteps } from "@/lib/scrollytelling";
-import { readStoryOrLineCard } from "@/lib/browse";
+import { readStoryCard } from "@/lib/browse";
 import {
   StoryCardsGrid,
   type StoryCardData,
@@ -12,7 +12,7 @@ function buildCards(): StoryCardData[] {
 
   return slugs.map((slug) => {
     const sidecar = readScrollySidecar(slug);
-    const { title: mdTitle, blurb } = readStoryOrLineCard("stories", slug);
+    const { title: mdTitle, blurb } = readStoryCard(slug);
 
     if (sidecar) {
       const resolved = resolveScrollySteps(sidecar);

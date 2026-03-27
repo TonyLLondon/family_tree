@@ -4,4 +4,4 @@ Croatian business newspaper article (21 Dec 2011) about a new Zadar chocolatier,
 
 Corpus: [poslovni-hr-2011-ausonia-zadar-zerauschek](corpus/poslovni-hr-2011-ausonia-zadar-zerauschek/).
 
-Person: [Antonio Zerauschek](../people/antonio-zerauschek.md). Line hub: [Zara (Italian Dalmatia)](../lines/zara-italy-dalmatia.md).
+Person: [Antonio Zerauschek](../people/antonio-zerauschek.md). Line hub: [Zara (Italian Dalmatia)](../topics/zara-italy-dalmatia.md).

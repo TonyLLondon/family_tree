@@ -92,7 +92,7 @@ Helia died in 2025. She married [Joseph Evans](../people/joseph-evans-i18.md) in
 
 - [family-tree.json](../family-tree.json) **`I19`**.
 - [Helia Cerpa-Pérez — person page](../people/helia-cerpa-perez.md): council minutes table, Valech analysis, full source links.
-- Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
+- Line hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 
 ## Sources
 

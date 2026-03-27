@@ -41,4 +41,4 @@ This story is **image-rich from day one** — the Farsi page scans alone provide
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/persia.md`.
+Add to **Narratives** table in `topics/persia.md`.

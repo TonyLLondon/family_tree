@@ -19,7 +19,7 @@ siblings:
 
 ## Evidence
 
-- Hub: [Evans · Cerpa Pérez — Chile](../lines/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
+- Hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
 - **Export:** **treeId** **I352** — union **F162** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions

@@ -24,7 +24,7 @@ Child of [William Moran](william-moran-i235.md) and [Hannah Walton](hannah-walto
 
 - **Export:** [Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — child of household **F116** ([William Moran](william-moran-i235.md) × [Hannah Walton](hannah-walton-i234.md)); **treeId** **I241** matches YAML.
 - **Site:** [Ancestor chart](/chart) — same compiled graph as the vault (find this person by chart search).
-- Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
+- Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 
 ## Open questions
 

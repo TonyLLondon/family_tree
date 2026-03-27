@@ -27,7 +27,6 @@ function getBreadcrumbHref(segments: string[], index: number): string | null {
   if (index === 0) {
     const hubs: Record<string, string> = {
       people: "/people",
-      lines: "/lines",
       stories: "/stories",
       topics: "/topics",
     };

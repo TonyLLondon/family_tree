@@ -102,9 +102,6 @@ export function resolveVaultHref(currentFileRelPosix: string, raw: string): stri
   const nar = mdRoute("stories/", "/stories");
   if (nar) return nar;
 
-  const lines = mdRoute("lines/", "/lines");
-  if (lines) return lines;
-
   if (joined.startsWith("topics/") && joined.endsWith(".md")) {
     const inner = joined.slice("topics/".length, -".md".length);
     if (inner === "index") return `/topics${hashSuffix}`;

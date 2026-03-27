@@ -6,4 +6,4 @@ Fifteen-page PDF (Word export, dated 9 Dec 2009) compiling Italian-language Wiki
 
 **Topic:** [Order of the Golden Spur](../topics/order-golden-spur.md).
 
-**Related people:** [Dr. Petar Addobbati](../people/luigi-anzolo-alloisio-addobbati.md) (recipient 1786). **Line hub:** [Zara (Italian Dalmatia)](../lines/zara-italy-dalmatia.md).
+**Related people:** [Dr. Petar Addobbati](../people/luigi-anzolo-alloisio-addobbati.md) (recipient 1786). **Line hub:** [Zara (Italian Dalmatia)](../topics/zara-italy-dalmatia.md).

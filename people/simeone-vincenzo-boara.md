@@ -48,12 +48,13 @@ The marriage church, **Sv. Šime** (Church of Saint Simeon), is one of Zadar's m
 
 - Wife: [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md).
 - Parents: [Giovanni Battista Boara](giovanni-battista-boara.md); [Giovanna Grabar](giovanna-grabar.md) (married **2 Oct 1819**, **Zara**).
-- Children: **eight** per Fulvia memoir (1996), including [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md), Artemisia (export id I62), Eveline (married a Croat), Casimiro Boara, Carmela Boara, and three others unidentified. See [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md) for the Boara inheritance dispute.
+- Children: **eight** per Fulvia memoir (1996), now fully identified from the handwritten family tree (NTree01): **Evelina** (m. Velzek; b. 1861, Zara), **Artemia** (m. Giuseppe Kirmayer; b. 1850, Zara), **Riccardo**, **Bate** (Battista?; 1851–1924), **Casimiro** (1852–1931), **Carmela** (1858–1934), **Alfonso** ("twins" notation), and [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md) (b. 1865). See [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md) for the Boara inheritance dispute.
 
 ## Evidence
 
 - **Export:** **treeId** **I22** — unions **F11**, **F55**, **F204** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@**; Geni note in **SOUR**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — "landowners and intellectuals, very much Italians", eight children, inheritance dispute.
+- **Handwritten family tree (NTree01):** [media/docs/fulvia-family-tree-file/NTree01.jpg](../media/docs/fulvia-family-tree-file/NTree01.jpg) — Fulvia's hand; shows all eight Boara children with dates for Bate (1851–1924), Casimiro (1852–1931), Carmela (1858–1934); married names for Evelina (m. Velzek) and Artemia (m. Giuseppe Kirmayer).
 - **Marriage register of daughter Ottilia, Entry N. 8, 12 Feb 1890:** "Boara Simeone, da Zara, Cattolico, Possidente, Civile, Vivente" — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
 - **Parents' marriage register, Zara, 1849:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Carobbi Zara 1849.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Carobbi%20Zara%201849.jpg) — untranscribed; marriage of Giovanni Battista Boara × Vittoria Carobbi (F11 date: 8 Aug 1849).
 - **Boara sibling/family birth and marriage images (untranscribed):** [Birth Artemia Boara Zara 1850](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Artemia%20Boara%20Zara%201850.jpg), [Birth Evelina Boara Zara 1861](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Evelina%20Boara%20Zara%201861.jpg), [Marriage Kirchmayer Boara Zara 1869](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Kirchmayer%20Boara%20Zara%201869.jpg), [Marriage Velzek Boara Zara 1886](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Velzek%20Boara%20Zara%201886.jpg), [Birth Giovanni Francesco Velzek Spalato 1860](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Giovanni%20Francesco%20Velzek%20Spalato%201860.jpg).
@@ -70,4 +71,4 @@ The marriage church, **Sv. Šime** (Church of Saint Simeon), is one of Zadar's m
 ## Open questions
 
 - **Lucia Bozich** — reconcile duplicate union **F204** and the **F11** note with the Vittoria marriage sequence using Zara parish books.
-- **Three unnamed children** — the memoir names Ottilia, Eveline, Casimiro, Carmela, and Artemisia; three more remain unidentified.
+- ~~**Three unnamed children**~~ — resolved: the handwritten family tree (NTree01) names all eight: Evelina, Artemia, Riccardo, Bate (1851–1924), Casimiro (1852–1931), Carmela (1858–1934), Alfonso (with "twins" notation), and Ottilia.

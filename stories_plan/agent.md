@@ -8,7 +8,7 @@ How to produce a scrollytelling story for the family history web app.
 |------|----------|---------|
 | `<slug>.md` | `stories/` | Vault markdown: `# Title`, then `## Section` headings. Each `##` becomes one scrolly step (full-viewport background image + frosted text card). Sections after `scrollyStepCount` render as plain appendix. `###` subsections render inside the same step card. |
 | `<slug>.scrolly.json` | `stories/` | Sidecar: `hero` (title, subtitle, era), `scrollyStepCount`, `steps[]` (one per scrolly `##`, each with `era` + `media: { src, alt, caption? }`). |
-| Link from line hub | `lines/<relevant-hub>.md` | Add the story to the **Narratives** table in the correct line hub. Evans stories → `evans-cerpa-perez-london-chile.md`; Persia → `persia.md`; Zara → `zara-italy-dalmatia.md`; Lewis/Stump → `lewis-wales-stump-europe.md`. |
+| Link from line hub | `topics/<relevant-hub>.md` | Add the story to the **Narratives** table in the correct line hub. Evans stories → `evans-cerpa-perez-london-chile.md`; Persia → `persia.md`; Zara → `zara-italy-dalmatia.md`; Lewis/Stump → `lewis-wales-stump-europe.md`. |
 
 ## Process
 
@@ -81,7 +81,7 @@ Image paths in `steps[].media.src` are **repo-relative** (e.g. `media/docs/Alfre
 
 ### 6. Link from the hub
 
-Add a row to the **Narratives** table in the correct `lines/*.md` hub.
+Add a row to the **Narratives** table in the correct `topics/*.md` hub.
 
 ### 7. Test locally
 

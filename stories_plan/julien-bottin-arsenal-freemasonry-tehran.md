@@ -19,7 +19,7 @@ Appendix: Evidence, Sources.
 ## Key vault sources
 
 - `people/julien-bottin.md` — person page (needs reading).
-- `lines/persia.md` — Bottin generation section.
+- `topics/persia.md` — Bottin generation section.
 - `stories/saginian-burgess-bottin-stump.md` — existing arc story (Bottin subset).
 - `research/iran-qajar/medicine-dentistry-qajar-pahlavi-transition.md` — wider context.
 - `media/albums/henderson/Teheran 1896 Fanny, Julien & Family.jpg` — family photograph.
@@ -39,7 +39,7 @@ Appendix: Evidence, Sources.
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/persia.md`.
+Add to **Narratives** table in `topics/persia.md`.
 
 ## Note
 

@@ -4,4 +4,4 @@ Web article cataloguing every private tobacco manufacturer in Italian Zara, with
 
 Corpus: [sigaretteitaliane-zara-1920-43](corpus/sigaretteitaliane-zara-1920-43/).
 
-Person: [Antonio Zerauschek](../people/antonio-zerauschek.md). Line hub: [Zara (Italian Dalmatia)](../lines/zara-italy-dalmatia.md).
+Person: [Antonio Zerauschek](../people/antonio-zerauschek.md). Line hub: [Zara (Italian Dalmatia)](../topics/zara-italy-dalmatia.md).

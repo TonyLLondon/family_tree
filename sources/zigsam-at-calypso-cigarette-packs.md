@@ -4,4 +4,4 @@ Austrian cigarette packet collector's database entry showing a surviving **Calyp
 
 Corpus: [zigsam-at-calypso-cigarette-packs](corpus/zigsam-at-calypso-cigarette-packs/).
 
-Person: [Antonio Zerauschek](../people/antonio-zerauschek.md). Line hub: [Zara (Italian Dalmatia)](../lines/zara-italy-dalmatia.md).
+Person: [Antonio Zerauschek](../people/antonio-zerauschek.md). Line hub: [Zara (Italian Dalmatia)](../topics/zara-italy-dalmatia.md).

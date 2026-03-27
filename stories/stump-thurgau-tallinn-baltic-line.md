@@ -4,7 +4,7 @@
 
 **Geographic note:** casual family memory sometimes says "Emmental" for Swiss German lines. The strict-ancestor GEDCOM anchors the Stump patriline in **Sulgen / Erlen / Buchackern, Thurgau** — not the Emmental (canton Bern). If a parish book ever ties this branch to Bern, the narrative can be retitled; until then, Thurgau is the documented canton.
 
-**Iran / dentistry** — son [Étienne Stump](../people/etienne-stump.md) and the Persia-line hub remain in [lines/persia.md](../lines/persia.md) and [saginian-burgess-bottin-stump.md](saginian-burgess-bottin-stump.md) §4; this file stops at the Baltic household and Marc's death.
+**Iran / dentistry** — son [Étienne Stump](../people/etienne-stump.md) and the Persia hub remain in [topics/persia.md](../topics/persia.md) and [saginian-burgess-bottin-stump.md](saginian-burgess-bottin-stump.md) §4; this file stops at the Baltic household and Marc's death.
 
 ---
 

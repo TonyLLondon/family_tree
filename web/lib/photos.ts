@@ -6,12 +6,13 @@ import { repoPath, WEB_ROOT } from "./paths";
  * Each entry in photo-map.json is either:
  *   - null                              → no photo
  *   - "media/path/to/image.jpg"         → default center focal point [0.5, 0.5]
- *   - { src: "media/...", focal: [x,y]} → custom focal point (0–1 normalised)
+ *   - { src: "media/...", focal: [x,y], zoom?: n } → custom focal point (0–1 normalised)
+ *     zoom > 1 crops tighter around the focal point (useful for faces in group photos).
  */
-type RawPhotoEntry = string | { src: string; focal?: [number, number] } | null;
+type RawPhotoEntry = string | { src: string; focal?: [number, number]; zoom?: number } | null;
 type RawPhotoMap = Record<string, RawPhotoEntry>;
 
-export type PhotoInfo = { url: string; focal: [number, number] };
+export type PhotoInfo = { url: string; focal: [number, number]; zoom: number };
 
 let cached: RawPhotoMap | null = null;
 let cachedMtimeMs: number | null = null;
@@ -45,10 +46,10 @@ export function loadPhotoMap(): PhotoMap {
   return out;
 }
 
-function parseEntry(v: RawPhotoEntry): { src: string; focal: [number, number] } | null {
+function parseEntry(v: RawPhotoEntry): { src: string; focal: [number, number]; zoom: number } | null {
   if (v == null) return null;
-  if (typeof v === "string") return { src: v, focal: [0.5, 0.5] };
-  return { src: v.src, focal: v.focal ?? [0.5, 0.5] };
+  if (typeof v === "string") return { src: v, focal: [0.5, 0.5], zoom: 1 };
+  return { src: v.src, focal: v.focal ?? [0.5, 0.5], zoom: v.zoom ?? 1 };
 }
 
 /** Public URL path for a repo-relative media path (served via `/files/...`). */
@@ -88,7 +89,7 @@ export function photoInfoForPerson(personId: string): PhotoInfo | null {
   if (!parsed) return null;
   const url = photoRepoFilePublicUrl(parsed.src);
   if (!url) return null;
-  return { url, focal: parsed.focal };
+  return { url, focal: parsed.focal, zoom: parsed.zoom };
 }
 
 export function focalToObjectPosition(focal: [number, number]): string {
@@ -110,7 +111,7 @@ export function buildPhotoInfoMap(personIds: string[]): Record<string, PhotoInfo
       out[id] = null;
       continue;
     }
-    out[id] = { url, focal: parsed.focal };
+    out[id] = { url, focal: parsed.focal, zoom: parsed.zoom };
   }
   return out;
 }

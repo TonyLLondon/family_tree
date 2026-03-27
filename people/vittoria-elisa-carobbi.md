@@ -40,12 +40,13 @@ Vittoria survived Simeone by six years (he died 1896; she died 1902) and witness
 
 - Husband: [Simeone Vincenzo Boara](simeone-vincenzo-boara.md).
 - Parents: [Casimiro Carobbi](casimiro-carobbi.md); [Marianna Billicich](marianna-billicich.md) (married **5 May 1820**, **Kotor**).
-- Children: **eight** per Fulvia memoir (1996), including [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md), Artemisia (export id I62), **Eveline** (married a Croat — the scandal that triggered the gendered inheritance will), **Casimiro Boara** (famous for lectures on the classics), and **Carmela Boara** (last of the Boara line). Three unmarried Boara sons left their inheritances to the **Lega Nazionale**, the Italian irredentist cultural association (founded 1891, Trieste; established Italian schools and cultural circles across Habsburg Dalmatia, Istria, and the Littoral). Casimiro and Carmela lived together in comfort; the last Boara land was sold by Casimiro to [Antonio Zerauschek](antonio-zerauschek.md). When Carmela died, she left something to the Addobbati who had assisted her.
+- Children: **eight** per Fulvia memoir (1996), now fully identified from the handwritten family tree (NTree01): **Evelina** (m. Velzek; b. 1861), **Artemia** (m. Giuseppe Kirmayer; b. 1850), **Riccardo**, **Bate** (Battista?; 1851–1924), **Casimiro** (1852–1931; famous for lectures on the classics), **Carmela** (1858–1934; last of the Boara line), **Alfonso** ("twins" notation), and [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md) (b. 1865). Evelina married a Croat — the scandal that triggered the gendered inheritance will. Three unmarried Boara sons left their inheritances to the **Lega Nazionale**, the Italian irredentist cultural association (founded 1891, Trieste; established Italian schools and cultural circles across Habsburg Dalmatia, Istria, and the Littoral). Casimiro and Carmela lived together in comfort; the last Boara land was sold by Casimiro to [Antonio Zerauschek](antonio-zerauschek.md). When Carmela died, she left something to the Addobbati who had assisted her.
 
 ## Evidence
 
 - **Export:** **treeId** **I27** — unions **F11**, **F31** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); MyHeritage **Geni** URL in **SOUR**; FamilySearch **L22T-RHS**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — eight children, Boara inheritance dispute, Casimiro and Carmela.
+- **Handwritten family tree (NTree01):** [media/docs/fulvia-family-tree-file/NTree01.jpg](../media/docs/fulvia-family-tree-file/NTree01.jpg) — Fulvia's hand; all eight children named and dated.
 - **Marriage register of daughter Ottilia, Entry N. 8, 12 Feb 1890:** "Carobbi Vittoria, da Zara, Cattolica, Civile, Vivente" — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
 - **Marriage register, Zara, 8 Aug 1849:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Carobbi Zara 1849.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Carobbi%20Zara%201849.jpg) — untranscribed; her marriage to Simeone Vincenzo Boara (F11).
 - [Addobbati, Dalmatia, Habsburg](../stories/addobbati-dalmatian-habsburg.md).
@@ -60,4 +61,4 @@ Vittoria survived Simeone by six years (he died 1896; she died 1902) and witness
 ## Open questions
 
 - **Kotor marriage** of parents — copy into `sources/corpus/` when imaged.
-- Identify all eight Boara children by name from Zara parish records — the memoir names Ottilia, Eveline, Casimiro, Carmela, and Artemisia; three more unnamed.
+- ~~Identify all eight Boara children by name~~ — resolved from handwritten tree (NTree01): Evelina, Artemia, Riccardo, Bate, Casimiro, Carmela, Alfonso, Ottilia. Dates for Bate (1851–1924), Casimiro (1852–1931), Carmela (1858–1934). Parish records would confirm.

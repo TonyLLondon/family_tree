@@ -25,7 +25,7 @@ children:
 
 ## Evidence
 
-- Line hub: [Evans · Cerpa Pérez — London & Chile](../lines/evans-cerpa-perez-london-chile.md).
+- Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 - **Export:** **treeId** **I18** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Birth union and **1982** marriage indexed in same graph.
 
 ## Open questions

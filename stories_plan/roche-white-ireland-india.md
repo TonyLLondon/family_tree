@@ -27,7 +27,7 @@ Most images will need sourcing from CC/public-domain collections (Dublin, Bombay
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/lewis-wales-stump-europe.md`.
+Add to **Narratives** table in `topics/lewis-wales-stump-europe.md`.
 
 ## Note
 

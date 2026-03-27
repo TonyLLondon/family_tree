@@ -1,6 +1,6 @@
 # Persia narrative — Saginian → Burgess → Bottin → Stump
 
-**Canonical structured tree:** [family-tree.json](../family-tree.json). **Narrative hub:** [lines/persia.md](../lines/persia.md). **Legacy exports catalog:** [archive/index.md](../archive/index.md).
+**Canonical structured tree:** [family-tree.json](../family-tree.json). **Narrative hub:** [topics/persia.md](../topics/persia.md). **Legacy exports catalog:** [archive/index.md](../archive/index.md).
 
 ---
 

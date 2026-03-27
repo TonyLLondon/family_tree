@@ -21,7 +21,7 @@ children:
 
 **Lily** in family speech—**Elizabeth Lilian Cushen** in the registers—was Merthyr born and Merthyr married: **21 August 1886** in the crowded Glamorgan registration district, daughter of [David Cushen](david-cushen.md) and [Mary Morgan](mary-morgan.md). The **1891** census caught her as a child in her parents’ **Merthyr** household; by **1917** she was wife to [Samuel Lewis](samuel-lewis.md), the miner who would become assurance man and Carmel deacon. Together they raised **[David John Lewis](david-john-lewis.md)**—the **1918** boy who would earn a **Silver Star**—and **[Brynmor Keith Lewis](brynmor-keith-lewis.md)** in the long rhythm of **Penydarren Street**.
 
-She died in **Merthyr** in **November 1972**, a few years after Samuel; the valley remembers them in chapel obituaries and studio photographs where **Lily** never quite loses her **Edwardian** poise.
+She died **suddenly** in **Merthyr** in **November 1972**, a few years after Samuel. The news reached Florence through [Giuliana Zerauschek Rivolta](giuliana-zerauschek-rivolta.md), who passed it to [Mario Zerauschek](mario-zerauschek.md) and his wife; their condolence letter to David and Fulvia (12 Nov 1972) describes "l'improvvisa scomparsa della Signora Lewis." The valley remembers Lily in chapel obituaries and studio photographs where she never quite loses her **Edwardian** poise.
 
 ## Life
 
@@ -37,6 +37,7 @@ She died in **Merthyr** in **November 1972**, a few years after Samuel; the vall
 ## Evidence
 
 - **Export:** **treeId** **I28** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). **1891** child: **RG12** piece **4438**, schedule **57**. Marital union **F7** with Samuel; parental union **F88**.
+- **Mario & wife to David & Fulvia, 12 Nov 1972 (Florence):** [M&GZ121172-01.jpg](../media/docs/correspondence/mario-zerauschek/M%26GZ121172-01.jpg) — condolence on "l'improvvisa scomparsa della Signora Lewis"; confirms sudden death in November 1972.
 
 ## Open questions
 

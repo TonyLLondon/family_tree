@@ -39,11 +39,6 @@ export function getStorySlugs(): string[] {
   return listMdFiles(dir).map((f) => path.basename(f, ".md"));
 }
 
-export function getLineSlugs(): string[] {
-  const dir = repoPath("lines");
-  return listMdFiles(dir).map((f) => path.basename(f, ".md"));
-}
-
 export function getTopicSlugs(): string[] {
   const dir = repoPath("topics");
   return listMdFiles(dir).map((f) => path.basename(f, ".md"));

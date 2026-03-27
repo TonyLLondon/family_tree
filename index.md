@@ -2,7 +2,7 @@
 
 | Area | Purpose |
 |------|---------|
-| [lines/persia.md](lines/persia.md) | Persia-line hub: outline, Mermaid sketch, registers, source table |
+| [topics/persia.md](topics/persia.md) | Persia-line hub: outline, Mermaid sketch, registers, source table |
 | [family-tree.json](family-tree.json) | **Canonical** structured tree — schema 2; vault + JSON master, GEDCOM gap-fill optional (`scripts/sync_family_tree_json.py`) |
 | [people/](people/) | One Markdown article per person · **[ancestor roster](people/ancestor-coverage-list.md)** · **[extension plan](people/person-pages-extension-plan.md)** (Tamar/Cormick, siblings, phases) |
 | [stories/](stories/) | Multi-generation essays |
@@ -31,6 +31,6 @@
 | [media/imports/opaque/](media/imports/opaque/) | Unlabeled or hash-named imports |
 | [media/loose-root/](media/loose-root/) | Empty inbox (`.gitkeep`) for future unclassified drops |
 
-**Other lines:** Zara (Italian Dalmatia — Addobbati, Zerauschek, interwar) — [lines/zara-italy-dalmatia.md](lines/zara-italy-dalmatia.md) · [people/antonio-zerauschek.md](people/antonio-zerauschek.md) · [stories/zerauschek-zadar.md](stories/zerauschek-zadar.md) · [stories/addobbati-dalmatian-habsburg.md](stories/addobbati-dalmatian-habsburg.md). **Lewis + Stump (Wales / Europe / Ireland)** — [lines/lewis-wales-stump-europe.md](lines/lewis-wales-stump-europe.md) · [stories/lewis-aberdare-merthyr-coalfield.md](stories/lewis-aberdare-merthyr-coalfield.md) · [stories/david-john-lewis-italy-1945-silver-star.md](stories/david-john-lewis-italy-1945-silver-star.md) · [stories/stump-thurgau-tallinn-baltic-line.md](stories/stump-thurgau-tallinn-baltic-line.md).
+**Other lines:** Zara (Italian Dalmatia — Addobbati, Zerauschek, interwar) — [topics/zara-italy-dalmatia.md](topics/zara-italy-dalmatia.md) · [people/antonio-zerauschek.md](people/antonio-zerauschek.md) · [stories/zerauschek-zadar.md](stories/zerauschek-zadar.md) · [stories/addobbati-dalmatian-habsburg.md](stories/addobbati-dalmatian-habsburg.md). **Lewis + Stump (Wales / Europe / Ireland)** — [topics/lewis-wales-stump-europe.md](topics/lewis-wales-stump-europe.md) · [stories/lewis-aberdare-merthyr-coalfield.md](stories/lewis-aberdare-merthyr-coalfield.md) · [stories/david-john-lewis-italy-1945-silver-star.md](stories/david-john-lewis-italy-1945-silver-star.md) · [stories/stump-thurgau-tallinn-baltic-line.md](stories/stump-thurgau-tallinn-baltic-line.md).
 
-**Line hubs:** [lines/persia.md](lines/persia.md) · [lines/zara-italy-dalmatia.md](lines/zara-italy-dalmatia.md) · [lines/lewis-wales-stump-europe.md](lines/lewis-wales-stump-europe.md). Persia long-form chronology: [stories/saginian-burgess-bottin-stump.md](stories/saginian-burgess-bottin-stump.md).
+**Line hubs:** [topics/persia.md](topics/persia.md) · [topics/zara-italy-dalmatia.md](topics/zara-italy-dalmatia.md) · [topics/lewis-wales-stump-europe.md](topics/lewis-wales-stump-europe.md). Persia long-form chronology: [stories/saginian-burgess-bottin-stump.md](stories/saginian-burgess-bottin-stump.md).

@@ -23,7 +23,7 @@ Appendix: Evidence, Open questions, Sources.
 ## Key vault sources
 
 - `people/helia-cerpa-perez.md` — richest modern biography in the vault; council minutes table; Valech analysis.
-- `lines/evans-cerpa-perez-london-chile.md` — Chile section and Helia pointer.
+- `topics/evans-cerpa-perez-london-chile.md` — Chile section and Helia pointer.
 - `sources/corpus/valech-i-nomina-victimas/` — Valech I victim list PDF + OCR hits.
 - Contextual sources listed on the person page: Tribune 2023, Academia.edu 2019, LSE exhibition, Canadian Journal 2012/2013.
 
@@ -45,4 +45,4 @@ Appendix: Evidence, Open questions, Sources.
 
 ## Line hub link
 
-Add to **Narratives** table in `lines/evans-cerpa-perez-london-chile.md`.
+Add to **Narratives** table in `topics/evans-cerpa-perez-london-chile.md`.

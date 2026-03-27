@@ -40,7 +40,7 @@ In **1928**, Archibald Percy Coolbear died at Hendon. He was roughly thirty-six 
 
 The following year, the **Ministry of Pensions** processed a card (P.F. 23 M.) for his widow, **Mrs Coolbear**, at 10 Queensland Road, Holloway, N.4. The card cross-references his Essex Regiment number (16694, crossed out) and his RAF number (125257), and carries the awards reference **11/W/42429**. Copies were stamped 3 August 1929, with entries dated 3 May and 7 August 1929. A note on his RAF service file reads: "Last Card Destroyed 13.1.21" — an administrative purge of a prior record, not the destruction of the file itself.
 
-He left behind Rosina and twelve-year-old May. In 1940, May married into the Holborn [Evans](../people/joseph-evans-i18.md) family — connecting the Coolbear line to the broader [Evans · Cerpa Pérez](../lines/evans-cerpa-perez-london-chile.md) tree that this project traces.
+He left behind Rosina and twelve-year-old May. In 1940, May married into the Holborn [Evans](../people/joseph-evans-i18.md) family — connecting the Coolbear line to the broader [Evans · Cerpa Pérez](../topics/evans-cerpa-perez-london-chile.md) tree that this project traces.
 
 ## Evidence and records
 
