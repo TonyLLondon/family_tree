@@ -355,13 +355,13 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
   return (
     <div className="relative w-full">
       <TransformWrapper
-        initialScale={0.7}
+        initialScale={1}
         minScale={0.2}
         maxScale={4}
-        centerOnInit
         limitToBounds={false}
         panning={{ velocityDisabled: true }}
         doubleClick={{ mode: "reset" }}
+        onInit={(ref) => { ref.centerView(1, 0); }}
       >
         <ZoomControls />
         <TransformComponent
@@ -558,8 +558,9 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 );
               })}
 
-              {/* Era decade labels — angled along SW fan edge */}
+              {/* Era decade labels — angled along both fan edges */}
               <g style={{ pointerEvents: "none" }}>
+                {/* SW edge (left) */}
                 {generationEras
                   .filter(({ decade }) => decade >= 1820)
                   .map(({ gen, decade }) => {
@@ -571,7 +572,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                   const fontSize = gen <= 2 ? 16 : gen <= 4 ? 15 : 14;
                   return (
                     <text
-                      key={`era-${gen}`}
+                      key={`era-sw-${gen}`}
                       x={x}
                       y={y}
                       textAnchor="middle"
@@ -582,6 +583,34 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                       fontStyle="normal"
                       letterSpacing={0.5}
                       transform={`rotate(-45, ${x.toFixed(1)}, ${y.toFixed(1)})`}
+                    >
+                      {`c.\u2009${decade}s`}
+                    </text>
+                  );
+                })}
+                {/* SE edge (right) — one fewer date */}
+                {generationEras
+                  .filter(({ decade }) => decade >= 1850)
+                  .map(({ gen, decade }) => {
+                  const { inner, outer } = ringRadii(gen);
+                  const midR = (inner + outer) / 2;
+                  const angle = FAN_END + 0.03;
+                  const x = midR * Math.sin(angle);
+                  const y = -midR * Math.cos(angle);
+                  const fontSize = gen <= 2 ? 16 : gen <= 4 ? 15 : 14;
+                  return (
+                    <text
+                      key={`era-se-${gen}`}
+                      x={x}
+                      y={y}
+                      textAnchor="middle"
+                      dominantBaseline="middle"
+                      fontSize={fontSize}
+                      fill="#57534e"
+                      fontWeight={700}
+                      fontStyle="normal"
+                      letterSpacing={0.5}
+                      transform={`rotate(45, ${x.toFixed(1)}, ${y.toFixed(1)})`}
                     >
                       {`c.\u2009${decade}s`}
                     </text>
