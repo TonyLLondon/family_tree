@@ -49,7 +49,7 @@
     },
     "I10": {
       "id": "I10",
-      "displayName": "Maureen WHITE",
+      "displayName": "Molly WHITE",
       "birthUnionId": "F8",
       "spouseUnionIds": [
         "F3"
@@ -554,7 +554,7 @@
     },
     "I136": {
       "id": "I136",
-      "displayName": "Catherine ROCHE",
+      "displayName": "Katie ROCHE",
       "birthUnionId": "F68",
       "spouseUnionIds": [
         "F67"
@@ -6491,7 +6491,7 @@
     },
     "I78": {
       "id": "I78",
-      "displayName": "Frances BURGESS",
+      "displayName": "Fanny BURGESS",
       "birthUnionId": "F39",
       "spouseUnionIds": [
         "F38"
@@ -9253,7 +9253,7 @@
       {
         "id": "I10",
         "kind": "person",
-        "label": "Maureen Catherine Finbarr WHITE"
+        "label": "Molly WHITE"
       },
       {
         "id": "I100",
@@ -9453,7 +9453,7 @@
       {
         "id": "I136",
         "kind": "person",
-        "label": "Catherine Mary ROCHE"
+        "label": "Katie ROCHE"
       },
       {
         "id": "I137",
@@ -11983,7 +11983,7 @@
       {
         "id": "I78",
         "kind": "person",
-        "label": "Frances BURGESS"
+        "label": "Fanny BURGESS"
       },
       {
         "id": "I79",
