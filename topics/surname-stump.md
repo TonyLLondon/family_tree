@@ -2,6 +2,8 @@
 
 A Swiss-German topographic surname rooted in the Reformed parishes of northeastern Thurgau, where church scribes recorded it in three different spellings across two centuries — and never settled on one.
 
+![Thurgau landscape, northeastern Switzerland — the Stump family's home canton](../media/context/thurgau-switzerland/thurgau-landscape.jpg)
+
 ---
 
 ## Etymology

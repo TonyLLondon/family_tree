@@ -2,6 +2,8 @@
 
 The surname **Lewis** is the 546th most common in the world — roughly one million bearers across six continents — and the second most common in Wales, behind only Jones. For genealogists tracing Welsh lines, this ubiquity is both a blessing and a curse: the name is everywhere, which means the records are vast, but distinguishing one Lewis family from another in a country where a handful of surnames account for half the population requires parish-level precision.
 
+![Samuel Lewis, studio portrait, c. 1910s](../media/images/portraits/samuel-lewis-studio-portrait-c1910s.jpg)
+
 ---
 
 ## Etymology

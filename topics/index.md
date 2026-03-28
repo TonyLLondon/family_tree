@@ -26,6 +26,7 @@ Places, institutions, themes, and regional family hubs — linked from person fi
 | [evans-cerpa-perez-london-chile.md](evans-cerpa-perez-london-chile.md) | London Evans (Holborn/Islington) and Chilean Maule Cerpa–Pérez; tree-ID anchors, civil registration, research links |
 | [nin-noble-council.md](nin-noble-council.md) | Noble council of the Dalmatian commune of Nin; 1817 Habsburg petition; Addobbati inscription |
 | [odd-fellows-manchester-unity.md](odd-fellows-manchester-unity.md) | Independent Order of Odd Fellows (Manchester Unity): friendly society origins, ranks and regalia, Aberdare lodges, Rev Dr Thomas Price (Grand Master 1865), Samuel Lewis as Provincial Grand Master of the Lily of the Valley Lodge |
+| [lewis-lace-collection.md](lewis-lace-collection.md) | The Lewis lace collection: 674 antique laces (XVI–XX c.), twelve European countries; inherited from Fulvia Zerauschek Lewis; sold by sons Ivor and Owen Michael to Provincia di Trento (Dec 2006, €120,000); appraised by Davanzo Poli and Peri; destined for Museo del Tessuto at Ala |
 
 ## Surname studies
 

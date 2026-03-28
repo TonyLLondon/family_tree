@@ -113,6 +113,26 @@ function maxOuterRadius(maxGen: number): number {
   return ringRadii(maxGen).outer;
 }
 
+function computeGenerationEras(segments: FanSegment[]): { gen: number; decade: number }[] {
+  const byGen = new Map<number, number[]>();
+  for (const s of segments) {
+    const yr = fmtDate(s.person?.birthDate);
+    if (!yr) continue;
+    const year = parseInt(yr, 10);
+    if (isNaN(year) || year < 1500) continue;
+    const arr = byGen.get(s.generation);
+    if (arr) arr.push(year);
+    else byGen.set(s.generation, [year]);
+  }
+  const result: { gen: number; decade: number }[] = [];
+  for (const [gen, years] of byGen) {
+    years.sort((a, b) => a - b);
+    const median = years[Math.floor(years.length / 2)];
+    result.push({ gen, decade: Math.floor(median / 10) * 10 });
+  }
+  return result.sort((a, b) => a.gen - b.gen);
+}
+
 const ROOT_FOCUS_DY = Math.round(ringRadii(1).inner * 0.82 + 52);
 
 type ArcDatum = { innerRadius: number; outerRadius: number; startAngle: number; endAngle: number };
@@ -289,6 +309,8 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
     layoutAncestors(root, maxGeneration, out);
     return out;
   }, [root, maxGeneration]);
+
+  const generationEras = useMemo(() => computeGenerationEras(segments), [segments]);
 
   const { chartH, chartCY } = useMemo(() => {
     const maxR = maxOuterRadius(maxGeneration);
@@ -535,6 +557,37 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                   </g>
                 );
               })}
+
+              {/* Era decade labels — angled along SW fan edge */}
+              <g style={{ pointerEvents: "none" }}>
+                {generationEras
+                  .filter(({ decade }) => decade >= 1820)
+                  .map(({ gen, decade }) => {
+                  const { inner, outer } = ringRadii(gen);
+                  const midR = (inner + outer) / 2;
+                  const angle = FAN_START - 0.03;
+                  const x = midR * Math.sin(angle);
+                  const y = -midR * Math.cos(angle);
+                  const fontSize = gen <= 2 ? 16 : gen <= 4 ? 15 : 14;
+                  return (
+                    <text
+                      key={`era-${gen}`}
+                      x={x}
+                      y={y}
+                      textAnchor="middle"
+                      dominantBaseline="middle"
+                      fontSize={fontSize}
+                      fill="#57534e"
+                      fontWeight={700}
+                      fontStyle="normal"
+                      letterSpacing={0.5}
+                      transform={`rotate(-45, ${x.toFixed(1)}, ${y.toFixed(1)})`}
+                    >
+                      {`c.\u2009${decade}s`}
+                    </text>
+                  );
+                })}
+              </g>
 
               <g transform={`translate(0,${ROOT_FOCUS_DY})`}>
                 {(() => {

@@ -141,7 +141,7 @@ export function getSiteSearchItems(): BrowseItem[] {
 
   items.push({
     id: "section:chart",
-    title: "Ancestor chart",
+    title: "Family tree",
     subtitle: "Interactive ancestor fan chart",
     href: "/chart",
     meta: "Chart",

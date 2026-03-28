@@ -2,6 +2,8 @@
 
 A German surname meaning "heir" — the word itself a compressed biography, marking someone whose inheritance defined his place in the world. In this tree the Erbe family belongs to the **Baltic German** community: the German-speaking professional and administrative class that had lived in Estonia, Livonia, and Courland since the medieval crusading orders.
 
+![Reval (Tallinn), 1845 — Ivan Aivazovsky](../media/context/reval-tallinn/aivazovsky-reval-1845.jpg)
+
 ---
 
 ## Etymology

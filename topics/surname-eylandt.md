@@ -2,6 +2,8 @@
 
 The largest uncovered surname cluster in this tree — twenty-three people across several spelling variants — and a name that means, simply, "island." A Baltic German family anchored in Tallinn and its hinterland, embedded in the same institutional world of pastors, guild masters, and civic administrators that produced the [Erbe](surname-erbe.md) family they married into.
 
+![Reval (Tallinn), 1845 — Ivan Aivazovsky](../media/context/reval-tallinn/aivazovsky-reval-1845.jpg)
+
 ---
 
 ## Etymology

@@ -1,0 +1,22 @@
+id: ladige-2006-lewis-lace-collection-trento
+title: "L'Adige — Lewis lace collection sold to Provincia di Trento (Dec 2006, two articles)"
+remote: {}
+fetches:
+- kind: local_png
+  at: '2026-03-28T00:00:00Z'
+  repo_path: media/docs/ladige-2006-lewis-lace-trento-delibere.png
+  note: >
+    Article 1 — "Pizzi e merletti per 120 mila euro" (PROVINCIA / DELIBERE),
+    L'Adige, Trento, giovedì 28 dicembre 2006, p. 24. By L.P. (Luisa Patruno).
+- kind: local_png
+  at: '2026-03-28T00:00:00Z'
+  repo_path: media/docs/ladige-2006-lewis-lace-trento-acquisto.png
+  note: >
+    Article 2 — "«I 600 merletti per il Museo del tessuto»" (PROVINCIA / L'ACQUISTO),
+    L'Adige, Trento, giovedì 28 dicembre 2006, p. 23. By Luisa Patruno.
+files:
+  media_reference:
+    - media/docs/ladige-2006-lewis-lace-trento-delibere.png
+    - media/docs/ladige-2006-lewis-lace-trento-acquisto.png
+  transcription_it: transcription-ladige-lewis-lace-2006.it.md
+  translation_en: translation-ladige-lewis-lace-2006.en.md

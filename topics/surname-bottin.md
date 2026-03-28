@@ -2,6 +2,8 @@
 
 A French surname that crossed into the Italian-speaking world of nineteenth-century Tehran — carried by the man who built the Shah's arsenal and married into the Anglo-Armenian Burgess family. The name sits at the hinge point of the [Persia line](persia.md): the generation that connected British diplomacy and Armenian court life to French technical expertise, before the Stump dentistry chapter that followed.
 
+![Julien Bottin and Henriette Bottin (née Burgess)](../media/images/portraits/julien-bottin-henriette-bottin-burgess.jpg)
+
 ---
 
 ## Etymology

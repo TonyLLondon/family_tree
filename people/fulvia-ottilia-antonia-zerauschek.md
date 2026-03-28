@@ -50,6 +50,7 @@ Fulvia was the family's memory-keeper. In **September 1996** she dictated a **se
 - Zara narrative: [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md).
 - Villa Ester / Villa Callas: [stories/zerauschek-villa-callas-sirmione.md](../stories/zerauschek-villa-callas-sirmione.md).
 - Topic: [Sirmione on Lake Garda](../topics/sirmione-lake-garda.md) — Villa Ester, marriage, customs declaration, burial.
+- Topic: [The Lewis lace collection](../topics/lewis-lace-collection.md) — 674 antique laces sold to Trento (2006).
 - Topic: [The Esuli Dalmati](../topics/esuli-dalmati-zara-exile.md) — the Italian Dalmatian exodus that displaced the Zerauschek family.
 - [Fulvia at Villa Ester (photo)](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png).
 - Father's obituary (*Difesa Adriatica*, 1973): [scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg) · [transcript + English](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md).
@@ -90,6 +91,10 @@ Fulvia was the family's memory-keeper. In **September 1996** she dictated a **se
 - **Birthday cards to Fulvia (1998):** [FL-BCard1998-01.jpg](../media/docs/souvenirs/birthday-cards/FL-BCard1998-01.jpg) through [-05](../media/docs/souvenirs/birthday-cards/FL-BCard1998-05.jpg) — from Laura & Patrick, Amy & Haydn, Michael/Steve/Alice, Anthony & Lydia. [FL-BCard-06.jpg](../media/docs/souvenirs/birthday-cards/FL-BCard-06.jpg) (from Lydia & Anthony to "Nonna"), [FL-BCard-07.jpg](../media/docs/souvenirs/birthday-cards/FL-BCard-07.jpg) ("To Ma" from Valerie).
 - **Telegram from Florence to Lusaka (Sep 1966):** [TGram0966.jpg](../media/docs/souvenirs/colonial-service/TGram0966.jpg) — "VAL TROUBLE UNSOLVED BY FRIDAY EXTERNAL TREATMENT / ANALYSIS CONTINUING / WILL RETURN FLORENCE AFTER ABERDARE / FULVIA."
 - **1998 birthday calendar (Peter Mark Lewis):** [PMLBDayCalendar-01.jpg](../media/docs/souvenirs/peter-lewis-family/PMLBDayCalendar-01.jpg) through [-13](../media/docs/souvenirs/peter-lewis-family/PMLBDayCalendar-13.jpg) — annual family calendar for 1998 with photos and birth years for extended family. Confirms Antonio Zerauschek born 24 Jun 1889, Ester Addobbati born 16 May 1896, David Lewis born 2 Oct 1918, Carlo Enrico Rivolta born 9 Nov 1920, Giuliana born 5 Sep 1921, Daniela Rivolta born 2 Feb 1946, Silvana Rivolta born 5 Aug 1950, Peter Lewis born 14 Jul 1953.
+
+## The lace collection
+
+Fulvia owned one of the most important antique lace collections in Europe — over 600 pieces spanning the 16th to 20th centuries. The collection had been partly auctioned at Sotheby's in London. After her death in 2000, her sons **Owen Michael Lewis** (Michele, the lawyer in Twickenham) and **[Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md)** (the professor in Bolsena) inherited the collection and in December 2006 sold it in two lots to the **Provincia autonoma di Trento** for €120,000 total, destined for the planned **Museo del Tessuto** (Textile Museum) at **Palazzo Taddei, Ala**. The Soprintendenza's director **Laura Dal Prà** described the pieces as "rare, of considerable size, and from Europe's finest manufacturers," with a market value far exceeding the purchase price. The appraisers were **Paolo Peri** and **Doretta Davanzo Poli**. Two articles in *L'Adige* (Trento, 28 Dec 2006) covered the purchase — see [scan 1 (delibere)](../media/docs/ladige-2006-lewis-lace-trento-delibere.png), [scan 2 (acquisto)](../media/docs/ladige-2006-lewis-lace-trento-acquisto.png), and [transcription + translation](../sources/corpus/ladige-2006-lewis-lace-collection-trento/translation-ladige-lewis-lace-2006.en.md).
 
 ## Open questions
 

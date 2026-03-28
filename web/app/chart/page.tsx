@@ -18,7 +18,7 @@ export default function ChartPage() {
   return (
     <div className="flex min-h-screen flex-col bg-white">
       <SiteNav />
-      <main aria-label="Ancestor chart" className="flex flex-1 flex-col items-center px-2 pb-6 pt-1">
+      <main aria-label="Family tree" className="flex flex-1 flex-col items-center px-2 pb-6 pt-1">
         <div className="w-full overflow-x-auto" style={{ maxWidth: 2400 }}>
           <FanChartClient
             root={root}

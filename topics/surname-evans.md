@@ -2,6 +2,8 @@
 
 The second most common surname in Wales, sharing the same patronymic logic as [Lewis](surname-lewis.md) — and the same genealogical headache. Evans derives from the Welsh personal name **Ifan** (the Welsh form of John), via the patronymic *ap Ifan* ("son of Ifan"), compressed into a fixed hereditary surname under English administrative pressure from the sixteenth century onward.
 
+![St John's Gate, Clerkenwell, 1880 — the Evans family's London neighbourhood](../media/context/london-clerkenwell/st-johns-gate-clerkenwell-1880-dixon.jpg)
+
 ---
 
 ## Etymology

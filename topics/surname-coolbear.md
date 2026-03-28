@@ -2,6 +2,8 @@
 
 A hyper-local Essex surname whose entire genealogy can be traced to a single parish cluster around **Mundon and Maldon**, on the Blackwater estuary. The name drifted through four spellings in two generations — an unusually well-documented example of pre-standardisation surname fluidity in English parish registers.
 
+![Maldon High Street, Essex — the Coolbear family's home town](../media/context/wwi/maldon-high-street-essex.jpg)
+
 ---
 
 ## Etymology

@@ -2,6 +2,8 @@
 
 A Norman name that crossed the Irish Sea with the first invaders and never left. The Roches are one of the great Hiberno-Norman families — arriving as conquerors in the twelfth century, becoming "more Irish than the Irish" within a few generations, forfeiting estates under Cromwell and William III, and re-emerging as Catholic merchant-gentry in Limerick and Dublin. The surname itself means nothing more than "rock," but the family it attached to left a deep mark on southern Ireland.
 
+![Castle Roche, County Louth — a 13th-century Norman castle on its rocky outcrop](../media/context/ireland-roche/castle-roche-louth.jpg)
+
 ---
 
 ## Etymology

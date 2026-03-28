@@ -2,6 +2,8 @@
 
 Fourteen people on Earth bear this surname. It is, by any measure, one of the rarest family names in the documented world — so rare that no surname database lists its meaning, and its phonetic neighbours on Forebears (Jirauschek, Jerouschek, Geratschek) collectively number fewer than a hundred bearers. The name exists almost exclusively because of one family, and the story it tells is one of linguistic borderlands: a Slavic root, a Germanic orthographic overlay, and an Italian life.
 
+![Antonio Zerauschek, Zara, 1920](../media/images/portraits/antonio-zerauschek-1920.jpg)
+
 ---
 
 ## Etymology
@@ -67,6 +69,10 @@ Antonio's father, **[Antonio Zerauschek (senior)](../people/antonio-zerauschek-s
 
 ---
 
+## The Lewis lace collection (2006)
+
+Fulvia Zerauschek Lewis owned one of Europe's most important antique lace collections — over 600 pieces spanning the 16th to 20th centuries. After her death in 2000, sons Ivor and Owen Michael (Michele) Lewis sold the collection to the **Provincia autonoma di Trento** for €120,000 in December 2006, destined for the planned **Museo del Tessuto** at Palazzo Taddei, Ala. The Soprintendenza declared the pieces "rare, of considerable size, and from Europe's finest manufacturers." Two articles in *L'Adige* (28 Dec 2006): [transcript + English](../sources/corpus/ladige-2006-lewis-lace-collection-trento/translation-ladige-lewis-lace-2006.en.md).
+
 ## Related
 
 - [Zara — Italian Dalmatia](zara-italy-dalmatia.md)
@@ -76,6 +82,9 @@ Antonio's father, **[Antonio Zerauschek (senior)](../people/antonio-zerauschek-s
 - Story: [Villa Ester — from the Zerauscheks to Maria Callas](../stories/zerauschek-villa-callas-sirmione.md)
 - Surname: [Addobbati](surname-addobbati.md) — the family they married into
 - Surname: [Lewis](surname-lewis.md) — the line Fulvia joined
+
+- Source: [L'Adige (2006) — Lewis lace collection sold to Trento](../sources/ladige-2006-lewis-lace-collection-trento.md)
+- Topic: [Museo del Tessuto — Palazzo Taddei, Ala](lewis-lace-collection.md)
 
 ### See also
 

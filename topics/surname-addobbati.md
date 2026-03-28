@@ -2,6 +2,8 @@
 
 One of the rarest surnames in this tree — approximately **67 bearers** on Earth, with 84% concentrated in Tuscany — and one whose etymology no public surname database has bothered to list. The word behind it, though, is rich: it traces to the medieval ceremony of knighting.
 
+![Bergamo, 1450 — the walled Venetian city where the Addobbati originated](../media/context/bergamo-venetian/bergamo-1450-codice-agiografico.jpg)
+
 ---
 
 ## Etymology

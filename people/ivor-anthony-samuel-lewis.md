@@ -60,6 +60,10 @@ His published work moves from **FAB** and **electrospray** through **thermospray
 - Open Library author record: [openlibrary.org/authors/OL3419627A](https://openlibrary.org/authors/OL3419627A).
 - **Export:** **treeId** **I2** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Unions **F1**, **F4** in same graph.
 
+## The lace collection
+
+In December 2006, Ivor and his brother Owen Michael Lewis (Michele) sold their mother [Fulvia](fulvia-ottilia-antonia-zerauschek.md)'s antique lace collection — over 600 pieces, 16th–20th century, among the most important in Europe — to the **Provincia autonoma di Trento** for €120,000 (two lots of ~300 pieces at €60,000 each). The laces were destined for the planned **Museo del Tessuto** at Palazzo Taddei, Ala. The newspaper described Ivor as "nato a Firenze e residente a Bolsena, di professione professore." See [L'Adige articles (28 Dec 2006)](../sources/corpus/ladige-2006-lewis-lace-collection-trento/translation-ladige-lewis-lace-2006.en.md).
+
 ## Open questions
 
 - Civil registration image for **1951 Florence** birth in `media/` (optional ingest).

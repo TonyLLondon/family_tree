@@ -2,6 +2,8 @@
 
 An Italian surname from the Veneto — the name of cattle herders who became urban professionals in Dalmatia. **[Ottilia Anna Vincenza Boara](../people/ottilia-anna-vincenza-boara.md)** married [Pietro Pio Addobbati](../people/pietro-pio-addobbati.md) in 1890, connecting the Boara family to the [Addobbati](surname-addobbati.md) civic lineage and, through it, to the [Zerauschek](surname-zerauschek.md) commercial dynasty.
 
+![Ottilia Boara, Zara](../media/images/portraits/ottilia-boara-zara.jpg)
+
 ---
 
 ## Etymology

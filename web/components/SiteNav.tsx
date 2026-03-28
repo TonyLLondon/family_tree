@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useCallback, useEffect, useId, useState } from "react";
 
 const links = [
-  { href: "/chart", label: "Ancestor chart" },
+  { href: "/chart", label: "Family tree" },
   { href: "/stories", label: "Stories" },
   { href: "/map", label: "Map" },
   { href: "/people", label: "People" },
