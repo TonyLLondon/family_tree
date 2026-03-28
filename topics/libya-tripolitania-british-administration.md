@@ -62,11 +62,17 @@ The BMA transitioned to a **British Civil Administration** in 1950 before handin
 
 ## Connection to this family
 
-![David Lewis with Libyan officials in the garden, 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-arab-leaders-garden.jpg)
+![David Lewis with Emir Idris al-Senussi (left, white robes) in the garden, 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-arab-leaders-garden.jpg)
+
+![David Lewis walking with Emir Idris (left, white robes, walking stick) and a Tripolitanian dignitary, 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-walking-libyan-officials.jpg)
 
 ![David and Fulvia with group on steps, 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-fulvia-group-steps.jpg)
 
-[David John Lewis](../people/david-john-lewis.md) was appointed to HM Colonial Administrative Service in 1948 and seconded to the **Foreign Office Administration of African Territories**. He served as **District Officer in charge of Sabratha District, Tripolitania** from 1948 to 1950, then as **Magistrate, Western Province, Tripolitania** in 1951. He was present through the Bevin-Sforza crisis, the proclamation of the Emirate of Cyrenaica, and the pivotal 1949 events surrounding Idris's acceptance of the Tripolitanian emirate. The family album preserves [thirteen photographs](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/) from a formal reception in his district — mounted horsemen, Senussi flags, Arabic banners welcoming the Emir, a ceremonial dais, and David and [Fulvia](../people/fulvia-ottilia-antonia-zerauschek.md) photographed alongside Libyan dignitaries.
+![British officers with Libyan leaders, Tripolitania, c. 1949](../media/docs/david-john-lewis-colonial-service/tripolitania/british-officers-libyan-leaders-tripolitania-c1949.jpg)
+
+![Desert group with military vehicles, Tripolitania, c. 1949](../media/docs/david-john-lewis-colonial-service/tripolitania/desert-group-military-vehicles-tripolitania-c1949.jpg)
+
+[David John Lewis](../people/david-john-lewis.md) was appointed to HM Colonial Administrative Service in 1948 and seconded to the **Foreign Office Administration of African Territories**. He served as **District Officer in charge of Sabratha District, Tripolitania** from 1948 to 1950, then as **Magistrate, Western Province, Tripolitania** in 1951. He was present through the Bevin-Sforza crisis, the proclamation of the Emirate of Cyrenaica, and the pivotal 1949 events surrounding Idris's acceptance of the Tripolitanian emirate. The family album preserves [thirteen photographs](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/) from a formal reception in his district — mounted horsemen, Senussi flags, Arabic banners welcoming the Emir, a ceremonial dais, and David photographed **walking alongside Emir Idris himself** and standing with him informally in a garden. David and [Fulvia](../people/fulvia-ottilia-antonia-zerauschek.md) were both photographed with Libyan dignitaries.
 
 Sabratha itself was undergoing a remarkable parallel transformation during David's posting: the British School at Rome conducted **major archaeological excavations of the Roman city** (1948–1951) under Dame **Kathleen Kenyon** and **John Ward-Perkins**, working on the Forum, Capitolium, Theatre, Temple of Serapis, and Byzantine defences — all made possible by the same British administrative framework David operated within. As District Officer, David would have been the local authority responsible for the district in which these excavations took place.
 
@@ -85,3 +91,4 @@ Sabratha itself was undergoing a remarkable parallel transformation during David
 - **The National Archives (TNA):** [FO 1015](https://discovery.nationalarchives.gov.uk/details/r/C8314) — War Office and Foreign Office, Administration of African Territories: Registered Files (1,033 files, 1915–1952). Covers Cyrenaica, Tripolitania, Eritrea, and Somalia. Contains official correspondence, district reports, and intelligence from the British administration in which David Lewis served. [FO 1021](https://discovery.nationalarchives.gov.uk/details/r/C8320) — Foreign Office: Embassy and Residency, Libya: General Correspondence (1947–1970).
 - **King's College London Archives:** papers of Brigadier Travers Robert Blackley, Chief Administrator of Tripolitania.
 - Family archive: [Libya–Idris 1949 photographs](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/) (13 images, Africa Album 01)
+- Family archive: [Tripolitania additional photographs](../media/docs/david-john-lewis-colonial-service/tripolitania/) (6 images) — British officers with Libyan leaders, formal events, speeches with Arabic script, desert group with military vehicles, colonial events with soldiers on guard. Separate from the Idris reception series.

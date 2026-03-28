@@ -12,7 +12,13 @@ In **April 1948**, [Carlo Enrico Rivolta](../people/giuliana-zerauschek-rivolta.
 
 ## The 1st Welch at Sirmione (December 1945)
 
+![1st Battalion, The Welch Regiment on parade in Italy, c. 1945](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-inspection-italy-c1945.jpg)
+
 After the German surrender in Italy on 2 May 1945, the **1st Battalion, The Welch Regiment** — part of 61st Infantry Brigade, 6th Armoured Division — moved through Austria and the Trieste border zone before being stationed at Sirmione. **Battalion Orders No. 113** (4 Dec 1945, Lt-Col D.L.C. Reynolds OBE commanding) were issued from Sirmione, formally announcing [David John Lewis](../people/david-john-lewis.md)'s **U.S. Silver Star** under "Honours and Awards."
+
+![Officers at mess, Italy, c. 1944 — David Lewis's wartime comrades](../media/docs/david-john-lewis-war/officers-mess-wartime-c1944.jpg)
+
+![Three officers in an Italian garden, c. 1944](../media/docs/david-john-lewis-war/three-officers-italian-garden-c1944.jpg)
 
 It was here, on the peninsula where the Zerauscheks spent their summers, that the Welsh major met the Italian industrialist's daughter. [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) was twenty-two, the family displaced from Zara by Allied bombing and Yugoslav confiscation; David was twenty-seven, a veteran of Sicily, Anzio, the Gothic Line, and the Po crossing.
 

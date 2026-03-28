@@ -26,7 +26,17 @@ He passed government examinations in **Law** and the **Nyanja language**. His It
 
 Early postings took the family deep into the bush. A **Northern Rhodesia Telegraphs** form (16 Jul 1953) shows Antonio Zerauschek sending congratulations to Fulvia at **Jameson** — Fort Jameson was the administrative centre of the Eastern Province, close to the Mozambique border. At **Chinsali** in 1956, David administered a district that included the home area of the African National Congress leadership.
 
-The family address at **Livingstone** (1957–58) placed them at the tourist gateway to Victoria Falls. A Northern Rhodesia Police event photograph (Sep 1957) shows Fulvia integrated into the social life of the colonial community. At **Ndola** (1958–61), on the Copperbelt, David was the senior district officer when the Belgian Congo collapsed.
+The family address at **Livingstone** (1957–58) placed them at the tourist gateway to Victoria Falls. A Northern Rhodesia Police event photograph (Sep 1957) shows Fulvia integrated into the social life of the colonial community.
+
+![David Lewis in white colonial dress and pith helmet inspecting the Boys' Brigade, Livingstone, 1957](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/david-lewis-inspecting-boys-brigade-livingstone-1957.jpg)
+
+David's wartime past was visible in the colony. He was photographed at the **Moth Hall** war memorial in Livingstone — a cairn with a tin hat mounted on top — inscribed on the back by a child: "Daddy & 'Tin Hat'." The **Memorable Order of Tin Hats** was a Southern African ex-servicemen's organisation, and David's membership connected his military service to the colonial community's own veterans' culture.
+
+![Boma Office, Livingstone — David's administrative headquarters, 1956–58](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/colonial-administrative-building-livingstone.jpg)
+
+The **Boma Office** — David's administrative headquarters at Livingstone — was the former Government House, the administrative heart of the district. A photograph inscribed "Livingstone / ex Government House / Boma Office 1956–58" with a Northern Rhodesia stamp captures the building where the District Commissioner combined the roles of magistrate, tax collector, and representative of the Crown.
+
+At **Ndola** (1958–61), on the Copperbelt, David was the senior district officer when the Belgian Congo collapsed.
 
 ## The Congo Crisis (July 1960)
 
@@ -79,6 +89,8 @@ The family received a **DFID pension** (Department for International Development
 - **Mario Zerauschek telegram (18 Jul 1962):** [Mario180762-001.jpg](../media/docs/correspondence/mario-zerauschek/Mario180762-001.jpg) — confirms Lusaka address.
 - **NR Society condolence letters (2001):** [NRSoc290301.doc](../media/docs/david-john-lewis-personal/condolences-nr-society/NRSoc290301.doc) — Ivor: "They both had marvellous and treasured memories of the country."
 - **Chalochatu — History of television in Zambia:** [Online](http://www.chalochatu.org/History_of_television_in_Zambia) — Rhodesia TV → Zambia TV; government board; integration into Zambia Broadcasting Services (Jun 1967).
+- **Northern Rhodesia photographs:** [colonial-officers-bush-hats-c1955.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/colonial-officers-bush-hats-c1955.jpg) · [Boys' Brigade inspection, Livingstone](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/david-lewis-inspecting-boys-brigade-livingstone-1957.jpg) ([inscription](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/boys-brigade-inspection-inscription-1957.jpg)) · [War memorial / Moth Hall](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/war-memorial-cairn-tin-hat.jpg) ([verso](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/war-memorial-moth-hall-livingstone-1957-verso.jpg)) · [Boma Office](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/colonial-administrative-building-livingstone.jpg) ([verso](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/boma-office-livingstone-1956-58-verso.jpg)) · [Government House group](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/group-photo-government-house-livingstone.jpg) · [colonial event / Union Jack](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/colonial-event-thatch-shelter-union-jack.jpg) · [Ndola 1959](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/ndola-1959.jpg) · [RRAF aircraft / Ndola](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/rraf-aircraft-dignitaries-ndola.jpg) · [Dalhousie visit 1960](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/dalhousie-visit-ndola-1960.jpg) · [airport tarmac](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/airport-tarmac-dignitaries.jpg) · [Ndola 1961](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/ndola-1961-j-james-photographer.jpg) · [late colonial group](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/late-colonial-group-photo.jpg) · [Legco opening, 15 Jan 1963](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/legco-opening-15-january-1963.jpg).
+- **Zambia photographs:** [Decimal Currency Board clipping](../media/docs/david-john-lewis-colonial-service/zambia/decimal-currency-board-newspaper-clipping.jpg) · [celebration scene, c. 1964](../media/docs/david-john-lewis-colonial-service/zambia/celebration-scene-c1964.jpg).
 
 ## Related
 

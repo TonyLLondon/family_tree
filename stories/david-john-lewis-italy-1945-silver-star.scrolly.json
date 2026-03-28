@@ -9,10 +9,9 @@
     {
       "era": "1939 – 1940",
       "media": {
-        "src": "media/docs/david-lewis-military-portrait.png",
-        "alt": "David Lewis with campaign medals beside the Royal Welsh regimental goat and uniformed handler",
-        "caption": "David John Lewis — university student, twenty-one, commissioned into the Welch Regiment on 23 August 1940",
-        "focal": [0.6, 0.15]
+        "src": "media/docs/david-john-lewis-war/portraits/david-lewis-commissioning-portrait-aberdare-c1940.jpg",
+        "alt": "David Lewis in full dress uniform — commissioning portrait, Watson's Studio, Aberdare, c. 1940",
+        "caption": "David John Lewis — university student, twenty-one, commissioned into the Welch Regiment on 23 August 1940. Watson's Studio, Aberdare"
       }
     },
     {
@@ -51,9 +50,9 @@
     {
       "era": "Winter 1944 – 45",
       "media": {
-        "src": "media/context/italy-wwii/po-crossing-searchlight-mirror-1945-iwm.jpg",
-        "alt": "Royal Artillery searchlight crew cleaning the mirror on the south bank of the Po, the pontoon bridge reflected in the glass, 30 April 1945. IWM TR 2854",
-        "caption": "The 1st Welch was rebuilt from cadre and attached to the 6th Armoured Division for the spring offensive. Photograph: IWM TR 2854"
+        "src": "media/docs/david-john-lewis-war/1st-welch-battalion-parade-inspection-italy-c1945.jpg",
+        "alt": "1st Battalion, The Welch Regiment on parade in Italy — company formation with officer inspecting ranks, c. 1945",
+        "caption": "The 1st Welch rebuilt from cadre: a company of the battalion on parade in Italy, c. 1945. Family archive"
       }
     },
     {
@@ -75,10 +74,9 @@
     {
       "era": "May 1945",
       "media": {
-        "src": "media/images/portraits/nonna-and-nonno.jpg",
-        "alt": "Fulvia and David Lewis at home in later years",
-        "caption": "Major David Lewis — Sicily to Austria, the full length of the Italian peninsula",
-        "focal": [0.55, 0.3]
+        "src": "media/docs/david-john-lewis-war/1st-welch-battalion-parade-march-italy-c1945.jpg",
+        "alt": "1st Battalion, The Welch Regiment marching in column through an Italian town, c. 1945",
+        "caption": "The battalion on the march — Sicily to Austria, the full length of the Italian peninsula. Family archive"
       }
     }
   ]

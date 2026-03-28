@@ -18,7 +18,11 @@ A school reference dated **20 October 1936** survives, along with a pre-war Bris
 
 ## University of Bristol (1937–1939, 1947–1948)
 
-David went up to the **University of Bristol** in 1937. The war interrupted after two years: he enlisted voluntarily in 1939, served in the Somerset Light Infantry and then the Welch Regiment, and fought across North Africa, Sicily, and Italy until VE Day.
+![1st Battalion, The Welch Regiment marching in column through an Italian town, c. 1945](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-march-italy-c1945.jpg)
+
+![David Lewis — commissioning portrait, Watson's Studio, Aberdare, c. 1940](../media/docs/david-john-lewis-war/portraits/david-lewis-commissioning-portrait-aberdare-c1940.jpg)
+
+David went up to the **University of Bristol** in 1937. The war interrupted after two years: he enlisted voluntarily in 1939, served in the Somerset Light Infantry and then the Welch Regiment, and fought across North Africa, Sicily, and Italy until VE Day. His commissioning portrait — taken at **Watson's Studio, Aberdare** — shows the young officer in full dress uniform before he left the valley for the Mediterranean.
 
 He returned to Bristol in **1947** — now a married man, with Fulvia and the Italian trousseau — and completed his **BA Honours in Modern History** (2nd Class, 1st Division) in 1948. He also gained a **Post-Graduate Certificate in Education**. He boxed for the university and played rugby for the second team. A reference from Bristol dated **1 December 1947** confirms his post-war return.
 
@@ -59,5 +63,6 @@ When David and Fulvia died in 2000, they were buried not in Wales but at **Sirmi
 
 - [David John Lewis](../people/david-john-lewis.md) · [Samuel Lewis](../people/samuel-lewis.md) · [Elizabeth Lilian Cushen](../people/elizabeth-lilian-cushen.md) · [Brynmor Keith Lewis](../people/brynmor-keith-lewis.md)
 - [Lewis · Stump · Europe hub](../topics/lewis-wales-stump-europe.md)
+- [Independent Order of Odd Fellows — Manchester Unity](odd-fellows-manchester-unity.md) — Samuel Lewis as Provincial Grand Master; Aberdare lodge culture
 - [Sirmione on Lake Garda](sirmione-lake-garda.md) — where the Pendarren Street address appears on the customs declaration
 - [Northern Rhodesia — Colonial Service](northern-rhodesia-colonial-service.md) — the career the valley education made possible

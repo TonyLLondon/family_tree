@@ -16,6 +16,7 @@ mother: rachel-james
 spouses:
   - catherine-griffiths
 children:
+  - mary-ann-lewis
   - samuel-lewis
 ---
 
@@ -32,12 +33,12 @@ Military papers tag a **South Wales Borderer** stint beginning in **1884** — s
 ## Family
 
 - Wife: [Catherine Griffiths](catherine-griffiths.md).
-- Children: [Samuel Lewis](samuel-lewis.md) and others — not yet on individual pages.
+- Children: [Mary Lewis](mary-ann-lewis.md) (1886), [Samuel Lewis](samuel-lewis.md) (1887), and others — not yet on individual pages.
 - Parents: [Lewis Lewis](lewis-lewis.md); [Rachel James](rachel-james.md).
 
 ## Photographs
 
-- [Family portrait, c. 1888](../media/images/portraits/david-john-lewis-1857-catherine-griffiths-family-c1888.png) — David and Catherine with young children; album once misread as "Sam & Lily Lewis."
+No confirmed photograph.
 
 ## Evidence
 

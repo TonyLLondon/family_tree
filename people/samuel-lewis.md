@@ -21,13 +21,14 @@ ignore_gedcom_death: true
 
 Samuel spent almost forty years at 32 Penydarren Street, Aberdare—long enough for the address to feel like a fourth child beside [David John Lewis](david-john-lewis.md) and Brynmor Keith Lewis. Born in June 1887 to [David John Lewis (1857)](david-john-lewis-1857.md) and [Catherine Griffiths](catherine-griffiths.md), he was underground at thirteen and still a face worker at twenty-three on census night 1911 at 41 Glen Road. The pits did not keep him. By the year-before-war register he had traded the colliery for insurance ledgers, working as an assurance agent—a path that led to district manager with the Scottish Legal Life Assurance Society until retirement in 1954.
 
-The chapel claimed the rest of his weekdays. Around 1922 he became Sunday school superintendent at Carmel Calvinistic Methodist, Trecynon; a decade later the deacons made him *Blaenor*, an office he held until death. Three decades more as chapel secretary and corresponding secretary (*ysgrifennydd gohebol*) turned his handwriting into the institutional memory of the cause. Outside the meeting house he climbed the ritual ladder of the Independent Order of Oddfellows, Lily of the Valley Lodge, sitting on committees and wearing the order’s grander titles when duty asked.
+The chapel claimed the rest of his weekdays. Around 1922 he became Sunday school superintendent at Carmel Calvinistic Methodist, Trecynon; a decade later the deacons made him *Blaenor*, an office he held until death. Three decades more as chapel secretary and corresponding secretary (*ysgrifennydd gohebol*) turned his handwriting into the institutional memory of the cause. Outside the meeting house he rose through the Independent Order of Odd Fellows (Manchester Unity), Lily of the Valley Lodge. After seven years as a committeeman he reached Provincial Grand Master—the highest degree the Order’s Grand Lodge could confer and the senior office overseeing lodges across the district. His obituary noted simply that he “held some of the Order’s highest offices”; a studio portrait in full sash and rank jewels confirms the title, and a companion group photograph places him among fellow provincial officers. Aberdare had deep Odd Fellows roots: the Rev Dr Thomas Price of Calfaria, another local minister, had been Grand Master of all Oddfellows of Great Britain in 1865–66. Records for the Manchester Unity’s Gwalia District held at the National Library of Wales and Glamorgan Archives may pin down Samuel’s exact years of office.
 
 His marriage to [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md) was registered at Merthyr in 1917. In old age the couple moved to Maesyffynnon, a care home in Aberaman. Samuel died there on 7 August 1967, aged eighty; cremation followed at Glyntaff on Friday 11 August, the Rev. Glyndwr Richards—once of Carmel—officiating. The family asked for donations instead of flowers. Welsh- and English-language notices in the local press recorded the same date; an export line giving 8 July is a known month/day transposition against those clippings.
 
 At the thanksgiving service Mr E. R. Walters praised “tremendous sincerity and loyalty” and a willingness to serve God and church without stint.
 
 **Line narrative:** [Lewis in Aberdare and Merthyr](../stories/lewis-aberdare-merthyr-coalfield.md) — 1911 fertility return, pit years, 1939 register pivot.
+**Topic:** [Independent Order of Odd Fellows — Manchester Unity](../topics/odd-fellows-manchester-unity.md) — friendly society context, ranks, Aberdare lodges, Provincial Grand Master.
 
 ## Family
 
@@ -35,10 +36,11 @@ Wife: Elizabeth Lilian Cushen (“Elizabeth Lily” in death notice; “Elizabet
 
 ## Photographs
 
-- [Family portrait, c. 1888](../media/images/portraits/david-john-lewis-1857-catherine-griffiths-family-c1888.png) — Samuel as infant; see father’s page for caption correction.
 - [Samuel Lewis, young man, c. 1910](../media/images/portraits/samuel-lewis-young-man-c1910.png).
 - [Samuel and Lily Cushen, c. 1917](../media/images/portraits/samuel-lewis-lily-cushen-c1917.png).
 - [Samuel and Lily, older, c. 1950s](../media/images/portraits/samuel-lewis-lily-cushen-older-c1950s.jpg).
+- [Samuel Lewis as Provincial Grand Master, Odd Fellows (Manchester Unity), c. 1930s](../media/images/portraits/samuel-lewis-odd-fellows-provincial-grand-master-c1930s.jpg) — studio portrait in full sash and rank jewels.
+- [Odd Fellows officers group photograph, c. 1930s](../media/images/portraits/samuel-lewis-odd-fellows-group-c1930s.jpg) — Samuel among fellow provincial officers on steps of a civic or lodge building.
 
 ## Evidence
 

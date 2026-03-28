@@ -10,6 +10,7 @@ mother: anne
 spouses:
   - david-john-lewis-1857
 children:
+  - mary-ann-lewis
   - samuel-lewis
 ---
 
@@ -31,12 +32,12 @@ Her son **[Samuel Lewis](samuel-lewis.md)**—the boy who would go down the pit 
 ## Family
 
 - Husband: [David John Lewis (1857)](david-john-lewis-1857.md).
-- Children: [Samuel Lewis](samuel-lewis.md) and others — not yet on individual pages.
+- Children: [Mary Lewis](mary-ann-lewis.md) (1886), [Samuel Lewis](samuel-lewis.md) (1887), and others — not yet on individual pages.
 - Parents: [Thomas Griffiths](thomas-griffiths.md); [Anne](anne.md) (surname blank in export).
 
 ## Photographs
 
-- [Family portrait, c. 1888](../media/images/portraits/david-john-lewis-1857-catherine-griffiths-family-c1888.png) — with David; toddler likely Mary Ann; infant likely Samuel. See [Samuel Lewis](samuel-lewis.md) for caption correction.
+No confirmed photograph.
 
 ## Evidence
 

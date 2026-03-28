@@ -303,13 +303,17 @@
     "I118": {
       "id": "I118",
       "displayName": "Cornelius O'SHEA",
-      "birthUnionId": null,
+      "birthUnionId": "F209",
       "spouseUnionIds": [
         "F59"
       ],
       "sex": "M",
-      "birthPlace": "County Cork, Ireland",
-      "personPage": "people/cornelius-oshea.md"
+      "birthPlace": "Inchigeelagh, County Cork, Ireland",
+      "personPage": "people/cornelius-oshea.md",
+      "birthDate": "1856",
+      "deathDate": "12 JUN 1929",
+      "deathPlace": "Little Sisters of the Poor, Cork City, Ireland",
+      "role": "National School Teacher"
     },
     "I119": {
       "id": "I119",
@@ -321,7 +325,8 @@
       "sex": "F",
       "birthPlace": "County Cork, Ireland",
       "personPage": "people/catherine-enright.md",
-      "birthDate": "1871"
+      "birthDate": "1865",
+      "deathDate": "1956"
     },
     "I12": {
       "id": "I12",
@@ -3258,7 +3263,9 @@
       "sex": "F",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
       "birthDateGedcom": "1886",
-      "birthDate": "1886"
+      "birthDate": "1886",
+      "personPage": "people/mary-ann-lewis.md",
+      "alsoKnownAs": ["Miss M. A. Lewis (postcard)"]
     },
     "I338": {
       "id": "I338",
@@ -3890,17 +3897,19 @@
       "sex": "F",
       "birthPlace": "Cork, County Cork, Ireland",
       "birthDateGedcom": "1897",
-      "birthDate": "1897"
+      "birthDate": "1897",
+      "deathDate": "1977"
     },
     "I384": {
       "id": "I384",
-      "displayName": "Teresa O'SHEA",
+      "displayName": "Teresa Rose O'SHEA",
       "birthUnionId": "F59",
       "spouseUnionIds": [],
       "sex": "F",
       "birthPlace": "Cork, County Cork, Ireland",
       "birthDateGedcom": "1895",
-      "birthDate": "1895"
+      "birthDate": "1894",
+      "deathDate": "1974"
     },
     "I385": {
       "id": "I385",
@@ -6199,6 +6208,30 @@
       "sex": "F",
       "birthPlace": "Siena, Tuscany"
     },
+    "I574": {
+      "id": "I574",
+      "displayName": "Michael SHEA",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F209"
+      ],
+      "sex": "M",
+      "birthPlace": "County Cork, Ireland",
+      "birthDate": "1811",
+      "deathDate": "1881"
+    },
+    "I575": {
+      "id": "I575",
+      "displayName": "Norry BUCKLEY",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F209"
+      ],
+      "sex": "F",
+      "birthPlace": "County Cork, Ireland",
+      "birthDate": "1821",
+      "deathDate": "1893"
+    },
     "I58": {
       "id": "I58",
       "displayName": "Elisabetta LUXARDO",
@@ -8190,6 +8223,17 @@
       "marriageDate": "12 MAR 1749",
       "marriagePlace": "Zara, Dalmatia"
     },
+    "F209": {
+      "id": "F209",
+      "partnerIds": [
+        "I574",
+        "I575"
+      ],
+      "childIds": [
+        "I118"
+      ],
+      "marriageDate": null
+    },
     "F21": {
       "id": "F21",
       "partnerIds": [
@@ -8673,7 +8717,8 @@
         "I384",
         "I383"
       ],
-      "marriageDate": "1892"
+      "marriageDate": "2 JUN 1892",
+      "marriagePlace": "Monkstown, Carrigaline, Cork, Ireland"
     },
     "F6": {
       "id": "F6",
@@ -10783,7 +10828,7 @@
       {
         "id": "I384",
         "kind": "person",
-        "label": "Teresa Rosa O'SHEA"
+        "label": "Teresa Rose O'SHEA"
       },
       {
         "id": "I385",
@@ -12785,6 +12830,22 @@
         "kind": "union",
         "label": "12 MAR 1749",
         "marriageDate": "12 MAR 1749"
+      },
+      {
+        "id": "I574",
+        "kind": "person",
+        "label": "Michael SHEA"
+      },
+      {
+        "id": "I575",
+        "kind": "person",
+        "label": "Norry BUCKLEY"
+      },
+      {
+        "id": "F209",
+        "kind": "union",
+        "label": "",
+        "marriageDate": null
       },
       {
         "id": "F21",
@@ -15568,6 +15629,21 @@
         "from": "I573",
         "to": "F208",
         "kind": "spouse"
+      },
+      {
+        "from": "I574",
+        "to": "F209",
+        "kind": "spouse"
+      },
+      {
+        "from": "I575",
+        "to": "F209",
+        "kind": "spouse"
+      },
+      {
+        "from": "F209",
+        "to": "I118",
+        "kind": "descent"
       },
       {
         "from": "I36",

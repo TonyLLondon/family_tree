@@ -23,6 +23,10 @@ This hub is the **outline + source register** for everything that is *not* the P
 
 ![Samuel Lewis and Lily Cushen, c. 1917](../media/images/portraits/samuel-lewis-lily-cushen-c1917.png)
 
+![David Lewis — commissioning portrait, Watson's Studio, Aberdare, c. 1940](../media/docs/david-john-lewis-war/portraits/david-lewis-commissioning-portrait-aberdare-c1940.jpg)
+
+![1st Battalion, The Welch Regiment on parade in Italy, c. 1945 — David Lewis's battalion](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-march-italy-c1945.jpg)
+
 | Person | Role |
 |--------|------|
 | [Anthony Robert Lewis](../people/anthony-robert-lewis.md) | Present-day anchor in [family-tree.json](../family-tree.json) |
@@ -66,6 +70,13 @@ Fan charts and PPTX decks (not primary sources): **[archive/sun-charts/](../arch
 - [Roche](surname-roche.md) — Norman *de la Roche*; Limerick Catholic merchant-gentry
 
 ---
+
+## Topics
+
+- [Aberdare and the Welsh Valleys](aberdare-welsh-valleys.md) — Pendarren Street, grammar school, Bristol, the wartime letter signed "Dafydd John"
+- [Independent Order of Odd Fellows — Manchester Unity](odd-fellows-manchester-unity.md) — Samuel Lewis as Provincial Grand Master; friendly society context in the South Wales coalfield
+- [Northern Rhodesia — Colonial Service](northern-rhodesia-colonial-service.md) — David Lewis's post-war career
+- [Keep Britain Tidy Group](keep-britain-tidy-group.md) — David Lewis as Director General
 
 ## Related
 

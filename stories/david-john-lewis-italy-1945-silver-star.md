@@ -137,4 +137,14 @@ Lewis rose from 2nd Lieutenant in 1940 to **Major** commanding a company in comb
 
 **Portrait:** [david-lewis-military-portrait.png](../media/docs/david-lewis-military-portrait.png) — David Lewis with medals and the Royal Welsh regimental goat.
 
+**Battalion on parade (c. 1945):** [1st-welch-battalion-parade-inspection-italy-c1945.jpg](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-inspection-italy-c1945.jpg) — company formation with officer inspecting ranks, Italian town. · [1st-welch-battalion-parade-march-italy-c1945.jpg](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-march-italy-c1945.jpg) — battalion marching in column through an Italian street.
+
+**Military portraits (c. 1940–1941):** [Battledress portrait](../media/docs/david-john-lewis-war/portraits/david-lewis-battledress-portrait-c1940.jpg) · [Service dress, Armagh, Feb 1941](../media/docs/david-john-lewis-war/portraits/david-lewis-service-dress-armagh-1941.jpg) ([verso](../media/docs/david-john-lewis-war/portraits/david-lewis-service-dress-armagh-1941-verso.jpg)) · [Commissioning portrait, Watson's Studio, Aberdare](../media/docs/david-john-lewis-war/portraits/david-lewis-commissioning-portrait-aberdare-c1940.jpg) ([verso](../media/docs/david-john-lewis-war/portraits/david-lewis-commissioning-portrait-aberdare-c1940-verso.jpg))
+
+**Postcards to Lieut. Lewis, MEF (19 Jul 1942):** [postcard-a](../media/docs/david-john-lewis-war/service-history/postcard-to-lieut-lewis-mef-july-1942-a.jpg) · [postcard-b](../media/docs/david-john-lewis-war/service-history/postcard-to-lieut-lewis-mef-july-1942-b.jpg) · [postcard-c](../media/docs/david-john-lewis-war/service-history/postcard-to-lieut-lewis-mef-july-1942-c.jpg) — addressed to "Lieut. D. J. Lewis, 1st Batt. Welch Regt., Middle East Forces," from "Mam, Dad, & Keith."
+
+**Wartime Italy:** [Officers' mess (c. 1944)](../media/docs/david-john-lewis-war/officers-mess-wartime-c1944.jpg) · [Three officers, Italian garden](../media/docs/david-john-lewis-war/three-officers-italian-garden-c1944.jpg) · [Third parade photograph](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-c1945-third.jpg) · ["Last Parade in the 1st London" inscription](../media/docs/david-john-lewis-war/welch-last-parade-1st-london-inscription-verso.jpg) · [Porto San Giorgio postcard](../media/docs/david-john-lewis-war/porto-san-giorgio-postcard-front-c1944.jpg) · [View of Jof, Libya](../media/docs/david-john-lewis-war/view-of-jof-libya-c1942.jpg) · [Note to "Tina"](../media/docs/david-john-lewis-war/david-lewis-wartime-note-to-tina.jpg)
+
+**Regimental heritage:** [Royal Regiment of Wales luncheon ticket (1994)](../media/docs/david-john-lewis-war/royal-regiment-wales-luncheon-ticket-1994.jpg) — the successor to the Welch Regiment.
+
 **Other:** [David Lewis military.png](../media/docs/David%20Lewis%20military.png) · [David Lewis Senior Military.png](../media/docs/David%20Lewis%20Senior%20Military.png)

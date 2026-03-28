@@ -54,7 +54,11 @@ The strict family tree under union **F87** lists seven named children (1886–19
 
 By the **1939 Register** he had left the coalface: listed as **head** at Aberdare/Merthyr with occupation **assurance agent** — in fact **district manager** for the **Scottish Legal Life Assurance Society**, a post he held until retirement in **1954**. Insurance selling, not extraction — still within the same valley economy, but above ground and in a collar. He was a deacon at **Carmel Calvinistic Methodist Church, Trecynon** from **1932** and church secretary for some 30 years; also a senior member of the **Independent Order of Oddfellows, Lily of the Valley Lodge**. He and Elizabeth lived at **32 Pendarren Street, Aberdare** for almost 40 years before moving to **Maesyffynnon**, a care home in Aberaman, around early 1966. He died there on **7 August 1967**, aged 80. Cremated at Glyntaff Crematorium on 11 August.
 
-His son [David John Lewis](../people/david-john-lewis.md) (1918–2000) broke the Welsh pattern entirely: a student in the **1939 Register**, then the war. He served as a Major in the **1st Battalion, Welch Regiment** in Italy and was awarded the **United States Silver Star** for action at the Po bridgehead on 25 April 1945 — [the full story](david-john-lewis-italy-1945-silver-star.md). After the war: Brighton, then Sirmione. The grandson of a carpenter, the son of a miner, the father of another life altogether.
+His son [David John Lewis](../people/david-john-lewis.md) (1918–2000) broke the Welsh pattern entirely: a student in the **1939 Register**, then the war. His commissioning portrait — taken at **Watson's Studio, Aberdare** — shows the young officer in full dress uniform before he left the valley for the Mediterranean. He served as a Major in the **1st Battalion, Welch Regiment** in Italy and was awarded the **United States Silver Star** for action at the Po bridgehead on 25 April 1945 — [the full story](david-john-lewis-italy-1945-silver-star.md). After the war: Brighton, then Sirmione. The grandson of a carpenter, the son of a miner, the father of another life altogether.
+
+![David Lewis — commissioning portrait, Watson's Studio, Aberdare, c. 1940](../media/docs/david-john-lewis-war/portraits/david-lewis-commissioning-portrait-aberdare-c1940.jpg)
+
+![1st Battalion, The Welch Regiment on parade in Italy, c. 1945](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-inspection-italy-c1945.jpg)
 
 ---
 

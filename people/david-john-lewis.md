@@ -82,7 +82,7 @@ Brigadier **O.G. Brooke CBE DSO**, his former commanding officer, wrote to David
 
 - **1948** — Appointed **HM Colonial Administrative Service**.
 - **1948–1950** — Seconded to **Foreign Office Administration of African Territories**. **District Officer in charge of Sabratha District, [Tripolitania, Libya](../topics/libya-tripolitania-british-administration.md)**.
-- **1949** — Present at the formal **reception for Emir Idris al-Senussi** in Tripolitania (see below).
+- **1949** — Present at the formal **reception for Emir Idris al-Senussi** in Tripolitania; photographed walking alongside the Emir himself (see below).
 - **1951** — **Magistrate, Western Province, Tripolitania, Libya**.
 - **Jun 1952** — **Oath of office** taken (certificate dated 6 Jun 1952).
 - **1952–1955** — **District Officer and District Commissioner, Fort Jameson, Northern Rhodesia**.
@@ -101,17 +101,17 @@ David's first overseas posting placed him at the heart of one of the most conseq
 
 In **May 1949**, the **Bevin-Sforza Plan** — a British-Italian compromise that would have returned Tripolitania to Italian trusteeship — provoked violent demonstrations across the territory that David administered. The plan was defeated at the UN General Assembly vote on 17–18 May, and its failure opened the door to full Libyan independence under Senussi leadership.
 
-On **1 March 1949**, **Emir Idris al-Senussi** — hereditary leader of the Senussi religious order and Britain's principal Libyan ally since the First World War — had already proclaimed the independent **Emirate of Cyrenaica** from Benghazi. With the Bevin-Sforza plan dead, Tripolitanian leaders under **Selim Muntasser** and the United National Front agreed to accept Idris as monarch rather than risk further European colonial rule. Idris was formally invited to become **Emir of Tripolitania** as well, uniting the two British-administered regions under a single monarchy. This acceptance was marked by **ceremonial receptions across Tripolitania** — formal gatherings of British officers and Libyan dignitaries, mounted processions, and public celebrations flying the black Senussi flag with its white crescent and star.
+On **1 March 1949**, **Emir Idris al-Senussi** — hereditary leader of the Senussi religious order and Britain's principal Libyan ally since the First World War — had already proclaimed the independent **Emirate of Cyrenaica** from Benghazi. With the Bevin-Sforza plan dead, Tripolitanian leaders under **Selim Muntasser** and the United National Front agreed to accept Idris as monarch rather than risk further European colonial rule. Idris was formally invited to become **Emir of Tripolitania** as well, uniting the two British-administered regions under a single monarchy. This acceptance was marked by **ceremonial receptions across Tripolitania** — formal gatherings of British officers and Libyan dignitaries, mounted processions, and public celebrations flying the black Senussi flag with its white crescent and star. **Idris himself** visited David's district for the reception.
 
-The family archive preserves **thirteen photographs** from one such reception in 1949, taken in David's district. The images show:
+The family archive preserves **thirteen photographs** from this reception in 1949, taken in David's district. The images show:
 
 - British and Libyan officials seated together on a terrace overlooking palm trees.
 - Horsemen in traditional dress forming a ceremonial mounted escort, Italian road signs still visible in the background.
 - Large crowds gathered beneath a welcoming arch hung with Senussi flags and Arabic banners.
 - A formal dais with an Arabic banner referencing "the beloved Emir," where dignitaries were received under military guard with carpets laid on the ground.
 - A portrait of Idris carried aloft in procession.
-- David walking alongside Libyan officials in fez and traditional robes — the tall young European in a light suit, clearly at ease in his role as the British district authority.
-- David standing informally with two Arab leaders in a garden among olive trees.
+- David walking alongside **Emir Idris al-Senussi** himself (white robes, walking stick) and a Tripolitanian dignitary — the tall young British District Officer escorting the future king through the reception.
+- David standing informally with **Emir Idris** and another Libyan leader in a garden among olive trees.
 - [Fulvia](fulvia-ottilia-antonia-zerauschek.md) posing with Libyan dignitaries — a European woman in a summer dress, integrated into the social fabric of the district.
 - David and Fulvia together in a formal group photograph on building steps, flanked by local leaders.
 
@@ -192,6 +192,19 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **Portrait:** [david-lewis-military-portrait.png](../media/docs/david-lewis-military-portrait.png#file) — David Lewis with medals and the Royal Welsh regimental goat.
 - Other military-related files in `media/docs/`: [David Lewis military.png](../media/docs/David%20Lewis%20military.png#file) · [David Lewis Senior Military.png](../media/docs/David%20Lewis%20Senior%20Military.png#file).
 
+### Military portraits (c. 1940–1941)
+
+- **Battledress portrait:** [david-lewis-battledress-portrait-c1940.jpg](../media/docs/david-john-lewis-war/portraits/david-lewis-battledress-portrait-c1940.jpg) — head and shoulders in battledress. Family archive, c. 1940.
+- **Service dress, Armagh (1941):** [david-lewis-service-dress-armagh-1941.jpg](../media/docs/david-john-lewis-war/portraits/david-lewis-service-dress-armagh-1941.jpg) — studio portrait in service dress, H. Allison & Son Photographers, Armagh, Northern Ireland. [Verso](../media/docs/david-john-lewis-war/portraits/david-lewis-service-dress-armagh-1941-verso.jpg) dated "FEB. – 4 1941" — confirms early-war training in Northern Ireland.
+- **Commissioning portrait, Aberdare:** [david-lewis-commissioning-portrait-aberdare-c1940.jpg](../media/docs/david-john-lewis-war/portraits/david-lewis-commissioning-portrait-aberdare-c1940.jpg) — studio portrait in full dress uniform, Watson's Studio, Aberdare. [Verso](../media/docs/david-john-lewis-war/portraits/david-lewis-commissioning-portrait-aberdare-c1940-verso.jpg). Family archive, c. 1940.
+
+### Battalion photographs (c. 1945)
+
+- **Parade inspection:** [1st-welch-battalion-parade-inspection-italy-c1945.jpg](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-inspection-italy-c1945.jpg) — company of the 1st Battalion, The Welch Regiment on parade in an Italian town; officer inspecting ranks. Family archive, c. 1945.
+- **Battalion on the march:** [1st-welch-battalion-parade-march-italy-c1945.jpg](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-march-italy-c1945.jpg) — the battalion marching in column through an Italian street, past Mediterranean buildings. Family archive, c. 1945.
+- **Third parade photograph:** [1st-welch-battalion-parade-c1945-third.jpg](../media/docs/david-john-lewis-war/1st-welch-battalion-parade-c1945-third.jpg) — a further view of the battalion on parade in Italy. Family archive, c. 1945.
+- **"Last Parade" inscription:** [welch-last-parade-1st-london-inscription-verso.jpg](../media/docs/david-john-lewis-war/welch-last-parade-1st-london-inscription-verso.jpg) — verso of a parade photograph inscribed "The Welch / Last Parade / in the / 1st London," recording the battalion's departure from the 168th (2nd London) Brigade in September 1944.
+
 ### Additional military evidence
 
 - **Medal group (photographed):** [Defence Medal](../media/docs/david-john-lewis-war/medals/01-DefenceMedal1945.jpg), [Italy Star](../media/docs/david-john-lewis-war/medals/02-ItalyStar1945.jpg), [War Medal](../media/docs/david-john-lewis-war/medals/03-WarMedal1945.jpg), [Africa Star](../media/docs/david-john-lewis-war/medals/04-AfricaStar1945.jpg), [1939–1945 Star](../media/docs/david-john-lewis-war/medals/05-1939-1945Star.jpg) — plus group shots [001](../media/docs/david-john-lewis-war/medals/DJL-Medals-001.jpg)–[009](../media/docs/david-john-lewis-war/medals/DJL-Medals-009.jpg) and [close-ups](../media/docs/david-john-lewis-war/medals/DJL-Medals310110-01.JPG).
@@ -202,6 +215,15 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **Silver Star — Ivor's note (2009):** [DJL-SStar211109.doc](../media/docs/david-john-lewis-war/service-history/DJL-SStar211109.doc) — records the quote *"The same as everyone else; except someone saw me"* and the American War Library listing confirming LEWIS DAVID J (WW2).
 - **Release papers (3 Nov 1945):** [DJ-Release031145.jpg](../media/docs/david-john-lewis-war/service-history/DJ-Release031145.jpg).
 - **General Eberle portrait:** [GLEberle.jpg](../media/docs/david-john-lewis-war/service-history/GLEberle.jpg).
+- **Postcards to Lieutenant Lewis, Middle East Forces (19 Jul 1942):** [postcard-a](../media/docs/david-john-lewis-war/service-history/postcard-to-lieut-lewis-mef-july-1942-a.jpg), [postcard-b](../media/docs/david-john-lewis-war/service-history/postcard-to-lieut-lewis-mef-july-1942-b.jpg), [postcard-c](../media/docs/david-john-lewis-war/service-history/postcard-to-lieut-lewis-mef-july-1942-c.jpg) — three postcards from home addressed to "Lieut. D. J. Lewis, 1st Batt. Welch Regt., Middle East Forces," dated 19 July 1942, from "Mam, Dad, & Keith." Primary evidence confirming rank, unit, and theatre during the Western Desert campaign.
+- **Officers' mess photograph:** [officers-mess-wartime-c1944.jpg](../media/docs/david-john-lewis-war/officers-mess-wartime-c1944.jpg) — four officers at a mess table, Italy, c. 1944. Close-ups: [1](../media/docs/david-john-lewis-war/officers-mess-closeup-1-c1944.jpg), [2](../media/docs/david-john-lewis-war/officers-mess-closeup-2-c1944.jpg), [3](../media/docs/david-john-lewis-war/officers-mess-closeup-3-c1944.jpg), [4](../media/docs/david-john-lewis-war/officers-mess-closeup-4-c1944.jpg).
+- **Three officers in an Italian garden:** [three-officers-italian-garden-c1944.jpg](../media/docs/david-john-lewis-war/three-officers-italian-garden-c1944.jpg) — David (likely) with two comrades outdoors, c. 1944.
+- **Wartime note to "Tina":** [david-lewis-wartime-note-to-tina.jpg](../media/docs/david-john-lewis-war/david-lewis-wartime-note-to-tina.jpg) — handwritten note from David referencing "prisoner" and a Christmas card to "Tina" (Fulvia's family name for her).
+- **Porto San Giorgio postcards:** [front](../media/docs/david-john-lewis-war/porto-san-giorgio-postcard-front-c1944.jpg), [back](../media/docs/david-john-lewis-war/porto-san-giorgio-postcard-back-c1944.jpg) — souvenir postcards from the Italian coastal town, c. 1944.
+- **"View of Jof" (Libya):** [view-of-jof-libya-c1942.jpg](../media/docs/david-john-lewis-war/view-of-jof-libya-c1942.jpg) — desert settlement photograph inscribed "VIEW OF JOF," Tripolitania, likely during the 1942 Western Desert campaign.
+- **Brigadier Brooke letter (physical):** [page 1](../media/docs/david-john-lewis-war/letters/brooke-letter-physical-p1.jpg), [page 2](../media/docs/david-john-lewis-war/letters/brooke-letter-physical-p2.jpg) — original handwritten letter from Brigadier O.G. Brooke.
+- **Envelope to Major Lewis, Florence (Oct 1951):** [envelope-major-lewis-florence-1951.jpg](../media/docs/david-john-lewis-war/service-history/envelope-major-lewis-florence-1951.jpg) — addressed to "Major D. J. Lewis, c/o Zerauschek, Via Mazzini, 60, Firenzi, Italy," postmarked Aberdare, October 1951. Confirms David's rank and his connection to the Zerauschek family home in Florence between the Tripolitania and Northern Rhodesia postings.
+- **Royal Regiment of Wales luncheon ticket (1994):** [royal-regiment-wales-luncheon-ticket-1994.jpg](../media/docs/david-john-lewis-war/royal-regiment-wales-luncheon-ticket-1994.jpg) — luncheon ticket for The Royal Regiment of Wales (24th/41st Foot), June 1994 — the successor regiment formed in 1969 by amalgamation of the South Wales Borderers and the Welch Regiment. David maintained his regimental connection for half a century after the war.
 
 ### Libya — Idris reception photographs (1949)
 
@@ -216,10 +238,21 @@ Thirteen photographs from Africa Album 01, documenting a formal reception for Em
 - **Ceremonial dais:** [libya-1949-ceremonial-dais-arabic-banner.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-ceremonial-dais-arabic-banner.jpg) — canopied reception platform with Arabic banner ("the beloved Emir"), Senussi flags, British military sentries, carpets on the ground.
 - **Formal reception banquet:** [libya-1949-formal-reception-banquet.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-formal-reception-banquet.jpg) — Arab dignitaries and European officials at tables inside the pavilion.
 - **Dignitaries at dais table:** [libya-1949-dignitaries-dais-table-served.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-dignitaries-dais-table-served.jpg) — dignitary in fez seated at the high table, served by attendants.
-- **David Lewis walking with officials:** [libya-1949-david-lewis-walking-libyan-officials.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-walking-libyan-officials.jpg) — David (tall, light suit) walking alongside a Libyan official in fez and an elder in white robes.
-- **David Lewis in garden:** [libya-1949-david-lewis-arab-leaders-garden.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-arab-leaders-garden.jpg) — David standing informally with two Arab leaders among olive trees.
+- **David Lewis walking with Emir Idris:** [libya-1949-david-lewis-walking-libyan-officials.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-walking-libyan-officials.jpg) — David (tall, light suit) walking alongside **Emir Idris al-Senussi** (left, white robes, walking stick, dark cap) and a Tripolitanian dignitary in fez and glasses. Arabic banner behind.
+- **David Lewis in garden with Emir Idris:** [libya-1949-david-lewis-arab-leaders-garden.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-arab-leaders-garden.jpg) — David standing informally with **Emir Idris** (left, white robes) and another Libyan leader among olive trees.
 - **Fulvia with dignitaries:** [libya-1949-fulvia-group-libyan-dignitaries.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-fulvia-group-libyan-dignitaries.jpg) — Fulvia in a summer dress with Libyan men in traditional dress and fezzes; seated elder.
 - **David and Fulvia group photo:** [libya-1949-david-fulvia-group-steps.jpg](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-fulvia-group-steps.jpg) — David and Fulvia on building steps flanked by Libyan dignitaries; formal group portrait.
+
+### Tripolitania — additional photographs (c. 1949)
+
+Six photographs from the Tripolitania posting, separate from the Idris reception series above:
+
+- **David in civilian suit:** [david-lewis-civilian-suit-tripolitania-c1949.jpg](../media/docs/david-john-lewis-colonial-service/tripolitania/david-lewis-civilian-suit-tripolitania-c1949.jpg) — David with another European in civilian dress, colonial North Africa.
+- **British officers with Libyan leaders:** [british-officers-libyan-leaders-tripolitania-c1949.jpg](../media/docs/david-john-lewis-colonial-service/tripolitania/british-officers-libyan-leaders-tripolitania-c1949.jpg) — British military officers alongside local Libyan leaders.
+- **Formal event in uniform:** [formal-event-uniforms-tripolitania-c1949.jpg](../media/docs/david-john-lewis-colonial-service/tripolitania/formal-event-uniforms-tripolitania-c1949.jpg) — men in military uniform at a formal event.
+- **David with Emir Idris (alternate view):** [speech-arabic-script-tripolitania-c1949.jpg](../media/docs/david-john-lewis-colonial-service/tripolitania/speech-arabic-script-tripolitania-c1949.jpg) — same moment as the [walking photo](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-walking-libyan-officials.jpg): David alongside **Emir Idris** (white robes, walking stick) and a Tripolitanian dignitary, Arabic banners behind.
+- **Colonial event with soldier on guard:** [colonial-event-soldier-guard-tripolitania-c1949.jpg](../media/docs/david-john-lewis-colonial-service/tripolitania/colonial-event-soldier-guard-tripolitania-c1949.jpg) — a soldier standing guard in uniform at a public event, Arabic script.
+- **Desert group with military vehicles:** [desert-group-military-vehicles-tripolitania-c1949.jpg](../media/docs/david-john-lewis-colonial-service/tripolitania/desert-group-military-vehicles-tripolitania-c1949.jpg) — David in civilian dress with uniformed men and local leaders, military vehicles in the background.
 
 ### Colonial service evidence
 
@@ -234,6 +267,27 @@ Thirteen photographs from Africa Album 01, documenting a formal reception for Em
 - **NR press — promotion (1 Dec 1960):** [Promo011260.jpg](../media/docs/david-john-lewis-colonial-service/nr-press/Promo011260.jpg).
 - **NR press — Livingstone (1958):** [Livingstone-58-001.jpg](../media/docs/david-john-lewis-colonial-service/nr-press/Livingstone-58-001.jpg), [Livingstone-58-002.jpg](../media/docs/david-john-lewis-colonial-service/nr-press/Livingstone-58-002.jpg).
 - **Zambia Television Ltd — directorship (1966):** [DirectorZTV1966.jpg](../media/docs/david-john-lewis-colonial-service/zambia-tv/DirectorZTV1966.jpg).
+
+### Northern Rhodesia photographs (1955–1963)
+
+- **Colonial officers in the bush:** [colonial-officers-bush-hats-c1955.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/colonial-officers-bush-hats-c1955.jpg) — military officers in bush hats with binoculars, dry savannah, likely during an early Northern Rhodesia posting.
+- **Boys' Brigade inspection, Livingstone (1957–58):** [david-lewis-inspecting-boys-brigade-livingstone-1957.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/david-lewis-inspecting-boys-brigade-livingstone-1957.jpg) — David in white colonial dress and pith helmet inspecting the uniformed Boys' Brigade. [Inscription](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/boys-brigade-inspection-inscription-1957.jpg) identifies David Lewis as District Commissioner, Livingstone, 1957–1958.
+- **War memorial — Moth Hall, Livingstone (1957):** [war-memorial-cairn-tin-hat.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/war-memorial-cairn-tin-hat.jpg), [alt view](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/war-memorial-cairn-tin-hat-alt.jpg) — cairn with a tin hat mounted on top. [Verso](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/war-memorial-moth-hall-livingstone-1957-verso.jpg) inscribed "Daddy & 'Tin Hat'" at Moth Hall, Livingstone, 1957. The **Memorable Order of Tin Hats** is a Southern African ex-servicemen's organisation — David's wartime service followed him into his colonial career.
+- **Boma Office, Livingstone (1956–58):** [colonial-administrative-building-livingstone.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/colonial-administrative-building-livingstone.jpg) — colonial administrative building. [Verso](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/boma-office-livingstone-1956-58-verso.jpg) inscribed "Livingstone / ex Government House / Boma Office 1956–58," with Northern Rhodesia stamp.
+- **Government House group, Livingstone:** [group-photo-government-house-livingstone.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/group-photo-government-house-livingstone.jpg) — formal group photograph at Government House.
+- **Colonial event under thatch:** [colonial-event-thatch-shelter-union-jack.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/colonial-event-thatch-shelter-union-jack.jpg) — colonial ceremony under a thatch canopy with Union Jack visible.
+- **Ndola (1959):** [ndola-1959.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/ndola-1959.jpg) — RHO-SCOT copyright stamp.
+- **RRAF aircraft and dignitaries, Ndola:** [rraf-aircraft-dignitaries-ndola.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/rraf-aircraft-dignitaries-ndola.jpg) — Royal Rhodesian Air Force aircraft on the tarmac, military officer greeting dignitaries.
+- **Lord and Lady Dalhousie visit, Ndola (Nov 1960):** [dalhousie-visit-ndola-1960.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/dalhousie-visit-ndola-1960.jpg), [alt view](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/dalhousie-visit-ndola-1960-alt.jpg) — Governor-General's visit to the Copperbelt.
+- **Airport tarmac, dignitaries:** [airport-tarmac-dignitaries.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/airport-tarmac-dignitaries.jpg) — dignitaries being greeted on the tarmac.
+- **Ndola (1961):** [ndola-1961-j-james-photographer.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/ndola-1961-j-james-photographer.jpg) — J. James photographer, N. Rhodesia Information Department.
+- **Late colonial group:** [late-colonial-group-photo.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/late-colonial-group-photo.jpg) — David with African colleagues, late colonial period.
+- **Opening of Legislative Council (15 Jan 1963):** [legco-opening-15-january-1963.jpg](../media/docs/david-john-lewis-colonial-service/northern-rhodesia/legco-opening-15-january-1963.jpg) — Northern Rhodesia Legislative Council opening ceremony.
+
+### Zambia photographs (c. 1964–1966)
+
+- **Decimal Currency Board, Zambia:** [decimal-currency-board-newspaper-clipping.jpg](../media/docs/david-john-lewis-colonial-service/zambia/decimal-currency-board-newspaper-clipping.jpg) — newspaper clipping identifying "Mr. David Lewis, a Government official" as a member of the Decimal Currency Board of Zambia.
+- **Celebration scene:** [celebration-scene-c1964.jpg](../media/docs/david-john-lewis-colonial-service/zambia/celebration-scene-c1964.jpg) — celebration, possibly Zambian independence, c. 1964.
 
 ### Congo Crisis evidence (1960–61)
 
@@ -335,7 +389,7 @@ The 1995 date on the last painting suggests these may be later works from memory
 - See also [narrative](../stories/david-john-lewis-italy-1945-silver-star.md) Documents and media section.
 - **Keep Britain Tidy — full 1978 article text:** The Cambridge University Press abstract page is captured but the full text is paywalled. See [wishlist](../sources/wishlist/david-john-lewis-kbt.md).
 - **Keep Britain Tidy — annual reports (1970s–80s):** Would name the Director-General and document the organisation's activities under Lewis's leadership. The **LSE Brunner Papers (BRUNNER/4)** hold KBT annual reports 1961/62–1978, including 1970/71–1975 and 1977–1978. Requesting copies or visiting The Women's Library at LSE would confirm Lewis's name and tenure dates in print.
-- **London Gazette — civil honours:** If Lewis received an OBE or CBE for environmental service, it would appear in the New Year Honours or Birthday Honours lists (1970s–80s). Not yet searched systematically.
+- ~~**London Gazette — civil honours:**~~ **Searched systematically (Mar 2026).** All 40 Birthday and New Year Honours lists 1970–1989 checked for every "Lewis" entry: no David Lewis, D. J. Lewis, or any Lewis connected to Keep Britain Tidy or environmental service. All three surviving CVs (1963, ~1970, 1996) use "Mr. D.J. Lewis" with no post-nominals. Family oral history of an award remains unconfirmed in the Gazette record.
 - **NRZam.org.uk — Northern Rhodesia Government Staff List (1962):** Alphabetical staff list in image format; the "L" section has not been retrieved. Would confirm Lewis's exact grade and posting as of 1962. [Site](https://www.nrzam.org.uk/).
 - **Probate record (England & Wales, 2000):** Not found online; the probate registry covers post-1858 grants. A formal search at the Probate Registry or via gov.uk would confirm estate details and address at death.
 - **Manual inbox (not committed):** Five batches of scanned personal records in `manual/01 - David John Lewis[1–5]/` (~11,100 files). Critical evidence has been copied to `media/docs/david-john-lewis-colonial-service/`, `media/docs/david-john-lewis-war/`, `media/docs/david-john-lewis-kbt/`, and `media/docs/david-john-lewis-personal/`. Remaining uncatalogued material includes:

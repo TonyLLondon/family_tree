@@ -25,6 +25,7 @@ Places, institutions, themes, and regional family hubs — linked from person fi
 | [lewis-wales-stump-europe.md](lewis-wales-stump-europe.md) | Welsh Lewis (coalfield, WWII Italy), Stump/Erbe (Baltic–Swiss–Tehran), Spencer–Evans, and link to Evans · Cerpa Pérez |
 | [evans-cerpa-perez-london-chile.md](evans-cerpa-perez-london-chile.md) | London Evans (Holborn/Islington) and Chilean Maule Cerpa–Pérez; tree-ID anchors, civil registration, research links |
 | [nin-noble-council.md](nin-noble-council.md) | Noble council of the Dalmatian commune of Nin; 1817 Habsburg petition; Addobbati inscription |
+| [odd-fellows-manchester-unity.md](odd-fellows-manchester-unity.md) | Independent Order of Odd Fellows (Manchester Unity): friendly society origins, ranks and regalia, Aberdare lodges, Rev Dr Thomas Price (Grand Master 1865), Samuel Lewis as Provincial Grand Master of the Lily of the Valley Lodge |
 
 ## Surname studies
 
