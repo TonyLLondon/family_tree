@@ -37,6 +37,11 @@ Anna Saginian’s 1880 interview (NYPL appendix) confirms the Cormick family’s
 
 - Wife: [Tamar Saginian](tamar-saginian.md).
 
+## Portraits
+
+- **Hakop Hovnatanian, *Dr. McCormic*** (private collection) — oil painting by the Armenian court painter who also painted Tamar and the Qajar royals. Caption: *"the husband of Tamar Saginian was the private physician of the palace."*
+  ![Hovnatanian portrait of Dr. William Cormick](../media/images/portraits/william-cormick-hovnatanian-portrait.png)
+
 ## Evidence
 
 - [Cormick / Saginian interview](../sources/connectionsbmc-saginian-interview.md).

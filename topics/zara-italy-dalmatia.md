@@ -87,6 +87,7 @@ The Italian Dalmatian exodus is covered in [Esuli Dalmati — Zara and exile](es
 
 - [Addobbati](surname-addobbati.md) — "the adorned ones"; Bergamo to Dalmatia; 67 bearers worldwide
 - [Zerauschek](surname-zerauschek.md) — Germanised Slavic "ember"; 14 bearers worldwide
+- [Boara](surname-boara.md) — Italian "oxherd" (Latin *bovarius*); Veneto to Dalmatia
 
 ---
 

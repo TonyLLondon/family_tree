@@ -37,6 +37,7 @@ He died **1997** at **Lausanne** (Henderson chart; some exports read **1996**—
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) · [corpus](../sources/corpus/stump-family-tree-c3cb58201a/).
 - [Henriette passport](../media/docs/Henriette%20Stump%20passport%20signalement%20born%20Tehran%201886%20photos%20pages%204-5.jpg) · [1909 album page](../media/docs/Album%20page%201909%20Henriette%20Etienne%20Stump%20five%20vintage%20photos%20note.jpg).
 - **Export:** **treeId** **I11** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- [White and Stump families, Geneva, c. 1953](../media/docs/White%20and%20Stump%20families%20Geneva%20c1953.jpg) — Robert second from left in the back row, with Gerald White, Mary White, Molly (holding Mongie), and May White. Front: Susan, Kitty, Roland. Source: Charlie Ginnane photocopy via Barbara Cantwell.
 - **Le Rosey, Provence, Essex courtship** — family account (2026); school records, wartime address, or exhibition catalogues when available.
 
 ## Open questions

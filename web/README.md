@@ -1,4 +1,4 @@
-# Family history site
+# The Lewis Line — site
 
 Next.js App Router app that statically renders the vault: Markdown (with repo-relative links rewritten), `family-tree.json` vitals, ancestor fan chart, and file serving for `media/` and `archive/`.
 

@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useCallback, useEffect, useId, useState } from "react";
 
 const links = [
-  { href: "/chart", label: "Family tree" },
+  { href: "/chart", label: "Ancestor chart" },
   { href: "/stories", label: "Stories" },
   { href: "/map", label: "Map" },
   { href: "/people", label: "People" },
@@ -78,7 +78,7 @@ export function SiteNav() {
               <circle cx="18" cy="5" r="2.2" fill="#0ea5e9"/>
               <circle cx="26" cy="5" r="2.2" fill="#0ea5e9"/>
             </svg>
-            <span className="font-serif">Family history</span>
+            <span className="font-serif">The Lewis Line</span>
           </Link>
 
           <button

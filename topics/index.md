@@ -33,8 +33,14 @@ Etymology, variant spellings, geographic distribution, and family connections fo
 | Topic | Scope |
 |-------|--------|
 | [surname-lewis.md](surname-lewis.md) | Welsh patronymic from *Llywelyn*; 546th most common surname globally; the naming problem of Welsh genealogy |
-| [surname-stump-erbe.md](surname-stump-erbe.md) | Swiss-German topographic name (Thurgau) and Baltic-German "heir"; Stump/Stumpf/Stumpp variants; Erbe in the Russian Baltic provinces |
+| [surname-stump.md](surname-stump.md) | Swiss-German topographic name (Thurgau); Stump/Stumpf/Stumpp variants in parish registers |
+| [surname-erbe.md](surname-erbe.md) | Baltic-German "heir"; Domschloßvogt family in Tallinn's Dome district |
+| [surname-bottin.md](surname-bottin.md) | French occupational (bootmaker); arsenal engineer in Qajar Tehran; hinge of the Persia chain |
+| [surname-eylandt.md](surname-eylandt.md) | Baltic-German "island" (Middle High German *eilant*); 23 people in the tree; Tallinn civic family |
+| [surname-boara.md](surname-boara.md) | Italian occupational (Latin *bovarius*, oxherd); Veneto to Dalmatia; connected to Addobbati |
+| [surname-evans.md](surname-evans.md) | Welsh patronymic from *Ifan* (John); 2nd most common in Wales; London branch |
 | [surname-addobbati.md](surname-addobbati.md) | Italian — "the adorned ones," from Old French *adober* (to knight); 67 bearers worldwide; Bergamo origin, Dalmatian settlement |
 | [surname-zerauschek.md](surname-zerauschek.md) | Germanised Slavic — *žerav-* (ember) + diminutive *-šek*; 14 bearers worldwide; Habsburg orthographic transformation |
+| [surname-roche.md](surname-roche.md) | Norman *de la Roche* ("rock"); Hiberno-Norman merchant-gentry; Limerick, Cork, Wexford; Burke's 1833 |
 | [surname-coolbear.md](surname-coolbear.md) | Old English locational (Cole + baer); hyper-local Essex cluster; Colbia → Coolbar → Colbear → Coolbear in two generations |
 | [surname-saginian.md](surname-saginian.md) | Georgian *Saginskilli* → Armenian *Saginian*; clan name transformation marking communal re-identification in Qajar Iran |

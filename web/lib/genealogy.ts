@@ -115,7 +115,7 @@ export function getGenerationCount(tree: FamilyTree): number {
   return max + 1;
 }
 
-export function getCenturySpan(tree: FamilyTree): number {
+export function getYearSpan(tree: FamilyTree): number {
   let min = Infinity;
   let max = -Infinity;
   const yearRe = /\b(\d{4})\b/;
@@ -130,9 +130,9 @@ export function getCenturySpan(tree: FamilyTree): number {
       }
     }
   }
-  const minCentury = Math.floor((min - 1) / 100) + 1;
-  const maxCentury = Math.floor((max - 1) / 100) + 1;
-  return maxCentury - minCentury + 1;
+  if (!isFinite(min) || !isFinite(max)) return 0;
+  const raw = max - min;
+  return Math.round(raw / 100) * 100;
 }
 
 export function buildAncestorTree(tree: FamilyTree, rootId: string, maxDepth: number): AncestorNode {

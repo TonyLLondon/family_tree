@@ -142,7 +142,7 @@ export function getSiteSearchItems(): BrowseItem[] {
   items.push({
     id: "section:chart",
     title: "Ancestor chart",
-    subtitle: "Interactive fan chart from the structured family tree",
+    subtitle: "Interactive ancestor fan chart",
     href: "/chart",
     meta: "Chart",
   });

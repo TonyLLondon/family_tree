@@ -60,7 +60,10 @@ Fan charts and PPTX decks (not primary sources): **[archive/sun-charts/](../arch
 ## Surname studies
 
 - [Lewis](surname-lewis.md) — Welsh patronymic from *Llywelyn*; the naming problem of Welsh genealogy
-- [Stump & Erbe](surname-stump-erbe.md) — Swiss-German topographic name and Baltic-German "heir"
+- [Stump](surname-stump.md) — Swiss-German topographic name; Thurgau parish register variants
+- [Erbe](surname-erbe.md) — Baltic-German "heir"; Tallinn Dome district
+- [Eylandt](surname-eylandt.md) — Baltic-German "island"; Olga Erbe's mother's family
+- [Roche](surname-roche.md) — Norman *de la Roche*; Limerick Catholic merchant-gentry
 
 ---
 

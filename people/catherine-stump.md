@@ -29,6 +29,7 @@ Parents: [Robert Marc Murard Stump](robert-marc-murard-stump.md); [Maureen Cathe
 
 - [Outdoor portrait (chart / site)](../media/docs/Smiling%20woman%20white%20jacket%20gold%20geometric%20necklace%20outdoor%20bright.jpg).
 - Wedding imagery: [bride centre, trio outdoors](../media/images/portraits/outdoor-wedding-trio-beaded-gown-champagne-hills.jpg); related frames `media/images/portraits/outdoor-wedding-*.jpg`.
+- [White and Stump families, Geneva, c. 1953](../media/docs/White%20and%20Stump%20families%20Geneva%20c1953.jpg) — Kitty as a young child in the front row between Susan and Roland. Source: Charlie Ginnane photocopy via Barbara Cantwell.
 **Export:**
 
 - **treeId** **I3** — household with Ivor and Anthony: topology in the working tree.

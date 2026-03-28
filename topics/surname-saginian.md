@@ -59,7 +59,8 @@ Through the Burgess → Bottin → Stump chain, the Saginian surname connects to
 - [Qajar Armenian military](qajar-armenian-military.md)
 - [NYPL Burgess Papers archive](nypl-burgess-papers-archive.md)
 - Story: [Saginian → Burgess → Bottin → Stump](../stories/saginian-burgess-bottin-stump.md)
-- Surname: [Stump & Erbe](surname-stump-erbe.md) — the Swiss-Baltic line that married into the Bottin household
+- Surname: [Stump](surname-stump.md) — the Swiss line that married into the Bottin household
+- Surname: [Bottin](surname-bottin.md) — the French family connecting Burgess to Stump
 
 ### See also
 

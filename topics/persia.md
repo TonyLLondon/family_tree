@@ -213,7 +213,8 @@ Primary documents: [sources/documents/](../sources/documents/) · **media** (alb
 ### Surname studies
 
 - [Saginian](surname-saginian.md) — Georgian *Saginskilli* → Armenian *Saginian*; clan name transformation in Qajar Iran
-- [Stump & Erbe](surname-stump-erbe.md) — the Swiss-Baltic line that married into the Bottin household
+- [Bottin](surname-bottin.md) — French "little boot"; arsenal engineer family in Tehran
+- [Stump](surname-stump.md) — Swiss-German topographic name; Thurgau to Tehran
 
 ---
 

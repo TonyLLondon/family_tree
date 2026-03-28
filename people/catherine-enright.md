@@ -31,6 +31,8 @@ She enters the vault again through **1901** and **1911** census captures that gr
 
 ## Evidence
 
+- [Portrait — Catherine Enright](../media/images/portraits/catherine-enright-oshea.jpg) — solo portrait; hat, belted dress, white collar against a wall. Source: Charlie Ginnane photocopy via Barbara Cantwell.
+- [Catherine with daughters May, Maddy and Rose](../media/docs/Catherine%20Enright%20O%27Shea%20with%20daughters%20May%20Maddy%20and%20Rose.jpg) — group photograph in a garden; Catherine seated, three daughters standing behind. Identifies the O'Shea daughters: May (Mary), Maddy (Madeline, b. 1897), and Rose (Teresa Rosa, b. 1895).
 - [Catherine Enright 1911.pdf](../media/docs/Catherine%20Enright%201911.pdf).
 - Census: [1901 Form A/B7](../media/docs/1901%20Ireland%20census%20Form%20A%20Cork%20Catherine%20Enright%20O%27Shea%20grandchildren%20Form%20B7.jpg) · [1911 Monkstown Form A/B34](../media/docs/1911%20Ireland%20census%20Form%20A%20Catherine%20O%27Shea%20household%20Monkstown%20boarders%20Form%20B34.jpg).
 - [Mary O’Shea birth certificate](../media/docs/Ireland%20birth%20certificate%20Mary%20O%27Shea%201893-02-19%20Monkstown%20parents%20Cornelius%20O%27Shea%20Catherine%20Enright%20copy%201967.jpg).

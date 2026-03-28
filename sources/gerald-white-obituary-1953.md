@@ -33,6 +33,7 @@ Two newspaper clippings mounted on lined card, both transcribing the same notice
 - "Former Registrar" confirms the Madras appointment predates 1953 and that he returned to England after Indian independence (1947) or court reorganisation.
 - "Solicitor" means he held an English solicitor's qualification — distinct from an ICS or IMS appointment.
 - East Sheen Cemetery (SW14) = Richmond/East Sheen, Surrey, near his home address.
+- The obituary does not include "O.B.E." post-nominals, though Gerald was appointed O.B.E. in the 1938 New Year Honours ([London Gazette, issue 34469](../sources/london-gazette-1938-white-obe.md)). Paid death notices occasionally omit honours — the Gazette record is the definitive source.
 
 ## Also in vault
 

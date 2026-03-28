@@ -35,6 +35,7 @@ Family memory sets the courtship in **wartime Essex**—two **teachers** in the 
 
 - Context for White line: [1939 Register–style household page](../media/docs/1939%20Register%20style%20household%20page%20Prosser%20Stewart%20White%20Pallett%20closed%20records%20redactions.png); [1911 Ireland census PDF — Whites](../media/docs/census%20for%20whites%20in%201911%20in%20ireland.pdf).
 - **Export:** **treeId** **I10** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- [White and Stump families, Geneva, c. 1953](../media/docs/White%20and%20Stump%20families%20Geneva%20c1953.jpg) — Molly in back row holding Mongie, between Gerald White and an au pair. Front: Susan, Kitty, Roland. Source: Charlie Ginnane photocopy via Barbara Cantwell.
 - **Wartime Essex, teaching, meeting Robert** — family account (2026); tie to school or service records when images surface.
 
 ## Open questions

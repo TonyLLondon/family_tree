@@ -19,7 +19,9 @@ children:
 
 # William Moran (St Neots)
 
-**Not** [William Moran](william-moran-i232.md) (`I232`, father of [Elizabeth Moran](elizabeth-moran-i230.md) via **F115**). This **`I235`** was born **1848** **St Neots**, married [Hannah Walton](hannah-walton-i234.md) **6 Sep 1868** (**F116**), and is father of the Holloway / St Neots Moran children including **`I233`**.
+**William Moran** (**`I235`**) was born **1848** at **St Neots**, **Huntingdonshire**. On **6 September 1868** he married **[Hannah Walton](hannah-walton-i234.md)** there — union **F116** in the merged export — and became father of [William Walton](william-walton-i241.md) and the **Moran**-surname siblings [Elizabeth](elizabeth-moran-i233.md), [James](james-moran-i237.md), [Emma](emma-moran-i238.md), [Sarah](sarah-moran-i236.md), [Arthur](arthur-moran-i239.md), and [Rose](rose-moran-i240.md), with the household threading **St Neots** and **Holloway** across the 1870s–1890s.
+
+> *Not the same person as [William Moran](william-moran-i232.md) (**`I232`**, father of [Elizabeth Moran](elizabeth-moran-i230.md) via **F115**). Different parents on the certificates and a separate household in the graph.*
 
 ## Evidence
 

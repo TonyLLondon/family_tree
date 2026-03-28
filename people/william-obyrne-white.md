@@ -73,7 +73,7 @@ Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** i
 ## Evidence
 
 - [William O’Byrne White — regimental & India postings memo](../sources/william-obyrne-white-regimental-india-primary-sources-memo.md) — PDF + **extract:** [corpus/william-obyrne-white-regimental-india-primary-sources-memo/extracted.pdf.md](../sources/corpus/william-obyrne-white-regimental-india-primary-sources-memo/extracted.pdf.md); pairs with [irish-catholics-army-medical-service-india.md](../research/iran-qajar/irish-catholics-army-medical-service-india.md).
-- **London Gazette, 15 Mar 1870, issue 23598, p. 1738** — regimental appointment to 1st Foot: [sources/london-gazette-1870-white-1st-foot.md](../sources/london-gazette-1870-white-1st-foot.md) · [corpus](../sources/corpus/london-gazette-1870-03-15-white-1st-foot/)
+- **London Gazette, 15 Mar 1870, issue 23598, p. 1738** — regimental appointment to 1st Foot: [sources/london-gazette-1870-white-1st-foot.md](../sources/london-gazette-1870-white-1st-foot.md) · [corpus](../sources/corpus/london-gazette-1870-03-15-white-1st-foot/) · [scan](../media/docs/London%20Gazette%2015%20Mar%201870%20William%20O%27Byrne%20White%201st%20Foot.pdf)
 - [Army List — surgeon lieutenant-colonels](../sources/army-list-amd-surgeon-lt-colonels.md) · [scan](../media/docs/Army%20List%20non-effective%20surgeon%20lieutenant-colonels%20page%202056-7%20Adye-Curran%20to%20White.jpg)
 - [Army Medical Department half-pay register](../sources/army-medical-department-half-pay-register.md) · [scan](../media/docs/Army%20Medical%20Department%20half%20pay%20register%20page%201080%20Lt%20Colonels%20and%20Surgeon%20Majors.jpg)
 - [FIBIwiki — Jubbulpore](../sources/fibis-jubbulpore.md) — station context

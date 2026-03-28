@@ -37,6 +37,11 @@ Use Tamar’s branch when explaining **why two independent source types** (NYPL 
 - Sister: [Anna Saginian](anna-saginian.md).
 - Husband: [Dr. William Cormick](william-cormick.md).
 
+## Portraits
+
+- **Hakop Hovnatanian, *Portrait of Tamar Saginian*** (private collection) — oil painting by the renowned Armenian court painter, reproduced in Navasargian (2012). Caption: *"the wife of Dr. McCormic the private physician of the King."*
+  ![Hovnatanian portrait of Tamar Saginian](../media/images/portraits/tamar-saginian-hovnatanian-portrait.png)
+
 ## Evidence
 
 - [Persian-language portrait / attribution research](../sources/persia-tamar-saginian-portrait-persian-research.md) — PDF + **extract:** [corpus/persia-tamar-saginian-portrait-persian-research/extracted.pdf.md](../sources/corpus/persia-tamar-saginian-portrait-persian-research/extracted.pdf.md) · [memo](../research/iran-qajar/tamar-saginian-portrait-persian-research.md) — does not confirm museum attribution.

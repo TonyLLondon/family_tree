@@ -26,8 +26,8 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: "Lewis · Evans · Zerauschek · Cerpa — Family History",
-    template: "%s — Family History",
+    default: "Lewis · Evans · Zerauschek · Cerpa — The Lewis Line",
+    template: "%s — The Lewis Line",
   },
   description:
     "Seven generations from South Wales and London to Chile — through Qajar Persia, Habsburg Dalmatia, and Baltic Tallinn. Parish registers, military citations, diplomatic letters, and family portraits.",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false },
   openGraph: {
     type: "website",
-    siteName: "Lewis Family History",
+    siteName: "The Lewis Line",
     locale: "en_GB",
   },
 };

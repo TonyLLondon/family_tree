@@ -3,7 +3,7 @@ import { SiteNav } from "@/components/SiteNav";
 import { MasterSearch } from "@/components/MasterSearch";
 import { StoryCarousel, type StorySlide } from "@/components/StoryCarousel";
 import { RandomizedPortraits, type PortraitEntry } from "@/components/RandomizedPortraits";
-import { loadFamilyTree, getGenerationCount, getCenturySpan } from "@/lib/tree";
+import { loadFamilyTree, getGenerationCount, getYearSpan } from "@/lib/tree";
 import { buildPhotoInfoMap, focalToObjectPosition } from "@/lib/photos";
 import { getTopicSlugs, countBiographicalPersonPages } from "@/lib/content";
 import { getSiteSearchItems } from "@/lib/siteSearchIndex";
@@ -38,7 +38,7 @@ export default function HomePage() {
   const tree = loadFamilyTree();
   const totalPeople = Object.keys(tree.people).length;
   const generationCount = getGenerationCount(tree);
-  const centurySpan = getCenturySpan(tree);
+  const yearSpan = getYearSpan(tree);
   const allPortraits = getAllPortraits();
   const storySlides = getStorySlides();
   const topicCount = getTopicSlugs().filter((s) => s !== "index").length;
@@ -53,7 +53,7 @@ export default function HomePage() {
       <section className="relative overflow-hidden border-b border-zinc-100 bg-linear-to-br from-zinc-50 via-white to-sky-50">
         <div className="mx-auto max-w-6xl px-4 py-16 sm:py-24">
           <p className="mb-3 text-sm font-medium uppercase tracking-widest text-sky-700/70">
-            Family history
+            The Lewis Line
           </p>
           <h1 className="font-serif text-4xl font-bold tracking-tight text-zinc-900 sm:text-6xl">
             Lewis · Evans · Zerauschek · Cerpa
@@ -67,7 +67,7 @@ export default function HomePage() {
           <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-1 text-sm text-zinc-500">
             <span><strong className="text-zinc-900">{totalPeople}</strong> people</span>
             <span><strong className="text-zinc-900">{generationCount}</strong> generations</span>
-            <span><strong className="text-zinc-900">{centurySpan}</strong> centuries</span>
+            <span><strong className="text-zinc-900">{yearSpan}</strong> years</span>
             <span><strong className="text-zinc-900">{storySlides.length}</strong> stories</span>
             <span><strong className="text-zinc-900">{topicCount}</strong> topics</span>
           </div>
@@ -142,7 +142,7 @@ export default function HomePage() {
             Lewis · Evans · Zerauschek · Cerpa
           </p>
           <p className="text-xs text-zinc-400/70">
-            {totalPeople} people · {generationCount} generations · {centurySpan} centuries · {storySlides.length} stories · {topicCount} topics
+            {totalPeople} people · {generationCount} generations · {yearSpan} years · {storySlides.length} stories · {topicCount} topics
           </p>
         </div>
       </footer>

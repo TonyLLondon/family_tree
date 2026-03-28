@@ -4,8 +4,8 @@ import { loadFamilyTree } from "@/lib/tree";
 import { buildMapData } from "@/lib/geo";
 
 export const metadata = {
-  title: "Map – Family history",
-  description: "Birthplaces, death places, and burial sites across the family tree.",
+  title: "Map – The Lewis Line",
+  description: "Birthplaces, death places, and burial sites across the Lewis Line.",
 };
 
 export default function MapPage() {

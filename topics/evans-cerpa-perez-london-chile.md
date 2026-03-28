@@ -112,6 +112,7 @@ Parents of [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) (**F1
 
 ### Surname studies
 
+- [Evans](surname-evans.md) — Welsh patronymic from *Ifan* (John); 2nd most common in Wales
 - [Coolbear](surname-coolbear.md) — Colbia → Coolbar → Colbear → Coolbear; hyper-local Essex cluster
 - [Lewis](surname-lewis.md) — Welsh patronymic from *Llywelyn*
 

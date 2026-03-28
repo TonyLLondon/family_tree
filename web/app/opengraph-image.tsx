@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Lewis · Evans · Zerauschek · Cerpa — Family History";
+export const alt = "Lewis · Evans · Zerauschek · Cerpa — The Lewis Line";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -69,7 +69,7 @@ export default async function OgImage() {
             marginBottom: "20px",
           }}
         >
-          Family History
+          The Lewis Line
         </div>
 
         <div

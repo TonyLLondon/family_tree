@@ -43,12 +43,13 @@ He married [Catherine Enright](catherine-enright.md) around **1892**. Mary's bir
 
 - Wife: [Catherine Enright](catherine-enright.md) (b. 1871, County Cork).
 - Daughter: [Mary O'Shea](mary-oshea.md) (b. 19 Feb 1893, Monkstown).
-- Daughter: Teresa Rosa O'Shea (b. 1895, Cork).
-- Daughter: Madeline O'Shea (b. 1897, Cork).
+- Daughter: Teresa Rosa "Rose" O'Shea (b. 1895, Cork).
+- Daughter: Madeline "Maddy" O'Shea (b. 1897, Cork).
 
 ## Evidence
 
 - [Cornelius O'Shea.jpg](../media/docs/Cornelius%20O%27Shea.jpg) — portrait photograph (later life).
+- [Monkstown National School, c. 1900](../media/docs/Monkstown%20National%20School%20c1900%20including%20May%20O%27Shea.jpg) — school group outside the parish church; handwritten caption identifies daughter May as "third from left at back." This is the school Cornelius taught at as National Teacher.
 - [Mary's birth certificate](../media/docs/Ireland%20birth%20certificate%20Mary%20O%27Shea%201893-02-19%20Monkstown%20parents%20Cornelius%20O%27Shea%20Catherine%20Enright%20copy%201967.jpg) — civil registration naming **Cornelius O'Shea, National Teacher, Castle Terrace, Monkstown** and **Catherine O'Shea, formerly Enright**; informant Catherine Enright (grandmother); copy certified 12 April 1967.
 - **[1905 Teachers' Census](../sources/corpus/teachers-census-1905/)** — NAI/ED/PCO/10/1/29 (O'Keane–O'Sullivan); Cornelius is **absent** from the O'Shea entries (pages 15–17), confirming he was no longer a serving national teacher by March 1905.
 - **treeId** **I118**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
