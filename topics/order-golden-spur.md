@@ -24,9 +24,12 @@ In **1905**, Pope Pius X separated the Golden Spur from the Order of St. Sylvest
 
 Wolfgang Amadeus Mozart received the Golden Spur from Pope Clement XIV in **1770**, making him one of the order's most celebrated holders.
 
-## Connection to this family
+## Dr. Petar Addobbati — Knight of the Golden Spur, 1786
 
-[Dr. Petar (Pietro) Addobbati](../people/luigi-anzolo-alloisio-addobbati.md) (1769–1832), son of [Luigi Addobbati](../people/luigi-anzolo-alloisio-addobbati.md), received the Golden Spur and Lateran count dignity as a law student or young lawyer. The **1786 diploma** is preserved in the Addobbati family fonds at the [Državni arhiv u Zadru (HR-DAZD-342)](../sources/dazd-addobbati-family-fonds.md). The family used the honour as evidence in the **1817 Nin nobility petition** to the Habsburg Heraldic Commission. The miniature of the order was passed down through the family and given to **Peter Martin Lewis**.
+![Portrait of Dr. Pietro Addobbati with the Golden Spur cross on his lapel, annotated by Fulvia Zerauschek](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/PAddobbati01.jpg)
+*Dr. Pietro Addobbati (1769–1832), Knight of the Golden Spur. Photograph of the family painting, annotated by Fulvia: "Holder of the Order of the Holy Spear / 100 holders at any one time."*
+
+[Dr. Petar (Pietro) Addobbati](../people/dr-pietro-addobbati.md) (1769–1832), son of [Luigi Addobbati](../people/luigi-anzolo-alloisio-addobbati.md), received the Golden Spur and Lateran count dignity as a law student or young lawyer. The **1786 diploma** is preserved in the Addobbati family fonds at the [Državni arhiv u Zadru (HR-DAZD-342)](../sources/dazd-addobbati-family-fonds.md). The family used the honour as evidence in the **1817 Nin nobility petition** to the Habsburg Heraldic Commission. The miniature of the order was passed down through the family and given to **Peter Martin Lewis**.
 
 Fulvia's 1996 memoir records the family tradition: Petar received the Golden Spur while still a student at the **University of Padova**, and only a hundred knights held the title at any time. She wrote to the Vatican seeking details but received no reply. ([Fulvia memoir](../sources/famhist-nonna-memoir-1996.md).)
 

@@ -24,3 +24,17 @@ Places, institutions, themes, and regional family hubs — linked from person fi
 | [zara-italy-dalmatia.md](zara-italy-dalmatia.md) | Venetian → Habsburg → Italian Zara: Addobbati *cittadini*, Zerauschek patriline, interwar hotels, bridge to Fulvia × David Lewis; anchor people, source register |
 | [lewis-wales-stump-europe.md](lewis-wales-stump-europe.md) | Welsh Lewis (coalfield, WWII Italy), Stump/Erbe (Baltic–Swiss–Tehran), Spencer–Evans, and link to Evans · Cerpa Pérez |
 | [evans-cerpa-perez-london-chile.md](evans-cerpa-perez-london-chile.md) | London Evans (Holborn/Islington) and Chilean Maule Cerpa–Pérez; tree-ID anchors, civil registration, research links |
+| [nin-noble-council.md](nin-noble-council.md) | Noble council of the Dalmatian commune of Nin; 1817 Habsburg petition; Addobbati inscription |
+
+## Surname studies
+
+Etymology, variant spellings, geographic distribution, and family connections for the principal surnames in the tree.
+
+| Topic | Scope |
+|-------|--------|
+| [surname-lewis.md](surname-lewis.md) | Welsh patronymic from *Llywelyn*; 546th most common surname globally; the naming problem of Welsh genealogy |
+| [surname-stump-erbe.md](surname-stump-erbe.md) | Swiss-German topographic name (Thurgau) and Baltic-German "heir"; Stump/Stumpf/Stumpp variants; Erbe in the Russian Baltic provinces |
+| [surname-addobbati.md](surname-addobbati.md) | Italian — "the adorned ones," from Old French *adober* (to knight); 67 bearers worldwide; Bergamo origin, Dalmatian settlement |
+| [surname-zerauschek.md](surname-zerauschek.md) | Germanised Slavic — *žerav-* (ember) + diminutive *-šek*; 14 bearers worldwide; Habsburg orthographic transformation |
+| [surname-coolbear.md](surname-coolbear.md) | Old English locational (Cole + baer); hyper-local Essex cluster; Colbia → Coolbar → Colbear → Coolbear in two generations |
+| [surname-saginian.md](surname-saginian.md) | Georgian *Saginskilli* → Armenian *Saginian*; clan name transformation marking communal re-identification in Qajar Iran |

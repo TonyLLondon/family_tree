@@ -9,10 +9,10 @@
     {
       "era": "1939 – 1940",
       "media": {
-        "src": "media/images/portraits/nonna-and-nonno.jpg",
-        "alt": "Fulvia and David Lewis at home in later years",
+        "src": "media/docs/david-lewis-military-portrait.png",
+        "alt": "David Lewis with campaign medals beside the Royal Welsh regimental goat and uniformed handler",
         "caption": "David John Lewis — university student, twenty-one, commissioned into the Welch Regiment on 23 August 1940",
-        "focal": [0.55, 0.3]
+        "focal": [0.6, 0.15]
       }
     },
     {
@@ -75,10 +75,10 @@
     {
       "era": "May 1945",
       "media": {
-        "src": "media/docs/david-lewis-military-portrait.png",
-        "alt": "David Lewis with campaign medals beside the Royal Welsh regimental goat and uniformed handler",
+        "src": "media/images/portraits/nonna-and-nonno.jpg",
+        "alt": "Fulvia and David Lewis at home in later years",
         "caption": "Major David Lewis — Sicily to Austria, the full length of the Italian peninsula",
-        "focal": [0.6, 0.15]
+        "focal": [0.55, 0.3]
       }
     }
   ]

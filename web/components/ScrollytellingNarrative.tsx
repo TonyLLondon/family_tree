@@ -279,7 +279,7 @@ export function ScrollytellingNarrative({
 
       {/* ── Appendix (corrections, links, etc.) ──────────────────────── */}
       {appendixSections.length > 0 && (
-        <main className="mx-auto max-w-4xl flex-1 px-4 py-12 md:px-6">
+        <main className="mx-auto max-w-prose flex-1 px-4 py-12 md:px-6">
           {appendixSections.map((section, i) => (
             <section
               id={section.slug}
@@ -317,7 +317,7 @@ function MediaCaption({
   return (
     <div
       className="absolute bottom-5 right-5 z-10 max-w-xs rounded-lg bg-black/50 px-3.5 py-2 text-xs leading-relaxed text-white/80 backdrop-blur-sm transition-opacity duration-500"
-      style={{ opacity: visible ? 1 : 0 }}
+      style={{ opacity: visible ? 1 : 0, bottom: "max(1.25rem, env(safe-area-inset-bottom))", right: "max(1.25rem, env(safe-area-inset-right))" }}
     >
       {caption}
     </div>

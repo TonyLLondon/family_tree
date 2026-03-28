@@ -2,6 +2,8 @@
 
 European-trained dentists introduced Western dental practice to Iran in the second half of the nineteenth century. **Dr Étienne Stump** — Swiss-born, American-trained, recruited in New York — became Ahmad Shah's personal dentist and one of the first to teach Iranian practitioners. He spent nearly half a century in Tehran, accumulating land, a medical practice, and a complicated legacy.
 
+![Étienne Stump, Henriette Bottin Burgess, and family](../media/images/portraits/etienne-stump-henriette-bottin-burgess-family.jpg)
+
 ---
 
 ## Three generations of foreign dentists

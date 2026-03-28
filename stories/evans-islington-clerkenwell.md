@@ -62,7 +62,7 @@ Annie's siblings included several more Fensoms scattered through the Islington r
 
 ## William Evans — the unknown patriarch
 
-Into this world came **[William Evans](../people/william-evans-i289.md)**. He was born about **1862**, and beyond that almost nothing is known. He married [Louisa Spencer](../people/louisa-spencer.md) on **26 July 1891** — she was twenty, he was about twenty-nine — and fathered at least one surviving son, [Alfred](../people/alfred-edward-william-evans.md). The vault holds a photograph captioned [William Evans doing Louisa Spencer.jpg](../media/docs/William%20Evans%20doing%20Louisa%20Spencer.jpg) and a GRO birth-index capture [covering Evans children from Emma through Margaret](../media/docs/GRO%20birth%20index%20Evans%20children%20names%20Emma%20through%20Margaret%20England%20Wales.tif), but neither has been fully analysed.
+Into this world came **[William Evans](../people/william-evans-i289.md)**. He was born about **1862**, and beyond that almost nothing is known. He married [Louisa Spencer](../people/louisa-spencer.md) on **26 July 1891** — she was twenty, he was about twenty-nine — and fathered at least one surviving son, [Alfred](../people/alfred-edward-william-evans.md). The vault holds a photograph captioned [william-evans-louisa-spencer-marriage.jpg](../media/docs/william-evans-louisa-spencer-marriage.jpg) and a GRO birth-index capture [covering Evans children from Emma through Margaret](../media/docs/GRO%20birth%20index%20Evans%20children%20names%20Emma%20through%20Margaret%20England%20Wales.tif), but neither has been fully analysed.
 
 The surname itself is a clue. Evans is overwhelmingly Welsh, the second most common surname in Wales. Whether William was born in Wales and migrated to London — like tens of thousands of Welsh men and women drawn to the capital's docks, dairies, and drapers' shops — or whether he was a second- or third-generation London Welshman, the GEDCOM and the tree cannot yet say. His birth parish, his occupation, and his death are all open. He is the gap in the story: the man who connected a Clerkenwell Spencer to generations of Islington Evans, and about whom the records have so far been silent.
 
@@ -154,7 +154,7 @@ The evidence for this continuity is scattered across the vault — census return
 |-------|---------|
 | [Alfred Evans.jpg](../media/docs/Alfred%20Evans.jpg) | Portrait of Alfred Edward William Evans |
 | [Alfred Evans 2.jpg](../media/docs/Alfred%20Evans%202.jpg) | Second portrait of Alfred |
-| [William Evans doing Louisa Spencer.jpg](../media/docs/William%20Evans%20doing%20Louisa%20Spencer.jpg) | Photograph captioned as William Evans and Louisa Spencer |
+| [william-evans-louisa-spencer-marriage.jpg](../media/docs/william-evans-louisa-spencer-marriage.jpg) | Photograph captioned as William Evans and Louisa Spencer |
 
 ### Documents
 

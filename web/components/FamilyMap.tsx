@@ -130,7 +130,7 @@ export function FamilyMap({ data }: { data: MapData }) {
             key={t}
             type="button"
             onClick={() => toggleType(t)}
-            className={`rounded-full border px-3 py-1 text-xs font-medium transition ${
+            className={`rounded-full border px-3 py-2 text-xs font-medium transition ${
               filters.types.has(t)
                 ? "border-sky-600 bg-sky-50 text-sky-700"
                 : "border-zinc-300 bg-zinc-50 text-zinc-400"
@@ -147,7 +147,7 @@ export function FamilyMap({ data }: { data: MapData }) {
         <button
           type="button"
           onClick={() => setLegendOpen((o) => !o)}
-          className="rounded-md border border-zinc-300 px-2 py-1 text-xs font-medium text-zinc-600 transition hover:bg-zinc-100 lg:hidden"
+          className="rounded-md border border-zinc-300 px-3 py-2 text-xs font-medium text-zinc-600 transition hover:bg-zinc-100 active:bg-zinc-200 lg:hidden"
         >
           Legend
         </button>
@@ -160,7 +160,7 @@ export function FamilyMap({ data }: { data: MapData }) {
             center={INITIAL_CENTER}
             zoom={INITIAL_ZOOM}
             className="h-full w-full"
-            style={{ minHeight: "calc(100vh - 110px)" }}
+            style={{ minHeight: "calc(100dvh - 110px)" }}
             scrollWheelZoom
             zoomControl
           >

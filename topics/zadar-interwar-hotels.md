@@ -2,6 +2,8 @@
 
 Under Italian rule (1920–1943), **Zara** (Zadar) was a free port — a sliver of Italian sovereignty on the Dalmatian coast, sustained by customs exemptions and maritime trade. **Antonio Zerauschek** built a commercial empire in this environment: hotels, cafés, a tobacco factory, a chocolate works, and import–export agencies that exploited the free-port franchise. When Allied bombing destroyed the city in 1943–44, he lost everything.
 
+![Zara (Zadar), c. 1920](../media/context/dalmatia-habsburg/zara-zadar-1920.jpg)
+
 ---
 
 ## The Caffè Centrale
@@ -37,6 +39,8 @@ Before the war, Antonio had designed a new house for the family. He never lived 
 Before the war, Antonio had been active in Zara's civic life: the **Società Ginnastica** balls (where he was known as a dancer), the **Circolo Arturo Colautti**, and broader Italian irredentist patriotic circles.
 
 ## Family
+
+![Antonio Zerauschek, c. 1920](../media/images/portraits/antonio-zerauschek-1920.jpg)
 
 - **[Antonio Zerauschek](../people/antonio-zerauschek.md)** (24 Jun 1889, Zara – Feb 1973, Florence)
 - Wife: **Ester Addobbati** — connecting the Zerauschek commercial family to the [Addobbati civic lineage](../stories/addobbati-dalmatian-habsburg.md)

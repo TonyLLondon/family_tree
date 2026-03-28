@@ -18,6 +18,8 @@ This page is the **working hub** for registers, civil records, and family media 
 
 ## London — Evans (Holborn → late 20th c.)
 
+![St John’s Gate, Clerkenwell, 1880 — Dixon](../media/context/london-clerkenwell/st-johns-gate-clerkenwell-1880-dixon.jpg)
+
 | Person | Tree id | Notes |
 |--------|---------|--------|
 | [William Evans (London)](../people/william-evans-i289.md) | `I289` | Marriage to [Louisa Spencer](../people/louisa-spencer.md) **26 July 1891** (**F136**). |
@@ -64,6 +66,8 @@ Same surnames as Rosina’s Moran line but **different people**: [William Moran 
 
 ## Chile — Cerpa · Pérez (Región del Maule)
 
+![La Moneda Palace, Santiago](../media/context/chile-exile/la-moneda-palace-santiago.jpg)
+
 Parents of [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) (**F162**):
 
 | Person | Tree id | Vitals |
@@ -103,6 +107,13 @@ Parents of [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) (**F1
 | Registro Civil en línea — **Maule** (oficinas) | https://registrocivilenlinea.cl/maule/ | Current **Linares**, **Parral**, regional office pointers for **present-day** trámites / agendamiento |
 
 **Subscription mirrors (same civil 1885–1903 tranche as often republished):** [Ancestry Chile civil registration](https://www.ancestry.com/search/collections/9812), [MyHeritage Chile civil registration](https://www.myheritage.com/research/collection-30168/chile-civil-registration-1885-1903) — useful if you already subscribe; coverage is incomplete vs full municipal books.
+
+---
+
+### Surname studies
+
+- [Coolbear](surname-coolbear.md) — Colbia → Coolbar → Colbear → Coolbear; hyper-local Essex cluster
+- [Lewis](surname-lewis.md) — Welsh patronymic from *Llywelyn*
 
 ---
 

@@ -1,47 +1,9 @@
 import { SiteNav } from "@/components/SiteNav";
-import { getStorySlugs } from "@/lib/content";
-import { readScrollySidecar, resolveScrollySteps } from "@/lib/scrollytelling";
-import { readStoryCard } from "@/lib/browse";
-import {
-  StoryCardsGrid,
-  type StoryCardData,
-} from "@/components/StoryCardsGrid";
-
-function buildCards(): StoryCardData[] {
-  const slugs = getStorySlugs();
-
-  return slugs.map((slug) => {
-    const sidecar = readScrollySidecar(slug);
-    const { title: mdTitle, blurb } = readStoryCard(slug);
-
-    if (sidecar) {
-      const resolved = resolveScrollySteps(sidecar);
-      return {
-        slug,
-        title: sidecar.hero.title,
-        subtitle: sidecar.hero.subtitle,
-        era: sidecar.hero.era,
-        blurb,
-        heroImage: resolved[0]?.media.src ?? null,
-        heroFocal: resolved[0]?.media.focal,
-        href: `/stories/${encodeURIComponent(slug)}`,
-      };
-    }
-
-    return {
-      slug,
-      title: mdTitle,
-      subtitle: "",
-      era: "",
-      blurb,
-      heroImage: null,
-      href: `/stories/${encodeURIComponent(slug)}`,
-    };
-  });
-}
+import { buildAllStoryCards } from "@/lib/browse";
+import { StoryCardsGrid } from "@/components/StoryCardsGrid";
 
 export default function StoriesIndexPage() {
-  const cards = buildCards();
+  const cards = buildAllStoryCards();
 
   return (
     <>

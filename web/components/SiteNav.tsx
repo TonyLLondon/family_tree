@@ -83,7 +83,7 @@ export function SiteNav() {
 
           <button
             type="button"
-            className="-mr-1 inline-flex items-center justify-center rounded-md p-2 text-zinc-700 transition hover:bg-zinc-100 hover:text-zinc-900 md:hidden"
+            className="-mr-1 inline-flex min-h-[44px] min-w-[44px] items-center justify-center rounded-md p-2 text-zinc-700 transition hover:bg-zinc-100 hover:text-zinc-900 active:bg-zinc-200 md:hidden"
             aria-expanded={menuOpen}
             aria-controls={panelId}
             aria-label={menuOpen ? "Close menu" : "Open menu"}

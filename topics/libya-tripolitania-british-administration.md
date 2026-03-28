@@ -40,6 +40,12 @@ Idris had long been reluctant to extend his authority into Tripolitania, where n
 
 This acceptance was marked by **public celebrations across Tripolitania** — ceremonial receptions with mounted processions, Senussi flags and Arabic banners, formal gatherings of British officials and Libyan dignitaries, and popular demonstrations of support for the Emir. The family archive contains thirteen photographs from one such event in 1949, taken during David Lewis's posting as District Officer at Sabratha — direct visual evidence of the ceremony through which Tripolitania accepted Senussi leadership.
 
+![Mounted horsemen in procession, Tripolitania 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-mounted-horsemen-procession.jpg)
+
+![Crowd with Senussi flags and welcome arch, 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-crowd-senussi-flags-welcome-arch.jpg)
+
+![The Emir's portrait carried in procession, 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-procession-emir-portrait-carried.jpg)
+
 ## The UN resolution and independence
 
 On **21 November 1949**, the UN General Assembly adopted a resolution stipulating that Libya must become a single independent state by January 1952, led by Idris as king. The Dutch diplomat **Adrian Pelt** (Adriaan Pelt) was appointed **UN Commissioner for Libya** on 10 December 1949, tasked with shepherding the three regions — each with different administrations, legal systems, and political cultures — towards unified independence. Pelt convened a National Constituent Assembly, toured Libya's towns, regions, and tribes, and visited European capitals to coordinate support.
@@ -55,6 +61,10 @@ The kingdom endured until **1 September 1969**, when Colonel Muammar Gaddafi's *
 The BMA transitioned to a **British Civil Administration** in 1950 before handing authority to the Libyan government at independence. Throughout the transition, British District Officers in Tripolitania — including David Lewis at Sabratha — served as the front-line administrators mediating between London, the UN Commissioner, the emerging Libyan government, and local communities. Many of these officers subsequently transferred to other colonial postings: Lewis moved to Northern Rhodesia in 1952.
 
 ## Connection to this family
+
+![David Lewis with Libyan officials in the garden, 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-lewis-arab-leaders-garden.jpg)
+
+![David and Fulvia with group on steps, 1949](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/libya-1949-david-fulvia-group-steps.jpg)
 
 [David John Lewis](../people/david-john-lewis.md) was appointed to HM Colonial Administrative Service in 1948 and seconded to the **Foreign Office Administration of African Territories**. He served as **District Officer in charge of Sabratha District, Tripolitania** from 1948 to 1950, then as **Magistrate, Western Province, Tripolitania** in 1951. He was present through the Bevin-Sforza crisis, the proclamation of the Emirate of Cyrenaica, and the pivotal 1949 events surrounding Idris's acceptance of the Tripolitanian emirate. The family album preserves [thirteen photographs](../media/docs/david-john-lewis-colonial-service/libya-idris-1949/) from a formal reception in his district — mounted horsemen, Senussi flags, Arabic banners welcoming the Emir, a ceremonial dais, and David and [Fulvia](../people/fulvia-ottilia-antonia-zerauschek.md) photographed alongside Libyan dignitaries.
 

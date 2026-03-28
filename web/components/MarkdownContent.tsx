@@ -57,7 +57,7 @@ export function MarkdownContent({ content, filePath }: Props) {
                   <img
                     src={href}
                     alt={label}
-                    className="max-h-64 cursor-zoom-in rounded-md border border-zinc-200 object-contain transition hover:shadow-lg"
+                    className="max-h-64 cursor-zoom-in rounded-md border border-zinc-200 object-contain transition hover:shadow-lg active:shadow-lg active:ring-2 active:ring-sky-300"
                     onClick={() => lightbox.open(href, label)}
                   />
                   {label && <span className="mt-1 block text-xs text-zinc-500">{label}</span>}
@@ -78,13 +78,21 @@ export function MarkdownContent({ content, filePath }: Props) {
             );
           },
           img: ({ src, alt }) => (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={src}
-              alt={alt ?? ""}
-              className="max-w-full cursor-zoom-in rounded-md border border-zinc-200 transition hover:shadow-lg dark:border-zinc-700"
-              onClick={() => src && typeof src === "string" && lightbox.open(src, alt ?? "")}
-            />
+            <span className="not-prose my-3 block">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={src}
+                alt={alt ?? ""}
+                className="max-h-64 cursor-zoom-in rounded-md border border-zinc-200 object-contain transition hover:shadow-lg active:shadow-lg active:ring-2 active:ring-sky-300 dark:border-zinc-700"
+                onClick={() => src && typeof src === "string" && lightbox.open(src, alt ?? "")}
+              />
+              {alt && <span className="mt-1 block text-xs text-zinc-500">{alt}</span>}
+            </span>
+          ),
+          table: ({ children }) => (
+            <div className="overflow-x-auto">
+              <table>{children}</table>
+            </div>
           ),
           code: ({ className, children, ...rest }) => {
             const match = /language-mermaid/.test(className ?? "");

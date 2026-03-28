@@ -19,7 +19,6 @@ function PersonCard({
   node: BloodlineNode;
   color: string;
   side: "left" | "right";
-  lineLabel: string;
 }) {
   const name = node.person.displayName;
   const yearStr = node.year
@@ -30,14 +29,14 @@ function PersonCard({
 
   const inner = (
     <div
-      className="group flex min-h-[22vh] items-center gap-2 rounded-xl bg-white/92 px-2.5 py-3 shadow-xl ring-1 ring-black/5 backdrop-blur-sm transition-all hover:bg-white hover:shadow-2xl sm:min-h-[20vh] sm:gap-2.5 sm:px-3 md:min-h-0 md:gap-3.5 md:px-4 md:py-3.5"
+      className="group flex flex-col items-center gap-2 rounded-xl bg-white/92 px-3 py-4 shadow-xl ring-1 ring-black/5 backdrop-blur-sm transition-all hover:bg-white hover:shadow-2xl sm:flex-row sm:items-center sm:gap-3.5 sm:px-4 sm:py-3.5 md:gap-4 md:px-5 md:py-4"
       style={{
         borderLeft: side === "left" ? `3px solid ${color}` : undefined,
         borderRight: side === "right" ? `3px solid ${color}` : undefined,
       }}
     >
       {node.photo ? (
-        <div className="h-14 w-14 flex-none rounded-full ring-2 ring-white shadow overflow-hidden sm:h-15 sm:w-15 md:h-12 md:w-12">
+        <div className="h-20 w-20 flex-none rounded-full ring-2 ring-white shadow overflow-hidden md:h-24 md:w-24">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={node.photo.url}
@@ -62,7 +61,7 @@ function PersonCard({
         </div>
       ) : (
         <div
-          className="flex h-14 w-14 flex-none items-center justify-center rounded-full text-sm font-bold text-white shadow sm:h-15 sm:w-15 sm:text-base md:h-12 md:w-12 md:text-sm"
+          className="flex h-20 w-20 flex-none items-center justify-center rounded-full text-lg font-bold text-white shadow md:h-24 md:w-24 md:text-xl"
           style={{ backgroundColor: color }}
         >
           {name
@@ -73,19 +72,40 @@ function PersonCard({
             .join("")}
         </div>
       )}
-      <div className="min-w-0 flex-1 py-0.5">
-        <p className="wrap-break-word text-sm font-semibold leading-snug text-zinc-900 md:text-sm">
+      <div className="min-w-0 text-center sm:flex-1 sm:text-left">
+        <p className="wrap-break-word text-sm font-semibold leading-snug text-zinc-900 sm:text-base">
           {name}
         </p>
         {yearStr && (
-          <p className="mt-0.5 text-xs text-zinc-500 sm:text-[13px] md:mt-0 md:text-xs">
+          <p className="mt-0.5 text-xs text-zinc-500 sm:text-sm">
             {yearStr}
           </p>
         )}
         {node.role && (
-          <p className="mt-0.5 wrap-break-word text-[11px] leading-snug text-zinc-400 italic sm:text-xs md:mt-0.5 md:text-[11px]">
+          <p className="mt-0.5 wrap-break-word text-[11px] leading-snug text-zinc-400 italic sm:text-xs">
             {node.role}
           </p>
+        )}
+        {node.places && (
+          <div className="mt-1.5 flex justify-center sm:justify-start">
+            <span className="inline-flex items-center gap-1 rounded-full bg-zinc-100/80 px-2 py-0.5 text-[11px] font-medium text-zinc-600 sm:text-xs">
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                className="flex-none text-zinc-400"
+              >
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                <circle cx="12" cy="10" r="3" />
+              </svg>
+              {node.places}
+            </span>
+          </div>
         )}
       </div>
     </div>
@@ -101,10 +121,10 @@ function PersonCard({
   return inner;
 }
 
-function EmptySlot({ lineLabel }: { side: "left" | "right"; lineLabel: string }) {
+function EmptySlot({ lineLabel }: { lineLabel: string }) {
   return (
-    <div className="flex min-h-[22vh] items-center justify-center rounded-xl border border-dashed border-white/20 px-2.5 py-3 sm:min-h-[20vh] md:h-[76px] md:min-h-0 md:px-4 md:py-0">
-      <p className="text-center text-[11px] text-white/30 italic sm:text-xs md:text-xs">
+    <div className="flex items-center justify-center rounded-xl border border-dashed border-white/20 px-3 py-8 sm:py-10">
+      <p className="text-center text-[11px] text-white/30 italic sm:text-xs">
         {lineLabel} line ends
       </p>
     </div>
@@ -112,7 +132,7 @@ function EmptySlot({ lineLabel }: { side: "left" | "right"; lineLabel: string })
 }
 
 export function BloodlineChart({ data }: Props) {
-  const { steps, stumpColor, addobbatiColor } = data;
+  const { steps, stumpColor, addobbatiColor, totalGenerations, earliestYear, latestYear } = data;
   const [activeStep, setActiveStep] = useState(-1);
   const [heroVisible, setHeroVisible] = useState(true);
   const leftRefs = useRef<(HTMLDivElement | null)[]>([]);
@@ -296,17 +316,26 @@ export function BloodlineChart({ data }: Props) {
 
           {/* Captions */}
           {!heroVisible && currentStep?.fullBg?.caption && (
-            <div className="absolute bottom-5 right-5 z-10 max-w-xs rounded-lg bg-black/50 px-3.5 py-2 text-xs leading-relaxed text-white/70 backdrop-blur-sm">
+            <div
+              className="absolute bottom-5 right-5 z-10 max-w-xs rounded-lg bg-black/50 px-3.5 py-2 text-xs leading-relaxed text-white/70 backdrop-blur-sm"
+              style={{ bottom: "max(1.25rem, env(safe-area-inset-bottom))", right: "max(1.25rem, env(safe-area-inset-right))" }}
+            >
               {currentStep.fullBg.caption}
             </div>
           )}
           {!heroVisible && !currentStep?.fullBg && currentStep?.leftBg?.caption && (
-            <div className="absolute bottom-5 left-5 z-10 max-w-[22%] rounded-lg bg-black/50 px-3 py-1.5 text-[11px] leading-relaxed text-white/70 backdrop-blur-sm">
+            <div
+              className="absolute bottom-5 left-5 z-10 max-w-[22%] rounded-lg bg-black/50 px-3 py-1.5 text-[11px] leading-relaxed text-white/70 backdrop-blur-sm"
+              style={{ bottom: "max(1.25rem, env(safe-area-inset-bottom))", left: "max(1.25rem, env(safe-area-inset-left))" }}
+            >
               {currentStep.leftBg.caption}
             </div>
           )}
           {!heroVisible && !currentStep?.fullBg && currentStep?.rightBg?.caption && (
-            <div className="absolute bottom-5 right-5 z-10 max-w-[22%] rounded-lg bg-black/50 px-3 py-1.5 text-[11px] leading-relaxed text-white/70 backdrop-blur-sm">
+            <div
+              className="absolute bottom-5 right-5 z-10 max-w-[22%] rounded-lg bg-black/50 px-3 py-1.5 text-[11px] leading-relaxed text-white/70 backdrop-blur-sm"
+              style={{ bottom: "max(1.25rem, env(safe-area-inset-bottom))", right: "max(1.25rem, env(safe-area-inset-right))" }}
+            >
               {currentStep.rightBg.caption}
             </div>
           )}
@@ -337,13 +366,13 @@ export function BloodlineChart({ data }: Props) {
             }}
           >
             <p className="mb-4 text-xs font-semibold uppercase tracking-[0.25em] text-white/50 md:text-sm">
-              Archer &amp; Sloan · Tony &amp; Jacquie · Ivor &amp; Kitty — then deep past
+              {totalGenerations} generations · {earliestYear}–{latestYear}
             </p>
             <h1 className="max-w-3xl text-4xl font-bold leading-tight tracking-tight text-white md:text-6xl lg:text-7xl">
               Bloodlines
             </h1>
             <p className="mt-5 max-w-xl text-base leading-relaxed text-white/60 md:text-lg">
-              From this generation backward — two lineages through the centuries — the{" "}
+              From Archer &amp; Sloan, backward through the centuries — two lineages converge: the{" "}
               <span style={{ color: stumpColor }} className="font-semibold">
                 Stumps
               </span>{" "}
@@ -355,20 +384,20 @@ export function BloodlineChart({ data }: Props) {
             </p>
 
             {/* Legend */}
-            <div className="mt-10 flex items-center gap-8 text-sm">
+            <div className="mt-10 flex flex-wrap items-center justify-center gap-x-8 gap-y-3 text-sm">
               <div className="flex items-center gap-2">
                 <div
                   className="h-3 w-3 rounded-full"
                   style={{ backgroundColor: stumpColor }}
                 />
-                <span className="text-white/50">Stump · Thurgau → Tehran</span>
+                <span className="text-white/50">Stump · Thurgau → Reval → Tehran → London</span>
               </div>
               <div className="flex items-center gap-2">
                 <div
                   className="h-3 w-3 rounded-full"
                   style={{ backgroundColor: addobbatiColor }}
                 />
-                <span className="text-white/50">Addobbati · Bergamo → Zara</span>
+                <span className="text-white/50">Addobbati · Bergamo → Zara → Florence</span>
               </div>
             </div>
 
@@ -405,8 +434,7 @@ export function BloodlineChart({ data }: Props) {
                       </span>
                     </div>
 
-                    {/* Always two columns — matches split background; tight gutter on small screens */}
-                    <div className="flex items-stretch gap-1.5 sm:gap-2 md:items-start md:gap-6">
+                    <div className="flex items-start gap-1.5 sm:gap-2 md:gap-6">
                       {/* Stump (left) */}
                       <div className="min-w-0 flex-1">
                         {step.stump ? (
@@ -414,10 +442,9 @@ export function BloodlineChart({ data }: Props) {
                             node={step.stump}
                             color={stumpColor}
                             side="left"
-                            lineLabel="Stump"
                           />
                         ) : (
-                          <EmptySlot side="left" lineLabel="Stump" />
+                          <EmptySlot lineLabel="Stump" />
                         )}
                       </div>
 
@@ -433,10 +460,9 @@ export function BloodlineChart({ data }: Props) {
                             node={step.addobbati}
                             color={addobbatiColor}
                             side="right"
-                            lineLabel="Addobbati"
                           />
                         ) : (
-                          <EmptySlot side="right" lineLabel="Addobbati" />
+                          <EmptySlot lineLabel="Addobbati" />
                         )}
                       </div>
                     </div>

@@ -34,6 +34,52 @@ function PersonLink({ person }: { person: Person }) {
   return <span className="text-zinc-600">{person.displayName}</span>;
 }
 
+function VitalsLine({ person }: { person: Person }) {
+  const parts: string[] = [];
+  if (person.birthDate) {
+    let s = `b. ${person.birthDate}`;
+    if (person.birthPlace) s += `, ${person.birthPlace}`;
+    parts.push(s);
+  }
+  if (person.deathDate) {
+    let s = `d. ${person.deathDate}`;
+    if (person.deathPlace) s += `, ${person.deathPlace}`;
+    parts.push(s);
+  }
+  if (person.burialPlace) {
+    parts.push(`bur. ${person.burialPlace}`);
+  }
+  if (parts.length === 0) return null;
+  return <p className="text-sm text-zinc-500">{parts.join(" · ")}</p>;
+}
+
+function stripLeadingH1(md: string): string {
+  return md.replace(/^\s*#\s+.+\n+/, "");
+}
+
+function FamilyLinks({
+  label,
+  people,
+}: {
+  label: string;
+  people: (Person | null)[];
+}) {
+  const valid = people.filter((p): p is Person => p !== null);
+  if (valid.length === 0) return null;
+  return (
+    <div>
+      <span className="text-xs font-semibold uppercase tracking-wider text-zinc-400">
+        {label}
+      </span>
+      <div className="mt-0.5 flex flex-wrap gap-x-3 gap-y-0.5 text-sm">
+        {valid.map((p) => (
+          <PersonLink key={p.id} person={p} />
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export default async function PersonPage({ params }: Props) {
   const { slug } = await params;
   const abs = repoPath("people", `${slug}.md`);
@@ -46,6 +92,7 @@ export default async function PersonPage({ params }: Props) {
     (typeof parsed.data.name === "string" && parsed.data.name) ||
     person?.displayName ||
     slug.replace(/-/g, " ");
+  const role = typeof parsed.data.role === "string" ? parsed.data.role : null;
   const treeId = typeof parsed.data.treeId === "string" ? parsed.data.treeId : person?.id;
   const pInfo = treeId ? photoInfoForPerson(treeId) : null;
   const photo = pInfo?.url ?? null;
@@ -54,73 +101,70 @@ export default async function PersonPage({ params }: Props) {
   const spouses = treeId ? getSpouses(tree, treeId) : [];
   const children = treeId ? getChildren(tree, treeId) : [];
 
-  const fatherSlug = father ? personSlugFromPage(father.personPage) : null;
-  const motherSlug = mother ? personSlugFromPage(mother.personPage) : null;
+  const hasFamily = father || mother || spouses.length > 0 || children.length > 0;
+  const aka = person?.alsoKnownAs;
+  const articleContent = stripLeadingH1(parsed.content);
 
   return (
-    <PageShell title={title} subtitle={treeId ? `Tree id ${treeId}` : "Not linked in family-tree.json"}>
-      <div className="mb-8 grid gap-6 lg:grid-cols-[minmax(0,1fr)_240px]">
-        <MarkdownContent content={parsed.content} filePath={parsed.filePath} />
-        <aside className="space-y-4 rounded-xl border border-zinc-200 bg-white p-4 text-sm">
-          {photo ? (
-            <ClickableImage src={photo} alt={title} className="w-full rounded-lg border border-zinc-200 object-cover" style={photoPos ? { objectPosition: photoPos } : undefined} />
-          ) : null}
+    <PageShell title={title} hideHeader>
+      {/* Breadcrumb */}
+      <nav className="mb-4 text-sm text-zinc-400" aria-label="Breadcrumb">
+        <Link href="/people" className="hover:text-zinc-600 transition">
+          People
+        </Link>
+        <span className="mx-1.5">/</span>
+        <span className="text-zinc-600">{title}</span>
+      </nav>
 
-          {person ? (
-            <dl className="space-y-2">
-              {person.birthDate ? (
-                <>
-                  <dt className="font-medium text-zinc-500">Born</dt>
-                  <dd>{person.birthDate}{person.birthPlace ? ` · ${person.birthPlace}` : ""}</dd>
-                </>
-              ) : null}
-              {person.deathDate ? (
-                <>
-                  <dt className="font-medium text-zinc-500">Died</dt>
-                  <dd>{person.deathDate}{person.deathPlace ? ` · ${person.deathPlace}` : ""}</dd>
-                </>
-              ) : null}
-            </dl>
-          ) : null}
-
-          {(father || mother) && (
-            <div>
-              <p className="mb-1.5 font-medium text-zinc-500">Parents</p>
-              <ul className="space-y-1">
-                {father && (
-                  <li>{fatherSlug ? <Link href={`/people/${fatherSlug}`} className="text-sky-700 hover:underline">{father.displayName}</Link> : <span className="text-zinc-400">{father.displayName ?? "Unknown"}</span>}</li>
-                )}
-                {mother && (
-                  <li>{motherSlug ? <Link href={`/people/${motherSlug}`} className="text-sky-700 hover:underline">{mother.displayName}</Link> : <span className="text-zinc-400">{mother.displayName ?? "Unknown"}</span>}</li>
-                )}
-              </ul>
+      {/* Hero card */}
+      <section className="mb-10 overflow-hidden rounded-2xl border border-zinc-200 bg-white shadow-sm">
+        <div className="flex flex-col sm:flex-row">
+          {photo && (
+            <div className="flex-none sm:w-52 md:w-64">
+              <ClickableImage
+                src={photo}
+                alt={title}
+                className="h-64 w-full object-cover sm:h-full sm:rounded-l-2xl"
+                style={photoPos ? { objectPosition: photoPos } : undefined}
+              />
             </div>
           )}
 
-          {spouses.length > 0 && (
+          <div className="flex min-w-0 flex-1 flex-col justify-center gap-3 p-5 sm:p-6">
             <div>
-              <p className="mb-1.5 font-medium text-zinc-500">{spouses.length === 1 ? "Spouse" : "Spouses"}</p>
-              <ul className="space-y-1">
-                {spouses.map((s) => <li key={s.id}><PersonLink person={s} /></li>)}
-              </ul>
+              <h1 className="text-2xl font-bold tracking-tight text-zinc-900 sm:text-3xl">
+                {title}
+              </h1>
+              {aka && aka.length > 0 && (
+                <p className="mt-0.5 text-sm italic text-zinc-400">
+                  {aka.join(" · ")}
+                </p>
+              )}
+              {role && (
+                <p className="mt-1 text-sm font-medium text-zinc-500">{role}</p>
+              )}
             </div>
-          )}
 
-          {children.length > 0 && (
-            <div>
-              <p className="mb-1.5 font-medium text-zinc-500">Children</p>
-              <ul className="space-y-1">
-                {children.map((c) => <li key={c.id}><PersonLink person={c} /></li>)}
-              </ul>
-            </div>
-          )}
+            {person && <VitalsLine person={person} />}
 
-          <div className="flex flex-col gap-2 border-t border-zinc-100 pt-3">
-            <Link href="/chart" className="text-sky-700 hover:underline">Ancestor chart</Link>
-            <Link href="/people" className="text-sky-700 hover:underline">All people</Link>
+            {hasFamily && (
+              <div className="flex flex-col gap-2 border-t border-zinc-100 pt-3">
+                <FamilyLinks label="Parents" people={[father, mother]} />
+                <FamilyLinks
+                  label={spouses.length === 1 ? "Spouse" : "Spouses"}
+                  people={spouses}
+                />
+                <FamilyLinks label="Children" people={children} />
+              </div>
+            )}
           </div>
-        </aside>
-      </div>
+        </div>
+      </section>
+
+      {/* Article body */}
+      <article className="mx-auto max-w-prose">
+        <MarkdownContent content={articleContent} filePath={parsed.filePath} />
+      </article>
     </PageShell>
   );
 }

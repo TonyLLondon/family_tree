@@ -85,6 +85,56 @@ export type AncestorNode = {
   mother: AncestorNode | null;
 };
 
+export function getGenerationCount(tree: FamilyTree): number {
+  const gen = new Map<string, number>();
+  const roots = Object.keys(tree.people).filter((id) => {
+    const p = tree.people[id];
+    return !p.birthUnionId || !(p.birthUnionId in tree.unions);
+  });
+  const queue = roots.map((id) => {
+    gen.set(id, 0);
+    return id;
+  });
+  let head = 0;
+  while (head < queue.length) {
+    const pid = queue[head++];
+    const p = tree.people[pid];
+    for (const uid of p.spouseUnionIds ?? []) {
+      const u = tree.unions[uid];
+      if (!u) continue;
+      for (const cid of u.childIds ?? []) {
+        if (!gen.has(cid)) {
+          gen.set(cid, gen.get(pid)! + 1);
+          queue.push(cid);
+        }
+      }
+    }
+  }
+  let max = 0;
+  gen.forEach((v) => { if (v > max) max = v; });
+  return max + 1;
+}
+
+export function getCenturySpan(tree: FamilyTree): number {
+  let min = Infinity;
+  let max = -Infinity;
+  const yearRe = /\b(\d{4})\b/;
+  for (const p of Object.values(tree.people)) {
+    for (const d of [p.birthDate, p.deathDate]) {
+      if (!d) continue;
+      const m = yearRe.exec(d);
+      if (m) {
+        const y = parseInt(m[1], 10);
+        if (y < min) min = y;
+        if (y > max) max = y;
+      }
+    }
+  }
+  const minCentury = Math.floor((min - 1) / 100) + 1;
+  const maxCentury = Math.floor((max - 1) / 100) + 1;
+  return maxCentury - minCentury + 1;
+}
+
 export function buildAncestorTree(tree: FamilyTree, rootId: string, maxDepth: number): AncestorNode {
   function walk(id: string, depth: number): AncestorNode {
     const person = tree.people[id] ?? null;

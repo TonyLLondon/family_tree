@@ -2,6 +2,8 @@
 
 The **New York Public Library** holds the **Burgess Family Papers**, **4.25 linear feet** of correspondence, Persian-language letters, watercolours, and genealogical material spanning **1794–1929**. The collection is the single richest primary source for the family's century in Persia, and it contains the only surviving first-person account of **Anna Saginian's** life — an 1880 interview that is extraordinary for its emotional detail and its portrait of mid-nineteenth-century Tabriz.
 
+![Anna Saginian and her daughter Fanny Burgess](../media/images/portraits/anna-saginian-fanny-burgess.jpg)
+
 ---
 
 ## The collection
@@ -49,11 +51,15 @@ Edward was buried in the **green Armenian cemetery outside the Tabriz walls**, b
 | **[Fanny Burgess Bottin](../people/fanny-burgess.md)** | Daughter; last correspondent (letters to 1929); d. Tehran 1938 |
 | **Charles Burgess** | Edward's brother; first direct England–Persia exporter; Edward briefly held hostage for Charles's debts (1836) |
 
+![Charles Burgess — portrait painted in Persia](../media/context/tabriz-qajar/charles-burgess-portrait.jpg)
+
 ## Unexamined material
 
 **Box 9** may contain photographic images — no portrait of Edward Burgess is currently known. The **~70 watercolours** in Series VII have not been examined by this project. The Persian letters (Boxes 5–6) are on microfilm but untranscribed.
 
 ## Related scans in the vault
+
+![Persian-language letter from the Burgess collection](../media/collections/burgess-persian-letters/farsi-pages/page-01.jpg)
 
 - [media/collections/burgess-persian-letters/](../media/collections/burgess-persian-letters/) — letter images and PDFs
 - Henderson: [media/albums/henderson/BurgessNYPL.pdf](../media/albums/henderson/BurgessNYPL.pdf)

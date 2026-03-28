@@ -3,12 +3,11 @@ import { SiteNav } from "@/components/SiteNav";
 import { MasterSearch } from "@/components/MasterSearch";
 import { StoryCarousel, type StorySlide } from "@/components/StoryCarousel";
 import { RandomizedPortraits, type PortraitEntry } from "@/components/RandomizedPortraits";
-import { loadFamilyTree } from "@/lib/tree";
+import { loadFamilyTree, getGenerationCount, getCenturySpan } from "@/lib/tree";
 import { buildPhotoInfoMap, focalToObjectPosition } from "@/lib/photos";
-import { countBiographicalPersonPages, getStorySlugs } from "@/lib/content";
+import { getTopicSlugs, countBiographicalPersonPages } from "@/lib/content";
 import { getSiteSearchItems } from "@/lib/siteSearchIndex";
-import { readScrollySidecar, resolveScrollySteps } from "@/lib/scrollytelling";
-import { readStoryCard } from "@/lib/browse";
+import { buildAllStoryCards } from "@/lib/browse";
 
 function getAllPortraits(): PortraitEntry[] {
   const tree = loadFamilyTree();
@@ -32,40 +31,18 @@ function getAllPortraits(): PortraitEntry[] {
 }
 
 function getStorySlides(): StorySlide[] {
-  const slugs = getStorySlugs();
-  return slugs.map((slug) => {
-    const sidecar = readScrollySidecar(slug);
-    const { title: mdTitle } = readStoryCard(slug);
-    if (sidecar) {
-      const resolved = resolveScrollySteps(sidecar);
-      return {
-        slug,
-        title: sidecar.hero.title,
-        subtitle: sidecar.hero.subtitle,
-        era: sidecar.hero.era,
-        heroImage: resolved[0]?.media.src ?? null,
-        heroFocal: resolved[0]?.media.focal,
-        href: `/stories/${encodeURIComponent(slug)}`,
-      };
-    }
-    return {
-      slug,
-      title: mdTitle,
-      subtitle: "",
-      era: "",
-      heroImage: null,
-      href: `/stories/${encodeURIComponent(slug)}`,
-    };
-  });
+  return buildAllStoryCards();
 }
 
 export default function HomePage() {
   const tree = loadFamilyTree();
   const totalPeople = Object.keys(tree.people).length;
-  const totalUnions = Object.keys(tree.unions).length;
-  const personPageCount = countBiographicalPersonPages();
+  const generationCount = getGenerationCount(tree);
+  const centurySpan = getCenturySpan(tree);
   const allPortraits = getAllPortraits();
   const storySlides = getStorySlides();
+  const topicCount = getTopicSlugs().filter((s) => s !== "index").length;
+  const personPageCount = countBiographicalPersonPages();
   const siteSearchItems = getSiteSearchItems();
 
   return (
@@ -87,11 +64,12 @@ export default function HomePage() {
             military citations, diplomatic letters, and family portraits.
           </p>
           <MasterSearch items={siteSearchItems} />
-          <div className="mt-6 flex items-center gap-6 text-sm text-zinc-500">
+          <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-1 text-sm text-zinc-500">
             <span><strong className="text-zinc-900">{totalPeople}</strong> people</span>
-            <span><strong className="text-zinc-900">{totalUnions}</strong> families</span>
-            <span><strong className="text-zinc-900">{personPageCount}</strong> person pages</span>
+            <span><strong className="text-zinc-900">{generationCount}</strong> generations</span>
+            <span><strong className="text-zinc-900">{centurySpan}</strong> centuries</span>
             <span><strong className="text-zinc-900">{storySlides.length}</strong> stories</span>
+            <span><strong className="text-zinc-900">{topicCount}</strong> topics</span>
           </div>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link
@@ -164,7 +142,7 @@ export default function HomePage() {
             Lewis · Evans · Zerauschek · Cerpa
           </p>
           <p className="text-xs text-zinc-400/70">
-            {totalPeople} people · {totalUnions} families · built from the vault
+            {totalPeople} people · {generationCount} generations · {centurySpan} centuries · {storySlides.length} stories · {topicCount} topics
           </p>
         </div>
       </footer>

@@ -31,13 +31,13 @@ Parents: William Evans; Louisa Spencer. Wife: Annie Fensom. Child: Joseph Evans 
 
 ## Evidence
 
-- Portraits: [Alfred Evans.jpg](../media/docs/Alfred%20Evans.jpg) · [Alfred Evans 2.jpg](../media/docs/Alfred%20Evans%202.jpg) — chart mapping in **Export** below.
+- Record images: [Alfred Evans.jpg](../media/docs/Alfred%20Evans.jpg) · [Alfred Evans 2.jpg](../media/docs/Alfred%20Evans%202.jpg) — document scans, not portrait photos.
 - Christening: Holy Redeemer, Exmouth Market, Islington, 19 Feb 1893 (recorded in export; image not yet in `media/docs/`).
 - Sibling batch via father’s file: [GRO birth index capture](../media/docs/GRO%20birth%20index%20Evans%20children%20names%20Emma%20through%20Margaret%20England%20Wales.tif).
 
 **Export:**
 
-- **treeId** **I101** — [web/photo-map.json](../web/photo-map.json) maps **`I101`** to the first portrait path. Parents’ union **F136**; marriage to Annie **F50**.
+- **treeId** **I101** — parents’ union **F136**; marriage to Annie **F50**.
 - **1939 Register:** RG101/0291F/005, schedule 61 — Alfred Evans, costermonger, Islington (citation from export metadata only).
 - [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - **Site:** [Ancestor chart](/chart) — **treeId** **I101** matches YAML.

@@ -3,6 +3,7 @@ import { BrowseGrid, type BrowseItem } from "@/components/BrowseGrid";
 import { PageShell } from "@/components/PageShell";
 import { getTopicSlugs } from "@/lib/content";
 import { readTopicCard } from "@/lib/browse";
+import { photoPublicPath } from "@/lib/photos";
 
 export default function TopicsHubPage() {
   const slugs = getTopicSlugs()
@@ -10,12 +11,13 @@ export default function TopicsHubPage() {
     .sort((a, b) => a.localeCompare(b));
 
   const items: BrowseItem[] = slugs.map((slug) => {
-    const { title, blurb } = readTopicCard(slug);
+    const { title, blurb, heroImage } = readTopicCard(slug);
     return {
       id: slug,
       title,
       subtitle: blurb || undefined,
       href: `/topics/${encodeURIComponent(slug)}`,
+      heroImage: heroImage ? photoPublicPath(heroImage) : undefined,
     };
   });
 

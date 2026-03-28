@@ -19,6 +19,8 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
 
 ### Generation 1 — Qajar military core
 
+![Sartip Davoud Khan Saginian in Qajar uniform](../media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png)
+
 - **[Daoud Khan Saginian](../people/daoud-khan-saginian.md)** (“Mayor Khan”; also *David Saginian*)
   - **Life:** b. c. 1790s; d. mid-19th c. **(est.)**
   - **Identity:** Armenian; **head of the Isfahan army** under the Qajars.
@@ -27,6 +29,8 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Sources:** [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md), [obrien-roche-notes.md](../sources/obrien-roche-notes.md); narrative [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) (opening / Daoud Khan block).
 
 ### Generation 2 — Court, translation, and royal medicine
+
+![Anna Saginian and Fanny Burgess](../media/images/portraits/anna-saginian-fanny-burgess.jpg)
 
 - **[Anna Saginian](../people/anna-saginian.md)** — **m. 1851** — **[Edward Burgess](../people/edward-burgess.md)** *(primary descent line)*
   - **Anna:** Armenian; daughter of Daoud Khan; **~1830** (approx.); death **unknown** in vault.
@@ -42,6 +46,8 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
 
 ### Generation 3 — Late Qajar: industry, lodges, War Ministry
 
+![Julien Bottin, Fanny Burgess, and children](../media/images/portraits/julien-bottin-fanny-burgess-children.jpg)
+
 - **[Fanny Burgess](../people/fanny-burgess.md)** — **m.** **[Julien Bottin](../people/julien-bottin.md)**
   - **Fanny:** **1854–1938** (grave **6 Nov 1938**, age **84**, Tehran Protestant Cemetery); NYPL names **“Fanny Burgess Bottin”**; daughter of Anna + Edward.
   - **Julien:** French engineer, **Tehran**, late 19th–early 20th c.; **Alliance Française** (Tehran); Freemason lodge **“Orient de Tehran”** (1898); **Ministry of War** contract — *Ingénieur mécanicien de l’Arsenal et des manufactures militaires*; **2 years**, **2400 tomans**; arsenal machinery, **30 students** applied mechanics; attendance arsenal, powder factory, cartridge works; ties family to **Persian military-industrial** state, not peripheral expatriate role.
@@ -49,6 +55,8 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Sources:** [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md), [levantine-freemasonry-middle-east.md](../sources/levantine-freemasonry-middle-east.md), [bottin-government-contract.md](../sources/bottin-government-contract.md).
 
 ### Generation 4 — Qajar–Pahlavi transition: scientific profession
+
+![Étienne Stump, Henriette Bottin Burgess, and family](../media/images/portraits/etienne-stump-henriette-bottin-burgess-family.jpg)
 
 - **[Henriette Bottin Burgess](../people/henriette-bottin.md)** — **m.** **[Étienne Stump](../people/etienne-stump.md)**
   - **Henriette:** **c. 1880s** (estimated from parents); death **unknown** in vault; daughter of Fanny + Julien.
@@ -201,6 +209,11 @@ flowchart TB
 Primary documents: [sources/documents/](../sources/documents/) · **media** (albums, scans, PDFs): [media/](../media/) — see [index.md](../index.md)
 
 **Ancestor scope (person pages):** [people/ancestor-coverage-list.md](../people/ancestor-coverage-list.md) — father/mother chain from **Anthony Robert (Tony) Lewis** (`@I1@`) in the MyHeritage GEDCOM export; excludes collateral lines (e.g. Tamar / Cormick).
+
+### Surname studies
+
+- [Saginian](surname-saginian.md) — Georgian *Saginskilli* → Armenian *Saginian*; clan name transformation in Qajar Iran
+- [Stump & Erbe](surname-stump-erbe.md) — the Swiss-Baltic line that married into the Bottin household
 
 ---
 

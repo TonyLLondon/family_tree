@@ -27,7 +27,9 @@ export default async function SourceCardPage({ params }: Props) {
 
   return (
     <PageShell title={title}>
-      <MarkdownContent content={parsed.content} filePath={parsed.filePath} />
+      <article className="mx-auto max-w-prose">
+        <MarkdownContent content={parsed.content} filePath={parsed.filePath} />
+      </article>
     </PageShell>
   );
 }

@@ -2,9 +2,13 @@
 
 In the late Qajar period, the **Ministry of War** hired European technicians to run Tehran's arsenal, powder factory, and cartridge works. **Julien Bottin** — a French engineer who had married into the Burgess–Saginian line — held the post of *Ingénieur mécanicien de l'Arsenal et des manufactures militaires*, overseeing the machinery and training a generation of Persian technical staff.
 
+![Julien Bottin, Fanny Burgess, and children](../media/images/portraits/julien-bottin-fanny-burgess-children.jpg)
+
 ---
 
 ## The contract
+
+![First page of the Bottin government contract](../media/albums/henderson/Bottin-Contract-page01.png)
 
 A surviving contract between the **Ministry of War of Persia** and **Julien Bottin** (preserved in the Henderson family papers) sets out the terms:
 

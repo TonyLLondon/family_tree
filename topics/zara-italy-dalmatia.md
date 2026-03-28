@@ -1,24 +1,75 @@
-# Zara — Italian Dalmatia hub
+# Zara — Italian Dalmatia
 
-**Scope:** Venetian → Habsburg → Italian **Zara** civic and family history for this vault: the **Addobbati** *cittadini* network, **Zerauschek** patriline, interwar **hotels and cafés**, and the bridge to **Fulvia Zerauschek × David John Lewis** (Welsh line). This is the **regional hub** (outline + registers + source table). **Structured tree:** [family-tree.json](../family-tree.json). **Vault map:** [index.md](../index.md).
+**Zara** — today the Croatian city of **Zadar** — was a walled Adriatic port that passed from Venice to Austria, from Austria to France and back, and finally to Italy before being destroyed by Allied bombing in 1943–44 and ceded to Yugoslavia in 1947. Two families in this tree are embedded in that history: the **Addobbati**, Venetian-origin civic notables who arrived as cavalry officers in the 1730s and accumulated legal, ecclesiastical, and political standing across a century; and the **Zerauschek** line, whose patriarch **Antonio** built an interwar empire of hotels, cafés, and factories under Zara's Italian free-port regime — and lost it all under the bombs.
 
-**Naming:** This vault uses the period name **Zara** (Venetian / Italian usage through to 1947); the modern Croatian name is **Zadar**. “Zerauschek” alone is one surname inside this wider Italian-Dalmatian cluster.
+Their daughter **Fulvia Zerauschek** married **David John Lewis**, bridging the Dalmatian and Welsh lines and carrying the stories of both families into the present.
 
----
-
-## How to read this page
-
-| Element | Meaning |
-|--------|--------|
-| **Anchors** | Key people and narratives that define the line (not a full descendant chart). |
-| **Sources table** | Citation cards in `sources/*.md` → corpus bundles under `sources/corpus/<slug>/`. |
-| **Use** | Read **transcription/translation** (and scans) for clippings; use `extracted.*` as a helper. `source.yaml` + corpus folder = citable unit. `scripts/source_coverage_report.py` is an optional link-coverage sweep. |
+![Zara (Zadar), c. 1920](../media/context/dalmatia-habsburg/zara-zadar-1920.jpg)
 
 ---
 
-## Narratives
+## A city between empires
 
-| Essay | Role |
+Zara's identity was shaped by its position as the administrative capital of Dalmatia under successive rulers. Under the **Republic of Venice** (1409–1797), it served as the seat of the Venetian *provveditore generale* — the governor of the entire Dalmatian coast. The city's civic life was organised around a Venetian-style hierarchy: a **patriciate** (*Libro d'Oro*), a **citizen council** (*cittadini originari*), and a wider population of merchants, artisans, and fishermen. Italian was the language of law, administration, and culture; Croatian dominated the hinterland.
+
+When Venice fell to Napoleon in 1797, Dalmatia passed briefly to **Austria**, then to **France** (1806–1813) under the Illyrian Provinces, then back to Austria after the Congress of Vienna. Habsburg rule lasted until 1918. Throughout these changes, the Italian-speaking urban elite — the class to which both the Addobbati and, later, the Zerauscheks belonged — maintained its social position, even as Croatian national consciousness grew in the countryside and the smaller towns.
+
+![Zara — Sandrart engraving, 1686](../media/context/zara-dalmatia/zara-sandrart-1686.jpg)
+
+After the First World War, the **Treaty of Rapallo (1920)** assigned Zara to Italy as a tiny enclave surrounded by the new Kingdom of Serbs, Croats, and Slovenes. The city became a **free port** — its customs exemptions the economic engine that sustained Italian sovereignty over a population of barely 20,000. This was the world Antonio Zerauschek exploited and the world the Allied bombing of 1943–44 destroyed.
+
+---
+
+## The Addobbati — civic family
+
+The Addobbati came to Zara from the Venetian mainland as **cavalry officers** in the 1730s. They were admitted to the Zadar *cittadini* council in **1733** and backed their claim with a **1745 genealogical testimonial from Bergamo** tracing the family to the fifteenth century.
+
+![A Dalmatian wedding, 1877 — Cermak](../media/context/dalmatia-habsburg/cermak-dalmatian-wedding-1877.jpg)
+
+Over the next century the family accumulated markers of civic standing: **Dr. Petar Addobbati** received the papal **[Order of the Golden Spur](order-golden-spur.md)** in **1786**; two brothers were inscribed as **nobles of [Nin](nin-noble-council.md)** in **1804**; the family maintained a notarial register, held postal contracts, and signed petitions defending Italian language rights. Their papers — now the **Addobbati fonds (HR-DAZD-342)** at the State Archive in Zadar — preserve the 1817 Habsburg petition, the Golden Spur diploma, and genealogical documents stretching back to the fifteenth century.
+
+![Portrait of Dr. Pietro Addobbati with the Golden Spur cross on his lapel](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/PAddobbati01.jpg)
+
+The Addobbati were *cittadini*, not patricians — a distinction that mattered. In Zadar they sat below the *Libro d'Oro* families; in Nin they held noble status. When the Habsburgs adjudicated Dalmatian nobility in 1817, they recognised Zadar's patriciate but rejected Nin's communal council, leaving the Addobbati caught between two registers.
+
+---
+
+## The Zerauscheks — interwar Zara
+
+**[Antonio Zerauschek](../people/antonio-zerauschek.md)** (1889–1973) was the son of a carpenter who became one of Zara's most prominent businessmen under Italian rule. He took over the **Caffè Cererija** in 1914, acquired the **Hotel Bristol** (renaming it the **Hotel Excelsior**) around 1936, and in 1937–38 demolished the historic **Caffè Centrale** on the Narodni trg to build a new Nordio-designed hotel and café. His enterprises extended beyond hospitality: the **Manifattura Tabacchi Orientali** (producing the Calypso cigarette brand), the **Ausonia** chocolate factory, and import–export agencies spanning flour to automobiles — all made possible by the free-port tariff regime.
+
+![Antonio Zerauschek and Ester Addobbati](../media/images/portraits/antonio-zerauschek-ester-addobbati.jpg)
+
+Antonio married **[Ester Addobbati](../people/ester-addobbati.md)**, connecting the Zerauschek commercial family to the older Addobbati civic lineage. Their daughter **[Fulvia](../people/fulvia-ottilia-antonia-zerauschek.md)** grew up in this world of Italian Dalmatian bourgeois life — the Società Ginnastica balls, the Circolo Colautti, the waterfront cafés — before the war swept it all away.
+
+---
+
+## Destruction and exile
+
+The **Allied bombing campaigns of 1943–44** devastated Zara. Antonio's obituary in the *Difesa Adriatica* (1973) describes "the anguish of leaving" under bombardment. The family fled to Italy; Antonio resettled in **Florence**, where he died in February 1973, eighteen months after Ester. Their son **[Riccardo](../people/riccardo-zerauschek.md)** spent years in displaced persons processing at Trieste before eventually reaching Florence. The exile community — the *esuli dalmati* — sustained itself through newspapers, mutual aid associations, and the collective memory of a city that had ceased to exist in its Italian form.
+
+The Italian Dalmatian exodus is covered in [Esuli Dalmati — Zara and exile](esuli-dalmati-zara-exile.md).
+
+---
+
+## Anchor people
+
+| Person | Note |
+|--------|------|
+| [Antonio Zerauschek](../people/antonio-zerauschek.md) | Interwar investor; Fulvia's father |
+| [Ester Addobbati](../people/ester-addobbati.md) | Wife; links Addobbati narrative to Zerauschek |
+| [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) | Bridge to [David John Lewis](../people/david-john-lewis.md) |
+| [Pietro Pio Addobbati](../people/pietro-pio-addobbati.md) | Addobbati trunk |
+| [Antonio Zerauschek (senior)](../people/antonio-zerauschek-senior.md) | Carpenter line; father of the hotel Antonio |
+| [Tatiana Machiedo](../people/tatiana-machiedo.md) | [Riccardo](../people/riccardo-zerauschek.md)'s wife; Hvar Machiedo pedigree |
+
+**Parish / civil images:** [media/collections/zerauschek/](../media/collections/zerauschek/)
+
+---
+
+## Stories
+
+| Essay | Scope |
 |--------|------|
 | [Zara — Antonio Zerauschek (interwar)](../stories/zerauschek-zadar.md) | Hotels, cafés, obituary context |
 | [Villa Ester — from the Zerauscheks to Maria Callas](../stories/zerauschek-villa-callas-sirmione.md) | Sirmione villa: ownership chain to Meneghini/Callas |
@@ -26,110 +77,34 @@
 
 ## Topics
 
-- [Zara interwar hotels and cafés](../topics/zadar-interwar-hotels.md)
+- [Nin — the noble council of a Dalmatian commune](nin-noble-council.md)
+- [Zara interwar hotels and cafés](zadar-interwar-hotels.md)
 - [*Il Signor Max* (1937) — Samos cigarettes on screen](il-signor-max-1937.md)
+- [Order of the Golden Spur](order-golden-spur.md)
+- [Esuli Dalmati — Zara and exile](esuli-dalmati-zara-exile.md)
+
+### Surname studies
+
+- [Addobbati](surname-addobbati.md) — "the adorned ones"; Bergamo to Dalmatia; 67 bearers worldwide
+- [Zerauschek](surname-zerauschek.md) — Germanised Slavic "ember"; 14 bearers worldwide
 
 ---
 
-## Anchor people (entry points)
+## Sources
 
-| Person | Note |
-|--------|------|
-| [Antonio Zerauschek](../people/antonio-zerauschek.md) | Interwar investor; Fulvia’s father |
-| [Ester Addobbati](../people/ester-addobbati.md) | Wife; links Addobbati narrative to Zerauschek |
-| [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) | Bridge to [David John Lewis](../people/david-john-lewis.md) |
-| [Pietro Pio Addobbati](../people/pietro-pio-addobbati.md) | Addobbati trunk (see narrative) |
-| [Antonio Zerauschek (senior)](../people/antonio-zerauschek-senior.md) | Carpenter line; father of the hotel Antonio |
-| [Tatiana Machiedo](../people/tatiana-machiedo.md) | [Riccardo](../people/riccardo-zerauschek.md)’s wife; Hvar **Machiedo** pedigree (Kovačić 2014) |
-
-**Parish / civil images:** [media/collections/zerauschek/](../media/collections/zerauschek/)
-
----
-
-## Sources (vault) — Zara / Dalmatia / Addobbati cluster
-
-### Clippings and high-value primary-style
-
-| Topic | Citation card | Corpus bundle |
-|--------|----------------|---------------|
-| Fulvia Zerauschek — family history memoir to PML (18 & 24 Sep 1996) | [famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) | [famhist-nonna-memoir-1996](../sources/corpus/famhist-nonna-memoir-1996/) — PDF + extract |
-| ITS/IRO — Riccardo Zerauschek displaced persons file (Trieste, 1951) | [its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) | [its-iro-riccardo-zerauschek-1951](../sources/corpus/its-iro-riccardo-zerauschek-1951/) — scans + transcription |
-| Kovačić 2014 — Machiedo family of Hvar (pedigree incl. Tatiana Zerauschek née Machiedo) | [kovacic-2014-rod-machiedo-hvar.md](../sources/kovacic-2014-rod-machiedo-hvar.md) | [kovacic-2014-rod-machiedo-hvar](../sources/corpus/kovacic-2014-rod-machiedo-hvar/) — Hrčak PDF + extract + [reference.md](../sources/corpus/kovacic-2014-rod-machiedo-hvar/reference.md) |
-| *Difesa Adriatica* — Antonio Zerauschek obituary (1973) | [difesa-adriatica-1973-zerauschek-obituary.md](../sources/difesa-adriatica-1973-zerauschek-obituary.md) | [difesa-adriatica-1973-antonio-zerauschek-obituary](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/) — transcript + translation |
-| Interwar Zara cafés (web captures) | — | [retrozadar-povijest-kavana-u-zadru](../sources/corpus/retrozadar-povijest-kavana-u-zadru/) · [slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror](../sources/corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/) |
-| *Adaptive cities* (Polito PDF — urban context) | — | [polito-iris-adaptive-cities-volume-completo](../sources/corpus/polito-iris-adaptive-cities-volume-completo/) |
-
-### Villa Ester / Villa Callas — Sirmione
-
-| Topic | Citation card | Corpus bundle |
-|--------|----------------|---------------|
-| *Incom* (1958) — "Telefoni e rose per la villa della Callas" (Savino Mariani, via GBOPERA) | [gbopera-2009-telefoni-e-rose-sirmione-callas.md](../sources/gbopera-2009-telefoni-e-rose-sirmione-callas.md) | [gbopera-2009-telefoni-e-rose-sirmione-callas](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/) |
-| Magazine clipping (c. 1959) — "Per Maria Callas questa villa è una catapecchia" | — | [villa-callas-catapecchia-magazine-c1959](../sources/corpus/villa-callas-catapecchia-magazine-c1959/) — transcript + translation |
-
-### Zerauschek industrial — cigarettes & chocolate
-
-| Topic | Citation card | Corpus bundle |
-|--------|----------------|---------------|
-| Manifattura Zaratina Sigarette — Italian cigarette collection (all Zara manufacturers 1920–43) | [sigaretteitaliane-zara-1920-43.md](../sources/sigaretteitaliane-zara-1920-43.md) | [sigaretteitaliane-zara-1920-43](../sources/corpus/sigaretteitaliane-zara-1920-43/) |
-| Calypso cigarette pack (c. 1940) — collector's database | [zigsam-at-calypso-cigarette-packs.md](../sources/zigsam-at-calypso-cigarette-packs.md) | [zigsam-at-calypso-cigarette-packs](../sources/corpus/zigsam-at-calypso-cigarette-packs/) |
-| Ausonia chocolate factory — Zadarski tjednik photo-feuilleton (2024) | [zadarskitjednik-ausonia-tvornica-cokolade.md](../sources/zadarskitjednik-ausonia-tvornica-cokolade.md) | [zadarskitjednik-ausonia-tvornica-cokolade](../sources/corpus/zadarskitjednik-ausonia-tvornica-cokolade/) |
-| Ausonia / Zerauschek — Poslovni dnevnik (2011) | [poslovni-hr-2011-ausonia-zadar-zerauschek.md](../sources/poslovni-hr-2011-ausonia-zadar-zerauschek.md) | [poslovni-hr-2011-ausonia-zadar-zerauschek](../sources/corpus/poslovni-hr-2011-ausonia-zadar-zerauschek/) |
-
-### DAZD / Nin / nobility / civic context
-
-| Topic | Citation card | Corpus bundle |
-|--------|----------------|---------------|
-| Sabalich — *Guida archeologica di Zara* (1897), pp. 503–509 (Addobbati) | [sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) | [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/) |
-| Addobbati family fonds (DAZD) | [dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) | [dazd-addobbati-family-fonds](../sources/corpus/dazd-addobbati-family-fonds/) |
-| Zara notaries (Angelo Daniele Addobbati register) | [dazd-notaries-zadar.md](../sources/dazd-notaries-zadar.md) | [dazd-notaries-zadar](../sources/corpus/dazd-notaries-zadar/) |
-| Petricioli family (DAZD) | [dazd-hr-dazd-497-petricioli-family.md](../sources/dazd-hr-dazd-497-petricioli-family.md) | [dazd-hr-dazd-497-petricioli-family](../sources/corpus/dazd-hr-dazd-497-petricioli-family/) |
-| Filippi family (DAZD) | [dazd-hr-dazd-355-filippi-family.md](../sources/dazd-hr-dazd-355-filippi-family.md) | [dazd-hr-dazd-355-filippi-family](../sources/corpus/dazd-hr-dazd-355-filippi-family/) |
-| Nin — Općina Nin (ARHiNET) | — | [arhinet-hr-dazd-12-opcina-nin](../sources/corpus/arhinet-hr-dazd-12-opcina-nin/) |
-| DAZD finding-aids index | — | [dazd-obavijesna-pomagala-index](../sources/corpus/dazd-obavijesna-pomagala-index/) |
-| Nin nobles — HAZU DIZBI 1817 | — | [hazu-dizbi-nin-nobles-list-1817](../sources/corpus/hazu-dizbi-nin-nobles-list-1817/) |
-| Nin nobles — Granić 2014 | — | [granic-2014-popis-plemenica-nina](../sources/corpus/granic-2014-popis-plemenica-nina/) |
-| Nin noble list 1817 (Granić register) | — | [granic-nin-noble-list-1817](../sources/corpus/granic-nin-noble-list-1817/) |
-| Pritičević Nin nobility (Hrčak) | — | [hazu-hrcak-anzulovic-priticevic-nin-noble-family](../sources/corpus/hazu-hrcak-anzulovic-priticevic-nin-noble-family/) |
-| Zara nobility / French administration | [celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md) | [celic-zadarsko-plemstvo-francuska-uprava](../sources/corpus/celic-zadarsko-plemstvo-francuska-uprava/) |
-| Società Dalmata / 1909 protest list context | — | [societa-dalmata-storia-patria-2017](../sources/corpus/societa-dalmata-storia-patria-2017/) |
-
-### Venetian / citizenship / urban elites (secondary PDFs)
-
-| Topic | Citation card | Corpus bundle |
-|--------|----------------|---------------|
-| Venetian citizenship (HistoryWalks) | [historywalks-venetian-citizenship.md](../sources/historywalks-venetian-citizenship.md) | [historywalks-venetian-citizenship](../sources/corpus/historywalks-venetian-citizenship/) |
-| *Cittadini originari* ch. 3 (Ca’ Foscari) | [venetian-cittadini-originari-ch3.md](../sources/venetian-cittadini-originari-ch3.md) | [venetian-cittadini-originari-ch3](../sources/corpus/venetian-cittadini-originari-ch3/) |
-| Italian consuls Split | [dalbello-consular-italiani-spalato.md](../sources/dalbello-consular-italiani-spalato.md) | [dalbello-consular-italiani-spalato](../sources/corpus/dalbello-consular-italiani-spalato/) |
-| Urban elites (Viella) | — | [viella-urban-elites-download](../sources/corpus/viella-urban-elites-download/) |
-
-### Addobbati — military archive excerpts
-
-| Topic | Citation card | Corpus bundle |
-|--------|----------------|---------------|
-| Simeone Gilberto — KA/ÖStA excerpts | [addobbati-simeone-oesta-kriegsarchiv-excerpts.md](../sources/addobbati-simeone-oesta-kriegsarchiv-excerpts.md) | [addobbati-simeone-oesta-kriegsarchiv-excerpts](../sources/corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/) |
-| Digital reference list | [simeone-addobbati-digital-references.md](../sources/simeone-addobbati-digital-references.md) | *(pointers only; ingest as needed)* |
-
-### Wishlist / acquisition
-
-- [wishlist/addobbati-dazd-zkzd.md](../sources/wishlist/addobbati-dazd-zkzd.md)
-
----
-
-## Source processing — what “done” means here
-
-1. **Ingested:** `sources/corpus/<slug>/source.yaml` exists; bytes or fetch recorded where applicable.  
-2. **Machine extract:** `extracted.pdf.md` or `extracted.web.md` present (may be stub for huge PDFs — see bundle notes).  
-3. **Human layer (high-stakes):** for newspapers and obituaries, prefer **transcription + translation** registered in `source.yaml` (pattern used for *Difesa Adriatica* and DIGAR *Revalsche Zeitung*).  
-4. **Card:** thin `sources/<name>.md` links people and points at the corpus folder (YAML `corpus:` where you use it).
-
-**Repo-wide automation:** from repo root, `.venv/bin/python scripts/source_coverage_report.py` — lists corpus bundles with no inbound link from vault `*.md` (excluding `sources/corpus/` internals), and top-level cards that do not reference `corpus/`. **Regenerate full slug index:** `.venv/bin/python scripts/generate_corpus_bibliography.py` → [sources/corpus-bibliography.md](../sources/corpus-bibliography.md).
-
-**Inbox for new drops:** [manual/README.md](../manual/README.md)
-
-**Working research:** [Riccardo Zerauschek — IRO dates, Luxardo chronology, HNK Split overlap](../research/zadar/riccardo-zerauschek-war-exile-luxardo-chronology.md).
+| Source | Location |
+|--------|----------|
+| Fulvia Zerauschek — family history memoir (1996) | [source card](../sources/famhist-nonna-memoir-1996.md) |
+| *Difesa Adriatica* — Antonio Zerauschek obituary (1973) | [source card](../sources/difesa-adriatica-1973-zerauschek-obituary.md) |
+| Sabalich — *Guida archeologica di Zara* (1897) | [source card](../sources/sabalich-guida-zara.md) |
+| DAZD Addobbati family fonds (HR-DAZD-342) | [source card](../sources/dazd-addobbati-family-fonds.md) |
+| Granić — Nin noble list 1817 | [source card](../sources/granic-nin-noble-list-1817.md) |
+| ITS/IRO — Riccardo Zerauschek displaced persons file | [source card](../sources/its-iro-riccardo-zerauschek-1951.md) |
+| Venetian *cittadini originari* (Ca' Foscari) | [source card](../sources/venetian-cittadini-originari-ch3.md) |
+| Kovačić 2014 — Machiedo family of Hvar | [source card](../sources/kovacic-2014-rod-machiedo-hvar.md) |
 
 ---
 
 ## Related
 
-- [Lewis (Wales) · Stump (Europe)](lewis-wales-stump-europe.md) — Fulvia’s descent into the Welsh line; Ireland / Baltic corpus clusters.
+- [Lewis (Wales) · Stump (Europe)](lewis-wales-stump-europe.md) — Fulvia's descent into the Welsh line

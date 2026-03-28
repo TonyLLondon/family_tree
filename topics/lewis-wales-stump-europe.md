@@ -21,6 +21,8 @@ This hub is the **outline + source register** for everything that is *not* the P
 
 ## Anchor people
 
+![Samuel Lewis and Lily Cushen, c. 1917](../media/images/portraits/samuel-lewis-lily-cushen-c1917.png)
+
 | Person | Role |
 |--------|------|
 | [Anthony Robert Lewis](../people/anthony-robert-lewis.md) | Present-day anchor in [family-tree.json](../family-tree.json) |
@@ -52,6 +54,13 @@ Fan charts and PPTX decks (not primary sources): **[archive/sun-charts/](../arch
 **Full corpus slug index:** [sources/corpus-bibliography.md](../sources/corpus-bibliography.md)
 
 **Reading order:** open `transcription*` / `translation*` in each bundle before trusting `extracted.*` alone. Optional: `scripts/corpus_extract_health.py` flags thin machine extracts.
+
+---
+
+## Surname studies
+
+- [Lewis](surname-lewis.md) — Welsh patronymic from *Llywelyn*; the naming problem of Welsh genealogy
+- [Stump & Erbe](surname-stump-erbe.md) — Swiss-German topographic name and Baltic-German "heir"
 
 ---
 

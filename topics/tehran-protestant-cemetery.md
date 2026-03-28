@@ -24,6 +24,10 @@ In **1967** the municipality briefly refused to permit the burial of a Swiss nat
 
 ## Family burials
 
+![Grave marker of Fanny Burgess Bottin, died 1938 aged 84](../media/docs/Grave%20marker%20Fanny%20Burgess%20Bottin%20died%201938%20aged%2084.jpg)
+
+![Grave marker of Dr Étienne Stump, 1880–1951](../media/docs/Grave%20marker%20Etienne%20Stump%201880-1951%20ICI%20REPOSE.png)
+
 | Person | Died | Age | Marker |
 |--------|------|-----|--------|
 | **[Fanny Burgess Bottin](../people/fanny-burgess.md)** | 6 Nov 1938 | 84 | [Grave marker](../media/docs/Grave%20marker%20Fanny%20Burgess%20Bottin%20died%201938%20aged%2084.jpg) |
@@ -32,6 +36,8 @@ In **1967** the municipality briefly refused to permit the burial of a Swiss nat
 Fanny was the daughter of **[Edward Burgess](../people/edward-burgess.md)** (d. 1855, buried in the **Armenian cemetery outside Tabriz**) and **[Anna Saginian](../people/anna-saginian.md)**. She married **[Julien Bottin](../people/julien-bottin.md)**, the French arsenal engineer. Their daughter **[Henriette](../people/henriette-bottin.md)** married Étienne Stump. The two graves at Akbarabad — mother-in-law and son-in-law — close a century of the family's presence in Iran.
 
 Earlier generations lie elsewhere: **Edward Burgess** in the Armenian cemetery at Tabriz, near the graves of his father-in-law **[Daoud Khan Saginian](../people/daoud-khan-saginian.md)** and the Cormick family.
+
+![Armenian cemetery at Tabriz, 2021](../media/context/tabriz-qajar/tabriz-armenian-cemetery-2021.jpg)
 
 ## Sources
 

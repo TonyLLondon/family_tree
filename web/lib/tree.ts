@@ -10,6 +10,8 @@ export {
   getSpouses,
   getChildren,
   buildAncestorTree,
+  getGenerationCount,
+  getCenturySpan,
 } from "./genealogy";
 
 let cached: FamilyTree | null = null;

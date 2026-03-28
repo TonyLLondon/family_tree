@@ -137,6 +137,7 @@ function FrontmatterTable({ data }: { data: Record<string, unknown> }) {
           Front matter
         </h2>
       </div>
+      <div className="overflow-x-auto">
       <table className="w-full text-sm">
         <tbody>
           {entries.map(([key, value]) => (
@@ -158,6 +159,7 @@ function FrontmatterTable({ data }: { data: Record<string, unknown> }) {
           ))}
         </tbody>
       </table>
+      </div>
     </section>
   );
 }
@@ -214,7 +216,9 @@ function MarkdownView({
         <FileHeader filePath={filePath} rawUrl={rawUrl} />
         {hasFrontmatter && <FrontmatterTable data={data} />}
         <MachineExtractNotice filePath={filePath} />
-        <MarkdownContent content={content} filePath={filePath} />
+        <article className="mx-auto max-w-prose">
+          <MarkdownContent content={content} filePath={filePath} />
+        </article>
       </main>
     </>
   );

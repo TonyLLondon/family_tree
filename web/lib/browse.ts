@@ -1,7 +1,9 @@
 import fs from "fs";
-import path from "path"; // path.join for corpus files
-import { readMarkdownFile as readMd } from "./content";
+import path from "path";
+import { readMarkdownFile as readMd, getStorySlugs } from "./content";
 import { repoPath } from "./paths";
+import { photoPublicPath } from "./photos";
+import { readScrollySidecar, resolveScrollySteps } from "./scrollytelling";
 
 /** First markdown H1 line in body (after frontmatter). */
 export function extractFirstHeading(markdownBody: string): string | null {
@@ -81,20 +83,43 @@ export function readSourceCardTitle(segments: string[]): { title: string; blurb:
   return { title, blurb };
 }
 
-export function readTopicCard(slug: string): { title: string; blurb: string } {
-  const abs = repoPath("topics", `${slug}.md`);
-  if (!fs.existsSync(abs)) return { title: titleFromSlug(slug), blurb: "" };
-  const parsed = readMd(abs);
-  const h1 = extractFirstHeading(parsed.content);
-  return { title: h1 ?? titleFromSlug(slug), blurb: extractBlurb(parsed.content) };
+/** Extract the first image reference from body text.
+ *  Prefers `![alt](path)` syntax; falls back to `[label](path.jpg)` links. */
+export function extractFirstImage(markdownBody: string): string | null {
+  const explicit = markdownBody.match(/!\[[^\]]*\]\(([^)]+)\)/);
+  if (explicit) return explicit[1];
+  const linkImg = markdownBody.match(/\[[^\]]*\]\(([^)]+\.(?:jpe?g|png|gif|webp|jfif)(?:\?[^)]*)?)\)/i);
+  return linkImg ? linkImg[1] : null;
 }
 
-export function readStoryCard(slug: string): { title: string; blurb: string } {
-  const abs = repoPath("stories", `${slug}.md`);
-  if (!fs.existsSync(abs)) return { title: titleFromSlug(slug), blurb: "" };
+export function readTopicCard(slug: string): { title: string; blurb: string; heroImage: string | null } {
+  const abs = repoPath("topics", `${slug}.md`);
+  if (!fs.existsSync(abs)) return { title: titleFromSlug(slug), blurb: "", heroImage: null };
   const parsed = readMd(abs);
   const h1 = extractFirstHeading(parsed.content);
-  return { title: h1 ?? titleFromSlug(slug), blurb: extractBlurb(parsed.content) };
+  const rawImg = extractFirstImage(parsed.content);
+  let heroImage: string | null = null;
+  if (rawImg) {
+    heroImage = path.resolve(path.dirname(abs), rawImg);
+    const rel = path.relative(repoPath(), heroImage);
+    heroImage = rel.startsWith("..") ? null : rel;
+  }
+  return { title: h1 ?? titleFromSlug(slug), blurb: extractBlurb(parsed.content), heroImage };
+}
+
+export function readStoryCard(slug: string): { title: string; blurb: string; heroImage: string | null } {
+  const abs = repoPath("stories", `${slug}.md`);
+  if (!fs.existsSync(abs)) return { title: titleFromSlug(slug), blurb: "", heroImage: null };
+  const parsed = readMd(abs);
+  const h1 = extractFirstHeading(parsed.content);
+  const rawImg = extractFirstImage(parsed.content);
+  let heroImage: string | null = null;
+  if (rawImg) {
+    heroImage = path.resolve(path.dirname(abs), rawImg);
+    const rel = path.relative(repoPath(), heroImage);
+    heroImage = rel.startsWith("..") ? null : rel;
+  }
+  return { title: h1 ?? titleFromSlug(slug), blurb: extractBlurb(parsed.content), heroImage };
 }
 
 export function readCorpusCard(slug: string): { title: string; blurb: string } {
@@ -133,4 +158,47 @@ export function readResearchOrManualCard(
   const parsed = readMd(abs);
   const h1 = extractFirstHeading(parsed.content);
   return { title: h1 ?? titleFromSlug(segments[segments.length - 1] ?? ""), blurb: extractBlurb(parsed.content) };
+}
+
+export interface StoryCardInfo {
+  slug: string;
+  title: string;
+  subtitle: string;
+  era: string;
+  blurb: string;
+  heroImage: string | null;
+  heroFocal?: [number, number];
+  href: string;
+}
+
+export function buildAllStoryCards(): StoryCardInfo[] {
+  const slugs = getStorySlugs();
+  return slugs.map((slug) => {
+    const sidecar = readScrollySidecar(slug);
+    const { title: mdTitle, blurb, heroImage: mdHero } = readStoryCard(slug);
+
+    if (sidecar) {
+      const resolved = resolveScrollySteps(sidecar);
+      return {
+        slug,
+        title: sidecar.hero.title,
+        subtitle: sidecar.hero.subtitle,
+        era: sidecar.hero.era,
+        blurb,
+        heroImage: resolved[0]?.media.src ?? null,
+        heroFocal: resolved[0]?.media.focal,
+        href: `/stories/${encodeURIComponent(slug)}`,
+      };
+    }
+
+    return {
+      slug,
+      title: mdTitle,
+      subtitle: "",
+      era: "",
+      blurb,
+      heroImage: mdHero ? photoPublicPath(mdHero) : null,
+      href: `/stories/${encodeURIComponent(slug)}`,
+    };
+  });
 }

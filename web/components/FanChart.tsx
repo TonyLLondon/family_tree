@@ -193,10 +193,10 @@ const ROOT_GAP = 36;
 function ZoomControls() {
   const { zoomIn, zoomOut, resetTransform } = useControls();
   return (
-    <div className="absolute right-3 top-3 z-10 flex items-center gap-1.5 rounded-lg border border-zinc-300 bg-white/95 px-1.5 py-1 shadow-sm backdrop-blur">
+    <div className="absolute right-3 top-3 z-10 flex items-center gap-1 rounded-lg border border-zinc-300 bg-white/95 px-1 py-0.5 shadow-sm backdrop-blur">
       <button
         type="button"
-        className="rounded px-2 py-0.5 text-base font-bold text-zinc-700 hover:bg-zinc-100"
+        className="flex min-h-[44px] min-w-[44px] items-center justify-center rounded text-base font-bold text-zinc-700 hover:bg-zinc-100 active:bg-zinc-200"
         aria-label="Zoom out"
         onClick={() => zoomOut()}
       >
@@ -204,7 +204,7 @@ function ZoomControls() {
       </button>
       <button
         type="button"
-        className="rounded px-2 py-0.5 text-[11px] font-semibold text-zinc-500 hover:bg-zinc-100"
+        className="flex min-h-[44px] items-center justify-center rounded px-2 text-[11px] font-semibold text-zinc-500 hover:bg-zinc-100 active:bg-zinc-200"
         aria-label="Reset zoom"
         onClick={() => resetTransform()}
       >
@@ -212,7 +212,7 @@ function ZoomControls() {
       </button>
       <button
         type="button"
-        className="rounded px-2 py-0.5 text-base font-bold text-zinc-700 hover:bg-zinc-100"
+        className="flex min-h-[44px] min-w-[44px] items-center justify-center rounded text-base font-bold text-zinc-700 hover:bg-zinc-100 active:bg-zinc-200"
         aria-label="Zoom in"
         onClick={() => zoomIn()}
       >

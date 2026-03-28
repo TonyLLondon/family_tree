@@ -2,6 +2,8 @@
 
 In the last years of the Qajar dynasty, Freemasonry became entangled with constitutionalism, French cultural diplomacy, and the modernizing ambitions of Tehran's European professional class. **Julien Bottin** — French arsenal engineer and member of the Burgess–Saginian family — was a founding organizer of the lodge that would become the **Réveil de l'Iran** (*Bidari-ye Iran*), the most significant masonic body in constitutional-era Persia.
 
+![Julien Bottin with Henriette Bottin Burgess](../media/images/portraits/julien-bottin-henriette-bottin-burgess.jpg)
+
 ---
 
 ## Before the lodge: the Alliance Française

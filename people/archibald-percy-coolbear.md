@@ -140,11 +140,11 @@ The Fold3 record exists (confirming the card was once indexed) but the physical 
 
 - **Export:** **treeId** **I103** — unions **F51**, **F52** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - **treeId** **I103** — same id as YAML above; vitals align to structured graph used for this file.
-- Web chart portrait: [web/photo-map.json](../web/photo-map.json) maps **`I103`** → `media/docs/Cool Bear, Archibald Percy (125257).jpg`.
+- Record image: `media/docs/Cool Bear, Archibald Percy (125257).jpg` — Ministry of Pensions card, not a portrait photo.
 
-### Surname origins — Colbia / Coolbar / Colbear / Coolbear (Mundon, Essex)
+### Surname origins
 
-The Coolbear surname traces to a single Essex cluster. A [Wilkinson–Ransome family tree](https://www.wilkinsonransomefamilytree.co.uk/fam9112.html) documents **John Colbia** (b. c. 1807, Purleigh, Essex) and **Mary Barnard** (b. c. 1807, Tollesbury, Essex), married 29 Sep 1832 at Tollesbury. Their children were recorded under evolving spellings: **Coolbar** (1841 census), **Colbear** (birth index), **Coolbear** (1851 census) — all in **Mundon**, near Maldon. One child, **David Coolbear** (b. 1843, Mundon), emigrated to Utah with his mother; another, **John Colbear** (b. 1840, Mundon), stayed in Essex. The [SurnameDB entry](https://www.surnamedb.com/Surname/coolbear) traces the name to Old English "Cole" + "baer" (pasture), originating in Devon before migrating to Essex. **George Gridley Coolbear** (Archibald's father) fits squarely into this Maldon-district lineage — the same parish cluster where the Colbia/Coolbear family is documented from the 1830s.
+The Coolbear surname traces to a single Essex cluster around Mundon and Maldon on the Blackwater estuary, drifting through four spellings in two generations: Colbia → Coolbar → Colbear → Coolbear. Full etymology, variant spellings, and the Mundon parish cluster: **[Surname: Coolbear](../topics/surname-coolbear.md)**.
 
 ## Open questions
 

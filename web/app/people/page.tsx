@@ -3,6 +3,7 @@ import { PageShell } from "@/components/PageShell";
 import { getPeopleSlugs } from "@/lib/content";
 import { titleFromSlug } from "@/lib/browse";
 import { getPersonBySlug, loadFamilyTree } from "@/lib/tree";
+import { photoInfoForPerson } from "@/lib/photos";
 
 export default function PeopleIndexPage() {
   const slugs = getPeopleSlugs().sort((a, b) => a.localeCompare(b));
@@ -16,12 +17,15 @@ export default function PeopleIndexPage() {
     if (p?.deathDate) parts.push(`d. ${p.deathDate}`);
     if (p?.birthPlace && !p?.deathDate) parts.push(p.birthPlace);
     const subtitle = parts.length ? parts.join(" · ") : undefined;
+    const photo = p?.id ? photoInfoForPerson(p.id) : null;
     return {
       id: slug,
       title,
       subtitle,
       href: `/people/${encodeURIComponent(slug)}`,
       meta: p?.id ? `Tree ${p.id}` : undefined,
+      heroImage: photo?.url ?? undefined,
+      heroFocal: photo?.focal,
     };
   });
 

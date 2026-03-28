@@ -48,3 +48,18 @@ h1, h2, h3 {
   --tw-prose-td-borders: #e4e4e7;
   --tw-prose-captions: #71717a;
 }
+
+/*
+ * iOS WebKit auto-zoom prevention.
+ * Safari/Chrome on iOS zooms the viewport when a focused input has computed
+ * font-size < 16px. This global rule ensures every input/textarea/select
+ * is always at least 16px. We keep the visual appearance compact via
+ * padding and line-height rather than reducing font-size below the threshold.
+ */
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  input,
+  textarea,
+  select {
+    font-size: max(16px, 1em);
+  }
+}

@@ -32,11 +32,11 @@ export function MasterSearch({ items }: { items: BrowseItem[] }) {
   }, [needle]);
 
   useEffect(() => {
-    const onDoc = (e: MouseEvent) => {
+    const onDoc = (e: PointerEvent) => {
       if (!rootRef.current?.contains(e.target as Node)) setOpen(false);
     };
-    document.addEventListener("mousedown", onDoc);
-    return () => document.removeEventListener("mousedown", onDoc);
+    document.addEventListener("pointerdown", onDoc);
+    return () => document.removeEventListener("pointerdown", onDoc);
   }, []);
 
   const onKeyDown = useCallback((e: KeyboardEvent<HTMLInputElement>) => {

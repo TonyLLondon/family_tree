@@ -79,7 +79,7 @@ export function StoryCarousel({ slides }: { slides: StorySlide[] }) {
               aria-label="Previous"
               onClick={() => scroll(-1)}
               disabled={!canScrollLeft}
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-zinc-200 bg-white text-zinc-600 shadow-sm transition hover:bg-zinc-50 disabled:cursor-default disabled:opacity-30"
+              className="flex h-11 w-11 items-center justify-center rounded-full border border-zinc-200 bg-white text-zinc-600 shadow-sm transition hover:bg-zinc-50 active:bg-zinc-100 disabled:cursor-default disabled:opacity-30"
             >
               <svg
                 width="16"
@@ -99,7 +99,7 @@ export function StoryCarousel({ slides }: { slides: StorySlide[] }) {
               aria-label="Next"
               onClick={() => scroll(1)}
               disabled={!canScrollRight}
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-zinc-200 bg-white text-zinc-600 shadow-sm transition hover:bg-zinc-50 disabled:cursor-default disabled:opacity-30"
+              className="flex h-11 w-11 items-center justify-center rounded-full border border-zinc-200 bg-white text-zinc-600 shadow-sm transition hover:bg-zinc-50 active:bg-zinc-100 disabled:cursor-default disabled:opacity-30"
             >
               <svg
                 width="16"
@@ -135,7 +135,7 @@ export function StoryCarousel({ slides }: { slides: StorySlide[] }) {
                   <img
                     src={s.heroImage}
                     alt=""
-                    className="absolute inset-0 h-full w-full object-cover transition duration-500 group-hover:scale-105"
+                    className="absolute inset-0 h-full w-full object-cover transition duration-500 group-hover:scale-105 group-active:scale-105"
                     style={s.heroFocal ? { objectPosition: `${Math.round(s.heroFocal[0] * 100)}% ${Math.round(s.heroFocal[1] * 100)}%` } : undefined}
                     draggable={false}
                   />

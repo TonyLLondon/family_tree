@@ -37,11 +37,9 @@ Whether Antonio Zerauschek paid for this placement or whether the props departme
 | Still | Description |
 |-------|-------------|
 | [Samos pack close-up](../media/docs/fulvia-lewis-photos/zara-album-01/zerauschek-business/samos-il-signor-max-1937-still.png) | Samos cigarette pack on the edicola counter, circular logo visible, De Sica's hand reaching for it |
-| [Samos pack wide shot](../media/docs/fulvia-lewis-photos/zara-album-01/zerauschek-business/il-signor-max-1937-edicola-samos-wide.png) | Second angle: pack lying flat on the counter during the kiosk scene |
-| [Lauretta at the kiosk](../media/docs/fulvia-lewis-photos/zara-album-01/zerauschek-business/il-signor-max-1937-lauretta-kiosk.png) | Assia Noris as Lauretta at the edicola, studying Gianni |
 | ["Do you smoke this brand?"](../media/docs/fulvia-lewis-photos/zara-album-01/zerauschek-business/il-signor-max-1937-lauretta-do-you-smoke-this-brand.png) | Lauretta's question — the moment the cigarette brand becomes the test of identity |
 | ["Not normally, but I do for this special occasion..."](../media/docs/fulvia-lewis-photos/zara-album-01/zerauschek-business/il-signor-max-1937-de-sica-special-occasion.png) | De Sica as Gianni/Max deflecting — the brand positioned as both everyday and aspirational |
-| [Film credits page (Zara album)](../media/docs/fulvia-lewis-photos/zara-album-01/miscellaneous/SigMax.jpg) | Credits page for *Il Signor Max* kept by Fulvia Zerauschek in the family's Zara album, alongside business documents and cigarette labels |
+| [Film promotional material (Zara album)](../media/docs/fulvia-lewis-photos/zara-album-01/miscellaneous/SigMax.jpg) | Promotional material for *Il Signor Max* kept by Fulvia Zerauschek in the family's Zara album, alongside business documents and cigarette labels |
 
 ---
 
@@ -49,7 +47,7 @@ Whether Antonio Zerauschek paid for this placement or whether the props departme
 
 **Samos** was one of the core brands of the **Manifattura Zaratina Sigarette S.A.**, owned by [Antonio Zerauschek](../people/antonio-zerauschek.md) from **27 May 1928** when he acquired the company from Niccolò Peristeridis. The full brand portfolio: **Calitea, Calypso, Diadora, Flavia, Lampo, Radio, Raminga, Samos, Samos Export, Si**. The cigarettes were manufactured in **Zara** (modern Zadar, Croatia), which sat outside the Italian customs line as a free port — making them classified as "foreign" tobacco in mainland Italy. That exotic positioning — an Oriental cigarette from the Dalmatian periphery — may explain why Samos was chosen as the brand for a Roman edicola scene: it was real, available, and carried a whiff of the foreign.
 
-The family tradition, passed down through [Fulvia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md), held that Zerauschek cigarettes had appeared in Italian films of the 1930s–40s. The tradition never specified which brand — and the evidence shows it was **Samos**, not Calypso. Fulvia kept a credits page for *Il Signor Max* ([SigMax.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/miscellaneous/SigMax.jpg)) in her pre-marriage Zara album, filed alongside Antonio's business card, Ausonia chocolate letterheads, Raimondi watercolour commissions, and the original Samos/Calypso packet label designs. The credits page was not a casual keepsake — it sat among business evidence, suggesting the family understood the film connection as a commercial achievement.
+The family tradition, passed down through [Fulvia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md), held that Zerauschek cigarettes had appeared in Italian films of the 1930s–40s. The tradition never specified which brand — and the evidence shows it was **Samos**, not Calypso. Fulvia kept promotional material for *Il Signor Max* ([SigMax.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/miscellaneous/SigMax.jpg)) in her pre-marriage Zara album, filed alongside Antonio's business card, Ausonia chocolate letterheads, Raimondi watercolour commissions, and the original Samos/Calypso packet label designs. The promotional material was not a casual keepsake — it sat among business evidence, suggesting the family understood the film connection as a commercial achievement.
 
 ---
 
@@ -69,7 +67,7 @@ The Samos placement in *Il Signor Max* is qualitatively different. The industry 
 
 In *Il Signor Max*, Samos is visually prominent (close-ups of the pack), verbally referenced in dialogue ("Do you smoke this brand?" / "Not normally, but I do for this special occasion..."), and **plot-critical** — it is the physical evidence that tests the dual identity at the heart of the film. The brand also carries thematic weight, bridging the class divide between the kiosk vendor and the fake aristocrat. This is full narrative brand integration, and it precedes by decades the examples usually cited as milestones: **Reese's Pieces** in *E.T.* (1982), **FedEx** in *Cast Away* (2000), **Taco Bell** in *Demolition Man* (1993).
 
-Whether Antonio Zerauschek paid for this placement or achieved it through informal channels — Zara's business community had connections across Adriatic Italy, and the Manifattura Zaratina's "foreign" cigarettes were a real product sold at Roman edicole — remains unknown. The family's retention of the film's credits page among business documents suggests they understood it as a commercial achievement rather than a coincidence.
+Whether Antonio Zerauschek paid for this placement or achieved it through informal channels — Zara's business community had connections across Adriatic Italy, and the Manifattura Zaratina's "foreign" cigarettes were a real product sold at Roman edicole — remains unknown. The family's retention of the film's promotional material among business documents suggests they understood it as a commercial achievement rather than a coincidence.
 
 ---
 

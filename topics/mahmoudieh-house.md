@@ -82,6 +82,8 @@ After the 1979 Revolution the hotel was nationalized and renamed **Hotel Esteghl
 
 ## Dr. Stump's villa (memoir and newspaper accounts)
 
+![Étienne Stump, Henriette Bottin Burgess, and family](../media/images/portraits/etienne-stump-henriette-bottin-burgess-family.jpg)
+
 - **Abdullah Mustawfi**, *Sharh-e Zendegani-ye Man* — English translation: **Abdollah Mostofi**, *Administrative and Social History of the Qajar Period* (3 vol.), tr. Nayer Mostofi-Glenn, **Mazda Publishers**, **1997**, ISBN **1-56859-041-5** — [publisher page](http://www.mazdapublishers.com/book/administrative-and-social-history-of-the-qajar-period). Mustawfi calls Stump "German" in one dental anecdote while naming him owner of Mahmoudieh; the house/land reference is in **vol. 1**.
 - **Dr. Mohsen Sayyah** (c. 1927, via Beytoote): Stump built a **magnificent villa in old Mahmoudieh between Tajrish and Evin**, with valuable antiques and precious carpets. See [Beytoote translation](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md) §4.
 - **Hamshahri Online (2022)** ([translation](../sources/corpus/hamshahri-mahmoudieh-stump/translation.en.md)): Stump bought a large portion from **Mohammad Hossein Amin al-Zarb** (محمدحسین امین‌الضرب, 1872–1932); built a house and farmed there.
@@ -94,7 +96,7 @@ After the 1979 Revolution the hotel was nationalized and renamed **Hotel Esteghl
 
 **Vera's background:** Born into Russian nobility (likely 1890s), she married **Prince Yuri Obolensky** before WWI. They fled the 1917 Revolution via the Caucasus to Tehran. Their son **Georges (Yuri) Obolensky** was born in Tehran in 1920. After Prince Yuri's death (~1925, malaria), Vera remained in Tehran as a widow and began managing the guesthouse. **Note:** the Ancestry record for Georges lists his mother as "Vera Nemtchinova" — this is **not** the ballerina [Vera Nemtchinova](https://en.wikipedia.org/wiki/Vera_Nemtchinova) (1899–1984), who is a different person.
 
-**Portrait:** [Vera and Georges, c. 1920s Tehran](../media/collections/stump-etienne/vera-obolensky-and-georges.png).
+![Vera Obolensky and son Georges, c. 1920s Tehran](../media/collections/stump-etienne/vera-obolensky-and-georges.png)
 
 **Sources:** Georges Obolensky, *Forever Russian* (AuthorHouse, 2013); [NYT death notice (14 Nov 1974)](../sources/corpus/vera-obolensky-death-notice-nytimes-2644e85dac/); ["Princess Obolensky" (ProQuest)](../sources/corpus/princess-obolensky-abbcc58ed8/); [source card](../sources/vera-obolensky-tehran.md).
 

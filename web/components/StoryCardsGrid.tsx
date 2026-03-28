@@ -68,7 +68,7 @@ export function StoryCardsGrid({ cards }: { cards: StoryCardData[] }) {
                   <img
                     src={card.heroImage}
                     alt=""
-                    className="absolute inset-0 h-full w-full object-cover transition duration-500 group-hover:scale-105"
+                    className="absolute inset-0 h-full w-full object-cover transition duration-500 group-hover:scale-105 group-active:scale-105"
                     style={card.heroFocal ? { objectPosition: `${Math.round(card.heroFocal[0] * 100)}% ${Math.round(card.heroFocal[1] * 100)}%` } : undefined}
                     draggable={false}
                   />
