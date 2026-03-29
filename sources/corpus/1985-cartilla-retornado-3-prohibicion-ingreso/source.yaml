@@ -1,0 +1,27 @@
+title: "Cartilla del Retornado Nº 3 — Nómina de Personas con Prohibición de Ingreso"
+author: "Comité Pro-Retorno de Exiliados"
+publisher: "Comité Pro-Retorno de Exiliados / Vicaría de la Solidaridad"
+date: "1985-11"
+language: "es"
+description: >
+  Booklet published November 1985 by the Comité Pro-Retorno de Exiliados
+  with support from the Vicaría de la Solidaridad. Contains the "Sexto listado"
+  (6th edition, dated 15 July 1985) of Chilean citizens banned from re-entering
+  Chile under the military dictatorship, comprising 4,360 names. The list was
+  issued by Fernando Paredes Pizarro, Director General of the Policía de
+  Investigaciones de Chile. Also includes a 7th list update (17 September 1985)
+  with new prohibitions and authorisations. Helia del Carmen Cerpa Pérez appears
+  on page 12 of the booklet.
+
+files:
+  media_reference: "manual/Chilean Document.pdf"
+  page_images:
+    - "media/docs/1985-cartilla-retornado-3-comite-pro-retorno-cover.jpg"
+    - "media/docs/1985-cartilla-retornado-3-sexto-listado-header-page-7.jpg"
+    - "media/docs/1985-cartilla-retornado-3-cerpa-perez-helia-page-12.jpg"
+  transcription: "transcription-translation.en.md"
+
+people:
+  - name: "Helia del Carmen Cerpa Pérez"
+    page: 12
+    entry: "Cerpa Pérez, Helia del Carmen"

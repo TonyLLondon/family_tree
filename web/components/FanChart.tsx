@@ -35,15 +35,11 @@ type Props = {
   centers?: Person[];
 };
 
-function focalToObjectPosition(focal: [number, number]): string {
-  return `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%`;
-}
-
 function photoImgStyle(
   focal: [number, number],
   zoom: number,
 ): React.CSSProperties {
-  const op = focalToObjectPosition(focal);
+  const op = `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%`;
   if (zoom <= 1) {
     return {
       width: "100%",
@@ -65,6 +61,17 @@ function photoImgStyle(
     display: "block",
   };
 }
+
+type PhotoLayerEntry = {
+  key: string;
+  x: number;
+  y: number;
+  w: number;
+  h: number;
+  src: string;
+  focal: [number, number];
+  zoom: number;
+};
 
 const W = 2400;
 const CX = W / 2;
@@ -376,6 +383,9 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
           >
             <rect width={W} height={chartH} fill="#fafafa" />
 
+            {(() => {
+            const photoLayer: PhotoLayerEntry[] = [];
+            return (<>
             <g transform={`translate(${CX},${chartCY})`}>
               {segments.map((s, idx) => {
                 const { inner, outer } = ringRadii(s.generation);
@@ -531,27 +541,19 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                       <title>{tooltip}</title>
                     </path>
 
-                    {showPhoto && (
-                      <>
-                        <circle cx={cx} cy={cy - 4} r={photoR + 1.5} fill="#fff" stroke="#d4d4d8" strokeWidth={0.5} />
-                        <foreignObject
-                          x={cx - photoR}
-                          y={cy - photoR - 4}
-                          width={photoR * 2}
-                          height={photoR * 2}
-                          style={{ pointerEvents: "none" }}
-                        >
-                          <div style={{ width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
-                            {/* eslint-disable-next-line @next/next/no-img-element */}
-                            <img
-                              src={photo!}
-                              alt=""
-                              style={photoImgStyle(photoFocal, photoZoom)}
-                            />
-                          </div>
-                        </foreignObject>
-                      </>
-                    )}
+                    {showPhoto && (() => {
+                      photoLayer.push({
+                        key: `seg-${s.id}`,
+                        x: CX + cx - photoR,
+                        y: chartCY + cy - photoR - 4,
+                        w: photoR * 2,
+                        h: photoR * 2,
+                        src: photo!,
+                        focal: photoFocal,
+                        zoom: photoZoom,
+                      });
+                      return <circle cx={cx} cy={cy - 4} r={photoR + 1.5} fill="#fff" stroke="#d4d4d8" strokeWidth={0.5} />;
+                    })()}
 
                     {labelBody}
                   </g>
@@ -645,23 +647,20 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
 
                     return (
                       <g transform="translate(0,30)">
+                        {(() => {
+                          photoLayer.push({
+                            key: "root-shared",
+                            x: CX - clipR,
+                            y: chartCY + ROOT_FOCUS_DY + 30 - clipR,
+                            w: clipR * 2,
+                            h: clipR * 2,
+                            src: photo,
+                            focal,
+                            zoom: rootZoom,
+                          });
+                          return null;
+                        })()}
                         <circle r={ROOT_R} fill="#fff" stroke={ring} strokeWidth={3} />
-                        <foreignObject
-                          x={-clipR}
-                          y={-clipR}
-                          width={clipR * 2}
-                          height={clipR * 2}
-                          style={{ pointerEvents: "none" }}
-                        >
-                          <div style={{ width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
-                            {/* eslint-disable-next-line @next/next/no-img-element */}
-                            <img
-                              src={photo}
-                              alt=""
-                              style={photoImgStyle(focal, rootZoom)}
-                            />
-                          </div>
-                        </foreignObject>
                         <text y={108} x={0} textAnchor="middle" fontSize={17} fontWeight={700} fill="#0f172a" style={{ pointerEvents: "none" }}>
                           {combinedName}
                         </text>
@@ -692,24 +691,19 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                     return (
                       <g key={p.id} transform={`translate(${xOff},0)`}>
                         <circle r={ROOT_R} fill="#fff" stroke={ring} strokeWidth={3} />
-                        {photo ? (
-                          <foreignObject
-                            x={-70}
-                            y={-70}
-                            width={140}
-                            height={140}
-                            style={{ pointerEvents: "none" }}
-                          >
-                            <div style={{ width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
-                              {/* eslint-disable-next-line @next/next/no-img-element */}
-                              <img
-                                src={photo}
-                                alt=""
-                                style={photoImgStyle(rootFocal, rootZoom)}
-                              />
-                            </div>
-                          </foreignObject>
-                        ) : null}
+                        {photo ? (() => {
+                          photoLayer.push({
+                            key: `root-${p.id}`,
+                            x: CX + xOff - 70,
+                            y: chartCY + ROOT_FOCUS_DY - 70,
+                            w: 140,
+                            h: 140,
+                            src: photo,
+                            focal: rootFocal,
+                            zoom: rootZoom,
+                          });
+                          return null;
+                        })() : null}
                         {slug ? (
                           <circle
                             r={ROOT_R}
@@ -733,6 +727,24 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 })()}
               </g>
             </g>
+
+            {photoLayer.map((p) => (
+              <foreignObject
+                key={p.key}
+                x={p.x}
+                y={p.y}
+                width={p.w}
+                height={p.h}
+                style={{ pointerEvents: "none" }}
+              >
+                <div style={{ width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={p.src} alt="" style={photoImgStyle(p.focal, p.zoom)} />
+                </div>
+              </foreignObject>
+            ))}
+            </>);
+            })()}
           </svg>
         </TransformComponent>
         <ChartLegend />

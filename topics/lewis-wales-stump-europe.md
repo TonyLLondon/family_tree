@@ -34,7 +34,7 @@ This hub is the **outline + source register** for everything that is *not* the P
 | [Fulvia Ottilia Antonia Zerauschek](../people/fulvia-ottilia-antonia-zerauschek.md) | Italy / Zara → Lewis |
 | [Étienne Stump](../people/etienne-stump.md) | Swiss dentist, Tehran |
 | [Olga Caroline Erbe](../people/olga-caroline-erbe.md) · [Marc Francois Stump](../people/marc-francois-stump.md) | Baltic / Stump–Erbe nexus |
-| [Louisa Spencer](../people/louisa-spencer.md) · [William Evans (London)](../people/william-evans-i289.md) · [Alfred Edward William Evans](../people/alfred-edward-william-evans.md) | London Spencer → Evans → Lewis side |
+| [William Evans (London)](../people/william-evans-i289.md) · [Dorothea Knecht](../people/dorothea-knecht.md) · [Alfred Evans](../people/alfred-evans-i101.md) | London Evans → Lewis side — see [Evans · Cerpa Pérez hub](evans-cerpa-perez-london-chile.md) |
 | [Joseph Evans (1940)](../people/joseph-evans-i18.md) · [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) | London Evans × Maule, Chile — see [Evans · Cerpa Pérez hub](evans-cerpa-perez-london-chile.md) |
 
 ---

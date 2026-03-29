@@ -1,0 +1,10 @@
+id: st-davids-islington-marriage-evans-fensom-1912
+title: "Register of Marriages — St David's Church, Islington, 1912 (pages 6–7, entry 13)"
+remote: {}
+fetches:
+- kind: local-scan
+  at: '2020-09-15T00:00:00Z'
+  media_reference: media/docs/alfred-evans-marriage-st-davids-islington-1912.jpg
+files:
+  transcription: transcription.md
+  media_reference: media/docs/alfred-evans-marriage-st-davids-islington-1912.jpg

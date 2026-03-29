@@ -1,0 +1,17 @@
+id: 1891-census-aberdare-david-lewis-household-rg12-4444
+title: "1891 Census of England & Wales — Glan Road, Aberdare (David Lewis household, schedule 41)"
+remote:
+  webpage_url: https://www.findmypast.co.uk
+fetches:
+- kind: local-scan
+  at: '2026-03-28T00:00:00Z'
+  media_reference: media/docs/1891-census-glan-road-aberdare-david-lewis-household-rg12-4444.jpg
+files:
+  transcription: transcription.md
+  media_reference: media/docs/1891-census-glan-road-aberdare-david-lewis-household-rg12-4444.jpg
+archive:
+  repository: The National Archives
+  reference: RG 12/4444
+  page: 7
+  schedule: 41
+  description: "1891 Census of England & Wales, household schedule for Glan Road, Aberdare"

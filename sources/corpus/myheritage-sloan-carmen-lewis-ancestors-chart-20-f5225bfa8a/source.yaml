@@ -8,5 +8,5 @@ fetches:
   bytes: 743069
   media_reference: media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002402.pdf
 files:
-  pdf_markdown: extracted.pdf.md
   media_reference: media/charts/myheritage/MyHeritage - Sloan Carmen Lewis ancestors chart - 2020-09-18 002402.pdf
+notes: "Machine OCR extract deleted — garbled chart text with known errors (e.g. Rachel James instead of Stephen). Original PDF retained."

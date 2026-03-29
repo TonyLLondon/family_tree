@@ -24,9 +24,23 @@ For three years, they believed it was working.
 
 On 11 September 1973, the Chilean armed forces surrounded the Palacio de la Moneda. By mid-morning, Hawker Hunter jets were bombing the presidential palace. Allende died inside — by his own hand or at the hands of soldiers, the debate would last decades. By evening, General Augusto Pinochet's military junta had dissolved Congress, banned all political parties and trade unions, and declared a state of siege.
 
-Over the following days, embassies filled alongside prisons, stadiums, and torture chambers. The Estadio Nacional held seven thousand detainees at its peak. Hooded informants circulated among prisoners to identify party members, who were taken away and often never seen again. An estimated 40,000 people were murdered, tortured, or arbitrarily imprisoned during the seventeen-year dictatorship. Between 200,000 and two million Chileans — the estimates vary wildly, a measure of the chaos — were scattered into exile across the globe.
+Over the following days, stadiums, prisons, and torture chambers filled with tens of thousands of detainees. An estimated 40,000 people were murdered, tortured, or arbitrarily imprisoned during the seventeen-year dictatorship. Between 200,000 and two million Chileans were scattered into exile across the globe.
 
-For someone who had served the Allende government in the Parral–Linares area, where the DINA was about to establish its southern headquarters, the imperative to flee was immediate and existential. Helia's own uncles would not escape. Three men sharing her parents' exact double surnames — Patricio Arnaldo Pérez Escobar, Luis Omar Pérez Escobar, and Hugo Amado Cerpa González — later appeared on the Valech Commission's official lists of victims of political imprisonment and torture.
+Helia was among the detained.
+
+---
+
+## The Estadio Nacional
+
+The Estadio Nacional — Chile's national sports stadium in Ñuñoa, Santiago — was converted into the regime's largest mass detention centre. It operated from 12 September to 9 November 1973. An estimated 20,000 people passed through it; the International Red Cross counted 7,000 on a single day. Hooded informants circulated among prisoners to identify party members, who were taken away and often never seen again.
+
+Helia appears as **CERPA PEREZ HELIA DEL C** on the official list of 405 women prisoners held at the stadium, maintained by the Corporación Estadio Nacional Memoria Nacional Ex Prisioneros Políticos and [published by *Cambio21*](https://cambio21.cl/cambio21/las-mujeres-vctimas-de-la-dictadura-prisioneras-en-el-estadio-nacional-conzca-en-exclusiva-los-nombres-de-405-detenidas-en-el-principal-coliseo-deportivo-en-1973-5c26692bcd49b0733e070387) on 31 December 2018.
+
+Women were initially held in changing rooms within the coliseum. On 26 September 1973, all women were transferred to two changing rooms beside the swimming pool, at the corner of Pedro de Valdivia and Avenida Grecia. The camarín norte held Chilean women; the camarín sur held foreigners. Each room measured roughly 30 metres by 7. Women slept on mattresses pushed together in rows. Many were stripped of their belongings on arrival; many were subjected to sexual violence. The former DINA director Manuel Contreras cited 509 women detained; testimonies from survivors estimate approximately 1,200.
+
+On 24 October 1973, a FIFA delegation led by secretary-general Helmut Kaser arrived to inspect the stadium for an upcoming World Cup qualifier. All prisoners were hidden from the inspectors. The stadium was cleared of detainees on 9 November — some released, others transferred to the Campo de Prisioneros Chacabuco, a converted saltpeter mine in the Atacama Desert that began receiving transfers the following day. Twelve days later, Chile lined up for the qualifier against the Soviet Union. The Soviets refused to play in a venue that had been used as a concentration camp. Chile won the tie by walkover.
+
+Helia's own uncles were also caught in the repression. Three men sharing her parents' exact double surnames — Patricio Arnaldo Pérez Escobar, Luis Omar Pérez Escobar, and Hugo Amado Cerpa González — later appeared on the Valech Commission's official lists of victims of political imprisonment and torture. The camarín norte where Helia was held is now one of nine designated memory sites at the Estadio Nacional. Copper plaques bearing the names of detainees are installed on its walls.
 
 ---
 
@@ -36,7 +50,9 @@ After the coup, Helia found initial refuge through the Italian diplomatic missio
 
 Rome became a significant hub for the Chilean exile community. The refugees were largely well-educated professionals who integrated successfully into Italian society. But Rome was also a base for the political renovation of the Chilean Socialist Party and for strategic planning toward Chile's eventual democratic transition. Italy's acceptance of Chilean refugees was itself a landmark — the country's first significant intake of non-European political refugees, a precedent that shaped Italian asylum policy for decades.
 
-Helia's exact route — whether she passed through the embassy compound herself, or reached Italy via a third country — and the duration of her stay in Rome have not yet been documented. An oral-history recording with family members is the most promising route to capturing these details before they are lost.
+By mid-July 1974, Chile had issued 2,945 safe-conduct passes for asylum-seekers in embassies, plus 547 for family members. By August 1974, only nine people remained in any embassy in Santiago — all in the Italian one. If Helia passed through De Masi's embassy — and the Italian route is established family knowledge — she was almost certainly among the roughly 600 Chileans evacuated to Italy between late 1973 and mid-1974. The story of the embassy was told in Nanni Moretti's 2018 documentary *Santiago, Italia*, which interviews refugees now living in Italy and the diplomats who saved them. De Masi himself published a memoir — *Santiago. 1 febbraio 1973 – 27 gennaio 1974* (Bonanno Editore, 2013) — which documents his year at the embassy in personal detail.
+
+Helia's exact route — whether she entered the embassy compound directly after release from the Estadio Nacional, or reached Italy via a third country — and the duration of her stay in Rome have not yet been documented.
 
 ---
 
@@ -47,6 +63,16 @@ Helia subsequently moved to London, joining the roughly 3,000 Chilean refugees w
 The Chilean exile community in London was supported by a web of solidarity organisations. The Chile Solidarity Campaign, founded in late 1973, had sixty local committees and thirty affiliated trade unions by 1976. The Joint Working Group for Refugees from Chile, established in 1974 and financed by the Home Office, operated until 1979. The World University Service administered scholarship grants for 900 exiles from offices on Seven Sisters Road, Tottenham.
 
 Camden specifically had a visible Chilean presence. A solidarity mural painted alongside the railway line at King Henry's Road, Primrose Hill, read "Solidarity With the People of Chile" and became a local landmark. Chilean refugees lived in squats on Chalk Farm Road during the 1970s. Political and cultural events — folk music by Inti-Illimani, empanada sales, fundraising for the resistance — were the connective tissue of a diaspora that, at first, expected to return home within a few years. Most never did.
+
+---
+
+## Prohibición de ingreso
+
+Twelve years after the coup, Helia was still formally barred from her own country. Her name — **Cerpa Pérez, Helia del Carmen** — appeared on page 12 of the official *Sexto listado* (6th edition, 15 July 1985) of Chileans prohibited from entering the national territory, issued by the Policía de Investigaciones and containing 4,360 names. The list was published by the Comité Pro-Retorno de Exiliados in their *Cartilla del Retornado* Nº 3 (November 1985), backed by the Vicaría de la Solidaridad — the Catholic Church's human-rights body. Immediately above Helia's entry on the page: **Cerpa Miranda, Carlos Alberto** — almost certainly a relative, given the surname's rarity.
+
+The banned list had been compiled under three instruments of dictatorship law: Decreto Ley 81 (1973), Decreto Ley 604 (1974), and the 24th Transitory Provision of the 1980 Constitution. The OAS Inter-American Commission on Human Rights repeatedly declared the system a violation of Article VIII of the American Declaration — the right to residence and movement. The exiles on the list did not know what action, event, or hidden enemy had caused their inclusion.
+
+Under international pressure, the list shrank: 3,878 by September 1985; 3,717 in 1986; 623 by June 1987. On 1 September 1988, Decree Nº 203 lifted the ban for the last 512 persons, officially ending the exile. The timing was deliberate: voter registration for the 5 October plebiscite had already closed. The exiles who had been barred for fifteen years could finally come home — but could not vote on whether the general who exiled them would stay in power. The "No" won anyway, 56 to 44.
 
 ---
 
@@ -76,7 +102,7 @@ The piquete remobilised solidarity networks that had been dormant since the end 
 
 In 2004, the Comisión Nacional sobre Prisión Política y Tortura — the Valech Commission — published the names of 28,459 recognised survivors of political imprisonment and torture during the dictatorship. A second commission in 2011 added thousands more.
 
-Helia herself does not appear on either list. She fled Chile before being detained, or she never testified to either commission. But her family was directly affected.
+Helia does not appear on either list, despite her documented detention at the Estadio Nacional. She never testified to either commission — a pattern common among women survivors, particularly those who experienced sexual violence at the stadium. But her family was also directly affected.
 
 The Valech I list contains **Patricio Arnaldo Pérez Escobar** (entry 18,738). The Valech II list contains **Luis Omar Pérez Escobar** (RUN 6.495.935-2). Sharing both paternal and maternal surnames with Helia's mother [Laurencia Pérez Escobar](../people/laurencia-perez-escobar-i347.md) means they share both parents — Patricio Arnaldo and Luis Omar are almost certainly Laurencia's brothers, Helia's uncles. Both were victims of political imprisonment and torture.
 
@@ -104,6 +130,16 @@ Helia died in 2025. She married [Joseph Evans](../people/joseph-evans-i18.md) in
 - [Camden Town DMC, 4 Dec 2019 — minutes (PDF)](https://camden.moderngov.co.uk/documents/g9078/Printed%20minutes%2004th-Dec-2019%2018.30%20Camden%20Town%20District%20Management%20Committee.pdf?T=1).
 - Further DMC appearances: 2 Dec 2015, 6 Jan 2021, 3 Mar 2021, 9 Mar 2022, 1 Mar 2023.
 
+### Estadio Nacional detention
+
+- [Cambio21, "Las mujeres víctimas de la dictadura prisioneras en el Estadio Nacional," 31 Dec 2018](https://cambio21.cl/cambio21/las-mujeres-vctimas-de-la-dictadura-prisioneras-en-el-estadio-nacional-conzca-en-exclusiva-los-nombres-de-405-detenidas-en-el-principal-coliseo-deportivo-en-1973-5c26692bcd49b0733e070387) — "CERPA PEREZ HELIA DEL C" on list. Corpus: [cambio21-405-mujeres-estadio-nacional-2018](../sources/corpus/cambio21-405-mujeres-estadio-nacional-2018/source.yaml).
+- [Corporación Estadio Nacional Memoria Viva — Camarín de Mujeres](https://www.memoriaestadionacional.cl/camarin-norte/).
+- Citation card: [sources/estadio-nacional-mujeres-detenidas-2018.md](../sources/estadio-nacional-mujeres-detenidas-2018.md).
+
+### Prohibición de ingreso (banned list)
+
+- *Cartilla del Retornado* Nº 3, November 1985 (Comité Pro-Retorno de Exiliados / Vicaría de la Solidaridad) — "Cerpa Pérez, Helia del Carmen" on page 12 of the *Sexto listado* (6th edition, 15 July 1985; 4,360 names). Corpus: [1985-cartilla-retornado-3-prohibicion-ingreso](../sources/corpus/1985-cartilla-retornado-3-prohibicion-ingreso/source.yaml). Citation card: [cartilla-retornado-prohibicion-ingreso-1985.md](../sources/cartilla-retornado-prohibicion-ingreso-1985.md).
+
 ### Context
 
 - "Refugees from Fascism: The Story of Chile's Exiles in Britain," *Tribune*, Sep 2023.
@@ -112,6 +148,8 @@ Helia died in 2025. She married [Joseph Evans](../people/joseph-evans-i18.md) in
 - "Chile honours Italian diplomats whose 'Schindler's List' saved 750 lives," *The Independent*, 2016.
 - "Resistance, Rights and Refuge," LSE Library exhibition + project website, Sep 2023.
 - "The 503 days of el piquete de Londres," *Canadian Journal of Latin American and Caribbean Studies*, 2012/2013.
+- "Camarines de Mujeres: Memorias de prisioneras políticas del Estadio Nacional," Vidaurrazaga & Pequeño, 2019.
+- "Mujeres que rompen el silencio: detenidas del Estadio Nacional, 1973," Concha Cifuentes, U de Chile, 2017.
 
 ### Valech
 

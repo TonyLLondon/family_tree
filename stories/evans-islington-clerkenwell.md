@@ -1,4 +1,4 @@
-# The Spencers and the Evans: Five Generations Between Clerkenwell and Islington
+# The Evans of Clerkenwell and Islington
 
 ## The triangle
 
@@ -12,35 +12,21 @@ This was the world of watchmakers, jewellers, bookbinders, compositors, and prin
 
 ---
 
-## The Spencers of Clerkenwell
+## The Knechts of Pembroke Street
 
-[Edward Spencer](../people/louisa-spencer.md) was born about 1838, the son of a man named William Spencer. On **26 September 1865** he married **Eliza Thomas** at [St Thomas Charterhouse](https://en.wikipedia.org/wiki/St_Thomas,_Charterhouse), a Romanesque church on Goswell Road designed by Edward Blore — the same architect who had drawn the east front of Buckingham Palace two decades earlier. The church served the parishes of St Botolph and St Luke in what was then still Middlesex; it could hold 1,500 people, and had been built in 1842 on land donated by the governors of the Charterhouse, the medieval Carthusian priory whose walls still enclosed a school and an almshouse a few hundred yards to the south.
+**[George Knecht](../people/george-knecht.md)** arrived in London from **Germany**, born about **1829**. By the mid-1850s he had settled in the **St Giles / Bloomsbury** quarter — the dense network of streets around Tottenham Court Road where German immigrants clustered: bakers, sugar refiners, instrument makers, and, in George's case, a gas worker. In **Q3 1856** he married **[Eliza Sarah Glasscock](../people/eliza-knecht.md)** at Islington — an Irish-born woman with an English surname, one of those pairings that only London's immigrant streets could produce.
 
-Eliza was a Clerkenwell woman. She appears in the **1851 census** at Saint John Clerkenwell (HO107/1516/627/18/79) when she would have been about six years old. Edward was living in **St James Clerkenwell** by the 1871 census. Their marriage placed in the Ancestry corpus (FHL Film 597924, p. 19) confirms his age as 28 and his status as single.
+Their first child, Francis Henry, was born in 1857 at St Giles. Elizabeth followed in 1859 at Bloomsbury. Then the family moved north to Islington, where **[Dorothea](../people/dorothea-knecht.md)** was born in the first quarter of **1861** — registered in the GRO birth index as "Dorodea Knecht." George William, Hannah, and Louisa Sarah followed at Islington addresses through the 1860s.
 
-Over eleven years, Edward and Eliza filled the parish register with seven children — all born or baptised in Clerkenwell:
+The **1871 Census** (RG10/263, schedule 316) found the family at **Pembroke Street, Upper**, in the parish of **St Michael Islington**, Thornhill ward. George was forty-two, still at the gas works. Ten-year-old Dorothea was already working as an **artificial flower maker** — one of the sweated trades of Victorian London, where women and girls glued silk petals and wired stems in garrets and kitchens for a few shillings a week. Her sister Elizabeth, twelve, did the same work. Francis Henry, fourteen, was a bookbinder.
 
-| Child | Born | Notes |
-|-------|------|-------|
-| William Spencer | 24 Oct 1865 | d. 15 Jan 1915 Shoreditch |
-| William Spencer | ABT 1866 | Second entry; likely died young |
-| Charlotte Spencer | 7 Aug 1867 | Clerkenwell |
-| Mary Ann Spencer | ABT 1870 | In 1881 census aged ~12 |
-| **[Louisa Spencer](../people/louisa-spencer.md)** | **20 Jun 1871** | **Christened 16 Jul 1871** |
-| Edward Spencer | 1873 | |
-| Robert Spencer | 1876 | |
-
-Louisa's christening record (corpus: [louisa-spencer-england-select-births-and-christe-c5d42f5463](../sources/corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/)) names the church as "**Saint Thomas Chartrhouse, Finsbury, London**" — the same Goswell Road building where her parents had married six years earlier, now misspelled by the indexer.
-
-The **1881 census** (RG11/358/71/10, schedule 675) captured the Spencer household together in **Clerkenwell, Holborn, London & Middlesex**. Edward was head of house, age about 40. Louisa was ten years old, the fifth of seven children, growing up in the workshops-and-tenements landscape that Gissing would describe eight years later. The church image in the vault — [St Thomas Charterhouse marriage register 1865 pages 18-19](../media/docs/St%20Thomas%20Charterhouse%20marriage%20register%201865%20pages%2018-19%20Norman%20French%20Spencer%20Evans.jpg) — shows the register spread from the year of Edward and Eliza's wedding.
-
-Eliza died in **April 1882** at Holborn, aged only about thirty-seven. She did not live to see Louisa marry. Edward survived another two decades, dying on **12 March 1904** in Clerkenwell, the place he had lived for at least half a century. St Thomas Charterhouse itself outlived him by only two years: it was closed in 1906 and demolished in 1909. The site on Goswell Road is now an absence.
+In **Q4 1878**, aged seventeen, Dorothea married **[William Evans](../people/william-evans-i289.md)** at **Pancras**. Twenty-three years later, the 1901 census placed William and Dorothea at **44 Pembroke Street** — the very street where Dorothea had grown up. She had married and never moved more than a few doors from her childhood home.
 
 ---
 
 ## The Fensoms of Islington
 
-While the Spencers were settled in Clerkenwell, a parallel family was putting down roots half a mile to the north, across the registration district boundary, in Islington.
+While the Knechts and the Evans were on Pembroke Street, a parallel family was putting down roots half a mile to the north, in Lower Holloway.
 
 **David Fensom** — the patriarch — was born about **1836** in **Harpenden, Hertfordshire**, a market village thirty miles north of London. He was a rural migrant, one of the hundreds of thousands who moved from the home counties into the capital during the mid-Victorian building boom. His son, **David William Fensom**, was born in **October 1864** in Islington — and never left. The younger David appears in every available census at Islington addresses:
 
@@ -54,31 +40,31 @@ While the Spencers were settled in Clerkenwell, a parallel family was putting do
 
 Lower Holloway was the working-class stretch of the Holloway Road, named since 1307 for the "hollow way" worn by cattle driven from the countryside to London markets. By the time David William Fensom settled there, it had become a densely built suburban district of plain brick terraces, small shops, and the kind of housing that Charles Booth's poverty maps coloured blue and purple — moderate poverty shading into mixed comfort. It was not the worst of London, but it was far from the best.
 
-On **8 August 1886**, David William married **Minnie Florence Pope** (born 1864 at Hammersmith, christened 11 December 1864) at Islington. Their daughter [Annie Fensom](../people/annie-fensom-i291.md) was born on **29 January 1893** in Islington. David William Fensom died in **June 1929** at Islington, aged sixty-four. He had spent his entire life — sixty-five years — in the same borough.
+On **8 August 1886**, David William married **Minnie Flora Pope** (born 1865 at Cranbrook, Kent) at Islington. Their daughter [Annie Fensom](../people/annie-fensom-i291.md) was born on **29 January 1893** in Islington — the fourth of eleven children. David William Fensom died in **June 1929** at Islington, aged sixty-four. He had spent his entire life — sixty-five years — in the same borough.
 
 Annie's siblings included several more Fensoms scattered through the Islington registers: **Georgina Elizabeth** (born ~1862, Islington), **David William** junior (born Oct 1864, Islington), **Ellen** (born ~1875, Islington), **Fanny** (born 1877, Islington), and **William Fensom** (christening recorded, birthdate missing). The surname was rare — not in the top thousand in England — and by the 1921 census most Fensoms in the country lived in London. They were an Islington family, and they stayed put.
 
 ---
 
-## William Evans — the unknown patriarch
+## William Evans and the Knechts of Pembroke Street
 
-Into this world came **[William Evans](../people/william-evans-i289.md)**. He was born about **1862**, and beyond that almost nothing is known. He married [Louisa Spencer](../people/louisa-spencer.md) on **26 July 1891** — she was twenty, he was about twenty-nine — and fathered at least one surviving son, [Alfred](../people/alfred-edward-william-evans.md). The vault holds a photograph captioned [william-evans-louisa-spencer-marriage.jpg](../media/docs/william-evans-louisa-spencer-marriage.jpg) and a GRO birth-index capture [covering Evans children from Emma through Margaret](../media/docs/GRO%20birth%20index%20Evans%20children%20names%20Emma%20through%20Margaret%20England%20Wales.tif), but neither has been fully analysed.
+**[William Evans](../people/william-evans-i289.md)** was born about **1857** in **Clerkenwell** — not Wales, despite the surname. Evans is overwhelmingly Welsh, the second most common surname in Wales, but William was a London man, born in the same Clerkenwell workshops district where his son would later be christened. His lifelong trade was **brass finishing**, one of the signature crafts of the neighbourhood.
 
-The surname itself is a clue. Evans is overwhelmingly Welsh, the second most common surname in Wales. Whether William was born in Wales and migrated to London — like tens of thousands of Welsh men and women drawn to the capital's docks, dairies, and drapers' shops — or whether he was a second- or third-generation London Welshman, the GEDCOM and the tree cannot yet say. His birth parish, his occupation, and his death are all open. He is the gap in the story: the man who connected a Clerkenwell Spencer to generations of Islington Evans, and about whom the records have so far been silent.
+In **Q4 1878**, aged about twenty-one, he married **[Dorothea Knecht](../people/dorothea-knecht.md)** at **Pancras**. Dorothea was seventeen — a girl who had been making artificial flowers since the age of ten. Her father, **[George Knecht](../people/george-knecht.md)**, was a German immigrant, a gas worker born about 1829; her mother, **[Eliza Sarah Glasscock](../people/eliza-knecht.md)**, was Irish-born with an English surname. George and Eliza had married in **1856** at Islington and settled on **Pembroke Street**, where the family appears in the 1871 census with six children. Alfred's maternal heritage was thus a mixture of German, Irish, and London working-class English — an immigrant blend typical of Islington's tenement streets.
+
+William and Dorothea had at least ten children and stayed on Pembroke Street — the 1901 census places them at **44 Pembroke Street**, the very street where Dorothea had grown up. By 1911 they had moved to **124 Barnsbury Road**, still in Islington, still in the same parish. William was still a brass trimmer in the 1921 census, aged sixty-four. He died between 1921 and 1939; by the time the National Register was taken, Dorothea was a widow living with her sons Ernest (electrician) and Francis (bus conductor).
 
 ---
 
 ## Alfred the costermonger
 
-[Alfred Edward William Evans](../people/alfred-edward-william-evans.md) was born on **2 February 1893** in the Holborn registration district — which, since the 1869 merger, meant anywhere in the old Clerkenwell territory. He was christened seventeen days later, on **19 February 1893**, at the **Church of the Holy Redeemer, Exmouth Market, Islington**.
+[Alfred Evans](../people/alfred-evans-i101.md) was born on **2 February 1893** in the Holborn registration district — which, since the 1869 merger, meant anywhere in the old Clerkenwell territory. The **1911 Census** finds him still at home at 124 Barnsbury Road, aged nineteen, working as a **jewellers assistant** — one of Clerkenwell's signature trades, among the "cunning fingers and the contriving brain" that Gissing described. His seven siblings included William Henry (garment clerk), Louisa (blouse maker), Herbert (electrical engineer), Ernest (lawyer's clerk), Arthur (messenger boy), Lilian Emily, and Frank Edward.
 
-Exmouth Market sat on the border between Clerkenwell and Islington, a working-class shopping street that a 1906 novelist called "one of the market streets of the poor." The church itself was only five years old when Alfred was brought to the font. It had been designed by J. D. Sedding and built in 1887–88 on the site of **Spa Fields Chapel**, a Calvinistic Methodist chapel that the Countess of Huntingdon had converted from the old Pantheon Theatre in 1777. Before that, the site had been Spa Fields proper — open land named for a medicinal spring, once notorious for bull-baiting, prize-fighting, and footpads. By the late nineteenth century, the fields were gone, replaced by terraces, workshops, and a market where barrow-men sold fruit and vegetables to the tenement families of EC1.
+On **Christmas Day 1912**, still only nineteen, he married [Annie Fensom](../people/annie-fensom-i291.md) at **St David's Church, Islington**. She was nineteen; he was nineteen. Two Islington families united: the Evans side from the Clerkenwell borderland, the Fensoms from Lower Holloway. Their first child, [Alfred Charles](../people/alfred-charles-evans-i576.md), arrived about April 1913 — ten months after the wedding. [Joseph David](../people/joseph-evans-i99.md) followed about September 1914, registered at Holborn, and a daughter, [Annie](../people/annie-evans-i577.md) — named for her mother — about April 1917.
 
-Holy Redeemer was High Anglican — in the "Catholic tradition of the Church of England" — and its Renaissance-style interior by Henry Wilson (1892–95) was an unlikely setting for the christening of a child who would grow up to push a barrow for a living.
+The **1921 Census** (19 June) caught the household at **4 Bratton Street, Islington**: Alfred, head, twenty-eight, his occupation recorded as **costermonger** on his own account; Annie, twenty-eight, a **brush maker** at the **Star Brush Company** on Eden Grove, Holloway; and three children — Alfred Charles (8), Joseph David (6), and Annie (4). Alfred was already on the barrows at twenty-eight, less than a decade after his 1912 occupation of barman. Annie's employer was a short walk from the Fensom family's Lower Holloway streets — a working mother in the light-industrial belt that ran from Holloway Road down to the Angel.
 
-Alfred married [Annie Fensom](../people/annie-fensom-i291.md) on **Christmas Day 1912**. She was nineteen; he was nineteen. Two Islington families united: the Evans side from the Clerkenwell borderland, the Fensoms from Lower Holloway. Their son [Joseph](../people/joseph-evans-i99.md) was born about November 1914, registered at Holborn.
-
-By the time the **1939 Register** was taken — on 29 September 1939, three weeks into the Second World War — Alfred and Annie were living together in Islington. The register (TNA reference RG101/0291F/005, schedule 61) recorded Alfred's occupation as **Costermonger** and Annie's as **Printers Maker**.
+By the time the **1939 Register** was taken — on 29 September 1939, three weeks into the Second World War — Alfred and Annie were living together in Islington. The register (TNA reference RG101/0291F/005, schedule 61) recorded Alfred's occupation as **Costermonger** and Annie's as **Printers Maker** — she had moved from brushes to the printing trade somewhere in the intervening eighteen years.
 
 ### The costermonger's world
 
@@ -88,7 +74,7 @@ They bought wholesale at Smithfield (meat), Spitalfields (fruit and vegetables),
 
 It was from this costermonger culture that the **Pearly Kings and Queens** emerged. In the late 1870s, a boy named Henry Croft — born in **1861 at St Pancras Workhouse**, barely two miles from where Alfred Evans would grow up — covered his suit in mother-of-pearl buttons to attract attention while raising money for orphanages and hospitals. By 1911, all twenty-eight London boroughs had their own pearly families. The pearl-button suit was a costermonger inheritance: the street sellers had always sewn a line of mother-of-pearl buttons down their trouser seams. Croft simply covered every inch.
 
-Alfred was a costermonger in 1939, when he was forty-six years old. Whether he had been on the barrows since boyhood — as many costers were, Mayhew noting that the "class was growing yearly, fed partly by unemployed working men and mechanics who took to a coster's barrow for a livelihood" — or whether he came to the trade later, the register does not say. But the occupation placed him in one of the oldest and most characteristic London working-class traditions, a man whose livelihood depended on pushing a wooden cart through the same streets where his mother had been christened and his wife's family had lived for three generations.
+Alfred was already a costermonger in **1921**, when he was twenty-eight — and still a costermonger in **1939**, when he was forty-six. The 1921 Census recorded him as working "Own Account," meaning he was self-employed: buying wholesale and selling from his own barrow, answerable to no employer. Whether he had been on the barrows since his teens — as many costers were, Mayhew noting that the "class was growing yearly, fed partly by unemployed working men and mechanics who took to a coster's barrow for a livelihood" — or whether the transition from barman to street seller happened in the years after the wedding, the records do not say. But the occupation placed him in one of the oldest and most characteristic London working-class traditions, a man whose livelihood depended on pushing a wooden cart through the same streets where his mother had grown up making artificial flowers and his wife's family had lived for three generations.
 
 ### Annie's trade
 
@@ -114,9 +100,9 @@ Ten days later, on **7 September 1940** — "Black Saturday" — nearly a thousa
 
 The family was living in the worst possible place. Holborn would suffer the **highest rate of bomb damage per capita in the entire country**: 282 high-explosive bombs fell on the old borough, destroying 650 buildings — one in seven — and killing 426 people, with 621 more seriously injured. In Finsbury next door, the destruction was proportionally even more catastrophic: of 9,899 houses and flats, 9,015 were damaged; 983 were totally demolished, and 642 were hit badly enough to force evacuation. The borough's population halved, from roughly 60,000 in 1939 to 27,000 by 1945.
 
-The landmarks of the family's life were caught in the bombardment. On **15 October 1940**, the deep basement shelter at **Dame Alice Owen's School on Goswell Road** — the same stretch of road where St Thomas Charterhouse had once stood, where Louisa Spencer had been christened sixty-nine years earlier — received a direct hit. Damage to a New River water pipe flooded the shelter. Of 143 people taking refuge inside, **109 drowned or were killed**. It was one of the single worst civilian losses of the London Blitz.
+The landmarks of the family's life were caught in the bombardment. On **15 October 1940**, the deep basement shelter at **Dame Alice Owen's School on Goswell Road** received a direct hit. Damage to a New River water pipe flooded the shelter. Of 143 people taking refuge inside, **109 drowned or were killed**. It was one of the single worst civilian losses of the London Blitz.
 
-The **Church of the Holy Redeemer** on Exmouth Market, where Alfred had been christened in 1893, was damaged. The **Charterhouse** itself, the medieval priory, was damaged. The **Priory Church of St John** was damaged. Sadler's Wells Theatre on Rosebery Avenue was requisitioned as a rest centre for bombed-out families.
+The **Church of the Holy Redeemer** on Exmouth Market was damaged. The **Charterhouse** itself, the medieval priory, was damaged. The **Priory Church of St John** was damaged. Sadler's Wells Theatre on Rosebery Avenue was requisitioned as a rest centre for bombed-out families.
 
 On **8 March 1945**, a V2 rocket struck **Charterhouse Street at Smithfield Market** during the morning rush, punching through into the railway tunnel below. One hundred and ten people were killed and 340 injured. Smithfield — the market that had fed Clerkenwell's costermongers for centuries, the wholesale hall where a man like Alfred might have bought his stock at three in the morning — was shattered.
 
@@ -130,7 +116,7 @@ The neighbourhood the Spencers and the Evans and the Fensoms had known — the b
 
 ## After the war
 
-[Alfred Edward William Evans](../people/alfred-edward-william-evans.md) died about **November 1954** at Islington. He was sixty-one. [Annie Fensom](../people/annie-fensom-i291.md) outlived him by eighteen years, dying about **February 1972** at Islington — the borough where she had been born seventy-nine years earlier, where her father had been born, and where her father's parents had married.
+[Alfred Evans](../people/alfred-evans-i101.md) died about **November 1954** at Islington. He was sixty-one. [Annie Fensom](../people/annie-fensom-i291.md) outlived him by eighteen years, dying about **February 1972** at Islington — the borough where she had been born seventy-nine years earlier, where her father had been born, and where her father's parents had married.
 
 The post-war generation moved a short distance south-west. [Joseph Evans (1940)](../people/joseph-evans-i18.md) married [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) in **1982**, and their daughter [Jacqueline](../people/jacqueline-caroline-evans-i5.md) was born in **Camden** in 1983. Helia — a Chilean political exile who had fled the Pinochet dictatorship via Rome — settled on the **Ossulston Estate** in Somers Town, a Grade II listed council estate built by the London County Council in 1927–1931 on Chalton Street, between Euston and King's Cross. The architect, G. Topham Forrest, had visited the Karl Marx-Hof in Vienna before drawing up the plans; the 310 flats of Chamberlain House, Levita House, and Walker House were among the first council buildings in London to be fitted with electricity from the start, and Levita House had the LCC's first central heating system. The estate had been built to replace the Somers Town slums — housing that in 1921 was described as "very dilapidated, neglected, insanitary, verminous and dangerous."
 
@@ -140,9 +126,9 @@ It was on the Ossulston Estate that Helia became a long-serving representative o
 
 ## The neighbourhood as evidence
 
-What links these families is not a dramatic migration or a single transformative event but a shared geography over more than a century. Edward Spencer married Eliza Thomas at a Charterhouse church in 1865. Seventy-five years later, their great-grandson was born into the same registration district during the worst bombing campaign in British history. The trades changed — from whatever Edward Spencer did in Clerkenwell's workshops, to Alfred's costermonger barrow, to Annie's printing-component work, to Helia's council advocacy — but the streets did not. The New River still ran beneath Goswell Road. Smithfield still opened at three in the morning. Exmouth Market still sold to the poor.
+What links these families is not a dramatic migration or a single transformative event but a shared geography over more than a century. George Knecht arrived from Germany and settled on Pembroke Street in Islington. His daughter Dorothea married William Evans and stayed on the same street. Their son Alfred was born in the same registration district and raised his own family a few streets away. The trades changed — from whatever Edward Spencer did in Clerkenwell's workshops, to Alfred's costermonger barrow, to Annie's printing-component work, to Helia's council advocacy — but the streets did not. The New River still ran beneath Goswell Road. Smithfield still opened at three in the morning. Exmouth Market still sold to the poor.
 
-The evidence for this continuity is scattered across the vault — census returns, registration indices, a few photographs, a parish register spread, an Ancestry christening extract — and much of it remains thin. William Evans's origins are unknown. The GRO birth-index capture for his children has not been decoded. The 1939 Register entry for Alfred and Annie has not been imaged beyond the GEDCOM citation. The story told here is built from what survives, and it invites the gaps to be closed.
+The evidence for this continuity is built from census returns spanning 1871 to 1939, GRO marriage and birth indices, and the 1939 National Register. William Evans was a Clerkenwell brass finisher, not the Welsh unknown the GEDCOM once implied. Dorothea Knecht's family — German father, Irish mother — were themselves products of London's immigrant mixing. The trades changed — from gas works to brass trimming to costermonger barrow to printing component work — but the streets did not.
 
 ---
 
@@ -150,32 +136,30 @@ The evidence for this continuity is scattered across the vault — census return
 
 ### Photographs
 
-| Image | Subject |
-|-------|---------|
-| [Alfred Evans.jpg](../media/docs/Alfred%20Evans.jpg) | Portrait of Alfred Edward William Evans |
-| [Alfred Evans 2.jpg](../media/docs/Alfred%20Evans%202.jpg) | Second portrait of Alfred |
-| [william-evans-louisa-spencer-marriage.jpg](../media/docs/william-evans-louisa-spencer-marriage.jpg) | Photograph captioned as William Evans and Louisa Spencer |
-
 ### Documents
 
 | Image | Subject |
 |-------|---------|
-| [St Thomas Charterhouse marriage register 1865 pp. 18-19](../media/docs/St%20Thomas%20Charterhouse%20marriage%20register%201865%20pages%2018-19%20Norman%20French%20Spencer%20Evans.jpg) | Parish register spread from Edward and Eliza Spencer's wedding year |
-| [Louisa Spencer Birth.jpg](../media/docs/Louisa%20Spencer%20Birth.jpg) | Ancestry-style birth capture for Louisa |
-| [GRO birth index Evans children](../media/docs/GRO%20birth%20index%20Evans%20children%20names%20Emma%20through%20Margaret%20England%20Wales.tif) | GRO index page covering a batch of Evans births |
-| [Edward Spencer marriage extract](../sources/corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/) | Corpus bundle: Edward Spencer, marriage 26 Sep 1865, St Thomas Charterhouse |
-| [Louisa Spencer christening extract](../sources/corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/) | Corpus bundle: christening 16 Jul 1871, Saint Thomas Charterhouse |
+| [1871-census-knecht-household-pembroke-street-islington-rg10-263.jpg](../media/docs/1871-census-knecht-household-pembroke-street-islington-rg10-263.jpg) | 1871 Census — Knecht household, Pembroke Street, Islington (RG10/263) |
+| [1878-gro-marriage-index-knecht-evans-pancras.jpg](../media/docs/1878-gro-marriage-index-knecht-evans-pancras.jpg) | GRO marriage index — Dorothea Knecht / William Evans, Q4 1878, Pancras |
+| [1901-census-evans-household-pembroke-street-islington-rg13-182.jpg](../media/docs/1901-census-evans-household-pembroke-street-islington-rg13-182.jpg) | 1901 Census — Evans household, 44 Pembroke Street (RG13/182) |
+| [1911-census-evans-household-barnsbury-road-islington-rg14-878.jpg](../media/docs/1911-census-evans-household-barnsbury-road-islington-rg14-878.jpg) | 1911 Census — Evans household, 124 Barnsbury Road (RG14/878) |
+| [alfred-evans-marriage-st-davids-islington-1912.jpg](../media/docs/alfred-evans-marriage-st-davids-islington-1912.jpg) | Marriage register pp. 6–7, St David's, Islington — entry 13, 25 Dec 1912 |
+| [1921-census-evans-household-bratton-street-islington.jpg](../media/docs/1921-census-evans-household-bratton-street-islington.jpg) | 1921 Census — Alfred Evans household, 4 Bratton Street, Islington (RG 15/00915) |
+| [1921-census-evans-william-sr-household-islington-rg15-998.jpg](../media/docs/1921-census-evans-william-sr-household-islington-rg15-998.jpg) | 1921 Census — William & Dorothea Evans household (RG15/00998) |
+| [1939-register-dorothea-evans-islington.jpg](../media/docs/1939-register-dorothea-evans-islington.jpg) | 1939 Register — Dorothea Evans (widowed), Islington (R39/0272) |
 
-### Census and register citations (from GEDCOM)
+### Census and register citations
 
 | Source | Reference | People |
 |--------|-----------|--------|
 | 1881 Census | RG11/358/71/10, schedule 675 | Edward Spencer household, Clerkenwell |
 | 1851 Census | HO107/1516/627/18/79 | Eliza Thomas, Saint John Clerkenwell |
+| [1921 Census](../sources/1921-census-evans-islington.md) | RG 15/00915, schedule 243 | Alfred Evans (Costermonger), Annie Evans (Brush Maker), Alfred Charles, Joseph David, Annie — 4 Bratton Street, Islington. [Transcription](../sources/corpus/1921-census-evans-bratton-street-islington/transcription.md) |
 | 1939 Register | RG101/0291F/005/1–2, schedule 61 | Alfred Evans (Costermonger) & Annie Fensom (Printers Maker), Islington |
 | Death index | Vol 5C, p. 872 | Alfred Edward William Evans, ~Nov 1954, Islington |
 | Death index | Vol 5C, p. 1822 | Annie Fensom, ~Feb 1972, Islington |
-| Birth index | Vol 1B, p. 1099 | Joseph Evans, ~Nov 1914, Holborn |
+| Birth index | Vol 1B, p. 1099 | Joseph Evans, ~Sep 1914, Holborn |
 
 ### Contextual sources
 

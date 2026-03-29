@@ -1,0 +1,22 @@
+id: 1871-census-aberavon-lewis-lewis-household-rg10-5424
+title: "1871 Census of England & Wales — Aberavon (Lewis Lewis household, schedule 460)"
+type: census
+date: 1871-04-02
+archive:
+  repository: The National Archives
+  reference: RG 10/5424
+  schedule: 460
+  enumeration_district: 8
+  sub_district: Margam
+  registration_district: Neath
+coverage:
+  place: Aberavon, Glamorganshire, Wales
+  year: 1871
+people:
+  - lewis-lewis
+  - rachel-james  # Rachel Stephen née
+  - david-john-lewis-1857
+source_url: "https://familysearch.org/ark:/61903/1:1:V5BN-RHK"
+files:
+  transcription: transcription.md
+  image: media/docs/1871-census-aberavon-lewis-lewis-household-rg10-5424.png

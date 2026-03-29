@@ -23,7 +23,8 @@ children:
 
 - **1841** — Born **Dublin**.
 - **8 Feb 1869** — Marriage **Bombay Presidency, India** to William O’Byrne White.
-- **1901 / 1911** — Census: **Tralee Urban**, **Denny Street**, wife of household head.
+- **1901** — Census: **Denny Street, Tralee Urban**, wife; age 59, birthplace Dublin. See [1901 census transcription](../sources/corpus/ireland-census-1901-34e603dc32/transcription.md).
+- **1911** — Same address; recorded as **Katie**, age 69, birthplace Dublin City; 42 years married, 8 children born alive, 6 still living. See [1911 census transcription](../sources/corpus/census-for-whites-in-1911-in-ireland-20007ea92c/transcription.md).
 - **1937** — Died **Tralee, Kerry** (export + FamilySearch Irish deaths index).
 
 ## Family

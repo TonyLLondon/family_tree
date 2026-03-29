@@ -54,7 +54,7 @@ For the Evans line in this tree — rooted in **Holborn and Islington**, London 
 
 ## In this tree
 
-**[William Evans](../people/william-evans-i289.md)** (b. c. 1862) married [Louisa Spencer](../people/louisa-spencer.md) on 26 July 1891. Their son **[Alfred Edward William Evans](../people/alfred-edward-william-evans.md)** (b. 1893, Holborn) was a costermonger in Clerkenwell who married [Annie Fensom](../people/annie-fensom-i291.md). Alfred's son **[Joseph Evans](../people/joseph-evans-i18.md)** (b. 1940) married [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md), bringing the Chilean Maule line into the tree. Through the Evans–[Coolbear](surname-coolbear.md) connection (May Coolbear married into the Evans family in 1940), the Essex RAF story also feeds into this branch.
+**[William Evans](../people/william-evans-i289.md)** (b. c. 1857, Clerkenwell) married [Dorothea Knecht](../people/dorothea-knecht.md) in Q4 1878. Despite the Welsh surname, William was London-born; Dorothea was the daughter of a German gas worker and an Irish mother. Their son **[Alfred Evans](../people/alfred-evans-i101.md)** (b. 1893, Holborn) was a costermonger in Clerkenwell who married [Annie Fensom](../people/annie-fensom-i291.md). Alfred's son **[Joseph Evans](../people/joseph-evans-i18.md)** (b. 1940) married [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md), bringing the Chilean Maule line into the tree. Through the Evans–[Coolbear](surname-coolbear.md) connection (May Coolbear married into the Evans family in 1940), the Essex RAF story also feeds into this branch.
 
 ---
 

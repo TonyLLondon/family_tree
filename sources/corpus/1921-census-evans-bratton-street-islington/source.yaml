@@ -1,0 +1,18 @@
+id: 1921-census-evans-bratton-street-islington
+title: "1921 Census of England & Wales — Evans household, 4 Bratton Street, Islington (schedule 243)"
+remote:
+  webpage_url: https://www.findmypast.co.uk/1921-census
+fetches:
+- kind: local-scan
+  at: '2026-03-28T00:00:00Z'
+  media_reference: media/docs/1921-census-evans-household-bratton-street-islington.jpg
+files:
+  transcription: transcription.md
+  media_reference: media/docs/1921-census-evans-household-bratton-street-islington.jpg
+archive:
+  repository: The National Archives
+  series: RG 15
+  piece: "00915"
+  schedule: 243
+  reference: "RG 15/00915, RD 10 RS 4 ED 21, schedule 243"
+  description: "1921 Census of England & Wales, Islington, Lower Holloway sub-district"

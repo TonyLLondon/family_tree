@@ -9,4 +9,6 @@ fetches:
   media_reference: media/docs/Catherine Enright 1911.pdf
 files:
   pdf_markdown: extracted.pdf.md
+  transcription: transcription.md
   media_reference: media/docs/Catherine Enright 1911.pdf
+  image: "media/docs/1911 Ireland census Form A Catherine O'Shea household Monkstown boarders Form B34.jpg"

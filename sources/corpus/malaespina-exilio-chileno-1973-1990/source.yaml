@@ -1,0 +1,23 @@
+id: malaespina-exilio-chileno-1973-1990
+title: "La prohibición de vivir en la patria: El exilio chileno 1973–1990"
+author: "Constanza Araya"
+publisher: "Mala Espina Check"
+date: "2023-09-05"
+language: "es"
+description: >
+  Overview of the Chilean exile (1973–1990): legal instruments (DL 81, DL 604,
+  DS 504), categories of exiles (asilados, expelled, extrañados, self-exiled),
+  geographic distribution, and estimates of over 200,000 affected. Published for
+  the 50th anniversary of the coup.
+remote:
+  webpage_url: https://www.malaespinacheck.cl/pais/2023/09/05/la-prohibicion-de-vivir-en-la-patria-el-exilio-chileno-1973-1990/
+fetches:
+- kind: web
+  at: '2026-03-29T00:18:41Z'
+  remote_url: https://www.malaespinacheck.cl/pais/2023/09/05/la-prohibicion-de-vivir-en-la-patria-el-exilio-chileno-1973-1990/
+  sha256: ecc5c507ce55715d0b0a4e26bf2898e437f439876b76d019cae4a73c3085a1b5
+  bytes: 270140
+  http_last_modified: Sun, 29 Mar 2026 00:18:05 GMT
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

@@ -1,0 +1,23 @@
+id: cambio21-405-mujeres-estadio-nacional-2018
+title: "Las mujeres víctimas de la dictadura prisioneras en el Estadio Nacional: Conózca en exclusiva los nombres de 405 detenidas en el principal coliseo deportivo en 1973"
+author: "Alfredo Peña"
+publisher: "Cambio21"
+date: 2018-12-31
+language: es
+description: >
+  Cambio21 exclusive publishing the official list of 405 women prisoners detained
+  at the Estadio Nacional in 1973, maintained by the Corporación Estadio Nacional
+  Memoria Viva (president: Wally Kunstmann). Helia del Carmen Cerpa Pérez appears
+  as "CERPA PEREZ HELIA DEL C". Article also details conditions in the women's
+  changing rooms (camarín) beside the stadium swimming pool.
+remote:
+  webpage_url: https://cambio21.cl/cambio21/las-mujeres-vctimas-de-la-dictadura-prisioneras-en-el-estadio-nacional-conzca-en-exclusiva-los-nombres-de-405-detenidas-en-el-principal-coliseo-deportivo-en-1973-5c26692bcd49b0733e070387
+fetches:
+- kind: web
+  at: '2026-03-28T23:33:54Z'
+  remote_url: https://cambio21.cl/cambio21/las-mujeres-vctimas-de-la-dictadura-prisioneras-en-el-estadio-nacional-conzca-en-exclusiva-los-nombres-de-405-detenidas-en-el-principal-coliseo-deportivo-en-1973-5c26692bcd49b0733e070387
+  sha256: 2dfe5c49394016df89dff3b2dca8a8cca84fea1d928dcc29e1de44a92bfba9bf
+  bytes: 48652
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

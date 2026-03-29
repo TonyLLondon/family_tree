@@ -4,7 +4,7 @@ title: Evans · Cerpa Pérez — London & Chile
 
 # Evans · Cerpa Pérez — London & Chile
 
-**Scope:** The **London Evans** line from Holborn and Islington (via [Alfred Edward William Evans](../people/alfred-edward-william-evans.md) and his son [Joseph Evans (1940)](../people/joseph-evans-i18.md)) and the **Chilean Maule** ancestry of [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) — the union (**F9**, 1982) that brings the Americas into the same structured tree as the Welsh Lewis branch. **Master topology:** [family-tree.json](../family-tree.json). **Sibling hub (Wales, Baltic, Ireland):** [Lewis · Stump · Europe](lewis-wales-stump-europe.md).
+**Scope:** The **London Evans** line from Holborn and Islington (via [Alfred Evans](../people/alfred-evans-i101.md) and his son [Joseph Evans (1940)](../people/joseph-evans-i18.md)) and the **Chilean Maule** ancestry of [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) — the union (**F9**, 1982) that brings the Americas into the same structured tree as the Welsh Lewis branch. **Master topology:** [family-tree.json](../family-tree.json). **Sibling hub (Wales, Baltic, Ireland):** [Lewis · Stump · Europe](lewis-wales-stump-europe.md).
 
 This page is the **working hub** for registers, civil records, and family media that are still thin compared with the Persia and Dalmatia corpora; it names the key JSON anchors so research can accumulate in one place. **Narratives:**
 
@@ -22,8 +22,8 @@ This page is the **working hub** for registers, civil records, and family media 
 
 | Person | Tree id | Notes |
 |--------|---------|--------|
-| [William Evans (London)](../people/william-evans-i289.md) | `I289` | Marriage to [Louisa Spencer](../people/louisa-spencer.md) **26 July 1891** (**F136**). |
-| [Alfred Edward William Evans](../people/alfred-edward-william-evans.md) | `I101` | b. Holborn; m. [Annie Fensom](../people/annie-fensom-i291.md) **25 Dec 1912** (**F50**). |
+| [William Evans (London)](../people/william-evans-i289.md) | `I289` | Marriage to [Dorothea Knecht](../people/dorothea-knecht.md) **Q4 1878** (**F136**). Parents-in-law: [George Knecht](../people/george-knecht.md) (Germany) and [Eliza](../people/eliza-knecht.md) (Ireland). |
+| [Alfred Evans](../people/alfred-evans-i101.md) | `I101` | b. Holborn; m. [Annie Fensom](../people/annie-fensom-i291.md) **25 Dec 1912** (**F50**). |
 | [Annie Fensom](../people/annie-fensom-i291.md) | `I291` | Islington; wife of Alfred (**F50**). |
 | [Joseph Evans (c. 1914)](../people/joseph-evans-i99.md) | `I99` | Alfred & Annie’s son; m. [May Coolbear](../people/may-coolbear-i100.md) **~Aug 1940** (**F49**). |
 | [May Coolbear](../people/may-coolbear-i100.md) | `I100` | Daughter of [Archibald Percy Coolbear](../people/archibald-percy-coolbear.md); m. Joseph **I99** (**F49**). |
@@ -60,7 +60,7 @@ Files that belong to the **Evans–Spencer** household but were not yet linked f
 
 Same surnames as Rosina’s Moran line but **different people**: [William Moran (St Neots)](../people/william-moran-i235.md) (`I235`) & [Hannah Walton](../people/hannah-walton-i234.md) — marriage **6 Sep 1868**. Children include [Elizabeth Moran (Holloway)](../people/elizabeth-moran-i233.md) (`I233`, not [Elizabeth `I230`](../people/elizabeth-moran-i230.md)), [William Walton](../people/william-walton-i241.md), [James Moran](../people/james-moran-i237.md), [Emma Moran](../people/emma-moran-i238.md), [Sarah Moran](../people/sarah-moran-i236.md), [Arthur Moran](../people/arthur-moran-i239.md), [Rose Moran](../people/rose-moran-i240.md).
 
-**Civil registration and parish work:** London BMD indices, GRO ordering, and Islington/Holborn Catholic or Anglican registers should tie **I99** and **I100** to the same evidence style as the Spencer parish PDFs referenced from [Louisa Spencer](../people/louisa-spencer.md).
+**Civil registration and parish work:** London BMD indices, GRO ordering, and Islington/Holborn Catholic or Anglican registers should tie **I99** and **I100** to the same evidence style as the census and GRO records used to establish the [Dorothea Knecht](../people/dorothea-knecht.md) correction.
 
 ---
 
@@ -83,7 +83,7 @@ Parents of [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) (**F1
 
 **Grandparents:** [Francisco Cerpa](../people/francisco-cerpa-i348.md) & [Ana González](../people/ana-gonzalez-i349.md) (**F163**); [Francisco Antonio Pérez Avejares](../people/francisco-antonio-perez-i350.md) (b. 1882) & [Soraida del Carmen Escobar Muñoz](../people/zoraida-escobar-i351.md) (b. 1885) (**F164**).
 
-**Biographical context (2026):** [Helia's person page](../people/helia-cerpa-perez.md) now carries a full biographical narrative — Allende administration, flight through Rome, resettlement in London, and decades of housing advocacy at the Ossulston Estate in Camden (documented in council minutes 2011–2023). **Story:** [Parral to Camden — Helia Cerpa-Pérez](../stories/helia-cerpa-perez-chile-exile-camden.md).
+**Biographical context (2026):** [Helia's person page](../people/helia-cerpa-perez.md) now carries a full biographical narrative — Allende administration, **detention at the Estadio Nacional** (confirmed: "CERPA PEREZ HELIA DEL C" on the Corporación Estadio Nacional's list of 405 women prisoners, published *Cambio21* 31 Dec 2018; [corpus](../sources/corpus/cambio21-405-mujeres-estadio-nacional-2018/source.yaml); [citation card](../sources/estadio-nacional-mujeres-detenidas-2018.md)), exile through Rome, resettlement in London, **formal prohibition from re-entering Chile** (confirmed: "Cerpa Pérez, Helia del Carmen" on page 12 of the *Sexto listado*, 15 July 1985, in *Cartilla del Retornado* Nº 3, Comité Pro-Retorno de Exiliados / Vicaría de la Solidaridad; [corpus](../sources/corpus/1985-cartilla-retornado-3-prohibicion-ingreso/source.yaml); [citation card](../sources/cartilla-retornado-prohibicion-ingreso-1985.md)), and decades of housing advocacy at the Ossulston Estate in Camden (documented in council minutes 2011–2023). **Story:** [Parral to Camden — Helia Cerpa-Pérez](../stories/helia-cerpa-perez-chile-exile-camden.md).
 
 **Research direction:** Chilean **civil registration** (Registro Civil) for Maule and online finding aids for **Parral / Linares / Chanco / Cauquenes**; family photographs and obituaries under `media/` should be linked here when filed. No dedicated corpus bundle yet — when PDFs or scans land, add a `sources/corpus/<slug>/` bundle and a short card under `sources/`.
 

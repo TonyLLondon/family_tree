@@ -26,7 +26,13 @@ const NON_BIOGRAPHICAL_PEOPLE_SLUGS = new Set([
 
 export function getPeopleSlugs(): string[] {
   const dir = repoPath("people");
-  return listMdFiles(dir).map((f) => path.basename(f, ".md"));
+  return listMdFiles(dir)
+    .filter((f) => {
+      const raw = fs.readFileSync(f, "utf8");
+      const { data } = matter(raw);
+      return data.published !== false;
+    })
+    .map((f) => path.basename(f, ".md"));
 }
 
 /** Person files under `people/*.md` minus planning stubs (for site stats). */

@@ -96,7 +96,7 @@
 | `@I427@` | Lewis /LEWIS/ | `people/lewis-lewis.md` | yes |
 | `@I327@` | Matthew Esmond /WHITE/ | `people/matthew-esmond-white.md` | yes |
 | `@I23@` | Pietro Paolo /ADDOBBATI/ | `people/pietro-paolo-addobbati.md` | yes |
-| `@I428@` | Rachel /JAMES/ | `people/rachel-james.md` | yes |
+| `@I428@` | Rachel /STEPHEN/ | `people/rachel-james.md` | yes |
 | `@I22@` | Simeone Vincenzo /BOARA/ | `people/simeone-vincenzo-boara.md` | yes |
 | `@I177@` | Thomas /CUSHEN/ | `people/thomas-cushen.md` | yes |
 | `@I422@` | Thomas /GRIFFITHS/ | `people/thomas-griffiths.md` | yes |

@@ -1,0 +1,18 @@
+id: 1901-census-aberdare-david-john-lewis-household-rg13-5035
+title: "1901 Census of England & Wales — Glen Road, Aberdare (David John Lewis household, schedule 242)"
+remote:
+  webpage_url: https://www.findmypast.co.uk
+fetches:
+- kind: local-scan
+  at: '2026-03-28T00:00:00Z'
+  media_reference: media/docs/1901-census-glen-road-aberdare-david-john-lewis-household-rg13-5035.jpg
+files:
+  transcription: transcription.md
+  media_reference: media/docs/1901-census-glen-road-aberdare-david-john-lewis-household-rg13-5035.jpg
+archive:
+  repository: The National Archives
+  reference: RG 13/5035
+  folio: 70
+  page: 41
+  schedule: 242
+  description: "1901 Census of England & Wales, household schedule for Glen Road, Gadlys, Aberdare"

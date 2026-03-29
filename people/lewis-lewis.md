@@ -2,8 +2,10 @@
 name: Lewis Lewis
 treeId: I427
 gedcom: "@I427@"
-born: 1821
-birth_place: Glamorganshire, Wales, United Kingdom
+born: 1813
+birth_place: Briton Ferry, Glamorganshire, Wales
+died: 1872
+death_place: Port Talbot, Aberavon, Glamorganshire, Wales
 sex: male
 spouses:
   - rachel-james
@@ -11,29 +13,98 @@ children:
   - david-john-lewis-1857
 ---
 
-# Lewis Lewis
+# Lewis Lewis (1813–1872)
 
-Lewis Lewis is the doubled name the index clerks loved: a Glamorganshire carpenter who spent three census nights as head of household at Gelligaer, Merthyr registration district, while his ages crept from thirty-eight to sixty across the same ridge of country his grandchildren would later mine. The parish field on his export line stays vague—*Glamorganshire* without a single chapel door named—but the enumerator’s route is not: Merthyr’s industrial fringe, a wife who aged in step, and a son [David John Lewis (1857)](david-john-lewis-1857.md) who carried the patronymic into the coal era.
+Lewis Lewis — the doubled Welsh patronymic that confounded every index clerk — married twice and fathered at least fifteen children across four decades on the south Wales coast.
 
-Death in the merged file is only a flag without date or stone; work remains to close him out in civil or burial registers.
+Baptised **14 March 1813** at **Briton Ferry**, Glamorganshire, the son of **David Lewis** (labourer) and **Ann**, he grew up on the west bank of the River Neath where tinplate, copper, and the coastal trade dominated working life.
+
+On **28 June 1834** he married **Mary Ann Prichard**, a spinster of Briton Ferry, by banns at Briton Ferry parish church. Lewis was described as "of Aberavon," suggesting he had already moved three miles south-west along the coast for work. By the [1841 census](../sources/1841-census-lewis-lewis-briton-ferry.md) they were back at **Giant's Grave, Briton Ferry**, Lewis a labourer with three children. The family then settled permanently at **Port Talbot, Aberavon**, where three more daughters were born. Mary Ann died on or shortly before **10 July 1849** and was buried at Aberavon parish church, aged 44.
+
+By the [1851 census](../sources/1851-census-lewis-lewis-aberavon.md) Lewis was a **widower** at 38, a **wood ward** (estate forester), raising six children alone. Between 1851 and 1857 he married [Rachel Stephen](rachel-james.md), a farmer's daughter from Llanarthne, Carmarthenshire — twelve years his junior, baptised there on 9 October 1825. Their eldest son [David](david-john-lewis-1857.md) was baptised at Aberavon in August 1857. By the [1871 census](../sources/1871-census-aberavon-lewis-lewis.md) Lewis was 58, a **porter**, with Rachel and nine children — none of the first-marriage children remained in the household.
+
+Lewis Lewis died at Port Talbot in late 1872 and was buried at **Aberavon (St Mary) on 18 December 1872**, aged 60. The GRO death index records him in Q4 1872, Neath district, Vol 11A p. 413.
+
+The GEDCOM export (I427) recorded Lewis Lewis as a **carpenter** at **Gelligaer** with census references RG09/4046, RG10/5388, and RG11/5308. Those references belong to a **different Lewis Lewis** — the real 1871 reference is **RG10/5424**, Aberavon.
+
+## Life
+
+| Year | Age | Event |
+|------|-----|-------|
+| 14 Mar 1813 | — | Baptised at Briton Ferry; son of David Lewis (labourer) and Ann |
+| 28 Jun 1834 | 21 | Married **Mary Ann Prichard** by banns at Briton Ferry parish church |
+| 1841 | 28 | [Census](../sources/1841-census-lewis-lewis-briton-ferry.md): Giant's Grave, Briton Ferry; labourer; wife Mary, children Ann, Henry, baby Elizabeth |
+| c. 1841–44 | — | Family moved from Briton Ferry to Port Talbot, Aberavon |
+| 10 Jul 1849 | 36 | Wife Mary Ann buried at Aberavon, aged 44 |
+| 1851 | 38 | [Census](../sources/1851-census-lewis-lewis-aberavon.md): Port Talbot, Aberavon; widower, wood ward; six children |
+| Q4 1856 | 43 | Married [Rachel Stephen](rachel-james.md) (bap. 1825, Llanarthne, Carmarthenshire); GRO marriage Q4 1856, Neath, Vol 11A p. 784 |
+| 1857 | 44 | Son [David](david-john-lewis-1857.md) baptised at Aberavon (Aug 1857) |
+| 1871 | 58 | [Census](../sources/1871-census-aberavon-lewis-lewis.md): Aberavon; porter; Rachel and nine children |
+| 18 Dec 1872 | 59 | Buried at Aberavon (St Mary), aged 60; GRO death Q4 1872, Neath, Vol 11A p. 413 |
 
 ## Family
 
-- Wife: [Rachel James](rachel-james.md).
-- Children: [David John Lewis (1857)](david-john-lewis-1857.md); further siblings on the same union in the working tree.
+### Parents
+
+- Father: **David Lewis** (bapt. 7 January 1794, Briton Ferry), labourer of Baglan/Briton Ferry, son of **William Lewis** and **Catherine Rees**
+- Mother: **Ann Davies** (spinster of Briton Ferry), married David at Briton Ferry on 23 May 1812
+
+### First wife: Mary Ann Prichard (c. 1805–1849)
+
+Born about 1805 in Glamorganshire. Married Lewis at Briton Ferry on 28 June 1834. Buried 10 July 1849 at Aberavon, aged 44, residence Port Talbot.
+
+**Children with Mary Ann** (all born Glamorgan):
+
+| Name | Birth | Birthplace | Notes |
+|------|-------|------------|-------|
+| Ann | c. 1835 | Baglan | At home in 1851 (age 15) |
+| Henry | c. 1837 | Baglan | Lister in tin works (1851, age 14) |
+| Elizabeth (Eliza) | c. 1841 | Briton Ferry | Infant on 1841 census |
+| Mary | c. 1844 | Aberavon | On 1851 census (age 7) |
+| Gwen | c. 1846 | Aberavon | On 1851 census (age 5) |
+| Sarah | c. 1848 | Aberavon | On 1851 census (age 3) |
+
+### Second wife: [Rachel Stephen](rachel-james.md) (1825–?)
+
+Baptised **9 October 1825** at **Llanarthne**, Carmarthenshire, daughter of **William Stephen** (farmer) and **Mary** (parish register p. 81, No. 648). She gave her age as 41 on the 1871 census (implying ~1830), five years younger than her actual baptism date. Married Lewis in **Q4 1856** (GRO marriage, Neath district, Vol 11A p. 784). MarriageFinder cross-references Lewis Lewis to **Rachel Stephens** or Betsey Williams — since we know the wife was Rachel, the maiden name is **Stephen(s)**. The GEDCOM's "James" was wrong.
+
+**Children with Rachel** (all born Aberavon, from 1871 census):
+
+| Name | Birth | Notes |
+|------|-------|-------|
+| [David John Lewis](david-john-lewis-1857.md) | 1857 | Baptised Aberavon Aug 1857; later collier at Aberdare |
+| Margaret | c. 1859 | |
+| Jane | c. 1861 | |
+| John | c. 1862 | |
+| Lewis | c. 1863 | |
+| Rachel | c. 1864 | |
+| William | c. 1866 | |
+| Thomas | c. 1868 | |
+| Samuel | c. 1869 | |
 
 ## Evidence
 
-- Census extracts in merged export — 1861, 1871, 1881 Gelligaer households (piece and folio under **Export**).
+- **Baptism of David Lewis, 7 January 1794, Briton Ferry** — son of William Lewis and Catherine Rees. Parish register P/70 ([image](../media/docs/1794-baptism-david-lewis-briton-ferry-p70.jpg)).
+- **Marriage of David Lewis × Ann Davies, 23 May 1812, Briton Ferry** — David Lewis, bachelor of Baglan, and Ann Davies, spinster of Briton Ferry. By banns. Witnesses: Rees Powell, Morgan Evans. Parish register P/70/CW/8, p. 23 ([image](../media/docs/1812-marriage-david-lewis-ann-davies-briton-ferry-p70.jpg)).
+- **Baptism, 14 March 1813, Briton Ferry** — Lewis, son of David and Ann Lewis, labourer. Parish register P/70/CW/9 ([image](../media/docs/1813-baptism-lewis-lewis-briton-ferry-p68.jpg)).
+- **Marriage, 28 June 1834, Briton Ferry** — Lewis Lewis, bachelor, of Aberavon, and Mary Ann Prichard, spinster, of Briton Ferry. By banns. Witnesses: Thomas Williams, Morgan Evans. Parish register P/70/CW/9, p. 20 ([image](../media/docs/1834-marriage-lewis-lewis-mary-ann-prichard-briton-ferry-p70.jpg)).
+- [1841 census — Giant's Grave, Briton Ferry](../sources/1841-census-lewis-lewis-briton-ferry.md) — Lewis Lewis (25), labourer; wife Mary (30); children Ann (6), Henry (4), Elizabeth (infant). HO 107/1421 ([image](../media/docs/1841-census-lewis-lewis-household-giants-grave-briton-ferry-ho107-1421.jpg)).
+- **Burial of Mary Lewis, 10 July 1849, Aberavon** — age 44, residence Port Talbot. Parish register P/68/CW/11, p. 92 ([image](../media/docs/1849-burial-mary-lewis-aberavon-p68.jpg)).
+- [1851 census — Port Talbot, Aberavon](../sources/1851-census-lewis-lewis-aberavon.md) — Lewis Lewis (38), **widower**, wood ward, born Briton Ferry; six children. HO 107/2467, p. 233 ([image](../media/docs/1851-census-lewis-lewis-household-aberavon-ho107-2467.jpg)).
+- **GRO marriage index, Q4 1856** — Lewis Lewis, Neath district, Vol 11A p. 784. MarriageFinder cross-references **Rachel Stephens** and Betsey Williams.
+- [1871 census — Aberavon](../sources/1871-census-aberavon-lewis-lewis.md) — head, age 58, porter, born Briton Ferry; wife Rachel (41, Carmarthen); nine children ([transcription](../sources/corpus/1871-census-aberavon-lewis-lewis-household-rg10-5424/transcription.md) · [image](../media/docs/1871-census-aberavon-lewis-lewis-household-rg10-5424.png)). RG 10/5424, schedule 460.
+- [Baptism of David Lewis, Aberavon, 1857](../sources/aberavon-baptism-david-lewis-1857.md) — FamilySearch index confirms Lewis Lewis as father ([transcription](../sources/corpus/aberavon-baptism-david-lewis-1857/transcription.md)).
+- **GRO death index, Q4 1872** — Lewis Lewis, male, age 60, Neath district, Vol 11A p. 413 ([image](../media/docs/gro-death-index-q4-1872-lewis-lewis-neath.jpg)).
+- **Burial, 18 December 1872, Aberavon (St Mary)** — Lewis Lewis, age 60, residence Port Talbot. Parish register P/68/CW/12, p. 228 ([image](../media/docs/1872-burial-lewis-lewis-aberavon-p68.jpg)).
 
-**Export:**
+**Export (partially wrong):**
 
-- **treeId** **I427**; union **F189** with [Rachel James](rachel-james.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- Census in export: 1861 RG09/4046; 1871 RG10/5388 folio 55 p. 28 schedule 117; 1881 RG11/5308 folio 3 p. 6 schedule 24 — occupation carpenter in 1881.
-- Further children on **F189** — merged export; **Site:** [Ancestor chart](/chart) (**treeId** **I427** matches YAML).
-- Death: export marks **DEAT Y** without structured date/place in slice used here.
+- **treeId** **I427**; union **F189** with [Rachel Stephen](rachel-james.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- GEDCOM census references (1861 RG09/4046; 1871 RG10/5388; 1881 RG11/5308 — "carpenter") are **wrong**: they belong to a different Lewis Lewis at Gelligaer. Actual 1871 reference: **RG10/5424**, Aberavon.
 
 ## Open questions
 
-- Death and burial — GRO Merthyr or Glamorgan parish register.
-- Earlier generation — **FAMC** for Lewis not wired in strict-ancestor table until the patriline is extended from the same export.
+- **1861 census** — Lewis Lewis at Aberavon (~48); not yet located. GEDCOM RG09/4046 is wrong person; the Lewis Lewis (45, collier) at Lantwit Juxta/Resolven (RG 9/4087) with wife Anne from Carmarthenshire is also a different man.
+- **Rachel after 1872** — Lewis died December 1872; Rachel was 47 (born 1825, not ~1830 as censuses suggest). Not yet found on 1881 census. The Rachel Lewis at Llangunnor, Carmarthen (1881) is a different family (farmer).
+- **William & Mary Stephen** — Rachel's parents, identified from her 1825 Llanarthne baptism. William was a farmer. No further records located yet for the Stephen family.
+- **William Lewis × Catherine Rees marriage** — David Lewis's parents, at Briton Ferry. The William Lewis × Sarah Bowen marriage at Baglan (1785) is a different couple. Briton Ferry / Neath registers from the 1780s–90s could locate the right marriage.

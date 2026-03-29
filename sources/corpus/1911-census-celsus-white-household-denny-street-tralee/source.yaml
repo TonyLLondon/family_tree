@@ -1,0 +1,8 @@
+id: 1911-census-celsus-white-household-denny-street-tralee
+title: 1911 Census of Ireland — Celsus White household, 27 Denny Street, Tralee
+remote:
+  webpage_url: https://census.nationalarchives.ie
+files:
+  transcription: transcription.md
+  image: media/docs/1911-census-celsus-white-household-denny-street-tralee.jpg
+  original_pdf: "media/docs/Catherine Enright 1911.pdf"

@@ -1,0 +1,27 @@
+id: oas-iachr-chile-1985-residence-movement
+title: "Report on the Situation of Human Rights in Chile — Chapter VI(a): Right of Residence and Movement"
+author: "Inter-American Commission on Human Rights (IACHR)"
+publisher: "Organization of American States"
+date: "1985-09-09"
+language: "en"
+description: >
+  Chapter VI(a) of the OAS IACHR 1985 report on Chile, documenting the regime's
+  systematic violation of the right to residence and movement through expulsions,
+  prohibitions of entry (the banned list system), and the effects of exile. Documents
+  the September 1985 list of 3,878 persons barred from entering Chile, individual
+  cases (Mireya Baltra, Andrés Zaldívar, the Illapu group), and the regime's use
+  of Decree Law 604 (1974) and the 24th Transitory Provision of the 1980
+  Constitution. Declares these measures a violation of Article VIII of the
+  American Declaration of the Rights and Duties of Man.
+remote:
+  webpage_url: https://cidh.oas.org/countryrep/Chile85eng/chap.6a.htm
+fetches:
+- kind: web
+  at: '2026-03-29T00:17:02Z'
+  remote_url: https://cidh.oas.org/countryrep/Chile85eng/chap.6a.htm
+  sha256: fb38559c38e12b70eb5fff4f53bbc6d86718c78ba2580d5e02fa13d353f50629
+  bytes: 115094
+  http_last_modified: Mon, 20 Sep 2004 13:45:21 GMT
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

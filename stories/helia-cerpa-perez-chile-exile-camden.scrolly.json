@@ -4,7 +4,7 @@
     "subtitle": "Helia Cerpa-Pérez — Allende, exile, and thirty years of housing advocacy on a London council estate",
     "era": "1943 – 2025"
   },
-  "scrollyStepCount": 8,
+  "scrollyStepCount": 10,
   "steps": [
     {
       "era": "1943 – 1970",
@@ -31,6 +31,14 @@
       }
     },
     {
+      "era": "September – November 1973",
+      "media": {
+        "src": "media/context/chile-exile/estadio-nacional-graderias-memorial-2019.jpg",
+        "alt": "Memorial in the grandstands of the Estadio Nacional, Santiago — the former mass detention centre where Helia Cerpa-Pérez was held in 1973",
+        "caption": "Estadio Nacional memorial, 2019. Photograph by Claudiavargasmoncada, CC BY-SA 4.0. Helia appears as 'CERPA PEREZ HELIA DEL C' on the official list of 405 women prisoners"
+      }
+    },
+    {
       "era": "1973 – 1978",
       "media": {
         "src": "media/context/chile-exile/la-moneda-palace-santiago.jpg",
@@ -44,6 +52,14 @@
         "src": "media/context/chile-exile/chile-solidarity-campaign-london-1979.jpg",
         "alt": "Chile Solidarity Campaign national demonstration at Trafalgar Square, London, 16 September 1979",
         "caption": "Trafalgar Square, 16 September 1979. Photograph by Gillfoto. The Chile Solidarity Campaign had sixty local committees and thirty affiliated trade unions by 1976"
+      }
+    },
+    {
+      "era": "1985 – 1988",
+      "media": {
+        "src": "media/docs/1985-cartilla-retornado-3-comite-pro-retorno-cover.jpg",
+        "alt": "Cover of the Cartilla del Retornado Nº 3, November 1985, listing Chileans banned from re-entering their country — including Helia Cerpa Pérez on page 12",
+        "caption": "Cartilla del Retornado Nº 3, November 1985 — 'List of Persons Banned from Entry.' Published by the Comité Pro-Retorno de Exiliados with the Vicaría de la Solidaridad. Helia appears on page 12"
       }
     },
     {

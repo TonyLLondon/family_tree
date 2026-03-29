@@ -60,8 +60,8 @@ Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** i
 
 ### Tralee decades
 
-- **1901** — Head of household, **Tralee Urban**, **Denny Street** (census `EVEN`)
-- **1911** — Same **Denny Street** household (census cluster indexed in export sources)
+- **1901** — Head of household, **Denny Street**, Tralee Urban; four persons (William, Catherine, daughter Kathleen, servant). Age 57, "Physician & Surgeon, LRCPI LRCSI." See [1901 census transcription](../sources/corpus/ireland-census-1901-34e603dc32/transcription.md).
+- **1911** — Same **Denny Street** household; five persons (William, Katie, Kathleen, a boarder, servant). Age 67, married 42 years, 8 children born alive, 6 still living. See [1911 census transcription](../sources/corpus/census-for-whites-in-1911-in-ireland-20007ea92c/transcription.md).
 - **1931** — Died **Tralee, Kerry**
 
 ## Family

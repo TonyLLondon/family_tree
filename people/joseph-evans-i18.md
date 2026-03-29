@@ -15,7 +15,7 @@ children:
 
 # Joseph Evans (1940)
 
-**Joseph** arrived in **Holborn** in **late summer 1940**—son of [Joseph Evans (c. 1914)](joseph-evans-i99.md) and [May Coolbear](may-coolbear-i100.md), grandson of **costermonger** [Alfred Edward William Evans](alfred-edward-william-evans.md) and the **Clerkenwell–Islington** world of barrow and bench. His marriage to [Helia Cerpa-Pérez](helia-cerpa-perez.md) in **1982** joined that London labour pedigree to **Maule**, **Allende’s Chile**, **exile in Rome**, and decades of **Camden** housing politics; their daughter [Jacqueline](jacqueline-caroline-evans-i5.md) carries both stories forward into the **Lewis** line.
+**Joseph** arrived in **Holborn** in **late summer 1940**—son of [Joseph Evans (c. 1914)](joseph-evans-i99.md) and [May Coolbear](may-coolbear-i100.md), grandson of **costermonger** [Alfred Evans](alfred-evans-i101.md) and the **Clerkenwell–Islington** world of barrow and bench. His marriage to [Helia Cerpa-Pérez](helia-cerpa-perez.md) in **1982** joined that London labour pedigree to **Maule**, **Allende’s Chile**, **exile in Rome**, and decades of **Camden** housing politics; their daughter [Jacqueline](jacqueline-caroline-evans-i5.md) carries both stories forward into the **Lewis** line.
 
 ## Family
 

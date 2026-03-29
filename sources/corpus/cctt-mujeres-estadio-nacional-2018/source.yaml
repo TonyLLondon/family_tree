@@ -1,0 +1,22 @@
+id: cctt-mujeres-estadio-nacional-2018
+title: "Estad(i)o Nacional de Chile: más de 400 mujeres detenidas"
+author: "Alfredo Peña (via Cambio21)"
+publisher: "Correo de los Trabajadores"
+date: 2018-12-31
+language: es
+description: >
+  Syndication of the Cambio21 article publishing the Corporación Estadio Nacional
+  Memoria Viva's official list of 405 women detained at the Estadio Nacional in 1973.
+  Includes a photograph by Marcelo Montecino of women detainees. Primary source is
+  the Cambio21 original (see cambio21-405-mujeres-estadio-nacional-2018).
+remote:
+  webpage_url: https://cctt.cl/2018/12/31/estadio-nacional-de-chile-mas-de-400-mujeres-detenidas/
+fetches:
+- kind: web
+  at: '2026-03-28T23:33:59Z'
+  remote_url: https://cctt.cl/2018/12/31/estadio-nacional-de-chile-mas-de-400-mujeres-detenidas/
+  sha256: 5136609e24e480bf13c4f9ea8485bdb3fd838fcf846144c6a7154f871114ba6b
+  bytes: 136177
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

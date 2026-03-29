@@ -138,7 +138,7 @@ Stories are **visual-rich scrollytelling pages** on the web app, not plain markd
 }
 ```
 
-**Image paths** in `steps[].media.src` are **repo-relative** (e.g. `media/docs/Alfred Evans.jpg`). The web app resolves them to `/files/…` URLs via `photoPublicPath`. Use family photos from `media/docs/` or `media/images/portraits/` where available; use context images from `media/context/<topic>/` for scenes, maps, and landmarks. Each `media/context/<topic>/` directory must include a `CREDITS.md` listing source and licence for every image.
+**Image paths** in `steps[].media.src` are **repo-relative** (e.g. `media/docs/alfred-evans-baptism-holy-redeemer-clerkenwell-1893.jpg`). The web app resolves them to `/files/…` URLs via `photoPublicPath`. Use family photos from `media/docs/` or `media/images/portraits/` where available; use context images from `media/context/<topic>/` for scenes, maps, and landmarks. Each `media/context/<topic>/` directory must include a `CREDITS.md` listing source and licence for every image.
 
 **How it renders:** `web/components/ScrollytellingNarrative.tsx` uses `react-scrollama` + GSAP. A sticky full-viewport image stack crossfades behind the text as the user scrolls. The hero overlay (title/subtitle/era) fades out when the first step enters. Images get a slow Ken Burns zoom. If no `.scrolly.json` sidecar exists, the story falls back to a plain `PageShell` + `MarkdownContent` article layout.
 

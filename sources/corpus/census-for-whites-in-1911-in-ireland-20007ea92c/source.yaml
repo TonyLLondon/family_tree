@@ -9,4 +9,6 @@ fetches:
   media_reference: media/docs/census for whites in 1911 in ireland.pdf
 files:
   pdf_markdown: extracted.pdf.md
+  transcription: transcription.md
   media_reference: media/docs/census for whites in 1911 in ireland.pdf
+  image: media/docs/1911-census-white-household-denny-street-tralee.jpg

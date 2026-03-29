@@ -21,7 +21,8 @@ First World War **soldier-turned-airman** (**RAF official number 125257**) whose
 
 ### Before the war
 
-- **Mar 1892** — Born **Maldon, Essex** (vitals from merged export aligned to structured tree). Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md) and [Alma Newcomb](alma-newcomb-i106.md); their marriage **1879** in the working tree.
+- **Mar 1892** — Born **Maldon, Essex** (vitals from merged export aligned to structured tree). Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md) and [Alma Newcomb](alma-newcomb-i106.md); their marriage **1879** in the working tree. Father died the same year (~1892).
+- **1901 Census** — aged 9, living as step-son of **Reuben South** (farm dayman) at Little Totham, Essex. Mother Alma had remarried. [Source card](../sources/1901-census-south-coolbear-little-totham.md).
 - **Civilian occupation** — **Chimney sweep** (RAF service form, field 5a).
 - **28 Oct 1911** — Marriage to [Rosina A Martin](rosina-a-martin-i104.md). Town on the service form is partially legible (possibly Bottlewell / Southwell). The merged export had **December 1911**; the form's **28.10.11** is primary evidence and takes precedence.
 - **Mar 1916** — Daughter [May Coolbear](may-coolbear-i100.md) born (tree).
@@ -83,8 +84,12 @@ The character page records medal dates: BWM + VM authorised 23/4/12 to 5/5/22; 1
 ## Family
 
 - Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md); [Alma Newcomb](alma-newcomb-i106.md).
-- Wife: [Rosina A Martin](rosina-a-martin-i104.md).
-- Daughter: [May Coolbear](may-coolbear-i100.md) — mother of [Joseph Evans (1940)](joseph-evans-i18.md).
+- Wife: [Rosina A Martin](rosina-a-martin-i104.md) (b. 1891, Orpington, Kent). Daughter of **Peter Martin**, chimney sweep from Woolwich — a trade family connection. Rosina's brother **Edward Martin** lived with the Coolbears in 1921.
+- Children:
+  - Archibald Coolbear Jr (I593, b. 1912, Rochford, Essex)
+  - [May Coolbear](may-coolbear-i100.md) (I100, b. Mar 1916, Southend) — married [Joseph Evans](joseph-evans-i99.md)
+  - Henry Charles Coolbear (I594, b. 1917, Southend)
+  - Irene Coolbear (I595, b. 1921, Southend)
 
 ## Evidence
 
@@ -116,6 +121,14 @@ The full **AIR 79** service file (TNA piece **1122**, Fold3 job 17-039) is in ha
 - [Western Front Association index](../media/docs/Archibald%20Percy%20Cool%20Bear%20RAF%20125257%20Western%20Front%20Association%20index%20Image%20Info.JPG) · [(2)](../media/docs/Archibald%20Percy%20Cool%20Bear%20RAF%20125257%20Western%20Front%20Association%20index%20Image%20Info%20(2).JPG).
 - [TNA AIR — airmen records file note (piece 1122)](../media/docs/TNA%20AIR%20Airmen%20Records%20file%201122%20WWI%20Image%20Info.JPG).
 - [Fold3 AIR 79 collection metadata](../media/docs/Fold3%20UK%20RAF%20Airmen%20Records%201918-1940%20AIR%2079%20collection%20metadata.JPG) · [(2)](../media/docs/Fold3%20UK%20RAF%20Airmen%20Records%201918-1940%20AIR%2079%20collection%20metadata%20(2).JPG) · [WWI pension ledgers](../media/docs/Fold3%20UK%20WWI%20Pension%20Ledgers%20and%20Index%20Cards%201914-1923%20collection%20metadata.JPG).
+
+### 1891 Census — Martin family, Orpington (RG 12/634)
+
+Rosina's birth family: **Peter Martin** (48, chimney sweep, born Woolwich) and **Clara Martin** (40) at 1 Alfrons Cottages, Orpington, with seven sons and infant daughter Rosina. Three Martins are already sweeps: Peter Sr, Peter Jr (20), and Arthur (13). Edward Martin (3) is the brother-in-law later found in the 1921 Coolbear household. [Source card](../sources/1891-census-martin-orpington.md) · [transcription](../sources/corpus/1891-census-martin-household-orpington/transcription.md) · [census image](../media/docs/1891-census-martin-household-orpington-rg12-634.jpg).
+
+### 1921 Census (RG 15/9065)
+
+The family at Southend-on-Sea, Essex. Archibald (29, head) is a self-employed **chimney sweep, carpet beater, chair caner**. Wife Rosina (30, born Orpington, Kent). Four children: Archibald Jr (9, b. Rochford), May (5, b. Southend), Henry Charles (3, b. Southend), Irene (infant, b. Southend). Rosina's brother Edward Martin (31, stoker) also in the household. [Source card](../sources/1921-census-coolbear-southend.md) · [transcription](../sources/corpus/1921-census-coolbear-household-southend/transcription.md) · [census image](../media/docs/1921-census-coolbear-household-southend-rg15-9065.jpg).
 
 ### Duplicate source copies
 

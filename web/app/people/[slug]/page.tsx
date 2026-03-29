@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { ClickableImage } from "@/components/ClickableImage";
 import { PageShell } from "@/components/PageShell";
-import { readMarkdownFile } from "@/lib/content";
+import { getPeopleSlugs, readMarkdownFile } from "@/lib/content";
 import { repoPath } from "@/lib/paths";
 import { photoInfoForPerson, focalToObjectPosition } from "@/lib/photos";
 import { getParents, getSpouses, getChildren, getPersonBySlug, loadFamilyTree, personSlugFromPage } from "@/lib/tree";
@@ -14,12 +14,7 @@ import path from "path";
 type Props = { params: Promise<{ slug: string }> };
 
 export function generateStaticParams() {
-  const dir = repoPath("people");
-  if (!fs.existsSync(dir)) return [];
-  return fs
-    .readdirSync(dir)
-    .filter((f) => f.endsWith(".md"))
-    .map((f) => ({ slug: path.basename(f, ".md") }));
+  return getPeopleSlugs().map((slug) => ({ slug }));
 }
 
 function PersonLink({ person }: { person: Person }) {
@@ -86,6 +81,7 @@ export default async function PersonPage({ params }: Props) {
   if (!fs.existsSync(abs)) notFound();
 
   const parsed = readMarkdownFile(abs);
+  if (parsed.data.published === false) notFound();
   const tree = loadFamilyTree();
   const person = getPersonBySlug(tree, slug);
   const title =

@@ -45,7 +45,7 @@ Each scrolly step needs one background image. Three sources, in order of prefere
 
 **If context images are needed for a new topic**, create the directory `media/context/<topic>/`, source CC0/CC-BY/public-domain images (Wikimedia Commons, Library of Congress, Rijksmuseum, Internet Archive, etc.), save them there, and write the `CREDITS.md`.
 
-Image paths in `steps[].media.src` are **repo-relative** (e.g. `media/docs/Alfred Evans.jpg`). The web app resolves them to `/files/…` URLs.
+Image paths in `steps[].media.src` are **repo-relative** (e.g. `media/docs/alfred-evans-baptism-holy-redeemer-clerkenwell-1893.jpg`). The web app resolves them to `/files/…` URLs.
 
 ### 4. Write the narrative markdown
 

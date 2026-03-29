@@ -9,12 +9,16 @@ Machine-ingested bundles for **Welsh–Irish–English** lines (census extracts,
 
 ## Ireland census & civil extracts
 
-- [corpus/ireland-census-1901-34e603dc32/](corpus/ireland-census-1901-34e603dc32/)
-- [corpus/census-for-whites-in-1911-in-ireland-20007ea92c/](corpus/census-for-whites-in-1911-in-ireland-20007ea92c/)
-- [corpus/catherine-enright-1911-30da5b22af/](corpus/catherine-enright-1911-30da5b22af/)
+- [corpus/ireland-census-1901-34e603dc32/](corpus/ireland-census-1901-34e603dc32/) — **White household, Denny Street, Tralee, 1901** · [transcription](corpus/ireland-census-1901-34e603dc32/transcription.md)
+- [corpus/census-for-whites-in-1911-in-ireland-20007ea92c/](corpus/census-for-whites-in-1911-in-ireland-20007ea92c/) — **White household, Denny Street, Tralee, 1911** · [transcription](corpus/census-for-whites-in-1911-in-ireland-20007ea92c/transcription.md)
+- [corpus/1901-census-enright-oshea-household-monkstown-cork/](corpus/1901-census-enright-oshea-household-monkstown-cork/) — **Enright/O'Shea household, Monkstown, Cork, 1901** · [transcription](corpus/1901-census-enright-oshea-household-monkstown-cork/transcription.md)
+- [corpus/1901-census-william-xavier-white-household-maryborough/](corpus/1901-census-william-xavier-white-household-maryborough/) — **William Xavier White household, 2 Harpurs Lane, Maryborough, 1901** (solicitor, wife Mary, infant son William, 2 servants) · [transcription](corpus/1901-census-william-xavier-white-household-maryborough/transcription.md)
+- [corpus/1911-census-celsus-white-household-denny-street-tralee/](corpus/1911-census-celsus-white-household-denny-street-tralee/) — **Celsus White household, 27 Denny Street, Tralee, 1911** (dentist, wife Catherine, infant Declan, 2 servants) · [transcription](corpus/1911-census-celsus-white-household-denny-street-tralee/transcription.md)
+- [corpus/1911-census-cornelius-oshea-lodger-james-street-cork/](corpus/1911-census-cornelius-oshea-lodger-james-street-cork/) — **Cornelius O'Shea, lodger, 4 James Street, Cork City, 1911** (School Master, age 52, Married 19 yrs, Irish & English) · [transcription](corpus/1911-census-cornelius-oshea-lodger-james-street-cork/transcription.md)
+- [corpus/catherine-enright-1911-30da5b22af/](corpus/catherine-enright-1911-30da5b22af/) — **O'Shea household, Monkstown, Cork, 1911** (Catherine O'Shea head, 5 boarders) · [transcription](corpus/catherine-enright-1911-30da5b22af/transcription.md)
 - [corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/](corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/)
 - [corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/](corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/)
-- **Person page:** [Louisa Spencer](../people/louisa-spencer.md) (`I290`) · spouse [William Evans](../people/william-evans-i289.md) · son [Alfred Evans](../people/alfred-edward-william-evans.md)
+- **Person page:** [Louisa Spencer](../people/louisa-spencer.md) (`I290`) — previously linked to [William Evans](../people/william-evans-i289.md), now disconnected (his wife was [Dorothea Knecht](../people/dorothea-knecht.md); see correction notes).
 - **Loose scan:** [Louisa Spencer Birth.jpg](../media/docs/Louisa%20Spencer%20Birth.jpg) (Ancestry-style capture; same person as corpus PDF when reconciled).
 
 ## Limerick / Roche context

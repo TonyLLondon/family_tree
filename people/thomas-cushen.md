@@ -27,8 +27,9 @@ He married [Ann Mainwaring](ann-mainwaring.md); [David Cushen](david-cushen.md) 
 
 ## Family
 
+- Probable brother: **Patrick Cushen** (b. ~1811, Ireland; overman in iron works; widower by 1881; living at the Royal Oak Inn, Penydarren, with daughter Anne and son-in-law Patrick Walsh — RG 11/5315).
 - Wife: [Ann Mainwaring](ann-mainwaring.md).
-- Children: [David Cushen](david-cushen.md); others named only in the working tree until pages exist.
+- Children: [David Cushen](david-cushen.md) (bricklayer, Dowlais); others named only in the working tree until pages exist.
 
 ## Evidence
 
