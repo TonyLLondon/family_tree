@@ -1,0 +1,19 @@
+type: parish_baptism
+title: "Parish Baptism — Keziah Morgan, 4 Jul 1824, Aberystruth"
+person:
+  - name: "Keziah Morgan"
+    role: child
+  - name: "Thomas Morgan"
+    role: father
+  - name: "Charlotte"
+    role: mother
+date: "1824-07-04"
+birth_date: "1824-03-07"
+place: "Aberystruth, Monmouthshire, Wales"
+reference: "Page 59"
+record_set: "Monmouthshire Baptisms"
+source_category: "Birth, Marriage, Death & Parish Records"
+source_subcategory: "Parish Baptisms"
+provider: "FindMyPast / Welsh Archive Services"
+files:
+  media_reference: "media/docs/1824-baptism-keziah-morgan-aberystruth-monmouthshire.jpg"

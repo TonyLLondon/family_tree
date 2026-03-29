@@ -1,0 +1,19 @@
+type: parish_marriage
+title: "Banns/Marriage of Henry Prichard and Gwenllian Harries, 27 November 1807, Neath St Thomas"
+date: "1807-11-27"
+place: "Neath, St Thomas, Glamorganshire, Wales"
+repository: "West Glamorgan Archive Service / Gwasanaethau Archifau Cymru"
+collection: "Glamorganshire Marriages And Banns"
+reference: "p. 56"
+remote:
+  fmp_record_id: "GBPRS/M/859059044/1"
+  fmp_image_id: "GBPRS/WAL/4378396/00132"
+  fmp_url: "https://www.findmypast.co.uk/transcript?id=GBPRS/M/859059044/1"
+  fmp_index_id: "GBPRS/M/16041178/1"
+persons:
+  - name: "Henry Prichard"
+    role: groom
+    residence: "This [Neath]"
+  - name: "Gwenllian Harries"
+    role: bride
+    residence: "This [Neath]"

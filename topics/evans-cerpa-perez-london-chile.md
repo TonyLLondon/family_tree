@@ -18,6 +18,8 @@ This page is the **working hub** for registers, civil records, and family media 
 
 ## London — Evans (Holborn → late 20th c.)
 
+**[London address map](/map/london)** — street-level map of family addresses across Islington, Clerkenwell, Holloway, and St Pancras (1851–1926).
+
 ![St John’s Gate, Clerkenwell, 1880 — Dixon](../media/context/london-clerkenwell/st-johns-gate-clerkenwell-1880-dixon.jpg)
 
 | Person | Tree id | Notes |

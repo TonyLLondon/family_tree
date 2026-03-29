@@ -57,6 +57,11 @@ Anna Saginian’s 1880 interview (NYPL appendix) confirms the Cormick family’s
 - **Group portrait (modern reproduction):** the *Connections* articles carry a figure captioned *William and Tamar and family, c. 1867* (see machine extract e.g. [part 1 bundle](../sources/corpus/cormick-man-who-met-bab-connections/extracted.pdf.md)). A loose scan in `media/images/loose/` may be the same plate: [William and Tamar and Unknown 2.jpg](../media/images/loose/William%20and%20Tamar%20and%20Unknown%202.jpg) — compare cropping and provenance before citing as unique evidence.
 - [Tamar and William Cormick plus unknown couple](../media/albums/henderson/Tamar%20and%20William%20Cormick%20plus%20unknown%20couple.jpg).
 
+### British Newspaper Archive (FindMyPast)
+
+- [Globe, 13 October 1875 — "The Shah of Persia's Physician"](../sources/corpus/1875-globe-william-cormick-shah-physician/transcription.md) — "The Queen has granted unto William Cormick, Esq., doctor in medicine, who is actually employed beyond her Majesty's dominions, in the medical service of His Majesty the Shah of Persia, her Royal licence and permission to accept and wear the Insignia of the …" First contemporary British press confirmation of his role. The notice originates from the London Gazette.
+- [British Press, 27 September 1810 — "Mission to Persia"](../sources/corpus/1810-british-press-mission-to-persia-cormick/transcription.md) — "Mr. Cormick, Surgeon to the Caroni" listed among the personnel of the British diplomatic mission to Persia. This is **John Cormick**, William's father, and the earliest press evidence of the family's arrival in Persia.
+
 ## Related narrative
 
 - [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — Tamar / Cormick subset

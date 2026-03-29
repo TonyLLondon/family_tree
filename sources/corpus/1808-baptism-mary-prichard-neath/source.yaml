@@ -1,0 +1,18 @@
+type: parish_baptism
+title: "Baptism of Mary Prichard, 4 July 1808, Neath St Thomas"
+date: "1808-07-04"
+place: "Neath, St Thomas, Glamorganshire, Wales"
+repository: "West Glamorgan Archive Service / Gwasanaethau Archifau Cymru"
+collection: "Glamorganshire Baptisms"
+reference: "p. 30"
+remote:
+  fmp_record_id: "GBPRS/B/855425673/1"
+  fmp_image_id: "GBPRS/WAL/4378386/00030"
+  fmp_url: "https://www.findmypast.co.uk/transcript?id=GBPRS/B/855425673/1"
+persons:
+  - name: "Mary Prichard"
+    role: child
+  - name: "Henry"
+    role: father
+  - name: "Gwenllian"
+    role: mother

@@ -8,7 +8,10 @@ Usage:
     python scripts/fmp_search.py marriages --first catherine --last griffiths --year 1884 --place merthyr
     python scripts/fmp_search.py deaths   --first david --last lewis --year 1925
     python scripts/fmp_search.py search   --first peter --last martin --year 1857
+    python scripts/fmp_search.py detail   GBC/1861/0001222452
     python scripts/fmp_search.py image    GBC/1841/0327/0574
+    python scripts/fmp_search.py newspapers --names "fulvia lewis"
+    python scripts/fmp_search.py newspapers --names "thomas cushen" --from 1860 --to 1890 --facets
 
 Filters:
     --place TEXT        Place name (uses FMP KeywordsPlace field; case-insensitive)
@@ -29,6 +32,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import textwrap
 import time
@@ -43,8 +47,33 @@ _last_request_time: float = 0.0
 # ── Endpoints ────────────────────────────────────────────────────────────────
 GRAPHQL_URL = "https://www.findmypast.co.uk/titan/marshal/graphql"
 SEARCH_TRANSCRIPT_URL = "https://search.findmypast.co.uk/record/GetTranscriptFromImage"
+IIIF_BASE = "https://www.findmypast.co.uk/titan/marshal/obscura/api/image"
 
-# ── Paste a fresh token here (or export FMP_ACCESS_TOKEN in your shell) ──────
+# ── Paste fresh tokens here (or export in your shell) ──────
+FMP_MEMBER_ID = "411284818"
+FMP_REFRESH_TOKEN = "S0RKUk1kUmFMdzNmLWhNUFZTeGtqN25aLTJEMjJzM3JENXZNRE5CTllTTnNS"
+FMP_TILE_SESSION = "12067ec6a8e46100"
+
+FMP_ID_TOKEN = (
+    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9"
+    ".eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9kYXRlX29mX2JpcnRoIjoiIiwiaHR0cHM6Ly93"
+    "d3cuZmluZG15cGFzdC5jb20vbG9naW5zX2NvdW50Ijo0LCJodHRwczovL3d3dy5maW5kbXlwYXN0Lm"
+    "NvbS9vcmlnaW5hbGx5X3JlZ2lzdGVyZWQiOiIyMDIwLTA4LTE1VDAwOjM4OjA4LjAzOFoiLCJnaXZl"
+    "bl9uYW1lIjoiVG9ueSIsImZhbWlseV9uYW1lIjoiTGV3aXMiLCJuaWNrbmFtZSI6InRvbnkubGV3aXMi"
+    "LCJuYW1lIjoiVG9ueSBMZXdpcyIsInBpY3R1cmUiOiJodHRwczovL3NlY3VyZS5ncmF2YXRhci5jb20v"
+    "YXZhdGFyLzZjNTQ4ZDNiMzFjNGY2YmNiMTUzMWQ0OGIxNTk4OTFlP3M9NDgwJnI9cGcmZD1odHRwcyUz"
+    "QSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGdGwucG5nIiwidXBkYXRlZF9hdCI6IjIwMjYt"
+    "MDMtMjhUMTY6Mjc6MjQuNzU4WiIsImVtYWlsIjoidG9ueS5sZXdpc0BnbWFpbC5jb20iLCJlbWFpbF92"
+    "ZXJpZmllZCI6ZmFsc2UsImlzcyI6Imh0dHBzOi8vYXV0aC5maW5kbXlwYXN0LmNvbS8iLCJhdWQiOiJ0"
+    "WVk2TmZxckQ2WkhIUm1uUlNZazFLcFlJMDV2R25ScCIsInN1YiI6ImF1dGgwfGFjY291bnR8NDExMjg0"
+    "ODE4IiwiaWF0IjoxNzc0Nzc1NzQ2LCJleHAiOjE3NzQ3Nzc1NDYsInNpZCI6InJoY19tYkRZd2c4dy00"
+    "cFliel9VMTFqaDJfeTdhV1o2In0.a-OPuk8utDywAU6DQ9lUMD8tcOQxoumm-WchZH3lcmENnomqjNdX"
+    "7kvqHb9Ha55JPvt-q0KvB6UKGOFM-ZnlyPTvwLTunlqhuUbEui9BnxeKixc2wWH-AGzbpZ2_QmVevlks"
+    "c7jWQhXzAjoCLbQgYq6aSvSBWlP9RdHXkGar-A2A6ya5ucWNJx-KahZd07ZPwTYmOdClfOj7rLffXC1Pm"
+    "SRYThJ5Kh17JB4QqbiJ487kGbnWk2P5afBSRrPU451SFqvfPHnu4dJEDx1ougJKMYhrbxsqi5JB1EH5U_"
+    "69X6QxUdIvu18hb7EzSOQ1XQrzBGiUIJB_4ZLwjsyKgOSHMw"
+)
+
 FMP_ACCESS_TOKEN = (
     "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9"
     ".eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9tZW1iZXJfaWQiOjQxMTI4NDgxOCwiaHR0cHM6"
@@ -60,13 +89,13 @@ FMP_ACCESS_TOKEN = (
     "Oi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdG9yZSI6IlJFQ1VSTFkiLCJpc3MiOiJodHRwczovL2F1"
     "dGguZmluZG15cGFzdC5jb20vIiwic3ViIjoiYXV0aDB8YWNjb3VudHw0MTEyODQ4MTgiLCJhdWQiOlsi"
     "aHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vYXBpIiwiaHR0cHM6Ly9mbXAtcHJvZHVjdGlvbi5ldS5h"
-    "dXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNzc0NzQyNzc5LCJleHAiOjE3NzQ3NDQ1NzksInNjb3Bl"
+    "dXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNzc0NzgwNzYyLCJleHAiOjE3NzQ3ODI1NjIsInNjb3Bl"
     "Ijoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhenAiOiJ0WVk2TmZxckQ2WkhI"
-    "Um1uUlNZazFLcFlJMDV2R25ScCJ9.KHvjhBNPmTngH7vCpbcvwRWgJDMwR2cy5SgKvZu3qnmq109KH74h"
-    "P0Zbb9O4GMyRx86aP8fiAJ1fRiUJdxnKyNY-CONI8MDwMpJfLflXWvkr-hjKC4YEcSKHNjp0MGKHMp2Gi"
-    "NHQZp3jFIyt9K0utd3KRWn5yhEgQCS1SN2i23JMiJf05QiprEIjvOHQyZpoJGW9zhRcDNuFOXQIRsZ35qy"
-    "nMal2Or-gee9KPu59B5La0QIiHVf0_EeSvTSBAIa9ZC46SZ9KQXq5tRHQFqj_XyDhULuyNF47ugO9Q8NCh"
-    "3y7tfZ8AwuDdMWT9kcaRA2kO9EcfnS3MYKumpK5jotxDg"
+    "Um1uUlNZazFLcFlJMDV2R25ScCJ9.Y-Bl13LmFh37dt8NC8o5gvgTC215DuZ18f72TPZaY63q3x0wR"
+    "EvjxFMEb0jepywkphLrBDL-PvpTw2nPDz7lIz7h2UDMea3vL2noAuPZzkoFy2zltk2wLqft4b6e_Fmi"
+    "83_ZGjMYByWRJGutZOb41xsY0pqB5Vj5PQGLdhOY4rDfOPT7ZqCP4Biz3I9vPOJ5Flpy3sv9l5iQgME"
+    "e4dxDZjITPlgw4bAIGq7lE72M9oWbOtig2n777IY8BOBkPubTN-8Tdcf_GPuCZHeWGf9sQ22wgwxV5MT"
+    "pWLC4cTw4L4uLqoNh_9s04WPGuz1LYcz4f3V__6ZLObdwDBQ2ppK8ww"
 )
 
 _BROWSER_UA = (
@@ -97,6 +126,63 @@ SEARCH_QUERY = textwrap.dedent("""\
                     }
                 }
             }
+        }
+    }""")
+
+NEWSPAPER_SEARCH_QUERY = textwrap.dedent("""\
+    query searchNewspaperArticles(
+        $filters: ArticleSearchFiltersInput!,
+        $pagination: NewspaperSearchPaginationInput!,
+        $ordering: NewspaperSearchOrderingInput!,
+        $facets: [ArticleSearchExclusiveFacetEnum!]
+    ) {
+        articleSearch(
+            filters: $filters
+            pagination: $pagination
+            ordering: $ordering
+            facets: $facets
+        ) {
+            id
+            numberOfResults
+            articles {
+                id
+                articleId
+                title
+                textSnippet
+                articleMetadata {
+                    wordCount
+                    type
+                    score
+                    availableSince
+                    freeToView
+                    __typename
+                }
+                newspaperPages {
+                    id
+                    thumbnailUri
+                    __typename
+                }
+                newspaperIssue {
+                    id
+                    title
+                    publicationPlace
+                    publicationCounty
+                    publicationRegion
+                    publicationDate
+                    __typename
+                }
+                __typename
+            }
+            facets {
+                name
+                facetCounts {
+                    value
+                    numberOfResults
+                    __typename
+                }
+                __typename
+            }
+            __typename
         }
     }""")
 
@@ -146,7 +232,7 @@ def _graphql_post(payload: dict) -> dict:
             sys.exit(1)
         return result
     except HTTPError as exc:
-        err_body = exc.read().decode(errors="replace")[:500]
+        err_body = exc.read().decode(errors="replace")[:4000]
         if exc.code == 401:
             print("ERROR: 401 Unauthorized — token has expired. Paste a fresh one.", file=sys.stderr)
             sys.exit(1)
@@ -158,10 +244,23 @@ def _search_get(path: str, params: dict) -> list | dict:
     """GET from search.findmypast.co.uk REST API."""
     _rate_limit()
     url = f"{path}?{urlencode(params)}"
+    member_id = os.environ.get("FMP_MEMBER_ID") or FMP_MEMBER_ID
+    id_token = os.environ.get("FMP_ID_TOKEN") or FMP_ID_TOKEN
+    refresh_token = os.environ.get("FMP_REFRESH_TOKEN") or FMP_REFRESH_TOKEN
+    cookie = (
+        f"fmp_access_token={_token()}; "
+        f"fmp_id_token={id_token}; "
+        f"fmp_refresh_token={refresh_token}; "
+        f"logged-in-user={member_id}; "
+        f"_attru={member_id}; "
+        f"sp=50a61222-bb4d-44ec-becd-d5f253536c53; "
+        f"IsLibrary=false"
+    )
     req = Request(
         url,
         headers={
-            "Cookie": f"fmp_access_token={_token()}",
+            "Authorization": f"Bearer {_token()}",
+            "Cookie": cookie,
             "Referer": "https://search.findmypast.co.uk/",
             "User-Agent": _BROWSER_UA,
             "X-Requested-With": "XMLHttpRequest",
@@ -320,6 +419,376 @@ def run_search(args: argparse.Namespace) -> None:
         print()
 
 
+# ── Newspaper search ─────────────────────────────────────────────────────────
+
+_HIGHLIGHT_RE = re.compile(r"<span class=['\"]highlight['\"]>(.*?)</span>")
+_NEWSPAPER_FACETS = [
+    "NEWSPAPER_TITLE", "COUNTY", "ARTICLE_TYPE", "COVERAGE_COUNTRY",
+    "PLACE", "COVERAGE", "ACCESS_TYPE", "COUNTRY",
+]
+
+
+def _strip_highlights(text: str) -> str:
+    return _HIGHLIGHT_RE.sub(r"\1", text)
+
+
+def _format_article(art: dict, *, verbose: bool = False) -> str:
+    issue = art.get("newspaperIssue") or {}
+    meta = art.get("articleMetadata") or {}
+    title = _strip_highlights(art.get("title", "")).strip()
+    snippet = _strip_highlights(art.get("textSnippet", "")).strip()
+    newspaper = issue.get("title", "")
+    place = issue.get("publicationPlace", "")
+    date = issue.get("publicationDate", "")
+    art_type = ", ".join(meta.get("type", []))
+    words = meta.get("wordCount", "")
+    article_id = art.get("articleId", "")
+    url = f"https://www.findmypast.co.uk/search-newspapers/article/{article_id}" if article_id else ""
+
+    lines = [f"  {newspaper} — {date}"]
+    lines.append(f"    \"{title}\"")
+    if snippet:
+        lines.append(f"    …{snippet[:200]}{'…' if len(snippet) > 200 else ''}")
+    lines.append(f"    {place}  |  {art_type}  |  {words} words")
+    if url:
+        lines.append(f"    {url}")
+    if verbose:
+        lines.append(f"    Score: {meta.get('score', '?')}  |  ID: {art.get('id', '')}")
+        pages = art.get("newspaperPages") or []
+        for pg in pages:
+            lines.append(f"    Thumb: {pg.get('thumbnailUri', '')}")
+    return "\n".join(lines)
+
+
+def run_newspaper_search(args: argparse.Namespace) -> None:
+    filter_query: dict = {
+        "consumer": "FMP",
+        "publicationPlace": [],
+        "newspaperTitle": [],
+        "articleType": [],
+        "coverage": [],
+        "coverageCountry": [],
+    }
+    if getattr(args, "newspaper", None):
+        filter_query["newspaperTitle"] = [args.newspaper]
+    if getattr(args, "place", None):
+        filter_query["publicationPlace"] = [{"name": args.place}]
+    if getattr(args, "county", None):
+        filter_query["coverageCountry"] = [args.county]
+
+    filters: dict = {
+        "namesFilter": [args.names] if args.names else [],
+        "keywordsFilter": getattr(args, "keywords", None) or "",
+        "filterQuery": filter_query,
+    }
+    if getattr(args, "from_year", None):
+        filters["dateFrom"] = f"{args.from_year}-01-01"
+    if getattr(args, "to_year", None):
+        filters["dateTo"] = f"{args.to_year}-12-31"
+
+    rows = 20
+    start_from = (args.page - 1) * rows
+    shown = 0
+
+    while True:
+        payload = {
+            "operationName": "searchNewspaperArticles",
+            "query": NEWSPAPER_SEARCH_QUERY,
+            "variables": {
+                "filters": filters,
+                "pagination": {"startFrom": start_from, "rows": rows},
+                "ordering": {"by": "RELEVANCE", "direction": "DESC"},
+                "facets": _NEWSPAPER_FACETS,
+            },
+        }
+        data = _graphql_post(payload)
+
+        if "errors" in data:
+            msgs = "; ".join(e.get("message", "") for e in data["errors"])
+            print(f"GraphQL errors: {msgs}", file=sys.stderr)
+            if args.json:
+                json.dump(data, sys.stdout, indent=2)
+                print()
+            sys.exit(1)
+
+        search = data["data"]["articleSearch"]
+        total = search["numberOfResults"]
+        articles = search["articles"]
+
+        if start_from == 0:
+            print(f"── {total} newspaper results for \"{args.names}\" ──\n")
+
+        for art in articles:
+            print(_format_article(art, verbose=getattr(args, "verbose", False)))
+            print()
+            shown += 1
+
+        if not articles or not args.all_pages:
+            break
+        start_from += rows
+
+    if shown < total and not args.all_pages:
+        print(f"  … showing {shown} of {total} (use --all-pages for all)\n")
+
+    if getattr(args, "facets_summary", False):
+        facets = search.get("facets") or []
+        for f in facets:
+            name = f["name"]
+            counts = f.get("facetCounts", [])
+            top = sorted(counts, key=lambda c: c["numberOfResults"], reverse=True)[:5]
+            if top:
+                print(f"  {name}:")
+                for c in top:
+                    print(f"    {c['value']}: {c['numberOfResults']}")
+        print()
+
+    if args.json:
+        json.dump(data, sys.stdout, indent=2)
+        print()
+
+
+# ── Newspaper IIIF image download ────────────────────────────────────────────
+
+def _page_id_to_iiif_path(page_id: str) -> str:
+    """Convert page ID like 'BL/0005200/19830901/0001' to IIIF image path."""
+    parts = page_id.split("/")
+    if parts[0] == "BL":
+        parts = parts[1:]
+    newspaper_id, date_str, page_num = parts[0], parts[1], parts[2]
+    year = date_str[:4]
+    monthday = date_str[4:]
+    jp2_name = f"{newspaper_id}_{date_str}_{page_num}.jp2"
+    return f"{newspaper_id}/{year}/{monthday}/{jp2_name}"
+
+
+def _iiif_image_url(page_id: str, width: int | None = None) -> str:
+    """Build IIIF Image API 2.0 URL for a newspaper page."""
+    from urllib.parse import quote
+    path = _page_id_to_iiif_path(page_id)
+    encoded_path = quote(path, safe="")
+    size = f"{width}," if width else "full"
+    return f"{IIIF_BASE}/{encoded_path}/full/{size}/0/default.jpg"
+
+
+def _tile_session() -> str:
+    return os.environ.get("FMP_TILE_SESSION") or FMP_TILE_SESSION
+
+
+def _download_iiif_image(page_id: str, output_path: str, width: int | None = 1772) -> str:
+    """Download a newspaper page image via IIIF. Returns the output path."""
+    _rate_limit()
+    url = _iiif_image_url(page_id, width=width) + f"?_t={int(time.time())}"
+    req = Request(
+        url,
+        headers={
+            "Cookie": f"fmp_access_token={_token()}; tile_session={_tile_session()}",
+            "Referer": "https://www.findmypast.co.uk/image-viewer",
+            "Origin": "https://www.findmypast.co.uk",
+            "User-Agent": _BROWSER_UA,
+            "Cache-Control": "no-cache",
+        },
+    )
+    try:
+        with urlopen(req) as resp:
+            data = resp.read()
+            if len(data) < 10_000:
+                print(
+                    f"WARNING: Image is only {len(data)} bytes — token has likely expired.\n"
+                    "  Paste a fresh fmp_access_token from browser DevTools.",
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+            with open(output_path, "wb") as f:
+                f.write(data)
+        return output_path
+    except HTTPError as exc:
+        err_body = exc.read().decode(errors="replace")[:500]
+        print(f"ERROR: HTTP {exc.code} downloading image — {err_body}", file=sys.stderr)
+        sys.exit(1)
+
+
+def run_newspaper_image(args: argparse.Namespace) -> None:
+    """Download a newspaper page image by page ID."""
+    page_id = args.page_id
+    width = getattr(args, "width", 1772) or 1772
+    out = getattr(args, "output", None)
+    if not out:
+        safe_id = page_id.replace("/", "_")
+        out = f"{safe_id}.jpg"
+    print(f"Downloading {page_id} ({width}px wide) → {out}")
+    _download_iiif_image(page_id, out, width=width)
+    size_kb = os.path.getsize(out) / 1024
+    print(f"  Saved {size_kb:.0f} KB → {out}")
+
+
+# ── Record detail (GraphQL fulfillTranscript) ────────────────────────────────
+
+FULFILL_TRANSCRIPT_QUERY = textwrap.dedent("""\
+    mutation fulfillTranscript($recordId: String!, $confirmedPurchase: Boolean, $showCorrected: Boolean = false) {
+      fulfillTranscript(recordId: $recordId, confirmedPurchase: $confirmedPurchase) {
+        fulfillmentTypeKey
+        suitablePlans
+        action
+        actionCode
+        transcript {
+          id
+          contextualContent
+          contextualContentData {
+            id
+            recordMetadataId
+            geocode { latitude level longitude mapLayer __typename }
+            address { place county district __typename }
+            entities { code type value __typename }
+            __typename
+          }
+          fields { fieldId value __typename }
+          recordSet {
+            id
+            fields {
+              fieldId displayLabel displayOnSite hideEmpty
+              transcriptionDisplayOrder relatedRecordDisplayOrder __typename
+            }
+            canReportError __typename
+          }
+          transcriptFulfillableItem { id recordMetadataId isPurchased isNationalTrust __typename }
+          imageFulfillableItem { id recordMetadataId mediaSource __typename }
+          otherPeopleRelatedRecords {
+            title
+            records {
+              id
+              fields { value fieldId __typename }
+              __typename
+            }
+            __typename
+          }
+          lastCorrectedBy @include(if: $showCorrected) {
+            ... on TranscriptLastCorrectedData {
+              __typename dateCorrected
+              userProfile {
+                id
+                ... on ActiveUserProfile { username profilePicture __typename }
+                ... on GDPRDeletedUserProfile { username __typename }
+                __typename
+              }
+            }
+            __typename
+          }
+          __typename
+        }
+        record {
+          id
+          transcript { id recordMetadataId __typename }
+          pdf { id __typename }
+          image { id recordMetadataId __typename }
+          __typename
+        }
+        __typename
+      }
+    }""")
+
+
+def _format_transcript_fields(fields: list[dict], field_meta: dict[str, str] | None = None) -> list[str]:
+    """Format transcript fields into readable lines, using display labels when available."""
+    lines: list[str] = []
+    skip = {"Id", "SynthYOB", "SynthGenderFlag", "RecordMetadataId"}
+    for f in fields:
+        fid = f["fieldId"]
+        if fid in skip:
+            continue
+        val = f["value"]
+        if not val or not val.strip():
+            continue
+        label = (field_meta or {}).get(fid, fid)
+        lines.append(f"    {label:30s}  {val}")
+    return lines
+
+
+def run_detail(args: argparse.Namespace) -> None:
+    """Fetch full transcript for a record by its ID."""
+    record_id = args.record_id
+    payload = {
+        "operationName": "fulfillTranscript",
+        "query": FULFILL_TRANSCRIPT_QUERY,
+        "variables": {"recordId": record_id, "showCorrected": False},
+    }
+    data = _graphql_post(payload)
+
+    if args.json:
+        json.dump(data, sys.stdout, indent=2)
+        print()
+        return
+
+    ft = data.get("data", {}).get("fulfillTranscript")
+    if not ft:
+        print(f"No data returned for {record_id}", file=sys.stderr)
+        sys.exit(1)
+
+    action = ft.get("action", "")
+    if action != "SUCCESS_USING_SUBSCRIPTION":
+        print(f"Fulfillment action: {action} (code {ft.get('actionCode', '?')})", file=sys.stderr)
+        if ft.get("suitablePlans"):
+            print("  This record requires a subscription plan.", file=sys.stderr)
+            sys.exit(1)
+
+    transcript = ft.get("transcript")
+    if not transcript:
+        print(f"No transcript available for {record_id}", file=sys.stderr)
+        sys.exit(1)
+
+    field_meta: dict[str, str] = {}
+    rs = transcript.get("recordSet")
+    if rs and rs.get("fields"):
+        for fm in rs["fields"]:
+            if fm.get("displayLabel"):
+                field_meta[fm["fieldId"]] = fm["displayLabel"]
+
+    fields = transcript.get("fields", [])
+    field_map = {f["fieldId"]: f["value"] for f in fields}
+    name = f"{field_map.get('FirstName', '')} {field_map.get('LastName', '')}".strip() or record_id
+
+    print(f"── {name} [{record_id}] ──\n")
+    for line in _format_transcript_fields(fields, field_meta):
+        print(line)
+
+    ctx = transcript.get("contextualContentData")
+    if ctx:
+        addr = ctx.get("address")
+        if addr:
+            parts = [addr.get("place", ""), addr.get("district", ""), addr.get("county", "")]
+            loc = ", ".join(p for p in parts if p)
+            if loc:
+                print(f"\n    {'Location':30s}  {loc}")
+
+    img_item = transcript.get("imageFulfillableItem")
+    if img_item and img_item.get("id"):
+        print(f"\n    {'Image ID':30s}  {img_item['id']}")
+
+    related = transcript.get("otherPeopleRelatedRecords") or []
+    for group in related:
+        if not isinstance(group, dict):
+            continue
+        title = group.get("title", "Related records")
+        records = group.get("records", [])
+        if records:
+            print(f"\n  ── {title} ({len(records)} people) ──")
+            for rec in records:
+                if not isinstance(rec, dict):
+                    continue
+                rf = {f["fieldId"]: f["value"] for f in rec.get("fields", [])}
+                rname = f"{rf.get('FirstName', '')} {rf.get('LastName', '')}".strip()
+                extra_parts = []
+                for k in ("Age", "RelationToHead", "Occupation", "BirthPlace", "MaritalStatus",
+                          "YearOfBirth", "Sex", "BurialDate", "BaptismDate", "EventDate"):
+                    if rf.get(k):
+                        extra_parts.append(f"{k}={rf[k]}")
+                extra = ", ".join(extra_parts)
+                print(f"    {rname:30s}  {extra}  [{rec.get('id', '')}]")
+
+    fmp_url = f"https://www.findmypast.co.uk/transcript?id={record_id}"
+    print(f"\n    FMP URL: {fmp_url}")
+    print()
+
+
 # ── Image transcript (REST) ─────────────────────────────────────────────────
 
 def run_image(args: argparse.Namespace) -> None:
@@ -401,6 +870,32 @@ def main() -> None:
     ]:
         sp = sub.add_parser(name, help=desc)
         _add_search_args(sp)
+
+    np = sub.add_parser("newspapers", help="Search British Newspaper Archive via FMP")
+    np.add_argument("--names", required=True, help="Name(s) to search for in articles")
+    np.add_argument("--keywords", help="Additional keyword filter (e.g. 'madras', 'registrar')")
+    np.add_argument("--from", dest="from_year", type=int, help="Start year")
+    np.add_argument("--to", dest="to_year", type=int, help="End year")
+    np.add_argument("--newspaper", help="Filter by newspaper title")
+    np.add_argument("--place", help="Filter by publication place")
+    np.add_argument("--county", help="Filter by county")
+    np.add_argument("--page", type=int, default=1, help="Start page (default 1)")
+    np.add_argument("--all-pages", action="store_true", help="Fetch all pages")
+    np.add_argument("--facets", dest="facets_summary", action="store_true",
+                     help="Show facet summary (top newspapers, counties, etc.)")
+    np.add_argument("-v", "--verbose", action="store_true", help="Show scores, IDs, thumbnails")
+    np.set_defaults(func=run_newspaper_search)
+
+    nip = sub.add_parser("newspaper-image", help="Download a newspaper page image (IIIF)")
+    nip.add_argument("page_id", help="Page ID from newspaper search (e.g. BL/0005200/19830901/0001)")
+    nip.add_argument("--width", type=int, default=1772,
+                      help="Image width in px (default 1772; use 3543 for full res)")
+    nip.add_argument("-o", "--output", help="Output file path (default: <page_id>.jpg)")
+    nip.set_defaults(func=run_newspaper_image)
+
+    dp = sub.add_parser("detail", help="Fetch full transcript for a record ID")
+    dp.add_argument("record_id", help="Record ID from search results (e.g. GBC/1861/0001222452)")
+    dp.set_defaults(func=run_detail)
 
     ip = sub.add_parser("image", help="List all people on a census image page")
     ip.add_argument("image_id", help="Image ID from search results (e.g. GBC/1841/0327/0574)")

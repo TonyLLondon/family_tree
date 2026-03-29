@@ -155,6 +155,14 @@ The Fold3 record exists (confirming the card was once indexed) but the physical 
 - **treeId** **I103** — same id as YAML above; vitals align to structured graph used for this file.
 - Record image: `media/docs/Cool Bear, Archibald Percy (125257).jpg` — Ministry of Pensions card, not a portrait photo.
 
+### British Newspaper Archive (FindMyPast)
+
+Three press appearances found via BNA newspaper search (March 2026):
+
+- [Chelmsford Chronicle, 10 May 1912 — "Sweep at the Meters"](../sources/corpus/1912-chelmsford-chronicle-coolbear-sweep-at-meters/transcription.md) — "Archibald Percy Coolbear, a chimney sweep, Southend, was charged with stealing a door-key." Confirms occupation, residence, and full name pre-war.
+- [Lincolnshire Free Press, 5 January 1915 — enlistment notice](../sources/corpus/1915-lincolnshire-free-press-coolbear-enlistment/transcription.md) — "Archibald Percy Coolbear (Long Sutton), Essex Regiment." Lists him among local enlistees one week after his 29 December 1914 enlistment; places him at Long Sutton, Lincolnshire.
+- [Holloway Press, 18 September 1926 — "Whose Railings?"](../sources/corpus/1926-holloway-press-coolbear-stolen-railings/transcription.md) — "Archibald Percy Coolbear, 34, 20 Queensland Road, Holloway." Post-war court appearance confirming age, full name, and Holloway address (matches Rosina's pension card).
+
 ### Surname origins
 
 The Coolbear surname traces to a single Essex cluster around Mundon and Maldon on the Blackwater estuary, drifting through four spellings in two generations: Colbia → Coolbar → Colbear → Coolbear. Full etymology, variant spellings, and the Mundon parish cluster: **[Surname: Coolbear](../topics/surname-coolbear.md)**.
@@ -175,7 +183,7 @@ The Coolbear surname traces to a single Essex cluster around Mundon and Maldon o
 | 3 | Order **marriage certificate** (Oct 1911) | GRO | Confirms date (28 Oct vs Dec), town, witnesses, occupations |
 | 4 | Search **probate calendar** (1928, London) | GRO / PRA | Executor/beneficiaries; confirms death date |
 | 5 | Search **WO 363** (Army attestation papers) | TNA | Pre-RFC army career; clarify S. 8855C number — many WWI Army records were destroyed |
-| 6 | **Hendon local papers** c. 1928; **electoral registers** | Local archives / BNA | Death notice; post-war address |
+| 6 | ~~**Hendon local papers** c. 1928; **electoral registers**~~ | Local archives / BNA | **Partial.** BNA newspaper search found three press appearances (see below); no death notice yet |
 | 7 | **Essex Record Office** (Maldon region) | Local archives | Parish records; enlistment context |
 | 8 | **FamilySearch API** search | [developer.familysearch.org](https://developer.familysearch.org/) | Free programmatic access to indexed records; search Coolbear births/deaths/census in Essex + Middlesex |
 | 9 | ~~Download **AIR 78** microfilm PDFs~~ | [TNA Discovery](https://discovery.nationalarchives.gov.uk/details/r/C2132) | **Done.** Both pieces searched — no Archibald Coolbear/Colbear found on the free microfilm (see § AIR 78 above) |

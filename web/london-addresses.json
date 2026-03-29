@@ -1,0 +1,378 @@
+{
+  "families": [
+    { "id": "evans-parents", "label": "Alfred & Catherine Evans", "color": "#2563eb" },
+    { "id": "evans-william", "label": "William & Dorothea Evans", "color": "#dc2626" },
+    { "id": "evans-son", "label": "Alfred Jr & Annie Evans", "color": "#ea580c" },
+    { "id": "knecht", "label": "Knecht family", "color": "#7c3aed" },
+    { "id": "fensom", "label": "Fensom family", "color": "#059669" },
+    { "id": "coolbear", "label": "Coolbear family", "color": "#d97706" }
+  ],
+  "addresses": [
+    {
+      "id": "windsor-street-1851",
+      "address": "12 Windsor Street",
+      "area": "Islington",
+      "lat": 51.5310,
+      "lng": -0.1060,
+      "familyId": "evans-parents",
+      "entries": [
+        {
+          "year": 1851,
+          "source": "Census (HO107/1501)",
+          "corpusSlug": "1851-census-alfred-evans-household-islington",
+          "people": [
+            { "name": "Alfred Evans", "detail": "Head, 30, Painter & Glazier", "slug": "alfred-evans-i434" },
+            { "name": "Catherine Evans", "detail": "Wife, 27, Needle Woman", "slug": "catherine-burton-evans-i608" },
+            { "name": "Jessie Evans", "detail": "Daughter, 2" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clarks-place-1861",
+      "address": "1 Clarks Place, Anglers Gardens",
+      "area": "Islington",
+      "lat": 51.5295,
+      "lng": -0.1045,
+      "familyId": "evans-parents",
+      "entries": [
+        {
+          "year": 1861,
+          "source": "Census (RG9/146)",
+          "corpusSlug": "1861-census-alfred-evans-household-islington",
+          "people": [
+            { "name": "Alfred Evans", "detail": "Head, 40, House Painter", "slug": "alfred-evans-i434" },
+            { "name": "Catherine Evans", "detail": "Wife, 37, Needle Work", "slug": "catherine-burton-evans-i608" },
+            { "name": "Jessie Evans", "detail": "Daughter, 12, Scholar" },
+            { "name": "Alfred Evans Jr", "detail": "Son, 8, Scholar" },
+            { "name": "Arthur Evans", "detail": "Son, 6, Scholar" },
+            { "name": "William Evans", "detail": "Son, 4", "slug": "william-evans-i289" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paradise-place",
+      "address": "6 Paradise Place",
+      "area": "Islington",
+      "lat": 51.5285,
+      "lng": -0.1055,
+      "familyId": "evans-parents",
+      "entries": [
+        {
+          "year": 1871,
+          "source": "Census (RG10/285)",
+          "corpusSlug": "1871-census-alfred-evans-household-islington",
+          "people": [
+            { "name": "Alfred Evans", "detail": "Head, 50, House Painter", "slug": "alfred-evans-i434" },
+            { "name": "Catharine Evans", "detail": "Wife, 48", "slug": "catherine-burton-evans-i608" },
+            { "name": "Jessie Evans", "detail": "Daughter, 22, Mantle Maker" },
+            { "name": "Alfred Evans Jr", "detail": "Son, ~18" },
+            { "name": "Arthur Evans", "detail": "Son, ~16" },
+            { "name": "William Evans", "detail": "Son, 14, Printer", "slug": "william-evans-i289" },
+            { "name": "Reuben Evans", "detail": "Son, ~10" },
+            { "name": "Walter Evans", "detail": "Son, ~7" }
+          ]
+        },
+        {
+          "year": 1881,
+          "source": "Census (RG11/265)",
+          "corpusSlug": "1881-census-alfred-evans-household-islington",
+          "people": [
+            { "name": "Alfred Evans", "detail": "Head, 60, Painter", "slug": "alfred-evans-i434" },
+            { "name": "Catherine Evans", "detail": "Wife, 58", "slug": "catherine-burton-evans-i608" },
+            { "name": "Arthur Evans", "detail": "Son, 26, Cabinet Maker" },
+            { "name": "Reuben Evans", "detail": "Son" },
+            { "name": "Catherine May Evans", "detail": "Daughter, 12, Scholar" },
+            { "name": "Thomas Evans", "detail": "Son, 17, Printer" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pembroke-street-knecht-1871",
+      "address": "Pembroke Street (Upper)",
+      "area": "Islington",
+      "lat": 51.5375,
+      "lng": -0.1165,
+      "familyId": "knecht",
+      "entries": [
+        {
+          "year": 1871,
+          "source": "Census (RG10/263)",
+          "people": [
+            { "name": "George Knecht", "detail": "Head, Tailor", "slug": "george-knecht" },
+            { "name": "Eliza Knecht", "detail": "Wife", "slug": "eliza-knecht" },
+            { "name": "Dorothea Knecht", "detail": "Daughter", "slug": "dorothea-knecht" },
+            { "name": "Francis Henry Knecht", "detail": "Son" },
+            { "name": "Elizabeth Knecht", "detail": "Daughter" },
+            { "name": "George William Knecht", "detail": "Son" },
+            { "name": "Hannah Knecht", "detail": "Daughter" },
+            { "name": "Louisa Sarah Knecht", "detail": "Daughter" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "swinton-street-1881",
+      "address": "3 Swinton Street",
+      "area": "St Pancras",
+      "lat": 51.5262,
+      "lng": -0.1148,
+      "familyId": "evans-william",
+      "entries": [
+        {
+          "year": 1881,
+          "source": "Census (RG11/194)",
+          "corpusSlug": "1881-census-evans-household-swinton-street-st-pancras",
+          "people": [
+            { "name": "William Evans", "detail": "Head, 24, Brass Founder", "slug": "william-evans-i289" },
+            { "name": "Dorothea Evans", "detail": "Wife, 20, Flower Maker", "slug": "dorothea-knecht" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milton-place-1881",
+      "address": "8 Milton Place",
+      "area": "Islington",
+      "lat": 51.5340,
+      "lng": -0.1055,
+      "familyId": "fensom",
+      "entries": [
+        {
+          "year": 1881,
+          "source": "Census (RG11/244)",
+          "corpusSlug": "1881-census-fensom-household-milton-place-islington",
+          "people": [
+            { "name": "David Fensom", "detail": "Head", "slug": "david-fensom-i202" },
+            { "name": "Georgiana Fensom", "detail": "Wife", "slug": "georgina-fensom-i205" },
+            { "name": "Georgiana E. Fensom", "detail": "Daughter" },
+            { "name": "David W. Fensom", "detail": "Son" },
+            { "name": "Annie Fensom", "detail": "Daughter", "slug": "annie-fensom-i291" },
+            { "name": "Ellen Fensom", "detail": "Daughter" },
+            { "name": "Fanny Fensom", "detail": "Daughter" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knecht-paddington-1881",
+      "address": "19 Charlotte Place",
+      "area": "Paddington",
+      "lat": 51.5165,
+      "lng": -0.1770,
+      "familyId": "knecht",
+      "entries": [
+        {
+          "year": 1881,
+          "source": "Census (RG11)",
+          "corpusSlug": "1881-census-knecht-household-paddington",
+          "people": [
+            { "name": "George Knecht", "detail": "Head, Tailor", "slug": "george-knecht" },
+            { "name": "Eliza Knecht", "detail": "Wife", "slug": "eliza-knecht" },
+            { "name": "George V. Knecht", "detail": "Son" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clerkenwell-1891",
+      "address": "Clerkenwell",
+      "area": "Finsbury",
+      "lat": 51.5235,
+      "lng": -0.1050,
+      "familyId": "evans-william",
+      "entries": [
+        {
+          "year": 1891,
+          "source": "Census (RG12/229)",
+          "corpusSlug": "1891-census-evans-household-clerkenwell",
+          "people": [
+            { "name": "William Evans", "detail": "Head, 33, Brass Dresser", "slug": "william-evans-i289" },
+            { "name": "Dorothea Evans", "detail": "Wife, 30", "slug": "dorothea-knecht" },
+            { "name": "Four children", "detail": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eden-grove-fensom",
+      "address": "11 Eden Grove",
+      "area": "Lower Holloway",
+      "lat": 51.5470,
+      "lng": -0.1115,
+      "familyId": "fensom",
+      "entries": [
+        {
+          "year": 1891,
+          "source": "Census (RG12/163)",
+          "corpusSlug": "1891-census-fensom-household-eden-grove-islington",
+          "people": [
+            { "name": "David W. Fensom", "detail": "Head" },
+            { "name": "Minnie Fensom", "detail": "Wife", "slug": "minnie-pope-i293" },
+            { "name": "David Fensom", "detail": "Son" },
+            { "name": "Minnie Fensom", "detail": "Daughter" },
+            { "name": "Fred Fensom", "detail": "Son" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eden-grove-david-senior",
+      "address": "13 Eden Grove",
+      "area": "Islington",
+      "lat": 51.5472,
+      "lng": -0.1112,
+      "familyId": "fensom",
+      "entries": [
+        {
+          "year": 1901,
+          "source": "Census (RG13/173)",
+          "people": [
+            { "name": "David Fensom", "detail": "Head", "slug": "david-fensom-i202" },
+            { "name": "Georgina Fensom", "detail": "Wife", "slug": "georgina-fensom-i205" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "georges-road-1901",
+      "address": "65 Georges Road",
+      "area": "Islington",
+      "lat": 51.5435,
+      "lng": -0.1100,
+      "familyId": "fensom",
+      "entries": [
+        {
+          "year": 1901,
+          "source": "Census (RG13/173)",
+          "corpusSlug": "1901-census-fensom-household-georges-road-islington",
+          "people": [
+            { "name": "David W. Fenson", "detail": "Head" },
+            { "name": "Minnie Fenson", "detail": "Wife", "slug": "minnie-pope-i293" },
+            { "name": "Annie Fensom", "detail": "Daughter", "slug": "annie-fensom-i291" },
+            { "name": "5 other children", "detail": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pembroke-street-1901",
+      "address": "44 Pembroke Street",
+      "area": "Islington",
+      "lat": 51.5380,
+      "lng": -0.1160,
+      "familyId": "evans-william",
+      "entries": [
+        {
+          "year": 1901,
+          "source": "Census (RG13/182)",
+          "people": [
+            { "name": "William Evans", "detail": "Head, 43, Brass Trimmer", "slug": "william-evans-i289" },
+            { "name": "Dorothea Evans", "detail": "Wife, 40", "slug": "dorothea-knecht" },
+            { "name": "9 children", "detail": "including Alfred, Joseph, Annie, William Jr, Ernest, Dorothy, Francis, Hilda, Ethel" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hope-street-1911",
+      "address": "9 Hope Street",
+      "area": "Lower Holloway",
+      "lat": 51.5490,
+      "lng": -0.1130,
+      "familyId": "fensom",
+      "entries": [
+        {
+          "year": 1911,
+          "source": "Census (RG14)",
+          "corpusSlug": "1911-census-fensom-household-hope-street-holloway",
+          "people": [
+            { "name": "David W. Fensom", "detail": "Head" },
+            { "name": "Minnie Fensom", "detail": "Wife", "slug": "minnie-pope-i293" },
+            { "name": "8 children", "detail": "including Fred, Gertie, William, Millie" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "north-road-1911",
+      "address": "17 North Road, Cattle Market",
+      "area": "Holloway",
+      "lat": 51.5475,
+      "lng": -0.1090,
+      "familyId": "fensom",
+      "entries": [
+        {
+          "year": 1911,
+          "source": "Census (RG14)",
+          "corpusSlug": "1911-census-annie-fensom-boarder-north-road-holloway",
+          "people": [
+            { "name": "Annie Fensom", "detail": "Boarder, 26", "slug": "annie-fensom-i291" }
+          ],
+          "note": "Boarding with the Watts family; Star Brush Company employee"
+        }
+      ]
+    },
+    {
+      "id": "barnsbury-road-1911",
+      "address": "124 Barnsbury Road",
+      "area": "Islington",
+      "lat": 51.5395,
+      "lng": -0.1113,
+      "familyId": "evans-william",
+      "entries": [
+        {
+          "year": 1911,
+          "source": "Census (RG14/878)",
+          "people": [
+            { "name": "William Evans", "detail": "Head, 54, Brass Finisher", "slug": "william-evans-i289" },
+            { "name": "Dorothea Evans", "detail": "Wife, 50, married 32 years", "slug": "dorothea-knecht" },
+            { "name": "8 children at home", "detail": "including Alfred (18)", "slug": "alfred-evans-i101" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bratton-street-1921",
+      "address": "4 Bratton Street",
+      "area": "Islington",
+      "lat": 51.5370,
+      "lng": -0.1135,
+      "familyId": "evans-son",
+      "entries": [
+        {
+          "year": 1921,
+          "source": "Census (RG15)",
+          "corpusSlug": "1921-census-evans-bratton-street-islington",
+          "people": [
+            { "name": "Alfred Evans", "detail": "Head, Brass Finisher", "slug": "alfred-evans-i101" },
+            { "name": "Annie Evans", "detail": "Wife, Brush Drawer", "slug": "annie-fensom-i291" },
+            { "name": "Alfred Charles Evans", "detail": "Son", "slug": "alfred-charles-evans-i576" },
+            { "name": "Joseph David Evans", "detail": "Son", "slug": "joseph-evans-i99" },
+            { "name": "Annie Evans", "detail": "Daughter", "slug": "annie-evans-i577" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "queensland-road-1926",
+      "address": "20 Queensland Road",
+      "area": "Holloway",
+      "lat": 51.5540,
+      "lng": -0.1130,
+      "familyId": "coolbear",
+      "entries": [
+        {
+          "year": 1926,
+          "source": "Holloway Press report",
+          "people": [
+            { "name": "Archibald Percy Coolbear", "detail": "Resident", "slug": "archibald-percy-coolbear" }
+          ],
+          "note": "Address from 1926 newspaper report; Rosina also on pension card at 10 Queensland Road"
+        }
+      ]
+    }
+  ]
+}

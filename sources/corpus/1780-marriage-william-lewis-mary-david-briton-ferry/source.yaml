@@ -1,0 +1,22 @@
+type: parish_marriage
+title: "Marriage of William Lewis and Mary David, 10 September 1780, Briton Ferry"
+date: "1780-09-10"
+place: "Briton Ferry, Glamorganshire, Wales"
+repository: "West Glamorgan Archive Service / Gwasanaethau Archifau Cymru"
+collection: "Glamorganshire Marriages And Banns"
+reference: "P/70/CW/8, p. 11 (October 1755–September 1812)"
+remote:
+  fmp_record_id: "GBPRS/M/WAL566281/1"
+  fmp_image_id: "GBPRS/WAL/4378247/00010"
+  fmp_url: "https://www.findmypast.co.uk/transcript?id=GBPRS/M/WAL566281/1"
+persons:
+  - name: "William Lewis"
+    role: groom
+    status: bachelor
+    residence: Brittonferry
+  - name: "Mary David"
+    role: bride
+    status: spinster
+    residence: Baglan
+witnesses:
+  - "George Loyd"

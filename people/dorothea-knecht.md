@@ -14,7 +14,7 @@ children:
 
 # Dorothea Knecht
 
-**Dorothea** was born in the first quarter of **1861** in **Islington** — registered in the GRO birth index as "Dorodea Knecht" (Vol 1B, p. 242). Her father **[George Knecht](george-knecht.md)** was a German immigrant, a gas worker born about 1829; her mother **[Eliza Sarah Glasscock](eliza-knecht.md)** was born about 1833 in Ireland — an English surname from an Irish birthplace. George and Eliza married in **Q3 1856** at Islington (GRO: Vol 1B, p. 267). The family lived on **Pembroke Street, Upper**, in the parish of **St Michael Islington**, Thornhill ward.
+**Dorothea** was born in the first quarter of **1861** in **Islington** — registered in the GRO birth index as "Dorodea Knecht" (Vol 1B, p. 242). Her father **[George Knecht](george-knecht.md)** (full name Johann George Knecht) was a German immigrant from Hesse-Nassau, a gas worker and later cabinet maker; her mother **[Eliza Sarah Glasscock](eliza-knecht.md)** was born about 1828 at Bethnal Green — daughter of James Glasscock (painter) and Sarah Ann Holles. Eliza had been married before: she was widowed young as "Eliza Thorbourn" with a daughter Elizabeth before marrying George in **Q3 1856** at Islington (GRO: Vol 1B, p. 267). The family lived on **Pembroke Street, Upper**, in the parish of **St Michael Islington**, Thornhill ward.
 
 The **1871 Census** (RG10/263, folio 36, schedule 316) found ten-year-old Dorothea already at work as an **artificial flower maker** — one of the sweated trades of Victorian London, glueing silk petals and wiring stems at home or in small workshops. Her older sister Elizabeth (12) did the same work; her brother Francis Henry (14) was a bookbinder. The younger children — George William, Hannah, and baby Louisa Sarah — were still at school or in the cradle.
 
@@ -56,5 +56,9 @@ By the **1939 Register** (TNA R39/0272, schedule 79), Dorothea was living with s
 
 - Marriage certificate on order (GRO Vol 1B, p. 143, Q4 1878, Pancras) — will give the church or registry office, both fathers' names and occupations, and both parties' ages.
 - Death date and place — between 1939 and ~1945 (she would have been in her 80s).
-- Mother's Irish birthplace vs English surname Glasscock — family origins.
-- Exact birthplace in Germany for father George Knecht.
+- Mother's birthplace resolved: baptised Bethnal Green 1832, parents James Glasscock (painter, b. ~1794 Stepney) and Sarah Ann Holles (b. ~1809 Bethnal Green). Mother was previously married to Mr. Thorbourn (died before 1851).
+- Maternal great-grandparents: **John Glasscock** (b. 14 Feb 1773, Whitechapel; m. (1) Sarah, m. (2) Rebecca Haley 1824) and **Sarah**.
+- Maternal great-great-grandparents: **Abraham Glasscock** (bapt. 1735, Bishop's Stortford, Hertfordshire) and **Mary Thompson** (married 17 Jan 1768, St Botolph Aldgate). Abraham migrated from the Glascock stronghold of Bishop's Stortford — where the family had lived since at least the 1580s — to east London, settling at Whitechapel.
+- Maternal 3×great-grandfather: **Abraham Glascock** (bapt. 1703, Bishop's Stortford; married 1733; died ~1738).
+- The east London Glasscocks (a parallel branch through Robert Glascock, labourer, at Stepney) were in the area from at least **1676** (Richard Glascock, pattern drawer, Mile End). But the direct line runs through Bishop's Stortford, Hertfordshire.
+- Exact birthplace in Germany for father George Knecht (Hesse-Nassau narrows the region).

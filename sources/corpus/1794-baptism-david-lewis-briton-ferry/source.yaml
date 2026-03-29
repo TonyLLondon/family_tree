@@ -1,14 +1,18 @@
-title: "Baptism of David Lewis, Briton Ferry, 7 January 1794"
-record_type: baptism
-year: 1794
-reference: "P/70"
-parish: "Briton Ferry"
-county: "Glamorganshire"
-country: "Wales"
-
-files:
-  media_reference: "media/docs/1794-baptism-david-lewis-briton-ferry-p70.jpg"
-  transcription: "transcription.md"
-
-findmypast:
-  record_id: "GBPRS/B/855394445/1"
+type: parish_baptism
+title: "Baptism of David Lewis, 7 January 1794, Briton Ferry"
+date: "1794-01-07"
+place: "Briton Ferry, Glamorganshire, Wales"
+repository: "West Glamorgan Archive Service / Gwasanaethau Archifau Cymru"
+collection: "Glamorganshire Baptisms"
+reference: "pp. 28–29"
+remote:
+  fmp_record_id: "GBPRS/B/855394445/1"
+  fmp_image_id: "GBPRS/WAL/4378237/00018"
+  fmp_url: "https://www.findmypast.co.uk/transcript?id=GBPRS/B/855394445/1"
+persons:
+  - name: "David Lewis"
+    role: child
+  - name: "Will Lewis"
+    role: father
+  - name: "Catherine Rees"
+    role: mother

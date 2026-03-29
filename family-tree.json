@@ -1099,7 +1099,7 @@
       ],
       "sex": "M",
       "birthPlace": "Merthyr Tydfil, Glamorganshire, Wales",
-      "deathDate": "ABT AUG 1907",
+      "deathDate": "1907",
       "personPage": "people/david-cushen.md",
       "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
       "birthDate": "1853-07-28",
@@ -1113,8 +1113,7 @@
         "F88"
       ],
       "sex": "F",
-      "birthPlace": "Glamorganshire, Wales, United Kingdom",
-      "deathDate": "ABT FEB 1925",
+      "birthPlace": "Dowlais, Merthyr Tydfil, Glamorganshire, Wales",
       "personPage": "people/mary-morgan.md",
       "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
       "birthDate": "1854",
@@ -1142,25 +1141,24 @@
         "F89"
       ],
       "sex": "F",
-      "birthPlace": "Llansamlet, Glamorgan, Wales, United Kingdom",
+      "birthPlace": "Swansea, Glamorganshire, Wales",
       "deathDate": "1875-07",
       "personPage": "people/ann-mainwaring.md",
       "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
-      "birthDate": "1827"
+      "birthDate": "1826-06-10"
     },
     "I179": {
       "id": "I179",
-      "displayName": "Richard MAINWARING",
+      "displayName": "Evan MAINWARING",
       "birthUnionId": null,
       "spouseUnionIds": [
         "F90"
       ],
       "sex": "M",
-      "birthPlace": "Neath, Glamorgan, Wales",
-      "deathDate": "1844-02",
-      "personPage": "people/richard-mainwaring.md",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
-      "birthDate": "1797"
+      "birthPlace": "Swansea, Glamorganshire, Wales",
+      "birthDate": "1781",
+      "deathDate": "1848",
+      "deathPlace": "Swansea, Glamorganshire, Wales"
     },
     "I18": {
       "id": "I18",
@@ -1177,16 +1175,15 @@
     },
     "I180": {
       "id": "I180",
-      "displayName": "Mary RICHARDS",
+      "displayName": "Margaret MAINWARING",
       "birthUnionId": null,
       "spouseUnionIds": [
         "F90"
       ],
       "sex": "F",
-      "birthPlace": "Merthyr Tydfil, Glamorgan, Wales",
-      "deathDate": "1852",
-      "personPage": "people/mary-richards.md",
-      "birthDate": "1802"
+      "birthDate": "1785",
+      "deathDate": "1841",
+      "deathPlace": "Swansea, Glamorganshire, Wales"
     },
     "I181": {
       "id": "I181",
@@ -2559,9 +2556,9 @@
         "F136"
       ],
       "sex": "M",
-      "birthPlace": "Clerkenwell, London, England",
+      "birthPlace": "Islington, London, England",
       "personPage": "people/william-evans-i289.md",
-      "birthDate": "ABT 1857"
+      "birthDate": "Q1 1857"
     },
     "I29": {
       "id": "I29",
@@ -4453,25 +4450,45 @@
     },
     "I413": {
       "id": "I413",
-      "displayName": "MORGAN",
-      "birthUnionId": null,
+      "displayName": "Keziah MORGAN",
+      "birthUnionId": "F217",
       "spouseUnionIds": [
         "F187"
       ],
       "sex": "M",
-      "birthPlace": "Wales",
-      "personPage": "people/morgan.md"
+      "birthPlace": "Nantyglo, Aberystruth, Monmouthshire, Wales",
+      "birthDate": "1824-03-07"
     },
     "I414": {
       "id": "I414",
-      "displayName": "Amelia",
+      "displayName": "Jane MORGAN",
       "birthUnionId": null,
       "spouseUnionIds": [
         "F187"
       ],
       "sex": "F",
-      "birthPlace": "Wales",
-      "personPage": "people/amelia.md"
+      "birthPlace": "Dowlais, Glamorgan, Wales",
+      "birthDate": "1828"
+    },
+    "I606": {
+      "id": "I606",
+      "displayName": "Thomas MORGAN",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F217"
+      ],
+      "sex": "M",
+      "birthPlace": "Nantyglo, Aberystruth, Monmouthshire, Wales"
+    },
+    "I607": {
+      "id": "I607",
+      "displayName": "Charlotte DAVIES",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F217"
+      ],
+      "sex": "F",
+      "birthPlace": "Aberystruth, Monmouthshire, Wales"
     },
     "I415": {
       "id": "I415",
@@ -4612,26 +4629,26 @@
     "I427": {
       "id": "I427",
       "displayName": "Lewis LEWIS",
-      "birthUnionId": null,
+      "birthUnionId": "F218",
       "spouseUnionIds": [
         "F189"
       ],
       "sex": "M",
       "birthPlace": "Briton Ferry, Glamorganshire, Wales",
       "personPage": "people/lewis-lewis.md",
-      "birthDate": "1813"
+      "birthDate": "1813-03-14"
     },
     "I428": {
       "id": "I428",
       "displayName": "Rachel STEPHEN",
-      "birthUnionId": null,
+      "birthUnionId": "F220",
       "spouseUnionIds": [
         "F189"
       ],
       "sex": "F",
       "birthPlace": "Llanarthne, Carmarthenshire, Wales",
       "personPage": "people/rachel-james.md",
-      "birthDate": "1825"
+      "birthDate": "1825-10-09"
     },
     "I429": {
       "id": "I429",
@@ -4695,13 +4712,17 @@
     },
     "I434": {
       "id": "I434",
-      "displayName": "William EVANS",
+      "displayName": "Alfred EVANS",
       "birthUnionId": null,
       "spouseUnionIds": [
         "F190"
       ],
       "sex": "M",
-      "birthPlace": "London, England"
+      "birthPlace": "Shoreditch, London, England",
+      "birthDate": "ABT 1821",
+      "deathPlace": null,
+      "deathDate": null,
+      "personPage": "people/alfred-evans-i434.md"
     },
     "I435": {
       "id": "I435",
@@ -7032,17 +7053,199 @@
     "I580": {
       "id": "I580",
       "displayName": "Eliza Sarah GLASSCOCK",
-      "birthUnionId": null,
+      "birthUnionId": "F213",
       "spouseUnionIds": [
         "F210"
       ],
       "sex": "F",
-      "birthPlace": "Ireland",
+      "birthPlace": "Bethnal Green, London, England",
       "personPage": "people/eliza-knecht.md",
-      "birthDate": "ABT 1833",
+      "birthDate": "ABT 1828",
       "alsoKnownAs": [
         "Eliza Knecht"
       ]
+    },
+    "I598": {
+      "id": "I598",
+      "displayName": "James GLASSCOCK",
+      "birthUnionId": "F214",
+      "spouseUnionIds": [
+        "F213"
+      ],
+      "sex": "M",
+      "birthPlace": "Stepney, London, England",
+      "birthDate": "ABT 1794",
+      "deathDate": "Q2 1863",
+      "deathPlace": "Bethnal Green, London, England",
+      "personPage": "people/james-glasscock-i598.md"
+    },
+    "I599": {
+      "id": "I599",
+      "displayName": "Sarah Ann HOLLES",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F213"
+      ],
+      "sex": "F",
+      "birthPlace": "Bethnal Green, London, England",
+      "birthDate": "ABT 1809"
+    },
+    "I600": {
+      "id": "I600",
+      "displayName": "John GLASSCOCK",
+      "birthUnionId": "F215",
+      "spouseUnionIds": [
+        "F214"
+      ],
+      "sex": "M",
+      "birthPlace": "Whitechapel, London, England",
+      "birthDate": "14 FEB 1773",
+      "personPage": "people/john-glasscock-i600.md"
+    },
+    "I601": {
+      "id": "I601",
+      "displayName": "Sarah GLASSCOCK",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F214"
+      ],
+      "sex": "F"
+    },
+    "I602": {
+      "id": "I602",
+      "displayName": "Abraham GLASSCOCK",
+      "birthUnionId": "F216",
+      "spouseUnionIds": [
+        "F215"
+      ],
+      "sex": "M",
+      "birthPlace": "Bishop's Stortford, Hertfordshire, England",
+      "birthDate": "ABT 1735",
+      "personPage": "people/abraham-glasscock-i602.md"
+    },
+    "I603": {
+      "id": "I603",
+      "displayName": "Mary THOMPSON",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F215"
+      ],
+      "sex": "F"
+    },
+    "I604": {
+      "id": "I604",
+      "displayName": "Abraham GLASCOCK",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F216"
+      ],
+      "sex": "M",
+      "birthPlace": "Bishop's Stortford, Hertfordshire, England",
+      "birthDate": "ABT 1703",
+      "deathDate": "ABT 1738",
+      "deathPlace": "Bishop's Stortford, Hertfordshire, England"
+    },
+    "I605": {
+      "id": "I605",
+      "displayName": "Wife of Abraham GLASCOCK",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F216"
+      ],
+      "sex": "F"
+    },
+    "I608": {
+      "id": "I608",
+      "displayName": "Catherine BURTON",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F190"
+      ],
+      "sex": "F",
+      "birthPlace": "Clapton, Hackney, London, England",
+      "birthDate": "ABT 1824",
+      "deathPlace": null,
+      "deathDate": null,
+      "personPage": "people/catherine-burton-evans-i608.md"
+    },
+    "I609": {
+      "id": "I609",
+      "displayName": "David LEWIS",
+      "birthUnionId": "F219",
+      "spouseUnionIds": [
+        "F218"
+      ],
+      "sex": "M",
+      "birthPlace": "Briton Ferry, Glamorganshire, Wales",
+      "birthDate": "1794-01-07"
+    },
+    "I610": {
+      "id": "I610",
+      "displayName": "Ann DAVIES",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F218"
+      ],
+      "sex": "F",
+      "birthPlace": "Briton Ferry, Glamorganshire, Wales"
+    },
+    "I611": {
+      "id": "I611",
+      "displayName": "William LEWIS",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F219"
+      ],
+      "sex": "M",
+      "birthPlace": "Briton Ferry, Glamorganshire, Wales"
+    },
+    "I612": {
+      "id": "I612",
+      "displayName": "Catherine REES",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F219"
+      ],
+      "sex": "F"
+    },
+    "I613": {
+      "id": "I613",
+      "displayName": "William STEPHEN",
+      "birthUnionId": "F221",
+      "spouseUnionIds": [
+        "F220"
+      ],
+      "sex": "M",
+      "birthPlace": "Llandybie, Carmarthenshire, Wales",
+      "birthDate": "1790"
+    },
+    "I614": {
+      "id": "I614",
+      "displayName": "Mary STEPHEN",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F220"
+      ],
+      "sex": "F"
+    },
+    "I615": {
+      "id": "I615",
+      "displayName": "Thomas STEPHEN",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F221"
+      ],
+      "sex": "M",
+      "birthPlace": "Llandybie, Carmarthenshire, Wales"
+    },
+    "I616": {
+      "id": "I616",
+      "displayName": "Jane STEPHEN",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F221"
+      ],
+      "sex": "F"
     }
   },
   "unions": {
@@ -8184,7 +8387,8 @@
         "I430",
         "I173"
       ],
-      "marriageDate": null
+      "marriageDate": "1856",
+      "marriagePlace": "Neath, Glamorganshire, Wales"
     },
     "F19": {
       "id": "F19",
@@ -8199,7 +8403,8 @@
     "F190": {
       "id": "F190",
       "partnerIds": [
-        "I434"
+        "I434",
+        "I608"
       ],
       "childIds": [
         "I289"
@@ -9402,7 +9607,7 @@
       "childIds": [
         "I178"
       ],
-      "marriageDate": "25 OCT 1825"
+      "marriageDate": null
     },
     "F91": {
       "id": "F91",
@@ -9509,6 +9714,109 @@
         "I557"
       ],
       "marriageDate": "4 MAY 1617"
+    },
+    "F213": {
+      "id": "F213",
+      "partnerIds": [
+        "I598",
+        "I599"
+      ],
+      "childIds": [
+        "I580"
+      ],
+      "marriageDate": "24 JUL 1826",
+      "marriagePlace": "Stepney, London"
+    },
+    "F214": {
+      "id": "F214",
+      "partnerIds": [
+        "I600",
+        "I601"
+      ],
+      "childIds": [
+        "I598"
+      ]
+    },
+    "F215": {
+      "id": "F215",
+      "partnerIds": [
+        "I602",
+        "I603"
+      ],
+      "childIds": [
+        "I600"
+      ],
+      "marriageDate": "17 JAN 1768",
+      "marriagePlace": "St Botolph Aldgate, London"
+    },
+    "F216": {
+      "id": "F216",
+      "partnerIds": [
+        "I604",
+        "I605"
+      ],
+      "childIds": [
+        "I602"
+      ],
+      "marriageDate": "1733",
+      "marriagePlace": "Bishop's Stortford, Hertfordshire"
+    },
+    "F217": {
+      "id": "F217",
+      "partnerIds": [
+        "I606",
+        "I607"
+      ],
+      "childIds": [
+        "I413"
+      ],
+      "marriageDate": "1823-07-05",
+      "marriagePlace": "Aberystruth, Monmouthshire, Wales"
+    },
+    "F218": {
+      "id": "F218",
+      "partnerIds": [
+        "I609",
+        "I610"
+      ],
+      "childIds": [
+        "I427"
+      ],
+      "marriageDate": "1812-05-23",
+      "marriagePlace": "Briton Ferry, Glamorganshire, Wales"
+    },
+    "F219": {
+      "id": "F219",
+      "partnerIds": [
+        "I611",
+        "I612"
+      ],
+      "childIds": [
+        "I609"
+      ],
+      "marriageDate": null
+    },
+    "F220": {
+      "id": "F220",
+      "partnerIds": [
+        "I613",
+        "I614"
+      ],
+      "childIds": [
+        "I428"
+      ],
+      "marriageDate": null
+    },
+    "F221": {
+      "id": "F221",
+      "partnerIds": [
+        "I615",
+        "I616"
+      ],
+      "childIds": [
+        "I613"
+      ],
+      "marriageDate": null
     }
   },
   "graph": {
@@ -9956,7 +10264,7 @@
       {
         "id": "I179",
         "kind": "person",
-        "label": "Richard MAINWARING"
+        "label": "Evan MAINWARING"
       },
       {
         "id": "I18",
@@ -9966,7 +10274,7 @@
       {
         "id": "I180",
         "kind": "person",
-        "label": "Mary RICHARDS"
+        "label": "Margaret MAINWARING"
       },
       {
         "id": "I181",
@@ -11306,12 +11614,12 @@
       {
         "id": "I413",
         "kind": "person",
-        "label": "MORGAN"
+        "label": "Keziah MORGAN"
       },
       {
         "id": "I414",
         "kind": "person",
-        "label": "Amelia"
+        "label": "Jane MORGAN"
       },
       {
         "id": "I415",
@@ -11421,7 +11729,7 @@
       {
         "id": "I434",
         "kind": "person",
-        "label": "William EVANS"
+        "label": "Alfred EVANS"
       },
       {
         "id": "I435",
@@ -13010,7 +13318,7 @@
         "id": "F189",
         "kind": "union",
         "label": "",
-        "marriageDate": null
+        "marriageDate": "1856"
       },
       {
         "id": "F19",
@@ -13624,8 +13932,8 @@
       {
         "id": "F90",
         "kind": "union",
-        "label": "25 OCT 1825",
-        "marriageDate": "25 OCT 1825"
+        "label": "",
+        "marriageDate": null
       },
       {
         "id": "F91",
@@ -13755,6 +14063,155 @@
       },
       {
         "id": "F212",
+        "kind": "union",
+        "label": "",
+        "marriageDate": null
+      },
+      {
+        "id": "I598",
+        "kind": "person",
+        "label": "James GLASSCOCK"
+      },
+      {
+        "id": "I599",
+        "kind": "person",
+        "label": "Sarah Ann HOLLES"
+      },
+      {
+        "id": "F213",
+        "kind": "union",
+        "label": "24 JUL 1826",
+        "marriageDate": "24 JUL 1826"
+      },
+      {
+        "id": "I600",
+        "kind": "person",
+        "label": "John GLASSCOCK"
+      },
+      {
+        "id": "I601",
+        "kind": "person",
+        "label": "Sarah GLASSCOCK"
+      },
+      {
+        "id": "F214",
+        "kind": "union",
+        "label": "",
+        "marriageDate": null
+      },
+      {
+        "id": "I602",
+        "kind": "person",
+        "label": "Abraham GLASSCOCK"
+      },
+      {
+        "id": "I603",
+        "kind": "person",
+        "label": "Mary THOMPSON"
+      },
+      {
+        "id": "F215",
+        "kind": "union",
+        "label": "17 JAN 1768",
+        "marriageDate": "17 JAN 1768"
+      },
+      {
+        "id": "I604",
+        "kind": "person",
+        "label": "Abraham GLASCOCK"
+      },
+      {
+        "id": "I605",
+        "kind": "person",
+        "label": "Wife of Abraham GLASCOCK"
+      },
+      {
+        "id": "F216",
+        "kind": "union",
+        "label": "1733",
+        "marriageDate": "1733"
+      },
+      {
+        "id": "I606",
+        "kind": "person",
+        "label": "Thomas MORGAN"
+      },
+      {
+        "id": "I607",
+        "kind": "person",
+        "label": "Charlotte DAVIES"
+      },
+      {
+        "id": "F217",
+        "kind": "union",
+        "label": "",
+        "marriageDate": "1823-07-05"
+      },
+      {
+        "id": "I608",
+        "kind": "person",
+        "label": "Catherine BURTON"
+      },
+      {
+        "id": "I609",
+        "kind": "person",
+        "label": "David LEWIS"
+      },
+      {
+        "id": "I610",
+        "kind": "person",
+        "label": "Ann DAVIES"
+      },
+      {
+        "id": "F218",
+        "kind": "union",
+        "label": "",
+        "marriageDate": "1812-05-23"
+      },
+      {
+        "id": "I611",
+        "kind": "person",
+        "label": "William LEWIS"
+      },
+      {
+        "id": "I612",
+        "kind": "person",
+        "label": "Catherine REES"
+      },
+      {
+        "id": "F219",
+        "kind": "union",
+        "label": "",
+        "marriageDate": null
+      },
+      {
+        "id": "I613",
+        "kind": "person",
+        "label": "William STEPHEN"
+      },
+      {
+        "id": "I614",
+        "kind": "person",
+        "label": "Mary STEPHEN"
+      },
+      {
+        "id": "F220",
+        "kind": "union",
+        "label": "",
+        "marriageDate": null
+      },
+      {
+        "id": "I615",
+        "kind": "person",
+        "label": "Thomas STEPHEN"
+      },
+      {
+        "id": "I616",
+        "kind": "person",
+        "label": "Jane STEPHEN"
+      },
+      {
+        "id": "F221",
         "kind": "union",
         "label": "",
         "marriageDate": null
@@ -17759,6 +18216,151 @@
       {
         "from": "F212",
         "to": "I104",
+        "kind": "descent"
+      },
+      {
+        "from": "I598",
+        "to": "F213",
+        "kind": "spouse"
+      },
+      {
+        "from": "I599",
+        "to": "F213",
+        "kind": "spouse"
+      },
+      {
+        "from": "F213",
+        "to": "I580",
+        "kind": "descent"
+      },
+      {
+        "from": "I600",
+        "to": "F214",
+        "kind": "spouse"
+      },
+      {
+        "from": "I601",
+        "to": "F214",
+        "kind": "spouse"
+      },
+      {
+        "from": "F214",
+        "to": "I598",
+        "kind": "descent"
+      },
+      {
+        "from": "I602",
+        "to": "F215",
+        "kind": "spouse"
+      },
+      {
+        "from": "I603",
+        "to": "F215",
+        "kind": "spouse"
+      },
+      {
+        "from": "F215",
+        "to": "I600",
+        "kind": "descent"
+      },
+      {
+        "from": "I604",
+        "to": "F216",
+        "kind": "spouse"
+      },
+      {
+        "from": "I605",
+        "to": "F216",
+        "kind": "spouse"
+      },
+      {
+        "from": "F216",
+        "to": "I602",
+        "kind": "descent"
+      },
+      {
+        "from": "I606",
+        "to": "F217",
+        "kind": "spouse"
+      },
+      {
+        "from": "I607",
+        "to": "F217",
+        "kind": "spouse"
+      },
+      {
+        "from": "F217",
+        "to": "I413",
+        "kind": "descent"
+      },
+      {
+        "from": "I608",
+        "to": "F190",
+        "kind": "spouse"
+      },
+      {
+        "from": "F190",
+        "to": "I608",
+        "kind": "spouse"
+      },
+      {
+        "from": "I609",
+        "to": "F218",
+        "kind": "spouse"
+      },
+      {
+        "from": "I610",
+        "to": "F218",
+        "kind": "spouse"
+      },
+      {
+        "from": "F218",
+        "to": "I427",
+        "kind": "descent"
+      },
+      {
+        "from": "I611",
+        "to": "F219",
+        "kind": "spouse"
+      },
+      {
+        "from": "I612",
+        "to": "F219",
+        "kind": "spouse"
+      },
+      {
+        "from": "F219",
+        "to": "I609",
+        "kind": "descent"
+      },
+      {
+        "from": "I613",
+        "to": "F220",
+        "kind": "spouse"
+      },
+      {
+        "from": "I614",
+        "to": "F220",
+        "kind": "spouse"
+      },
+      {
+        "from": "F220",
+        "to": "I428",
+        "kind": "descent"
+      },
+      {
+        "from": "I615",
+        "to": "F221",
+        "kind": "spouse"
+      },
+      {
+        "from": "I616",
+        "to": "F221",
+        "kind": "spouse"
+      },
+      {
+        "from": "F221",
+        "to": "I613",
         "kind": "descent"
       }
     ]

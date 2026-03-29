@@ -1,14 +1,23 @@
-title: "Marriage of David Lewis and Ann Davies, Briton Ferry, 23 May 1812"
-record_type: marriage
-year: 1812
-reference: "P/70/CW/8"
-parish: "Briton Ferry"
-county: "Glamorganshire"
-country: "Wales"
-
-files:
-  media_reference: "media/docs/1812-marriage-david-lewis-ann-davies-briton-ferry-p70.jpg"
-  transcription: "transcription.md"
-
-findmypast:
-  record_id: "GBPRS/M/WAL566331/1"
+type: parish_marriage
+title: "Marriage of David Lewis and Ann Davies, 23 May 1812, Briton Ferry"
+date: "1812-05-23"
+place: "Briton Ferry, Glamorganshire, Wales"
+repository: "West Glamorgan Archive Service / Gwasanaethau Archifau Cymru"
+collection: "Glamorganshire Marriages And Banns"
+reference: "P/70/CW/8, p. 23 (October 1755–September 1812)"
+remote:
+  fmp_record_id: "GBPRS/M/WAL566331/1"
+  fmp_image_id: "GBPRS/WAL/4378247/00016"
+  fmp_url: "https://www.findmypast.co.uk/transcript?id=GBPRS/M/WAL566331/1"
+persons:
+  - name: "David Lewis"
+    role: groom
+    status: bachelor
+    residence: Baglan
+  - name: "Ann Davies"
+    role: bride
+    status: spinster
+    residence: Briton Ferry
+witnesses:
+  - "Rees Powell"
+  - "Morgn Evans"

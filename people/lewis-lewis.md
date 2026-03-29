@@ -49,9 +49,9 @@ The GEDCOM export (I427) recorded Lewis Lewis as a **carpenter** at **Gelligaer*
 - Father: **David Lewis** (bapt. 7 January 1794, Briton Ferry), labourer of Baglan/Briton Ferry, son of **William Lewis** and **Catherine Rees**
 - Mother: **Ann Davies** (spinster of Briton Ferry), married David at Briton Ferry on 23 May 1812
 
-### First wife: Mary Ann Prichard (c. 1805–1849)
+### First wife: Mary Ann Prichard (1808–1849)
 
-Born about 1805 in Glamorganshire. Married Lewis at Briton Ferry on 28 June 1834. Buried 10 July 1849 at Aberavon, aged 44, residence Port Talbot.
+Born **23 June 1808** at **Neath, St Thomas**, daughter of **Henry Prichard** and **Gwenllian Harries** (married 27 Nov 1807, Neath). Gwenllian was baptised **2 December 1787** at **Cadoxton-juxta-Neath**, daughter of **Rees Harry** and **Mary Gething** (married 14 Apr 1782, Cadoxton). Mary Ann married Lewis at Briton Ferry on 28 June 1834. Buried 10 July 1849 at Aberavon, aged 44 (sic — actually 41), residence Port Talbot.
 
 **Children with Mary Ann** (all born Glamorgan):
 
@@ -84,9 +84,13 @@ Baptised **9 October 1825** at **Llanarthne**, Carmarthenshire, daughter of **Wi
 
 ## Evidence
 
-- **Baptism of David Lewis, 7 January 1794, Briton Ferry** — son of William Lewis and Catherine Rees. Parish register P/70 ([image](../media/docs/1794-baptism-david-lewis-briton-ferry-p70.jpg)).
+- **Marriage of William Lewis × Mary David, 10 Sep 1780, Briton Ferry** — bachelor of Brittonferry, spinster of Baglan. P/70/CW/8, p. 11 ([FMP](https://www.findmypast.co.uk/transcript?id=GBPRS/M/WAL566281/1)). Lewis Lewis's grandparents' first marriage; Catherine Rees was William's second wife.
+- **Baptism of William Lewis Jr, 25 May 1783, Briton Ferry** — son of William and Mary (i.e. Mary David). Confirms the first marriage ([FMP](https://www.findmypast.co.uk/transcript?id=GBPRS/B/855394384/1)).
+- **Baptism of David Lewis, 7 January 1794, Briton Ferry** — son of Will[iam] Lewis and Catherine Rees. Parish register P/70, pp. 28–29 ([FMP](https://www.findmypast.co.uk/transcript?id=GBPRS/B/855394445/1)).
 - **Marriage of David Lewis × Ann Davies, 23 May 1812, Briton Ferry** — David Lewis, bachelor of Baglan, and Ann Davies, spinster of Briton Ferry. By banns. Witnesses: Rees Powell, Morgan Evans. Parish register P/70/CW/8, p. 23 ([image](../media/docs/1812-marriage-david-lewis-ann-davies-briton-ferry-p70.jpg)).
 - **Baptism, 14 March 1813, Briton Ferry** — Lewis, son of David and Ann Lewis, labourer. Parish register P/70/CW/9 ([image](../media/docs/1813-baptism-lewis-lewis-briton-ferry-p68.jpg)).
+- **Banns of Henry Prichard × Gwenllian Harries, 27 Nov 1807, Neath St Thomas** — both "of this parish." Mary Ann Prichard's parents ([FMP](https://www.findmypast.co.uk/transcript?id=GBPRS/M/859059044/1)).
+- **Baptism of Mary Prichard, 4 Jul 1808, Neath St Thomas** — Mary, born 23 Jun 1808, daughter of Henry [Prichard] and Gwenllian. Glamorganshire Baptisms ([FMP](https://www.findmypast.co.uk/transcript?id=GBPRS/B/855425673/1)).
 - **Marriage, 28 June 1834, Briton Ferry** — Lewis Lewis, bachelor, of Aberavon, and Mary Ann Prichard, spinster, of Briton Ferry. By banns. Witnesses: Thomas Williams, Morgan Evans. Parish register P/70/CW/9, p. 20 ([image](../media/docs/1834-marriage-lewis-lewis-mary-ann-prichard-briton-ferry-p70.jpg)).
 - [1841 census — Giant's Grave, Briton Ferry](../sources/1841-census-lewis-lewis-briton-ferry.md) — Lewis Lewis (25), labourer; wife Mary (30); children Ann (6), Henry (4), Elizabeth (infant). HO 107/1421 ([image](../media/docs/1841-census-lewis-lewis-household-giants-grave-briton-ferry-ho107-1421.jpg)).
 - **Burial of Mary Lewis, 10 July 1849, Aberavon** — age 44, residence Port Talbot. Parish register P/68/CW/11, p. 92 ([image](../media/docs/1849-burial-mary-lewis-aberavon-p68.jpg)).
@@ -106,5 +110,7 @@ Baptised **9 October 1825** at **Llanarthne**, Carmarthenshire, daughter of **Wi
 
 - **1861 census** — Lewis Lewis at Aberavon (~48); not yet located. GEDCOM RG09/4046 is wrong person; the Lewis Lewis (45, collier) at Lantwit Juxta/Resolven (RG 9/4087) with wife Anne from Carmarthenshire is also a different man.
 - **Rachel after 1872** — Lewis died December 1872; Rachel was 47 (born 1825, not ~1830 as censuses suggest). Not yet found on 1881 census. The Rachel Lewis at Llangunnor, Carmarthen (1881) is a different family (farmer).
-- **William & Mary Stephen** — Rachel's parents, identified from her 1825 Llanarthne baptism. William was a farmer. No further records located yet for the Stephen family.
-- **William Lewis × Catherine Rees marriage** — David Lewis's parents, at Briton Ferry. The William Lewis × Sarah Bowen marriage at Baglan (1785) is a different couple. Briton Ferry / Neath registers from the 1780s–90s could locate the right marriage.
+- **William Lewis's baptism** — David Lewis's father, married Mary David at Briton Ferry 1780, then Catherine Rees. Also had son William Jr (1783). No Briton Ferry baptism found ~1750–1770; he may have been baptised at Baglan or Neath.
+- **Ann Davies's parents** — Lewis Lewis's mother, married David Lewis 1812. No baptism found at Briton Ferry ~1785–1795.
+- **Thomas Stephen (candidate)** — A Thomas Stephen baptised **8 Oct 1769** at **Llandeilo Fawr** (3 miles from Llandybie), father **David John** [Stephen], mother **Elizabeth**, is a strong geographical candidate for William Stephen's father. Not yet confirmed.
+- **Mary (Stephen)** — Rachel's mother per the 1825 baptism, but neither of William Stephen's known marriages (Margaret Hopkins 1814, Rachel Morley 1826) involve a Mary. Possibly an unrecorded intermediate wife, or a recording error.

@@ -56,13 +56,15 @@ White's career follows a well-documented pattern. Irish Catholics comprised **26
 
 ### Bombay marriage and India phase
 
-Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** in **Bombay Presidency**—from that date the couple’s paper trail belongs to **India**. Son Gerald born **Jabalpur February 1878**.
+Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** in **Bombay**, officiated by **Bishop Leo Meurin SJ**, Vicar Apostolic of Bombay. The marriage was announced in the *Wexford Independent* (13 March 1869) and *Cork Examiner* (19 March 1869), naming William as "third son of the late Mathew White, Esq., M.D., of Killoughter and Ballinaliitch" — confirming his father was already dead and had medical qualifications.
+
+From that date the couple's paper trail belongs to **India**. A child ("Tommie") was born at Jubbulpore c. September 1873 (birth announced in *Irish Times*, 2 October 1873) and **died at Marwarra on 8 September 1874, aged 1 year** (*Allen's Indian Mail*, 10 October 1874) — a previously unknown infant death. Another child was born at Jubbulpore in March 1875 (*Indian Statesman*, 19 March 1875). Son [Gerald](gerald-sebastian-white.md) born **12 February 1878** at Jubbulpore (*Homeward Mail*, 11 March 1878; *Cork Weekly Herald*, 16 March 1878).
 
 ### Tralee decades
 
 - **1901** — Head of household, **Denny Street**, Tralee Urban; four persons (William, Catherine, daughter Kathleen, servant). Age 57, "Physician & Surgeon, LRCPI LRCSI." See [1901 census transcription](../sources/corpus/ireland-census-1901-34e603dc32/transcription.md).
 - **1911** — Same **Denny Street** household; five persons (William, Katie, Kathleen, a boarder, servant). Age 67, married 42 years, 8 children born alive, 6 still living. See [1911 census transcription](../sources/corpus/census-for-whites-in-1911-in-ireland-20007ea92c/transcription.md).
-- **1931** — Died **Tralee, Kerry**
+- **1931** — Died **Tralee, Kerry**, aged **85** (*Irish Independent*, 4 April 1931). Estate probated at **£6,042** as "Col. Wm. O'Byrne White, late R.A.M.C., Denny St., Tralee" (*Irish Independent*, 6 August 1932).
 
 ## Family
 
@@ -79,6 +81,17 @@ Married [Catherine Mary Roche](catherine-mary-roche.md) on **8 February 1869** i
 - [FIBIwiki — Jubbulpore](../sources/fibis-jubbulpore.md) — station context
 - **Export:** **treeId** **I135**; unions **F67** (with Catherine Mary Roche), **F157** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged)
 - [O'Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/)
+
+### British & Irish Newspaper Archive (FindMyPast, March 2026)
+
+- [Wexford Independent, 13 Mar 1869 — marriage at Bombay](../sources/corpus/1869-wexford-independent-obyrne-white-marriage-bombay/transcription.md) — "Wm. O'Byrne White, Esq., Royal Medical Staff, third son of the late Mathew White, Esq., M.D., of Killoughter and Ballinaliitch." Also in *Cork Examiner*, 19 March 1869. Officiant: Bishop Leo Meurin SJ, Vicar Apostolic of Bombay.
+- [Allen's Indian Mail, 10 Oct 1874 — death of child Tommie at Jubbulpore](../sources/corpus/1874-allens-indian-mail-obyrne-white-child-death-jubbulpore/transcription.md) — "Tommie, child of W. O'Byrne White, Station Staff Surgeon, Jubbulpore, aged 1 year." Died at Marwarra, 8 September 1874. Previously unknown infant death.
+- [Homeward Mail, 11 Mar 1878 — Gerald's birth at Jubbulpore](../sources/corpus/1878-homeward-mail-obyrne-white-gerald-birth-jubbulpore/transcription.md) — "Feb. 12, at Jubbulpore, wife of Surg.-Major W. O'Byrne White, son." Also *Cork Weekly Herald*, 16 March 1878.
+- [Irish Independent, 4 Apr 1931 — obituary](../sources/corpus/1931-irish-independent-obyrne-white-obituary/transcription.md) — "Dr. W. O'Byrne White, who died in Tralee aged 85, qua[lified …]" (truncated in snippet).
+- [Irish Independent, 6 Aug 1932 — probate](../sources/corpus/1932-irish-independent-obyrne-white-probate/transcription.md) — "£6,042 — Col. Wm. O'Byrne White, late R.A.M.C., Denny St., Tralee."
+
+Additional newspaper mentions not yet in corpus: *Homeward Mail* 12 Dec 1870 (military appointment to 1st Foot); *Saunders's News-Letter* 10 Jan 1873 (ordered to hold himself in readiness from Dublin); *Irish Times* 2 Oct 1873 (birth at Jubbulpore); *Indian Statesman* 19 Mar 1875 (birth at Jubbulpore); *Broad Arrow* 5 May 1877 (surgeon-major promotion list); *Kerry Evening Post* 5 Sep 1903 & *Kerry Evening Star* 16 Feb 1903 (Tralee social events with Gerald and Celsus); *Kerry Reporter* 3 Jul 1915 (daughter Kathleen's engagement).
+
 ## Open questions
 
 - **Campaign medals** — Royal Scots 2nd Bn in Central Provinces 1866–1885: any active service (Second Anglo-Afghan War 1878–1880 is in range; search London Gazette for White's name in campaign dispatches)

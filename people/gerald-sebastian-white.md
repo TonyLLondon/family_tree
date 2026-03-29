@@ -24,6 +24,8 @@ children:
 ## Life
 
 - **12 Feb 1878** — Born **Jabalpur (Jubbulpore), Bengal, India**; christened **17 Feb 1878**, same place. Jabalpur was a brigade headquarters in the 5th Division, Southern Army — see [sources/fibis-jubbulpore.md](../sources/fibis-jubbulpore.md).
+- **March 1906** — Admitted as a **Solicitor of the High Court of Madras**, having previously been a practising Solicitor in the Supreme Court of Ireland and Manager of the firm of **Messrs. Haggard and Co., Solicitors**. [Madras Weekly Mail, 29 March 1906](../sources/corpus/1906-madras-weekly-mail-gerald-white-new-solicitor/transcription.md).
+- **May 1907** — Commissioned **Second-Lieutenant, Madras Volunteer Guards**, gazetted as "Gerald Sebastian White, gentleman." [Civil & Military Gazette, 14 May 1907](../sources/corpus/1907-civil-military-gazette-gerald-white-volunteer-guards/transcription.md).
 - **by 1919** — Established in **Madras**; daughter Maureen born there June 1919.
 - **c. 1929–1937** — **Registrar, High Court of Madras**, under Chief Justice **Sir H.O.C. Beasley** (Chief Justice 1929–1937, knighted 1930). Listed in the printed court directory as "Registrar — G. S. White." See [sources/madras-high-court-directory.md](../sources/madras-high-court-directory.md) and [sources/wikipedia-owen-beasley.md](../sources/wikipedia-owen-beasley.md).
 - **1 Jan 1938** — Appointed **Officer of the Order of the British Empire (OBE)**, Civil Division, in the New Year Honours, as "Registrar, High Court of Judicature at Fort St. George, Madras." [London Gazette supplement, 1 January 1938](../media/docs/London%20Gazette%201%20Jan%201938%20Gerald%20Sebastian%20White%20OBE%20New%20Year%20Honours.pdf).
@@ -36,7 +38,8 @@ children:
 
 Gerald's obituary identifies him as **"Solicitor and former Registrar of the High Court of Madras."** The two roles are distinct:
 
-- **Solicitor** — an English solicitor's qualification; his route into the Madras court was as a qualified private practitioner, not as an ICS civil servant.
+- **Solicitor** — qualified in Ireland, where he was a practising Solicitor in the Supreme Court of Ireland and Manager of the firm of **Messrs. Haggard and Co., Solicitors** before emigrating. Admitted to the High Court of Madras in March 1906.
+- **Madras Volunteer Guards** — commissioned Second-Lieutenant in May 1907, a territorial force for European civilians in the Presidency.
 - **Registrar of the High Court** — the senior administrative law officer of the court, responsible for case management and court records, ranking directly below the judges. High-status appointment requiring legal expertise and institutional continuity.
 
 This represents a coherent second-generation pattern: where his father William used the meritocratic medical corps as the entry into imperial service, Gerald used the colonial bar.
@@ -54,6 +57,8 @@ This represents a coherent second-generation pattern: where his father William u
 - [Obituary notices March 1953](../sources/gerald-white-obituary-1953.md) · [clipping 1](../media/docs/Gerald%20Sebastian%20White%20obituary%201953%20newspaper%20clipping%20on%20lined%20card.png) · [clipping 2](../media/docs/Gerald%20Sebastian%20White%20obituary%20notice%20March%201953%20Times%20clipping%20on%20card.jpg)
 - [FamilySearch death registration Q1 1953 Wandsworth, age 75](../media/docs/FamilySearch%20Gerald%20S%20White%20death%20registration%20Q1%201953%20Wandsworth%20London%20age%2075.jpg)
 - [National Probate Calendar 1953](../media/docs/National%20Probate%20Calendar%201953%20pages%20302-303%20surname%20White.png)
+- [Madras Weekly Mail, 29 March 1906 — "A New Solicitor"](../sources/corpus/1906-madras-weekly-mail-gerald-white-new-solicitor/transcription.md) — admission as Solicitor of the High Court; previously with Haggard and Co., Solicitors, Ireland.
+- [Civil & Military Gazette, 14 May 1907 — Madras Volunteer Guards](../sources/corpus/1907-civil-military-gazette-gerald-white-volunteer-guards/transcription.md) — gazetted Second-Lieutenant; full name "Gerald Sebastian White, gentleman."
 - [London Gazette — New Year Honours 1938, O.B.E.](../sources/london-gazette-1938-white-obe.md) · [scan](../media/docs/London%20Gazette%201%20Jan%201938%20Gerald%20Sebastian%20White%20OBE%20New%20Year%20Honours.pdf) — supplement to London Gazette, issue 34469, 31 December 1937 (published 1 January 1938): "Gerald Sebastian White, Esq., Registrar, High Court of Judicature at Fort St. George, Madras" — Officer of the Civil Division of the Most Excellent Order of the British Empire.
 - [White and Stump families, Geneva, c. 1953](../media/docs/White%20and%20Stump%20families%20Geneva%20c1953.jpg) — Gerald centre of the back row with May, Robert and Molly Stump, and grandchildren. Source: Charlie Ginnane photocopy via Barbara Cantwell.
 - **Export:** **treeId** **I12** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged)
@@ -62,3 +67,5 @@ This represents a coherent second-generation pattern: where his father William u
 - Exact dates of Registrar tenure within the Beasley window (1929–1937); whether Gerald continued under successor Leach (1937–).
 - Younger **White** siblings under union **F67** in the working tree — short pages when civil or army records surface.
 - Law Society solicitor admission roll entry (SRA archive, London).
+- Full text of the 1906 Madras Weekly Mail article (only OCR snippet available from FMP search).
+- Haggard and Co. — identity and Dublin/London office of the firm where Gerald trained.
