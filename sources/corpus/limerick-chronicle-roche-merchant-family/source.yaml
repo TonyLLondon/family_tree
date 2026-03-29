@@ -1,0 +1,12 @@
+id: limerick-chronicle-roche-merchant-family
+remote:
+  webpage_url: https://limerickleader.ie/news/home/310645/limerick-chronicle-files-roots-of-roche-merchant-family-run-deep.html
+fetches:
+- kind: web
+  at: '2026-03-29T15:37:15Z'
+  remote_url: https://limerickleader.ie/news/home/310645/limerick-chronicle-files-roots-of-roche-merchant-family-run-deep.html
+  sha256: 766726537ee5d054db056f2530c10d4eb44342253b9aa0d33cf2036d6ab97cd8
+  bytes: 404364
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

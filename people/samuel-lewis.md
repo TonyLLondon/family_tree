@@ -53,6 +53,12 @@ Wife: Elizabeth Lilian Cushen (“Elizabeth Lily” in death notice; “Elizabet
 - [1911 census — 41 Glen Road, David J. Lewis household](../media/docs/1911%20census%2041%20Glen%20Road%20Aberdare%20David%20J%20Lewis%20household%20schedule%2079.jpg) — Samuel age 23, father’s household.
 - **GRO birth index** — Q3 1887, Merthyr Tydfil, Vol 11A, Page 574. Mother’s maiden name: **Griffiths** — independently confirms [Catherine Griffiths](catherine-griffiths.md) as his mother. FMP `BMD/B/1887/3/AZ/000349/260` ([image](../media/docs/gro-birth-index-q3-1887-samuel-lewis-merthyr-tydfil.jpg)).
 
+### British Newspaper Archive (FindMyPast, March 2026)
+
+- [Aberdare Leader, 17 Nov 1951 — "Home from North Africa"](../sources/corpus/1951-aberdare-leader-major-david-lewis-home-from-africa/transcription.md) ([scan](../media/docs/1951-aberdare-leader-major-david-lewis-home-from-north-africa.png)) — Welcome tea at Carmel for "Major David John Lewis, son of Mr. and Mrs. **Samuel Lewis**, Penydarren Street, Aberdare." Samuel and the Major thanked Carmel members; David presented a communion cloth "embroidered with lace crocheted by his mother."
+- [Aberdare Leader, 8 Oct 1949 — "Y.P. Societies Open New Session"](../sources/corpus/1949-aberdare-leader-carmel-trecynon-yps-tea/transcription.md) ([scan](../media/docs/1949-aberdare-leader-carmel-trecynon-yps-tea-keith-samuel-lewis.png)) — Carmel (Trecynon) Y.P.S. tea. Musical items included "solo **Master Keith Lewis** accompanied by **Mr Samuel Lewis**." **Mrs. Samuel Lewis** among the cutters at the tables. Farewell to Mrs. Rachel M. Frost from Australia.
+- [Aberdare Leader, 9 Mar 1940 — Carmel (C.M.) chapel notes](../sources/corpus/1940-aberdare-leader-carmel-samuel-lewis-resigns/transcription.md) ([scan](../media/docs/1940-aberdare-leader-carmel-samuel-lewis-resigns-financial-secretary.png)) — "Mr. Llewelyn Jones … elected financial secretary of Carmel (C.M.) Chapel in succession to **Mr. Samuel Lewis** who has resigned after **ten years' service**, owing to ill-health." Dates his tenure as financial secretary to ~1930.
+
 **Export:**
 
 - **treeId** **I17** — YAML **`ignore_gedcom_death: true`** (export death month/day transposed vs press) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).

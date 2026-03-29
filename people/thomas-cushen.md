@@ -70,6 +70,11 @@ The name was transcribed differently at every census:
 
 All are phonetic renderings of the Irish surname **Coisín** / **Cuisín** (anglicised Cushen, Cushion, Cashin, Cushing). The GRO death record uses **Cushen**, which became the family's settled spelling by David's generation.
 
+## British Newspaper Archive
+
+- **1884-06-14** — *Merthyr Express*: "Larceny" — "Thos. Cushen, a tramping labourer" convicted of stealing two jackets (21s. and 10s.) and sentenced to 14 days hard labour for each offence. Likely Thomas Sr (~63) or Thomas Jr (~33) during the 1880s Dowlais contraction. [Transcription](../sources/corpus/1884-merthyr-express-thomas-cushen-larceny/transcription.md) · [image](../media/docs/1884-merthyr-express-thomas-cushen-larceny.png).
+- **1906-09-29** — *Merthyr Express*: "A Couple of Deserters" — Thomas Cushen and John Keefe charged with desertion from the Welsh Regiment, arrested at Dowlais. This is a younger-generation Thomas (grandson or nephew of Thomas Sr). [Transcription](../sources/corpus/1906-merthyr-express-thomas-cushen-deserter/transcription.md) · [image](../media/docs/1906-merthyr-express-thomas-cushen-deserter.png).
+
 ## Evidence
 
 - **1841 census — Trevethin, Pontypool** — Thomas Cushan (15), in household with brother Patrick Cushan (30) and Irish families. HO 107/744 ([image](../media/docs/1841-census-cushen-household-trevethin-pontypool-ho107-744.jpg)).

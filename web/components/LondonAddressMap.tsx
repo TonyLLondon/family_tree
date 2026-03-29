@@ -325,8 +325,8 @@ function AddressPopup({
         </div>
       </div>
 
-      {addr.entries.map((entry) => (
-        <div key={entry.year} className="mt-2 border-t border-zinc-100 pt-2">
+      {addr.entries.map((entry, idx) => (
+        <div key={`${entry.year}-${idx}`} className="mt-2 border-t border-zinc-100 pt-2">
           <div className="mb-1 flex items-center gap-2">
             <span className="text-sm font-bold text-zinc-800">{entry.year}</span>
             <span className="text-[10px] text-zinc-400">{entry.source}</span>

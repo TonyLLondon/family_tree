@@ -1,0 +1,12 @@
+id: wikipedia-viscount-fermoy
+remote:
+  webpage_url: https://en.wikipedia.org/wiki/Viscount_Fermoy
+fetches:
+- kind: web
+  at: '2026-03-29T16:30:24Z'
+  remote_url: https://en.wikipedia.org/wiki/Viscount_Fermoy
+  sha256: 44b0ee956985b4da31d65a7dd9e121e739d7f50962486d2e2c158cb6d72fb57c
+  bytes: 60016
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

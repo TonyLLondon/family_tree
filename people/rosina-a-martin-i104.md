@@ -24,7 +24,7 @@ children:
 - Half-siblings (Peter's first marriage to **Catherine Hosten**, m. Q1 1857): James (~1859, Bletchingley, Surrey), Samuel (~1862), Catherine (~1866, Orpington), Emma (~1868, Orpington), Peter Jr (~1870, Orpington).
 - Full siblings (Peter & Clara): Arthur (~1877), William (~1879), Albert (~1881), Harry (~1884), Edward (~1888).
 - Husband: [Archibald Percy Coolbear](archibald-percy-coolbear.md) (m. 28 Oct 1911).
-- Children: Archibald Jr (1912), [May](may-coolbear-i100.md) (1916), Henry Charles (1917), Irene (1921).
+- Children: Archibald Jr (b. 8 Feb 1912, Rochford), [May](may-coolbear-i100.md) (b. 25 Jan 1916, Southend), Henry Charles (b. 16 Oct 1918, Southend), Irene Barbara (b. 23 Jan 1921, Southend).
 
 **GEDCOM correction:** The GEDCOM incorrectly lists Rosina's parents as Thomas Martin (I229) and Elizabeth Moran (I230), with a birth date of 12 June 1892 in Islington. The 1891 census (taken April 1891) already shows infant Rosina with Peter Martin and Clara Webb in Orpington, and the 1921 census (Rosina's own statement) gives her birth year as 1891 and birthplace as Orpington, Kent. The GEDCOM parents are a different family.
 
@@ -38,8 +38,13 @@ children:
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 - **Export:** **treeId** **I104** — marriage **F51** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). GEDCOM birth union F113 (Thomas Martin / Elizabeth Moran) is **incorrect** — see correction note above.
 
+## 1939 Register
+
+Rosina is **absent** from the 1939 household at **28 Crown Mansions, Lower Holloway** where all four of her children are living together (RG101/0291J/007, schedule 82). The household head is **Rosina Angus** (b. 25 Mar 1909), who married Archibald Jr. Rosina Martin's last known address was **10 Queensland Road, Holloway** (1929 pension card). She may have died between 1929 and 1939, or may have been living elsewhere.
+
 ## Open questions
 
+- **1939 absence:** Search the GRO death index for Rosina Coolbear or Rosina Martin, ~1929–1939, Islington/Hendon/Holloway district. If she died young (~38–48) it could be related to hardship after Archibald's death.
 - **1901 Census gap:** The entire Martin family is missing. Peter Martin (chimney sweep) may have died between 1891 and 1901; Clara may have remarried or scattered the children. A death index search for Peter Martin ~1891–1901 in the Bromley/Dartford district would clarify.
 - **Peter Martin's first wife:** Died between ~1872 (Peter Jr born) and ~1876 (before Clara arrived). Name unknown. Death record would be in the Bromley/Dartford district.
 - **Peter's birthplace discrepancy:** Sevenoaks (1881) vs Woolwich (1891). A baptism or birth record would resolve.

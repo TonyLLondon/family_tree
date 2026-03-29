@@ -23,7 +23,7 @@ By the **1911 Census** Annie had already left home at **eighteen**, boarding on 
 
 The **1921 Census** (19 June) found her at **4 Bratton Street, Islington** with Alfred and three children — Alfred Charles (8), Joseph David (6), and Annie (4). She was a **brush maker** at the **Star Brush Company**, Eden Grove, Holloway — her workplace within walking distance of the Fensom family's Lower Holloway streets.
 
-The **1939 Register** found her with Alfred at the same Islington address: occupation **printer's maker**—fashioning parts for presses in an industry that had fed **Exmouth Market** and **Clerkenwell** for generations. She died about **February 1972**, still in Islington, nearly **eighty** years a Londoner of one postal temperament.
+The **1939 Register** found her with Alfred at **37 Oldershaw Road, Lower Holloway** — just north of the Holloway Road, back in the Fensom family's home territory. Her occupation was **printers maker** — fashioning parts for presses in an industry that had fed **Exmouth Market** and **Clerkenwell** for generations. She died about **February 1972**, still in Islington, nearly **eighty** years a Londoner of one postal temperament.
 
 **Line narrative:** [The Spencers and the Evans](../stories/evans-islington-clerkenwell.md).
 
@@ -42,7 +42,7 @@ The **1939 Register** found her with Alfred at the same Islington address: occup
 - [1911 Census, 17 North Road, Holloway](../sources/1911-census-annie-fensom-holloway.md) — RG 14/845, schedule 154: Annie Fensom (18, single, brush maker, Star Brush Factory) boarding with Rose Elizabeth M Watts (18, brush maker) and her father John Jas Watts (64, widower). [Transcription](../sources/corpus/1911-census-annie-fensom-boarder-north-road-holloway/transcription.md).
 - [Marriage register, St David's Church, Islington](../media/docs/alfred-evans-marriage-st-davids-islington-1912.jpg) — pages 6–7, entry 13: **25 Dec 1912**, Annie Fensom (19, Spinster) and Alfred Evans (19, Bachelor); father David William Fensom witnessed. [Source card](../sources/st-davids-islington-marriage-1912.md) · [transcription](../sources/corpus/st-davids-islington-marriage-evans-fensom-1912/transcription.md).
 - [1921 Census, 4 Bratton Street, Islington](../sources/1921-census-evans-islington.md) — TNA RG 15/00915, schedule 243: Annie Evans, wife, 28, brush maker, Star Brush Company, Eden Grove, Holloway. [Transcription](../sources/corpus/1921-census-evans-bratton-street-islington/transcription.md).
-- **1939 Register:** RG101/0291F/005, schedule 61, sub 2 — Annie Fensom, printers maker, Islington.
+- **1939 Register:** RG101/0291F/005, schedule 61 — 37 Oldershaw Road, Lower Holloway: Annie Evans (printers maker), with Alfred (costermonger) and daughter Annie F.
 - **Death index:** Vol 5C, p. 1822 — ~Feb 1972, Islington.
 - **Export:** **treeId** **I291** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Marriage to Alfred **F50**; parental union **F137**.
 

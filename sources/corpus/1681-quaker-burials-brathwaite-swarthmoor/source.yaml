@@ -1,0 +1,33 @@
+title: "Quaker Burial Register: George Brathwaite (1681), Edward (1684), William (1689), and Benson burials, Swarthmoor"
+date_range: "1681–1689"
+archive: The National Archives
+archive_references:
+  - RG6/1085
+  - RG6/1250
+series: "RG 6"
+series_title: "General Register Office: Society Of Friends' Registers, Notes And Certificates Of Births, Marriages And Burials"
+description: "LANCASHIRE: Monthly Meeting of Swarthmore [Swarthmoor] (comprising Ulverston)"
+meeting_place: Swarthmoor
+monthly_meeting: Swarthmoor
+quarterly_meeting: Lancashire
+county: Lancashire
+country: England
+record_set: "England & Wales, Society Of Friends (Quaker) Burials 1578-1841"
+fmp_record_ids:
+  - "TNA/RG6/BUR/794571"
+  - "TNA/RG6/BUR/794586"
+  - "TNA/RG6/BUR/794591"
+  - "TNA/RG6/BUR/832321"
+fmp_image_ids:
+  - "TNA/RG6/1085/0/0060"
+  - "TNA/RG6/1085/0/0061"
+  - "TNA/RG6/1250/0/0108"
+files:
+  media_references:
+    - "media/docs/1681-quaker-burials-george-brathwaite-edward-swarthmoor-rg6-1085.png"
+    - "media/docs/1687-quaker-burials-george-william-brathwaite-benson-rg6-1085.png"
+    - "media/docs/1690-quaker-burials-swarthmoor-rg6-1250.png"
+people:
+  - george-brathwaite
+  - william-brathwaite-hawkshead
+  - agnes-benson

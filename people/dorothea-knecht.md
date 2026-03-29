@@ -24,7 +24,7 @@ William and Dorothea had at least ten children. Those confirmed in census return
 
 | Child | Born | Notes |
 |-------|------|-------|
-| Dorothea | ~1879 | Age 12 in 1891 census; age 19 in 1901 (probably understated); left household by 1911 |
+| Dorothea | ~1879 | Age 12 in 1891; m. **Osmund Allan Moffat**, Q3 1907, Islington (GRO Vol 1B, p. 772); 1911 at 68 Westbury Avenue, Tottenham (RG14/7303, sched. 40) with husband and son Ronald — birthplace recorded as "Swinton St King X", matching parents' 1881 address |
 | William Henry | ~1883 | Garment clerk (1901); still at home 1911 |
 | Louisa | ~1888 | Blouse maker (1911) |
 | Herbert | ~1890 | Electrical engineer (1911) |
@@ -36,7 +36,7 @@ William and Dorothea had at least ten children. Those confirmed in census return
 
 William was a **brass trimmer/finisher** throughout his working life (1901, 1911, 1921 censuses); the **1912 marriage register** of son Alfred records him as a **horse dealer**.
 
-By the **1939 Register** (TNA R39/0272, schedule 79), Dorothea was living with sons Ernest (electrician) and Francis E. (bus conductor) in Islington. William was absent — he had died between 1921 (when he was 64 and still heading the household) and 1939. Dorothea's status appears to be **widowed**. She was approximately 78 years old.
+By the **1939 Register** (TNA RG101/0272B/006, schedule 78), Dorothea was living at **61 Theberton Street, Islington** with sons Ernest (electrician) and Francis E. (bus conductor). The register records her birth date as **8 February 1861** and her status as **widowed** — William had died between 1921 (when he was 64 and still heading the household at **6 Gibson Square**) and 1939. She was seventy-eight years old.
 
 **Hub:** [Evans · Cerpa Pérez](../topics/evans-cerpa-perez-london-chile.md).
 
@@ -48,8 +48,8 @@ By the **1939 Register** (TNA R39/0272, schedule 79), Dorothea was living with s
 - [1891 Census — Evans household, Clerkenwell](../media/docs/1891-census-evans-household-clerkenwell-rg12-229.jpg) — RG12/229, p. 15, schedule 263: Dorothea (30), William (33, Brass Dresser), 4 children. [Source card](../sources/1891-census-evans-clerkenwell.md) · [transcription](../sources/corpus/1891-census-evans-household-clerkenwell/transcription.md).
 - [1901 Census — Evans household, 44 Pembroke Street](../media/docs/1901-census-evans-household-pembroke-street-islington-rg13-182.jpg) — RG13/182, p. 27.
 - [1911 Census — Evans household, 124 Barnsbury Road](../media/docs/1911-census-evans-household-barnsbury-road-islington-rg14-878.jpg) — RG14/878, schedule 203.
-- [1921 Census — Evans household (William Sr)](../media/docs/1921-census-evans-william-sr-household-islington-rg15-998.jpg) — RG15/00998, schedule 192.
-- [1939 Register — Dorothea Evans](../media/docs/1939-register-dorothea-evans-islington.jpg) — TNA R39/0272, schedule 79.
+- [1921 Census — Evans household, 6 Gibson Square](../media/docs/1921-census-evans-william-sr-household-islington-rg15-998.jpg) — RG15/00998, RD 10 RS 6 ED 37, schedule 134: William (64), Dorothea (60), Herbert (32), Ernest (28), Lilian (23), Francis (21).
+- [1939 Register — Dorothea Evans, 61 Theberton Street](../media/docs/1939-register-dorothea-evans-islington.jpg) — TNA RG101/0272B/006, schedule 78: Dorothea (b. 8 Feb 1861, widowed, unpaid domestic duties), Ernest (electrician), Francis E. (bus conductor).
 - GRO Birth Index: Dorodea Knecht, Q1 1861, Islington, Vol 1B, p. 242.
 
 ## Open questions

@@ -1,0 +1,29 @@
+title: "Quaker Birth Register: Brathwaite children (Edward, Agnes, Dorothy), Swarthmoor, 1667–1671"
+date_range: "1667–1671"
+archive: The National Archives
+archive_reference: RG6/1085
+series: "RG 6"
+series_title: "General Register Office: Society Of Friends' Registers, Notes And Certificates Of Births, Marriages And Burials"
+description: "LANCASHIRE: Monthly Meeting of Swarthmore [Swarthmoor] (comprising Ulverston)"
+meeting_place: Swarthmoor
+monthly_meeting: Swarthmoor
+quarterly_meeting: Lancashire
+county: Lancashire
+country: England
+record_set: "England & Wales, Society Of Friends (Quaker) Births 1578-1841"
+fmp_record_ids:
+  - "TNA/RG6/BAP/1600683"
+  - "TNA/RG6/BAP/1600698"
+  - "TNA/RG6/BAP/1600711"
+fmp_image_ids:
+  - "TNA/RG6/1085/0/0016"
+  - "TNA/RG6/1085/0/0018"
+  - "TNA/RG6/1085/0/0019"
+files:
+  media_references:
+    - "media/docs/1666-quaker-births-benjamin-edward-brathwaite-swarthmoor-rg6-1085.png"
+    - "media/docs/1669-quaker-birth-agnes-brathwaite-swarthmoor-rg6-1085.png"
+    - "media/docs/1671-quaker-births-dorothy-brathwaite-abigail-benson-rg6-1085.png"
+people:
+  - george-brathwaite
+  - agnes-benson

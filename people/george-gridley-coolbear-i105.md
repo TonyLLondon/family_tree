@@ -23,6 +23,9 @@ His parents were **George Coolbear** (earlier spelled "Coalbear"), a **journeyma
 - **1844** — Born **Hazeleigh, Essex**. His father George was a journeyman carpenter.
 - **1851** — Age 6, living with parents and siblings at Butt Lane, St Peter, Maldon. Brother **Samuel Olonzo** (4) and infant sister **Elizabeth Ann** also in the household.
 - **By 1881** — Living at Bambridge Road, All Saints, Maldon. Working as a **bill poster and hawker** — an itinerant tradesman pasting advertisements and selling goods. Alma assists in the trade.
+- **1877 Sep** — Rescued two children (Charles and his 14-year-old sister Rowe) from drowning near **Beeleigh locks**, despite his poor eyesight. The *Essex Newsman* reported the rescue and suggested he deserved "something more substantial than the honour of merely saving life." Two weeks later George wrote a letter to the editor defending his role after the elder child contested his account — he offered to produce "seven or eight witnesses."
+- **1883 Jul** — Discovered a fire at a cottage in **Church-walk** near the Bell Inn, Silver-street. Described as a "fruit hawker," he entered the building, raised the alarm, and helped extinguish the flames with buckets of water before Superintendent Smith arrived with a hand pump. Children left home alone had set light to shavings.
+- **By 1891** — Trading as a **general dealer** and greengrocer. In June he appeared in **Maldon County Court** as a witness in a dispute over a field of greens he had bought from a Woodham Walter farmer for resale through White and Co. of Covent Garden. The judge found against the commission agents, but the case reveals George was unable to pay the remaining £5 of the £20 purchase price.
 - **1892** — Died (year in tree); place and register image still open. Son Archibald Percy born the same year (Mar 1892).
 
 ## Family
@@ -44,6 +47,13 @@ His parents were **George Coolbear** (earlier spelled "Coalbear"), a **journeyma
   - [Archibald Percy Coolbear](archibald-percy-coolbear.md) (Mar 1892, Maldon) — born the year George died
 
 **Note on marriage and children:** The GEDCOM records the marriage as 1879. In the **1871 Census** George is **unmarried and childless**, ruling out a prior marriage. Yet Ellen Alice (b. ~1868) and Charles (b. ~1871) appear as his children in 1881. Either: (a) Alma's age in 1881 is understated and she is older than 27, making her old enough to have had children from a prior relationship; (b) the children's ages are overstated in 1881; or (c) there is an unknown first wife/partner not reflected in the census.
+
+## British Newspaper Archive
+
+- **1877-09-01** — *Essex Newsman*: "Gallant Rescue from Drowning" — George Coolbear rescues two children from drowning near Beeleigh locks despite poor eyesight. [Transcription](../sources/corpus/1877-essex-newsman-coolbear-drowning-rescue/transcription.md) · [image](../media/docs/1877-essex-newsman-george-coolbear-drowning-rescue.png).
+- **1877-09-15** — *Essex Newsman*: "A Contradiction" — George Coolbear's letter to the editor defending his role in the rescue, offering seven or eight witnesses. [Transcription](../sources/corpus/1877-essex-newsman-coolbear-contradiction-letter/transcription.md) · [image](../media/docs/1877-essex-newsman-george-coolbear-contradiction-letter.png).
+- **1883-07-27** — *Chelmsford Chronicle*: "Fire" — George Coolbear, fruit hawker, discovers a fire at Church-walk near the Bell Inn, Silver-street, and helps extinguish it. [Transcription](../sources/corpus/1883-chelmsford-chronicle-coolbear-fire-bell-inn/transcription.md) · [image](../media/docs/1883-chelmsford-chronicle-coolbear-fire-bell-inn.png).
+- **1891-06-19** — *Chelmsford Chronicle*: "Maldon County Court" — George Coolbear, Maldon greengrocer, appears in a county court case over the purchase of a field of greens. [Transcription](../sources/corpus/1891-chelmsford-chronicle-coolbear-maldon-county-court/transcription.md) · [image](../media/docs/1891-chelmsford-chronicle-coolbear-maldon-county-court.png).
 
 ## Evidence
 

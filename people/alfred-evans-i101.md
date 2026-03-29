@@ -25,7 +25,7 @@ Alfred was one of at least ten children. The **1911 Census** found him still at 
 
 The **1921 Census** (19 June) placed Alfred at **4 Bratton Street, Islington** — head of a household of five: wife [Annie](annie-fensom-i291.md), sons [Alfred Charles](alfred-charles-evans-i576.md) (8) and [Joseph David](joseph-evans-i99.md) (6), and daughter [Annie](annie-evans-i577.md) (4). His occupation was recorded as **costermonger** (own account) — already on the barrows at twenty-eight, a decade before the only other surviving record of his trade. Annie was a **brush maker** at the **Star Brush Company**, Eden Grove, Holloway.
 
-**September 1939** catches him in truth: **National Register**, **Islington**, **fruit-and-vegetable costermonger** beside Annie, **printer's maker** — barrow and bench, husband and wife, the same working city the church had blessed in ribbon and incense.
+By the **1939 Register** (29 September), Alfred and Annie were at **37 Oldershaw Road, Lower Holloway** — just north of the Holloway Road, in the same stretch where the Fensom family had always lived. Alfred was still a **costermonger**; Annie a **printers maker**. Their daughter Annie F was also in the household.
 
 Death about **November 1954**, **Islington**; civil images still thin in `media/docs/`.
 
@@ -48,7 +48,7 @@ Parents: [William Evans](william-evans-i289.md) (brass finisher / horse dealer);
 **Export:**
 
 - **treeId** **I101** — parents' union **F136**; marriage to Annie **F50**.
-- **1939 Register:** RG101/0291F/005, schedule 61 — Alfred Evans, costermonger, Islington (citation from export metadata only).
+- **1939 Register:** RG101/0291F/005, schedule 61 — 37 Oldershaw Road, Lower Holloway: Alfred Evans (b. 2 Feb 1893, costermonger), Annie Evans (printers maker), Annie F Evans (daughter).
 - [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
 - **Site:** [Ancestor chart](/chart) — **treeId** **I101** matches YAML.
 

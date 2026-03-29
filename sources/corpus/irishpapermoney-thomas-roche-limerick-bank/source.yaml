@@ -1,0 +1,12 @@
+id: irishpapermoney-thomas-roche-limerick-bank
+remote:
+  webpage_url: https://www.irishpapermoney.com/forum/viewtopic.php?t=322
+fetches:
+- kind: web
+  at: '2026-03-29T15:34:03Z'
+  remote_url: https://www.irishpapermoney.com/forum/viewtopic.php?t=322
+  sha256: 5d27296c8b39b8a9c2576d293821c9c200891930d647a8d23f8ef46e896531c9
+  bytes: 81950
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

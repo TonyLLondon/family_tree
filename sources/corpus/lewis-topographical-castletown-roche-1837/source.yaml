@@ -1,0 +1,12 @@
+id: lewis-topographical-castletown-roche-1837
+remote:
+  webpage_url: https://www.libraryireland.com/topog/C/Castletown-Roche-Fermoy-Cork.php
+fetches:
+- kind: web
+  at: '2026-03-29T16:30:25Z'
+  remote_url: https://www.libraryireland.com/topog/C/Castletown-Roche-Fermoy-Cork.php
+  sha256: 7ad989899364ea01e8d2b6d3d426cbb56b51d29e020dba3f86b8e4b572e72fc6
+  bytes: 28512
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

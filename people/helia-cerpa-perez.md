@@ -32,11 +32,19 @@ After the **11 September 1973 military coup**, Parral itself housed the **Cuarte
 
 Helia grew up in this small agricultural city during the decades when the Chilean left was ascendant — the same political soil that produced Neruda's poetry and would culminate in Allende's election.
 
-## Allende administration and the 1973 coup
+## Servicio de Registro Civil e Identificación
 
-Helia worked within the **Allende government** (Unidad Popular coalition, 1970–1973). The administration drew tens of thousands of functionaries — social workers, educators, local administrators, party organisers — into government service at every level. Women played expanding roles: Mireya Baltra became the first female Minister of Labour (1972); Allende's own daughter Beatriz was a key political adviser. The specific nature of Helia's position has not yet been documented in the family archive.
+Helia worked at the **Servicio de Registro Civil e Identificación** (SRCEI) — Chile's Civil Registry and Identification Service — confirmed by a transparency disclosure of exonerado político reparation payments listing her employer as "SERV.DE REGISTRO CIVIL E IDENTIF." ([corpus bundle](../sources/corpus/2010-transparencia-exonerados-politicos-julio/source.yaml); [citation card](../sources/exonerados-politicos-transparencia-2010.md)). She was **27 years old** when Allende took office in November 1970 and **30** at the time of the coup.
 
-When the military junta seized power on 11 September 1973, all parties and trade unions were made illegal by evening. Over the following days, embassies and safe houses filled alongside prisons, stadiums, and torture chambers. An estimated 40,000 people were murdered, tortured, or arbitrarily imprisoned during the seventeen-year dictatorship. Between 200,000 and 2,000,000 Chileans — party activists, trade unionists, intellectuals, government workers — were scattered into exile across the globe.
+The SRCEI was founded on **17 July 1884** under President Domingo Santa María as part of Chile's secular laws (*leyes laicas*), transferring the recording of births, marriages, and deaths from the Catholic Church to the state. By the 1970s it was a decentralised public service under the **Ministry of Justice**, operating regional offices (*oficinas*) in every commune in Chile — including one in Parral, Helia's hometown (still operating today at Balmaceda 720). In 1943 it had absorbed the national Identification and Passport Service from the Policía de Investigaciones, making it the sole issuer of identity cards and passports as well as the keeper of vital records. Its staff were civil servants (*funcionarios*) — the same category of public employee targeted by the junta's political purges.
+
+Under Allende, the SRCEI was headed by **Heriberto Benquis Camhi** (Partido Socialista), who served as National Director from 1971 until the coup. He was replaced on **12 September 1973** — the day after the coup — by Desiderio Herrera González, an independent appointed by the junta. The immediate replacement of the director signals the regime's understanding that controlling the civil registry — the machinery of legal identity — was a priority. Whether Helia worked at the Parral regional office, at another provincial office, or in Santiago has not been established; her birthplace in Parral makes the local office a natural possibility, but the Allende administration also drew provincial functionaries into the capital.
+
+## The 1973 coup
+
+When the military junta seized power on 11 September 1973, all parties and trade unions were made illegal by evening. Helia was 30 years old. Over the following days, embassies and safe houses filled alongside prisons, stadiums, and torture chambers. An estimated 40,000 people were murdered, tortured, or arbitrarily imprisoned during the seventeen-year dictatorship. Between 200,000 and 2,000,000 Chileans — party activists, trade unionists, intellectuals, government workers — were scattered into exile across the globe.
+
+Helia was formally dismissed from the SRCEI on **16 April 1974** — seven months after the coup. The date falls in the second tier of Ley 19.234's service-credit system (January 1974 – December 1976), which granted 4 months of additional pensionable service per year of prior affiliation. Whether she was already detained, in hiding, or in the early stages of exile when the formal dismissal was issued is not documented — the bureaucratic act of exoneration did not require the person's presence.
 
 ## Detention — Estadio Nacional
 
@@ -107,6 +115,14 @@ These records capture only the formal council minutes; Helia's volunteer engagem
 
 Her trajectory — from Allende government worker to political refugee to decades-long housing advocate on a London council estate — mirrors that of many Chilean exiles who, as the Tribune wrote in 2023, "contributed enormously to British society as teachers, engineers, human rights activists, local councillors, doctors, scientists and more."
 
+## Exonerada política — reparation pension
+
+In 1993, Chile enacted **Ley 19.234**, granting reparation pensions (*pensiones de gracia*) to persons dismissed from public-sector employment for political reasons during the dictatorship. Helia was recognised as an *exonerada política* under this programme. A July 2010 transparency disclosure of all programme beneficiaries ([corpus bundle](../sources/corpus/2010-transparencia-exonerados-politicos-julio/source.yaml)) — released under Chile's *Ley de Transparencia* (Law 20.285, 2008) — lists her as **CERPA PEREZ HELIA DEL CARMEN**, dismissed from the **Servicio de Registro Civil e Identificación** on **16 April 1974**, receiving a monthly reparation pension of **140,868 Chilean pesos** (~US$270) as of July 2010.
+
+The same list contains **CERPA GONZALEZ MARCIAL**, dismissed from **SOCOAGRO** (an agricultural cooperative) on **30 November 1973** with a monthly pension of 279,792 CLP. "Cerpa González" is the exact double surname of Helia's father [Miguel Cerpa González](miguel-cerpa-gonzalez-i346.md) — Marcial is almost certainly Miguel's brother and Helia's uncle, making him another member of the family targeted by the regime. His higher pension suggests either a more senior position or longer qualifying service. Marcial's dismissal from an agricultural entity fits the broader pattern of the junta dismantling Allende's agrarian reform programme.
+
+Also on the list: **CERPA ORELLANA LUIS**, dismissed from the **Superintendencia de Aduanas** (Customs) on 31 December 1973 — this is the same person who appears in the [Valech I victim list](../sources/corpus/valech-i-nomina-victimas/source.yaml) (p. 57) as a survivor of political imprisonment and torture. The Cerpa surname has only ~3,000 bearers in Chile; the concentration of Cerpa entries on the exonerados list points to a family in which political engagement — and political persecution — ran across multiple branches.
+
 ## Pinochet protests — London, 1998–2000
 
 General Pinochet was arrested in London on 16 October 1998 on a warrant from Spanish judge Baltasar Garzón. He was held under house arrest in Britain for 503 days. The Chilean exile community mounted a sustained picket — **el piquete de Londres** — outside the building where he was detained, drawing Chilean exiles from across Europe. The piquete remobilised solidarity networks that had been dormant since the end of the dictatorship in 1990 and was a formative moment for the second generation. Helia participated in these protests (family knowledge; no online record located naming her individually among the demonstrators).
@@ -147,6 +163,19 @@ General Pinochet was arrested in London on 16 October 1998 on a warrant from Spa
 - [Camden Town DMC, 9 Mar 2022](https://democracy.camden.gov.uk/ieListDocuments.aspx?MId=9934) — apologies for absence, Ossulston TRA.
 - [Camden Town DMC, 1 Mar 2023](https://democracy.camden.gov.uk/ieListDocuments.aspx?MId=10389&Ver=4) — apologies for absence, Ossulston TRA (with Rienzi Trento).
 - [Joint Monitoring Group, 21 Apr 2011 (PDF)](https://camden.moderngov.co.uk/documents/s4029/2011-06-07-Report-Item-13%20Mins%202.pdf) — "Hely Evans (HE)" as Camden Town DMC representative.
+
+### Exonerada política (reparation pension)
+
+- [Scribd — "Consejo Trans Par en CIA CELPA1 Ver2"](https://www.scribd.com/document/41977617/Consejo-Trans-Par-en-CIA-CELPA1-Ver2) — transparency disclosure of all exonerado político reparation payments (July 2010), released under Chile's *Ley de Transparencia* (Law 20.285, 2008). "CERPA PEREZ HELIA DEL CARMEN" listed as beneficiary; employer "SERV.DE REGISTRO CIVIL E IDENTIF." (Servicio de Registro Civil e Identificación); exoneration date 16/04/1974; monthly payment 140,868 CLP (~US$270). Corpus: [2010-transparencia-exonerados-politicos-julio](../sources/corpus/2010-transparencia-exonerados-politicos-julio/source.yaml). Citation card: [exonerados-politicos-transparencia-2010.md](../sources/exonerados-politicos-transparencia-2010.md).
+- Same list contains "CERPA GONZALEZ MARCIAL" (SOCOAGRO, 30/11/1973, 279,792 CLP) — almost certainly Helia's paternal uncle; and "CERPA ORELLANA LUIS" (Superintendencia de Aduanas, 31/12/1973, 134,818 CLP) — also a Valech I victim.
+- Ley 19.234 (12 Aug 1993) — established reparation pensions for political exonerees. Amendments: Ley 19.582 (1998), Ley 20.134 (2006).
+
+### Servicio de Registro Civil e Identificación (institutional context)
+
+- [Wikipedia — Civil Registry and Identification Service of Chile](https://en.wikipedia.org/wiki/Civil_Registry_and_Identification_Service_of_Chile) — history, functions, and complete list of National Directors. Founded 17 July 1884 under President Domingo Santa María; absorbed the Identification and Passport Service in 1943. Under Allende: Heriberto Benquis Camhi (PS, 1971–11 Sep 1973), replaced 12 Sep 1973 by Desiderio Herrera González (Ind.). Currently ~3,100 staff, 476 offices and sub-offices including Parral.
+- [Wikipedia (es) — Servicio de Registro Civil e Identificación de Chile](https://es.wikipedia.org/wiki/Servicio_de_Registro_Civil_e_Identificaci%C3%B3n_de_Chile) — Spanish-language equivalent with additional legislative history.
+- [Senado — Cambios en la administración del Estado: Se crea el Registro Civil](https://www.senado.cl/ciudadania/leyes-con-historia-0/cambios-en-la-administracion-del-estado-se-crea-el-registro-civil) — Senate historical overview of the 1884 secular laws.
+- [InforedChile — Registro Civil, Parral](https://inforedchile.cl/publico/parral/registro-civil/servicio-de-registro-civil-e-identificacion-de-parral/9791) — confirms the Parral office at Balmaceda 720.
 
 ### Contextual sources (background, not naming Helia)
 
@@ -214,12 +243,12 @@ Full Valech victim files are held by Chile's INDH; the published PDFs contain na
 
 ## Open questions
 
-- Helia's specific role and department within the Allende administration (party affiliation, level of government, Parral-based or Santiago).
+- Helia's specific role within the Servicio de Registro Civil e Identificación — her grade, office location (Parral regional office or Santiago), and party affiliation. The exonerados list confirms the employer but not these details.
 - **Detention details:** How was she arrested? How long was she held at the Estadio Nacional? Was she held elsewhere before or after the stadium? The Corporación's list establishes she was there, but the circumstances of arrest and release are undocumented.
 - **Route to exile:** After release from the Estadio Nacional (or transfer from it), did she go directly to the Italian embassy on calle Miguel Claro 1359, Providencia? The safe-conduct window (late 1973 – mid-1974) suggests she was among the ~600 evacuated by De Masi. The **Archivo Nacional de Chile** holds the actual embassy refugee rosters (1973–1975) from the Italian embassy, in the **Comisión Chilena de Derechos Humanos, caja 271** — this is the document that could confirm her embassy route. She may also appear in De Masi's memoir *Santiago* (2013) or in Moretti's *Santiago, Italia* documentary (2018). Duration of stay in Rome before moving to London.
 - Whether she arrived in Britain under the JWG/WUS resettlement programme or independently.
 - **Why she is absent from both Valech commissions** despite documented detention. She may never have testified, or her testimony may not have been accepted. The pattern of non-testimony is well documented among women survivors of sexual violence at the stadium.
-- **Family confirmation** that Patricio Arnaldo and Luis Omar Pérez Escobar are Laurencia's brothers, and that Hugo Amado Cerpa González is Miguel's brother. The double-surname matches are near-conclusive but oral confirmation would close these.
+- **Family confirmation** that Patricio Arnaldo and Luis Omar Pérez Escobar are Laurencia's brothers, that Hugo Amado Cerpa González is Miguel's brother, and that **Marcial Cerpa González** (exonerado from SOCOAGRO, 30 Nov 1973) is also Miguel's brother. The double-surname matches are near-conclusive but oral confirmation would close these.
 - **INDH file request** for the Valech case files of Patricio Arnaldo Pérez Escobar, Luis Omar Pérez Escobar (RUN 6.495.935-2), and Hugo Amado Cerpa González (RUN 5.080.925-0) — these would contain their detention testimony and establish what happened to Helia's extended family under the dictatorship.
 - **Whether Helia's name appears on the copper memorial plaques** in the Camarín Norte at the Estadio Nacional. The plaques contain "some" of the 507 recovered names; confirmation would require a visit or a contact at the Corporación.
 - **Ban duration:** The list shrank from 4,360 (July 1985) → 3,878 (Sept 1985) → 3,717 (1986) → 623 (June 1987) → 512 (1 Sept 1988, final decree Nº 203). Was Helia removed in the mass reductions of 1987, or did she remain until the final 512? The intermediate lists and individual removal decrees may survive in the Museo de la Memoria archive or the Contraloría General (individual decrees like those digitised at archivommdh.cl).

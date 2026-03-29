@@ -86,10 +86,10 @@ The character page records medal dates: BWM + VM authorised 23/4/12 to 5/5/22; 1
 - Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md); [Alma Newcomb](alma-newcomb-i106.md).
 - Wife: [Rosina A Martin](rosina-a-martin-i104.md) (b. 1891, Orpington, Kent). Daughter of **Peter Martin**, chimney sweep from Woolwich — a trade family connection. Rosina's brother **Edward Martin** lived with the Coolbears in 1921.
 - Children:
-  - Archibald Coolbear Jr (I593, b. 1912, Rochford, Essex)
-  - [May Coolbear](may-coolbear-i100.md) (I100, b. Mar 1916, Southend) — married [Joseph Evans](joseph-evans-i99.md)
-  - Henry Charles Coolbear (I594, b. 1917, Southend)
-  - Irene Coolbear (I595, b. 1921, Southend)
+  - Archibald Coolbear Jr (I593, b. 8 Feb 1912, Rochford, Essex) — married Rosina Angus (b. 25 Mar 1909); by 1939 at 28 Crown Mansions, Lower Holloway
+  - [May Coolbear](may-coolbear-i100.md) (I100, b. 25 Jan 1916, Southend) — married [Joseph Evans](joseph-evans-i99.md)
+  - Henry Charles Coolbear (I594, b. 16 Oct 1918, Southend)
+  - Irene Barbara Coolbear (I595, b. 23 Jan 1921, Southend)
 
 ## Evidence
 

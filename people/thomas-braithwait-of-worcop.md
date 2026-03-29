@@ -1,12 +1,13 @@
 ---
-name: Thomas Braithwait, of Worcop
+name: Thomas Braithwait, of Warcop
 treeId: I197
 gedcom: "@I197@"
 born: ABT 1537
-birth_place: Hawkshead, Lancashire, England
+birth_place: Burneside, Westmorland, England
 died: 1610
 death_place: Burneside, Westmorland, England
 sex: male
+occupation: Barrister, Recorder of Kendal
 father: robert-braithwait
 mother: alice-williamson
 spouses:
@@ -15,20 +16,31 @@ children:
   - richard-braithwaite-2
 ---
 
-# Thomas Braithwait, of Worcop
+# Thomas Braithwait, of Warcop
 
-Thomas Braithwait, of Worcop, was the husband of [Dorothy Bindlose](dorothy-bindlose.md) and father of [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md). Another child on the same parental union appears in the working tree without a `people/` stub yet. He was born about 1537 at Hawkshead, died in 1610 at Burneside, and was buried on 6 May 1610 in Westmorland. His parents were [Robert Braithwait](robert-braithwait.md) and [Alice Williamson](alice-williamson.md).
+**Thomas Braithwait** was a **barrister** and **recorder of Kendal** who purchased the **manor of Warcop** near Appleby, Westmorland, and later inherited the family estate at **Burneside** (Burneshead), parish of Kendal. He married [Dorothy Bindlose](dorothy-bindlose.md), daughter of Robert Bindloss of Haulston, and was father of the poet [Richard Braithwaite](richard-braithwaite-2.md) and of **Sir Thomas Brathwaite** (the elder son, d. 1618).
+
+His son Richard's 1611 work *The Golden Fleece* refers to "family bickerings, caused by his father's will" — suggesting Thomas's estate was contested after his death. The book is dedicated to Richard's uncle Robert Bindlosse and to the elder brother Sir Thomas.
+
+## Life
+
+- **~1537** — Born (export estimate); family seated at **Ambleside** and **Burneside**, Westmorland.
+- Practised as a **barrister**; served as **recorder of Kendal**.
+- Purchased the **manor of Warcop** near Appleby (DNB: "Warcop"; export spelling "Worcop").
+- Inherited the estate at **Burneside** on the death of his father [Robert Braithwait](robert-braithwait.md).
+- **1610** — Died at **Burneside** (DNB: "Thomas Brathwaite died in 1610"; export: buried 6 May 1610, Westmorland).
 
 ## Family
 
-- Wife: [Dorothy Bindlose](dorothy-bindlose.md).
+- Wife: [Dorothy Bindlose](dorothy-bindlose.md), daughter of Robert Bindloss of Haulston, Westmorland.
 - Parents: [Robert Braithwait](robert-braithwait.md); [Alice Williamson](alice-williamson.md).
-- Children include [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md).
+- Children: **Sir Thomas Brathwaite** (elder son, d. 1618); [Richard Braithwaite, the poet](richard-braithwaite-2.md) (second surviving son).
 
 ## Evidence
 
-- **Export:** **treeId** **I197** — unions **F100**, **F101** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). Extra **F101** child row **I559** in JSON only until a page exists.
+- **DNB (1885–1900):** "Brathwaite, Richard" — identifies Thomas as a barrister, recorder of Kendal, purchaser of Warcop manor, who married Dorothy dau. of Robert Bindloss of Haulston; died 1610.
+- **Export:** **treeId** **I197** — unions **F100**, **F101** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
 
 ## Open questions
 
-- **Worcop** spelling vs **Warcop** (Cumberland/Westmorland border toponyms).
+- Export birthplace "Hawkshead, Lancashire" vs the family's Ambleside/Burneside seat — Hawkshead is nearby in the Lake District but in Lancashire (Furness). The DNB does not give Thomas's birthplace.

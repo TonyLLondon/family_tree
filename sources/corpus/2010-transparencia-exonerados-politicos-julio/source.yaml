@@ -1,0 +1,47 @@
+title: "Nómina de Exonerados Políticos — Montos Pagados Julio 2010"
+author: "Consejo para la Transparencia / Ministerio del Interior"
+date: "2010-07"
+language: "es"
+description: >
+  Transparency disclosure listing all beneficiaries of Chile's political
+  exoneree (exonerado político) reparation program as of July 2010, published
+  under Chile's Ley de Transparencia (Law 20.285, 2008). Lists beneficiary
+  name, former employer (Empresa Exoneración), date of exoneration (political
+  dismissal), and monthly pension amount paid in July 2010 (Chilean pesos).
+  Reparation pensions are paid under Ley 19.234 (1993) and amendments (Ley
+  19.582, 1998; Ley 20.134, 2006) to persons dismissed from public-sector or
+  state-enterprise employment for political reasons during the military
+  dictatorship (11 Sep 1973 – 10 Mar 1990). The programme had approximately
+  157,624 beneficiaries at the time of publication.
+
+remote:
+  webpage_url: "https://www.scribd.com/document/41977617/Consejo-Trans-Par-en-CIA-CELPA1-Ver2"
+
+files:
+  transcription: "transcription.md"
+
+people:
+  - name: "Helia del Carmen Cerpa Pérez"
+    entry: "CERPA PEREZ HELIA DEL CARMEN"
+    employer: "SERV.DE REGISTRO CIVIL E IDENTIF."
+    employer_full: "Servicio de Registro Civil e Identificación (Civil Registry and Identification Service)"
+    exoneration_date: "1974-04-16"
+    payment_july_2010: 140868
+    age_at_coup: 30
+    note: >
+      SRCEI founded 17 Jul 1884; under Allende headed by Heriberto Benquis Camhi
+      (PS, 1971–11 Sep 1973), replaced the day after the coup. Regional offices in
+      every commune including Parral (Helia's birthplace). Helia was 27 when Allende
+      took office, 30 at the coup.
+  - name: "Marcial Cerpa González"
+    entry: "CERPA GONZALEZ MARCIAL"
+    employer: "SOCOAGRO"
+    exoneration_date: "1973-11-30"
+    payment_july_2010: 279792
+    note: "Shares both surnames with Helia's father Miguel Cerpa González — almost certainly his brother."
+  - name: "Luis Cerpa Orellana"
+    entry: "CERPA ORELLANA LUIS"
+    employer: "SUPERINTENDENCIA DE ADUANAS"
+    exoneration_date: "1973-12-31"
+    payment_july_2010: 134818
+    note: "Also appears in Valech I victim list (p. 57) as a survivor of political imprisonment and torture."

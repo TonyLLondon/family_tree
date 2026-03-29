@@ -1,0 +1,14 @@
+id: donnelly-roches-lords-fermoy-1936
+remote:
+  webpage_url: https://corkhist.ie/wp-content/uploads/jfiles/1936/b1936-005.pdf
+fetches:
+- kind: web
+  at: '2026-03-29T16:30:27Z'
+  remote_url: https://corkhist.ie/wp-content/uploads/jfiles/1936/b1936-005.pdf
+  sha256: 2c731debffb871fcac97039124ec9c2eb7560d13b4580798f51965d4f92acc9d
+  bytes: 656197
+  http_last_modified: Thu, 03 Sep 2015 20:39:24 GMT
+  http_etag: '"55e8affc-5b3d2"'
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

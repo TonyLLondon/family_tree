@@ -5,7 +5,7 @@ also_known_as:
   - Johann George Knecht
 born: ABT 1829
 birth_place: Hesse-Nassau, Germany
-died: 1898
+died: 1898-09-28
 death_place: Paddington, London, England
 sex: male
 spouses:
@@ -22,13 +22,13 @@ The elder children — Francis Henry (born 1857, St Giles) and Elizabeth (born 1
 
 By **1881** the family had moved to **Paddington** (Mary Magdalene parish), where George was a **cabinet maker** — the first record to specify his birthplace as **Germany, Hesse Nassau**. The **1891 Census** finds George (65) and Eliza (51) alone at **19 Chichester Road, Paddington** — all children had left home. George was still working as a **cabinet maker**.
 
-George died in **Q3 1898** at **Paddington**, registered under his full German name **Johann George Knecht** (GRO: b. ~1825). He was about 69.
+George died on **28 September 1898** at **19 Chichester Road, Paddington**, "in his 73rd year" (*Paddington Times*, 30 September 1898). Registered under his full German name **Johann George Knecht** (GRO: b. ~1825). The *Paddington Times* published a 589-word obituary tribute noting his long service on the **Paddington Vestry** and his keen interest "in all matters of a parochial nature."
 
 His daughter [Dorothea](dorothea-knecht.md) married [William Evans](william-evans-i289.md) in 1878 and became the mother of [Alfred Evans](alfred-evans-i101.md).
 
 ## Family
 
-Wife: [Eliza Sarah Glasscock](eliza-knecht.md) (born ~1828, Bethnal Green; baptised 15 Jan 1832; parents James Glasscock and Sarah; m. Q3 1856, Islington). Children (from 1871 census): Francis Henry (~1857), Elizabeth (~1859), [Dorothea](dorothea-knecht.md) (~1861), George William (~1864), Hannah (~1866), Louisa Sarah (~1870).
+Wife: [Eliza Sarah Glasscock](eliza-knecht.md) (born ~1828, Bethnal Green; baptised 15 Jan 1832; parents James Glasscock and Sarah; m. Q3 1856, Islington). Children (from 1871 census + later records): Francis Henry (~1857), Elizabeth (~1859), [Dorothea](dorothea-knecht.md) (~1861), George William (~1864), Hannah (~1866; m. Q2 1882, Islington — GRO Vol 1B, p. 448; potential spouse William Edward Hutton or Peter Cambeusy), Louisa Sarah (~1870; m. Q3 1890, Islington — GRO Vol 1B, p. 722; potential spouse William Clark Cooper or Robert Heinsen Tasker), **Charles** (born after 1871; at 24 Cambridge Avenue, Kilburn, 1903–1908).
 
 ## Evidence
 
@@ -47,6 +47,18 @@ Wife: [Eliza Sarah Glasscock](eliza-knecht.md) (born ~1828, Bethnal Green; bapti
 | George Knacht marriage, Q4 1855, St Giles | `BMD/M/1855/4/KZ/000020/026` | Variant spelling; could be same person or different event |
 | 1851 Census — "J G K" at St Luke's Hospital | `GBC/1851/0004009592` | Ruled out: patient at St Luke's Lunatic Hospital, born London, clerk. Not George. |
 | 1861 Census — not located | — | George may appear under a mangled surname; no clear hit from FMP search |
+
+### British Newspaper Archive (FindMyPast, March 2026)
+
+- [Paddington Times, 30 Sep 1898 — death notice and obituary](../sources/corpus/1898-paddington-times-george-knecht-death-obituary/transcription.md) — "George Knecht, for several years a member of the Paddington Vestry, in his 73rd year." The 589-word obituary describes him as keenly interested "in all matters of a parochial nature."
+- [Kilburn Times, 20 Nov 1908 — "Old Resident Suffocated"](../sources/corpus/1908-paddington-times-eliza-knecht-gas-suffocation/transcription.md) ([scan](../media/docs/1908-kilburn-times-eliza-knecht-suffocation-inquest.png)) — Eliza's inquest. George described as "a retired cabinet maker (formerly a well-known vestryman and Conservative in the Borough)." The coroner, Dr. Thomas, added independently: "he knew the late Mr. Knecht very well, and he was on the Vestry for many years." Son **Charles Knecht** (24 Cambridge Avenue, Kilburn) gave evidence — a previously unknown child born after 1871.
+
+- [Paddington Times, 26 Jun 1875 — Ratepayers' Association letter](../sources/corpus/1875-paddington-times-knecht-ratepayers-association/transcription.md) ([scan](../media/docs/1875-paddington-times-knecht-ratepayers-association-letter.png)) — Earliest known press appearance. Thos. G. Spencer, Hon. Secretary, corrects the paper: Knecht was not put forward for No. 1 Ward election, but "had it been so a poll would have been demanded, and no doubt, he would have been successful." George was already **auditor for No. 2 Ward** and had written a letter on the "gas meter question" the previous week.
+- [Paddington Times, 11 May 1878 — Free Baths vote](../sources/corpus/1878-paddington-times-knecht-sweepers-baths/transcription.md) ([scan](../media/docs/1878-paddington-times-knecht-free-baths-vote.png)) — George stood for Commissioner of Baths and Washhouses (8 votes, insufficient). Same issue reported him defending waterproof capes for street sweepers.
+- [Paddington Times, 22 Oct 1897 — "Looking Ahead"](../sources/corpus/1897-paddington-times-knecht-subsidence-chichester/transcription.md) ([scan](../media/docs/1897-paddington-times-knecht-subsidence-chichester-mews.png)) — George writes to the vestry warning that sewer works at Chichester Mews might cause subsidence to his house; asks whether he should vacate. The Works Committee dismissed his concerns. Less than a year before his death.
+- [Paddington Times, 15 May 1903 — "A Builder's Claim"](../sources/corpus/1903-paddington-times-knecht-builders-claim/transcription.md) ([scan](../media/docs/1903-paddington-times-knecht-builders-claim-county-court.png)) — County court: builder sues **Charles Knecht** of 24 Cambridge Avenue, Kilburn, for £15 10s. Charles was leaseholder of premises in Brindley Street and had sold the property after £95 of dilapidation repairs. Independently confirms Charles at the same address five years before Eliza's inquest; shows him managing investment property, continuing George's pattern.
+
+George appears extensively in Paddington local press from 1873 to 1898: *Marylebone Mercury*, *Paddington Times*, *Bayswater Chronicle*. He was a member of the **Paddington Ratepayers' Association**, serving on the vestry, standing for the Board of Guardians, and participating in debates on highways, sanitation, and local government. His obituary noted he "earned by his uprightness and kind nature the respect of all parties, both friends and opponents." A German immigrant cabinet maker active in one of London's wealthiest parish vestries — a dimension not visible from census returns alone.
 
 ## Open questions
 

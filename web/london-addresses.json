@@ -12,8 +12,8 @@
       "id": "windsor-street-1851",
       "address": "12 Windsor Street",
       "area": "Islington",
-      "lat": 51.5310,
-      "lng": -0.1060,
+      "lat": 51.5375,
+      "lng": -0.0989,
       "familyId": "evans-parents",
       "entries": [
         {
@@ -32,8 +32,8 @@
       "id": "clarks-place-1861",
       "address": "1 Clarks Place, Anglers Gardens",
       "area": "Islington",
-      "lat": 51.5295,
-      "lng": -0.1045,
+      "lat": 51.5330,
+      "lng": -0.0950,
       "familyId": "evans-parents",
       "entries": [
         {
@@ -55,8 +55,8 @@
       "id": "paradise-place",
       "address": "6 Paradise Place",
       "area": "Islington",
-      "lat": 51.5285,
-      "lng": -0.1055,
+      "lat": 51.5360,
+      "lng": -0.1100,
       "familyId": "evans-parents",
       "entries": [
         {
@@ -93,8 +93,8 @@
       "id": "pembroke-street-knecht-1871",
       "address": "Pembroke Street (Upper)",
       "area": "Islington",
-      "lat": 51.5375,
-      "lng": -0.1165,
+      "lat": 51.5400,
+      "lng": -0.1200,
       "familyId": "knecht",
       "entries": [
         {
@@ -117,8 +117,8 @@
       "id": "swinton-street-1881",
       "address": "3 Swinton Street",
       "area": "St Pancras",
-      "lat": 51.5262,
-      "lng": -0.1148,
+      "lat": 51.5289,
+      "lng": -0.1184,
       "familyId": "evans-william",
       "entries": [
         {
@@ -136,8 +136,8 @@
       "id": "milton-place-1881",
       "address": "8 Milton Place",
       "area": "Islington",
-      "lat": 51.5340,
-      "lng": -0.1055,
+      "lat": 51.5512,
+      "lng": -0.1113,
       "familyId": "fensom",
       "entries": [
         {
@@ -177,11 +177,30 @@
       ]
     },
     {
+      "id": "chichester-road-1891",
+      "address": "19 Chichester Road",
+      "area": "Paddington",
+      "lat": 51.5213,
+      "lng": -0.1864,
+      "familyId": "knecht",
+      "entries": [
+        {
+          "year": 1891,
+          "source": "Census (RG12/2)",
+          "people": [
+            { "name": "George Knecht", "detail": "Head, 65, Cabinet Maker, born Germany", "slug": "george-knecht" },
+            { "name": "Eliza Knecht", "detail": "Wife, 51, born London", "slug": "eliza-knecht" }
+          ],
+          "note": "George died here 28 Sep 1898; Eliza died here by gas suffocation Nov 1908"
+        }
+      ]
+    },
+    {
       "id": "clerkenwell-1891",
       "address": "Clerkenwell",
       "area": "Finsbury",
-      "lat": 51.5235,
-      "lng": -0.1050,
+      "lat": 51.5237,
+      "lng": -0.1056,
       "familyId": "evans-william",
       "entries": [
         {
@@ -200,8 +219,8 @@
       "id": "eden-grove-fensom",
       "address": "11 Eden Grove",
       "area": "Lower Holloway",
-      "lat": 51.5470,
-      "lng": -0.1115,
+      "lat": 51.5512,
+      "lng": -0.1130,
       "familyId": "fensom",
       "entries": [
         {
@@ -222,8 +241,8 @@
       "id": "eden-grove-david-senior",
       "address": "13 Eden Grove",
       "area": "Islington",
-      "lat": 51.5472,
-      "lng": -0.1112,
+      "lat": 51.5510,
+      "lng": -0.1128,
       "familyId": "fensom",
       "entries": [
         {
@@ -240,8 +259,8 @@
       "id": "georges-road-1901",
       "address": "65 Georges Road",
       "area": "Islington",
-      "lat": 51.5435,
-      "lng": -0.1100,
+      "lat": 51.5504,
+      "lng": -0.1128,
       "familyId": "fensom",
       "entries": [
         {
@@ -258,11 +277,29 @@
       ]
     },
     {
+      "id": "freeling-street-1901",
+      "address": "14 Freeling Street",
+      "area": "Islington",
+      "lat": 51.5402,
+      "lng": -0.1204,
+      "familyId": "knecht",
+      "entries": [
+        {
+          "year": 1901,
+          "source": "Census (RG13/182)",
+          "people": [
+            { "name": "Eliza Knecht", "detail": "Head, 64, Widow, born Ireland", "slug": "eliza-knecht" }
+          ],
+          "note": "Widowed after George's death in 1898; boarders Arthur Douglas and William Frankling"
+        }
+      ]
+    },
+    {
       "id": "pembroke-street-1901",
       "address": "44 Pembroke Street",
       "area": "Islington",
-      "lat": 51.5380,
-      "lng": -0.1160,
+      "lat": 51.5401,
+      "lng": -0.1201,
       "familyId": "evans-william",
       "entries": [
         {
@@ -300,8 +337,8 @@
       "id": "north-road-1911",
       "address": "17 North Road, Cattle Market",
       "area": "Holloway",
-      "lat": 51.5475,
-      "lng": -0.1090,
+      "lat": 51.5485,
+      "lng": -0.1190,
       "familyId": "fensom",
       "entries": [
         {
@@ -319,8 +356,8 @@
       "id": "barnsbury-road-1911",
       "address": "124 Barnsbury Road",
       "area": "Islington",
-      "lat": 51.5395,
-      "lng": -0.1113,
+      "lat": 51.5440,
+      "lng": -0.1090,
       "familyId": "evans-william",
       "entries": [
         {
@@ -335,11 +372,43 @@
       ]
     },
     {
+      "id": "gibson-square-1921",
+      "address": "6 Gibson Square",
+      "area": "Islington",
+      "lat": 51.5381,
+      "lng": -0.1059,
+      "familyId": "evans-william",
+      "entries": [
+        {
+          "year": 1921,
+          "source": "Census (RG15/00998, schedule 134)",
+          "people": [
+            { "name": "William Evans", "detail": "Head, 64, Brass Trimmer (out of work)", "slug": "william-evans-i289" },
+            { "name": "Dorothea Evans", "detail": "Wife, 60, House Duties", "slug": "dorothea-knecht" },
+            { "name": "Herbert Evans", "detail": "Son, 32, Armature Winder Repairer (out of work)" },
+            { "name": "Ernest Evans", "detail": "Son, 28, Clock Repairer" },
+            { "name": "Lilian Evans", "detail": "Daughter, 23, Shorthand Typist" },
+            { "name": "Francis Evans", "detail": "Son, 21, Motor Repairs" }
+          ]
+        },
+        {
+          "year": 1921,
+          "source": "Census (RG15/00998, schedule 133)",
+          "people": [
+            { "name": "Dorothea Moffat", "detail": "Head, 39, Widowed, Home Duties (née Evans)" },
+            { "name": "Ronald Moffat", "detail": "Son" },
+            { "name": "Dorothy Moffat", "detail": "Daughter" }
+          ],
+          "note": "Eldest daughter of William & Dorothea Evans, returned to parents' house after husband Osmund Moffat's death"
+        }
+      ]
+    },
+    {
       "id": "bratton-street-1921",
       "address": "4 Bratton Street",
       "area": "Islington",
-      "lat": 51.5370,
-      "lng": -0.1135,
+      "lat": 51.5380,
+      "lng": -0.1120,
       "familyId": "evans-son",
       "entries": [
         {
@@ -357,11 +426,71 @@
       ]
     },
     {
+      "id": "oldershaw-road-1939",
+      "address": "37 Oldershaw Road",
+      "area": "Lower Holloway",
+      "lat": 51.5482,
+      "lng": -0.1147,
+      "familyId": "evans-son",
+      "entries": [
+        {
+          "year": 1939,
+          "source": "1939 Register (RG101/0291F/005, schedule 61)",
+          "people": [
+            { "name": "Alfred Evans", "detail": "Head, Costermonger", "slug": "alfred-evans-i101" },
+            { "name": "Annie Evans", "detail": "Wife, Printers Maker", "slug": "annie-fensom-i291" },
+            { "name": "Annie F Evans", "detail": "Daughter", "slug": "annie-evans-i577" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theberton-street-1939",
+      "address": "61 Theberton Street",
+      "area": "Islington",
+      "lat": 51.5374,
+      "lng": -0.1056,
+      "familyId": "evans-william",
+      "entries": [
+        {
+          "year": 1939,
+          "source": "1939 Register (RG101/0272B/006, schedule 78)",
+          "people": [
+            { "name": "Dorothea Evans", "detail": "Head, Widowed, Unpaid Domestic Duties", "slug": "dorothea-knecht" },
+            { "name": "Ernest Evans", "detail": "Son, Electrician" },
+            { "name": "Francis E Evans", "detail": "Son, Bus Conductor" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crown-mansions-1939",
+      "address": "28 Crown Mansions",
+      "area": "Lower Holloway",
+      "lat": 51.5473,
+      "lng": -0.1117,
+      "familyId": "coolbear",
+      "entries": [
+        {
+          "year": 1939,
+          "source": "1939 Register (RG101/0291J/007, schedule 82)",
+          "people": [
+            { "name": "Rosina Angus", "detail": "Head, b. 1909, Unpaid Domestic Duties (wife of Archibald Jr)" },
+            { "name": "Archibald Coolbear Jr", "detail": "Husband, b. 1912, General Labourer" },
+            { "name": "Henry Coolbear", "detail": "b. 1918, General Labourer" },
+            { "name": "May Coolbear", "detail": "b. 1916, Factory Hand Packer", "slug": "may-coolbear-i100" },
+            { "name": "Irene Barbara Coolbear", "detail": "b. 1921, Factory Hand Machinery" }
+          ],
+          "note": "All four Coolbear children together; mother Rosina Martin absent"
+        }
+      ]
+    },
+    {
       "id": "queensland-road-1926",
       "address": "20 Queensland Road",
       "area": "Holloway",
-      "lat": 51.5540,
-      "lng": -0.1130,
+      "lat": 51.5533,
+      "lng": -0.1081,
       "familyId": "coolbear",
       "entries": [
         {

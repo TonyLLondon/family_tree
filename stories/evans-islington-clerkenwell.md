@@ -52,7 +52,7 @@ Annie's siblings included several more Fensoms scattered through the Islington r
 
 In **Q4 1878**, aged about twenty-one, he married **[Dorothea Knecht](../people/dorothea-knecht.md)** at **Pancras**. Dorothea was seventeen — a girl who had been making artificial flowers since the age of ten. Her father, **[George Knecht](../people/george-knecht.md)**, was a German immigrant, a gas worker born about 1829; her mother, **[Eliza Sarah Glasscock](../people/eliza-knecht.md)**, was Irish-born with an English surname. George and Eliza had married in **1856** at Islington and settled on **Pembroke Street**, where the family appears in the 1871 census with six children. Alfred's maternal heritage was thus a mixture of German, Irish, and London working-class English — an immigrant blend typical of Islington's tenement streets.
 
-William and Dorothea had at least ten children and stayed on Pembroke Street — the 1901 census places them at **44 Pembroke Street**, the very street where Dorothea had grown up. By 1911 they had moved to **124 Barnsbury Road**, still in Islington, still in the same parish. William was still a brass trimmer in the 1921 census, aged sixty-four. He died between 1921 and 1939; by the time the National Register was taken, Dorothea was a widow living with her sons Ernest (electrician) and Francis (bus conductor).
+William and Dorothea had at least ten children and stayed on Pembroke Street — the 1901 census places them at **44 Pembroke Street**, the very street where Dorothea had grown up. By 1911 they had moved to **124 Barnsbury Road**, still in Islington, still in the same parish. By the **1921 Census** the household had moved again to **6 Gibson Square** — a handsome Georgian square off Upper Street — where William (64, brass trimmer, though out of work from Din Cross & Co in Acton) and Dorothea (60) were living with four adult children: Herbert (32, armature winder repairer, also out of work from the London & North Western Railway), Ernest (28, clock repairer on Regent Street), Lilian (23, shorthand typist at Marton Bros & Co, Highbury Place), and Francis (21, motor repairs at Prestow Moore Ltd, Notting Hill). He died between 1921 and 1939; by the time the National Register was taken, Dorothea was a widow at **61 Theberton Street**, living with her sons Ernest (electrician) and Francis (bus conductor). Their eldest daughter Dorothea, who had married Osmund Allan Moffat in 1907 and been widowed by 1921, was also at 6 Gibson Square in the 1921 census — running her own household with two children (Ronald and Dorothy) on the same schedule page as her parents.
 
 ---
 
@@ -64,7 +64,7 @@ On **Christmas Day 1912**, still only nineteen, he married [Annie Fensom](../peo
 
 The **1921 Census** (19 June) caught the household at **4 Bratton Street, Islington**: Alfred, head, twenty-eight, his occupation recorded as **costermonger** on his own account; Annie, twenty-eight, a **brush maker** at the **Star Brush Company** on Eden Grove, Holloway; and three children — Alfred Charles (8), Joseph David (6), and Annie (4). Alfred was already on the barrows at twenty-eight, less than a decade after his 1912 occupation of barman. Annie's employer was a short walk from the Fensom family's Lower Holloway streets — a working mother in the light-industrial belt that ran from Holloway Road down to the Angel.
 
-By the time the **1939 Register** was taken — on 29 September 1939, three weeks into the Second World War — Alfred and Annie were living together in Islington. The register (TNA reference RG101/0291F/005, schedule 61) recorded Alfred's occupation as **Costermonger** and Annie's as **Printers Maker** — she had moved from brushes to the printing trade somewhere in the intervening eighteen years.
+By the time the **1939 Register** was taken — on 29 September 1939, three weeks into the Second World War — Alfred and Annie were at **37 Oldershaw Road, Lower Holloway** — back in the Fensom family's home territory, just north of the Holloway Road. The register (TNA reference RG101/0291F/005, schedule 61) recorded Alfred's occupation as **Costermonger** and Annie's as **Printers Maker** — she had moved from brushes to the printing trade somewhere in the intervening eighteen years. Their daughter Annie F was also in the household.
 
 ### The costermonger's world
 
@@ -146,8 +146,8 @@ The evidence for this continuity is built from census returns spanning 1871 to 1
 | [1911-census-evans-household-barnsbury-road-islington-rg14-878.jpg](../media/docs/1911-census-evans-household-barnsbury-road-islington-rg14-878.jpg) | 1911 Census — Evans household, 124 Barnsbury Road (RG14/878) |
 | [alfred-evans-marriage-st-davids-islington-1912.jpg](../media/docs/alfred-evans-marriage-st-davids-islington-1912.jpg) | Marriage register pp. 6–7, St David's, Islington — entry 13, 25 Dec 1912 |
 | [1921-census-evans-household-bratton-street-islington.jpg](../media/docs/1921-census-evans-household-bratton-street-islington.jpg) | 1921 Census — Alfred Evans household, 4 Bratton Street, Islington (RG 15/00915) |
-| [1921-census-evans-william-sr-household-islington-rg15-998.jpg](../media/docs/1921-census-evans-william-sr-household-islington-rg15-998.jpg) | 1921 Census — William & Dorothea Evans household (RG15/00998) |
-| [1939-register-dorothea-evans-islington.jpg](../media/docs/1939-register-dorothea-evans-islington.jpg) | 1939 Register — Dorothea Evans (widowed), Islington (R39/0272) |
+| [1921-census-evans-william-sr-household-islington-rg15-998.jpg](../media/docs/1921-census-evans-william-sr-household-islington-rg15-998.jpg) | 1921 Census — William & Dorothea Evans household, 6 Gibson Square, Islington (RG15/00998, schedule 134) |
+| [1939-register-dorothea-evans-islington.jpg](../media/docs/1939-register-dorothea-evans-islington.jpg) | 1939 Register — Dorothea Evans (widowed), 61 Theberton Street, Islington (RG101/0272B/006) |
 
 ### Census and register citations
 
@@ -156,7 +156,7 @@ The evidence for this continuity is built from census returns spanning 1871 to 1
 | 1881 Census | RG11/358/71/10, schedule 675 | Edward Spencer household, Clerkenwell |
 | 1851 Census | HO107/1516/627/18/79 | Eliza Thomas, Saint John Clerkenwell |
 | [1921 Census](../sources/1921-census-evans-islington.md) | RG 15/00915, schedule 243 | Alfred Evans (Costermonger), Annie Evans (Brush Maker), Alfred Charles, Joseph David, Annie — 4 Bratton Street, Islington. [Transcription](../sources/corpus/1921-census-evans-bratton-street-islington/transcription.md) |
-| 1939 Register | RG101/0291F/005/1–2, schedule 61 | Alfred Evans (Costermonger) & Annie Fensom (Printers Maker), Islington |
+| 1939 Register | RG101/0291F/005, schedule 61 | Alfred Evans (Costermonger) & Annie Evans (Printers Maker), 37 Oldershaw Road, Lower Holloway |
 | Death index | Vol 5C, p. 872 | Alfred Edward William Evans, ~Nov 1954, Islington |
 | Death index | Vol 5C, p. 1822 | Annie Fensom, ~Feb 1972, Islington |
 | Birth index | Vol 1B, p. 1099 | Joseph Evans, ~Sep 1914, Holborn |

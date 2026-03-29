@@ -6,6 +6,12 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 ## Persia / Iran / Anglo-Persian trunk
 
+- [British Press, 27 September 1810 — Mission to Persia: Mr. Cormick, Surgeon](corpus/1810-british-press-mission-to-persia-cormick/) — `1810-british-press-mission-to-persia-cormick`
+- [Perthshire Advertiser, 18 January 1838 — British community in Persia subscription list including Edward Burgess](corpus/1838-perthshire-advertiser-persia-subscriptions-burgess/) — `1838-perthshire-advertiser-persia-subscriptions-burgess`
+- [Morning Post, 13 November 1848 — The New Shah of Persia: British subjects at Tabriz favoured](corpus/1848-morning-post-new-shah-persia-cormick-tabriz/) — `1848-morning-post-new-shah-persia-cormick-tabriz`
+- [London Evening Standard, 17 December 1853 — Persia: Mr. Burgess and the Persian gazette](corpus/1853-london-evening-standard-persia-burgess-gazette/) — `1853-london-evening-standard-persia-burgess-gazette`
+- [Morpeth Herald, 21 March 1857 — Russia and the Trade with Persia: the Burgess trade route via Trebizond](corpus/1857-morpeth-herald-russia-trade-persia-burgess/) — `1857-morpeth-herald-russia-trade-persia-burgess`
+- [Globe, 13 October 1875 — The Shah of Persia's Physician: Queen grants licence to William Cormick](corpus/1875-globe-william-cormick-shah-physician/) — `1875-globe-william-cormick-shah-physician`
 - [Adrian OSullivan - Espionage and Counterintelligence in Occupied Persia Iran 2015 Palgrave sample](corpus/adrian-osullivan-espionage-and-counterintelligen-3234f4d10b/) — `adrian-osullivan-espionage-and-counterintelligen-3234f4d10b`
 - [La résidence de France en Iran](corpus/ambassade-france-iran-residence/) — `ambassade-france-iran-residence`
 - [Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press](corpus/arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf/) — `arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf`
@@ -33,6 +39,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Freemasonry and fraternalism in the Middle East](corpus/levantine-freemasonry/) — `levantine-freemasonry`
 - [Lior Sternfeld - Reclaiming Their Past Jewish History in Iran Pahlavi early revolution - UT Austin dissertation 2014](corpus/lior-sternfeld-reclaiming-their-past-jewish-hist-bc02d32469/) — `lior-sternfeld-reclaiming-their-past-jewish-hist-bc02d32469`
 - [london-gazette-1870-03-15-white-1st-foot](corpus/london-gazette-1870-03-15-white-1st-foot/) — `london-gazette-1870-03-15-white-1st-foot`
+- [London Gazette, 1 January 1938 — Gerald Sebastian White OBE, 1938 New Year Honours](corpus/london-gazette-1938-01-01-white-obe/) — `london-gazette-1938-01-01-white-obe`
 - [Alice Navasargian 2012 - Armenia highlands, Garden of Eden, ancient history (part 3 of 3)](corpus/navasargian-2012-armenia-highlands-garden-eden-part3/) — `navasargian-2012-armenia-highlands-garden-eden-part3`
 - [Alice Navasargian 2012 - Indo-European language family tree and Armenia illustrated (part 1 of 3)](corpus/navasargian-2012-armenia-indo-european-part1/) — `navasargian-2012-armenia-indo-european-part1`
 - [Alice Navasargian 2012 - Armenians in Iran biographies, Djulfa merchants (part 2 of 3)](corpus/navasargian-2012-armenians-iran-djulfa-part2/) — `navasargian-2012-armenians-iran-djulfa-part2`
@@ -62,6 +69,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 ## Zara / Dalmatia / DAZD
 
 - [Simeon(e) Addobbati — Kriegsarchiv / ÖStA typescript excerpts, Zara 1926 letter, grave (PNG)](corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/) — `addobbati-simeone-oesta-kriegsarchiv-excerpts`
+- [Antonio Zerauschek obituary — ZARA (A.N.D.A.Z.), Apr–May 1973](corpus/andaz-zara-1973-antonio-zerauschek-obituary/) — `andaz-zara-1973-antonio-zerauschek-obituary`
 - [ARHiNET — Općina Nin (fond HR-DAZD-12), Državni arhiv u Zadru](corpus/arhinet-hr-dazd-12-opcina-nin/) — `arhinet-hr-dazd-12-opcina-nin`
 - [Celić — Zadarsko plemstvo i građanstvo početkom francuske uprave u Dalmaciji (Radovi HAZU Zadar, 2014)](corpus/celic-zadarsko-plemstvo-francuska-uprava/) — `celic-zadarsko-plemstvo-francuska-uprava`
 - [Dalbello — Gli albori consolari italiani (mentions I.R. postal assistant, Venetian civic families in Dalmatia)](corpus/dalbello-consular-italiani-spalato/) — `dalbello-consular-italiani-spalato`
@@ -91,12 +99,47 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 ## Ireland / Lewis charts / Obolensky
 
+- [Dublin Journal — John Roche of Limerick, Oil Mills near Sixmilebridge, Clare](corpus/1758-dublin-journal-john-roche-oil-mills-clare/) — `1758-dublin-journal-john-roche-oil-mills-clare`
+- [Saunders's News-Letter — Marriage of Miss Roche to Francis French](corpus/1789-saunders-sarah-roche-french-marriage/) — `1789-saunders-sarah-roche-french-marriage`
+- [Dublin Evening Post — Catholic Petition, Stephen and Philip Roche John](corpus/1792-dublin-evening-post-catholic-petition-roche/) — `1792-dublin-evening-post-catholic-petition-roche`
+- [Citizens' Meeting, Limerick — Stephen, Thomas, and William Roche](corpus/1802-sun-london-limerick-citizens-meeting/) — `1802-sun-london-limerick-citizens-meeting`
+- [Death of Stephen Roche, Esq., the oldest merchant in Limerick](corpus/1804-aberdeen-press-stephen-roche-death/) — `1804-aberdeen-press-stephen-roche-death`
+- [Mr. Thomas Roche — House in Patrick Street, Limerick](corpus/1806-limerick-gazette-thomas-roche-patrick-street/) — `1806-limerick-gazette-thomas-roche-patrick-street`
+- [The Day (London) — Toast to Philip Roche and Stephen Roche at Limerick fête](corpus/1809-the-day-toast-philip-stephen-roche/) — `1809-the-day-toast-philip-stephen-roche`
+- [Death of George Roche, Esq., Granagh Castle, Kilkenny](corpus/1846-leinster-express-george-roche-death/) — `1846-leinster-express-george-roche-death`
+- [Death of Helen, wife of Thomas Roche, George's Street, Limerick](corpus/1849-southern-reporter-helen-roche-death/) — `1849-southern-reporter-helen-roche-death`
+- [Southern Reporter — Death of William Roche, Esq., J.P., late M.P. for Limerick](corpus/1850-southern-reporter-william-roche-death/) — `1850-southern-reporter-william-roche-death`
+- [Birth — William Roche, Esq, Solicitor, of a son](corpus/1850-tipperary-free-press-roche-birth/) — `1850-tipperary-free-press-roche-birth`
+- [Obituary of James Roche — Viscount Fermoy and Brian Boru descent](corpus/1853-atlas-james-roche-obituary-fermoy-descent/) — `1853-atlas-james-roche-obituary-fermoy-descent`
+- [Dublin Evening Packet — Death of James Roche, brother of Thomas Roche](corpus/1853-dublin-evening-packet-james-roche-death/) — `1853-dublin-evening-packet-james-roche-death`
+- [Monmouthshire Merlin — James Roche, 'the Roscoe of Cork'](corpus/1853-monmouthshire-merlin-james-roche-obituary/) — `1853-monmouthshire-merlin-james-roche-obituary`
+- [Death of Thomas Roche, Esq., elder brother of William Roche, M.P.](corpus/1855-leinster-express-thomas-roche-death/) — `1855-leinster-express-thomas-roche-death`
+- [Roche of Moyvanine and Clounties as Viscount Fermoy claimant](corpus/1855-limerick-examiner-roche-fermoy-claimant/) — `1855-limerick-examiner-roche-fermoy-claimant`
+- [Death of Thomas Roche, Esq., George's Street, Limerick](corpus/1855-munster-news-thomas-roche-death/) — `1855-munster-news-thomas-roche-death`
+- [Marriage — D'Alton and Roche](corpus/1877-wexford-independent-lizzie-roche-dalton-marriage/) — `1877-wexford-independent-lizzie-roche-dalton-marriage`
+- [O'Farrell and Roche — Marriage](corpus/1883-limerick-reporter-maria-roche-ofarrell-marriage/) — `1883-limerick-reporter-maria-roche-ofarrell-marriage`
+- [Barry — Roche Marriage](corpus/1884-cork-examiner-claire-roche-brereton-barry-marriage/) — `1884-cork-examiner-claire-roche-brereton-barry-marriage`
+- [Roche-Kelly and Roche — Marriage](corpus/1884-waterford-citizen-lucie-roche-roche-kelly-marriage/) — `1884-waterford-citizen-lucie-roche-roche-kelly-marriage`
+- [Medical Appointment](corpus/1890-limerick-reporter-antony-roche-professorship/) — `1890-limerick-reporter-antony-roche-professorship`
+- [Roche family at the 1641 Catholic Parliament — Castletown, Gleecure, Cahirdowgan](corpus/1890-wexford-people-roche-kilkenny-parliament/) — `1890-wexford-people-roche-kilkenny-parliament`
+- [Death of Mr. William Roche, Ex-Crown Solicitor](corpus/1894-limerick-chronicle-william-roche-obituary/) — `1894-limerick-chronicle-william-roche-obituary`
+- [Death of Mr. W. Roche, Solicitor](corpus/1894-obituary-william-m-roche-three-kingdoms/) — `1894-obituary-william-m-roche-three-kingdoms`
+- [Death of Mr William Roche, Solicitor](corpus/1894-obituary-william-roche-commenced-1828/) — `1894-obituary-william-roche-commenced-1828`
+- [1901 Census of Ireland — Catherine Enright / O'Shea household, Monkstown, Cork](corpus/1901-census-enright-oshea-household-monkstown-cork/) — `1901-census-enright-oshea-household-monkstown-cork`
+- [1901 Census of Ireland — William Xavier White household, 2 Harpurs Lane, Maryborough](corpus/1901-census-william-xavier-white-household-maryborough/) — `1901-census-william-xavier-white-household-maryborough`
+- [1911 Census of Ireland — Celsus White household, 27 Denny Street, Tralee](corpus/1911-census-celsus-white-household-denny-street-tralee/) — `1911-census-celsus-white-household-denny-street-tralee`
+- [1911 Census of Ireland — Cornelius O'Shea, lodger, 4 James Street, Cork City](corpus/1911-census-cornelius-oshea-lodger-james-street-cork/) — `1911-census-cornelius-oshea-lodger-james-street-cork`
 - [Catherine Enright 1911](corpus/catherine-enright-1911-30da5b22af/) — `catherine-enright-1911-30da5b22af`
 - [Genealogical report: Catherine Mary Roche (1841–1937) parentage](corpus/catherine-mary-roche-parentage-genealogical-report/) — `catherine-mary-roche-parentage-genealogical-report`
 - [census for whites in 1911 in ireland](corpus/census-for-whites-in-1911-in-ireland-20007ea92c/) — `census-for-whites-in-1911-in-ireland-20007ea92c`
+- [donnelly-roches-lords-fermoy-1936](corpus/donnelly-roches-lords-fermoy-1936/) — `donnelly-roches-lords-fermoy-1936`
 - [Edward Spencer England, Select Marriages, 1538–1973 - AncestryLibrary.com](corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/) — `edward-spencer-england-select-marriages-15381973-05808ceb11`
 - [Ireland Census 1901](corpus/ireland-census-1901-34e603dc32/) — `ireland-census-1901-34e603dc32`
+- [irishpapermoney-thomas-roche-limerick-bank](corpus/irishpapermoney-thomas-roche-limerick-bank/) — `irishpapermoney-thomas-roche-limerick-bank`
+- [lewis-topographical-castletown-roche-1837](corpus/lewis-topographical-castletown-roche-1837/) — `lewis-topographical-castletown-roche-1837`
 - [Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater](corpus/limerick-chronicle-250th-anniversary-docklands-1-150c89458e/) — `limerick-chronicle-250th-anniversary-docklands-1-150c89458e`
+- [limerick-chronicle-roche-merchant-family](corpus/limerick-chronicle-roche-merchant-family/) — `limerick-chronicle-roche-merchant-family`
+- [limerickslife-william-roche-mp](corpus/limerickslife-william-roche-mp/) — `limerickslife-william-roche-mp`
 - [Louisa Spencer England, Select Births and Christenings, 1538-1975 - AncestryLibrary.com](corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/) — `louisa-spencer-england-select-births-and-christe-c5d42f5463`
 - [MyHeritage - Archer and Sloan family history chart - 2020-09-18 003916](corpus/myheritage-archer-and-sloan-family-history-chart-2b1a31b45f/) — `myheritage-archer-and-sloan-family-history-chart-2b1a31b45f`
 - [MyHeritage - Archer and Sloan family history chart - 2020-09-18 004615](corpus/myheritage-archer-and-sloan-family-history-chart-7809dafc3f/) — `myheritage-archer-and-sloan-family-history-chart-7809dafc3f`
@@ -107,6 +150,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Roche of Limerick – Forgotten Victorians](corpus/roche-of-limerick-forgotten-victorians-da2674483d/) — `roche-of-limerick-forgotten-victorians-da2674483d`
 - [Vera Obolensky death notice NYTimes](corpus/vera-obolensky-death-notice-nytimes-2644e85dac/) — `vera-obolensky-death-notice-nytimes-2644e85dac`
 - [Vera Obolensky with Yuri (Georges) aged 8, 1928](corpus/vera-obolensky-yuri-1928-photo/) — `vera-obolensky-yuri-1928-photo`
+- [wikipedia-david-roche-7th-viscount-fermoy](corpus/wikipedia-david-roche-7th-viscount-fermoy/) — `wikipedia-david-roche-7th-viscount-fermoy`
 
 ## Stump / Erbe / Baltic–Swiss
 
@@ -138,6 +182,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 ## Missions / Bahá'í / Iranian modernity (books)
 
+- [Civil & Military Gazette (Lahore), 14 May 1907 — Gerald Sebastian White, Madras Volunteer Guards commission](corpus/1907-civil-military-gazette-gerald-white-volunteer-guards/) — `1907-civil-military-gazette-gerald-white-volunteer-guards`
 - [Baha'i Talks, Messages and Articles  An Italian scientist extols the Báb  – one of the very first documentations made by a European of the episode of the Báb – by Ugo R. Giachery](corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/) — `baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb`
 - [Christian Mission to Muslims](corpus/christian-mission-to-muslims-fc5eb90f00/) — `christian-mission-to-muslims-fc5eb90f00`
 - [History of the Mission by Rufus Anderson](corpus/history-of-the-mission-by-rufus-anderson-5264293694/) — `history-of-the-mission-by-rufus-anderson-5264293694`
@@ -152,6 +197,14 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 ## Military / India / colonial courts
 
+- [Wexford Independent, 13 March 1869 — Marriage of Wm. O'Byrne White at Bombay](corpus/1869-wexford-independent-obyrne-white-marriage-bombay/) — `1869-wexford-independent-obyrne-white-marriage-bombay`
+- [Allen's Indian Mail, 10 October 1874 — Death of 'Tommie', child of W. O'Byrne White, Jubbulpore](corpus/1874-allens-indian-mail-obyrne-white-child-death-jubbulpore/) — `1874-allens-indian-mail-obyrne-white-child-death-jubbulpore`
+- [Homeward Mail, 11 March 1878 — Birth of son to Surg.-Major W. O'Byrne White at Jubbulpore (Gerald)](corpus/1878-homeward-mail-obyrne-white-gerald-birth-jubbulpore/) — `1878-homeward-mail-obyrne-white-gerald-birth-jubbulpore`
+- [Madras Weekly Mail, 29 March 1906 — A New Solicitor: Gerald S. White admitted to the High Court](corpus/1906-madras-weekly-mail-gerald-white-new-solicitor/) — `1906-madras-weekly-mail-gerald-white-new-solicitor`
+- [Irish Independent, 4 April 1931 — Obituary of Dr. W. O'Byrne White, Tralee](corpus/1931-irish-independent-obyrne-white-obituary/) — `1931-irish-independent-obyrne-white-obituary`
+- [Irish Independent, 6 August 1932 — Probate of Col. Wm. O'Byrne White, £6,042](corpus/1932-irish-independent-obyrne-white-probate/) — `1932-irish-independent-obyrne-white-probate`
+- [U.S. Silver Star Awarded to Aberdare Major — Aberdare Leader, 2 March 1946](corpus/1946-aberdare-leader-david-lewis-silver-star/) — `1946-aberdare-leader-david-lewis-silver-star`
+- [Home from North Africa](corpus/1951-aberdare-leader-major-david-lewis-home-from-africa/) — `1951-aberdare-leader-major-david-lewis-home-from-africa`
 - [fibis-jubbulpore](corpus/fibis-jubbulpore/) — `fibis-jubbulpore`
 - [Great Britain Naval Intelligence - Handbook of Mesopotamia vol. 1](corpus/great-britain-naval-intelligence-handbook-mesopotamia-vol1/) — `great-britain-naval-intelligence-handbook-mesopotamia-vol1`
 - [Major David Lewis Silver Star](corpus/major-david-lewis-silver-star-3cb536e3d7/) — `major-david-lewis-silver-star-3cb536e3d7`
@@ -164,26 +217,149 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 ## Other
 
+- [Quaker Birth Register: Ann Brathwaite, Swarthmoor, 1663](corpus/1663-quaker-birth-ann-brathwaite-swarthmoor/) — `1663-quaker-birth-ann-brathwaite-swarthmoor`
+- [Quaker Marriage Register: George Brathwaite & Agnes Benson, Swarthmoor, 1666](corpus/1666-quaker-marriage-brathwaite-benson-swarthmoor/) — `1666-quaker-marriage-brathwaite-benson-swarthmoor`
+- [Quaker Birth Register: Brathwaite children (Edward, Agnes, Dorothy), Swarthmoor, 1667–1671](corpus/1667-quaker-births-brathwaite-children-swarthmoor/) — `1667-quaker-births-brathwaite-children-swarthmoor`
+- [Quaker Burial Register: George Brathwaite (1681), Edward (1684), William (1689), and Benson burials, Swarthmoor](corpus/1681-quaker-burials-brathwaite-swarthmoor/) — `1681-quaker-burials-brathwaite-swarthmoor`
+- [Quaker Burial Register: Agnes Brathwaite (wife of George), Swarthmoor, 1694](corpus/1694-quaker-burial-agnes-brathwaite-swarthmoor/) — `1694-quaker-burial-agnes-brathwaite-swarthmoor`
+- [Marriage of William Lewis and Mary David, 10 September 1780, Briton Ferry](corpus/1780-marriage-william-lewis-mary-david-briton-ferry/) — `1780-marriage-william-lewis-mary-david-briton-ferry`
+- [Baptism of William Stephen, 9 May 1790, Llandybie](corpus/1790-baptism-william-stephen-llandybie/) — `1790-baptism-william-stephen-llandybie`
+- [Baptism of David Lewis, 7 January 1794, Briton Ferry](corpus/1794-baptism-david-lewis-briton-ferry/) — `1794-baptism-david-lewis-briton-ferry`
+- [Banns/Marriage of Henry Prichard and Gwenllian Harries, 27 November 1807, Neath St Thomas](corpus/1807-marriage-henry-prichard-gwenllian-harries-neath/) — `1807-marriage-henry-prichard-gwenllian-harries-neath`
+- [Baptism of Mary Prichard, 4 July 1808, Neath St Thomas](corpus/1808-baptism-mary-prichard-neath/) — `1808-baptism-mary-prichard-neath`
+- [Marriage of David Lewis and Ann Davies, 23 May 1812, Briton Ferry](corpus/1812-marriage-david-lewis-ann-davies-briton-ferry/) — `1812-marriage-david-lewis-ann-davies-briton-ferry`
+- [Baptism of Lewis Lewis, Briton Ferry, 14 March 1813](corpus/1813-baptism-lewis-lewis-briton-ferry/) — `1813-baptism-lewis-lewis-briton-ferry`
+- [Marriage of Thomas Morgan and Charlotte Davies, 5 July 1823, Aberystruth](corpus/1823-marriage-thomas-morgan-charlotte-davies-aberystruth/) — `1823-marriage-thomas-morgan-charlotte-davies-aberystruth`
+- [Parish Baptism — Keziah Morgan, 4 Jul 1824, Aberystruth](corpus/1824-baptism-keziah-morgan-aberystruth/) — `1824-baptism-keziah-morgan-aberystruth`
+- [Baptism of Rachel Stephen, Llanarthne, 9 October 1825](corpus/1825-baptism-rachel-stephen-llanarthne/) — `1825-baptism-rachel-stephen-llanarthne`
+- [Baptism — Ann Mainwaring, 16 July 1826, St Mary's, Swansea](corpus/1826-baptism-ann-mainwaring-swansea/) — `1826-baptism-ann-mainwaring-swansea`
+- [Marriage of Lewis Lewis and Mary Ann Prichard, Briton Ferry, 28 June 1834](corpus/1834-marriage-lewis-lewis-prichard-briton-ferry/) — `1834-marriage-lewis-lewis-prichard-briton-ferry`
+- [1841 Census — George Coolbear, apprentice carpenter with Stebbings, Hamlet of Bicknacre, Danbury, Essex](corpus/1841-census-coolbear-apprentice-bicknacre-danbury/) — `1841-census-coolbear-apprentice-bicknacre-danbury`
+- [1841 Census — Cushen (Cushan) household, Trevethin, Pontypool](corpus/1841-census-cushen-household-trevethin-pontypool/) — `1841-census-cushen-household-trevethin-pontypool`
+- [1841 Census — Ann Gridley, servant in Chapman household, Hamlet of Bicknacre, Danbury, Essex](corpus/1841-census-gridley-servant-bicknacre-danbury/) — `1841-census-gridley-servant-bicknacre-danbury`
+- [1841 Census — Lewis Lewis household, Giant's Grave, Briton Ferry](corpus/1841-census-lewis-lewis-household-briton-ferry/) — `1841-census-lewis-lewis-household-briton-ferry`
+- [1841 Census — Pope household, Cranbrook, Kent](corpus/1841-census-pope-household-cranbrook/) — `1841-census-pope-household-cranbrook`
+- [Burial of Mary Lewis, Aberavon, 10 July 1849](corpus/1849-burial-mary-lewis-aberavon/) — `1849-burial-mary-lewis-aberavon`
+- [1851 Census — Alfred Evans household, Windsor Street, Islington](corpus/1851-census-alfred-evans-household-islington/) — `1851-census-alfred-evans-household-islington`
+- [1851 Census — Coolbear household, Butt Lane, St Peter, Maldon, Essex](corpus/1851-census-coolbear-household-maldon/) — `1851-census-coolbear-household-maldon`
+- [1851 Census — James Glasscock household, 11 Satchwell Rents, Bethnal Green](corpus/1851-census-james-glasscock-satchwell-rents-bethnal-green/) — `1851-census-james-glasscock-satchwell-rents-bethnal-green`
+- [1851 Census — Lewis Lewis household, Port Talbot, Aberavon](corpus/1851-census-lewis-lewis-household-aberavon/) — `1851-census-lewis-lewis-household-aberavon`
+- [1851 Census — Newcomb household, Tolleshunt Knights, Essex](corpus/1851-census-newcomb-household-tolleshunt-knights/) — `1851-census-newcomb-household-tolleshunt-knights`
+- [1851 Census — Patrick Cushion household, Trevethin, Pontypool](corpus/1851-census-patrick-cushion-household-trevethin/) — `1851-census-patrick-cushion-household-trevethin`
+- [1851 Census — Pope household, Cranbrook, Kent](corpus/1851-census-pope-household-cranbrook/) — `1851-census-pope-household-cranbrook`
+- [1851 Census — Thomas Cushin household, Caeharris, Merthyr Tydfil](corpus/1851-census-thomas-cushin-household-dowlais/) — `1851-census-thomas-cushin-household-dowlais`
+- [GRO Death Index — Ellen Cushan, Q4 1855, Merthyr Tydfil](corpus/1855-death-ellen-cushan-merthyr/) — `1855-death-ellen-cushan-merthyr`
+- [1861 Census — Alfred Evans household, 1 Clarks Place, Anglers Gardens, Islington](corpus/1861-census-alfred-evans-household-islington/) — `1861-census-alfred-evans-household-islington`
+- [1861 Census — Peter & Catherine Martin, sheds near Orpington, Kent](corpus/1861-census-martin-orpington/) — `1861-census-martin-orpington`
+- [1861 Census — Alma Newcomb, granddaughter in Cousins household, Tiptree Heath, Great Wigborough, Essex](corpus/1861-census-newcomb-grandchild-tiptree-heath/) — `1861-census-newcomb-grandchild-tiptree-heath`
+- [1861 Census — Patrick Cuskin household, Merthyr Tydfil](corpus/1861-census-patrick-cuskin-household-merthyr/) — `1861-census-patrick-cuskin-household-merthyr`
+- [1861 Census — Pope household, Cranbrook, Kent](corpus/1861-census-pope-household-cranbrook/) — `1861-census-pope-household-cranbrook`
+- [1861 Census — Thomas Cashin household, Dowlais, Merthyr Tydfil](corpus/1861-census-thomas-cashin-household-dowlais/) — `1861-census-thomas-cashin-household-dowlais`
+- [Crown Solicitors for Munster Circuit](corpus/1861-cork-examiner-crown-solicitors-munster/) — `1861-cork-examiner-crown-solicitors-munster`
+- [1871 Census of England & Wales — Aberavon (Lewis Lewis household, schedule 460)](corpus/1871-census-aberavon-lewis-lewis-household-rg10-5424/) — `1871-census-aberavon-lewis-lewis-household-rg10-5424`
+- [1871 Census — Alfred Evans household, Paradise Place, Islington](corpus/1871-census-alfred-evans-household-islington/) — `1871-census-alfred-evans-household-islington`
+- [1871 Census — George G Coolbear, lodger, Wantz Road, St Peter, Maldon](corpus/1871-census-coolbear-lodger-maldon/) — `1871-census-coolbear-lodger-maldon`
+- [1871 Census — Keziah Morgan household, Dowlais Ward, Merthyr Tydfil](corpus/1871-census-keziah-morgan-household-dowlais/) — `1871-census-keziah-morgan-household-dowlais`
+- [1871 Census — Martin household, Frog Lane, Orpington, Kent](corpus/1871-census-martin-household-orpington/) — `1871-census-martin-household-orpington`
+- [1871 Census — Alma Newcomb, servant at Park Farm, Tolleshunt Knights, Essex](corpus/1871-census-newcomb-servant-tolleshunt-knights/) — `1871-census-newcomb-servant-tolleshunt-knights`
+- [1871 Census — Pat Cushion, boarder in Pat Welsh household, Dowlais](corpus/1871-census-pat-cushion-boarder-dowlais/) — `1871-census-pat-cushion-boarder-dowlais`
+- [1871 Census — Pope household, Mill Street, Cranbrook, Kent](corpus/1871-census-pope-household-mill-street-cranbrook/) — `1871-census-pope-household-mill-street-cranbrook`
+- [1871 Census — Thomas Cushing household, Dowlais Ward, Merthyr Tydfil](corpus/1871-census-thomas-cushing-household-dowlais/) — `1871-census-thomas-cushing-household-dowlais`
+- [Burial of Lewis Lewis, Aberavon, 18 December 1872](corpus/1872-burial-lewis-lewis-aberavon/) — `1872-burial-lewis-lewis-aberavon`
+- [Paddington Ratepayers' Protection Association — Paddington Times, 26 June 1875](corpus/1875-paddington-times-knecht-ratepayers-association/) — `1875-paddington-times-knecht-ratepayers-association`
+- [GRO Marriage Index — David Cushin & Mary Morgan, Q1 1876, Merthyr Tydfil](corpus/1876-marriage-david-cushin-mary-morgan/) — `1876-marriage-david-cushin-mary-morgan`
+- [A Contradiction — Letter from George Coolbear](corpus/1877-essex-newsman-coolbear-contradiction-letter/) — `1877-essex-newsman-coolbear-contradiction-letter`
+- [Gallant Rescue from Drowning — George Coolbear](corpus/1877-essex-newsman-coolbear-drowning-rescue/) — `1877-essex-newsman-coolbear-drowning-rescue`
+- [Free Baths / The Sweepers — Paddington Times, 11 May 1878](corpus/1878-paddington-times-knecht-sweepers-baths/) — `1878-paddington-times-knecht-sweepers-baths`
+- [1881 Census — Alfred Evans household, 6 Paradise Place, Islington](corpus/1881-census-alfred-evans-household-islington/) — `1881-census-alfred-evans-household-islington`
+- [1881 Census — Coolbear household, Bambridge Road, All Saints, Maldon, Essex](corpus/1881-census-coolbear-household-maldon/) — `1881-census-coolbear-household-maldon`
+- [1881 Census — David Cushin household, 31 Pond Street, Caeharris](corpus/1881-census-david-cushin-pond-street-caeharris/) — `1881-census-david-cushin-pond-street-caeharris`
+- [1881 Census — Evans household, 3 Swinton Street, St Pancras](corpus/1881-census-evans-household-swinton-street-st-pancras/) — `1881-census-evans-household-swinton-street-st-pancras`
+- [1881 Census — Fensom household, 8 Milton Place, Islington](corpus/1881-census-fensom-household-milton-place-islington/) — `1881-census-fensom-household-milton-place-islington`
+- [1881 Census — Knecht household, Paddington](corpus/1881-census-knecht-household-paddington/) — `1881-census-knecht-household-paddington`
+- [1881 Census — Martin household, Alpine Cottage, Frog Lane, Orpington, Kent](corpus/1881-census-martin-household-orpington/) — `1881-census-martin-household-orpington`
+- [1881 Census — Patrick Cushen, 24 George Street (Royal Oak Inn), Penydarren, Merthyr Tydfil](corpus/1881-census-patrick-cushen-royal-oak-penydarren/) — `1881-census-patrick-cushen-royal-oak-penydarren`
+- [1881 Census — Thomas Cushin (Sr) in son's household, Merthyr Tydfil](corpus/1881-census-thomas-cushin-household-merthyr/) — `1881-census-thomas-cushin-household-merthyr`
+- [1881 Census — Thomas Cushin household, 8 Pond Street, Caeharris](corpus/1881-census-thomas-cushin-pond-street-caeharris/) — `1881-census-thomas-cushin-pond-street-caeharris`
+- [Fire at Bell Inn, Silver-street — George Coolbear discovers blaze](corpus/1883-chelmsford-chronicle-coolbear-fire-bell-inn/) — `1883-chelmsford-chronicle-coolbear-fire-bell-inn`
+- [Larceny — Thomas Cushen, tramping labourer](corpus/1884-merthyr-express-thomas-cushen-larceny/) — `1884-merthyr-express-thomas-cushen-larceny`
+- [GRO Death Index — Thomas Cushen, Q3 1889, Merthyr Tydfil](corpus/1889-death-thomas-cushen-merthyr/) — `1889-death-thomas-cushen-merthyr`
+- [1891 Census of England & Wales — Glan Road, Aberdare (David Lewis household, schedule 41)](corpus/1891-census-aberdare-david-lewis-household-rg12-4444/) — `1891-census-aberdare-david-lewis-household-rg12-4444`
+- [1891 Census — Coolbear household, St Peter, Maldon, Essex](corpus/1891-census-coolbear-household-maldon/) — `1891-census-coolbear-household-maldon`
+- [1891 Census — David Cushen household, Dowlais, Merthyr Tydfil](corpus/1891-census-david-cushen-household-dowlais/) — `1891-census-david-cushen-household-dowlais`
+- [1891 Census — Evans household, Clerkenwell](corpus/1891-census-evans-household-clerkenwell/) — `1891-census-evans-household-clerkenwell`
+- [1891 Census — Fensom household, 11 Eden Grove, Islington](corpus/1891-census-fensom-household-eden-grove-islington/) — `1891-census-fensom-household-eden-grove-islington`
+- [1891 Census — Martin household, Orpington, Kent](corpus/1891-census-martin-household-orpington/) — `1891-census-martin-household-orpington`
+- [Maldon County Court — Coolbear greens dispute](corpus/1891-chelmsford-chronicle-coolbear-maldon-county-court/) — `1891-chelmsford-chronicle-coolbear-maldon-county-court`
+- [Looking Ahead — Paddington Times, 22 October 1897](corpus/1897-paddington-times-knecht-subsidence-chichester/) — `1897-paddington-times-knecht-subsidence-chichester`
+- [Paddington Times, 30 September 1898 — Death and obituary of George Knecht, Paddington vestryman](corpus/1898-paddington-times-george-knecht-death-obituary/) — `1898-paddington-times-george-knecht-death-obituary`
+- [1901 Census of England & Wales — Glen Road, Aberdare (David John Lewis household, schedule 242)](corpus/1901-census-aberdare-david-john-lewis-household-rg13-5035/) — `1901-census-aberdare-david-john-lewis-household-rg13-5035`
+- [1901 Census — David Cushion [Cushen] household, 15 Pond Street, Dowlais](corpus/1901-census-david-cushion-household-pond-street-dowlais/) — `1901-census-david-cushion-household-pond-street-dowlais`
+- [1901 Census — Fensom household, 65 Georges Road, Islington](corpus/1901-census-fensom-household-georges-road-islington/) — `1901-census-fensom-household-georges-road-islington`
+- [1901 Census — Georgina Fensom, institution, Islington](corpus/1901-census-georgina-fensom-institution-islington/) — `1901-census-georgina-fensom-institution-islington`
+- [1901 Census — South/Coolbear household, Little Totham, Essex](corpus/1901-census-south-coolbear-household-little-totham/) — `1901-census-south-coolbear-household-little-totham`
+- [A Builder's Claim — Paddington Times, 15 May 1903](corpus/1903-paddington-times-knecht-builders-claim/) — `1903-paddington-times-knecht-builders-claim`
+- [A Couple of Deserters — Thomas Cushen and John Keefe](corpus/1906-merthyr-express-thomas-cushen-deserter/) — `1906-merthyr-express-thomas-cushen-deserter`
+- [GRO Death Index — David Cushen, Q3 1907, Merthyr Tydfil](corpus/1907-death-david-cushen-merthyr-tydfil/) — `1907-death-david-cushen-merthyr-tydfil`
+- [Paddington Times / Kilburn Times / Daily Telegraph, November 1908 — Inquest on Eliza Knecht, gas suffocation at 19 Chichester Road](corpus/1908-paddington-times-eliza-knecht-gas-suffocation/) — `1908-paddington-times-eliza-knecht-gas-suffocation`
+- [1911 Census — Annie Fensom, boarder at 17 North Road, Holloway](corpus/1911-census-annie-fensom-boarder-north-road-holloway/) — `1911-census-annie-fensom-boarder-north-road-holloway`
+- [1911 Census — Fensom household, 9 Hope Street, Lower Holloway](corpus/1911-census-fensom-household-hope-street-holloway/) — `1911-census-fensom-household-hope-street-holloway`
+- [1911 Census — Mary Cushen (widow), 25 Pond Street, Dowlais](corpus/1911-census-mary-cushen-widow-pond-street-dowlais/) — `1911-census-mary-cushen-widow-pond-street-dowlais`
+- [Chelmsford Chronicle, 10 May 1912 — Archibald Percy Coolbear, chimney sweep, charged at Southend](corpus/1912-chelmsford-chronicle-coolbear-sweep-at-meters/) — `1912-chelmsford-chronicle-coolbear-sweep-at-meters`
+- [Fatal accident at Dowlais Works — Cushen](corpus/1912-merthyr-express-cushen-dowlais-fatal-accident/) — `1912-merthyr-express-cushen-dowlais-fatal-accident`
+- [Lincolnshire Free Press, 5 January 1915 — Archibald Percy Coolbear (Long Sutton), Essex Regiment enlistment](corpus/1915-lincolnshire-free-press-coolbear-enlistment/) — `1915-lincolnshire-free-press-coolbear-enlistment`
+- [Killed at the Front — Private D. W. Cushen, South Wales Borderers](corpus/1915-merthyr-express-dw-cushen-killed-in-action/) — `1915-merthyr-express-dw-cushen-killed-in-action`
+- [County Court Judge Dead — R. W. Brereton Barry](corpus/1920-irish-independent-brereton-barry-obituary/) — `1920-irish-independent-brereton-barry-obituary`
+- [1921 Census of England & Wales — 41 Glan Road, Aberdare (David John Lewis household, schedule 43)](corpus/1921-census-aberdare-david-john-lewis-household-rg15-26875/) — `1921-census-aberdare-david-john-lewis-household-rg15-26875`
+- [1921 Census — Coolbear household, Southend-on-Sea, Essex](corpus/1921-census-coolbear-household-southend/) — `1921-census-coolbear-household-southend`
+- [1921 Census of England & Wales — Evans household, 4 Bratton Street, Islington (schedule 243)](corpus/1921-census-evans-bratton-street-islington/) — `1921-census-evans-bratton-street-islington`
+- [Holloway Press, 18 September 1926 — Archibald Percy Coolbear, Queensland Road, Holloway, stolen railings](corpus/1926-holloway-press-coolbear-stolen-railings/) — `1926-holloway-press-coolbear-stolen-railings`
+- [Carmel (C.M.) — Mr. Samuel Lewis resigns financial secretary](corpus/1940-aberdare-leader-carmel-samuel-lewis-resigns/) — `1940-aberdare-leader-carmel-samuel-lewis-resigns`
+- [Caedraw School's New Head / Other Posts — Merthyr Express, 21 February 1948](corpus/1948-merthyr-express-david-lewis-quakers-yard/) — `1948-merthyr-express-david-lewis-quakers-yard`
+- [Y.P. Societies Open New Session — Carmel (Trecynon) tea](corpus/1949-aberdare-leader-carmel-trecynon-yps-tea/) — `1949-aberdare-leader-carmel-trecynon-yps-tea`
+- [Hartlepool Northern Daily Mail, 28 August 1973 — Keeping Britain Tidy, quoting David Lewis](corpus/1973-hartlepool-mail-keeping-britain-tidy/) — `1973-hartlepool-mail-keeping-britain-tidy`
+- [Floral Britain — Arbroath Competing for 'Britain In Bloom' Trophies](corpus/1974-arbroath-herald-floral-britain-fulvia-lewis-trophy/) — `1974-arbroath-herald-floral-britain-fulvia-lewis-trophy`
+- [1974 — St. Andrews Citizen — Britain in Bloom, Fulvia Lewis trophy announced](corpus/1974-st-andrews-citizen-fulvia-lewis-trophy/) — `1974-st-andrews-citizen-fulvia-lewis-trophy`
+- [Blooming](corpus/1977-buxton-advertiser-blooming-fulvia-lewis-trophy/) — `1977-buxton-advertiser-blooming-fulvia-lewis-trophy`
+- [1977 — Buxton Advertiser — 'Blooming', Fulvia Lewis trophy](corpus/1977-buxton-advertiser-fulvia-lewis-britain-in-bloom/) — `1977-buxton-advertiser-fulvia-lewis-britain-in-bloom`
+- [1983 — Lurgan Mail — Keep Britain Tidy Fulvia Lewis Trophy](corpus/1983-lurgan-mail-fulvia-lewis-trophy/) — `1983-lurgan-mail-fulvia-lewis-trophy`
+- [St. Andrews Citizen, 15 July 1983 — Blooming Britain: Mr David Lewis, Director General, KBT](corpus/1983-st-andrews-citizen-blooming-britain-david-lewis/) — `1983-st-andrews-citizen-blooming-britain-david-lewis`
+- [Cartilla del Retornado Nº 3 — Nómina de Personas con Prohibición de Ingreso](corpus/1985-cartilla-retornado-3-prohibicion-ingreso/) — `1985-cartilla-retornado-3-prohibicion-ingreso`
+- [Dundee Courier, 12 April 1985 — David J Lewis, Director General KBT, visits Dundee](corpus/1985-dundee-courier-david-lewis-kbt-tayside/) — `1985-dundee-courier-david-lewis-kbt-tayside`
+- [1987 — Bury Free Press — Bury St Edmunds wins Fulvia Lewis Trophy](corpus/1987-bury-free-press-fulvia-lewis-trophy/) — `1987-bury-free-press-fulvia-lewis-trophy`
+- [Nómina de Exonerados Políticos — Montos Pagados Julio 2010](corpus/2010-transparencia-exonerados-politicos-julio/) — `2010-transparencia-exonerados-politicos-julio`
 - [2020-10-01 Sartip David Sakinian](corpus/2020-10-01-sartip-david-sakinian-172b364799/) — `2020-10-01-sartip-david-sakinian-172b364799`
 - [2020-10-01 Sartip David Sakinian 2](corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/) — `2020-10-01-sartip-david-sakinian-2-c6ecff59d2`
+- [Baptism of David Lewis, Aberavon, 11 August 1857](corpus/aberavon-baptism-david-lewis-1857/) — `aberavon-baptism-david-lewis-1857`
+- [Las mujeres víctimas de la dictadura prisioneras en el Estadio Nacional: Conózca en exclusiva los nombres de 405 detenidas en el principal coliseo deportivo en 1973](corpus/cambio21-405-mujeres-estadio-nacional-2018/) — `cambio21-405-mujeres-estadio-nacional-2018`
+- [Estad(i)o Nacional de Chile: más de 400 mujeres detenidas](corpus/cctt-mujeres-estadio-nacional-2018/) — `cctt-mujeres-estadio-nacional-2018`
 - [fa-wikipedia-vaqaye-ettefaqiye](corpus/fa-wikipedia-vaqaye-ettefaqiye/) — `fa-wikipedia-vaqaye-ettefaqiye`
 - [gbopera-2009-telefoni-e-rose-sirmione-callas](corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/) — `gbopera-2009-telefoni-e-rose-sirmione-callas`
 - [Ordine della Milizia Aurata o dello Speron d'Oro — Wikipedia compilation (2009)](corpus/golden-spur-order-wikipedia-2009/) — `golden-spur-order-wikipedia-2009`
+- [The History of the Town and County of the Town of Galway, p. 207 — O'Brien of Arran](corpus/hardiman-history-galway-1820/) — `hardiman-history-galway-1820`
 - [Hungaricana — Kriegs-Marine / Schematismus 1909, pp. 169–172 (Landwehr brigade excerpt)](corpus/hungaricana-kriegsmarine-schematismus-1909-pp169-172/) — `hungaricana-kriegsmarine-schematismus-1909-pp169-172`
 - [Hungaricana — Militär-Almanach/Schematismus 1887, pp. 471–472 (officer list excerpt)](corpus/hungaricana-militar-almanach-1887-pp471-472/) — `hungaricana-militar-almanach-1887-pp471-472`
+- [irishpapermoney-crisis-of-1820](corpus/irishpapermoney-crisis-of-1820/) — `irishpapermoney-crisis-of-1820`
 - [kbt-david-j-lewis-env-conservation-1978](corpus/kbt-david-j-lewis-env-conservation-1978/) — `kbt-david-j-lewis-env-conservation-1978`
 - [kbt-findthatcharity-company-record](corpus/kbt-findthatcharity-company-record/) — `kbt-findthatcharity-company-record`
 - [kbt-founder-lady-brunner-oxford-mail](corpus/kbt-founder-lady-brunner-oxford-mail/) — `kbt-founder-lady-brunner-oxford-mail`
 - [keep-britain-tidy-history](corpus/keep-britain-tidy-history/) — `keep-britain-tidy-history`
 - [keep-britain-tidy-wikipedia](corpus/keep-britain-tidy-wikipedia/) — `keep-britain-tidy-wikipedia`
 - [Joško Kovačić: Rod Machiedo sa Hvara (Prilozi povijesti otoka Hvara XII/1, 2014, 225–248)](corpus/kovacic-2014-rod-machiedo-hvar/) — `kovacic-2014-rod-machiedo-hvar`
+- [L'Adige — Lewis lace collection sold to Provincia di Trento (Dec 2006, two articles)](corpus/ladige-2006-lewis-lace-collection-trento/) — `ladige-2006-lewis-lace-collection-trento`
 - [loc-authority-keep-britain-tidy-group](corpus/loc-authority-keep-britain-tidy-group/) — `loc-authority-keep-britain-tidy-group`
 - [luxardo-history](corpus/luxardo-history/) — `luxardo-history`
+- [La prohibición de vivir en la patria: El exilio chileno 1973–1990](corpus/malaespina-exilio-chileno-1973-1990/) — `malaespina-exilio-chileno-1973-1990`
+- [Report on the Situation of Human Rights in Chile — Chapter VI(a): Right of Residence and Movement](corpus/oas-iachr-chile-1985-residence-movement/) — `oas-iachr-chile-1985-residence-movement`
 - [ÖStA/KA — Personenforschung im Kriegsarchiv (Merkblatt 1868–1918)](corpus/oesta-ka-personenforschung-merkblatt-1868-1918/) — `oesta-ka-personenforschung-merkblatt-1868-1918`
 - [ÖStA — Genealogie im Kriegsarchiv (Dec 2014 leaflet)](corpus/oesta-kriegsarchiv-genealogie-2014/) — `oesta-kriegsarchiv-genealogie-2014`
 - [ÖStA — k.k./k.u.k. Generale 1816–1918 (PDF)](corpus/oesta-kuk-generale-1816-1918/) — `oesta-kuk-generale-1816-1918`
 - [Obituary notices for Samuel Lewis (d. 7 Aug 1967)](corpus/samuel-lewis-obituary-notices-1967/) — `samuel-lewis-obituary-notices-1967`
+- [Register of Marriages — St David's Church, Islington, 1912 (pages 6–7, entry 13)](corpus/st-davids-islington-marriage-evans-fensom-1912/) — `st-davids-islington-marriage-evans-fensom-1912`
 - [Nómina de Personas Reconocidas como Víctimas — Comisión Nacional sobre Prisión Política y Tortura (Valech I)](corpus/valech-i-nomina-victimas/) — `valech-i-nomina-victimas`
+- [vallancey-collectanea-vol1-obrien-arran](corpus/vallancey-collectanea-vol1-obrien-arran/) — `vallancey-collectanea-vol1-obrien-arran`
 - [Per Maria Callas questa villa è una catapecchia](corpus/villa-callas-catapecchia-magazine-c1959/) — `villa-callas-catapecchia-magazine-c1959`
+- [wikipedia-murrough-mac-toirdelbach-clan-tiege-aran](corpus/wikipedia-murrough-mac-toirdelbach-clan-tiege-aran/) — `wikipedia-murrough-mac-toirdelbach-clan-tiege-aran`
+- [wikipedia-viscount-fermoy](corpus/wikipedia-viscount-fermoy/) — `wikipedia-viscount-fermoy`
 - [Calypso — cigarette packet collector database (zigsam.at)](corpus/zigsam-at-calypso-cigarette-packs/) — `zigsam-at-calypso-cigarette-packs`
 

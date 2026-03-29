@@ -24,8 +24,8 @@ Filters:
 
 Token refresh:
     Copy a fresh fmp_access_token cookie value from browser DevTools →
-    Application → Cookies and replace FMP_ACCESS_TOKEN below (or export
-    the env var). Tokens last ~30 min.
+    Application → Cookies and replace FMP_ACCESS_TOKEN below.
+    Tokens last ~30 min.
 """
 from __future__ import annotations
 
@@ -75,27 +75,7 @@ FMP_ID_TOKEN = (
 )
 
 FMP_ACCESS_TOKEN = (
-    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9"
-    ".eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9tZW1iZXJfaWQiOjQxMTI4NDgxOCwiaHR0cHM6"
-    "Ly93d3cuZmluZG15cGFzdC5jb20vY29ubmVjdGlvbiI6ImFjY291bnQiLCJodHRwczovL3d3dy5maW5k"
-    "bXlwYXN0LmNvbS9nbG9iYWxfbWVtYmVyX2lkIjoiRk1QfDQxMTI4NDgxOCIsImh0dHBzOi8vd3d3Lm"
-    "ZpbmRteXBhc3QuY29tL2V4cGVyaW1lbnRhdGlvbl90cmFja2luZ19rZXkiOiIyNzU5MTQwZS1mNTU0LT"
-    "RkM2UtOThiYS0xNjU0NmFiMjZlMmQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9wdWJsaWNf"
-    "aWQiOiJlYjQ1NDAzZS1hY2ExLTRjOGEtOWExZS00MjQ3ODg5MmE1Y2YiLCJodHRwczovL3d3dy5maW5k"
-    "bXlwYXN0LmNvbS9zdWJfcGxhbl9pZCI6IjExNjciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9z"
-    "dWJfcGxhbl9ncm91cCI6IkV2ZXJ5dGhpbmciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJf"
-    "cGxhbl9tb250aHMiOjEsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdGF0ZSI6IkFDVElW"
-    "RSIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl90eXBlIjoiRlJFRV9UUklBTCIsImh0dHBz"
-    "Oi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdG9yZSI6IlJFQ1VSTFkiLCJpc3MiOiJodHRwczovL2F1"
-    "dGguZmluZG15cGFzdC5jb20vIiwic3ViIjoiYXV0aDB8YWNjb3VudHw0MTEyODQ4MTgiLCJhdWQiOlsi"
-    "aHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vYXBpIiwiaHR0cHM6Ly9mbXAtcHJvZHVjdGlvbi5ldS5h"
-    "dXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNzc0NzgwNzYyLCJleHAiOjE3NzQ3ODI1NjIsInNjb3Bl"
-    "Ijoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhenAiOiJ0WVk2TmZxckQ2WkhI"
-    "Um1uUlNZazFLcFlJMDV2R25ScCJ9.Y-Bl13LmFh37dt8NC8o5gvgTC215DuZ18f72TPZaY63q3x0wR"
-    "EvjxFMEb0jepywkphLrBDL-PvpTw2nPDz7lIz7h2UDMea3vL2noAuPZzkoFy2zltk2wLqft4b6e_Fmi"
-    "83_ZGjMYByWRJGutZOb41xsY0pqB5Vj5PQGLdhOY4rDfOPT7ZqCP4Biz3I9vPOJ5Flpy3sv9l5iQgME"
-    "e4dxDZjITPlgw4bAIGq7lE72M9oWbOtig2n777IY8BOBkPubTN-8Tdcf_GPuCZHeWGf9sQ22wgwxV5MT"
-    "pWLC4cTw4L4uLqoNh_9s04WPGuz1LYcz4f3V__6ZLObdwDBQ2ppK8ww"
+    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9.eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9tZW1iZXJfaWQiOjQxMTI4NDgxOCwiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vY29ubmVjdGlvbiI6ImFjY291bnQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9nbG9iYWxfbWVtYmVyX2lkIjoiRk1QfDQxMTI4NDgxOCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL2V4cGVyaW1lbnRhdGlvbl90cmFja2luZ19rZXkiOiIyNzU5MTQwZS1mNTU0LTRkM2UtOThiYS0xNjU0NmFiMjZlMmQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9wdWJsaWNfaWQiOiJlYjQ1NDAzZS1hY2ExLTRjOGEtOWExZS00MjQ3ODg5MmE1Y2YiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9pZCI6IjExNjciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9ncm91cCI6IkV2ZXJ5dGhpbmciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9tb250aHMiOjEsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdGF0ZSI6IkFDVElWRSIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl90eXBlIjoiRlJFRV9UUklBTCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdG9yZSI6IlJFQ1VSTFkiLCJpc3MiOiJodHRwczovL2F1dGguZmluZG15cGFzdC5jb20vIiwic3ViIjoiYXV0aDB8YWNjb3VudHw0MTEyODQ4MTgiLCJhdWQiOlsiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vYXBpIiwiaHR0cHM6Ly9mbXAtcHJvZHVjdGlvbi5ldS5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNzc0ODAxNTcxLCJleHAiOjE3NzQ4MDMzNzEsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhenAiOiJ0WVk2TmZxckQ2WkhIUm1uUlNZazFLcFlJMDV2R25ScCJ9.WAcuKSwNI6SD9GgKZvFgJ_DVsg9Z_iSwXzVK_6zErwMJG1Af2QFTkMI-usnl4W2GC8UkNcCL-9TspxWqSQFRnQ5YIUQNHGEEItNmgehwJ8y2kE-iHE1YXTgqeN6dJSo9pQI-0FVDVOT69IbW3TlCwUW6i2IYVgd2H0lEQMpRNUa62g44DrHY3CaFYgKF9ET33uJx-SLHH2yDbndoohdEcLh97pLDo970Vb4WmVIBvm3cHpjg9Nkc-hsn2cOLqPyuvJapu7D6s-r6erUnYOlMI8EUAjOXKNgWgmMWs-F6wKFi9LpjMh_Nel9JljKerPTadteCZUxtmktJECE73DAQ0A"
 )
 
 _BROWSER_UA = (
@@ -200,7 +180,10 @@ def _rate_limit() -> None:
 
 
 def _token() -> str:
-    return os.environ.get("FMP_ACCESS_TOKEN") or FMP_ACCESS_TOKEN
+    tok = FMP_ACCESS_TOKEN
+    if ";" in tok:
+        tok = tok.split(";")[0].strip()
+    return tok
 
 
 def _graphql_post(payload: dict) -> dict:
@@ -244,9 +227,9 @@ def _search_get(path: str, params: dict) -> list | dict:
     """GET from search.findmypast.co.uk REST API."""
     _rate_limit()
     url = f"{path}?{urlencode(params)}"
-    member_id = os.environ.get("FMP_MEMBER_ID") or FMP_MEMBER_ID
-    id_token = os.environ.get("FMP_ID_TOKEN") or FMP_ID_TOKEN
-    refresh_token = os.environ.get("FMP_REFRESH_TOKEN") or FMP_REFRESH_TOKEN
+    member_id = FMP_MEMBER_ID
+    id_token = FMP_ID_TOKEN
+    refresh_token = FMP_REFRESH_TOKEN
     cookie = (
         f"fmp_access_token={_token()}; "
         f"fmp_id_token={id_token}; "
@@ -315,6 +298,7 @@ def _build_filters(
     place: str | None,
     place_radius: int,
     variants: bool,
+    keywords: str | None = None,
 ) -> list[dict]:
     filters: list[dict] = []
     if collection:
@@ -332,6 +316,8 @@ def _build_filters(
         filters.append({"variants": variants, "values": [last], "field": "LastName"})
     if place:
         filters.append({"values": [place], "proximity": place_radius, "field": "KeywordsPlace"})
+    if keywords:
+        filters.append({"values": [keywords], "field": "Keywords"})
     return filters
 
 
@@ -381,6 +367,7 @@ def run_search(args: argparse.Namespace) -> None:
         place=getattr(args, "place", None),
         place_radius=getattr(args, "place_radius", 5),
         variants=getattr(args, "variants", False),
+        keywords=getattr(args, "keywords", None),
     )
 
     place_filter = getattr(args, "place", None)
@@ -394,7 +381,15 @@ def run_search(args: argparse.Namespace) -> None:
             "variables": {"filters": filters, "order": None, "pageNumber": page},
         }
         data = _graphql_post(payload)
+        if "errors" in data:
+            msgs = "; ".join(e.get("message", "") for e in data["errors"])
+            print(f"GraphQL errors: {msgs}", file=sys.stderr)
+            sys.exit(1)
         rs = data["data"]["root"]["search"]["recordSearch"]
+        if rs is None:
+            print("No recordSearch in response (bad filter field name?)", file=sys.stderr)
+            json.dump(data, sys.stderr, indent=2)
+            sys.exit(1)
         total = rs["numberOfRecords"]
         records = rs["records"]
         next_pages = rs["numberOfNextPages"]
@@ -461,6 +456,13 @@ def _format_article(art: dict, *, verbose: bool = False) -> str:
 
 
 def run_newspaper_search(args: argparse.Namespace) -> None:
+    pub_date: dict | None = None
+    if getattr(args, "from_year", None) or getattr(args, "to_year", None):
+        pub_date = {
+            "from": f"{args.from_year}-01-01" if getattr(args, "from_year", None) else None,
+            "to": f"{args.to_year}-12-31" if getattr(args, "to_year", None) else None,
+        }
+
     filter_query: dict = {
         "consumer": "FMP",
         "publicationPlace": [],
@@ -468,23 +470,28 @@ def run_newspaper_search(args: argparse.Namespace) -> None:
         "articleType": [],
         "coverage": [],
         "coverageCountry": [],
+        "addedDate": None,
+        "publicationDate": pub_date,
+        "accessType": None,
+        "archiveTag": [],
+        "dayOfYear": None,
+        "filterByPerpetualAccess": False,
+        "frontPageOnly": False,
     }
     if getattr(args, "newspaper", None):
         filter_query["newspaperTitle"] = [args.newspaper]
     if getattr(args, "place", None):
-        filter_query["publicationPlace"] = [{"name": args.place}]
+        filter_query["publicationPlace"] = [args.place]
     if getattr(args, "county", None):
         filter_query["coverageCountry"] = [args.county]
 
     filters: dict = {
         "namesFilter": [args.names] if args.names else [],
+        "exactNames": True,
         "keywordsFilter": getattr(args, "keywords", None) or "",
+        "exactKeywords": False,
         "filterQuery": filter_query,
     }
-    if getattr(args, "from_year", None):
-        filters["dateFrom"] = f"{args.from_year}-01-01"
-    if getattr(args, "to_year", None):
-        filters["dateTo"] = f"{args.to_year}-12-31"
 
     rows = 20
     start_from = (args.page - 1) * rows
@@ -571,7 +578,7 @@ def _iiif_image_url(page_id: str, width: int | None = None) -> str:
 
 
 def _tile_session() -> str:
-    return os.environ.get("FMP_TILE_SESSION") or FMP_TILE_SESSION
+    return FMP_TILE_SESSION
 
 
 def _download_iiif_image(page_id: str, output_path: str, width: int | None = 1772) -> str:
@@ -836,6 +843,7 @@ def _add_search_args(sp: argparse.ArgumentParser) -> None:
     sp.add_argument("--collection", help="Override SourceCollection")
     sp.add_argument("--variants", action="store_true",
                      help="Enable name variant matching (default: exact)")
+    sp.add_argument("--keywords", help="Address/keyword filter (e.g. 'milner square')")
     sp.add_argument("--page", type=int, default=1, help="Start page (default 1)")
     sp.add_argument("--all-pages", action="store_true", help="Fetch all pages")
     sp.add_argument("-v", "--verbose", action="store_true",

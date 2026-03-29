@@ -1,0 +1,17 @@
+id: hardiman-history-galway-1820
+remote:
+  webpage_url: https://archive.org/details/historyoftowncou00hard
+fetches:
+- kind: web
+  at: '2026-03-29T16:05:00Z'
+  remote_url: https://archive.org/details/historyoftowncou00hard
+  sha256: 13bdb22b3f9ce0fd48f108dce0382647035d48e3753974b0bdc1ad41d60b52e2
+  bytes: 309242
+- kind: pdf
+  at: '2026-03-29T16:08:24Z'
+  sha256: b7da37a0cc427256117e7b4563f3f9a4f8a8f081627f094bc4afd86b4db6df77
+  bytes: 38462717
+  media_reference: manual/historyoftowncou00hard.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: manual/historyoftowncou00hard.pdf

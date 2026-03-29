@@ -56,6 +56,11 @@ David died in **Q3 1907** (July–September) at Merthyr Tydfil, age 52 (GRO Vol 
 | Ellen | c. 1889 | Twin |
 | Theresa | c. 1892 | On 1911 census (single, age 19) |
 
+## British Newspaper Archive
+
+- **1912-09-14** — *Merthyr Express*: Fatal accident at Dowlais Works — a Cushen killed. Likely **David T. Cushen** (b. ~1880), David's eldest son, who was a labourer at Dowlais in 1911. Full-page images only; close-up needed for full transcription. [Transcription](../sources/corpus/1912-merthyr-express-cushen-dowlais-fatal-accident/transcription.md) · [page 1](../media/docs/1912-merthyr-express-cushen-dowlais-accident-p1.png) · [page 2](../media/docs/1912-merthyr-express-cushen-dowlais-accident-p2.png).
+- **1915-06-12** — *Merthyr Express*: "Killed at the Front" — Private **D. W. Cushen**, South Wales Borderers, son of **John J. Cushen**, 28 Graig Cwm, Dowlais, killed in action at **Richebourg l'Avoué** on 9 May 1915 (Battle of Aubers Ridge), aged 25. He had served with the Monmouth Royal Engineers before joining the Regulars. John J. Cushen is David's youngest brother (b. ~1867), making D. W. Cushen David's nephew. [Transcription](../sources/corpus/1915-merthyr-express-dw-cushen-killed-in-action/transcription.md) · [image](../media/docs/1915-merthyr-express-dw-cushen-killed-in-action.png).
+
 ## Evidence
 
 - **1881 census — 31 Pond Street, Caeharris** — David Cushin (25, mason), wife Mary (27), daughters Margaret Ann (5), Mary Jane (3), sons David Thos (1), Ezekiel (0). RG 11/5314 ([image](../media/docs/1881-census-david-cushin-household-pond-street-caeharris-rg11-5314.png)).

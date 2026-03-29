@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "title": "The Bankers of George's Street",
+    "subtitle": "How a dispossessed Norman family armed a ship, built a bank, survived a crisis, and grew pineapples in Limerick",
+    "era": "1688 – 1855"
+  },
+  "scrollyStepCount": 7,
+  "steps": [
+    {
+      "era": "1169 – 1688",
+      "media": {
+        "src": "media/context/ireland-roche/castle-roche-louth.jpg",
+        "alt": "Castle Roche, County Louth — a 13th-century Norman castle on its rocky outcrop, now a national monument",
+        "caption": "Castle Roche, County Louth — the Normans who carried the name arrived in 1169"
+      }
+    },
+    {
+      "era": "1688 – 1760",
+      "media": {
+        "src": "media/docs/1758-dublin-journal-plantation-news-west-indies.png",
+        "alt": "The Dublin Journal, 1758, reporting on Plantation News and West Indies trade — the world John Lysaght Roche dispatched his armed merchant ship into",
+        "caption": "The Dublin Journal, 1758 — 'Plantation News' columns chronicled the West Indies trade that made the Roche fortune"
+      }
+    },
+    {
+      "era": "1801 – 1806",
+      "media": {
+        "src": "media/docs/1802-sun-london-limerick-citizens-meeting-roche.png",
+        "alt": "The Sun, London, 1802 — a Limerick citizens' meeting resolving that subscriptions be deposited at 'the Banks of Thomas and William Roche'",
+        "caption": "1802 — the Bank of Thomas and William Roche named as a deposit address at a Limerick citizens' meeting"
+      }
+    },
+    {
+      "era": "1808",
+      "media": {
+        "src": "media/context/ireland-roche/terraced-garden-stone.jpg",
+        "alt": "A terraced garden with climbing plants — evoking the Hanging Gardens of Roche, which rose seventy feet behind the George's Street bank",
+        "caption": "William Roche built terraced gardens rising seventy feet — pineapples, peaches, and oranges above the vaulted stone stores"
+      }
+    },
+    {
+      "era": "25 May 1820",
+      "media": {
+        "src": "media/context/ireland-roche/georges-street-limerick-modern.jpg",
+        "alt": "George's Street, Limerick — a Lawrence photograph showing the Georgian commercial street where the Roche bank and its competitors once stood",
+        "caption": "George's Street, Limerick — in 1820 every private bank on this street failed, except one"
+      }
+    },
+    {
+      "era": "1832 – 1850",
+      "media": {
+        "src": "media/context/ireland-roche/daniel-oconnell-portrait.jpg",
+        "alt": "Daniel O'Connell, 'The Champion of Liberty' — lithograph by A. M. Hoffy, 1847. Close friend and kinsman of William Roche M.P.",
+        "caption": "O'Connell declared: 'William Roche was the only man in Ireland from whom he would not demand a pledge'"
+      }
+    },
+    {
+      "era": "1855",
+      "media": {
+        "src": "media/docs/1855-leinster-express-thomas-roche-death-elder-brother.png",
+        "alt": "Leinster Express obituary of Thomas Roche, 22 December 1855 — 'surviving partner of the late Bank of Thomas and William Roche'",
+        "caption": "December 1855 — 'the only one, probably, in the South of Ireland, that passed through the disastrous commercial crash with perfect honour and integrity'"
+      }
+    }
+  ]
+}

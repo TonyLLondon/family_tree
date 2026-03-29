@@ -61,9 +61,9 @@ The Roche line in this tree belongs to the **Limerick Catholic merchant-gentry**
 |------------|--------|------|
 | c. 1641 | John Roche of Castletown-Roche (Cork) | Catholic Parliament; descendants forfeited under William III |
 | b. 1688 | [John Lysaght Roche](../people/john-lysaght-roche.md) m. [Anna Stackpole](../people/anna-stackpole.md) | Limerick/Rotterdam trading empire |
-| b. 1724 | [Stephen John Roche](../people/stephen-john-roche.md) m. [Sarah O'Bryen](../people/sarah-obryen.md) | Limerick merchant |
-| fl. early 19th c. | [Thomas Roche](../people/thomas-roche.md) m. [Hellen Ankettle](../people/hellen-ankettle.md) | "Thomas Roche of Limerick" (Burke's) |
-| fl. 1830s | [William Roche](../people/william-roche.md) m. [Eliza Knight](../people/eliza-knight.md) | Solicitor in Dublin |
+| b. 1724 | [Stephen John Roche](../people/stephen-john-roche.md) m. [Sarah O'Bryen](../people/sarah-obryen.md) | Limerick merchant; Sarah was daughter of [John O'Bryen](../people/john-obryen.md), **chief of the O'Bryens of Arran, lineal descendants of Brian Boru** |
+| ~1769–1855 | [Thomas Roche](../people/thomas-roche.md) m. [Hellen Ankettle](../people/hellen-ankettle.md) | [Banker](bank-of-thomas-and-william-roche.md), George's Street, Limerick; survived the 1820 crisis |
+| ~1806–1894 | [William Roche](../people/william-roche.md) m. [Eliza Knight](../people/eliza-knight.md) | Crown Solicitor for Limerick; President of the Incorporated Law Society |
 | b. 1841 | [Catherine Mary Roche](../people/catherine-mary-roche.md) m. [William O'Byrne White](../people/william-obyrne-white.md) | Dublin → Bombay → Tralee |
 
 Catherine Mary Roche married a surgeon and followed him to Bombay; their son [Gerald Sebastian White](../people/gerald-sebastian-white.md) became a solicitor in Madras — repeating the legal profession that runs through the Roche line. Through the White family, the Roche surname connects to the broader [Lewis](surname-lewis.md) tree.
@@ -74,6 +74,8 @@ The allied surnames tell the same story of Hiberno-Norman gentry networks: **Sta
 
 ## Related
 
+- [The Bankers of George's Street](../stories/roche-limerick-bankers.md) — scrollytelling story: armed ships, the 1820 crisis, and pineapples in Limerick
+- [The Bank of Thomas and William Roche, Limerick (1801–1825)](bank-of-thomas-and-william-roche.md)
 - [Lewis (Wales) · Stump (Europe) — line hub](lewis-wales-stump-europe.md)
 - [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md)
 - [O'Brien / Roche notes](../sources/obrien-roche-notes.md)

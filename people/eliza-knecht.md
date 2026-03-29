@@ -2,6 +2,7 @@
 name: Eliza Sarah Glasscock
 treeId: I580
 also_known_as:
+  - Sarah Eliza Victoria Knecht
   - Eliza Thorbourn
   - Eliza Knecht
 born: ABT 1828
@@ -15,7 +16,7 @@ children:
   - dorothea-knecht
 ---
 
-# Eliza Sarah Glasscock (c. 1828–?)
+# Eliza Sarah Glasscock (c. 1828–1908)
 
 **Eliza Sarah Glasscock** was born about **1828** at **Bethnal Green** and baptised **15 January 1832** — the same day as her brother James George (b. ~1831), a joint baptism of siblings. Her father was **James Glasscock** (b. ~1794, Stepney; painter) and her mother was **Sarah Ann Holles** (b. ~1809, Bethnal Green), James's second wife.
 
@@ -34,7 +35,7 @@ In **Q3 1856** she married [George Knecht](george-knecht.md), a German cabinet m
 - Brother: **James George Glasscock** (b. ~1831, Bethnal Green; cabinet maker (journeyman) by 1851; baptised same day as Eliza).
 - First husband: **Mr. Thorbourn** (died before 1851; daughter Elizabeth Thorbourn, b. ~1848, Shoreditch).
 - Second husband: [George Knecht](george-knecht.md) (m. Q3 1856, Islington; d. Q3 1898, Paddington).
-- Children with George Knecht (from 1871 census): Francis Henry (~1857), Elizabeth (~1859), [Dorothea](dorothea-knecht.md) (~1861), George William (~1864), Hannah (~1866), Louisa Sarah (~1870).
+- Children with George Knecht (from 1871 census + later records): Francis Henry (~1857), Elizabeth (~1859), [Dorothea](dorothea-knecht.md) (~1861), George William (~1864), Hannah (~1866; m. Q2 1882, Islington — GRO Vol 1B, p. 448; potential spouse William Edward Hutton or Peter Cambeusy), Louisa Sarah (~1870; m. Q3 1890, Islington — GRO Vol 1B, p. 722; potential spouse William Clark Cooper or Robert Heinsen Tasker), **Charles Knecht** (born after 1871; living at 24 Cambridge Avenue, Kilburn, in 1908 — gave evidence at Eliza's inquest).
 
 ## Evidence
 
@@ -44,6 +45,7 @@ In **Q3 1856** she married [George Knecht](george-knecht.md), a German cabinet m
 - [1871 Census — Knecht household, Pembroke Street, Islington](../media/docs/1871-census-knecht-household-pembroke-street-islington-rg10-263.jpg) — RG10/263, folio 36, p. 67, schedule 316: birthplace given as **Ireland** (contradicted by baptism record).
 - [1881 Census — Knecht household, Paddington](../media/docs/1881-census-knecht-household-paddington-rg11-4181079.jpg) — RG 11, piece 4181079: birthplace **Middlesex, Paddington**. [Source card](../sources/1881-census-knecht-paddington.md) · [transcription](../sources/corpus/1881-census-knecht-household-paddington/transcription.md).
 - [1891 Census — 19 Chichester Road, Paddington](../media/docs/1891-census-george-eliza-knecht-chichester-road-paddington-rg12-2.jpg) — RG 12/2, p. 123, schedule 243: Eliza (51), birthplace **London, Middlesex**.
+- 1901 Census — **14 Freeling Street, Islington** — RG13/182, p. 15, schedule 100: Eliza Knecht, head, 64, widow, born Ireland. Barnsbury sub-district, St Andrew parish. Moved back to Islington after George's death; boarders Arthur Douglas and William Frankling in the household.
 
 **Ancestry of James Glasscock:**
 
@@ -95,9 +97,13 @@ In **Q3 1856** she married [George Knecht](george-knecht.md), a German cabinet m
 | James Glasscock death image, Q2 1863 | `BMD/D/1863/2/BK/000671/040` | Would give age, confirming ~1794 birth |
 | Mr. Thorbourn marriage/death | — | Eliza's first husband; not yet searched |
 
+### British Newspaper Archive (FindMyPast, March 2026)
+
+- [Paddington Times, 15 May 1903 — "A Builder's Claim"](../sources/corpus/1903-paddington-times-knecht-builders-claim/transcription.md) ([scan](../media/docs/1903-paddington-times-knecht-builders-claim-county-court.png)) — County court case confirms **Charles Knecht** at 24 Cambridge Avenue, Kilburn, five years before Eliza's inquest. He was leaseholder of premises in Brindley Street, managing investment property.
+- [Kilburn Times, 20 Nov 1908 — "Old Resident Suffocated"](../sources/corpus/1908-paddington-times-eliza-knecht-gas-suffocation/transcription.md) ([scan](../media/docs/1908-kilburn-times-eliza-knecht-suffocation-inquest.png)) — Full name revealed as **Sarah Eliza Victoria Knecht**, aged 65. Died by accidental gas suffocation at **19 Chichester Road, Paddington**, overnight Thursday–Friday, after a three-quarter compo gas pipe broke and fell from the ceiling of the unoccupied kitchen below her room. Son **Charles Knecht** of 24 Cambridge Avenue, Kilburn, gave evidence. George described as "a retired cabinet maker (formerly a well-known vestryman and Conservative in the Borough)." The coroner, Dr. Thomas, said he "knew the late Mr. Knecht very well, and he was on the Vestry for many years." Jury verdict: "Accidental death." Funeral at **Kensal Green Cemetery**; mourners included "Mr. and Mrs. Knecht, jun." (Charles and wife), Edwin Stephens, Mrs. Walker, Mrs. Creighton, Miss Lott, and others. Also reported in *Paddington Times*, *Daily Telegraph*, *Thomson's Weekly News*, and others.
+
 ## Open questions
 
 - **Mr. Thorbourn** — Eliza's first husband. A marriage search for Eliza Glasscock or Thorbourn, ~1847–1849, Shoreditch/Bethnal Green area, would find the wedding. His death (before 1851) would be in the GRO.
 - **Elizabeth Thorbourn** — Eliza's daughter from her first marriage, born ~1848, Shoreditch. What became of her? She would have been 8 when Eliza married George Knecht.
 - **Abraham Glasscock** — John's father. Baptised 1735 at Bishop's Stortford (strongest candidate); married Mary Thompson 1768 at St Botolph Aldgate. His father was likely Abraham Glascock (bapt. 1703, Bishop's Stortford; married 1733; buried ~1738). The baptism register images at Bishop's Stortford would confirm parentage.
-- **Death date** — Eliza survived George (d. 1898). A 1901 census or GRO death search would find her.

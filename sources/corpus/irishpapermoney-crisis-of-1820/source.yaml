@@ -1,0 +1,12 @@
+id: irishpapermoney-crisis-of-1820
+remote:
+  webpage_url: https://www.irishpapermoney.com/forum/viewtopic.php?t=346
+fetches:
+- kind: web
+  at: '2026-03-29T15:37:13Z'
+  remote_url: https://www.irishpapermoney.com/forum/viewtopic.php?t=346
+  sha256: 415c6213986956cee8c6c742e5f55db1051605e689689b2bb2d988435c9622c2
+  bytes: 52040
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

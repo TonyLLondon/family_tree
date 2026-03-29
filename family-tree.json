@@ -1328,10 +1328,9 @@
         "F96"
       ],
       "sex": "F",
-      "deathDate": "WFT Est 1686-1776",
       "personPage": "people/ann-braithwaite.md",
-      "birthDate": "1669",
-      "deathDateGedcom": "WFT Est 1686-1776"
+      "birthDate": "1663-09-21",
+      "birthPlace": "Swarthmoor, Lancashire, England"
     },
     "I192": {
       "id": "I192",
@@ -1362,9 +1361,7 @@
       "id": "I194",
       "displayName": "Richard Braithwaite",
       "birthUnionId": "F99",
-      "spouseUnionIds": [
-        "F98"
-      ],
+      "spouseUnionIds": [],
       "sex": "M",
       "birthPlace": "Cartmel, Lancashire, England",
       "deathDate": "1679-04-14",
@@ -6756,11 +6753,12 @@
         "F40"
       ],
       "sex": "M",
-      "birthPlace": "Yorkshire, England",
+      "birthPlace": "Hinckley, Leicestershire, England",
       "role": "Banker, economist, editor",
       "deathDate": "1863",
       "personPage": "people/henry-burgess.md",
-      "birthDate": "1781"
+      "deathPlace": "City of London",
+      "birthDate": "1780-07-07"
     },
     "I82": {
       "id": "I82",
@@ -6817,11 +6815,11 @@
         "F41"
       ],
       "sex": "M",
-      "birthPlace": "England",
+      "birthPlace": "Leicester, Leicestershire, England",
       "deathDate": "1807-03-26",
       "personPage": "people/joseph-burgess.md",
-      "deathPlace": "Leicestershire, England, United Kingdom",
-      "birthDate": "1735-12-14"
+      "deathPlace": "Leicester, Leicestershire, England",
+      "birthDate": "1735-11-14"
     },
     "I87": {
       "id": "I87",
@@ -6831,10 +6829,10 @@
         "F41"
       ],
       "sex": "F",
-      "birthPlace": "England",
+      "birthPlace": "Kendal, Westmorland, England",
       "deathDate": "1828",
       "personPage": "people/sarah-airey.md",
-      "birthDate": "1741-12-22"
+      "birthDate": "1741-02-22"
     },
     "I88": {
       "id": "I88",
@@ -7246,6 +7244,69 @@
         "F221"
       ],
       "sex": "F"
+    },
+    "I617": {
+      "id": "I617",
+      "displayName": "George Brathwaite",
+      "birthUnionId": "F222",
+      "spouseUnionIds": [
+        "F98"
+      ],
+      "sex": "M",
+      "personPage": "people/george-brathwaite.md",
+      "birthDate": "1637-05-07",
+      "birthPlace": "Hawkshead, Lancashire, England",
+      "deathDate": "1681-03-04",
+      "deathPlace": "Swarthmoor, Lancashire, England"
+    },
+    "I618": {
+      "id": "I618",
+      "displayName": "Agnes Benson",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F98"
+      ],
+      "sex": "F",
+      "personPage": "people/agnes-benson.md",
+      "birthPlace": "Longriggs, Lancashire, England",
+      "deathDate": "1694-07-05",
+      "deathPlace": "Swarthmoor, Lancashire, England"
+    },
+    "I619": {
+      "id": "I619",
+      "displayName": "William Brathwaite",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F222"
+      ],
+      "sex": "M",
+      "personPage": "people/william-brathwaite-hawkshead.md",
+      "birthDate": "1614-10-02",
+      "birthPlace": "Hawkshead, Lancashire, England",
+      "deathDate": "1689-10-25",
+      "deathPlace": "Swarthmoor, Lancashire, England"
+    },
+    "I620": {
+      "id": "I620",
+      "displayName": "Sibell Mackreth",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F222"
+      ],
+      "sex": "F",
+      "personPage": "people/sibell-mackreth.md"
+    },
+    "I621": {
+      "id": "I621",
+      "displayName": "James ROCHE",
+      "birthUnionId": "F167",
+      "spouseUnionIds": [],
+      "sex": "M",
+      "birthPlace": "Limerick, Ireland",
+      "birthDate": "1770-12-30",
+      "deathDate": "1853-04-01",
+      "deathPlace": "Cork, Ireland",
+      "personPage": "people/james-roche.md"
     }
   },
   "unions": {
@@ -8132,7 +8193,8 @@
         "I359"
       ],
       "childIds": [
-        "I341"
+        "I341",
+        "I621"
       ],
       "marriageDate": null
     },
@@ -9696,12 +9758,13 @@
     "F98": {
       "id": "F98",
       "partnerIds": [
-        "I194"
+        "I617",
+        "I618"
       ],
       "childIds": [
         "I191"
       ],
-      "marriageDate": null
+      "marriageDate": "1 JUL 1666"
     },
     "F99": {
       "id": "F99",
@@ -9817,6 +9880,17 @@
         "I613"
       ],
       "marriageDate": null
+    },
+    "F222": {
+      "id": "F222",
+      "partnerIds": [
+        "I619",
+        "I620"
+      ],
+      "childIds": [
+        "I617"
+      ],
+      "marriageDate": "6 NOV 1634"
     }
   },
   "graph": {
@@ -13980,8 +14054,8 @@
       {
         "id": "F98",
         "kind": "union",
-        "label": "",
-        "marriageDate": null
+        "label": "1 JUL 1666",
+        "marriageDate": "1 JUL 1666"
       },
       {
         "id": "F99",
@@ -14215,6 +14289,37 @@
         "kind": "union",
         "label": "",
         "marriageDate": null
+      },
+      {
+        "id": "I617",
+        "kind": "person",
+        "label": "George Brathwaite"
+      },
+      {
+        "id": "I618",
+        "kind": "person",
+        "label": "Agnes Benson"
+      },
+      {
+        "id": "I619",
+        "kind": "person",
+        "label": "William Brathwaite"
+      },
+      {
+        "id": "I620",
+        "kind": "person",
+        "label": "Sibell Mackreth"
+      },
+      {
+        "id": "F222",
+        "kind": "union",
+        "label": "6 NOV 1634",
+        "marriageDate": "6 NOV 1634"
+      },
+      {
+        "id": "I621",
+        "kind": "person",
+        "label": "James ROCHE"
       }
     ],
     "edges": [
@@ -18134,11 +18239,6 @@
         "kind": "descent"
       },
       {
-        "from": "I194",
-        "to": "F98",
-        "kind": "spouse"
-      },
-      {
         "from": "F98",
         "to": "I191",
         "kind": "descent"
@@ -18361,6 +18461,36 @@
       {
         "from": "F221",
         "to": "I613",
+        "kind": "descent"
+      },
+      {
+        "from": "I617",
+        "to": "F98",
+        "kind": "spouse"
+      },
+      {
+        "from": "I618",
+        "to": "F98",
+        "kind": "spouse"
+      },
+      {
+        "from": "I619",
+        "to": "F222",
+        "kind": "spouse"
+      },
+      {
+        "from": "I620",
+        "to": "F222",
+        "kind": "spouse"
+      },
+      {
+        "from": "F222",
+        "to": "I617",
+        "kind": "descent"
+      },
+      {
+        "from": "F167",
+        "to": "I621",
         "kind": "descent"
       }
     ]

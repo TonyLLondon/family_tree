@@ -16,6 +16,7 @@ This hub is the **outline + source register** for everything that is *not* the P
 | [From Reval to Tehran — Étienne Stump](../stories/etienne-stump-reval-to-tehran.md) | Full life: Baltic birth → Chicago → Shah's court → Mahmoudieh |
 | [Zara — Antonio Zerauschek](../stories/zerauschek-zadar.md) | Italian Dalmatia (Fulvia’s father) |
 | [Villa Ester — from the Zerauscheks to Maria Callas](../stories/zerauschek-villa-callas-sirmione.md) | Sirmione villa: Zerauschek → Callas |
+| [The Bankers of George's Street](../stories/roche-limerick-bankers.md) | Roche banking dynasty, 1688–1855: armed ships, the 1820 crisis, pineapples in Limerick |
 
 ---
 
@@ -77,6 +78,7 @@ Fan charts and PPTX decks (not primary sources): **[archive/sun-charts/](../arch
 - [Independent Order of Odd Fellows — Manchester Unity](odd-fellows-manchester-unity.md) — Samuel Lewis as Provincial Grand Master; friendly society context in the South Wales coalfield
 - [Northern Rhodesia — Colonial Service](northern-rhodesia-colonial-service.md) — David Lewis's post-war career
 - [Keep Britain Tidy Group](keep-britain-tidy-group.md) — David Lewis as Director General
+- [The Bank of Thomas and William Roche, Limerick (1801–1825)](bank-of-thomas-and-william-roche.md) — Thomas Roche's private bank; survived the 1820 Munster Banking Crisis
 
 ## Related
 

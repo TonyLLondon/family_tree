@@ -1,0 +1,17 @@
+id: vallancey-collectanea-vol1-obrien-arran
+remote:
+  webpage_url: https://archive.org/details/b28770481_0002
+fetches:
+- kind: web
+  at: '2026-03-29T16:04:08Z'
+  remote_url: https://archive.org/details/b28770481_0002
+  sha256: 9e98a0120df17db5a7607eeabfef9def188d71536ec7afb7c5317e336bf17838
+  bytes: 305386
+- kind: pdf
+  at: '2026-03-29T16:08:23Z'
+  sha256: 49eaea35242306e772acf34d108df226704d266e1910b0f456579b386aff15c3
+  bytes: 29129251
+  media_reference: manual/b28770481_0002.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: manual/b28770481_0002.pdf
