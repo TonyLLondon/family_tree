@@ -22,7 +22,6 @@
     "react-leaflet": "^5.0.0",
     "react-markdown": "^10.1.0",
     "react-scrollama": "^2.4.2",
-    "react-zoom-pan-pinch": "^3.7.0",
     "remark-gfm": "^4.0.1",
     "unist-util-visit": "^5.1.0"
   },

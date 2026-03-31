@@ -1,12 +1,15 @@
 "use client";
 
 import * as d3 from "d3";
-import { useMemo, useCallback, useRef, useState, type ReactNode } from "react";
 import {
-  TransformWrapper,
-  TransformComponent,
-  useControls,
-} from "react-zoom-pan-pinch";
+  useMemo,
+  useCallback,
+  useRef,
+  useState,
+  useEffect,
+  type ReactNode,
+  type RefObject,
+} from "react";
 import { useRouter } from "next/navigation";
 import type { AncestorNode, Person } from "@/lib/genealogy";
 import type { PhotoInfo } from "@/lib/photos";
@@ -19,6 +22,8 @@ import {
   chartYearsFillForSegmentFill,
   regionShortLabelFromBirthPlace,
 } from "@/lib/birthPlaceChartColors";
+
+/* ── Types ───────────────────────────────────────── */
 
 type FanSegment = {
   id: string;
@@ -34,6 +39,19 @@ type Props = {
   photoInfos: Record<string, PhotoInfo | null>;
   centers?: Person[];
 };
+
+type PhotoLayerEntry = {
+  key: string;
+  x: number;
+  y: number;
+  w: number;
+  h: number;
+  src: string;
+  focal: [number, number];
+  zoom: number;
+};
+
+/* ── Photo CSS ───────────────────────────────────── */
 
 function photoImgStyle(
   focal: [number, number],
@@ -62,16 +80,7 @@ function photoImgStyle(
   };
 }
 
-type PhotoLayerEntry = {
-  key: string;
-  x: number;
-  y: number;
-  w: number;
-  h: number;
-  src: string;
-  focal: [number, number];
-  zoom: number;
-};
+/* ── Constants ───────────────────────────────────── */
 
 const W = 2400;
 const CX = W / 2;
@@ -82,6 +91,13 @@ const FAN_END = Math.PI / 2 + FAN_ANGLE_EXTRA;
 
 const TOP_GUTTER = 28;
 const ROOT_STACK_BELOW = 150;
+const ROOT_R = 90;
+const ROOT_GAP = 36;
+
+const BAND_SCALE = 1.07;
+const DRAG_THRESHOLD_PX = 5;
+
+/* ── Layout ──────────────────────────────────────── */
 
 function layoutAncestors(root: AncestorNode, maxGen: number, out: FanSegment[]) {
   function walk(node: AncestorNode | null, start: number, end: number, gen: number) {
@@ -104,11 +120,9 @@ function layoutAncestors(root: AncestorNode, maxGen: number, out: FanSegment[]) 
   else if (hasM) walk(root.mother, FAN_START, FAN_END, 1);
 }
 
-const BAND_SCALE = 1.07;
-
 function ringRadii(gen: number): { inner: number; outer: number } {
   const bands = [0, 150, 140, 125, 110, 95, 85, 75].map((b, i) =>
-    i === 0 ? 0 : Math.round(b * BAND_SCALE)
+    i === 0 ? 0 : Math.round(b * BAND_SCALE),
   );
   let r = Math.round(100 * BAND_SCALE);
   for (let g = 1; g < gen; g++) r += bands[g] ?? Math.round(75 * BAND_SCALE);
@@ -142,7 +156,11 @@ function computeGenerationEras(segments: FanSegment[]): { gen: number; decade: n
 
 const ROOT_FOCUS_DY = Math.round(ringRadii(1).inner * 0.82 + 52);
 
+/* ── Arc datum ───────────────────────────────────── */
+
 type ArcDatum = { innerRadius: number; outerRadius: number; startAngle: number; endAngle: number };
+
+/* ── Text helpers ────────────────────────────────── */
 
 function fmtDate(d: string | undefined): string {
   if (!d) return "";
@@ -214,18 +232,51 @@ function truncateNameSmart(name: string, maxLen: number): string {
   return truncateChars(t, maxLen);
 }
 
-const ROOT_R = 90;
-const ROOT_GAP = 36;
+/* ── URL state persistence ───────────────────────── */
 
-function ZoomControls() {
-  const { zoomIn, zoomOut, resetTransform } = useControls();
+function readUrlTransform(): d3.ZoomTransform | null {
+  if (typeof window === "undefined") return null;
+  const params = new URLSearchParams(window.location.search);
+  const k = parseFloat(params.get("k") ?? "");
+  const x = parseFloat(params.get("x") ?? "");
+  const y = parseFloat(params.get("y") ?? "");
+  if (isNaN(k) || isNaN(x) || isNaN(y)) return null;
+  if (k < 0.1 || k > 20) return null;
+  return d3.zoomIdentity.translate(x, y).scale(k);
+}
+
+function writeUrlTransform(t: d3.ZoomTransform): void {
+  const url = new URL(window.location.href);
+  url.searchParams.set("k", t.k.toFixed(3));
+  url.searchParams.set("x", t.x.toFixed(1));
+  url.searchParams.set("y", t.y.toFixed(1));
+  window.history.replaceState(null, "", url.toString());
+}
+
+/* ── Zoom controls ───────────────────────────────── */
+
+function ZoomControls({
+  svgRef,
+  zoomRef,
+}: {
+  svgRef: RefObject<SVGSVGElement | null>;
+  zoomRef: RefObject<d3.ZoomBehavior<SVGSVGElement, unknown> | null>;
+}) {
+  const act = useCallback(
+    (fn: (svg: d3.Selection<SVGSVGElement, unknown, null, undefined>, z: d3.ZoomBehavior<SVGSVGElement, unknown>) => void) => {
+      if (!svgRef.current || !zoomRef.current) return;
+      fn(d3.select(svgRef.current), zoomRef.current);
+    },
+    [svgRef, zoomRef],
+  );
+
   return (
     <div className="absolute right-3 top-3 z-10 flex items-center gap-1 rounded-lg border border-zinc-300 bg-white/95 px-1 py-0.5 shadow-sm backdrop-blur">
       <button
         type="button"
         className="flex min-h-[44px] min-w-[44px] items-center justify-center rounded text-base font-bold text-zinc-700 hover:bg-zinc-100 active:bg-zinc-200"
         aria-label="Zoom out"
-        onClick={() => zoomOut()}
+        onClick={() => act((svg, z) => svg.transition().duration(300).call(z.scaleBy, 1 / 1.5))}
       >
         −
       </button>
@@ -233,7 +284,7 @@ function ZoomControls() {
         type="button"
         className="flex min-h-[44px] items-center justify-center rounded px-2 text-[11px] font-semibold text-zinc-500 hover:bg-zinc-100 active:bg-zinc-200"
         aria-label="Reset zoom"
-        onClick={() => resetTransform()}
+        onClick={() => act((svg, z) => svg.transition().duration(500).call(z.transform, d3.zoomIdentity))}
       >
         Reset
       </button>
@@ -241,13 +292,15 @@ function ZoomControls() {
         type="button"
         className="flex min-h-[44px] min-w-[44px] items-center justify-center rounded text-base font-bold text-zinc-700 hover:bg-zinc-100 active:bg-zinc-200"
         aria-label="Zoom in"
-        onClick={() => zoomIn()}
+        onClick={() => act((svg, z) => svg.transition().duration(300).call(z.scaleBy, 1.5))}
       >
         +
       </button>
     </div>
   );
 }
+
+/* ── Birthplace legend ───────────────────────────── */
 
 function ChartLegend() {
   const [open, setOpen] = useState(false);
@@ -310,7 +363,19 @@ function ChartLegend() {
   );
 }
 
+/* ── Fan chart ───────────────────────────────────── */
+
 export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp }: Props) {
+  const svgRef = useRef<SVGSVGElement>(null);
+  const zoomRef = useRef<d3.ZoomBehavior<SVGSVGElement, unknown>>(null);
+  const urlTimerRef = useRef<number>(0);
+
+  const router = useRouter();
+  const routerRef = useRef(router);
+  routerRef.current = router;
+
+  /* ── Layout computation (pure, deterministic) ──── */
+
   const segments = useMemo(() => {
     const out: FanSegment[] = [];
     layoutAncestors(root, maxGeneration, out);
@@ -324,7 +389,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
     const cy = TOP_GUTTER + maxR;
     const sinLow = Math.max(
       Math.sin(FAN_END - Math.PI / 2),
-      Math.sin(FAN_START - Math.PI / 2)
+      Math.sin(FAN_START - Math.PI / 2),
     );
     const rimLow = maxR * Math.max(0, sinLow);
     const h = Math.ceil(cy + Math.max(ROOT_FOCUS_DY + ROOT_STACK_BELOW, rimLow + 20) + 12);
@@ -332,56 +397,94 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
   }, [maxGeneration]);
 
   const arcGen = useMemo(() => d3.arc<ArcDatum>().padAngle(0.003).cornerRadius(2), []);
+
   const centers = useMemo((): Person[] => {
     if (centersProp?.length) return centersProp.filter(Boolean);
     if (root.person) return [root.person];
     return [{ id: root.id, displayName: root.id }];
   }, [centersProp, root.person, root.id]);
 
-  const router = useRouter();
-  const pointerOriginRef = useRef<{ x: number; y: number } | null>(null);
-  const DRAG_THRESHOLD_PX = 5;
+  /* ── D3-zoom + click detection ─────────────────── */
 
-  const onSegmentPointerDown = useCallback((e: React.PointerEvent) => {
-    pointerOriginRef.current = { x: e.clientX, y: e.clientY };
-  }, []);
+  useEffect(() => {
+    const svgEl = svgRef.current;
+    if (!svgEl) return;
+    const svg = d3.select(svgEl);
 
-  const onSegmentClick = useCallback(
-    (e: React.MouseEvent, href: string) => {
-      const origin = pointerOriginRef.current;
-      if (origin) {
-        const dx = e.clientX - origin.x;
-        const dy = e.clientY - origin.y;
-        if (dx * dx + dy * dy > DRAG_THRESHOLD_PX * DRAG_THRESHOLD_PX) return;
-      }
-      router.push(href);
-    },
-    [router],
-  );
+    let gestureTarget: EventTarget | null = null;
+    let gestureOrigin: { x: number; y: number } | null = null;
+    let didPan = false;
+
+    const zoom = d3.zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.3, 8])
+      .on("start", (event) => {
+        didPan = false;
+        const se = event.sourceEvent;
+        if (se && "clientX" in se) {
+          gestureTarget = se.target;
+          gestureOrigin = { x: se.clientX, y: se.clientY };
+        }
+        svgEl.style.cursor = "grabbing";
+      })
+      .on("zoom", (event) => {
+        didPan = true;
+        svg.select<SVGGElement>("#chart-content").attr("transform", event.transform.toString());
+        clearTimeout(urlTimerRef.current);
+        urlTimerRef.current = window.setTimeout(() => writeUrlTransform(event.transform), 150);
+      })
+      .on("end", (event) => {
+        svgEl.style.cursor = "grab";
+        const se = event.sourceEvent;
+        if (!didPan && gestureTarget && gestureOrigin && se && "clientX" in se) {
+          const dx = se.clientX - gestureOrigin.x;
+          const dy = se.clientY - gestureOrigin.y;
+          if (dx * dx + dy * dy < DRAG_THRESHOLD_PX * DRAG_THRESHOLD_PX) {
+            const el = gestureTarget as Element;
+            const clickable = el.closest?.("[data-href]");
+            if (clickable) {
+              const href = clickable.getAttribute("data-href");
+              if (href) routerRef.current.push(href);
+            }
+          }
+        }
+        gestureTarget = null;
+        gestureOrigin = null;
+        didPan = false;
+      });
+
+    zoomRef.current = zoom;
+    svg.call(zoom);
+    svg.on("dblclick.zoom", null);
+
+    const saved = readUrlTransform();
+    if (saved) {
+      svg.call(zoom.transform, saved);
+    }
+
+    return () => {
+      svg.on(".zoom", null);
+      clearTimeout(urlTimerRef.current);
+    };
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+
+  /* ── Render ────────────────────────────────────── */
 
   return (
     <div className="relative w-full">
-      <TransformWrapper
-        initialScale={1}
-        minScale={0.2}
-        maxScale={4}
-        limitToBounds={false}
-        panning={{ velocityDisabled: true }}
-        doubleClick={{ mode: "reset" }}
-        onInit={(ref) => { ref.centerView(1, 0); }}
+      <ZoomControls svgRef={svgRef} zoomRef={zoomRef} />
+      <div
+        className="rounded-lg border border-zinc-200 bg-zinc-100/40 overflow-hidden"
+        style={{ maxHeight: "min(88vh, 1680px)" }}
       >
-        <ZoomControls />
-        <TransformComponent
-          wrapperClass="!w-full !max-h-[min(88vh,1680px)] rounded-lg border border-zinc-200 bg-zinc-100/40"
-          contentClass="!w-auto"
+        <svg
+          ref={svgRef}
+          viewBox={`0 0 ${W} ${chartH}`}
+          className="w-full select-none"
+          style={{ height: "min(88vh, 1680px)", cursor: "grab", touchAction: "none", backgroundColor: "#fafafa" }}
+          id="fan-chart-svg"
         >
-          <svg
-            width={W}
-            height={chartH}
-            viewBox={`0 0 ${W} ${chartH}`}
-            id="fan-chart-svg"
-          >
-            <rect width={W} height={chartH} fill="#fafafa" />
+          <g id="chart-content">
+            <rect x={-5000} y={-5000} width={W + 10000} height={chartH + 10000} fill="#fafafa" />
 
             {(() => {
             const photoLayer: PhotoLayerEntry[] = [];
@@ -391,7 +494,9 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 const { inner, outer } = ringRadii(s.generation);
                 const datum: ArcDatum = { innerRadius: inner, outerRadius: outer, startAngle: s.startAngle, endAngle: s.endAngle };
                 const pathD = arcGen(datum);
-                const [cx, cy] = arcGen.centroid(datum);
+                const [rawCx, rawCy] = arcGen.centroid(datum);
+                const cx = Math.round(rawCx * 100) / 100;
+                const cy = Math.round(rawCy * 100) / 100;
                 const slug = personSlugFromPage(s.person?.personPage);
                 const pInfo = photoInfos[s.id];
                 const photo = pInfo?.url ?? null;
@@ -412,7 +517,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                     ? 0
                     : Math.max(
                         3.5,
-                        Math.min(44, band * 0.44, arcLen * 0.34, arcLenOuter * 0.3)
+                        Math.min(44, band * 0.44, arcLen * 0.34, arcLenOuter * 0.3),
                       );
                 const tightRadial = arcLen < 92 || s.generation >= 5;
                 const veryTight = arcLen < 40 || (s.generation >= 6 && arcLen < 58);
@@ -426,7 +531,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                   const rotDeg = labelRotationRadial(s.startAngle, s.endAngle);
                   const fs = Math.min(
                     11,
-                    Math.max(veryTight ? 5.5 : 6, Math.min(band * 0.34, arcLen * (veryTight ? 0.22 : 0.28)))
+                    Math.max(veryTight ? 5.5 : 6, Math.min(band * 0.34, arcLen * (veryTight ? 0.22 : 0.28))),
                   );
                   const charW = fs * 0.52;
                   const radialBudget = band * 0.86;
@@ -465,7 +570,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 } else {
                   const fontSize = Math.min(
                     s.generation <= 2 ? 18 : s.generation <= 3 ? 16 : s.generation <= 5 ? 14 : 12,
-                    Math.max(8, arcLen / 7.5)
+                    Math.max(8, arcLen / 7.5),
                   );
                   const maxChars = Math.max(6, Math.floor(arcLen / (fontSize * 0.52)));
                   const nameLines = splitName(name, maxChars);
@@ -534,9 +639,8 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                       fill={fill}
                       stroke="#d4d4d8"
                       strokeWidth={0.6}
+                      data-href={slug ? `/people/${slug}` : undefined}
                       className={slug ? "transition-colors duration-100 hover:brightness-95 cursor-pointer" : undefined}
-                      onPointerDown={slug ? onSegmentPointerDown : undefined}
-                      onClick={slug ? (e) => onSegmentClick(e, `/people/${slug}`) : undefined}
                     >
                       <title>{tooltip}</title>
                     </path>
@@ -590,7 +694,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                     </text>
                   );
                 })}
-                {/* SE edge (right) — one fewer date */}
+                {/* SE edge (right) */}
                 {generationEras
                   .filter(({ decade }) => decade >= 1850)
                   .map(({ gen, decade }) => {
@@ -620,6 +724,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 })}
               </g>
 
+              {/* Root person(s) */}
               <g transform={`translate(0,${ROOT_FOCUS_DY})`}>
                 {(() => {
                   const photoUrls = centers.map((c) => photoInfos[c.id]?.url ?? null);
@@ -708,9 +813,8 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                           <circle
                             r={ROOT_R}
                             fill="transparent"
+                            data-href={`/people/${slug}`}
                             className="hover:fill-blue-100/40 cursor-pointer"
-                            onPointerDown={onSegmentPointerDown}
-                            onClick={(e) => onSegmentClick(e, `/people/${slug}`)}
                           />
                         ) : null}
                         <text y={photoY} x={0} textAnchor="middle" fontSize={n === 2 ? 17 : 20} fontWeight={700} fill="#0f172a" style={{ pointerEvents: "none" }}>
@@ -728,6 +832,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
               </g>
             </g>
 
+            {/* Photo layer: foreignObject with CSS object-fit for precise focal-point control */}
             {photoLayer.map((p) => (
               <foreignObject
                 key={p.key}
@@ -745,10 +850,10 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
             ))}
             </>);
             })()}
-          </svg>
-        </TransformComponent>
-        <ChartLegend />
-      </TransformWrapper>
+          </g>
+        </svg>
+      </div>
+      <ChartLegend />
     </div>
   );
 }

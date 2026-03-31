@@ -95,7 +95,7 @@ Submit via **[my.gov.ge](https://www.my.gov.ge)** or email **services@archives.g
 To: services@archives.gov.ge
 Subject: Remote genealogical research request — Saginashvili family, Tbilisi, late 18th–early 19th century
 
-**Status: SENT** (30 March 2026). Awaiting response.
+**Status: CLOSED** (31 March 2026). Archives replied: no remote service, no commissioned research, reading room access only. Would require hiring a local Tbilisi-based researcher (~€1,400+ via geogen.ge) to access the fonds in person. Not worth pursuing at this cost.
 
 ```text
 Dear colleagues at the National Archives of Georgia,
