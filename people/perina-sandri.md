@@ -13,7 +13,7 @@ children:
 
 # Perina Sandri
 
-Perina Sandri was the wife of [Pietro Paolo Coltelli](pietro-paolo-coltelli.md) and mother of [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md). Her father in the working tree is [Giacomo Sandri](giacomo-sandri.md); that birth-family record names father and daughter only—no mother line in this slice.
+Perina Sandri was the wife of [Pietro Paolo Coltelli](pietro-paolo-coltelli.md) and mother of [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md). Her father in the working tree is [Giacomo Sandri](giacomo-sandri.md); that birth-family record names father and daughter only—no mother line in this tree excerpt.
 
 ## Life
 

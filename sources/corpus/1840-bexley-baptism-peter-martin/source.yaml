@@ -1,0 +1,16 @@
+title: "Peter Martin baptism, Bexley, 23 Feb 1840"
+kind: web
+remote:
+  webpage_url: "https://www.findmypast.co.uk/transcript?id=R_870887198"
+provenance:
+  dataset: "England Births & Baptisms 1538-1975"
+  provider: "FamilySearch via FindMyPast"
+  record_id: "R_870887198"
+  batch_number: "C16526-1"
+people:
+  - id: I596
+    role: subject
+  - id: I650
+    role: father
+  - id: I651
+    role: mother

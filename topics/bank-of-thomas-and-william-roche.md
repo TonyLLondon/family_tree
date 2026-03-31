@@ -18,7 +18,7 @@ At the rear of the George's Street premises, William constructed his famous **Ha
 
 On **25 May 1820**, Roches' Cork Bank — the brothers' separate operation run by Stephen and James — closed its doors. The collapse triggered a chain reaction across Munster: Leslie's Bank in Cork fell the same day; Maunsell's Bank in Limerick, which had been the city's first bank since 1789 and was considered unassailable, followed within days; and by 12 June, Alexander's Bank in Dublin had also failed. The crisis, later called the **Munster Banking Crisis**, was caused by a post-Napoleonic collapse in grain prices followed by a sharp fall in land values. Banks that had lent against land found their security evaporating.
 
-**Thomas and William Roche's Limerick Bank was the only bank in Limerick to survive.**
+**Thomas and William Roche's Limerick Bank was the only bank in Limerick to survive** — and one of only four private banks in all of Munster to come through the calamitous year (Kemmy).
 
 The legal separation between the Cork and Limerick operations — maintained as distinct partnerships despite the family connection — shielded the Limerick bank from the contagion. While Maunsell's fell and the Cork Roches went under, Thomas held the Limerick bank steady. By 1824, Pigott's Trade Directory listed the Roche bank as the **only bank** recorded in Limerick — every competitor had been wiped out.
 
@@ -26,7 +26,7 @@ The crisis destroyed public confidence in private bank note issues. Examples of 
 
 ## Takeover and Legacy
 
-In **1825**, the bank was acquired by **The Provincial Bank**, one of the new joint-stock banks that were replacing the old private banking system across Ireland. Thomas Roche became a **Local Director** of the Provincial Bank's Limerick branch — a seat he held alongside William on the Board of Management through the 1840s. The Provincial Bank itself was eventually absorbed into **Allied Irish Banks (AIB)** in 1966.
+On **1 November 1825**, the bank was acquired by **The Provincial Bank**, which opened its Limerick branch on that date — one of the new joint-stock banks replacing the old private banking system across Ireland. Thomas Roche became a **Local Director** of the Provincial Bank's Limerick branch — a seat he held alongside William on the Board of Management through the 1840s. The Provincial Bank itself was eventually absorbed into **Allied Irish Banks (AIB)** in 1966.
 
 After the bank's takeover, Thomas continued as a pillar of Limerick civic life. William entered politics, winning election as **MP for Limerick** in December 1832 — the first Catholic to represent the city since the penal laws. Daniel O'Connell said of him: "William Roche was the only man in Ireland from whom he would not demand a pledge." William served until 1841 and died unmarried and childless on **27 April 1850**.
 
@@ -70,6 +70,7 @@ Thomas's brother William Roche MP is **not** in the direct line (he died unmarri
 - [Limerick Chronicle / Limerick Leader — Roche merchant family roots](../sources/corpus/limerick-chronicle-roche-merchant-family/extracted.web.md) — Sharon Slater (2018): full Chronicle obituary of Thomas Roche, family structure, James Roche's biography.
 - Eoin O'Kelly, *The Old Private Banks and Bankers of Munster* — background to the 1820 crisis (cited in irishpapermoney.com).
 - Burke's *History of Commoners* (1833) — [Roche of Limerick](../sources/roche-of-limerick-forgotten-victorians.md): "William, M.P. for his native city of Limerick, and its first catholic representative."
+- [Jim Kemmy, "James Roche," *The Old Limerick Journal* (French Edition)](../sources/corpus/james-roche-manual-excerpt/transcription.md) — "one of the four to survive the calamitous year of 1820"; Provincial Bank takeover dated 1 November 1825.
 
 ## People linked
 

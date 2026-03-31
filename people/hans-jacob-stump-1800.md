@@ -25,7 +25,7 @@ The working tree places birth and christening **15 June 1800** at **Sulgen**, **
 
 - **15 Jun 1800** — Birth and christening **Sulgen**, **Thurgau**, **Switzerland**.
 - **25 Sep 1832** — Marriage **Sulgen** to Jeanne Benigne Montagnon.
-- **Death** — Flag in the import without structured date or place in the slice used here.
+- **Death** — Flag in the import without structured date or place in the tree excerpt used here.
 
 ## Family
 

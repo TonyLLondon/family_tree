@@ -25,7 +25,7 @@ Widowed in early 1749, he married again within weeks—12 March 1749—to Laura 
 - **By 1728** — Addobbati in Turanj registers (DAZD inventory); may be Daniele or a brother.
 - **22 Nov 1730** — Marriage Zara to [Margherita Lanfranchi](margherita-lanfranchi.md); Canon Petrus Bado; banns omitted by faculty; witnesses Francesco Armanini, Pietro Pilarino.
 - **1731** — Two Addobbati births Zara (DAZD inventory).
-- **13 Nov 1733** — Admitted *cittadini originari* with brothers Lorenzo (1705) and Giuseppe (1709).
+- **13 Nov 1733** — Admitted as *cittadini originari* with brothers Lorenzo (1705) and Giuseppe (1709).
 - **Early 1749** — Death of Margherita (see register image).
 - **12 Mar 1749** — Second marriage Zara to Laura Tori (*nobile senese*); Don Pietro Garo, Primicerio; witnesses Giam Battista Lorenzo Adobatti, Girolamo Lantana; scribe Don Giovanni Frangipani.
 - **Posterity** — Five sons with citizenship attest per Sabalich; the current tree emphasizes Luigi (b. 1744, first marriage); additional sons from both marriages in parish captures below.

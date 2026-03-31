@@ -18,7 +18,7 @@ siblings:
 
 # Elizabeth Moran (Holloway, 1871)
 
-Daughter of [William Moran](william-moran-i235.md) (`I235`) and [Hannah Walton](hannah-walton-i234.md) — **F116**. [Elizabeth Moran](elizabeth-moran-i230.md) (`I230`, b. **1871** **Islington**, **F115**, mother of [Rosina A Martin](rosina-a-martin-i104.md)) shares forename, year, and broad London band — parent names on each certificate settle the merge.
+Daughter of [William Moran](william-moran-i235.md) (`I235`) and [Hannah Walton](hannah-walton-i234.md) — **F116**. [Elizabeth Moran](elizabeth-moran-i230.md) (`I230`, b. **1871** **Islington**, **F115**, mother of [Rosina A Martin](rosina-a-martin-i104.md)) shares forename, year, and broad London band — parent names on each certificate show they are not the same person.
 
 ## Evidence
 

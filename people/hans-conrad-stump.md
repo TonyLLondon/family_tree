@@ -34,4 +34,4 @@ children:
 ## Open questions
 
 - Death — **Sulgen** burial after **1728** marriage.
-- **Kaeg** parental union in the working tree—parents of Anna Barbel.
+- **Kaeg** Identify Anna Barbel's parents on the **Kaeg** union in the tree.

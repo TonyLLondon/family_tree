@@ -16,7 +16,7 @@ siblings:
 
 # Arthur Moran
 
-Son of [William Moran](william-moran-i235.md) and [Hannah Walton](hannah-walton-i234.md) — **F116**. No vitals in the current JSON slice.
+Son of [William Moran](william-moran-i235.md) and [Hannah Walton](hannah-walton-i234.md) — **F116**. Vitals not in the tree excerpt used here.
 
 ## Evidence
 

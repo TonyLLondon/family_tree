@@ -22,7 +22,7 @@ Pietro Paolo Coltelli was the husband of [Perina Sandri](perina-sandri.md) and f
 
 ## Family
 
-- Father: [Antonio Coltelli](antonio-coltelli.md) (the working tree’s birth-family record names father and son only—no mother in this slice).
+- Father: [Antonio Coltelli](antonio-coltelli.md) (the working tree’s birth-family record names father and son only—no mother in this tree excerpt).
 - Wife: [Perina Sandri](perina-sandri.md).
 - Children include [(Domenica) Vincenza Coltelli](domenica-vincenza-coltelli.md).
 

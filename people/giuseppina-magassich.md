@@ -11,7 +11,7 @@ children:
 
 # Giuseppina Magassich
 
-**Giuseppina Magassich** married [Giovanni Erenda](giovanni-erenda.md) and was mother of [Anna Herenda](anna-herenda.md). The working tree marks death **Y** without birth or full date.
+**Giuseppina Magassich** married [Giovanni Erenda](giovanni-erenda.md) and was mother of [Anna Herenda](anna-herenda.md). Death is flagged in the tree but birth and full death date are missing there.
 
 ## Family
 

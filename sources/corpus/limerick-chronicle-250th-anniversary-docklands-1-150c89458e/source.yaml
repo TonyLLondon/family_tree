@@ -9,4 +9,9 @@ fetches:
   media_reference: media/docs/Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater.pdf
 files:
   pdf_markdown: extracted.pdf.md
+  reference: reference.md
   media_reference: media/docs/Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater.pdf
+  page_images:
+    - pages/page-01.png
+    - pages/page-02.png
+  note: "Print edition of same Sharon Slater article in limerick-chronicle-roche-merchant-family/ (web extract is clean text)"

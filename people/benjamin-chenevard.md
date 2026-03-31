@@ -18,7 +18,7 @@ children:
 
 Benjamin Chenevard was born around 1688 at Céligny, a Geneva-canton enclave on the north shore of Lac Léman, and died **2 December 1747** there. He was the son of [Antoine Chenevard](antoine-chenevard.md) (b. 1657, d. 1733) and [Françoise Mestral](francoise-mestral.md).
 
-On **9 March 1720** he married [Christine Nerfin](christine-nerfin.md) (daughter of Humbert Nerfin) at Céligny. Their daughter [Jaqueline Suzanne Chenevard](jaqueline-suzanne-chenevard.md) was baptised 26 October 1732 and later married Jean François Louis Montagnon. Benjamin died when Susanne was about 15 years old.
+On **9 March 1720** he married [Christine Nerfin](christine-nerfin.md) (daughter of Humbert Nerfin) at Céligny. Their daughter [Jaqueline Suzanne Chenevard](jaqueline-suzanne-chenevard.md) was baptised 26 October 1732 and later married Jean François Louis Montagnon. Benjamin died when **Jaqueline Suzanne** was about 15 years old.
 
 ## Family
 

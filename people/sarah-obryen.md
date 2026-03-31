@@ -49,7 +49,7 @@ All children of Stephen John Roche × Sarah O'Bryen (second marriage):
 
 The O'Bryens of Arran — the **Clan Tiege** (Mac Tiege) — were descended from **Teige Ó Briain**, great-grandson of Brian Boru, from whom they took their name. They had been the temporal lords of the Aran Islands in Galway Bay "time out of man's memory," protecting Galway harbour against pirates in exchange for an annual tribute of wine from the Tribes of Galway.
 
-A certificate dated **30 March 1588**, signed by the Mayor and Bailiffs of Galway and addressed to Queen Elizabeth, attests the lineage of **Murrough mac Toirdelbach Ó Briain** (fl. 1575–1588), chief of the Clan Tiege. Burke's describes Murrough as "the sixth progenitor of the said John" — Sarah's father. The original document was held by her son **James Roche of Cork**.
+A certificate dated **30 March 1588**, signed by the Mayor and Bailiffs of Galway and addressed to Queen Elizabeth, attests the lineage of **Murrough mac Toirdelbach Ó Briain** (fl. 1575–1588), chief of the Clan Tiege. Burke describes Murrough as "the sixth progenitor of the said John" — Sarah's father. The original document was held by her son **James Roche of Cork**.
 
 After losing the Aran Islands to the O'Flahertys in the 1580s, the chiefs of Clan Tiege retired to County Limerick. By the time Sarah married Stephen Roche, her father John was at Moyvanine and Clounties — the last recorded chief. See [John O'Bryen](john-obryen.md) for the full descent.
 

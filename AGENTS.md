@@ -4,7 +4,7 @@
 
 | Asset | Role |
 |-------|------|
-| `family-tree.json` | **Single source of truth** for structured tree (web app). **Schema 2:** topology + rich optional fields (vitals, `alsoKnownAs`, `personPage`, etc.). **Master workflow:** edit JSON and/or `people/*.md` (`treeId`), then run `scripts/sync_family_tree_json.py` (vault + existing JSON win; GEDCOM only fills gaps). Wrapper: `scripts/merge_gedcom_vitals_into_family_tree.py`. Validate: `scripts/validate_family_tree_json.py`. |
+| `family-tree.json` | **Single source of truth** for structured tree (web app). **Schema 2:** topology + rich optional fields (vitals, `alsoKnownAs`, `personPage`, etc.). **Master workflow:** edit JSON and/or `people/*.md` (`treeId`), then run `scripts/sync_family_tree_json.py` (vault overwrites, existing JSON preserved for unset fields). Validate: `scripts/validate_family_tree_json.py`. |
 | `people/*.md` | One file per person; YAML frontmatter + prose + links. Planning: `ancestor-coverage-list.md`, `person-pages-extension-plan.md`. |
 | `ancestor-tracker.md` | **Ahnentafel ancestor chart** rooted at Archer/Sloan Lewis. Tracks every known direct-ancestor slot using standard genealogical numbering (father = 2n, mother = 2n+1). Coverage summary table, per-generation listings, surname index by region, and prioritised dead-ends list. Currently 302 known ancestors across 17 generations. See **Research approach** below. |
 | `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `stories/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/`, `sources/corpus/`, and `family-tree.json` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
@@ -54,7 +54,7 @@ Offline web/PDF captures live in **`sources/corpus/<slug>/`** (`mirror.html`, `o
 | Dir | Holds |
 |-----|--------|
 | `media/` | Evidence: albums, collections, docs inbox, publications, charts, military PDFs, loose images. See `index.md` **Media layout**. |
-| `archive/` | GEDCOM, Gramps/RM exports, sun charts, personal/non-article files. **Not** canonical tree. Catalog: `archive/index.md`. |
+| `archive/` | Gramps/RM exports, sun charts, legacy GEDCOM (no longer used by sync), personal files. **Not** canonical tree. Catalog: `archive/index.md`. |
 | `sources/legacy-index.md` | Catalog of pre-reorg paths if still referenced. |
 
 Do **not** commit or edit `.venv/`, `__pycache__/`, `.mypy_cache/`.
@@ -64,8 +64,7 @@ Do **not** commit or edit `.venv/`, `__pycache__/`, `.mypy_cache/`.
 Optional tooling—not a substitute for reading corpus files and editing prose.
 
 - `validate_family_tree_json.py` — validate `family-tree.json` (schema 1 or 2).
-- `sync_family_tree_json.py` — apply `people/*.md` (`treeId`) + keep hand-edited JSON fields; optional GEDCOM gap-fill (`--no-gedcom-fill` to skip). Person YAML `ignore_gedcom_death` / `ignore_gedcom_birth` suppresses GEDCOM gap-fill for those vitals and clears stale death fields when death is narrative-unknown.
-- `merge_gedcom_vitals_into_family_tree.py` — calls `sync_family_tree_json.py` (backward-compatible name).
+- `sync_family_tree_json.py` — apply `people/*.md` (`treeId`) + keep hand-edited JSON fields. Vault-only (no GEDCOM). `merge_gedcom_vitals_into_family_tree.py` is a backward-compatible wrapper.
 - `ingest_source.py` — corpus PDF/web ingest + provenance (`--no-page-markers` to skip `<!-- page N -->` breaks). **Web:** optional `--public-url` when `--url` is a fetch-only endpoint (e.g. MediaWiki REST HTML); **403** from Wikimedia falls back to **curl** for the same URL.
 - `batch_pdf_extract.py` — run `ingest_source.py pdf` for each row in `sources/corpus/pdf-ingest-manifest.yaml` (use `.venv/bin/python scripts/batch_pdf_extract.py`).
 - `ingest_all_media_pdfs.py` — ingest `media/**/*.pdf` not yet in corpus; **default easy tier** skips charts, NYPL scan folders `…/1/`–`9/`, and PDFs **>12 MiB**; `--all` for full sweep (`--dry-run`, `--limit N`).
@@ -104,7 +103,7 @@ The `/files/[...path]` API route uses `fs.readFileSync` at runtime, which works 
 
 | Dir | Why |
 |-----|-----|
-| `archive/` | PPTX sun charts, Gramps exports, GEDCOM, personal files — not needed by the web app |
+| `archive/` | PPTX sun charts, Gramps exports, legacy GEDCOM, personal files — not needed by the web app |
 | `manual/` | Unprocessed inbox scans — file into `media/` or `sources/corpus/` before they appear on the site |
 | `web/node_modules/`, `web/.next/` | Build artifacts |
 | `web/public/files/` | Generated at build time by the prebuild copy script |
@@ -172,7 +171,7 @@ Treat **reader-facing genealogy** as distinct from **working vault** material.
 | **Prose & engagement** | `people/*.md`, `topics/*.md`, `stories/*.md` | Continuous prose: clear biographical or topical writing that a non-genealogist can read. Lead with people, places, and story; explain context in plain language. |
 | **Working vault** | `research/`, `manual/`, `index.md`, `sources/*.md` cards, `sources/corpus/*` extracts | Operational detail is fine: tables, filing codes, wishlists, GEDCOM/file-level provenance, sync notes, “next steps.” |
 
-When **people/topics/stories** need machine or export identifiers (`treeId`, GEDCOM `@I…@`, FamilySearch IDs), keep them in YAML frontmatter and/or a compact **Evidence** / **Sources & identifiers** section so the main body reads like an article, not a database dump.
+When **people/topics/stories** need machine or export identifiers (`treeId`, FamilySearch IDs), keep them in YAML frontmatter and/or a compact **Evidence** / **Sources & identifiers** section so the main body reads like an article, not a database dump.
 
 ## Conventions
 

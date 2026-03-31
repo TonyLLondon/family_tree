@@ -28,7 +28,8 @@ Husband of [Marguerite Emilie Stump](marguerite-emilie-stump.md). A Baltic noble
 ## Evidence
 
 - [Estonian Biographical Center — Stump family Tallinn research (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — marriage, residence in Valmiera and Limbazi.
-- **treeId** **I562**, family **F207**: .
+- **treeId** **I562**, family **F207** — same as YAML frontmatter.
+
 ## Open questions
 
 - **Birth date, birthplace, death date** — all unknown.

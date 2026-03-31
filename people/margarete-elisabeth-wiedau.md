@@ -29,7 +29,7 @@ Mother of [Johan Jacob Eylandt](johan-jacob-eylandt.md). She shares **Hageri** a
 
 ## Evidence
 
-- **treeId** **I305**, **F143**: .
+- **treeId** **I305**, **F143**— same as YAML / family-tree.json
 
 ## Open questions
 

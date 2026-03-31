@@ -36,7 +36,7 @@ Her parents in the working tree are [Johan Jacob Eylandt](johan-jacob-eylandt.md
 
 ## Evidence
 
-- **treeId** **I299**, **F140**, **F142**: .
+- **treeId** **I299**, **F140**, **F142**— same as YAML / family-tree.json
 - **Web:** named as **M.: Emilie, geb. Eylandt** on son Eugen’s [BBLD entry](https://bbld.de/GND1173663347); summary table [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md).
 - **Press (Emilie death, not found in DIGAR text layer):** Full-issue *Revalsche Zeitung* PDF **14 Jul 1872** was searched **2026-03-23** via embedded text for **Familien-Nachrichten**, **Eylandt**, **Emilie**, **Erbe** — **no** matching line; see [DIGAR URL sheet](../sources/erbe-baltic-digar-newspaper-urls.md).
 - MyHeritage URL in **`@S43@`** on Emilie’s block.

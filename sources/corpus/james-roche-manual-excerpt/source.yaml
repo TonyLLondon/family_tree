@@ -1,0 +1,18 @@
+id: james-roche-manual-excerpt
+title: James Roche — biographical excerpt (manual PDF)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-31T09:16:19Z'
+  sha256: 22008b488eae594471f5c7b5cae1cb97a7c523a32ca7550bb401a56df8b132f1
+  bytes: 598469
+  media_reference: media/docs/james-roche-manual-excerpt.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  transcription: transcription.md
+  media_reference: media/docs/james-roche-manual-excerpt.pdf
+  reference: reference.md
+  page_images:
+    - pages/page-01.png
+    - pages/page-02.png
+    - pages/page-03.png

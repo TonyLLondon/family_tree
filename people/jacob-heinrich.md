@@ -26,4 +26,4 @@ children:
 
 ## Open questions
 
-- Marriage date from **Sulgen** parish book (import row lacks **MARR** block in slice used).
+- Marriage date from **Sulgen** parish book (not present in the tree excerpt used here).

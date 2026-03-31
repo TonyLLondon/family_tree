@@ -21,7 +21,7 @@ Mother of [Matthew Esmond White](matthew-esmond-white.md). **Ballynastra** as bi
 - **~1760** — Born **Ballynastra**.
 - **1824** — Died (place thin in short extract—fill from register or full tree pull).
 
-She married [Mathew White](mathew-white.md) in **1772**, producing at least **Matthew** and a second child present only in the working tree until a `people/` page exists.
+She married [Mathew White](mathew-white.md) in **1772**, producing at least **Matthew** and a second child **who appears in the working tree but does not yet have a `people/` page exists.
 
 ## Family
 

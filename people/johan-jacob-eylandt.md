@@ -39,7 +39,7 @@ His parents in the working tree are [Carl Gustav Eylandt](carl-gustav-eylandt.md
 
 ## Evidence
 
-- **treeId** **I302**, **F142**, **F143**: .
+- **treeId** **I302**, **F142**, **F143**— same as YAML / family-tree.json
 - MyHeritage URL in **`@S43@`** (“Johann Jakob Eylandt born Eiland”).
 
 ## Open questions

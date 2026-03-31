@@ -25,4 +25,4 @@ children:
 
 ## Open questions
 
-- Marriage date—**F57** has no **MARR** block in slice used here.
+- Marriage date—**F57** has no **MARR** block in the tree excerpt used here.

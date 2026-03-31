@@ -9,4 +9,9 @@ fetches:
   media_reference: media/docs/Old Limerick Journal - Casteleyn Thomas Roche Limerick and Rotterdam 1736-1788 pp34-36.pdf
 files:
   pdf_markdown: extracted.pdf.md
+  transcription: transcription.md
   media_reference: media/docs/Old Limerick Journal - Casteleyn Thomas Roche Limerick and Rotterdam 1736-1788 pp34-36.pdf
+  page_images:
+    - pages/page-01.png
+    - pages/page-02.png
+    - pages/page-03.png

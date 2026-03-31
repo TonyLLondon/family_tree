@@ -17,7 +17,7 @@ Catharina Elisabeth Nabgten was the wife of [Hanns Erbe](hanns-erbe.md) and moth
 ## Life
 
 - **~1684** — Born (year only in the working tree).
-- **Death** — flagged without detail in the slice used here.
+- **Death** — flagged without detail in the tree excerpt used here.
 
 ## Family
 

@@ -11,7 +11,7 @@ children:
 
 # Amelia (surname unknown)
 
-**Amelia**—forename only in the MyHeritage extract; no surname field—married [Morgan](morgan.md) and was mother of [Mary Morgan](mary-morgan.md). No vitals in that slice.
+**Amelia**—forename only in the MyHeritage extract; no surname field—married [Morgan](morgan.md) and was mother of [Mary Morgan](mary-morgan.md). No vitals in that tree excerpt.
 
 ## Family
 

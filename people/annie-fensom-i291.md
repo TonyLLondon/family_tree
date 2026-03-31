@@ -23,7 +23,7 @@ By the **1911 Census** Annie had already left home at **eighteen**, boarding on 
 
 The **1921 Census** (19 June) found her at **4 Bratton Street, Islington** with Alfred and three children — Alfred Charles (8), Joseph David (6), and Annie (4). She was a **brush maker** at the **Star Brush Company**, Eden Grove, Holloway — her workplace within walking distance of the Fensom family's Lower Holloway streets.
 
-The **1939 Register** found her with Alfred at **37 Oldershaw Road, Lower Holloway** — just north of the Holloway Road, back in the Fensom family's home territory. Her occupation was **printers maker** — fashioning parts for presses in an industry that had fed **Exmouth Market** and **Clerkenwell** for generations. She died about **February 1972**, still in Islington, nearly **eighty** years a Londoner of one postal temperament.
+The **1939 Register** found her with Alfred at **37 Oldershaw Road, Lower Holloway** — just north of the Holloway Road, back in the Fensom family's home territory. Her occupation was **printers maker** — fashioning parts for presses in an industry that had fed **Exmouth Market** and **Clerkenwell** for generations. She died about **February 1972**, still in Islington, nearly **eighty** years a Londoner within a few Islington streets.
 
 **Line narrative:** [The Spencers and the Evans](../stories/evans-islington-clerkenwell.md).
 

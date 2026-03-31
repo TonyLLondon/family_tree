@@ -54,7 +54,7 @@ Vittoria survived Simeone by six years (he died 1896; she died 1902) and witness
 ## Wishlist
 
 - **Kotor marriage record** of parents (Casimiro Carobbi × Marianna Billicich, 5 May 1820) — image and ingest into `sources/corpus/`.
-- **DAZD Sv. Šime parish registers** — baptism records for all eight Boara children; would resolve the three unnamed.
+- **DAZD Sv. Šime parish registers** — baptism records for all eight Boara children.
 - **Vittoria's death record** — civil or parish death registration to confirm the 11 Dec 1902 date and burial location.
 - See also: [sources/wishlist/boara-carobbi-zara.md](../sources/wishlist/boara-carobbi-zara.md).
 

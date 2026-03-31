@@ -16,11 +16,11 @@ siblings:
 
 # Sarah Moran
 
-Daughter of [William Moran](william-moran-i235.md) and [Hannah Walton](hannah-walton-i234.md) — **F116**. No birth date in the current JSON slice.
+Daughter of [William Moran](william-moran-i235.md) and [Hannah Walton](hannah-walton-i234.md) — **F116**. Birth date not in the tree excerpt used here.
 
 ## Evidence
 
-- **Tree id:** — child of household **F116** ([William Moran](william-moran-i235.md) × [Hannah Walton](hannah-walton-i234.md)); **treeId** **I236** matches YAML.
+- **Tree id:** **I236**; child of household **F116** ([William Moran](william-moran-i235.md) × [Hannah Walton](hannah-walton-i234.md)); **treeId** **I236** matches YAML.
 - **Site:** [Ancestor chart](/chart) — same compiled graph as the vault.
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 

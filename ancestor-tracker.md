@@ -9,7 +9,7 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 | Slots | Quarter | Surnames | Region | Deepest gen |
 |-------|---------|----------|--------|-------------|
 | 2→… | **Lewis paternal** | Lewis, Cushen, Griffiths, Morgan, Mainwaring, Stephen, Davies | Wales | 8 (William Lewis, Briton Ferry) |
-| 3→… | **Evans maternal** | Evans, Cerpa, Pérez, González, Escobar, Fensom, Coolbear, Knecht, Glasscock, Pope, Martin | London / Chile | 5 (Chilean grandparents) |
+| 3→… | **Evans maternal** | Evans, Cerpa, Pérez, González, Escobar, Fensom, Coolbear, Knecht, Glasscock, Pope, Martin, Webb, Willoughby | London / Chile / Kent | 5 (Chilean grandparents) |
 | 4→… | **Lewis pat. → Zerauschek** | Zerauschek, Addobbati, Boara, Carobbi, Guerino, Coltelli, Arcolin, Herenda | Dalmatia / Venice | **16** (Pietro Addobbati, 1495) |
 | 5→… | **Lewis pat. → Stump** | Stump, Montagnon, Chenevard, Haag, Jung, Erbe, Eylandt, Burgess, Saginian | Switzerland / Thurgau / Estonia / Iran | 13 (Blaesi Stump, ~1565) |
 | 5→… | **Lewis pat. → White/Roche** | White, Roche, O'Shea, Enright, Knight, Esmonde, Ankettle, Burke, Stackpole, O'Moore | Ireland / India | 12 (John Roche, 1600) |
@@ -26,7 +26,7 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 | 3 | Great-grandparents | 8 | 8 | 100% | 8 | 8 |
 | 4 | 2×great | 16 | 16 | **100%** | 14 | 16 |
 | 5 | 3×great | 32 | 24 | 75% | 24 | 23 |
-| 6 | 4×great | 64 | 44 | 69% | 38 | 34 |
+| 6 | 4×great | 64 | 48 | **75%** | 41 | 38 |
 | 7 | 5×great | 128 | 45 | 35% | 32 | 30 |
 | 8 | 6×great | 256 | 41 | 16% | 27 | 30 |
 | 9 | 7×great | 512 | 38 | 7% | 19 | 26 |
@@ -38,7 +38,7 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 | 15 | 13×great | 32,768 | 1 | <1% | 1 | 1 |
 | 16 | 14×great | 65,536 | 1 | <1% | 1 | 1 |
 
-**Total: 302 known ancestors across 17 generations.**
+**Total: 306 known ancestors across 17 generations.**
 
 **Deepest confirmed:** Pietro ADDOBBATI (b. 1495, Gen 16, Dalmatia) · Blaesi STUMP (b. ~1565, Gen 13, Thurgau) · John Roche (b. 1600, Gen 12, Ireland) · Robert MACKERETH (Gen 14, Westmorland).
 
@@ -130,7 +130,7 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 | 55 | Clara | **WEBB** | ~1854–? | Chelsfield, Kent | Martin | I597 | [page](people/clara-webb-i597.md) |
 | 56–63 | — | — | — | Chile (Cerpa/González/Pérez/Escobar parents) | — | — | — |
 
-## Generation 6 — 4×great-grandparents (69% — 44 of 64)
+## Generation 6 — 4×great-grandparents (75% — 48 of 64)
 
 | # | Name | Surname | Dates | Location | Branch | ID | Page |
 |---|------|---------|-------|----------|--------|-----|------|
@@ -166,7 +166,22 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 | 93 | Norry | **BUCKLEY** | 1821–1893 | Cork, Ireland | O'Shea | I575 | — |
 | 94 | — | **ENRIGHT** | ?–? | Ireland | O'Shea | I120 | [page](people/enright.md) |
 | 95 | Catherine | — | ~1832–? | Ireland | O'Shea | I121 | [page](people/catherine.md) |
-| 96–111 | *(Evans/Fensom/Coolbear/Martin — see Gen 7 for known slots)* | | | | | |
+| 96 | Alfred | **EVANS** | ~1821–? | Shoreditch, London | Evans | I434 | [page](people/alfred-evans-i434.md) |
+| 97 | Catherine | **BURTON** | ~1824–? | Clapton, Hackney, London | Evans | I608 | [page](people/catherine-burton-evans-i608.md) |
+| 98 | George | **KNECHT** | ~1829–1898 | Hesse-Nassau, Germany | Evans | I579 | [page](people/george-knecht.md) |
+| 99 | Eliza Sarah | **GLASSCOCK** | ~1828–? | Bethnal Green, London | Evans | I580 | [page](people/eliza-knecht.md) |
+| 100 | David | **FENSOM** | ~1836–? | Luton, Hertfordshire | Fensom | I294 | [page](people/david-fensom-i202.md) |
+| 101 | Georgiana | **GRINDLAY** | 1835–1921 | Camden Town, Middlesex | Fensom | I295 | — |
+| 102 | George | **POPE** | ~1825–1887 | Cranbrook, Kent | Fensom | I296 | — |
+| 103 | Sarah Ann | **QUAIFE** | ~1828–? | Cranbrook, Kent | Fensom | I297 | — |
+| 104 | George | **COOLBEAR** | ~1823–? | Hazeleigh, Essex | Coolbear | I107 | — |
+| 105 | Ann | **GRIDLEY** | ~1825–? | Tillingham, Essex | Coolbear | I108 | — |
+| 106 | James | **NEWCOMB** | ~1823–? | Essex | Coolbear | I184 | [page](people/james-newcomb-i184.md) |
+| 107 | Susannah | **SOUTH** | ~1824–? | Essex | Coolbear | I185 | [page](people/susannah-south-i185.md) |
+| 108 | Samuel | **MARTIN** | ~1805–? | Bexley, Kent | Martin | I650 | [page](people/samuel-martin-i650.md) |
+| 109 | Marianne | **MARTIN** | ?–? | Kent | Martin | I651 | [page](people/marianne-martin-i651.md) |
+| 110 | Richard | **WEBB** | ~1827–? | Eynsford, Kent | Martin | I652 | [page](people/richard-webb-i652.md) |
+| 111 | Charlotte | **WILLOUGHBY** | ~1832–? | St Paul's Cray, Kent | Martin | I653 | [page](people/charlotte-willoughby-i653.md) |
 
 ## Generations 7–16 — deep ancestry (known slots only)
 
@@ -441,6 +456,9 @@ Listed by family branch. Only known slots shown.
 | **GLASSCOCK** | Gen 9 | 5 | Stepney / Bethnal Green |
 | **COOLBEAR** | Gen 8 | 6 | James, Purleigh |
 | **EVANS** | Gen 6 | 6 | William, Islington |
+| **MARTIN** | Gen 6 | 1 | Samuel, Bexley |
+| **WEBB** | Gen 6 | 1 | Richard, Eynsford |
+| **WILLOUGHBY** | Gen 6 | 1 | Charlotte, St Paul's Cray |
 
 ### Estonia / Germany
 
@@ -483,7 +501,7 @@ Listed by family branch. Only known slots shown.
 | 56–63 | **CERPA / GONZÁLEZ / PÉREZ / ESCOBAR** | Gen 5 | Parents of Francisco Cerpa and Ana González; parents of Francisco Pérez and Zoraida Escobar — Chilean civil records |
 | 84–85 | **BOTTIN / BAUDOUIN** | Gen 6 | No dates or details — French civil records |
 | 92–95 | **SHEA / BUCKLEY / ENRIGHT** | Gen 6 | Cork parish records |
-| 96–111 | **EVANS / FENSOM / KNECHT / GLASSCOCK / POPE / COOLBEAR / MARTIN** | Gen 7–9 | London & Essex parish records — partially traced |
+| 96–111 | **EVANS / FENSOM / KNECHT / GLASSCOCK / POPE / COOLBEAR / MARTIN / WEBB** | Gen 7–9 | All Gen 6 slots now filled; deeper Gen 7+ gaps remain for London, Essex & Kent parish records |
 
 ### Unconfirmed links
 

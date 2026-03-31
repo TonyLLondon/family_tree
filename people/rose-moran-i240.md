@@ -16,11 +16,11 @@ siblings:
 
 # Rose Moran
 
-Daughter of [William Moran](william-moran-i235.md) and [Hannah Walton](hannah-walton-i234.md) — **F116**. No vitals in the current JSON slice.
+Daughter of [William Moran](william-moran-i235.md) and [Hannah Walton](hannah-walton-i234.md) — **F116**. Vitals not in the tree excerpt used here.
 
 ## Evidence
 
-- **Tree id:** — child of household **F116** ([William Moran](william-moran-i235.md) × [Hannah Walton](hannah-walton-i234.md)); **treeId** **I240** matches YAML.
+- **Tree id:** **I240** — child of household **F116** ([William Moran](william-moran-i235.md) × [Hannah Walton](hannah-walton-i234.md)); **treeId** **I240** matches YAML.
 - **Site:** [Ancestor chart](/chart) — same compiled graph as the vault.
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 

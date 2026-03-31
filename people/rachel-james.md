@@ -46,7 +46,7 @@ By the [1871 census](../sources/1871-census-aberavon-lewis-lewis.md) Rachel gave
 - **treeId** **I428**; union **F189** with [Lewis Lewis](lewis-lewis.md).
 - The working tree’s maiden name **James** is **wrong** — GRO MarriageFinder confirms **Stephen(s)**; baptism register confirms **Stephen**.
 - That working tree’s census references (RG09/4046, RG10/5388, RG11/5308) belong to a **different Lewis Lewis family** at Gelligaer. Actual 1871 reference: **RG10/5424**, Aberavon.
-- Death: working-tree stub marks **DEAT Y** without date/place.
+- Death: working-tree stub marks **death flagged** without date/place.
 
 ## Open questions
 

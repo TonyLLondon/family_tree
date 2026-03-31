@@ -36,4 +36,4 @@ children:
 ## Open questions
 
 - **Neath** to **Merthyr** move before **1825**.
-- Parents not attached in slice used here.
+- Parents not attached in the tree excerpt used here.

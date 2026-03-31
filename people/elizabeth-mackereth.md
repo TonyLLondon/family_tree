@@ -30,4 +30,4 @@ Elizabeth Mackereth was the wife of [William Grave](william-grave.md) and mother
 
 ## Open questions
 
-- Siblings of Elizabeth under the same parental household—if any—mirror from the working tree.
+- Siblings of Elizabeth under the same parental household—if any—can be copied from the working tree when sibling pages are added.

@@ -9,7 +9,6 @@ Usage:
     python scripts/fmp_search.py deaths   --first david --last lewis --year 1925
     python scripts/fmp_search.py search   --first peter --last martin --year 1857
     python scripts/fmp_search.py detail   GBC/1861/0001222452
-    python scripts/fmp_search.py image    GBC/1841/0327/0574
     python scripts/fmp_search.py newspapers --names "fulvia lewis"
     python scripts/fmp_search.py newspapers --names "thomas cushen" --from 1860 --to 1890 --facets
 
@@ -36,7 +35,6 @@ import re
 import sys
 import textwrap
 import time
-from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
@@ -46,36 +44,13 @@ _last_request_time: float = 0.0
 
 # ── Endpoints ────────────────────────────────────────────────────────────────
 GRAPHQL_URL = "https://www.findmypast.co.uk/titan/marshal/graphql"
-SEARCH_TRANSCRIPT_URL = "https://search.findmypast.co.uk/record/GetTranscriptFromImage"
 IIIF_BASE = "https://www.findmypast.co.uk/titan/marshal/obscura/api/image"
 
 # ── Paste fresh tokens here (or export in your shell) ──────
-FMP_MEMBER_ID = "411284818"
-FMP_REFRESH_TOKEN = "S0RKUk1kUmFMdzNmLWhNUFZTeGtqN25aLTJEMjJzM3JENXZNRE5CTllTTnNS"
 FMP_TILE_SESSION = "12067ec6a8e46100"
 
-FMP_ID_TOKEN = (
-    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9"
-    ".eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9kYXRlX29mX2JpcnRoIjoiIiwiaHR0cHM6Ly93"
-    "d3cuZmluZG15cGFzdC5jb20vbG9naW5zX2NvdW50Ijo0LCJodHRwczovL3d3dy5maW5kbXlwYXN0Lm"
-    "NvbS9vcmlnaW5hbGx5X3JlZ2lzdGVyZWQiOiIyMDIwLTA4LTE1VDAwOjM4OjA4LjAzOFoiLCJnaXZl"
-    "bl9uYW1lIjoiVG9ueSIsImZhbWlseV9uYW1lIjoiTGV3aXMiLCJuaWNrbmFtZSI6InRvbnkubGV3aXMi"
-    "LCJuYW1lIjoiVG9ueSBMZXdpcyIsInBpY3R1cmUiOiJodHRwczovL3NlY3VyZS5ncmF2YXRhci5jb20v"
-    "YXZhdGFyLzZjNTQ4ZDNiMzFjNGY2YmNiMTUzMWQ0OGIxNTk4OTFlP3M9NDgwJnI9cGcmZD1odHRwcyUz"
-    "QSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGdGwucG5nIiwidXBkYXRlZF9hdCI6IjIwMjYt"
-    "MDMtMjhUMTY6Mjc6MjQuNzU4WiIsImVtYWlsIjoidG9ueS5sZXdpc0BnbWFpbC5jb20iLCJlbWFpbF92"
-    "ZXJpZmllZCI6ZmFsc2UsImlzcyI6Imh0dHBzOi8vYXV0aC5maW5kbXlwYXN0LmNvbS8iLCJhdWQiOiJ0"
-    "WVk2TmZxckQ2WkhIUm1uUlNZazFLcFlJMDV2R25ScCIsInN1YiI6ImF1dGgwfGFjY291bnR8NDExMjg0"
-    "ODE4IiwiaWF0IjoxNzc0Nzc1NzQ2LCJleHAiOjE3NzQ3Nzc1NDYsInNpZCI6InJoY19tYkRZd2c4dy00"
-    "cFliel9VMTFqaDJfeTdhV1o2In0.a-OPuk8utDywAU6DQ9lUMD8tcOQxoumm-WchZH3lcmENnomqjNdX"
-    "7kvqHb9Ha55JPvt-q0KvB6UKGOFM-ZnlyPTvwLTunlqhuUbEui9BnxeKixc2wWH-AGzbpZ2_QmVevlks"
-    "c7jWQhXzAjoCLbQgYq6aSvSBWlP9RdHXkGar-A2A6ya5ucWNJx-KahZd07ZPwTYmOdClfOj7rLffXC1Pm"
-    "SRYThJ5Kh17JB4QqbiJ487kGbnWk2P5afBSRrPU451SFqvfPHnu4dJEDx1ougJKMYhrbxsqi5JB1EH5U_"
-    "69X6QxUdIvu18hb7EzSOQ1XQrzBGiUIJB_4ZLwjsyKgOSHMw"
-)
-
 FMP_ACCESS_TOKEN = (
-    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9.eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9tZW1iZXJfaWQiOjQxMTI4NDgxOCwiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vY29ubmVjdGlvbiI6ImFjY291bnQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9nbG9iYWxfbWVtYmVyX2lkIjoiRk1QfDQxMTI4NDgxOCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL2V4cGVyaW1lbnRhdGlvbl90cmFja2luZ19rZXkiOiIyNzU5MTQwZS1mNTU0LTRkM2UtOThiYS0xNjU0NmFiMjZlMmQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9wdWJsaWNfaWQiOiJlYjQ1NDAzZS1hY2ExLTRjOGEtOWExZS00MjQ3ODg5MmE1Y2YiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9pZCI6IjExNjciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9ncm91cCI6IkV2ZXJ5dGhpbmciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9tb250aHMiOjEsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdGF0ZSI6IkFDVElWRSIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl90eXBlIjoiRlJFRV9UUklBTCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdG9yZSI6IlJFQ1VSTFkiLCJpc3MiOiJodHRwczovL2F1dGguZmluZG15cGFzdC5jb20vIiwic3ViIjoiYXV0aDB8YWNjb3VudHw0MTEyODQ4MTgiLCJhdWQiOlsiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vYXBpIiwiaHR0cHM6Ly9mbXAtcHJvZHVjdGlvbi5ldS5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNzc0ODAxNTcxLCJleHAiOjE3NzQ4MDMzNzEsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhenAiOiJ0WVk2TmZxckQ2WkhIUm1uUlNZazFLcFlJMDV2R25ScCJ9.WAcuKSwNI6SD9GgKZvFgJ_DVsg9Z_iSwXzVK_6zErwMJG1Af2QFTkMI-usnl4W2GC8UkNcCL-9TspxWqSQFRnQ5YIUQNHGEEItNmgehwJ8y2kE-iHE1YXTgqeN6dJSo9pQI-0FVDVOT69IbW3TlCwUW6i2IYVgd2H0lEQMpRNUa62g44DrHY3CaFYgKF9ET33uJx-SLHH2yDbndoohdEcLh97pLDo970Vb4WmVIBvm3cHpjg9Nkc-hsn2cOLqPyuvJapu7D6s-r6erUnYOlMI8EUAjOXKNgWgmMWs-F6wKFi9LpjMh_Nel9JljKerPTadteCZUxtmktJECE73DAQ0A"
+    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9.eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9tZW1iZXJfaWQiOjQxMTI4NDgxOCwiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vY29ubmVjdGlvbiI6ImFjY291bnQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9nbG9iYWxfbWVtYmVyX2lkIjoiRk1QfDQxMTI4NDgxOCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL2V4cGVyaW1lbnRhdGlvbl90cmFja2luZ19rZXkiOiIyNzU5MTQwZS1mNTU0LTRkM2UtOThiYS0xNjU0NmFiMjZlMmQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9wdWJsaWNfaWQiOiJlYjQ1NDAzZS1hY2ExLTRjOGEtOWExZS00MjQ3ODg5MmE1Y2YiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9pZCI6IjExNjciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9ncm91cCI6IkV2ZXJ5dGhpbmciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9tb250aHMiOjEsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdGF0ZSI6IkFDVElWRSIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl90eXBlIjoiRlJFRV9UUklBTCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdG9yZSI6IlJFQ1VSTFkiLCJpc3MiOiJodHRwczovL2F1dGguZmluZG15cGFzdC5jb20vIiwic3ViIjoiYXV0aDB8YWNjb3VudHw0MTEyODQ4MTgiLCJhdWQiOlsiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vYXBpIiwiaHR0cHM6Ly9mbXAtcHJvZHVjdGlvbi5ldS5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNzc0OTUwNDg4LCJleHAiOjE3NzQ5NTIyODgsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhenAiOiJ0WVk2TmZxckQ2WkhIUm1uUlNZazFLcFlJMDV2R25ScCJ9.VI4EPjUv7yozqnv8jmFJKoDJW-1ynMJ-NOw99ZnRCqT7Es-2sWzG5V2dLL8DAPPLQIcE50X9joDkMXnGNi9xMM61dCtUXExV2NpCDbksVwc9YvAZcDjVHxrithnRkGcHOi3Y3jUuSgqHJZiIIaFi-mdEHSzMvhDSzQFX6MeCP3x2E-VzS_Oh5DwX_tjqB3s36-gEdJZ4lpfpPcoY9XhO5ZiOyNGcJ-Ddn24s2EXJhmTj9FsOAKvCsj_vi-cuNbhAa__aSS_lgzESDsLCetEXZMdEZ1YAM4MJOioSSOrlu7-HDoRAyX_gbmKvqSnzRYgRXlp0mVGtP67CeG5fD8YHgQ"
 )
 
 _BROWSER_UA = (
@@ -216,54 +191,6 @@ def _graphql_post(payload: dict) -> dict:
         return result
     except HTTPError as exc:
         err_body = exc.read().decode(errors="replace")[:4000]
-        if exc.code == 401:
-            print("ERROR: 401 Unauthorized — token has expired. Paste a fresh one.", file=sys.stderr)
-            sys.exit(1)
-        print(f"ERROR: HTTP {exc.code} — {err_body}", file=sys.stderr)
-        sys.exit(1)
-
-
-def _search_get(path: str, params: dict) -> list | dict:
-    """GET from search.findmypast.co.uk REST API."""
-    _rate_limit()
-    url = f"{path}?{urlencode(params)}"
-    member_id = FMP_MEMBER_ID
-    id_token = FMP_ID_TOKEN
-    refresh_token = FMP_REFRESH_TOKEN
-    cookie = (
-        f"fmp_access_token={_token()}; "
-        f"fmp_id_token={id_token}; "
-        f"fmp_refresh_token={refresh_token}; "
-        f"logged-in-user={member_id}; "
-        f"_attru={member_id}; "
-        f"sp=50a61222-bb4d-44ec-becd-d5f253536c53; "
-        f"IsLibrary=false"
-    )
-    req = Request(
-        url,
-        headers={
-            "Authorization": f"Bearer {_token()}",
-            "Cookie": cookie,
-            "Referer": "https://search.findmypast.co.uk/",
-            "User-Agent": _BROWSER_UA,
-            "X-Requested-With": "XMLHttpRequest",
-        },
-    )
-    try:
-        with urlopen(req) as resp:
-            raw = resp.read()
-            text = raw.decode(errors="replace")
-            if not text.strip():
-                print(f"ERROR: Empty response from {url}", file=sys.stderr)
-                sys.exit(1)
-            try:
-                return json.loads(text)
-            except json.JSONDecodeError:
-                print(f"ERROR: Non-JSON response from {url}", file=sys.stderr)
-                print(text[:500], file=sys.stderr)
-                sys.exit(1)
-    except HTTPError as exc:
-        err_body = exc.read().decode(errors="replace")[:500]
         if exc.code == 401:
             print("ERROR: 401 Unauthorized — token has expired. Paste a fresh one.", file=sys.stderr)
             sys.exit(1)
@@ -796,34 +723,6 @@ def run_detail(args: argparse.Namespace) -> None:
     print()
 
 
-# ── Image transcript (REST) ─────────────────────────────────────────────────
-
-def run_image(args: argparse.Namespace) -> None:
-    """Fetch all transcribed people on a census image page."""
-    image_id = args.image_id
-    data = _search_get(SEARCH_TRANSCRIPT_URL, {
-        "ImageId": image_id,
-        "OriginalId": image_id,
-    })
-
-    if args.json:
-        json.dump(data, sys.stdout, indent=2)
-        print()
-        return
-
-    if not data:
-        print(f"No records found for image {image_id}")
-        return
-
-    print(f"── Image {image_id} — {len(data)} people ──\n")
-    for person in data:
-        name = f"{person.get('FirstName', '')} {person.get('LastName', '')}".strip()
-        yob = person.get("YearOfBirth", "?")
-        record_id = person.get("Id", "")
-        print(f"  {name:30s}  b. ~{yob:4s}  [{record_id}]")
-    print()
-
-
 # ── CLI ──────────────────────────────────────────────────────────────────────
 
 def _add_search_args(sp: argparse.ArgumentParser) -> None:
@@ -863,7 +762,6 @@ def main() -> None:
               %(prog)s deaths   --first david --last lewis --year 1925 --place merthyr
               %(prog)s census   --first david --last lewis --year 1881 --place aberdare --born 1857 --born-offset 2
               %(prog)s search   --first peter --last martin --year 1857 --variants
-              %(prog)s image    GBC/1841/0327/0574
         """),
     )
     parser.add_argument("--json", action="store_true", help="Dump raw JSON response")
@@ -904,10 +802,6 @@ def main() -> None:
     dp = sub.add_parser("detail", help="Fetch full transcript for a record ID")
     dp.add_argument("record_id", help="Record ID from search results (e.g. GBC/1861/0001222452)")
     dp.set_defaults(func=run_detail)
-
-    ip = sub.add_parser("image", help="List all people on a census image page")
-    ip.add_argument("image_id", help="Image ID from search results (e.g. GBC/1841/0327/0574)")
-    ip.set_defaults(func=run_image)
 
     args = parser.parse_args()
     args.func(args)

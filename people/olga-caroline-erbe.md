@@ -47,7 +47,7 @@ Parents: Hermann Eberhard Erbe; Emilie Ida Eylandt. Brother (vault page): [Eugen
 
 **Tree id:**
 - **Tree id:** **I141** — marriage union **F70**; parents’ union **F140**. Child rows match [Jean Jacque Stump](jean-jacque-stump.md), [Arthur Roger Stump](arthur-roger-stump.md), [Marguerite Emilie Stump](marguerite-emilie-stump.md), [Antoinette Stump](antoinette-stump.md), and [Étienne Stump](etienne-stump.md). MyHeritage / Geni blocks under **`@S43@`** on Hermann and Emilie — secondary until microfilm check.
-- if hand-edited after import.
+
 
 ## Open questions
 

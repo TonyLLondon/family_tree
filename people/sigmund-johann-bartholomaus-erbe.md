@@ -18,14 +18,14 @@ Great-grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md). The working tr
 
 ## Life
 
-- **7 November 1746** — Birth date in working tree (place field empty in the lines read here).
-- Marriage and death: union row exists in the working tree; **death date** was not filled in the snippet inspected—pull the full individual block when copying to `sources/corpus/` or when imaging Thuringian registers.
+- **7 November 1746** — Birth date in working tree (place field empty in the structured tree).
+- Marriage and death: union row exists in the working tree; **death date** was not filled in the tree extract—pull the full individual block when copying to `sources/corpus/` or when imaging Thuringian registers.
 
 ## Family
 
 - Parents: [Georg Christian Erbe](georg-christian-erbe.md); [Catharia Dorothea Korber](catharia-dorothea-korber.md).
 - Wife: [Johanna Magdalena Schultz](johanna-magdalena-schultz.md).
-- Son: [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md); further **CHIL** rows on the same unions in the working tree.
+- Son: [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md); further child rows on the same unions in the working tree.
 
 ## Evidence
 

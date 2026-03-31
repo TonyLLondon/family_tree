@@ -27,7 +27,7 @@ Wife of [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md) 
 
 - Parents: [Johann Andreas Schultz](johann-andreas-schultz.md); [Anna Magdalena](anna-magdalena.md).
 - Husband: [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md).
-- Children: [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md); further **CHIL** rows in the working tree.
+- Children: [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md); further child rows in the working tree.
 
 ## Evidence
 

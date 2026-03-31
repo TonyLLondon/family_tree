@@ -12,7 +12,7 @@ children:
 
 **Pietro de Adobatis**—*civis Bergomi*, citizen of Bergamo—is the fountainhead Sabalich and the 1745 genealogical testimonial place at the head of the line read in the Major church that September day. The year 1495 is not a birthday cake; it is the earliest anchor the notaries’ attestations could reach when they stitched six generations forward to the brothers who would gain Zara’s citizenship in 1733.
 
-Here he stands as father of Joannes Aloysious in the tree machine built from bulk imports; no spouse is named in that slice, which may reflect loss in transmission rather than bachelorhood.
+Here he stands as father of Joannes Aloysious in the tree machine built from bulk imports; no spouse is named in that tree excerpt, which may reflect loss in transmission rather than bachelorhood.
 
 ## Family
 

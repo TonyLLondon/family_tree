@@ -10,7 +10,7 @@ children:
 
 # Anna Christina (Schittmar ascendance)
 
-**treeId** **I311** appears as **WIFE** in **F147** with **CHIL** linking [Anna Christina Schittmar](anna-christina-schittmar.md) (**treeId** **I307**)—**no HUSB** line in **F147** in the working tree, so **I307**’s father is unknown in this file. **ABT 1730** birth; **DEAT Y** without detail.
+**treeId** **I311** appears as **WIFE** in **F147** with **CHIL** linking [Anna Christina Schittmar](anna-christina-schittmar.md) (**treeId** **I307**)—**no HUSB** line in **F147** in the working tree, so **I307**’s father is unknown in this file. **ABT 1730** birth; **death flagged** without detail.
 
 ## Family
 

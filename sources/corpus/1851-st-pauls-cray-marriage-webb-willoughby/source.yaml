@@ -1,0 +1,14 @@
+title: "Richard Webb × Charlotte Willoughby marriage, St Paul's Cray, 7 Jun 1851"
+kind: web
+remote:
+  webpage_url: "https://www.findmypast.co.uk/transcript?id=R_849370149"
+provenance:
+  dataset: "England Marriages 1538-1973"
+  provider: "FamilySearch via FindMyPast"
+  record_id: "R_849370149"
+  batch_number: "I01258-1"
+people:
+  - id: I652
+    role: groom
+  - id: I653
+    role: bride

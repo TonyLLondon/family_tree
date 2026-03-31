@@ -47,7 +47,7 @@ The Benson and Brathwaite families were closely connected: in 1664, George's sis
 - **Second marriage on same page (1664):** Barnard Benson son of Francis Benson (Westmorland) m. [?] Brathwaite "second daughter of William Brathwaite" of Hawkshead — "married in the house of George Brathwaite" on [?] day of the 11th month 1664. Shows the two families were intermarrying.
 - **Children's Quaker births:** All at Swarthmoor Monthly Meeting (TNA RG6/1085), naming father George, mother Agnes. See [George Brathwaite](george-brathwaite.md) for full citations.
 - **Edward's burial (1684):** TNA RG6/1085 — Edward son of George Brathwaite, buried 4th day of the 4th month 1684.
-- **Rebecka Benson burial (1688):** TNA RG6/1085 — Rebecka daughter of Barnad Benson of Longriggs, buried 1688. Confirms Agnes's father's name and location.
+- **Rebecka Benson burial (1688):** TNA RG6/1085 — Rebecka daughter of Barnard Benson of Longriggs, buried 1688. Confirms Agnes's father's name and location.
 - **[?] Benson burial (1689):** TNA RG6/1085 — daughter of Barnard Benson, buried 11th day of the 4th month 1689.
 - **Quaker burial (1694):** TNA RG6/1616, Lancashire Quarterly Meeting — *Agnes the wife of George Brathwaite*, buried 7 Jul 1694, Swarthmoor. Death date 5 Jul 1694. FMP `TNA/RG6/BUR/49370`.
 - **Correction from parish records:** The Hawkshead parish baptisms of "Agnes Benson, father William" (FMP `R_946015326`, `R_946015327`) are NOT this Agnes. The original Quaker register unambiguously names her father as Barnard, not William. A William Benson married to Margaret (with daughter Abigail, 1671) appears in the same Swarthmoor register — a different family.

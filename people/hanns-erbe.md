@@ -19,7 +19,7 @@ Hanns Erbe was the husband of [Catharina Elisabeth Nabgten](catharina-elisabeth-
 ## Life
 
 - **~1680** — Born **Schweinau** (working tree only).
-- **Death** — flagged without date or place in the slice used here.
+- **Death** — flagged without date or place in the tree excerpt used here.
 
 ## Family
 

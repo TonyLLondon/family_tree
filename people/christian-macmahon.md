@@ -12,7 +12,7 @@ children:
 
 # Christian MacMahon
 
-**Christian MacMahon** married [James Stackpole](james-stackpole.md) and was mother of [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md). Her father in the graph is [Denis MacMahon](denis-macmahon.md). No birth or death in the slice used here.
+**Christian MacMahon** married [James Stackpole](james-stackpole.md) and was mother of [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md). Her father in the graph is [Denis MacMahon](denis-macmahon.md). No birth or death in the tree excerpt used here.
 
 ## Family
 
@@ -26,4 +26,4 @@ children:
 
 ## Open questions
 
-- Mother on **Denis**’s union—absent in this working-tree row.
+- **Denis's wife** (Christian's mother) **is not named on union F177 in this working-tree row.**

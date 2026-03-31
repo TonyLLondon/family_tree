@@ -35,7 +35,7 @@ Her parents in the working tree are [Ernst Gottlieb Busse](ernst-gottlieb-busse.
 
 ## Evidence
 
-- **treeId** **I303**, **F142**, **F144**: .
+- **treeId** **I303**, **F142**, **F144**— same as YAML / family-tree.json
 - MyHeritage URL in **`@S43@`**.
 
 ## Open questions

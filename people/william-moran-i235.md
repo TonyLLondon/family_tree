@@ -25,7 +25,7 @@ children:
 
 ## Evidence
 
-- **Tree id:** — **treeId** **I235**, marriage **F116** with [Hannah Walton](hannah-walton-i234.md).
+- **Tree id:** **I235**, marriage **F116** with [Hannah Walton](hannah-walton-i234.md).
 - **Site:** [Ancestor chart](/chart) — same compiled graph as the vault.
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 

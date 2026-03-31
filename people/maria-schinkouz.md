@@ -27,4 +27,4 @@ Maria Schinkouz was the wife of [Biagio Zerauschek](biagio-zerauschek.md) and mo
 ## Open questions
 
 - **Historic Vinodol** (region) vs modern **Vinodol** toponyms — confirm in marriage or child baptism.
-- **Death date** — alive in 1850 but the working tree marks **DEAT Y** without a date; search Zara or Pago death registers.
+- **Death date** — alive in 1850 but the working tree marks **death flagged** without a date; search Zara or Pago death registers.

@@ -25,5 +25,5 @@ When Laurencia was born (1912), Francisco was 30 years old.
 
 ## Open questions
 
-- Civil trail in **Parral / Linares** for birth (~1882), marriage, and children.
+- Paper trail in **Parral / Linares** for birth (~1882), marriage, and children.
 - Person pages for Jorge Antonio (1918) and María Lucinda (1919) when tree IDs exist.

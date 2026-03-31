@@ -17,7 +17,7 @@ children:
 
 # Robert Mackereth
 
-**Robert Mackereth** was born **April 1559** at **Kendal** and died **9 December 1611** there. He married [Margaret Shaw](margaret-shaw.md) **26 January 1585** at **Kendal** and was father of [Elizabeth Mackereth](elizabeth-mackereth.md). The working tree names [Robert Mackereth (senior)](robert-mackereth-2.md) as his father without a mother on that parental union in the working tree.
+**Robert Mackereth** was born **April 1559** at **Kendal** and died **9 December 1611** there. He married [Margaret Shaw](margaret-shaw.md) **26 January 1585** at **Kendal** and was father of [Elizabeth Mackereth](elizabeth-mackereth.md). The working tree names [Robert Mackereth (senior)](robert-mackereth-2.md) as his father with no mother on that parental union.
 
 ## Family
 

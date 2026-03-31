@@ -19,7 +19,7 @@ children:
 
 - **1 Jan 1769** — Christening **Hüttwilen** (import spells **Huettevilen**).
 - **26 Apr 1792** — Marriage **Sulgen**.
-- Birth and death not structured in the slice used here.
+- Birth and death not structured in the tree excerpt used here.
 
 ## Family
 

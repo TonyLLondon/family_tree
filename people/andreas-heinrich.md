@@ -17,7 +17,7 @@ children:
 
 # Andreas Heinrich
 
-**Andreas Heinrich** was christened **23 January 1594** at **Sulgen** (held to match the birth event in the working tree). He married [Anna Epper](anna-epper.md) and was father of [Aenderli Heinrich](aenderli-heinrich.md). He died **28 October 1670** at **Heldswil**, **Thurgau**.
+**Andreas Heinrich** was christened **23 January 1594** at **Sulgen** (per the working tree; confirm against parish register). He married [Anna Epper](anna-epper.md) and was father of [Aenderli Heinrich](aenderli-heinrich.md). He died **28 October 1670** at **Heldswil**, **Thurgau**.
 
 ## Family
 

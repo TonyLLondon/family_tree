@@ -51,4 +51,4 @@ William's father is recorded as "Wm." (William) in the 1614 baptism. The elder W
 | 23 Nov 1611 | Emas Asheburner | `R_855432090` |
 | 3 May 1613 | Jenett Jackson | `R_855432091` |
 
-The 1613 marriage to **Jenett Jackson** best fits the timeline (married May 1613, first known child Oct 1614). At this depth (pre-1600 births) multiple William Braithwaites were active at Hawkshead simultaneously, so the elder William's identity cannot be firmly established from FMP index data alone — original register images would be needed.
+The 1613 marriage to **Jenett Jackson** best fits the timeline (married May 1613, first known child Oct 1614). **In this period** multiple William Braithwaites were active at Hawkshead simultaneously, so the elder William's identity cannot be firmly established from FMP index data alone — original register images would be needed.

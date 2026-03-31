@@ -20,7 +20,7 @@ On **31 March 1906** she married **Joseph Barnes** (I212).
 
 ## Family
 
-Parents: David Fensom (I202) and Georgiana Talbot Grindlay (I203), married 18 June 1861. Siblings: [David William Fensom](annie-fensom-i291.md) (I206, b. Oct 1864), Ellen Fensom (I207), Fanny Fensom (I209), and others. Husband: Joseph Barnes (I212), married 31 March 1906.
+Parents: David Fensom (I202) and Georgiana Talbot Grindlay (I203), married 18 June 1861. Siblings: [David William Fensom](david-fensom-i206.md) (I206, b. Oct 1864), Ellen Fensom (I207), Fanny Fensom (I209), and others. Husband: Joseph Barnes (I212), married 31 March 1906.
 
 ## Evidence
 

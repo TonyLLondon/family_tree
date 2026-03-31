@@ -11,7 +11,7 @@ children:
 
 # Phillis Fox
 
-**Phillis Fox** married [Nicholas Stackpole](nicholas-stackpole.md) and was mother of [James Stackpole](james-stackpole.md). The MyHeritage extract used here gives **Phillis** and **Fox** only—no birth or death in that slice.
+**Phillis Fox** married [Nicholas Stackpole](nicholas-stackpole.md) and was mother of [James Stackpole](james-stackpole.md). The MyHeritage extract used here gives **Phillis** and **Fox** only—no birth or death in that tree excerpt.
 
 ## Family
 

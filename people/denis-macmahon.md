@@ -21,4 +21,4 @@ children:
 
 ## Open questions
 
-- Spouse—**F177** has no wife line in this working-tree row.
+- Spouse: **F177** has no second parent line for Denis in this working-tree excerpt.

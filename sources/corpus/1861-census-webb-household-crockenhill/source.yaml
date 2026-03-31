@@ -1,0 +1,19 @@
+title: "1861 Census — Webb household, Crockenhill, Eynsford, Kent"
+kind: web
+remote:
+  webpage_url: "https://www.findmypast.co.uk/transcript?id=GBC/1861/0003114987"
+provenance:
+  dataset: "1861 England, Wales & Scotland Census"
+  provider: "FindMyPast"
+  archive_ref: "RG 9/469, folio 73, p. 3"
+  record_ids:
+    - "GBC/1861/0003114987"
+    - "GBC/1861/0003114988"
+    - "GBC/1861/0003114989"
+people:
+  - id: I652
+    role: head
+  - id: I653
+    role: wife
+  - id: I597
+    role: daughter

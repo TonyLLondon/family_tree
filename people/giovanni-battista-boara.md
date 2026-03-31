@@ -22,7 +22,7 @@ Giovanni Battista Boara was the husband of [Giovanna Grabar](giovanna-grabar.md)
 - **15 Sep 1780** — Born **Zara, Dalmatia**.
 - **1819** — Occupation **bottegaio di commestibili**, **Zara**.
 - **2 Oct 1819** — Marriage **Zara**.
-- **Death** — flagged without date in the slice used here.
+- **Death** — flagged without date in the tree excerpt used here.
 
 ## Family
 

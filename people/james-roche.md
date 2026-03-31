@@ -20,23 +20,32 @@ He is the only member of this Roche generation for whom a portrait survives: a p
 ## Life
 
 - **30 Dec 1770** — Born **Limerick**, third son of [Stephen John Roche](stephen-john-roche.md) and [Sarah O'Bryen](sarah-obryen.md). His father was the leading Catholic merchant in Limerick; his mother was daughter and co-heir of John O'Bryen of Moyvanine, chief of the O'Bryens of Arran, lineal descendants of Brian Boru.
-- **~1785** — Sent to France at fifteen to train as an *avocat* at the French bar. Two years at the College of Saintes, then returned home before going back to France for seven years.
+- **~1785** — Sent to France at fifteen to train as an *avocat* at the French bar. Two years at the **Catholic college of Saintes in Angoulême** — "an intelligent pupil" whose pronunciation and idiomatic French "were so perfect that he was often mistaken for a native" (Kemmy). Returned home before going back to France for seven years.
 - **5 May 1789** — Witnessed the meeting of the States General at Versailles — the opening act of the French Revolution.
-- **~1790s** — Partnered with brother George in the **wine trade at Bordeaux**. Became acquainted with Vergniaud, Lafayette, and Fontanes. Was "suspect of Robespierre, imprisoned with Malesherbes, and released by Marshal Brune." One of his nieces "nearly took the great Frederic prisoner at Kundendorf." His father's footman married the Theresa of Rosseau.
+- **~1790s** — Partnered with brother George in the **wine trade at Bordeaux**, where a growing Irish community of Lynches, Dillons, MacCarthys, and O'Sullivans thrived. Became acquainted with Vergniaud, Lafayette, and Fontanes. Also befriended **Dr. Joseph Ignace Guillotine**, who had taught at the **Irish College in Bordeaux** — "he was occupied about heads in a different way from that which afterwards obtained his attention," Roche wryly noted (Kemmy). Was "suspect of Robespierre, imprisoned with Malesherbes, and released by Marshal Brune." One of his nieces "nearly took the great Frederic prisoner at Kundendorf." His father's footman married Thérèse of Rousseau.
 - **1793** — Arrested in Paris. Imprisoned for six months. Family property at Bordeaux confiscated. Remained in France three more years attempting to recover the property.
 - **1797** — Left France for London and Dublin.
-- **1800** — Established **Roches' Cork Bank** ("Stephen and James Roche") with eldest brother Stephen in Cork city.
-- **25 May 1820** — **Roches' Cork Bank collapsed** in the Munster Banking Crisis. James sold his great library to pay his creditors. The collapse triggered the wider crisis that destroyed every private bank in Limerick except brother [Thomas](thomas-roche.md)'s.
+- **17 Jun 1800** — Established **Roches' Cork Bank** ("Stephen and James Roche") with eldest brother Stephen, registered with the Commissioners of the Treasury on that date. The bank opened at **Camden Place, Cork**, and prospered rapidly.
+- **~1813–1814** — At its peak the bank's money in public circulation reached approximately **£295,000** (June 1813). James considered himself worth **£80,000–£90,000** in early 1814. But the post-Napoleonic collapse in grain prices hit hard — merchants defaulted and the bank struggled behind the scenes.
+- **25 May 1820** — **Roches' Cork Bank collapsed** in the Munster Banking Crisis. James's **library of more than 4,000 volumes**, collected with care over many years at a cost believed to exceed **£6,000**, was handed to the assignees. The creditors' final meeting (19 Oct 1826) disclosed gross proofs of **£194,238 12s 3½d** and paid a total distribution of **4/- in the pound**. The Limerick Chronicle (5 Aug 1820) recorded the creditors' unusual resolution to present James with selections from his library, "with such selections … as may appear to them most acceptable to his highly literary mind," a testament to the esteem in which his Cork neighbours held him. The collapse triggered the wider crisis that destroyed every private bank in Limerick except brother [Thomas](thomas-roche.md)'s.
 - **1820–1829** — Moved to London. Worked as a **commercial and parliamentary agent** for Cork, Youghal, and Limerick. Contributed frequently to the *Gentleman's Magazine* (for twenty years under "J.R. (Cork)"), *Notes and Queries*, the *Dublin Review*, and the *Cork Magazine*.
 - **July 1829** — Portrait drawn by **Daniel Maclise RA** (pencil and wash; V&A, Forster Collection).
 - **1829** — Retired from business and moved to **Paris**.
 - **1832** — Returned to **Cork**. Appointed **Local Director of the National Bank of Ireland** (Limerick branch). Became a **Justice of the Peace** for Cork city after the Municipal Reform Act.
 - **1838–1841** — Chairman of the **Munster Provincial College Committee**, which lobbied for a university in Munster — ultimately leading to the foundation of Queen's College, Cork (1849). Considered "the Father of Queen's College, Cork."
 - **7 Nov 1849** — Present at the opening of **Queen's College, Cork**.
-- **1850–1851** — Published *Critical and Miscellaneous Essays, by an Octogenarian* (two volumes, privately printed by G. Nash, Cork) — reprinting about forty of his articles.
+- **1850–1851** — Published *Critical and Miscellaneous Essays, by an Octogenarian* (two volumes, privately printed by G. Nash, Cork) — reprinting about forty carefully revised articles. Only **100 copies** were printed, for private circulation among friends. He presented copies to the **Literary Institution of Limerick** with a handwritten inscription: "Presented to the Literary Institution of Limerick by the author, in respectful homage to the city, which he has ever held it an honour and a happiness to own as that of his birth" (23 Nov 1850).
 - **1851** — Full-length oil portrait painted by **James Butler Brenan RHA** (243 × 152 cm), commissioned by public subscription and presented to him at the Cork Library with a Latin inscription honouring his learning and integrity. Hung first at the Athenaeum (later Cork Opera House), then transferred to the Cork Commercial Buildings Company. Now at University College Cork.
 - **1 Apr 1853** — Died at his daughter Marianne's home at **Woburn Place, Glanmire Road, Cork**. As a mark of respect, every public scientific and literary institution in the city closed on the day of his funeral.
 - Buried in the **family vault at St Fin Barre's, Cork**.
+
+### Reputation and critique
+
+James was not universally admired. **Dr. R. R. Madden**, in *Critical Miscellaneous Lives of the United Irishmen* (London, 1860), wrote that the octogenarian author "in many passages in his work panegyrizes Lord Chancellor Clare. The Octogenarian had a hankering after lords, and especially any with whom he had ever been fortunate to scrape an acquaintance." The connection ran deeper than social climbing: Roche's grandfather, [John Lysaght Roche](john-lysaght-roche.md), had been "the first client who paid Fitzgibbon a fee," and Lord Clare — Fitzgibbon's son — "had rendered service to Roche's family and friends, and through his influence was instrumental to the saving of some of the latter 'from the lash and the halter.'"
+
+### French-branch relatives
+
+A letter from **Anne (Grasbois)**, writing from Nemaries, 62 rue de Paris, to her uncle James Roche on **2 March 1853** — just a month before his death — asks for assistance. She complains that her husband has abandoned her and that she may be forced to take a post as a governess to support herself and her children. The letter is preserved in the **James Roche Correspondences, Cork Archives Institute** and is a rare glimpse of the family's French connections in the mid-nineteenth century.
 
 ## Family
 
@@ -50,7 +59,7 @@ He is the only member of this Roche generation for whom a portrait survives: a p
 |---------|--------|
 | **[Thomas Roche](thomas-roche.md)** (~1769–1855) | **Direct ancestor.** Banker, George's Street, Limerick; sole survivor of the 1820 crisis |
 | **William Roche, M.P.** (1775–1850) | Banking partner with Thomas; first Catholic M.P. for Limerick |
-| **Stephen Roche** (fl. 1800s) | Banking partner with James in Cork (collapsed 1820); m. Miss Moylan |
+| **Stephen Roche** (fl. 1800s) | Banking partner with James in Cork (collapsed 1820); m. **Maria Moylan** — sister of James's wife Anne |
 | **George Roche** (~1760–1846) | Half-brother; wine trader in Bordeaux; of Granagh Castle, Kilkenny |
 | **John Roche** (d. 1825) | Took over their father's Dublin business |
 | **Richard Roche** (d. 1803) | Took holy orders |
@@ -69,6 +78,10 @@ He is the only member of this Roche generation for whom a portrait survives: a p
 - [Atlas (London), 9 Apr 1853 — "J.R. of Cork" obituary](../sources/corpus/1853-atlas-james-roche-obituary-fermoy-descent/transcription.md) ([scan p1](../media/docs/1853-atlas-james-roche-obituary-fermoy-brien-boroimhe-p1.png) · [scan p2](../media/docs/1853-atlas-james-roche-obituary-fermoy-brien-boroimhe-p2.png)) — "Mr. Roche was lineally descended from the Viscounts Fermoy… and maternally from the O'Bryens of Arra… Brien Boroimhe."
 - [Southern Reporter, 26 Apr 1855 — Viscount Fermoy correction](../sources/corpus/1855-limerick-examiner-roche-fermoy-claimant/transcription.md) ([scan](../media/docs/1855-southern-reporter-roche-viscount-fermoy-correction.png)) — declares the Limerick/Cork Roches to be "the lineal descendants of the Viscount Fermoy"; Stephen Roche of Ryehill named as lineal male heir with the signet ring.
 
+### Secondary biography
+
+- [Jim Kemmy, "James Roche," *The Old Limerick Journal* (French Edition), pp. 51–53](../sources/corpus/james-roche-manual-excerpt/transcription.md) — full biographical article covering the Bordeaux years, the Cork bank, the 1820 collapse, literary career, and Madden critique.
+
 ### Genealogy
 
 - [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md) — James listed as child of Stephen Roche × Sarah O'Bryen (second marriage).
@@ -77,10 +90,12 @@ He is the only member of this Roche generation for whom a portrait survives: a p
 
 ### Published works
 
-- *Critical and Miscellaneous Essays, by an Octogenarian* (2 vols., Cork: G. Nash, 1850–1851). UCC Boole Library holds a copy presented by the author to William Henry Coppinger.
-- Frequent contributor to the *Gentleman's Magazine* (signed "J.R. (Cork)" for twenty years), *Notes and Queries*, the *Dublin Review*, and the *Cork Magazine*.
+- *Critical and Miscellaneous Essays, by an Octogenarian* (2 vols., Cork: G. Nash, 1850–1851). Only 100 copies printed. UCC Boole Library holds a copy presented by the author to William Henry Coppinger.
+- Frequent contributor to the *Gentleman's Magazine* (signed "J.R. (Cork)" for twenty years), *Notes and Queries*, the *Dublin Review*, the *Cork Journal*, and the *Cork Magazine*.
+- J.C., "James Roche, the Roscoe of Cork," *Journal of the Cork Historical and Archaeological Society*, Vol. XIX (1913) — the principal secondary study of his life.
 
 ### Manuscript collections
 
 - British Library Add MS 19868 and 20715 — two collections of historical research papers.
 - British Library Add MS 45918, ff. 239, 241 — two letters to J. G. Nichols, 1840.
+- **James Roche Correspondences**, Cork Archives Institute, Cork — includes the Anne (Grasbois) letter of 2 March 1853 and other family papers.

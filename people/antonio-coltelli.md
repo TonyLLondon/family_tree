@@ -11,7 +11,7 @@ children:
 
 # Antonio Coltelli
 
-**Antonio Coltelli** was father of [Pietro Paolo Coltelli](pietro-paolo-coltelli.md). Source **@S12@** in the working tree places his death **before 1777**, ahead of his son’s **1777** marriage. No wife line on the parental union in this slice.
+**Antonio Coltelli** was father of [Pietro Paolo Coltelli](pietro-paolo-coltelli.md). Source **@S12@** in the working tree places his death **before 1777**, ahead of his son’s **1777** marriage. No wife line on the parental union in this tree excerpt.
 
 ## Family
 

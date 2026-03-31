@@ -12,7 +12,7 @@ siblings:
 
 # René Cerpa González
 
-Son of [Francisco Cerpa](francisco-cerpa-i348.md) and [Ana González](ana-gonzalez-i349.md) — **F163** (marriage **1909**). Brother of [Miguel Cerpa González](miguel-cerpa-gonzalez-i346.md) and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md). No vitals in the JSON slice.
+Son of [Francisco Cerpa](francisco-cerpa-i348.md) and [Ana González](ana-gonzalez-i349.md) — **F163** (marriage **1909**). Brother of [Miguel Cerpa González](miguel-cerpa-gonzalez-i346.md) and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md). Vitals not in the tree excerpt used here.
 
 ## Evidence
 

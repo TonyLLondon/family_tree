@@ -11,7 +11,7 @@ children:
 
 # Jennett (surname unknown)
 
-**Jennett**—forename only in the working tree—married [John Grave](john-grave.md) and was mother of [William Grave](william-grave.md). No birth or death in that slice.
+**Jennett**—forename only in the working tree—married [John Grave](john-grave.md) and was mother of [William Grave](william-grave.md). No birth or death in that tree excerpt.
 
 ## Family
 

@@ -13,6 +13,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Morpeth Herald, 21 March 1857 — Russia and the Trade with Persia: the Burgess trade route via Trebizond](corpus/1857-morpeth-herald-russia-trade-persia-burgess/) — `1857-morpeth-herald-russia-trade-persia-burgess`
 - [Globe, 13 October 1875 — The Shah of Persia's Physician: Queen grants licence to William Cormick](corpus/1875-globe-william-cormick-shah-physician/) — `1875-globe-william-cormick-shah-physician`
 - [Adrian OSullivan - Espionage and Counterintelligence in Occupied Persia Iran 2015 Palgrave sample](corpus/adrian-osullivan-espionage-and-counterintelligen-3234f4d10b/) — `adrian-osullivan-espionage-and-counterintelligen-3234f4d10b`
+- [Marriage of Ladislas Majewski and Alice Jeanne Olga Bottin, Liège, 12 September 1914](corpus/alice-bottin-majewski-marriage-liege-1914/) — `alice-bottin-majewski-marriage-liege-1914`
 - [La résidence de France en Iran](corpus/ambassade-france-iran-residence/) — `ambassade-france-iran-residence`
 - [Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press](corpus/arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf/) — `arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf`
 - [Julien Bottin — Persian Ministry of War contract (French)](corpus/bottin-contract/) — `bottin-contract`
@@ -65,6 +66,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [William Cormick (short publication PDF)](corpus/william-cormick-monograph-pdf/) — `william-cormick-monograph-pdf`
 - [Sir Denis Wright — Burials and Memorials of the British in Persia](corpus/wright-burials-british-in-persia/) — `wright-burials-british-in-persia`
 - [Sir Denis Wright — Burials and Memorials in Persia (further notes)](corpus/wright-burials-british-in-persia-further-notes/) — `wright-burials-british-in-persia-further-notes`
+- [yaghoubian-2014-ethnicity-identity-nationalism-iran](corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/) — `yaghoubian-2014-ethnicity-identity-nationalism-iran`
 
 ## Zara / Dalmatia / DAZD
 
@@ -134,8 +136,10 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [census for whites in 1911 in ireland](corpus/census-for-whites-in-1911-in-ireland-20007ea92c/) — `census-for-whites-in-1911-in-ireland-20007ea92c`
 - [donnelly-roches-lords-fermoy-1936](corpus/donnelly-roches-lords-fermoy-1936/) — `donnelly-roches-lords-fermoy-1936`
 - [Edward Spencer England, Select Marriages, 1538–1973 - AncestryLibrary.com](corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/) — `edward-spencer-england-select-marriages-15381973-05808ceb11`
+- [The History of Limerick, Ecclesiastical, Civil, and Military](corpus/ferrar-history-limerick-1787/) — `ferrar-history-limerick-1787`
 - [Ireland Census 1901](corpus/ireland-census-1901-34e603dc32/) — `ireland-census-1901-34e603dc32`
 - [irishpapermoney-thomas-roche-limerick-bank](corpus/irishpapermoney-thomas-roche-limerick-bank/) — `irishpapermoney-thomas-roche-limerick-bank`
+- [James Roche — biographical excerpt (manual PDF)](corpus/james-roche-manual-excerpt/) — `james-roche-manual-excerpt`
 - [lewis-topographical-castletown-roche-1837](corpus/lewis-topographical-castletown-roche-1837/) — `lewis-topographical-castletown-roche-1837`
 - [Limerick Chronicle 250th anniversary Docklands 1962 Roche retailer roots Sharon Slater](corpus/limerick-chronicle-250th-anniversary-docklands-1-150c89458e/) — `limerick-chronicle-250th-anniversary-docklands-1-150c89458e`
 - [limerick-chronicle-roche-merchant-family](corpus/limerick-chronicle-roche-merchant-family/) — `limerick-chronicle-roche-merchant-family`
@@ -154,6 +158,19 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 ## Stump / Erbe / Baltic–Swiss
 
+- [1767-baptism-hans-ulrich-stump-erlen](corpus/1767-baptism-hans-ulrich-stump-erlen/) — `1767-baptism-hans-ulrich-stump-erlen`
+- [1792-marriage-ulrich-stump-margaretha-hagg](corpus/1792-marriage-ulrich-stump-margaretha-hagg/) — `1792-marriage-ulrich-stump-margaretha-hagg`
+- [Baptism of Jakob Stump, 15 June 1800, Riedt bei Erlen, Thurgau](corpus/1800-baptism-jakob-stump-erlen/) — `1800-baptism-jakob-stump-erlen`
+- [1807-burial-hans-ulrich-stump-sulgen](corpus/1807-burial-hans-ulrich-stump-sulgen/) — `1807-burial-hans-ulrich-stump-sulgen`
+- [Family register — Jakob Stump and Jeanne Bonigne (Montagnon), Erlen, entry dated 25 Sep 1832](corpus/1832-family-register-jakob-stump-montagnon-erlen/) — `1832-family-register-jakob-stump-montagnon-erlen`
+- [Baptism of Markus Franz Stump, 25 April 1834, Erlen, Thurgau](corpus/1834-baptism-markus-franz-stump-erlen/) — `1834-baptism-markus-franz-stump-erlen`
+- [Marriage of Markus Franz Stump and Olga Caroline Erbe, 22 June 1868, Tallinn Dome Church](corpus/1868-marriage-stump-erbe-tallinn-dome/) — `1868-marriage-stump-erbe-tallinn-dome`
+- [Baptism of Jean Jaque Herman Eugen Stump, 3 August 1869, Tallinn Dome Church](corpus/1869-baptism-jean-jaque-stump-tallinn/) — `1869-baptism-jean-jaque-stump-tallinn`
+- [Baptism of Arthur Roger Stump, 11 April 1871, Tallinn Dome Church](corpus/1871-baptism-arthur-roger-stump-tallinn/) — `1871-baptism-arthur-roger-stump-tallinn`
+- [Baptism of Marguerite Emilie Stump, 31 December 1872, Tallinn Dome Church](corpus/1872-baptism-marguerite-emilie-stump-tallinn/) — `1872-baptism-marguerite-emilie-stump-tallinn`
+- [Baptism of Antoinette Stump, 3 February 1874, Tallinn Dome Church](corpus/1874-baptism-antoinette-stump-tallinn/) — `1874-baptism-antoinette-stump-tallinn`
+- [Burial of Jean Jaque Herman Eugen Stump, 10 May 1874, Tallinn Dome Church](corpus/1874-burial-jean-jaque-stump-tallinn/) — `1874-burial-jean-jaque-stump-tallinn`
+- [Baptism of Étienne Marc Theodore Stump, 6 April 1880, Tallinn Dome Church](corpus/1880-baptism-etienne-stump-tallinn/) — `1880-baptism-etienne-stump-tallinn`
 - [AustriaWiki: Eugen Edmund Erbe](corpus/austria-wiki-eugen-edmund-erbe/) — `austria-wiki-eugen-edmund-erbe`
 - [BBLD: Erbe, Eugen Edmund Eduard (1847-1908)](corpus/bbld-erbe-eugen-edmund-eduard-gnd1173663347/) — `bbld-erbe-eugen-edmund-eduard-gnd1173663347`
 - [BBLD: Erbe, Eugen Karl Eberhard (1897-1965)](corpus/bbld-erbe-eugen-karl-eberhard-gnd1213595010/) — `bbld-erbe-eugen-karl-eberhard-gnd1213595010`
@@ -183,7 +200,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 ## Missions / Bahá'í / Iranian modernity (books)
 
 - [Civil & Military Gazette (Lahore), 14 May 1907 — Gerald Sebastian White, Madras Volunteer Guards commission](corpus/1907-civil-military-gazette-gerald-white-volunteer-guards/) — `1907-civil-military-gazette-gerald-white-volunteer-guards`
-- [Baha'i Talks, Messages and Articles An Italian scientist extols the Báb – one of the very first documentations made by a European of the episode of the Báb – by Ugo R. Giachery](corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/) — `baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb`
+- [Baha'i Talks, Messages and Articles  An Italian scientist extols the Báb  – one of the very first documentations made by a European of the episode of the Báb – by Ugo R. Giachery](corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/) — `baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb`
 - [Christian Mission to Muslims](corpus/christian-mission-to-muslims-fc5eb90f00/) — `christian-mission-to-muslims-fc5eb90f00`
 - [History of the Mission by Rufus Anderson](corpus/history-of-the-mission-by-rufus-anderson-5264293694/) — `history-of-the-mission-by-rufus-anderson-5264293694`
 - [History of the Missions of the american Board of Commissoiners](corpus/history-of-the-missions-of-the-american-board-of-651655d656/) — `history-of-the-missions-of-the-american-board-of-651655d656`
@@ -219,16 +236,38 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 - [Quaker Birth Register: Ann Brathwaite, Swarthmoor, 1663](corpus/1663-quaker-birth-ann-brathwaite-swarthmoor/) — `1663-quaker-birth-ann-brathwaite-swarthmoor`
 - [Quaker Marriage Register: George Brathwaite & Agnes Benson, Swarthmoor, 1666](corpus/1666-quaker-marriage-brathwaite-benson-swarthmoor/) — `1666-quaker-marriage-brathwaite-benson-swarthmoor`
+- [1667-baptism-francois-montagnon](corpus/1667-baptism-francois-montagnon/) — `1667-baptism-francois-montagnon`
 - [Quaker Birth Register: Brathwaite children (Edward, Agnes, Dorothy), Swarthmoor, 1667–1671](corpus/1667-quaker-births-brathwaite-children-swarthmoor/) — `1667-quaker-births-brathwaite-children-swarthmoor`
+- [1670-baptism-elisabet-montagnon](corpus/1670-baptism-elisabet-montagnon/) — `1670-baptism-elisabet-montagnon`
 - [Quaker Burial Register: George Brathwaite (1681), Edward (1684), William (1689), and Benson burials, Swarthmoor](corpus/1681-quaker-burials-brathwaite-swarthmoor/) — `1681-quaker-burials-brathwaite-swarthmoor`
 - [Quaker Burial Register: Agnes Brathwaite (wife of George), Swarthmoor, 1694](corpus/1694-quaker-burial-agnes-brathwaite-swarthmoor/) — `1694-quaker-burial-agnes-brathwaite-swarthmoor`
+- [1720-marriage-register-chenevard-nerfin-celigny](corpus/1720-marriage-register-chenevard-nerfin-celigny/) — `1720-marriage-register-chenevard-nerfin-celigny`
+- [1732-baptism-jaqueline-suzanne-chenevard-celigny](corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/) — `1732-baptism-jaqueline-suzanne-chenevard-celigny`
+- [1735-baptism-margaretha-jung-sulgen](corpus/1735-baptism-margaretha-jung-sulgen/) — `1735-baptism-margaretha-jung-sulgen`
+- [1742-baptism-hans-conrad-haag-hüttwilen](corpus/1742-baptism-hans-conrad-haag-hüttwilen/) — `1742-baptism-hans-conrad-haag-hüttwilen`
+- [1742-burial-jeane-marechal-montagnon-aubonne](corpus/1742-burial-jeane-marechal-montagnon-aubonne/) — `1742-burial-jeane-marechal-montagnon-aubonne`
+- [1743-baptism-margaretha-freyenmuth-wigoltingen](corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/) — `1743-baptism-margaretha-freyenmuth-wigoltingen`
+- [1745-burial-francois-louis-montagnon-aubonne](corpus/1745-burial-francois-louis-montagnon-aubonne/) — `1745-burial-francois-louis-montagnon-aubonne`
+- [1747-burial-benjamin-chenevard-celigny](corpus/1747-burial-benjamin-chenevard-celigny/) — `1747-burial-benjamin-chenevard-celigny`
+- [1761-family-register-montagnon-chenevard](corpus/1761-family-register-montagnon-chenevard/) — `1761-family-register-montagnon-chenevard`
+- [1764-baptism-henri-samuel-montagnon-aubonne](corpus/1764-baptism-henri-samuel-montagnon-aubonne/) — `1764-baptism-henri-samuel-montagnon-aubonne`
+- [1765-marriage-haag-freyenmuth](corpus/1765-marriage-haag-freyenmuth/) — `1765-marriage-haag-freyenmuth`
+- [1767-family-register-dumartheray-borel](corpus/1767-family-register-dumartheray-borel/) — `1767-family-register-dumartheray-borel`
+- [1772-burial-jean-michel-montagnon](corpus/1772-burial-jean-michel-montagnon/) — `1772-burial-jean-michel-montagnon`
+- [1775-baptism-jeanne-francoise-dumartheray](corpus/1775-baptism-jeanne-francoise-dumartheray/) — `1775-baptism-jeanne-francoise-dumartheray`
+- [1778-burial-jean-francois-montagnon-aubonne](corpus/1778-burial-jean-francois-montagnon-aubonne/) — `1778-burial-jean-francois-montagnon-aubonne`
 - [Marriage of William Lewis and Mary David, 10 September 1780, Briton Ferry](corpus/1780-marriage-william-lewis-mary-david-briton-ferry/) — `1780-marriage-william-lewis-mary-david-briton-ferry`
+- [1786-burial-j-louis-montagnon-aubonne](corpus/1786-burial-j-louis-montagnon-aubonne/) — `1786-burial-j-louis-montagnon-aubonne`
 - [Baptism of William Stephen, 9 May 1790, Llandybie](corpus/1790-baptism-william-stephen-llandybie/) — `1790-baptism-william-stephen-llandybie`
 - [Baptism of David Lewis, 7 January 1794, Briton Ferry](corpus/1794-baptism-david-lewis-briton-ferry/) — `1794-baptism-david-lewis-briton-ferry`
+- [1803-burial-hans-conrad-haag-hüttwilen](corpus/1803-burial-hans-conrad-haag-hüttwilen/) — `1803-burial-hans-conrad-haag-hüttwilen`
+- [1805-baptism-jeanne-benigne-montagnon](corpus/1805-baptism-jeanne-benigne-montagnon/) — `1805-baptism-jeanne-benigne-montagnon`
+- [1807-burial-margaretha-jung-sulgen](corpus/1807-burial-margaretha-jung-sulgen/) — `1807-burial-margaretha-jung-sulgen`
 - [Banns/Marriage of Henry Prichard and Gwenllian Harries, 27 November 1807, Neath St Thomas](corpus/1807-marriage-henry-prichard-gwenllian-harries-neath/) — `1807-marriage-henry-prichard-gwenllian-harries-neath`
 - [Baptism of Mary Prichard, 4 July 1808, Neath St Thomas](corpus/1808-baptism-mary-prichard-neath/) — `1808-baptism-mary-prichard-neath`
 - [Marriage of David Lewis and Ann Davies, 23 May 1812, Briton Ferry](corpus/1812-marriage-david-lewis-ann-davies-briton-ferry/) — `1812-marriage-david-lewis-ann-davies-briton-ferry`
 - [Baptism of Lewis Lewis, Briton Ferry, 14 March 1813](corpus/1813-baptism-lewis-lewis-briton-ferry/) — `1813-baptism-lewis-lewis-briton-ferry`
+- [1817-burial-jean-louis-montagnon](corpus/1817-burial-jean-louis-montagnon/) — `1817-burial-jean-louis-montagnon`
 - [Marriage of Thomas Morgan and Charlotte Davies, 5 July 1823, Aberystruth](corpus/1823-marriage-thomas-morgan-charlotte-davies-aberystruth/) — `1823-marriage-thomas-morgan-charlotte-davies-aberystruth`
 - [Parish Baptism — Keziah Morgan, 4 Jul 1824, Aberystruth](corpus/1824-baptism-keziah-morgan-aberystruth/) — `1824-baptism-keziah-morgan-aberystruth`
 - [Baptism of Rachel Stephen, Llanarthne, 9 October 1825](corpus/1825-baptism-rachel-stephen-llanarthne/) — `1825-baptism-rachel-stephen-llanarthne`
@@ -271,6 +310,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [A Contradiction — Letter from George Coolbear](corpus/1877-essex-newsman-coolbear-contradiction-letter/) — `1877-essex-newsman-coolbear-contradiction-letter`
 - [Gallant Rescue from Drowning — George Coolbear](corpus/1877-essex-newsman-coolbear-drowning-rescue/) — `1877-essex-newsman-coolbear-drowning-rescue`
 - [Free Baths / The Sweepers — Paddington Times, 11 May 1878](corpus/1878-paddington-times-knecht-sweepers-baths/) — `1878-paddington-times-knecht-sweepers-baths`
+- [1879-baptism-francisco-antonio-perez-parral](corpus/1879-baptism-francisco-antonio-perez-parral/) — `1879-baptism-francisco-antonio-perez-parral`
 - [1881 Census — Alfred Evans household, 6 Paradise Place, Islington](corpus/1881-census-alfred-evans-household-islington/) — `1881-census-alfred-evans-household-islington`
 - [1881 Census — Coolbear household, Bambridge Road, All Saints, Maldon, Essex](corpus/1881-census-coolbear-household-maldon/) — `1881-census-coolbear-household-maldon`
 - [1881 Census — David Cushin household, 31 Pond Street, Caeharris](corpus/1881-census-david-cushin-pond-street-caeharris/) — `1881-census-david-cushin-pond-street-caeharris`
@@ -284,6 +324,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Fire at Bell Inn, Silver-street — George Coolbear discovers blaze](corpus/1883-chelmsford-chronicle-coolbear-fire-bell-inn/) — `1883-chelmsford-chronicle-coolbear-fire-bell-inn`
 - [Larceny — Thomas Cushen, tramping labourer](corpus/1884-merthyr-express-thomas-cushen-larceny/) — `1884-merthyr-express-thomas-cushen-larceny`
 - [GRO Death Index — Thomas Cushen, Q3 1889, Merthyr Tydfil](corpus/1889-death-thomas-cushen-merthyr/) — `1889-death-thomas-cushen-merthyr`
+- [1890-birth-abraham-cerpa-chanco](corpus/1890-birth-abraham-cerpa-chanco/) — `1890-birth-abraham-cerpa-chanco`
 - [1891 Census of England & Wales — Glan Road, Aberdare (David Lewis household, schedule 41)](corpus/1891-census-aberdare-david-lewis-household-rg12-4444/) — `1891-census-aberdare-david-lewis-household-rg12-4444`
 - [1891 Census — Coolbear household, St Peter, Maldon, Essex](corpus/1891-census-coolbear-household-maldon/) — `1891-census-coolbear-household-maldon`
 - [1891 Census — David Cushen household, Dowlais, Merthyr Tydfil](corpus/1891-census-david-cushen-household-dowlais/) — `1891-census-david-cushen-household-dowlais`
@@ -291,13 +332,16 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [1891 Census — Fensom household, 11 Eden Grove, Islington](corpus/1891-census-fensom-household-eden-grove-islington/) — `1891-census-fensom-household-eden-grove-islington`
 - [1891 Census — Martin household, Orpington, Kent](corpus/1891-census-martin-household-orpington/) — `1891-census-martin-household-orpington`
 - [Maldon County Court — Coolbear greens dispute](corpus/1891-chelmsford-chronicle-coolbear-maldon-county-court/) — `1891-chelmsford-chronicle-coolbear-maldon-county-court`
+- [1895-death-laureano-cerpa-orellana-chanco](corpus/1895-death-laureano-cerpa-orellana-chanco/) — `1895-death-laureano-cerpa-orellana-chanco`
 - [Looking Ahead — Paddington Times, 22 October 1897](corpus/1897-paddington-times-knecht-subsidence-chichester/) — `1897-paddington-times-knecht-subsidence-chichester`
 - [Paddington Times, 30 September 1898 — Death and obituary of George Knecht, Paddington vestryman](corpus/1898-paddington-times-george-knecht-death-obituary/) — `1898-paddington-times-george-knecht-death-obituary`
+- [1900-death-cerpa-villegas-chanco](corpus/1900-death-cerpa-villegas-chanco/) — `1900-death-cerpa-villegas-chanco`
 - [1901 Census of England & Wales — Glen Road, Aberdare (David John Lewis household, schedule 242)](corpus/1901-census-aberdare-david-john-lewis-household-rg13-5035/) — `1901-census-aberdare-david-john-lewis-household-rg13-5035`
 - [1901 Census — David Cushion [Cushen] household, 15 Pond Street, Dowlais](corpus/1901-census-david-cushion-household-pond-street-dowlais/) — `1901-census-david-cushion-household-pond-street-dowlais`
 - [1901 Census — Fensom household, 65 Georges Road, Islington](corpus/1901-census-fensom-household-georges-road-islington/) — `1901-census-fensom-household-georges-road-islington`
 - [1901 Census — Georgina Fensom, institution, Islington](corpus/1901-census-georgina-fensom-institution-islington/) — `1901-census-georgina-fensom-institution-islington`
 - [1901 Census — South/Coolbear household, Little Totham, Essex](corpus/1901-census-south-coolbear-household-little-totham/) — `1901-census-south-coolbear-household-little-totham`
+- [1902-birth-maria-zulema-cerpa-palma-chanco](corpus/1902-birth-maria-zulema-cerpa-palma-chanco/) — `1902-birth-maria-zulema-cerpa-palma-chanco`
 - [A Builder's Claim — Paddington Times, 15 May 1903](corpus/1903-paddington-times-knecht-builders-claim/) — `1903-paddington-times-knecht-builders-claim`
 - [A Couple of Deserters — Thomas Cushen and John Keefe](corpus/1906-merthyr-express-thomas-cushen-deserter/) — `1906-merthyr-express-thomas-cushen-deserter`
 - [GRO Death Index — David Cushen, Q3 1907, Merthyr Tydfil](corpus/1907-death-david-cushen-merthyr-tydfil/) — `1907-death-david-cushen-merthyr-tydfil`
@@ -334,9 +378,11 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Las mujeres víctimas de la dictadura prisioneras en el Estadio Nacional: Conózca en exclusiva los nombres de 405 detenidas en el principal coliseo deportivo en 1973](corpus/cambio21-405-mujeres-estadio-nacional-2018/) — `cambio21-405-mujeres-estadio-nacional-2018`
 - [Estad(i)o Nacional de Chile: más de 400 mujeres detenidas](corpus/cctt-mujeres-estadio-nacional-2018/) — `cctt-mujeres-estadio-nacional-2018`
 - [fa-wikipedia-vaqaye-ettefaqiye](corpus/fa-wikipedia-vaqaye-ettefaqiye/) — `fa-wikipedia-vaqaye-ettefaqiye`
+- [family-register-louis-montagnon-dumartheray](corpus/family-register-louis-montagnon-dumartheray/) — `family-register-louis-montagnon-dumartheray`
+- [gap-chile-mujeres-estadio-nacional-2018](corpus/gap-chile-mujeres-estadio-nacional-2018/) — `gap-chile-mujeres-estadio-nacional-2018`
 - [gbopera-2009-telefoni-e-rose-sirmione-callas](corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/) — `gbopera-2009-telefoni-e-rose-sirmione-callas`
 - [Ordine della Milizia Aurata o dello Speron d'Oro — Wikipedia compilation (2009)](corpus/golden-spur-order-wikipedia-2009/) — `golden-spur-order-wikipedia-2009`
-- [The History of the Town and County of the Town of Galway, p. 207 — O'Brien of Arran](corpus/hardiman-history-galway-1820/) — `hardiman-history-galway-1820`
+- [hardiman-history-galway-1820](corpus/hardiman-history-galway-1820/) — `hardiman-history-galway-1820`
 - [Hungaricana — Kriegs-Marine / Schematismus 1909, pp. 169–172 (Landwehr brigade excerpt)](corpus/hungaricana-kriegsmarine-schematismus-1909-pp169-172/) — `hungaricana-kriegsmarine-schematismus-1909-pp169-172`
 - [Hungaricana — Militär-Almanach/Schematismus 1887, pp. 471–472 (officer list excerpt)](corpus/hungaricana-militar-almanach-1887-pp471-472/) — `hungaricana-militar-almanach-1887-pp471-472`
 - [irishpapermoney-crisis-of-1820](corpus/irishpapermoney-crisis-of-1820/) — `irishpapermoney-crisis-of-1820`
@@ -357,8 +403,10 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Obituary notices for Samuel Lewis (d. 7 Aug 1967)](corpus/samuel-lewis-obituary-notices-1967/) — `samuel-lewis-obituary-notices-1967`
 - [Register of Marriages — St David's Church, Islington, 1912 (pages 6–7, entry 13)](corpus/st-davids-islington-marriage-evans-fensom-1912/) — `st-davids-islington-marriage-evans-fensom-1912`
 - [Nómina de Personas Reconocidas como Víctimas — Comisión Nacional sobre Prisión Política y Tortura (Valech I)](corpus/valech-i-nomina-victimas/) — `valech-i-nomina-victimas`
+- [Nómina de Prisioneros Políticos y Torturados — Comisión Asesora para la Calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura (Valech II, 2011)](corpus/valech-ii-nomina-victimas/) — `valech-ii-nomina-victimas`
 - [vallancey-collectanea-vol1-obrien-arran](corpus/vallancey-collectanea-vol1-obrien-arran/) — `vallancey-collectanea-vol1-obrien-arran`
 - [Per Maria Callas questa villa è una catapecchia](corpus/villa-callas-catapecchia-magazine-c1959/) — `villa-callas-catapecchia-magazine-c1959`
 - [wikipedia-murrough-mac-toirdelbach-clan-tiege-aran](corpus/wikipedia-murrough-mac-toirdelbach-clan-tiege-aran/) — `wikipedia-murrough-mac-toirdelbach-clan-tiege-aran`
 - [wikipedia-viscount-fermoy](corpus/wikipedia-viscount-fermoy/) — `wikipedia-viscount-fermoy`
 - [Calypso — cigarette packet collector database (zigsam.at)](corpus/zigsam-at-calypso-cigarette-packs/) — `zigsam-at-calypso-cigarette-packs`
+

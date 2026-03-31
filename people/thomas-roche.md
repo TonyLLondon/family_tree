@@ -38,7 +38,7 @@ Thomas was also active in Limerick public life for decades: he seconded **Daniel
 - **1813** — Calling Catholic meetings in Limerick alongside brother William (*Limerick Gazette*, 6 Aug 1813).
 - **25 May 1820** — **Munster Banking Crisis**: Roches' Cork Bank (brothers Stephen and James) collapsed, triggering a chain of failures. Maunsell's Bank in Limerick fell. **Thomas held the Limerick bank steady** — the only bank in Limerick to survive. Legal separation from the Cork bank proved decisive.
 - **1824** — Thomas Roche & Co. listed as the **only bank** in Limerick (Pigott's Trade Directory).
-- **1825** — Bank acquired by **The Provincial Bank**. Thomas became **Local Director** of the Limerick branch. Seconded a resolution by **Daniel O'Connell** at the Munster Catholic Provincial Meeting (*Southern Reporter*, 27 Oct 1825; *Belfast News-Letter*, 8 Nov 1825).
+- **1 Nov 1825** — Bank acquired by **The Provincial Bank**, which opened its Limerick branch on that date. Thomas became **Local Director** of the new branch. Seconded a resolution by **Daniel O'Connell** at the Munster Catholic Provincial Meeting (*Southern Reporter*, 27 Oct 1825; *Belfast News-Letter*, 8 Nov 1825).
 - **1826** — Thomas proposes resolutions at a meeting chaired by brother William (*Limerick Chronicle*, 22 Jul 1826).
 - **1828** — Chairs a Limerick Catholic meeting (*Limerick Chronicle*, 21 Jun 1828). Birth of a child recorded (*Limerick Evening Post*, 29 Jul 1828).
 - **1832** — Described as father-in-law of **Daniel Ryan Keane, Esq., Barrister, Commissioner of Bankruptcy** (*Warder and Dublin Weekly Mail*, 26 Sep 1832) — confirming Burke's: daughter Helen m. D.R. Kane.
@@ -71,7 +71,7 @@ Thomas was also active in Limerick public life for decades: he seconded **Daniel
 |---------|-------|--------|
 | **Thomas Roche** | ~1768–1855 | **Banker**, George's Street, Limerick (this page) |
 | **William Roche, M.P.** | 1775–1850 | Banking partner; first Catholic M.P. for Limerick; died unmarried and childless. Daniel O'Connell: "the only man in Ireland from whom he would not demand a pledge." |
-| **Stephen Roche** | fl. 1800s | Banker in Cork (Roches' Cork Bank, with James); m. Miss Moylan of Cork |
+| **Stephen Roche** | fl. 1800s | Banker in Cork (Roches' Cork Bank, with James); m. **Maria Moylan** of Cork — sister of James's wife Anne |
 | **[James Roche](james-roche.md)** | 1770–1853 | Wine exporter (Bordeaux); imprisoned during the French Revolution; banker in Cork (with Stephen); "the Roscoe of Cork"; author. Only sibling with a [surviving portrait](../media/context/ireland-roche/james-roche-maclise-1829.jpg) (Maclise, 1829, V&A) |
 | **John Roche** | d. 1825 | Took over father's business in Dublin |
 | **Richard Roche** | d. 1803 | Took holy orders |
@@ -105,6 +105,7 @@ Thomas was also active in Limerick public life for decades: he seconded **Daniel
 - [irishpapermoney.com — The Crisis of 1820: 200th Anniversary](../sources/corpus/irishpapermoney-crisis-of-1820/extracted.web.md) — timeline of the 1820 Munster Banking Crisis.
 - [limerickslife.com — Who was William Roche](../sources/corpus/limerickslife-william-roche-mp/extracted.web.md) — bank timeline, Hanging Gardens, William's political career.
 - [Limerick Chronicle / Limerick Leader — Roche merchant family roots](../sources/corpus/limerick-chronicle-roche-merchant-family/extracted.web.md) — Sharon Slater (2018): full Chronicle obituary of Thomas, family structure, biography of brother James.
+- [Jim Kemmy, "James Roche," *The Old Limerick Journal* (French Edition)](../sources/corpus/james-roche-manual-excerpt/transcription.md) — Provincial Bank takeover dated 1 November 1825; Limerick bank "one of the four to survive the calamitous year of 1820."
 - [Topic: The Bank of Thomas and William Roche](../topics/bank-of-thomas-and-william-roche.md) — full narrative.
 
 ### Burke's 1833

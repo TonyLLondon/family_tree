@@ -64,7 +64,7 @@ Cornelius died on **12 June 1929** at the **Little Sisters of the Poor**, Cork C
 - [Mary's birth certificate](../media/docs/Ireland%20birth%20certificate%20Mary%20O%27Shea%201893-02-19%20Monkstown%20parents%20Cornelius%20O%27Shea%20Catherine%20Enright%20copy%201967.jpg) — civil registration naming **Cornelius O'Shea, National Teacher, Castle Terrace, Monkstown** and **Catherine O'Shea, formerly Enright**; informant Catherine Enright (grandmother); copy certified 12 April 1967.
 - **[1905 Teachers' Census](../sources/corpus/teachers-census-1905/)** — NAI/ED/PCO/10/1/29 (O'Keane–O'Sullivan); Cornelius is **absent** from the O'Shea entries (pages 15–17), confirming he was no longer a serving national teacher by March 1905.
 - [Ancestry profile printout — Cornelius O'Shea, 1856–1929](../media/docs/Cornelius%20O%27Shea%20Ancestry%20profile%201856-1929.jpg) — Ancestry.com profile page listing birth, baptism, marriage, 1911 residence, death, burial, parents, siblings, spouse, and children. Source: printed screenshot scanned July 2021.
-- **treeId** **I118**: .
+- **treeId** **I118** — family unions **F59**, **F60**.
 
 ## Open questions
 

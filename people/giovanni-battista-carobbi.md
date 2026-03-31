@@ -24,5 +24,5 @@ children:
 
 ## Open questions
 
-- Mother on **F32** when wife line is present in the working tree.
+- Recover the mother's name from **F32** when the working tree records a wife line.
 - Full transcription of **1745** baptism image.

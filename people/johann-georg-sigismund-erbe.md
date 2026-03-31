@@ -28,7 +28,7 @@ Grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md). The working tree giv
 - Occupation line in the working tree: **Shulinspektor in Paernu, Tit. Rath.,** — a **school inspector** or **synodal school supervisor** role (German *Schulinspektor*) in **Pärnu**, plus a **titular councilor** (*Titularrath*) style rank common in Russian service.
 - **28 October 1841** — Died **Pernau**, **Kreis Pernau**, **Livland** (Russian-period wording in the import).
 
-He married [Caroline Sophie Heimberger](caroline-sophie-heimberger.md). Their son [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) is the direct line to Olga; the Geni block also names **Karl Wilhelm, Mathilde Ulrike Petersenn, Carl Ferdinand**, and **Alexander Georg** among the children—cross-walk to **CHIL** rows on the same union in the working tree before writing sibling articles.
+He married [Caroline Sophie Heimberger](caroline-sophie-heimberger.md). Their son [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) is the direct line to Olga; the Geni block also names **Karl Wilhelm, Mathilde Ulrike Petersenn, Carl Ferdinand**, and **Alexander Georg** among the children—cross-walk to child rows on the same union in the working tree before writing sibling articles.
 
 ## Family
 

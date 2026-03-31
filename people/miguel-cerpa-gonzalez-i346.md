@@ -28,7 +28,7 @@ children:
 
 Parents: [Francisco Cerpa](francisco-cerpa-i348.md) and [Ana Delia González](ana-gonzalez-i349.md). The same 1912 birth index page records his sister [Juana de Dios Cerpa González](juana-de-dios-cerpa-gonzalez.md) (entry 82, Año 1912), suggesting they were twins or born in the same calendar year. Brothers with person pages: [René Cerpa González](rene-cerpa-gonzalez-i353.md) and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md).
 
-He died **1966** (import / tree; civil register citation still to file).
+He died **1966** (per compiled tree / tree excerpt; civil register citation still to file).
 
 ## Evidence
 
