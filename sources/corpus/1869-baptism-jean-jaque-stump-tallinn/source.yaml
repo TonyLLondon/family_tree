@@ -1,0 +1,17 @@
+id: 1869-baptism-jean-jaque-stump-tallinn
+title: "Baptism of Jean Jaque Herman Eugen Stump, 3 August 1869, Tallinn Dome Church"
+collection: "Estonia, Church Books and Synagogue Registers, 1590-1941"
+collection_id: 1932350
+remote:
+  webpage_url: https://www.familysearch.org/ark:/61903/1:1:6DQX-FMS7
+  record_ark: "1:1:6DQX-FMS7"
+  duplicate_record_ark: "1:1:6DQ6-SDJR"
+  image_ark: "3:1:3Q9M-CSM1-V957-9"
+fetches:
+- kind: image
+  at: '2026-03-30T10:36:00Z'
+  source: FamilySearch Deepzoom API
+  bytes: 466432
+files:
+  transcription: reference.md
+  media_reference: media/docs/tallinn-stump/1869-jean-jaque-stump-baptism-tallinn.jpg

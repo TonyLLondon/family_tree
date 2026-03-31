@@ -2,7 +2,7 @@
 name: Julien Bottin
 treeId: I77
 gedcom: "@I77@"
-born: 1853-03-24 (Nice civil record summary on Ancestry screenshot)
+born: '1853-07-01 (AGAM index via Ancestry: "1 juil. 1853", Saint Barthélemy, Nice)'
 died: unknown
 sex: male
 nationality: French
@@ -12,6 +12,10 @@ spouses:
   - fanny-burgess
 children:
   - henriette-bottin
+  - alice-bottin
+  - edward-bottin
+  - rene-bottin
+  - george-bottin
 father: charles-bottin
 mother: josephine-baudouin
 generation: 3
@@ -23,20 +27,20 @@ French **mechanical engineer** active in **Tehran** in the late 19th and early 2
 
 ## Life
 
-- Birth **24 Mar 1853**, **Nice**, parents **Charles Bottin** and **Josephine Baudouin** (Alpes-Maritimes) — see Ancestry screenshot under Evidence.
+- Birth **1 Jul 1853** (per AGAM index: "1 juil. 1853"), **NICE Saint Barthélemy**, parents **Charles Bottin** and **Josèphe Baudoin** (Alpes-Maritimes) — see [Ancestry screenshot](../media/docs/Ancestry%20Julien%20Bottin%20birth%201853%20Nice%20Charles%20Bottin%20Josephine%20Baudoin%20Alpes-Maritimes.png) under Evidence. Source is the text-only AGAM index (*Alpes-Maritimes, France Births & Christenings, 1575-1906*); no original register image attached.
 - **Social footprint (Tehran)** — Named member of the **Alliance Française** (Tehran) committee alongside chair Dr. Feuvrier, first secretary Paul Henri Morel, orientalist Alphonse Nicolas, and Jean-Baptiste Lemaire. Registered member of lodge **Orient de Tehran** (Spanish rite) since **1898**, together with Entezam al-Saltaneh (Grand Orient de France archives).
 - **29 Nov 1906** — Bottin was one of ten attendees when Lemaire convened the founding meeting for a new lodge; named alongside Morel as a principal organiser. The group grew to 17 three days later and on **23 Dec 1906** formally constituted **Reveil de l’Iran** (Bidari-ye Iran), choosing the **Scottish rite**, affiliated with the Grand Orient de France (recognised November 1907).
 - **State contract (primary source)** — French agreement between the **Ministry of War of Persia** and Julien Bottin. Core clauses (transcription also on [bottin-government-contract.md](../sources/bottin-government-contract.md)):
 
-> **Role:** *Ingénieur mécanicien de l’Arsenal et des manufactures militaires*.  
-> **Term:** 2 years; **salary:** 2400 tomans.  
+> **Role:** *Ingénieur mécanicien de l’Arsenal et des manufactures militaires*.
+> **Term:** 2 years; **salary:** 2400 tomans.
 > **Duties:** Oversee arsenal machinery; teach applied mechanics to **30 students**; works under Ministry of War; may supervise repairs outside Tehran; daily attendance at arsenal, powder factory, cartridge works.
 
 ## Family
 
-- Wife: [Fanny Burgess](fanny-burgess.md).
-- Daughter: [Henriette Bottin Burgess](henriette-bottin.md).
-- Parents: [Charles Bottin](charles-bottin.md); [Josephine Baudouin](josephine-baudouin.md).
+- Wife: [Fanny Burgess](fanny-burgess.md) (m. **19 Apr 1884**, Tehran; divorced by 1919).
+- Children: [Henriette](henriette-bottin.md) (1888), [Alice](alice-bottin.md) (1889), [Edward](edward-bottin.md) (1891), [René](rene-bottin.md) (1892), [George](george-bottin.md) (1895) — all born Tehran.
+- Parents: [Charles Bottin](charles-bottin.md); [Josèphe Baudouin](josephine-baudouin.md).
 
 ## Evidence
 
@@ -46,6 +50,8 @@ French **mechanical engineer** active in **Tehran** in the late 19th and early 2
 - [Encyclopaedia Iranica — Firearms i. History (Matthee)](../sources/iranica-firearms-history.md) · [corpus/iranica-firearms-history/](../sources/corpus/iranica-firearms-history/) — macro context for the Tehran arsenal, French military specialists (1858 contract wave), and Georgian artillerymen in the early Qajar army.
 - [Ancestry — Nice birth 1853 (screenshot)](../media/docs/Ancestry%20Julien%20Bottin%20birth%201853%20Nice%20Charles%20Bottin%20Josephine%20Baudoin%20Alpes-Maritimes.png).
 - Family photo: [Teheran 1896 Fanny, Julien & Family](../media/albums/henderson/Teheran%201896%20Fanny,%20Julien%20&%20Family.jpg).
+- [Marriage of Alice Bottin & Ladislas Majewski, Liège, 12 Sep 1914](../sources/corpus/alice-bottin-majewski-marriage-liege-1914/reference.md) — names **Julien Bottin** and **Fanny Burgess** as bride's parents. Image: [1914-alice-bottin-majewski-marriage-liege.jpg](../media/docs/1914-alice-bottin-majewski-marriage-liege.jpg) · FamilySearch [6JB6-VNK1](https://www.familysearch.org/ark:/61903/1:1:6JB6-VNK1).
+- [1901 census — Bottin household, Hammersmith](../media/docs/1901%20census%20London%20Hammersmith%20Blomfield%20Road%20RG13-42%20page%201%20Bottin%20household.png) — Fanny as head with five children (Harriet, Alice, Edward, Rene, George); Julien absent (in Tehran). FamilySearch [X94C-5NM](https://www.familysearch.org/ark:/61903/1:1:X94C-5NM).
 
 ## Related narrative
 
@@ -60,8 +66,8 @@ French **mechanical engineer** active in **Tehran** in the late 19th and early 2
 
 - **Contract text:** **French + English** — [corpus/bottin-contract/transcription-translation.en.md](../sources/corpus/bottin-contract/transcription-translation.en.md); PDF — [Bottin Contract.pdf](../media/albums/henderson/Bottin%20Contract.pdf); noisy machine extract — [extracted.pdf.md](../sources/corpus/bottin-contract/extracted.pdf.md).
 - **Tehran French network:** **Andreas Onnerfors**, *Freemasonry and Fraternalism in the Middle East* names Bottin on the Alliance Française committee and as a member/organiser across both the **Orient de Tehran** (Spanish rite, 1898) and the **Reveil de l’Iran** founding (1906) — [onnerfors-freemasonry-fraternalism-middle-east.md](../sources/onnerfors-freemasonry-fraternalism-middle-east.md) · [corpus extract](../sources/corpus/onnerfors-freemasonry-fraternalism-middle-east/).
-- **Civil status:** Nice birth **1853** — Ancestry screenshot in Evidence; original **Nice état civil** (or parish) would anchor the birth record.
-- **England:** **1901 census** Bottin household (Hammersmith) — PNG in `media/docs/`; ties to pre- or inter-war UK residence if Julien is the head of household (confirm identity against Tehran timeline).
+- **Civil status:** Nice birth **1 Jul 1853** — AGAM text-only index via Ancestry (screenshot in Evidence); parish is **Saint Barthélemy**. Original register held by Archives départementales des Alpes-Maritimes; unindexed images available on FamilySearch (catalog 173771, Saint-Barthélemy 1814–1860, available online; also catalog 205179, Nice 1558–1902). **The FamilySearch catalog detail API is currently broken** — browse manually or via the `browse` command once a waypoint context is obtained from the catalog web page.
+- **England:** **1901 census** Bottin household (Hammersmith) confirms Fanny as head with five children; Julien absent — consistent with Tehran posting. He is not named in the household; Fanny is listed as a French Subject.
 
 ### Open-web search (Mar 2026)
 
@@ -75,4 +81,6 @@ Indexed **Google-style** queries did **not** surface further material on **this*
 
 ## Open questions
 
-- **Death** date/place and any second marriage (no dates in the export slice used here).
+- **Death** date/place and any second marriage (no dates in the working-tree excerpt used here).
+- **Birth date discrepancy:** The Ancestry AGAM index clearly reads **"1 juil. 1853"** (1 July); the existing JSON had **24 Mar 1853** (provenance unclear — possibly a different source or transcription error). Updated to match the AGAM index pending original register image.
+- **Mother's name spelling:** AGAM index gives **"Josèphe Baudoin"** (not Josephine Baudouin) — may reflect Niçois / Sardinian orthography.

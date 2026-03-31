@@ -29,20 +29,49 @@ function PersonLink({ person }: { person: Person }) {
   return <span className="text-zinc-600">{person.displayName}</span>;
 }
 
-function VitalsLine({ person }: { person: Person }) {
+type Vitals = {
+  birthDate?: string;
+  birthPlace?: string;
+  deathDate?: string;
+  deathPlace?: string;
+  burialPlace?: string;
+};
+
+function vitalsFromFrontmatter(data: Record<string, unknown>): Vitals {
+  const str = (v: unknown) => (typeof v === "string" ? v.trim() || undefined : typeof v === "number" ? String(v) : undefined);
+  return {
+    birthDate: str(data.born),
+    birthPlace: str(data.birth_place),
+    deathDate: str(data.died),
+    deathPlace: str(data.death_place),
+    burialPlace: str(data.burial),
+  };
+}
+
+function mergeVitals(person: Person | undefined, fm: Vitals): Vitals {
+  return {
+    birthDate: person?.birthDate || fm.birthDate,
+    birthPlace: person?.birthPlace || fm.birthPlace,
+    deathDate: person?.deathDate || fm.deathDate,
+    deathPlace: person?.deathPlace || fm.deathPlace,
+    burialPlace: person?.burialPlace || fm.burialPlace,
+  };
+}
+
+function VitalsLine({ vitals }: { vitals: Vitals }) {
   const parts: string[] = [];
-  if (person.birthDate) {
-    let s = `b. ${person.birthDate}`;
-    if (person.birthPlace) s += `, ${person.birthPlace}`;
+  if (vitals.birthDate) {
+    let s = `b. ${vitals.birthDate}`;
+    if (vitals.birthPlace) s += `, ${vitals.birthPlace}`;
     parts.push(s);
   }
-  if (person.deathDate) {
-    let s = `d. ${person.deathDate}`;
-    if (person.deathPlace) s += `, ${person.deathPlace}`;
+  if (vitals.deathDate) {
+    let s = `d. ${vitals.deathDate}`;
+    if (vitals.deathPlace) s += `, ${vitals.deathPlace}`;
     parts.push(s);
   }
-  if (person.burialPlace) {
-    parts.push(`bur. ${person.burialPlace}`);
+  if (vitals.burialPlace) {
+    parts.push(`bur. ${vitals.burialPlace}`);
   }
   if (parts.length === 0) return null;
   return <p className="text-sm text-zinc-500">{parts.join(" · ")}</p>;
@@ -85,8 +114,8 @@ export default async function PersonPage({ params }: Props) {
   const tree = loadFamilyTree();
   const person = getPersonBySlug(tree, slug);
   const title =
-    (typeof parsed.data.name === "string" && parsed.data.name) ||
     person?.displayName ||
+    (typeof parsed.data.name === "string" && parsed.data.name) ||
     slug.replace(/-/g, " ");
   const role = typeof parsed.data.role === "string" ? parsed.data.role : null;
   const treeId = typeof parsed.data.treeId === "string" ? parsed.data.treeId : person?.id;
@@ -99,6 +128,7 @@ export default async function PersonPage({ params }: Props) {
 
   const hasFamily = father || mother || spouses.length > 0 || children.length > 0;
   const aka = person?.alsoKnownAs;
+  const vitals = mergeVitals(person, vitalsFromFrontmatter(parsed.data));
   const articleContent = stripLeadingH1(parsed.content);
 
   return (
@@ -141,7 +171,7 @@ export default async function PersonPage({ params }: Props) {
               )}
             </div>
 
-            {person && <VitalsLine person={person} />}
+            <VitalsLine vitals={vitals} />
 
             {hasFamily && (
               <div className="flex flex-col gap-2 border-t border-zinc-100 pt-3">

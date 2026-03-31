@@ -10,9 +10,9 @@ also_known_as:
   - Seguinoff (Anna’s 1880 romanisation)
   - Sākinyān / ساکینیان (Persian)
   - Davit Khan Saginian
-born: c. 1790s
-birth_place: Georgia (Tbilisi region)
-died: c. 1868–1873 (died age 78; Fath Ali Shah d. 1834 — career span implies death post-1850)
+born: 1790 (Yaghoubian 2014, n. 5)
+birth_place: Tbilisi, Georgia
+died: 1867, Tabriz (Yaghoubian 2014, n. 10; buried Surb Astvatsatsin)
 sex: male
 ethnicity: Georgian-born; integrated into Armenian community in Iran
 role: Sartip (Brigadier General); commander of Qajar forces in Shiraz and Isfahan under Fath Ali Shah
@@ -22,8 +22,11 @@ mother: unknown
 siblings:
   - Zaal Saginskilli / Zaal Saginean (brother)
 children:
-  - anna-saginian
-  - tamar-saginian
+  - Goorgen Khan Saginian (oldest son; sarhang/colonel; died in his 40s — Yaghoubian 2014)
+  - anna-saginian (eldest daughter)
+  - tamar-saginian (youngest daughter)
+  - two unnamed merchant brothers (predeceased Anna by 1880)
+  - two unnamed sisters (incl. widow of Aga Pedros)
 generation: 1
 ---
 
@@ -58,13 +61,28 @@ Both passages are in *Narrative of a Mission to Bokhara* (1845), Chapter XXVI. T
 
 ## Family
 
-- Brother: **Zaal Saginskilli** (also *Zaal Saginean*) (fled Georgia with him in 1811; further career unknown).
-- Daughters: [Anna Saginian](anna-saginian.md); [Tamar Saginian](tamar-saginian.md) (married [Dr. William Cormick](william-cormick.md)).
+- Brother: **Zaal Saginskilli** (also *Zaal Saginean*) (fled Georgia with him in 1811; further career unknown). All scholarly sources (Yaghoubian 2014, Maeda 2019, Wikipedia) agree David and Zal were **brothers**; Armen Saginian's 2022 memoir incorrectly places them as father and sons.
+
+### Children (consolidated from all sources)
+
+Anna's 1880 interview says she was the eldest of **four sisters** with **two brothers** (merchants, both predeceased her). Yaghoubian (2014) adds **Goorgen Khan** as the **oldest son** (military, not merchant). Together these sources give at least seven children:
+
+| Child | Source | Notes |
+|-------|--------|-------|
+| **Goorgen Khan Saginian** | Yaghoubian 2014; Armen 2022 | Oldest son; sarhang (colonel) in Qajar army; died in his 40s (pre-1867). Father of Solayman Khan → Zohrab → Sevak. |
+| **[Anna Saginian](anna-saginian.md)** | Anna's 1880 interview | Eldest daughter; married [Edward Burgess](edward-burgess.md) in 1851. |
+| Unnamed sister | Anna's interview | Widow of **Aga Pedros** (Armenian merchant); three sons in Tehran. |
+| Unnamed sister | Anna's interview | Fourth sister (unnamed; Anna says "four sisters" total). |
+| **[Tamar Saginian](tamar-saginian.md)** | Anna's interview; Armen 2022 | Youngest sister; married [Dr. William Cormick](william-cormick.md). |
+| Two unnamed brothers | Anna's interview | Merchants in Tabriz; both predeceased Anna by 1880. |
+
+Anna does not mention Goorgen Khan by name — likely because he was a military figure who died before the 1880 interview (in his 40s, so probably by the 1860s), and Anna grouped her narrative around the sisters and the two merchant brothers she knew better.
 
 ## Burial
 
-- **Armenian cemetery outside the walls of Tabriz** — Anna Burgess’s 1880 interview states: “my dear father’s grave is four or five English yards from [Edward’s grave]; it is among the graves of all my relations. And old Mr. & Mrs. Cormick and the Europeans are all buried there.” (Source: [nypl-burgess-appendix-anna-interview.md](../sources/nypl-burgess-appendix-anna-interview.md))
-- His mother died before him; the cemetery also held the Cormick family (including the elder Cormicks).
+- **Saginian family mausoleum at Surb Astvatsatsin** (Holy Mother of God church), Tabriz. Yaghoubian (2014, n. 10): "David Khan Saginian died in 1867 and is buried in the Saginian mausoleum and church in Tabriz known as Surb Astvatsatsin." Grandson Solayman Khan also buried there (n. 11).
+- Anna’s 1880 interview: "my dear father’s grave is four or five English yards from [Edward’s grave]; it is among the graves of all my relations." This "Armenian cemetery outside the walls of Tabriz" is the same Surb Astvatsatsin complex.
+- Armen Saginian’s autobiography references the "Mary Mother of God" cemetery — a translation of the Armenian *Surb Astvatsatsin*.
 
 ## Evidence
 
@@ -86,8 +104,16 @@ Both passages are in *Narrative of a Mission to Bokhara* (1845), Chapter XXVI. T
 
 - [Qajar Armenian military context](../topics/qajar-armenian-military.md)
 
+## Armen Saginian's account (2022)
+
+Armen Saginian's autobiography *Thank You, America & Americans* (Xlibris, 2022) — written by a great-great-grandson via the Gorgin Khan line — contains chapters "Who Was Dawood Khan Saginashvilli," "Who Was Gorgin Khan," and "Who Was Colonel Solomon Khan?" with family photos. Armen describes Daoud Khan as a Brigadier General in Georgian Artillery and adjutant to King Heraclius II, from the noble Saginashvilli family. He incorrectly structures the 1811 emigration as a father (David Khan) with two sons (Gorgin Khan, Zali Khan); scholarly sources and Anna's interview establish David and Zal as **brothers**. Armen's account places Tamara Khanum (who married Dr. Cormick) as Gorgin Khan's daughter (Daoud Khan's granddaughter) — conflicting with Anna's direct testimony that Tamar was her **sister** (both daughters of Daoud Khan). Armen's lineage: David Khan → Gorgin Khan → Solomon Khan → Hovsep → Armen. Screenshots in `manual/"Thank You, America & Americans" by Armen Saginian/`.
+
+## Yaghoubian (2014) — scholarly confirmation
+
+David Yaghoubian's *Ethnicity, Identity, and the Development of Nationalism in Iran* (Syracuse University Press, 2014), Chapter 4, based on oral interviews with **Sevak Saginian** (Zohrab's son), confirms: born Tbilisi 1790; died Tabriz 1867; buried in Saginian family mausoleum at **Surb Astvatsatsin** (Holy Mother of God church); David and Zal were brothers. Gorgin Khan (sarhang/colonel) was David Khan's oldest son; died in his forties. David Khan held titles **farmandeh** (supreme military commander) of Shiraz and Isfahan and **sarperast-e Aramane** (guardian of the Armenians). Source card: [yaghoubian-2014-ethnicity-identity-nationalism-iran.md](../sources/yaghoubian-2014-ethnicity-identity-nationalism-iran.md).
+
 ## Open questions
 
 - Fate of brother **Zaal Saginskilli** (Zaal Saginean) after 1811 arrival in Iran.
-- Exact **death date**: approximate from age 78 and Fath Ali Shah career. Armenian cemetery outside Tabriz confirmed by Anna's interview; specific plot/stone not yet documented.
-- Whether the hard-copy Saginian family memoir names a specific Georgian origin village or the father's name.
+- Reconciling Anna's testimony (Tamar = sister, daughter of Daoud Khan) with Armen's account (Tamara = Gorgin Khan's daughter). Anna's first-hand 1880 testimony should take priority.
+- Whether Anna is Daoud Khan's daughter directly (as she states) or possibly Gorgin Khan's daughter/sister with a generation collapsed in oral transmission.

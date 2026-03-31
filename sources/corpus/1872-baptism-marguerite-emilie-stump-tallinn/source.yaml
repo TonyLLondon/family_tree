@@ -1,0 +1,17 @@
+id: 1872-baptism-marguerite-emilie-stump-tallinn
+title: "Baptism of Marguerite Emilie Stump, 31 December 1872, Tallinn Dome Church"
+collection: "Estonia, Church Books and Synagogue Registers, 1590-1941"
+collection_id: 1932350
+remote:
+  webpage_url: https://www.familysearch.org/ark:/61903/1:1:6DQ6-586P
+  record_ark: "1:1:6DQ6-586P"
+  duplicate_record_ark: "1:1:6DQD-TLRW"
+  image_ark: "3:1:3Q9M-CSM1-V959-V"
+fetches:
+- kind: image
+  at: '2026-03-30T10:36:00Z'
+  source: FamilySearch Deepzoom API
+  bytes: 463360
+files:
+  transcription: reference.md
+  media_reference: media/docs/tallinn-stump/1872-marguerite-emilie-stump-baptism-tallinn.jpg

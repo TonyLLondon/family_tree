@@ -119,7 +119,7 @@ export function resolveVaultHref(currentFileRelPosix: string, raw: string): stri
   if (joined.startsWith("sources/corpus/")) {
     const rest = joined.slice("sources/corpus/".length);
     const slug = rest.split("/")[0];
-    if (slug) return `/corpus/${encodeURIComponent(slug)}${hashSuffix}`;
+    if (slug) return `/sources/${encodeURIComponent(slug)}${hashSuffix}`;
   }
 
   if (joined.startsWith("sources/") && joined.endsWith(".md") && !joined.startsWith("sources/corpus/")) {

@@ -1,0 +1,17 @@
+id: 1874-burial-jean-jaque-stump-tallinn
+title: "Burial of Jean Jaque Herman Eugen Stump, 10 May 1874, Tallinn Dome Church"
+collection: "Estonia, Church Books and Synagogue Registers, 1590-1941"
+collection_id: 1932350
+remote:
+  webpage_url: https://www.familysearch.org/ark:/61903/1:1:6DQV-M79H
+  record_ark: "1:1:6DQV-M79H"
+  duplicate_record_ark: "1:1:6DQK-SH8B"
+  image_ark: "3:1:S3HT-DZ17-N3L"
+fetches:
+- kind: image
+  at: '2026-03-30T10:36:00Z'
+  source: FamilySearch Deepzoom API
+  bytes: 626176
+files:
+  transcription: reference.md
+  media_reference: media/docs/tallinn-stump/1874-jean-jaque-stump-burial-tallinn.jpg

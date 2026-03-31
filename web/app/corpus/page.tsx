@@ -12,17 +12,17 @@ export default function CorpusIndexPage() {
       id: slug,
       title,
       subtitle: blurb || undefined,
-      href: `/corpus/${encodeURIComponent(slug)}`,
-      meta: "Corpus bundle",
+      href: `/sources/${encodeURIComponent(slug)}`,
+      meta: "Evidence bundle",
     };
   });
 
   return (
     <PageShell
-      title="Corpus"
-      subtitle="Offline evidence bundles — PDF extracts, transcriptions, and provenance under sources/corpus/."
+      title="Evidence bundles"
+      subtitle="Offline evidence — PDF extracts, transcriptions, and provenance backing the sources used in research."
     >
-      <BrowseGrid items={items} searchPlaceholder="Search corpus bundles…" />
+      <BrowseGrid items={items} searchPlaceholder="Search evidence bundles…" />
     </PageShell>
   );
 }

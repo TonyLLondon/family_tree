@@ -1,0 +1,25 @@
+id: 1868-marriage-stump-erbe-tallinn-dome
+title: "Marriage of Markus Franz Stump and Olga Caroline Erbe, 22 June 1868, Tallinn Dome Church"
+collection: "Estonia, Church Books and Synagogue Registers, 1590-1941"
+collection_id: 1932350
+remote:
+  webpage_url: https://www.familysearch.org/ark:/61903/1:1:6DQZ-6NCL
+  record_ark: "1:1:6DQZ-6NCL"
+  duplicate_record_arks:
+    - "1:1:6DQZ-37PP"
+    - "1:1:6DQZ-3J7C"
+  image_arks:
+    - "3:1:3Q9M-CSM1-VSDR-D"
+    - "3:1:S3HT-6R73-T81"
+    - "3:1:S3HT-DZ17-F5K"
+fetches:
+- kind: image
+  at: '2026-03-30T10:35:00Z'
+  source: FamilySearch Deepzoom API
+  note: Three register pages for the same marriage event (marriage list, betrothal/family register, second register).
+files:
+  transcription: reference.md
+  media_reference:
+    - media/docs/tallinn-stump/1868-marc-stump-olga-erbe-marriage-tallinn.jpg
+    - media/docs/tallinn-stump/1868-marc-stump-olga-erbe-family-register-tallinn.jpg
+    - media/docs/tallinn-stump/1868-marc-stump-olga-erbe-register-2-tallinn.jpg

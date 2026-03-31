@@ -1,0 +1,14 @@
+id: 1800-baptism-jakob-stump-erlen
+title: "Baptism of Jakob Stump, 15 June 1800, Riedt bei Erlen, Thurgau"
+collection: "Switzerland, Baptisms, 1491-1940"
+collection_id: 1520585
+remote:
+  webpage_url: https://www.familysearch.org/ark:/61903/1:1:FVFK-X5S
+  record_ark: "1:1:FVFK-X5S"
+fetches:
+- kind: api
+  at: '2026-03-30T10:33:00Z'
+  source: FamilySearch Records API (fs_search.py detail FVFK-X5S)
+  note: Index-only collection; no linked images available for download.
+files:
+  transcription: reference.md

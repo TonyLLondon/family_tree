@@ -1,6 +1,6 @@
 # The Lewis Line — site
 
-Next.js App Router app that statically renders the vault: Markdown (with repo-relative links rewritten), `family-tree.json` vitals, ancestor fan chart, and file serving for `media/` and `archive/`.
+Next.js App Router app that statically renders the vault: Markdown (with repo-relative links rewritten), structured tree vitals (`family-tree.json` at repo root), ancestor fan chart, and file serving for `media/` and corpus bundles copied at build time (not the local `archive/` inbox).
 
 ## Commands
 
@@ -28,8 +28,8 @@ npm start
 | `/sources`, `/sources/...` | `../sources/**/*.md` (excluding `corpus/`) |
 | `/corpus`, `/corpus/[slug]` | Corpus bundle file listings + links via `/files/...` |
 | `/vault/research/...`, `/vault/manual/...` | `../research/**`, `../manual/**` |
-| `/chart` | Fan chart from `../family-tree.json` (root **I1**) |
-| `/files/...` | Prebuild copy: `media/`, `sources/corpus/`, `family-tree.json` → static CDN on Vercel; local dev reads from repo via route |
+| `/chart` | Fan chart from structured tree data at `../family-tree.json` (root **I1**) |
+| `/files/...` | Prebuild copy: `media/`, `sources/corpus/`, structured tree file → static CDN on Vercel; local dev reads from repo via route |
 
 ## Photos
 

@@ -35,8 +35,23 @@ The export places birth and christening **15 June 1800** at **Sulgen**, **Thurga
 
 ## Evidence
 
-- **Export:** **treeId** **I142** — unions **F71**, **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSXZ-Z6F**.
+**Swiss parish records** — [source card](../sources/swiss-erlen-stump-parish-records.md):
+
+| Record | Event | Corpus |
+|--------|-------|--------|
+| [FVFK-X5S](https://www.familysearch.org/ark:/61903/1:1:FVFK-X5S) | Baptism — 15 Jun 1800, Riedt bei Erlen | [corpus](../sources/corpus/1800-baptism-jakob-stump-erlen/reference.md) |
+| [66JJ-3MYV](https://www.familysearch.org/ark:/61903/1:1:66JJ-3MYV) | Family register — 25 Sep 1832, Erlen | [corpus](../sources/corpus/1832-family-register-jakob-stump-montagnon-erlen/reference.md) |
+
+**Paternal grandparents' records:**
+
+| Record | Event | Corpus |
+|--------|-------|--------|
+| [FVFK-CVL](https://www.familysearch.org/ark:/61903/1:1:FVFK-CVL) | Father's baptism — Hs. Ulrich, 25 Oct 1767 | [corpus](../sources/corpus/1767-baptism-hans-ulrich-stump-erlen/reference.md) |
+| [FVJR-RYX](https://www.familysearch.org/ark:/61903/1:1:FVJR-RYX) | Parents' marriage — 26 Apr 1792, Sulgen | [corpus](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md) |
+| [6FZL-NLQ8](https://www.familysearch.org/ark:/61903/1:1:6FZL-NLQ8) | Father's burial — 18 Dec 1807, Sulgen | [corpus](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md) |
+
+**Export:** **treeId** **I142** — unions **F71**, **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSXZ-Z6F**.
 
 ## Open questions
 
-- Death from **Sulgen** or later Baltic burial books.
+- Death date and place — Sulgen parish burial books or later Baltic records.

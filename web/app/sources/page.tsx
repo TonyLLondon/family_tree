@@ -1,45 +1,39 @@
 import { BrowseGrid, type BrowseItem } from "@/components/BrowseGrid";
 import { PageShell } from "@/components/PageShell";
-import { getSourceSegmentLists, getCorpusSlugs } from "@/lib/content";
-import { readSourceCardTitle, readCorpusCard, titleFromSlug } from "@/lib/browse";
+import { getAllSourceSlugs, resolveSource } from "@/lib/sourceResolver";
 
 export default function SourcesIndexPage() {
-  const all = getSourceSegmentLists().sort((a, b) => a.join("/").localeCompare(b.join("/")));
+  const slugs = getAllSourceSlugs();
 
-  const cardItems: BrowseItem[] = all.map((segs) => {
-    const { title, blurb } = readSourceCardTitle(segs);
-    const href = `/sources/${segs.map(encodeURIComponent).join("/")}`;
-    return {
-      id: href,
-      title,
-      subtitle: blurb || undefined,
-      href,
-      meta: segs.length > 1 ? segs.slice(0, -1).map((s) => titleFromSlug(s)).join(" · ") : "Citation card",
-    };
-  });
+  const items: BrowseItem[] = [];
+  for (const slug of slugs) {
+    const source = resolveSource(slug);
+    if (!source) continue;
 
-  const corpusSlugs = getCorpusSlugs().sort((a, b) => a.localeCompare(b));
-  const corpusItems: BrowseItem[] = corpusSlugs.map((slug) => {
-    const { title, blurb } = readCorpusCard(slug);
-    return {
-      id: `corpus:${slug}`,
-      title,
-      subtitle: blurb || undefined,
-      href: `/corpus/${encodeURIComponent(slug)}`,
-      meta: "Corpus bundle",
-    };
-  });
+    const hasCard = source.cardFilePath !== null;
+    const hasBundle = source.primaryCorpusSlug !== null;
 
-  const items = [...cardItems, ...corpusItems].sort((a, b) =>
-    a.title.localeCompare(b.title)
-  );
+    let meta = "Source";
+    if (hasCard && hasBundle) meta = "Source + evidence";
+    else if (hasBundle) meta = "Evidence bundle";
+    else if (hasCard) meta = "Citation card";
+
+    items.push({
+      id: slug,
+      title: source.title,
+      subtitle: source.blurb || undefined,
+      href: `/sources/${encodeURIComponent(slug)}`,
+      meta,
+    });
+  }
+  items.sort((a, b) => a.title.localeCompare(b.title));
 
   return (
     <PageShell
       title="Sources"
-      subtitle="Citation cards and corpus evidence bundles — search by title, path, or type."
+      subtitle="Primary evidence, citation cards, and corpus evidence bundles backing this family history."
     >
-      <BrowseGrid items={items} searchPlaceholder="Search sources and corpus…" />
+      <BrowseGrid items={items} searchPlaceholder="Search sources…" />
     </PageShell>
   );
 }

@@ -6,19 +6,17 @@ People: [Daoud Khan Saginian](../../people/daoud-khan-saginian.md) · [Anna Sagi
 
 ---
 
-## Hard copy held by Tony (to ingest)
+## Hard copy held by Tony (analysed)
 
-### Saginian family memoir — unidentified
+### Armen Saginian — *Thank You, America & Americans* (2022)
 
-A first-person account by a Saginian family member stating they were born in Georgia under the name **Saginskilli** (Georgian form of the surname), moved to Iran, married into the Armenian community there, and adopted the Armenian surname **Saginian**. This is the direct primary source for the Georgian-origin thesis in Daoud Khan's person file.
+**Identified.** The family memoir is **Armen Saginian, *Thank You, America & Americans*** (Xlibris, 2022). Armen (b. 1933, Tabriz) is a great-great-grandson of David Khan via the Gorgin Khan → Solomon Khan → Hovsep line. The book is an oral-history autobiography containing chapters on Dawood Khan, Gorgin Khan, and Colonel Solomon Khan, with family photos and genealogical charts. Screenshots in `manual/"Thank You, America & Americans" by Armen Saginian/`.
 
-**Best candidate authors:**
-- **Sohrab (Zora) Saginian** (1883–1970) — Iranian-Armenian journalist, writer, and MP (Armenian representative to the Iranian National Assembly 1924–1943). Son of Sultan Khan (Suqomun Khan). Was a writer; may have authored a memoir.
-- **Armen Saginian** (b. 1933, Tabriz) — engineer, researcher, emigrated to the US 1955. Has published books via Xlibris/Amazon, including an untitled autobiography-format work. Possible but listed titles are about Islam.
+**Key discrepancies from Anna's 1880 interview and Yaghoubian (2014):** Armen structures the 1811 emigration as father + two sons (David Khan with Gorgin Khan and Zali Khan); all other sources say David and Zal were **brothers**. Armen places Tamara (wife of Dr. Cormick) as Gorgin Khan's daughter; Anna says Tamar was her sister (Daoud Khan's daughter). Valuable as oral tradition but must be cross-referenced carefully.
 
-**Amazon lead:** ISBN 1312370815 / 1678180688 — *"Iranian Sultans Great Grandson Autobiography"* — possibly by or about the Saginian line; author not confirmed from available metadata.
+### Yaghoubian — *Ethnicity, Identity, and the Development of Nationalism in Iran* (2014)
 
-**Action:** Scan or photograph key pages and ingest as PDF to `sources/corpus/saginian-family-memoir/`. Add author name and publisher once confirmed.
+**Ingested.** David N. Yaghoubian, *Ethnicity, Identity, and the Development of Nationalism in Iran* (Syracuse University Press, 2014). Local PDF: `manual/Ethnicitity_identity and nationalism in Iran.pdf`. Source card: [yaghoubian-2014-ethnicity-identity-nationalism-iran.md](../yaghoubian-2014-ethnicity-identity-nationalism-iran.md). Corpus: `sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/`.
 
 ---
 
@@ -38,6 +36,12 @@ A first-person account by a Saginian family member stating they were born in Geo
 
 ---
 
+## Georgian National Archives — remote research request
+
+See **[saginashvili-georgian-archives.md](saginashvili-georgian-archives.md)** — detailed wishlist for a remote thematic query to the Georgian National Archives (archive.gov.ge) searching for Saginashvili (საგინაშვილი) entries in Tbilisi-area church registers, military governor records, and nobility registers. Includes draft request letter, relevant fond numbers, and fee schedule (~£8–14 per query). Submitted via my.gov.ge or services@archives.gov.ge.
+
+---
+
 ## Already in corpus
 
 | Slug | What it covers |
@@ -45,3 +49,4 @@ A first-person account by a Saginian family member stating they were born in Geo
 | `narrative-mission-bokhara` | Wolff (1845) — Daoud Khan and Edward Burgess passages, Ch. XXVI |
 | `wikipedia-solayman-khan-saham-al-dowleh` | Wikipedia mirror of Solayman Khan article citing Saginean brothers |
 | `connectionsbmc-saginian-interview` | Cormick / Saginian interview — Anna, Tamar, Daoud Khan |
+| `yaghoubian-2014-ethnicity-identity-nationalism-iran` | Yaghoubian (2014) — Ch. 4 Sevak Saginian: David Khan b. 1790 d. 1867, Goorgen Khan, Solayman Khan, Zohrab, burial at Surb Astvatsatsin. Source card: [yaghoubian-2014-ethnicity-identity-nationalism-iran.md](../yaghoubian-2014-ethnicity-identity-nationalism-iran.md) |

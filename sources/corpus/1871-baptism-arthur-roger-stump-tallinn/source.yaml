@@ -1,0 +1,17 @@
+id: 1871-baptism-arthur-roger-stump-tallinn
+title: "Baptism of Arthur Roger Stump, 11 April 1871, Tallinn Dome Church"
+collection: "Estonia, Church Books and Synagogue Registers, 1590-1941"
+collection_id: 1932350
+remote:
+  webpage_url: https://www.familysearch.org/ark:/61903/1:1:6DQX-QYFQ
+  record_ark: "1:1:6DQX-QYFQ"
+  duplicate_record_ark: "1:1:6DQ6-M18F"
+  image_ark: "3:1:3Q9M-CSM1-V95S-T"
+fetches:
+- kind: image
+  at: '2026-03-30T10:36:00Z'
+  source: FamilySearch Deepzoom API
+  bytes: 451584
+files:
+  transcription: reference.md
+  media_reference: media/docs/tallinn-stump/1871-arthur-roger-stump-baptism-tallinn.jpg

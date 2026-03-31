@@ -2,9 +2,13 @@
 name: Anna Margaretha Jung
 treeId: I147
 gedcom: "@I147@"
-born: 1735
+born: 1735-07-24
+birth_place: Sulgen, Thurgau, Switzerland
+died: 1807-12-18
+death_place: Sulgen, Thurgau, Switzerland
 sex: female
 father: hans-jacob-jung
+mother: maria-keller
 spouses:
   - hs-konrad-stump
 children:
@@ -13,25 +17,29 @@ children:
 
 # Anna Margaretha Jung
 
-**Anna Margaretha Jung** was born **1735**. She married [Hs. Konrad Stump](hs-konrad-stump.md) **19 June 1766** at **Sulgen**, **Thurgau**, and was mother of [Hans Ulrich Stump](hans-ulrich-stump.md) and other children on the same union in the working tree. Death is flagged in the export without structured date or place. Father: [Hans Jacob Jung](hans-jacob-jung.md); the parental union in this file has no wife line—mother unknown here.
+Anna Margaretha Jung was christened **24 July 1735** at **Sulgen**, Thurgau ([FVKB-M51](https://www.familysearch.org/ark:/61903/1:1:FVKB-M51)), daughter of **Hans Jacob Jung** and **Maria Keller**. She first married **Hans Ulrich Altwigg** (children in Sulgen 1758–1760), then married [Hs. Konrad Stump](hs-konrad-stump.md) on **19 June 1766** at Sulgen. She was mother of [Hans Ulrich Stump](hans-ulrich-stump.md) and other children on union F73.
+
+She was buried **18 December 1807** at Sulgen ([66JN-HGX5](https://www.familysearch.org/ark:/61903/1:1:66JN-HGX5)) — the same day as her son Hans Ulrich Stump, who was also buried at Sulgen that day. Her husband Konrad had died in 1774, leaving her a widow for 33 years.
 
 ## Life
 
-- **1735** — Birth year in export.
-- **19 Jun 1766** — Marriage **Sulgen**.
-- **Death** — **Y** without detail in slice.
+- **24 Jul 1735** — Christened Sulgen, Thurgau.
+- **c. 1757** — First marriage to Hans Ulrich Altwigg.
+- **19 Jun 1766** — Second marriage to Hs. Konrad Stump, Sulgen.
+- **18 Dec 1807** — Buried Sulgen (same day as son Hans Ulrich Stump).
 
 ## Family
 
-- Husband: [Hs. Konrad Stump](hs-konrad-stump.md).
-- Father: [Hans Jacob Jung](hans-jacob-jung.md).
-- Children: [Hans Ulrich Stump](hans-ulrich-stump.md); siblings listed under **F73** in the working tree.
+- Parents: [Hans Jacob Jung](hans-jacob-jung.md); Maria Keller.
+- First husband: Hans Ulrich Altwigg.
+- Second husband: [Hs. Konrad Stump](hs-konrad-stump.md) (b. 1730, d. 1774).
+- Children (with Stump): [Hans Ulrich Stump](hans-ulrich-stump.md) and siblings on F73.
 
 ## Evidence
 
-- **Export:** **treeId** **I147** — unions **F73**, **F75** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KFRC-6JP**.
+| Record | Event | Corpus |
+|--------|-------|--------|
+| [FVKB-M51](https://www.familysearch.org/ark:/61903/1:1:FVKB-M51) | Baptism — 24 Jul 1735, Sulgen | [corpus](../sources/corpus/1735-baptism-margaretha-jung-sulgen/reference.md) |
+| [66JN-HGX5](https://www.familysearch.org/ark:/61903/1:1:66JN-HGX5) | Burial — 18 Dec 1807, Sulgen | [corpus](../sources/corpus/1807-burial-margaretha-jung-sulgen/reference.md) |
 
-## Open questions
-
-- **1735** baptism—**Sulgen** or another **Thurgau** parish.
-- Death timing vs **Hans Ulrich**’s **1767** birth—spot-check **Sulgen** register if dates look tight.
+**Export:** **treeId** **I147** — unions **F73**, **F75** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KFRC-6JP**.

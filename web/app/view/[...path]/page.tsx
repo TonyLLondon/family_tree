@@ -13,10 +13,10 @@ function getBreadcrumbHref(segments: string[], index: number): string | null {
   const prefix = segments.slice(0, index + 1).join("/");
 
   if (prefix === "sources") return "/sources";
-  if (prefix === "sources/corpus") return "/corpus";
+  if (prefix === "sources/corpus") return "/sources";
   if (prefix.startsWith("sources/corpus/")) {
     const bundleSlug = prefix.slice("sources/corpus/".length).split("/")[0]!;
-    return `/corpus/${encodeURIComponent(bundleSlug)}`;
+    return `/sources/${encodeURIComponent(bundleSlug)}`;
   }
 
   if (segments[0] === "sources") {
@@ -166,7 +166,7 @@ function FrontmatterTable({ data }: { data: Record<string, unknown> }) {
 
 function corpusBundleHref(filePath: string): string | null {
   const m = filePath.match(/^sources\/corpus\/([^/]+)/);
-  return m ? `/corpus/${encodeURIComponent(m[1]!)}` : null;
+  return m ? `/sources/${encodeURIComponent(m[1]!)}` : null;
 }
 
 function MachineExtractNotice({ filePath }: { filePath: string }) {
@@ -189,7 +189,7 @@ function MachineExtractNotice({ filePath }: { filePath: string }) {
             href={bundleHref}
             className="font-semibold text-sky-800 underline decoration-sky-400 decoration-2 underline-offset-2 hover:text-sky-950"
           >
-            Back to bundle file list
+            Back to source page
           </Link>
         </p>
       ) : null}

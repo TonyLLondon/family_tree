@@ -1,0 +1,14 @@
+id: 1834-baptism-markus-franz-stump-erlen
+title: "Baptism of Markus Franz Stump, 25 April 1834, Erlen, Thurgau"
+collection: "Switzerland, Baptisms, 1491-1940"
+collection_id: 1520585
+remote:
+  webpage_url: https://www.familysearch.org/ark:/61903/1:1:FVFK-CQH
+  record_ark: "1:1:FVFK-CQH"
+fetches:
+- kind: api
+  at: '2026-03-30T10:30:00Z'
+  source: FamilySearch Records API (fs_search.py detail FVFK-CQH)
+  note: Index-only collection; no linked images available for download.
+files:
+  transcription: reference.md

@@ -2,9 +2,13 @@
 name: Margaretha Freyenmuth
 treeId: I183
 gedcom: "@I183@"
-christened: 1743-10-15
-christening_place: Wigoltimgen, Thurgan, Switzerland
+born: 1743-09-15
+birth_place: Wigoltingen, Thurgau, Switzerland
+christened: 1743-09-15
+christening_place: Wigoltingen, Thurgau, Switzerland
 sex: female
+father: hans-jacob-freyenmuth
+mother: anna-margaretha-keller
 spouses:
   - hans-conrad-haag
 children:
@@ -13,17 +17,31 @@ children:
 
 # Margaretha Freyenmuth
 
-**Margaretha Freyenmuth** was christened **15 October 1743** at **Wigoltimgen**, **Thurgau** (export spelling—align to parish register). She married [Hans Conrad Haag](hans-conrad-haag.md) and was mother of [Anna Margaretha Hagg](anna-margaretha-hagg.md). The export flags death **Y** without date.
+Anna Margaretha Freyenmuth was christened **15 September 1743** at **Wigoltingen** (Wagerswil, Engwang), Thurgau ([FVVF-NX7](https://www.familysearch.org/ark:/61903/1:1:FVVF-NX7)), daughter of **Hans Jacob Freyenmuth** and **Anna Margaretha Keller**. She married [Hans Conrad Haag](hans-conrad-haag.md) on 12 December 1765 and was mother of [Anna Margaretha Hagg](anna-margaretha-hagg.md).
+
+The GEDCOM gives the christening date as 15 October 1743, one month off from the indexed record's September. Two independent FamilySearch collections agree on September.
+
+## Life
+
+- **15 Sep 1743** — Christened at Wigoltingen (Wagerswil, Engwang), Thurgau.
+- **12 Dec 1765** — Marriage to Hans Conrad Haag.
+- **Death** — flagged without date in the GEDCOM extract.
 
 ## Family
 
+- Parents: Hans Jacob Freyenmuth; Anna Margaretha Keller.
 - Husband: [Hans Conrad Haag](hans-conrad-haag.md).
-- Children: [Anna Margaretha Hagg](anna-margaretha-hagg.md).
+- Children include [Anna Margaretha Hagg](anna-margaretha-hagg.md); see union F92 for the full sibling list.
 
 ## Evidence
 
-- **Export:** **treeId** **I183** — union **F92** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K81F-HS2**.
+| Record | Event | Corpus |
+|--------|-------|--------|
+| [FVVF-NX7](https://www.familysearch.org/ark:/61903/1:1:FVVF-NX7) | Baptism — 15 Sep 1743, Wigoltingen | [corpus](../sources/corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/reference.md) |
+| [FVJZ-3ZV](https://www.familysearch.org/ark:/61903/1:1:FVJZ-3ZV) | Marriage — Haag × Freyenmuth, 1765 | [corpus](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
+
+**Export:** **treeId** **I183** — union **F92** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K81F-HS2**.
 
 ## Open questions
 
-- **Freyenmuth** orthography in **Thurgau** reconstitution tables.
+- Hans Jacob Freyenmuth's parents and other vital records.

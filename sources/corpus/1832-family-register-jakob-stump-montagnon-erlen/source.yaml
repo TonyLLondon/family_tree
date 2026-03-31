@@ -1,0 +1,19 @@
+id: 1832-family-register-jakob-stump-montagnon-erlen
+title: "Family register — Jakob Stump and Jeanne Bonigne (Montagnon), Erlen, entry dated 25 Sep 1832"
+collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+collection_id: 4138674
+remote:
+  webpage_url: https://www.familysearch.org/ark:/61903/1:1:66JJ-3MYV
+  record_ark: "1:1:66JJ-3MYV"
+  image_ark: "3:1:S3HT-DYHH-9N"
+  image_restricted: true
+  image_restricted_note: "Image restricted to FamilySearch Centers / affiliate libraries"
+fetches:
+- kind: api
+  at: '2026-03-30T10:34:00Z'
+  source: FamilySearch Records API (fs_search.py detail 66JJ-3MYV)
+  note: >
+    Full indexed data retrieved. Image ARK 3:1:S3HT-DYHH-9N exists but is
+    restricted to FamilySearch Centers — download returned 403 Forbidden.
+files:
+  transcription: reference.md

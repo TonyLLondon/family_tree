@@ -6,6 +6,7 @@
 |-------|------|
 | `family-tree.json` | **Single source of truth** for structured tree (web app). **Schema 2:** topology + rich optional fields (vitals, `alsoKnownAs`, `personPage`, etc.). **Master workflow:** edit JSON and/or `people/*.md` (`treeId`), then run `scripts/sync_family_tree_json.py` (vault + existing JSON win; GEDCOM only fills gaps). Wrapper: `scripts/merge_gedcom_vitals_into_family_tree.py`. Validate: `scripts/validate_family_tree_json.py`. |
 | `people/*.md` | One file per person; YAML frontmatter + prose + links. Planning: `ancestor-coverage-list.md`, `person-pages-extension-plan.md`. |
+| `ancestor-tracker.md` | **Ahnentafel ancestor chart** rooted at Archer/Sloan Lewis. Tracks every known direct-ancestor slot using standard genealogical numbering (father = 2n, mother = 2n+1). Coverage summary table, per-generation listings, surname index by region, and prioritised dead-ends list. Currently 302 known ancestors across 17 generations. See **Research approach** below. |
 | `web/` | **Family history site** (Next.js): static browsing for `index.md`, `people/`, `stories/`, `topics/`, `sources/`, corpus indexes, `research/`, `manual/`; **`/chart`** ancestor fan from `family-tree.json`; **`/files/...`** serves `media/`, `sources/corpus/`, and `family-tree.json` (local dev: filesystem read; Vercel: static CDN via prebuild copy to `public/files/`). **`web/photo-map.json`** maps tree id → repo-relative image path (e.g. `media/images/portraits/…`) for chart + person sidebar. Dev: `cd web && npm install && npm run dev`. Deploy: see **Deployment (Vercel)** section below. See `web/README.md`. |
 
 ## Primary workflow (read → write)
@@ -149,6 +150,18 @@ Stories are **visual-rich scrollytelling pages** on the web app, not plain markd
 3. Create `stories/<slug>.scrolly.json` matching the number of `##` sections to `scrollyStepCount` and `steps[]`.
 4. Link the story from the relevant `topics/*.md` hub (not from unrelated hubs — Evans stories link from `evans-cerpa-perez-london-chile.md`, not from `lewis-wales-stump-europe.md`).
 5. Test locally: `cd web && npm run dev` → visit `/stories/<slug>`.
+
+## Research approach
+
+The project works **generation by generation, parent by parent**, pushing each direct line back as far as records allow. The [ancestor-tracker.md](ancestor-tracker.md) is the dashboard for this effort.
+
+**Method:** For each person on the frontier (the deepest known ancestor in a line), search for their baptism/birth record — which names their parents — then catalog the record in `sources/corpus/`, add the parents to `family-tree.json`, create `people/*.md` pages, and update the tracker. Repeat.
+
+**Evidence standards:** Every parent-child link should be supported by at least one primary record (baptism, burial, marriage, or family register). Where the link rests on circumstantial evidence only (e.g. sole bearer of a surname in a parish, consistent birth spacing, naming patterns), it is marked 🔗⚠ in the tracker and flagged as "unconfirmed" in the person page. The [sources/wishlist/](sources/wishlist/) captures what would be needed to resolve each gap.
+
+**Priorities:** Shallow dead ends first — lines that stop earliest offer the most generational gain per research effort. The tracker's "Dead ends" section ranks these. Currently the shallowest lines are the Chilean (Cerpa/Pérez/González/Escobar, Gen 4–5) and French (Bottin/Baudouin, Gen 6).
+
+**Tools:** `scripts/fs_search.py` queries FamilySearch historical records via CLI (catalog, records, detail, image subcommands). Bearer token from browser DevTools; never stored in env vars. Swiss church record images are restricted to FamilySearch Centers; indexed text data is captured in `sources/corpus/<slug>/reference.md` regardless.
 
 ## Editorial voice
 

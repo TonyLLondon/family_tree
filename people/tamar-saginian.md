@@ -56,6 +56,10 @@ Use Tamar’s branch when explaining **why two independent source types** (NYPL 
 
 - [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — Tamar / Cormick subset
 
+## Discrepancy: daughter or granddaughter of Daoud Khan?
+
+Anna’s 1880 interview unambiguously names Tamar as her youngest **sister** — both daughters of Daoud Khan. Armen Saginian’s 2022 autobiography places “Tamara Khanum” as a daughter of **Gorgin Khan** (Daoud Khan’s son), making her a granddaughter of Daoud Khan. Yaghoubian (2014), based on interviews with Sevak Saginian, does not mention Tamar at all. Our interpretation follows Anna’s direct testimony: Tamar was **Daoud Khan’s daughter**, not his granddaughter. Armen’s oral tradition likely compressed the generation.
+
 ## Open questions
 
 - Independent documentary mention of **Tamar** outside interview-derived genealogy (Persian or Armenian archive).
