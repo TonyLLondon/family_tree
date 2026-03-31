@@ -14,7 +14,7 @@ children:
 
 # Giovanna Grabar
 
-**Giovanna Grabar** was born in **Zara** (year not in export slice). She married [Giovanni Battista Boara](giovanni-battista-boara.md) and was mother of [Simeone Vincenzo Boara](simeone-vincenzo-boara.md). Parents: [Antonio Grabar](antonio-grabar.md) and [Antonia Polettit](antonia-polettit.md).
+**Giovanna Grabar** was born in **Zara** (year not in working-tree excerpt). She married [Giovanni Battista Boara](giovanni-battista-boara.md) and was mother of [Simeone Vincenzo Boara](simeone-vincenzo-boara.md). Parents: [Antonio Grabar](antonio-grabar.md) and [Antonia Polettit](antonia-polettit.md).
 
 ## Family
 
@@ -24,7 +24,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I112** — unions **F55**, **F57** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L22T-RV8**.
+- **Tree id:** **I112** — unions **F55**, **F57**; FamilySearch **L22T-RV8**.
 
 ## Open questions
 

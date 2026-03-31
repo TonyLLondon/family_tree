@@ -42,8 +42,8 @@
       "spouseUnionIds": [
         "F2"
       ],
-      "birthDate": "1982-10-16",
       "birthPlace": "Macclesfield, United Kingdom",
+      "birthDate": "1982-10-16",
       "personPage": "people/anthony-robert-lewis.md",
       "sex": "M"
     },
@@ -54,16 +54,16 @@
       "spouseUnionIds": [
         "F3"
       ],
-      "birthDate": "1919-06-02",
+      "deathPlace": "Kingston Upon Thames, Surrey, England",
+      "birthPlace": "Madras, India",
       "alsoKnownAs": [
         "Molly White"
       ],
-      "birthPlace": "Madras, India",
+      "birthDate": "1919-06-02",
       "personPage": "people/maureen-catherine-finbarr-white.md",
       "deathDate": "2006-08-29",
       "role": "Teacher",
-      "sex": "F",
-      "deathPlace": "Kingston Upon Thames, Surrey, England"
+      "sex": "F"
     },
     "I100": {
       "id": "I100",
@@ -72,8 +72,8 @@
       "spouseUnionIds": [
         "F49"
       ],
-      "birthDate": "1916-01-25",
       "birthPlace": "Southend-on-Sea, Essex, England",
+      "birthDate": "1916-01-25",
       "personPage": "people/may-coolbear-i100.md",
       "sex": "F"
     },
@@ -84,23 +84,23 @@
       "spouseUnionIds": [
         "F50"
       ],
-      "birthDate": "1893-02-02",
+      "deathPlace": "Islington, London, England, United Kingdom",
       "birthPlace": "Holborn, London, England",
+      "birthDate": "1893-02-02",
       "personPage": "people/alfred-evans-i101.md",
       "deathDate": "ABT NOV 1954",
-      "sex": "M",
-      "deathPlace": "Islington, London, England, United Kingdom"
+      "sex": "M"
     },
     "I102": {
       "id": "I102",
       "displayName": "Annie FENSOM",
       "birthUnionId": "F103",
       "spouseUnionIds": [],
+      "birthPlace": "Islington, London, England, United Kingdom",
+      "birthDate": "JUN 1870",
+      "deathDate": "SEP 1942",
       "birthDateGedcom": "JUN 1870",
       "deathDateGedcom": "SEP 1942",
-      "birthDate": "JUN 1870",
-      "birthPlace": "Islington, London, England, United Kingdom",
-      "deathDate": "SEP 1942",
       "sex": "F"
     },
     "I103": {
@@ -110,12 +110,12 @@
       "spouseUnionIds": [
         "F51"
       ],
-      "birthDate": "1892-03",
+      "deathPlace": "Hendon, Middlesex, England",
       "birthPlace": "Maldon, Essex, England, United Kingdom",
+      "birthDate": "1892-03",
       "personPage": "people/archibald-percy-coolbear.md",
       "deathDate": "1928",
-      "sex": "M",
-      "deathPlace": "Hendon, Middlesex, England"
+      "sex": "M"
     },
     "I104": {
       "id": "I104",
@@ -124,8 +124,8 @@
       "spouseUnionIds": [
         "F51"
       ],
-      "birthDate": "1891",
       "birthPlace": "Orpington, Kent, England",
+      "birthDate": "1891",
       "personPage": "people/rosina-a-martin-i104.md",
       "sex": "F"
     },
@@ -136,8 +136,8 @@
       "spouseUnionIds": [
         "F52"
       ],
-      "birthDate": "1844",
       "birthPlace": "Hazeleigh, Essex, England",
+      "birthDate": "1844",
       "personPage": "people/george-gridley-coolbear-i105.md",
       "deathDate": "1892",
       "sex": "M"
@@ -149,8 +149,8 @@
       "spouseUnionIds": [
         "F52"
       ],
-      "birthDate": "Q2 1855",
       "birthPlace": "Tolleshunt Knights, Essex, England",
+      "birthDate": "Q2 1855",
       "personPage": "people/alma-newcomb-i106.md",
       "sex": "F"
     },
@@ -161,9 +161,9 @@
       "spouseUnionIds": [
         "F53"
       ],
-      "birthDateGedcom": "1823",
-      "birthDate": "ABT 1823",
       "birthPlace": "Hazeleigh, Essex, England",
+      "birthDate": "ABT 1823",
+      "birthDateGedcom": "1823",
       "sex": "M"
     },
     "I108": {
@@ -173,9 +173,9 @@
       "spouseUnionIds": [
         "F53"
       ],
-      "birthDateGedcom": "1825",
-      "birthDate": "ABT 1825",
       "birthPlace": "Tillingham, Essex, England",
+      "birthDate": "ABT 1825",
+      "birthDateGedcom": "1825",
       "sex": "F"
     },
     "I109": {
@@ -185,9 +185,9 @@
       "spouseUnionIds": [
         "F54"
       ],
-      "birthDateGedcom": "28 JUL 1797",
-      "birthDate": "1797-07-28",
       "birthPlace": "Purleigh, Essex, England, United Kingdom",
+      "birthDate": "1797-07-28",
+      "birthDateGedcom": "28 JUL 1797",
       "sex": "M"
     },
     "I11": {
@@ -197,13 +197,13 @@
       "spouseUnionIds": [
         "F3"
       ],
-      "birthDate": "1910-10-25",
+      "deathPlace": "Lausanne, Switzerland",
       "birthPlace": "Tehran, Iran",
+      "birthDate": "1910-10-25",
       "personPage": "people/robert-marc-murard-stump.md",
       "deathDate": "1997",
       "role": "Le Rosey — art and tennis teacher; artist",
-      "sex": "M",
-      "deathPlace": "Lausanne, Switzerland"
+      "sex": "M"
     },
     "I110": {
       "id": "I110",
@@ -212,9 +212,9 @@
       "spouseUnionIds": [
         "F54"
       ],
-      "birthDateGedcom": "1797",
-      "birthDate": "1797",
       "birthPlace": "England",
+      "birthDate": "1797",
+      "birthDateGedcom": "1797",
       "sex": "F"
     },
     "I111": {
@@ -224,8 +224,8 @@
       "spouseUnionIds": [
         "F55"
       ],
-      "birthDate": "1780-09-15",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1780-09-15",
       "personPage": "people/giovanni-battista-boara.md",
       "sex": "M"
     },
@@ -269,15 +269,15 @@
       "spouseUnionIds": [
         "F58"
       ],
-      "birthDate": "1807-11-11",
+      "deathPlace": "before 1878",
+      "birthPlace": "Sindol, Carniola",
       "alsoKnownAs": [
         "Biagio ZERAUSCHEK"
       ],
-      "birthPlace": "Sindol, Carniola",
+      "birthDate": "1807-11-11",
       "personPage": "people/giuseppe-zerauschek.md",
       "deathDate": "1878",
-      "sex": "M",
-      "deathPlace": "before 1878"
+      "sex": "M"
     },
     "I116": {
       "id": "I116",
@@ -286,12 +286,12 @@
       "spouseUnionIds": [
         "F58"
       ],
-      "birthDate": "1825-02-01",
+      "deathPlace": "before 1878",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1825-02-01",
       "personPage": "people/antonia-maria-guerino.md",
       "deathDate": "1878",
-      "sex": "F",
-      "deathPlace": "before 1878"
+      "sex": "F"
     },
     "I117": {
       "id": "I117",
@@ -311,13 +311,13 @@
       "spouseUnionIds": [
         "F59"
       ],
-      "birthDate": "1856",
+      "deathPlace": "Little Sisters of the Poor, Cork City, Ireland",
       "birthPlace": "Inchigeelagh, County Cork, Ireland",
+      "birthDate": "1856",
       "personPage": "people/cornelius-oshea.md",
       "deathDate": "1929-06-12",
       "role": "National School Teacher",
-      "sex": "M",
-      "deathPlace": "Little Sisters of the Poor, Cork City, Ireland"
+      "sex": "M"
     },
     "I119": {
       "id": "I119",
@@ -326,8 +326,8 @@
       "spouseUnionIds": [
         "F59"
       ],
-      "birthDate": "1865",
       "birthPlace": "County Cork, Ireland",
+      "birthDate": "1865",
       "personPage": "people/catherine-enright.md",
       "deathDate": "1956",
       "sex": "F"
@@ -339,14 +339,14 @@
       "spouseUnionIds": [
         "F8"
       ],
-      "birthDate": "1878-02-12",
+      "deathPlace": "Wandsworth, London",
       "birthPlace": "Jabalpur, Bengal, India",
+      "birthDate": "1878-02-12",
+      "burialPlace": "East Sheen Cemetery, London SW14",
       "personPage": "people/gerald-sebastian-white.md",
       "deathDate": "1953-03-24",
       "role": "O.B.E.",
-      "sex": "M",
-      "deathPlace": "Wandsworth, London",
-      "burialPlace": "East Sheen Cemetery, London SW14"
+      "sex": "M"
     },
     "I120": {
       "id": "I120",
@@ -366,8 +366,8 @@
       "spouseUnionIds": [
         "F60"
       ],
-      "birthDate": "ABT 1832",
       "birthPlace": "Ireland",
+      "birthDate": "ABT 1832",
       "personPage": "people/catherine.md",
       "sex": "F"
     },
@@ -400,12 +400,12 @@
       "spouseUnionIds": [
         "F15"
       ],
-      "birthDate": "1736",
+      "deathPlace": "before 1811",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1736",
       "personPage": "people/maddelena-plarino.md",
       "deathDate": "1811",
-      "sex": "F",
-      "deathPlace": "before 1811"
+      "sex": "F"
     },
     "I125": {
       "id": "I125",
@@ -414,15 +414,15 @@
       "spouseUnionIds": [
         "F16"
       ],
-      "birthDate": "1715-12-26",
+      "deathPlace": "Zara, Dalmatia",
+      "birthPlace": "Zara, Dalmatia",
       "alsoKnownAs": [
         "Regina Margaritta Lanfranchi"
       ],
-      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1715-12-26",
       "personPage": "people/margherita-lanfranchi.md",
       "deathDate": "1749",
-      "sex": "F",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "F"
     },
     "I126": {
       "id": "I126",
@@ -431,12 +431,12 @@
       "spouseUnionIds": [
         "F56"
       ],
-      "birthDate": "1743-09-04",
+      "deathPlace": "before 1819",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1743-09-04",
       "personPage": "people/maria-teresa-robustella.md",
       "deathDate": "1819",
-      "sex": "F",
-      "deathPlace": "before 1819"
+      "sex": "F"
     },
     "I127": {
       "id": "I127",
@@ -467,11 +467,11 @@
       "spouseUnionIds": [
         "F64"
       ],
+      "deathPlace": "before 1766",
       "birthPlace": "Zara, Dalmatia",
       "personPage": "people/pietro-plarino.md",
       "deathDate": "1766",
-      "sex": "M",
-      "deathPlace": "before 1766"
+      "sex": "M"
     },
     "I13": {
       "id": "I13",
@@ -480,8 +480,8 @@
       "spouseUnionIds": [
         "F8"
       ],
-      "birthDate": "1893-02-19",
       "birthPlace": "Monkstown, County Cork, Ireland",
+      "birthDate": "1893-02-19",
       "personPage": "people/mary-oshea.md",
       "deathDate": "1968-11",
       "sex": "F"
@@ -493,11 +493,11 @@
       "spouseUnionIds": [
         "F65"
       ],
+      "deathPlace": "before 1777",
       "birthPlace": "Zara, Dalmatia",
       "personPage": "people/antonio-coltelli.md",
       "deathDate": "1777",
-      "sex": "M",
-      "deathPlace": "before 1777"
+      "sex": "M"
     },
     "I131": {
       "id": "I131",
@@ -506,11 +506,11 @@
       "spouseUnionIds": [
         "F66"
       ],
+      "deathPlace": "before 1777",
       "birthPlace": "Zara, Dalmatia",
       "personPage": "people/giacomo-sandri.md",
       "deathDate": "1777",
-      "sex": "M",
-      "deathPlace": "before 1777"
+      "sex": "M"
     },
     "I132": {
       "id": "I132",
@@ -548,13 +548,13 @@
       "spouseUnionIds": [
         "F67"
       ],
-      "birthDate": "1844-05",
+      "deathPlace": "Tralee, County Kerry, Ireland",
       "birthPlace": "Carlow Town, County Carlow, Ireland",
+      "birthDate": "1844-05",
       "personPage": "people/william-obyrne-white.md",
       "deathDate": "1931",
       "role": "Military surgeon",
-      "sex": "M",
-      "deathPlace": "Tralee, County Kerry, Ireland"
+      "sex": "M"
     },
     "I136": {
       "id": "I136",
@@ -563,12 +563,12 @@
       "spouseUnionIds": [
         "F67"
       ],
-      "birthDate": "1841",
+      "deathPlace": "Tralee, Kerry, Ireland",
       "birthPlace": "Dublin, Ireland",
+      "birthDate": "1841",
       "personPage": "people/catherine-mary-roche.md",
       "deathDate": "1937",
-      "sex": "F",
-      "deathPlace": "Tralee, Kerry, Ireland"
+      "sex": "F"
     },
     "I137": {
       "id": "I137",
@@ -577,13 +577,13 @@
       "spouseUnionIds": [
         "F68"
       ],
-      "birthDate": "~1806",
+      "deathPlace": "Dublin, Ireland",
       "birthPlace": "Limerick, Ireland",
+      "birthDate": "~1806",
       "personPage": "people/william-roche.md",
       "deathDate": "1894-04-14",
       "role": "Crown Solicitor for the County and City of Limerick; senior partner, William Roche & Sons, Solicitors, 72 Harcourt Street, Dublin",
-      "sex": "M",
-      "deathPlace": "Dublin, Ireland"
+      "sex": "M"
     },
     "I138": {
       "id": "I138",
@@ -592,7 +592,7 @@
       "spouseUnionIds": [
         "F69"
       ],
-      "birthPlace": "France",
+      "birthPlace": "Nice, France",
       "personPage": "people/charles-bottin.md",
       "sex": "M"
     },
@@ -604,6 +604,10 @@
         "F69"
       ],
       "birthPlace": "France",
+      "alsoKnownAs": [
+        "Josephine Baudouin",
+        "Josèphe Baudoin"
+      ],
       "personPage": "people/josephine-baudouin.md",
       "sex": "F"
     },
@@ -614,18 +618,18 @@
       "spouseUnionIds": [
         "F5"
       ],
-      "birthDate": "1889-06-24",
+      "deathPlace": "Florence, Italy",
+      "birthPlace": "Zara, Dalmatia",
       "alsoKnownAs": [
         "Tonci"
       ],
-      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1889-06-24",
       "personPage": "people/antonio-zerauschek.md",
       "deathDate": "1973-02-28",
       "role": "Trader, banker, landowner; cigarettes",
-      "nationality": "Italian Kingdom",
+      "era": "Interwar",
       "sex": "M",
-      "deathPlace": "Florence, Italy",
-      "era": "Interwar"
+      "nationality": "Italian Kingdom"
     },
     "I140": {
       "id": "I140",
@@ -634,17 +638,17 @@
       "spouseUnionIds": [
         "F70"
       ],
-      "birthDate": "1834-03-10",
+      "deathPlace": "Yverdon-les-Bains, Switzerland",
+      "birthPlace": "Erlen, Thurgau, Switzerland",
       "alsoKnownAs": [
         "Markus Franz Stump",
         "Marcus Franz Stump",
         "Marc François Stump"
       ],
-      "birthPlace": "Erlen, Thurgau, Switzerland",
+      "birthDate": "1834-03-10",
       "personPage": "people/marc-francois-stump.md",
       "deathDate": "1903-04-03",
-      "sex": "M",
-      "deathPlace": "Yverdon-les-Bains, Switzerland"
+      "sex": "M"
     },
     "I141": {
       "id": "I141",
@@ -653,12 +657,12 @@
       "spouseUnionIds": [
         "F70"
       ],
-      "birthDate": "1844-11-11",
+      "deathPlace": "Tallinn, Estonia",
       "birthPlace": "St. Petersburg, Russia",
+      "birthDate": "1844-11-11",
       "personPage": "people/olga-caroline-erbe.md",
       "deathDate": "1894-10-15",
-      "sex": "F",
-      "deathPlace": "Tallinn, Estonia"
+      "sex": "F"
     },
     "I142": {
       "id": "I142",
@@ -667,8 +671,8 @@
       "spouseUnionIds": [
         "F71"
       ],
-      "birthDate": "1800-06-15",
       "birthPlace": "Sulgen, Thurgau, Switzerland",
+      "birthDate": "1800-06-15",
       "personPage": "people/hans-jacob-stump-1800.md",
       "sex": "M"
     },
@@ -679,12 +683,12 @@
       "spouseUnionIds": [
         "F71"
       ],
-      "birthDate": "1805-07-15",
+      "birthPlace": "Vaud, Switzerland",
       "alsoKnownAs": [
         "Jeanne Benigne Montagnon",
         "Jeanne Bonigne"
       ],
-      "birthPlace": "Vaud, Switzerland",
+      "birthDate": "1805-07-15",
       "personPage": "people/jeanne-benigne-montagnon.md",
       "sex": "F"
     },
@@ -695,12 +699,12 @@
       "spouseUnionIds": [
         "F72"
       ],
-      "birthDate": "1767-10-25",
+      "deathPlace": "Sulgen, Thurgau, Switzerland",
       "birthPlace": "Riedt bei Erlen, Thurgau, Switzerland",
+      "birthDate": "1767-10-25",
       "personPage": "people/hans-ulrich-stump.md",
       "deathDate": "1807-12-18",
-      "sex": "M",
-      "deathPlace": "Sulgen, Thurgau, Switzerland"
+      "sex": "M"
     },
     "I145": {
       "id": "I145",
@@ -720,16 +724,16 @@
       "spouseUnionIds": [
         "F73"
       ],
-      "birthDate": "1730",
+      "deathPlace": "Sulgen, Thurgau, Switzerland",
+      "birthPlace": "Sulgen, Thurgau, Switzerland",
       "alsoKnownAs": [
         "Hans Conrad Stump",
         "Hans Konrad Stump"
       ],
-      "birthPlace": "Sulgen, Thurgau, Switzerland",
+      "birthDate": "1730",
       "personPage": "people/hs-konrad-stump.md",
       "deathDate": "1774-12-31",
-      "sex": "M",
-      "deathPlace": "Sulgen, Thurgau, Switzerland"
+      "sex": "M"
     },
     "I147": {
       "id": "I147",
@@ -738,12 +742,12 @@
       "spouseUnionIds": [
         "F73"
       ],
-      "birthDate": "1735-07-24",
+      "deathPlace": "Sulgen, Thurgau, Switzerland",
       "birthPlace": "Sulgen, Thurgau, Switzerland",
+      "birthDate": "1735-07-24",
       "personPage": "people/anna-margaretha-jung.md",
       "deathDate": "1807-12-18",
-      "sex": "F",
-      "deathPlace": "Sulgen, Thurgau, Switzerland"
+      "sex": "F"
     },
     "I148": {
       "id": "I148",
@@ -752,8 +756,8 @@
       "spouseUnionIds": [
         "F74"
       ],
-      "birthDate": "1702",
       "birthPlace": "Thurgau, Switzerland",
+      "birthDate": "1702",
       "personPage": "people/hans-conrad-stump.md",
       "sex": "M"
     },
@@ -775,12 +779,12 @@
       "spouseUnionIds": [
         "F5"
       ],
-      "birthDate": "1896-05-16",
+      "deathPlace": "Florence, Italy",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1896-05-16",
       "personPage": "people/ester-addobbati.md",
       "deathDate": "1971-09-13",
-      "sex": "F",
-      "deathPlace": "Florence, Italy"
+      "sex": "F"
     },
     "I150": {
       "id": "I150",
@@ -800,12 +804,12 @@
       "spouseUnionIds": [
         "F76"
       ],
-      "birthDate": "1674-09-13",
+      "deathPlace": "Sulgen, Thurgau, Switzerland",
       "birthPlace": "Buchackern, Thurgau, Switzerland",
+      "birthDate": "1674-09-13",
       "personPage": "people/hans-jacob-stump-1674.md",
       "deathDate": "1706-01-21",
-      "sex": "M",
-      "deathPlace": "Sulgen, Thurgau, Switzerland"
+      "sex": "M"
     },
     "I152": {
       "id": "I152",
@@ -824,12 +828,12 @@
       "spouseUnionIds": [
         "F77"
       ],
-      "birthDate": "1639-04-28",
+      "deathPlace": "Sulgen, Thurgau, Switzerland",
       "birthPlace": "Buchackern, Thurgau, Switzerland",
+      "birthDate": "1639-04-28",
       "personPage": "people/augustin-stumpf.md",
       "deathDate": "1679-02-27",
-      "sex": "M",
-      "deathPlace": "Sulgen, Thurgau, Switzerland"
+      "sex": "M"
     },
     "I154": {
       "id": "I154",
@@ -868,12 +872,12 @@
       "spouseUnionIds": [
         "F79"
       ],
-      "birthDate": "1623",
+      "deathPlace": "Heldswil, Thurgau, Switzerland",
       "birthPlace": "Heldswil, Thurgau, Switzerland",
+      "birthDate": "1623",
       "personPage": "people/aenderli-heinrich.md",
       "deathDate": "1666-08-16",
-      "sex": "M",
-      "deathPlace": "Heldswil, Thurgau, Switzerland"
+      "sex": "M"
     },
     "I158": {
       "id": "I158",
@@ -892,12 +896,12 @@
       "spouseUnionIds": [
         "F80"
       ],
-      "birthDate": "1594-01-23",
+      "deathPlace": "Heldswil, Thurgau, Switzerland",
       "birthPlace": "Heldswil, Thurgau, Switzerland",
+      "birthDate": "1594-01-23",
       "personPage": "people/andreas-heinrich.md",
       "deathDate": "1670-10-28",
-      "sex": "M",
-      "deathPlace": "Heldswil, Thurgau, Switzerland"
+      "sex": "M"
     },
     "I16": {
       "id": "I16",
@@ -906,7 +910,8 @@
       "spouseUnionIds": [
         "F6"
       ],
-      "birthDate": "1880-03-07",
+      "deathPlace": "Tehran, Iran",
+      "birthPlace": "Tallinn, Estonia",
       "alsoKnownAs": [
         "Etienne Marc Theodore Stump",
         "Atkin Stump",
@@ -914,15 +919,14 @@
         "Ashtamp / Eshtamp / Eshtump (Persian popular & literary)",
         "Ostump / Ostamp / Ostemp (Persian transliterations in memoirs)"
       ],
-      "birthPlace": "Tallinn, Estonia",
+      "birthDate": "1880-03-07",
+      "burialPlace": "Tehran Protestant Cemetery",
       "personPage": "people/etienne-stump.md",
       "deathDate": "1951-11-01",
       "role": "Dentist; early modern dentistry and training in Iran",
-      "nationality": "Swiss",
+      "era": "Late Qajar–Pahlavi Iran",
       "sex": "M",
-      "deathPlace": "Tehran, Iran",
-      "burialPlace": "Tehran Protestant Cemetery",
-      "era": "Late Qajar–Pahlavi Iran"
+      "nationality": "Swiss"
     },
     "I160": {
       "id": "I160",
@@ -963,8 +967,8 @@
       "spouseUnionIds": [
         "F82"
       ],
-      "birthDate": "1596-10-26",
       "birthPlace": "Buchackern, Thurgau, Switzerland",
+      "birthDate": "1596-10-26",
       "personPage": "people/caspar-stumpp.md",
       "sex": "M"
     },
@@ -985,8 +989,8 @@
       "spouseUnionIds": [
         "F83"
       ],
-      "birthDate": "ABT 1565",
       "birthPlace": "Sulgen, Thurgau, Switzerland",
+      "birthDate": "ABT 1565",
       "personPage": "people/blaesi-stump.md",
       "deathDate": "1629-10-07",
       "sex": "M"
@@ -1039,10 +1043,12 @@
       "spouseUnionIds": [
         "F7"
       ],
-      "birthDate": "1887-06-23",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1887-06-23",
       "personPage": "people/samuel-lewis.md",
-      "sex": "M"
+      "sex": "M",
+      "deathDate": "1967-08-07",
+      "deathPlace": "Maesyffynnon, Aberaman, Glamorganshire, Wales"
     },
     "I170": {
       "id": "I170",
@@ -1081,15 +1087,15 @@
       "spouseUnionIds": [
         "F87"
       ],
-      "birthDate": "1857-08-11",
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
+      "birthPlace": "Aberavon, Glamorganshire, Wales",
       "alsoKnownAs": [
         "David J. Lewis (census)"
       ],
-      "birthPlace": "Aberavon, Glamorganshire, Wales",
+      "birthDate": "1857-08-11",
       "personPage": "people/david-john-lewis-1857.md",
       "deathDate": "1925-05",
-      "sex": "M",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "M"
     },
     "I174": {
       "id": "I174",
@@ -1098,12 +1104,12 @@
       "spouseUnionIds": [
         "F87"
       ],
-      "birthDate": "1862",
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
       "birthPlace": "Aberdare, Glamorganshire, Wales",
+      "birthDate": "1862",
       "personPage": "people/catherine-griffiths.md",
       "deathDate": "1920",
-      "sex": "F",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "F"
     },
     "I175": {
       "id": "I175",
@@ -1112,12 +1118,12 @@
       "spouseUnionIds": [
         "F88"
       ],
-      "birthDate": "1853-07-28",
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
       "birthPlace": "Dowlais, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1853-07-28",
       "personPage": "people/david-cushen.md",
       "deathDate": "1907",
-      "sex": "M",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "M"
     },
     "I176": {
       "id": "I176",
@@ -1126,13 +1132,13 @@
       "spouseUnionIds": [
         "F88"
       ],
-      "deathDateGedcom": "ABT FEB 1925",
-      "birthDate": "1854",
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
       "birthPlace": "Dowlais, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1854",
       "personPage": "people/mary-morgan.md",
       "deathDate": "ABT FEB 1925",
-      "sex": "F",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "deathDateGedcom": "ABT FEB 1925",
+      "sex": "F"
     },
     "I177": {
       "id": "I177",
@@ -1141,12 +1147,12 @@
       "spouseUnionIds": [
         "F89"
       ],
-      "birthDate": "1821",
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
       "birthPlace": "Cork, County Cork, Ireland",
+      "birthDate": "1821",
       "personPage": "people/thomas-cushen.md",
       "deathDate": "1889-07",
-      "sex": "M",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "M"
     },
     "I178": {
       "id": "I178",
@@ -1155,12 +1161,12 @@
       "spouseUnionIds": [
         "F89"
       ],
-      "birthDate": "1826-06-10",
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
       "birthPlace": "Swansea, Glamorganshire, Wales",
+      "birthDate": "1826-06-10",
       "personPage": "people/ann-mainwaring.md",
       "deathDate": "1875-07",
-      "sex": "F",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "F"
     },
     "I179": {
       "id": "I179",
@@ -1169,12 +1175,12 @@
       "spouseUnionIds": [
         "F90"
       ],
-      "birthDate": "1797",
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
       "birthPlace": "Neath, Glamorgan, Wales",
+      "birthDate": "1797",
       "personPage": "people/richard-mainwaring.md",
       "deathDate": "1844-02",
-      "sex": "M",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "M"
     },
     "I18": {
       "id": "I18",
@@ -1183,8 +1189,8 @@
       "spouseUnionIds": [
         "F9"
       ],
-      "birthDate": "1940-08-28",
       "birthPlace": "Holborn, London, England",
+      "birthDate": "1940-08-28",
       "personPage": "people/joseph-evans-i18.md",
       "deathDate": "2024",
       "sex": "M"
@@ -1196,11 +1202,11 @@
       "spouseUnionIds": [
         "F90"
       ],
+      "deathPlace": "Swansea, Glamorganshire, Wales",
       "birthDate": "1802",
       "personPage": "people/mary-richards.md",
       "deathDate": "1852",
-      "sex": "F",
-      "deathPlace": "Swansea, Glamorganshire, Wales"
+      "sex": "F"
     },
     "I181": {
       "id": "I181",
@@ -1219,12 +1225,12 @@
       "spouseUnionIds": [
         "F92"
       ],
-      "birthDate": "1742-06-24",
+      "deathPlace": "Hüttwilen, Thurgau, Switzerland",
       "birthPlace": "Hüttwilen, Thurgau, Switzerland",
+      "birthDate": "1742-06-24",
       "personPage": "people/hans-conrad-haag.md",
       "deathDate": "1803-09-15",
-      "sex": "M",
-      "deathPlace": "Hüttwilen, Thurgau, Switzerland"
+      "sex": "M"
     },
     "I183": {
       "id": "I183",
@@ -1233,8 +1239,8 @@
       "spouseUnionIds": [
         "F92"
       ],
-      "birthDate": "1743-09-15",
       "birthPlace": "Wigoltingen, Thurgau, Switzerland",
+      "birthDate": "1743-09-15",
       "personPage": "people/margaretha-freyenmuth.md",
       "sex": "F"
     },
@@ -1245,8 +1251,8 @@
       "spouseUnionIds": [
         "F93"
       ],
-      "birthDate": "~1823",
       "birthPlace": "Essex, England",
+      "birthDate": "~1823",
       "personPage": "people/james-newcomb-i184.md",
       "sex": "M"
     },
@@ -1257,8 +1263,8 @@
       "spouseUnionIds": [
         "F93"
       ],
-      "birthDate": "~1824",
       "birthPlace": "Essex, England",
+      "birthDate": "~1824",
       "personPage": "people/susannah-south-i185.md",
       "sex": "F"
     },
@@ -1269,8 +1275,8 @@
       "spouseUnionIds": [
         "F94"
       ],
-      "birthDate": "~1793",
       "birthPlace": "Essex, England",
+      "birthDate": "~1793",
       "personPage": "people/william-newcomb-i186.md",
       "sex": "M"
     },
@@ -1281,8 +1287,8 @@
       "spouseUnionIds": [
         "F94"
       ],
-      "birthDate": "~1792",
       "birthPlace": "Witham, Essex, England",
+      "birthDate": "~1792",
       "personPage": "people/elizabeth-newcomb-i187.md",
       "deathDate": "Q2 1867",
       "sex": "F"
@@ -1294,9 +1300,9 @@
       "spouseUnionIds": [
         "F95"
       ],
-      "birthDateGedcom": "1770",
-      "birthDate": "1770",
       "birthPlace": "Purleigh, Essex, England, United Kingdom",
+      "birthDate": "1770",
+      "birthDateGedcom": "1770",
       "sex": "M"
     },
     "I189": {
@@ -1306,13 +1312,13 @@
       "spouseUnionIds": [
         "F95"
       ],
+      "deathPlace": "Purleigh, Essex, England, United Kingdom",
+      "birthPlace": "Purleigh, Essex, England, United Kingdom",
+      "birthDate": "1774",
+      "deathDate": "1836-12-11",
       "birthDateGedcom": "1774",
       "deathDateGedcom": "11 DEC 1836",
-      "birthDate": "1774",
-      "birthPlace": "Purleigh, Essex, England, United Kingdom",
-      "deathDate": "1836-12-11",
-      "sex": "F",
-      "deathPlace": "Purleigh, Essex, England, United Kingdom"
+      "sex": "F"
     },
     "I19": {
       "id": "I19",
@@ -1321,11 +1327,11 @@
       "spouseUnionIds": [
         "F9"
       ],
-      "birthDate": "1943-06-04",
+      "birthPlace": "Parral, Linares, Maule, Chile",
       "alsoKnownAs": [
         "Helia del Carmen Cerpa Pérez"
       ],
-      "birthPlace": "Parral, Linares, Maule, Chile",
+      "birthDate": "1943-06-04",
       "personPage": "people/helia-cerpa-perez.md",
       "deathDate": "2025",
       "sex": "F"
@@ -1337,10 +1343,10 @@
       "spouseUnionIds": [
         "F96"
       ],
-      "deathDateGedcom": "WFT Est 1686-1770",
       "birthDate": "1675",
       "personPage": "people/joseph-ayrey.md",
       "deathDate": "WFT Est 1686-1770",
+      "deathDateGedcom": "WFT Est 1686-1770",
       "sex": "M"
     },
     "I191": {
@@ -1350,11 +1356,11 @@
       "spouseUnionIds": [
         "F96"
       ],
-      "deathDateGedcom": "WFT Est 1686-1776",
-      "birthDate": "1663-09-21",
       "birthPlace": "Swarthmoor, Lancashire, England",
+      "birthDate": "1663-09-21",
       "personPage": "people/ann-braithwaite.md",
       "deathDate": "WFT Est 1686-1776",
+      "deathDateGedcom": "WFT Est 1686-1776",
       "sex": "F"
     },
     "I192": {
@@ -1364,8 +1370,8 @@
       "spouseUnionIds": [
         "F97"
       ],
-      "birthDate": "ABT 1634",
       "birthPlace": "Shap, Westmorland, England",
+      "birthDate": "ABT 1634",
       "personPage": "people/richard-ayray.md",
       "deathDate": "1683-11-16",
       "sex": "M"
@@ -1377,8 +1383,8 @@
       "spouseUnionIds": [
         "F97"
       ],
-      "birthDate": "ABT 1637",
       "birthPlace": "Shap, Westmorland, England",
+      "birthDate": "ABT 1637",
       "personPage": "people/mary-whitehead.md",
       "sex": "F"
     },
@@ -1387,12 +1393,12 @@
       "displayName": "Richard Braithwaite",
       "birthUnionId": "F99",
       "spouseUnionIds": [],
-      "birthDate": "1621-05-19",
+      "deathPlace": "Windermere, Westmorland",
       "birthPlace": "Cartmel, Lancashire, England",
+      "birthDate": "1621-05-19",
       "personPage": "people/richard-braithwaite.md",
       "deathDate": "1679-04-14",
-      "sex": "M",
-      "deathPlace": "Windermere, Westmorland"
+      "sex": "M"
     },
     "I195": {
       "id": "I195",
@@ -1402,12 +1408,12 @@
         "F99",
         "F205"
       ],
-      "birthDate": "1588",
+      "deathPlace": "East Appleton, Catterick, Yorkshire, England",
       "birthPlace": "Burneside, Westmorland, England",
+      "birthDate": "1588",
       "personPage": "people/richard-braithwaite-2.md",
       "deathDate": "1673-05-04",
-      "sex": "M",
-      "deathPlace": "East Appleton, Catterick, Yorkshire, England"
+      "sex": "M"
     },
     "I196": {
       "id": "I196",
@@ -1416,12 +1422,12 @@
       "spouseUnionIds": [
         "F99"
       ],
-      "birthDate": "ABT 1597",
+      "deathPlace": "Catterick, Yorkshire, England",
       "birthPlace": "Neesham, Durham, England",
+      "birthDate": "ABT 1597",
       "personPage": "people/lady-frances-lawson.md",
       "deathDate": "1633-03-07",
-      "sex": "F",
-      "deathPlace": "Catterick, Yorkshire, England"
+      "sex": "F"
     },
     "I197": {
       "id": "I197",
@@ -1430,12 +1436,12 @@
       "spouseUnionIds": [
         "F100"
       ],
-      "birthDate": "ABT 1537",
+      "deathPlace": "Burneside, Westmorland, England",
       "birthPlace": "Burneside, Westmorland, England",
+      "birthDate": "ABT 1537",
       "personPage": "people/thomas-braithwait-of-worcop.md",
       "deathDate": "1610",
-      "sex": "M",
-      "deathPlace": "Burneside, Westmorland, England"
+      "sex": "M"
     },
     "I198": {
       "id": "I198",
@@ -1444,11 +1450,11 @@
       "spouseUnionIds": [
         "F100"
       ],
-      "birthDate": "ABT 1544",
+      "deathPlace": "Burneshead, Westmorland, England",
       "birthPlace": "Haulston, Westmorland, England",
+      "birthDate": "ABT 1544",
       "personPage": "people/dorothy-bindlose.md",
-      "sex": "F",
-      "deathPlace": "Burneshead, Westmorland, England"
+      "sex": "F"
     },
     "I199": {
       "id": "I199",
@@ -1457,8 +1463,8 @@
       "spouseUnionIds": [
         "F101"
       ],
-      "birthDate": "ABT 1511",
       "birthPlace": "Ambleside, Westmorland, England",
+      "birthDate": "ABT 1511",
       "personPage": "people/robert-braithwait.md",
       "sex": "M"
     },
@@ -1469,12 +1475,12 @@
       "spouseUnionIds": [
         "F1"
       ],
-      "birthDate": "1951-12-04",
+      "deathPlace": "Bolsena, Italy",
       "birthPlace": "Florence, Italy",
+      "birthDate": "1951-12-04",
       "personPage": "people/ivor-anthony-samuel-lewis.md",
       "deathDate": "2024-04-21",
-      "sex": "M",
-      "deathPlace": "Bolsena, Italy"
+      "sex": "M"
     },
     "I20": {
       "id": "I20",
@@ -1483,13 +1489,13 @@
       "spouseUnionIds": [
         "F10"
       ],
-      "birthDate": "1852-05-05",
+      "deathPlace": "Zara, Dalmatia",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1852-05-05",
       "personPage": "people/pietro-pio-addobbati.md",
       "deathDate": "1919-04-08",
       "role": "Imperial Royal senior postal officer",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I200": {
       "id": "I200",
@@ -1498,8 +1504,8 @@
       "spouseUnionIds": [
         "F101"
       ],
-      "birthDate": "ABT 1514",
       "birthPlace": "Millbeck, Cumberland, England",
+      "birthDate": "ABT 1514",
       "personPage": "people/alice-williamson.md",
       "sex": "F"
     },
@@ -1510,12 +1516,12 @@
       "spouseUnionIds": [
         "F102"
       ],
-      "birthDate": "1511",
+      "deathPlace": "Carnforth, Lancaster, Lancashire, England, United Kingdom",
       "birthPlace": "Borwick, Lancaster, Lancashire, England, United Kingdom",
+      "birthDate": "1511",
       "personPage": "people/robert-bindlosse.md",
       "deathDate": "1589",
-      "sex": "M",
-      "deathPlace": "Carnforth, Lancaster, Lancashire, England, United Kingdom"
+      "sex": "M"
     },
     "I202": {
       "id": "I202",
@@ -1524,8 +1530,8 @@
       "spouseUnionIds": [
         "F103"
       ],
-      "birthDate": "ABT 1836",
       "birthPlace": "Luton, Hertfordshire, England",
+      "birthDate": "ABT 1836",
       "personPage": "people/david-fensom-i202.md",
       "sex": "M"
     },
@@ -1536,13 +1542,13 @@
       "spouseUnionIds": [
         "F103"
       ],
+      "deathPlace": "Edmonton, Middlesex, England, United Kingdom",
+      "birthPlace": "Middlesex, England, United Kingdom",
+      "birthDate": "1835-06-14",
+      "deathDate": "1921",
       "birthDateGedcom": "14 JUN 1835",
       "deathDateGedcom": "1921",
-      "birthDate": "1835-06-14",
-      "birthPlace": "Middlesex, England, United Kingdom",
-      "deathDate": "1921",
-      "sex": "F",
-      "deathPlace": "Edmonton, Middlesex, England, United Kingdom"
+      "sex": "F"
     },
     "I204": {
       "id": "I204",
@@ -1560,8 +1566,8 @@
       "spouseUnionIds": [
         "F107"
       ],
-      "birthDate": "ABT 1862",
       "birthPlace": "Barnsbury, Islington, London, England",
+      "birthDate": "ABT 1862",
       "personPage": "people/georgina-fensom-i205.md",
       "sex": "F"
     },
@@ -1572,13 +1578,13 @@
       "spouseUnionIds": [
         "F106"
       ],
+      "deathPlace": "Islington, London, England, United Kingdom",
+      "birthPlace": "Islington, London, England, United Kingdom",
+      "birthDate": "OCT 1864",
+      "deathDate": "JUN 1929",
       "birthDateGedcom": "OCT 1864",
       "deathDateGedcom": "JUN 1929",
-      "birthDate": "OCT 1864",
-      "birthPlace": "Islington, London, England, United Kingdom",
-      "deathDate": "JUN 1929",
-      "sex": "M",
-      "deathPlace": "Islington, London, England, United Kingdom"
+      "sex": "M"
     },
     "I207": {
       "id": "I207",
@@ -1587,13 +1593,13 @@
       "spouseUnionIds": [
         "F108"
       ],
+      "deathPlace": "England, United Kingdom",
+      "birthPlace": "Islington, London, England, United Kingdom",
+      "birthDate": "ABT 1875",
+      "deathDate": "1906",
       "birthDateGedcom": "ABT 1875",
       "deathDateGedcom": "1906",
-      "birthDate": "ABT 1875",
-      "birthPlace": "Islington, London, England, United Kingdom",
-      "deathDate": "1906",
-      "sex": "F",
-      "deathPlace": "England, United Kingdom"
+      "sex": "F"
     },
     "I208": {
       "id": "I208",
@@ -1602,9 +1608,9 @@
       "spouseUnionIds": [
         "F104"
       ],
-      "birthDateGedcom": "ABT 1805",
-      "birthDate": "ABT 1805",
       "birthPlace": "Marylebone, Middlesex, England, United Kingdom",
+      "birthDate": "ABT 1805",
+      "birthDateGedcom": "ABT 1805",
       "sex": "F"
     },
     "I209": {
@@ -1614,9 +1620,9 @@
       "spouseUnionIds": [
         "F109"
       ],
-      "birthDateGedcom": "1877",
-      "birthDate": "1877",
       "birthPlace": "Islington, London, England, United Kingdom",
+      "birthDate": "1877",
+      "birthDateGedcom": "1877",
       "sex": "F"
     },
     "I21": {
@@ -1626,8 +1632,8 @@
       "spouseUnionIds": [
         "F10"
       ],
-      "birthDate": "1865-04-14",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1865-04-14",
       "personPage": "people/ottilia-anna-vincenza-boara.md",
       "deathDate": "1937",
       "sex": "F"
@@ -1648,9 +1654,9 @@
       "spouseUnionIds": [
         "F105"
       ],
-      "birthDateGedcom": "ABT 1802",
-      "birthDate": "ABT 1802",
       "birthPlace": "Luton, Bedfordshire, England, United Kingdom",
+      "birthDate": "ABT 1802",
+      "birthDateGedcom": "ABT 1802",
       "sex": "F"
     },
     "I212": {
@@ -1660,9 +1666,9 @@
       "spouseUnionIds": [
         "F107"
       ],
-      "birthDateGedcom": "1851",
-      "birthDate": "1851",
       "birthPlace": "Shepton Mallet, Somerset, England",
+      "birthDate": "1851",
+      "birthDateGedcom": "1851",
       "sex": "M"
     },
     "I213": {
@@ -1672,9 +1678,9 @@
       "spouseUnionIds": [
         "F106"
       ],
-      "birthDateGedcom": "1864",
-      "birthDate": "1864",
       "birthPlace": "Hammersmith, Fulham, London & Middlesex, England, London, Middlesex",
+      "birthDate": "1864",
+      "birthDateGedcom": "1864",
       "sex": "F"
     },
     "I214": {
@@ -1682,9 +1688,9 @@
       "displayName": "Mary Fensom",
       "birthUnionId": "F105",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1823",
-      "birthDate": "1823",
       "birthPlace": "Hertfordshire, England, United Kingdom",
+      "birthDate": "1823",
+      "birthDateGedcom": "1823",
       "sex": "F"
     },
     "I215": {
@@ -1692,9 +1698,9 @@
       "displayName": "Fanny Fensom",
       "birthUnionId": "F105",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1826",
-      "birthDate": "ABT 1826",
       "birthPlace": "Hertfordshire, England, United Kingdom",
+      "birthDate": "ABT 1826",
+      "birthDateGedcom": "ABT 1826",
       "sex": "F"
     },
     "I216": {
@@ -1704,9 +1710,9 @@
       "spouseUnionIds": [
         "F108"
       ],
-      "birthDateGedcom": "1875",
-      "birthDate": "1875",
       "birthPlace": "Lambeth, Surrey, England",
+      "birthDate": "1875",
+      "birthDateGedcom": "1875",
       "sex": "M"
     },
     "I217": {
@@ -1714,9 +1720,9 @@
       "displayName": "Thomas Fensom",
       "birthUnionId": "F105",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1832",
-      "birthDate": "ABT 1832",
       "birthPlace": "Hertfordshire, England, United Kingdom",
+      "birthDate": "ABT 1832",
+      "birthDateGedcom": "ABT 1832",
       "sex": "M"
     },
     "I218": {
@@ -1724,9 +1730,9 @@
       "displayName": "Maria Fensom",
       "birthUnionId": "F105",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1834",
-      "birthDate": "ABT 1834",
       "birthPlace": "Hertfordshire, England, United Kingdom",
+      "birthDate": "ABT 1834",
+      "birthDateGedcom": "ABT 1834",
       "sex": "F"
     },
     "I219": {
@@ -1734,9 +1740,9 @@
       "displayName": "Samuel Fensom",
       "birthUnionId": "F105",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1838",
-      "birthDate": "ABT 1838",
       "birthPlace": "Hertfordshire, England, United Kingdom",
+      "birthDate": "ABT 1838",
+      "birthDateGedcom": "ABT 1838",
       "sex": "M"
     },
     "I22": {
@@ -1747,15 +1753,15 @@
         "F11",
         "F204"
       ],
-      "birthDate": "1820-07-23",
+      "deathPlace": "Zara, Dalmatia",
+      "birthPlace": "Zara, Dalmatia",
       "alsoKnownAs": [
         "Šimun Boara"
       ],
-      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1820-07-23",
       "personPage": "people/simeone-vincenzo-boara.md",
       "deathDate": "1896-04-03",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I220": {
       "id": "I220",
@@ -1764,13 +1770,13 @@
       "spouseUnionIds": [
         "F109"
       ],
+      "deathPlace": "Oxfordshire, England, United Kingdom",
+      "birthPlace": "England, United Kingdom",
+      "birthDate": "ABT 1876",
+      "deathDate": "1964-03-05",
       "birthDateGedcom": "ABT 1876",
       "deathDateGedcom": "5 MAR 1964",
-      "birthDate": "ABT 1876",
-      "birthPlace": "England, United Kingdom",
-      "deathDate": "1964-03-05",
-      "sex": "M",
-      "deathPlace": "Oxfordshire, England, United Kingdom"
+      "sex": "M"
     },
     "I221": {
       "id": "I221",
@@ -1779,10 +1785,10 @@
       "spouseUnionIds": [
         "F110"
       ],
-      "deathDateGedcom": "1823",
+      "deathPlace": "Luton, Bedfordshire, England, United Kingdom",
       "deathDate": "1823",
-      "sex": "M",
-      "deathPlace": "Luton, Bedfordshire, England, United Kingdom"
+      "deathDateGedcom": "1823",
+      "sex": "M"
     },
     "I222": {
       "id": "I222",
@@ -1850,8 +1856,8 @@
       "spouseUnionIds": [
         "F113"
       ],
-      "birthDate": "1858",
       "birthPlace": "Islington, London, England, United Kingdom",
+      "birthDate": "1858",
       "personPage": "people/thomas-martin-i229.md",
       "sex": "M"
     },
@@ -1862,12 +1868,12 @@
       "spouseUnionIds": [
         "F12"
       ],
-      "birthDate": "1815-04-27",
+      "deathPlace": "Zara, Dalmatia",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1815-04-27",
       "personPage": "people/pietro-paolo-addobbati.md",
       "deathDate": "1888-12-29",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I230": {
       "id": "I230",
@@ -1876,8 +1882,8 @@
       "spouseUnionIds": [
         "F113"
       ],
-      "birthDate": "1871",
       "birthPlace": "Islington, London, England, United Kingdom",
+      "birthDate": "1871",
       "personPage": "people/elizabeth-moran-i230.md",
       "sex": "F"
     },
@@ -1908,8 +1914,8 @@
       "displayName": "Elizabeth MORAN",
       "birthUnionId": "F116",
       "spouseUnionIds": [],
-      "birthDate": "1871",
       "birthPlace": "Holloway, Middlesex, England",
+      "birthDate": "1871",
       "personPage": "people/elizabeth-moran-i233.md",
       "sex": "F"
     },
@@ -1920,8 +1926,8 @@
       "spouseUnionIds": [
         "F116"
       ],
-      "birthDate": "1846",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1846",
       "personPage": "people/hannah-walton-i234.md",
       "sex": "F"
     },
@@ -1932,8 +1938,8 @@
       "spouseUnionIds": [
         "F116"
       ],
-      "birthDate": "1848",
       "birthPlace": "St Neots, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1848",
       "personPage": "people/william-moran-i235.md",
       "sex": "M"
     },
@@ -1950,8 +1956,8 @@
       "displayName": "James MORAN",
       "birthUnionId": "F116",
       "spouseUnionIds": [],
-      "birthDate": "1877",
       "birthPlace": "St Neots, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1877",
       "personPage": "people/james-moran-i237.md",
       "sex": "M"
     },
@@ -1960,8 +1966,8 @@
       "displayName": "Emma MORAN",
       "birthUnionId": "F116",
       "spouseUnionIds": [],
-      "birthDate": "1881",
       "birthPlace": "Holloway, Middlesex, England",
+      "birthDate": "1881",
       "personPage": "people/emma-moran-i238.md",
       "sex": "F"
     },
@@ -1980,12 +1986,12 @@
       "spouseUnionIds": [
         "F12"
       ],
-      "birthDate": "1825-07-12",
+      "deathPlace": "Zara, Dalmatia",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1825-07-12",
       "personPage": "people/geralda-rovero-brizzi.md",
       "deathDate": "1908-03-10",
-      "sex": "F",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "F"
     },
     "I240": {
       "id": "I240",
@@ -2000,8 +2006,8 @@
       "displayName": "William WALTON",
       "birthUnionId": "F116",
       "spouseUnionIds": [],
-      "birthDate": "1868",
       "birthPlace": "St Neots, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1868",
       "personPage": "people/william-walton-i241.md",
       "sex": "M"
     },
@@ -2012,9 +2018,9 @@
       "spouseUnionIds": [
         "F117"
       ],
-      "birthDateGedcom": "1804",
-      "birthDate": "1804",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1804",
+      "birthDateGedcom": "1804",
       "sex": "M"
     },
     "I243": {
@@ -2024,9 +2030,9 @@
       "spouseUnionIds": [
         "F117"
       ],
-      "birthDateGedcom": "1805",
-      "birthDate": "1805",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1805",
+      "birthDateGedcom": "1805",
       "sex": "F"
     },
     "I244": {
@@ -2043,9 +2049,9 @@
       "displayName": "Betsy WALTON",
       "birthUnionId": "F117",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1822",
-      "birthDate": "1822",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1822",
+      "birthDateGedcom": "1822",
       "sex": "F"
     },
     "I246": {
@@ -2071,9 +2077,9 @@
       "spouseUnionIds": [
         "F121"
       ],
-      "birthDateGedcom": "1832",
-      "birthDate": "1832",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1832",
+      "birthDateGedcom": "1832",
       "sex": "F"
     },
     "I249": {
@@ -2090,8 +2096,8 @@
       "spouseUnionIds": [
         "F13"
       ],
-      "birthDate": "1850-03-15",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1850-03-15",
       "personPage": "people/antonio-zerauschek-senior.md",
       "deathDate": "1899",
       "sex": "M"
@@ -2103,9 +2109,9 @@
       "spouseUnionIds": [
         "F122"
       ],
-      "birthDateGedcom": "1834",
-      "birthDate": "1834",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1834",
+      "birthDateGedcom": "1834",
       "sex": "M"
     },
     "I251": {
@@ -2113,9 +2119,9 @@
       "displayName": "Samuel WALTON",
       "birthUnionId": "F117",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1837",
-      "birthDate": "1837",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1837",
+      "birthDateGedcom": "1837",
       "sex": "M"
     },
     "I252": {
@@ -2125,9 +2131,9 @@
       "spouseUnionIds": [
         "F123"
       ],
-      "birthDateGedcom": "1842",
-      "birthDate": "1842",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1842",
+      "birthDateGedcom": "1842",
       "sex": "M"
     },
     "I253": {
@@ -2137,9 +2143,9 @@
       "spouseUnionIds": [
         "F124"
       ],
-      "birthDateGedcom": "1844",
-      "birthDate": "1844",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1844",
+      "birthDateGedcom": "1844",
       "sex": "M"
     },
     "I254": {
@@ -2149,13 +2155,13 @@
       "spouseUnionIds": [
         "F126"
       ],
+      "deathPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1840",
+      "deathDate": "1922",
       "birthDateGedcom": "1840",
       "deathDateGedcom": "1922",
-      "birthDate": "1840",
-      "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
-      "deathDate": "1922",
-      "sex": "F",
-      "deathPlace": "Eynesbury, Huntingdonshire, England, United Kingdom"
+      "sex": "F"
     },
     "I255": {
       "id": "I255",
@@ -2164,9 +2170,9 @@
       "spouseUnionIds": [
         "F125"
       ],
-      "birthDateGedcom": "1849",
-      "birthDate": "1849",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1849",
+      "birthDateGedcom": "1849",
       "sex": "F"
     },
     "I256": {
@@ -2176,8 +2182,8 @@
       "spouseUnionIds": [
         "F119"
       ],
-      "birthDateGedcom": "ABT 1750",
       "birthDate": "ABT 1750",
+      "birthDateGedcom": "ABT 1750",
       "sex": "F"
     },
     "I257": {
@@ -2187,8 +2193,8 @@
       "spouseUnionIds": [
         "F119"
       ],
-      "birthDateGedcom": "ABT 1750",
       "birthDate": "ABT 1750",
+      "birthDateGedcom": "ABT 1750",
       "sex": "M"
     },
     "I258": {
@@ -2205,9 +2211,9 @@
       "spouseUnionIds": [
         "F129"
       ],
-      "birthDateGedcom": "1807",
-      "birthDate": "1807",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1807",
+      "birthDateGedcom": "1807",
       "sex": "F"
     },
     "I26": {
@@ -2217,8 +2223,8 @@
       "spouseUnionIds": [
         "F13"
       ],
-      "birthDate": "1859-02-14",
       "birthPlace": "Pago, Zara, Dalmatia, Austria",
+      "birthDate": "1859-02-14",
       "personPage": "people/anna-herenda.md",
       "deathDate": "1923",
       "sex": "F"
@@ -2248,9 +2254,9 @@
       "spouseUnionIds": [
         "F128"
       ],
-      "birthDateGedcom": "1813",
-      "birthDate": "1813",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1813",
+      "birthDateGedcom": "1813",
       "sex": "M"
     },
     "I263": {
@@ -2260,13 +2266,13 @@
       "spouseUnionIds": [
         "F120"
       ],
+      "deathPlace": "Eaton Socon, Bedfordshire, England, United Kingdom",
+      "birthPlace": "Stevington, Bedfordshire, England",
+      "birthDate": "1747",
+      "deathDate": "1844",
       "birthDateGedcom": "1747",
       "deathDateGedcom": "1844",
-      "birthDate": "1747",
-      "birthPlace": "Stevington, Bedfordshire, England",
-      "deathDate": "1844",
-      "sex": "M",
-      "deathPlace": "Eaton Socon, Bedfordshire, England, United Kingdom"
+      "sex": "M"
     },
     "I264": {
       "id": "I264",
@@ -2275,9 +2281,9 @@
       "spouseUnionIds": [
         "F121"
       ],
-      "birthDateGedcom": "1828",
-      "birthDate": "1828",
       "birthPlace": "Bedfordshire",
+      "birthDate": "1828",
+      "birthDateGedcom": "1828",
       "sex": "M"
     },
     "I265": {
@@ -2296,9 +2302,9 @@
       "spouseUnionIds": [
         "F123"
       ],
-      "birthDateGedcom": "1847",
-      "birthDate": "1847",
       "birthPlace": "Hailweston, Hunts, England",
+      "birthDate": "1847",
+      "birthDateGedcom": "1847",
       "sex": "F"
     },
     "I267": {
@@ -2308,8 +2314,8 @@
       "spouseUnionIds": [
         "F124"
       ],
-      "birthDateGedcom": "1851",
       "birthDate": "1851",
+      "birthDateGedcom": "1851",
       "sex": "F"
     },
     "I268": {
@@ -2319,9 +2325,9 @@
       "spouseUnionIds": [
         "F125"
       ],
-      "birthDateGedcom": "3 MAR 1850",
-      "birthDate": "1850-03-03",
       "birthPlace": "Eaton Socon, Bedfordshire, England, United Kingdom",
+      "birthDate": "1850-03-03",
+      "birthDateGedcom": "3 MAR 1850",
       "sex": "M"
     },
     "I269": {
@@ -2331,9 +2337,9 @@
       "spouseUnionIds": [
         "F126"
       ],
-      "birthDateGedcom": "1839",
-      "birthDate": "1839",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1839",
+      "birthDateGedcom": "1839",
       "sex": "M"
     },
     "I27": {
@@ -2343,11 +2349,11 @@
       "spouseUnionIds": [
         "F11"
       ],
-      "birthDate": "1828-10-10",
+      "birthPlace": "Zara, Dalmatia",
       "alsoKnownAs": [
         "Elisa"
       ],
-      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1828-10-10",
       "personPage": "people/vittoria-elisa-carobbi.md",
       "deathDate": "1902-12-11",
       "sex": "F"
@@ -2368,12 +2374,12 @@
       "spouseUnionIds": [
         "F132"
       ],
-      "birthDateGedcom": "1764",
-      "deathDateGedcom": "JUL 1844",
+      "deathPlace": "Eaton Ford, Bedfordshire, England",
       "birthDate": "1764",
       "deathDate": "JUL 1844",
-      "sex": "M",
-      "deathPlace": "Eaton Ford, Bedfordshire, England"
+      "birthDateGedcom": "1764",
+      "deathDateGedcom": "JUL 1844",
+      "sex": "M"
     },
     "I272": {
       "id": "I272",
@@ -2391,9 +2397,9 @@
       "spouseUnionIds": [
         "F128"
       ],
-      "birthDateGedcom": "1814",
-      "birthDate": "1814",
       "birthPlace": "St Neots, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1814",
+      "birthDateGedcom": "1814",
       "sex": "F"
     },
     "I274": {
@@ -2401,8 +2407,8 @@
       "displayName": "Sarah Markham",
       "birthUnionId": "F120",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1776",
       "birthDate": "1776",
+      "birthDateGedcom": "1776",
       "sex": "F"
     },
     "I275": {
@@ -2412,9 +2418,9 @@
       "spouseUnionIds": [
         "F129"
       ],
-      "birthDateGedcom": "1804",
-      "birthDate": "1804",
       "birthPlace": "Eynesbury, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1804",
+      "birthDateGedcom": "1804",
       "sex": "M"
     },
     "I276": {
@@ -2424,9 +2430,9 @@
       "spouseUnionIds": [
         "F130"
       ],
-      "birthDateGedcom": "ABT 1721",
-      "birthDate": "ABT 1721",
       "birthPlace": "Little Paxton, Huntingdonshire, England, United Kingdom",
+      "birthDate": "ABT 1721",
+      "birthDateGedcom": "ABT 1721",
       "sex": "M"
     },
     "I277": {
@@ -2436,9 +2442,9 @@
       "spouseUnionIds": [
         "F130"
       ],
-      "birthDateGedcom": "ABT 1725",
-      "birthDate": "ABT 1725",
       "birthPlace": "Bicester, Oxfordshire, England, Great Britain",
+      "birthDate": "ABT 1725",
+      "birthDateGedcom": "ABT 1725",
       "sex": "F"
     },
     "I278": {
@@ -2448,9 +2454,9 @@
       "spouseUnionIds": [
         "F132"
       ],
-      "birthDateGedcom": "1775",
-      "birthDate": "1775",
       "birthPlace": "St Neots, Huntingdonshire, England, United Kingdom",
+      "birthDate": "1775",
+      "birthDateGedcom": "1775",
       "sex": "F"
     },
     "I279": {
@@ -2469,16 +2475,16 @@
       "spouseUnionIds": [
         "F7"
       ],
-      "birthDate": "1886-08-21",
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
+      "birthPlace": "Dowlais, Merthyr Tydfil, Glamorganshire, Wales",
       "alsoKnownAs": [
         "Lily Cushen",
         "Lily Lynch"
       ],
-      "birthPlace": "Dowlais, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1886-08-21",
       "personPage": "people/elizabeth-lilian-cushen.md",
       "deathDate": "1972-11",
-      "sex": "F",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "F"
     },
     "I280": {
       "id": "I280",
@@ -2494,9 +2500,9 @@
       "spouseUnionIds": [
         "F133"
       ],
-      "birthDateGedcom": "1744",
-      "birthDate": "1744",
       "birthPlace": "Stevington, Bedfordshire, England, United Kingdom",
+      "birthDate": "1744",
+      "birthDateGedcom": "1744",
       "sex": "M"
     },
     "I282": {
@@ -2529,10 +2535,10 @@
       "spouseUnionIds": [
         "F134"
       ],
-      "deathDateGedcom": "APR 1813",
+      "deathPlace": "Stevington, Bedfordshire, England, United Kingdom",
       "deathDate": "APR 1813",
-      "sex": "F",
-      "deathPlace": "Stevington, Bedfordshire, England, United Kingdom"
+      "deathDateGedcom": "APR 1813",
+      "sex": "F"
     },
     "I286": {
       "id": "I286",
@@ -2541,9 +2547,9 @@
       "spouseUnionIds": [
         "F133"
       ],
-      "birthDateGedcom": "ABT 1766",
-      "birthDate": "ABT 1766",
       "birthPlace": "Stevington, Bedfordshire, England, Great Britain",
+      "birthDate": "ABT 1766",
+      "birthDateGedcom": "ABT 1766",
       "sex": "F"
     },
     "I287": {
@@ -2553,8 +2559,8 @@
       "spouseUnionIds": [
         "F135"
       ],
-      "birthDate": "1735",
       "birthPlace": "Yorkshire, England",
+      "birthDate": "1735",
       "personPage": "people/edward-ridsdale.md",
       "sex": "M"
     },
@@ -2576,8 +2582,8 @@
       "spouseUnionIds": [
         "F136"
       ],
-      "birthDate": "Q1 1857",
       "birthPlace": "Islington, London, England",
+      "birthDate": "Q1 1857",
       "personPage": "people/william-evans-i289.md",
       "sex": "M"
     },
@@ -2588,20 +2594,20 @@
       "spouseUnionIds": [
         "F14"
       ],
-      "birthDate": "1781-03-24",
+      "deathPlace": "Zara, Dalmatia",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1781-03-24",
       "personPage": "people/vincenzo-giovanni-domenico-valentino-addobbati.md",
       "deathDate": "1839-01-28",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I290": {
       "id": "I290",
       "displayName": "Louisa SPENCER",
       "birthUnionId": "F191",
       "spouseUnionIds": [],
-      "birthDate": "1871-06-20",
       "birthPlace": "Charterhouse St Thomas, Middlesex, England, United Kingdom",
+      "birthDate": "1871-06-20",
       "personPage": "people/louisa-spencer.md",
       "sex": "F"
     },
@@ -2612,12 +2618,12 @@
       "spouseUnionIds": [
         "F50"
       ],
-      "birthDate": "1893-01-29",
+      "deathPlace": "Islington, London, England, United Kingdom",
       "birthPlace": "Islington, London, England, United Kingdom",
+      "birthDate": "1893-01-29",
       "personPage": "people/annie-fensom-i291.md",
       "deathDate": "ABT FEB 1972",
-      "sex": "F",
-      "deathPlace": "Islington, London, England, United Kingdom"
+      "sex": "F"
     },
     "I292": {
       "id": "I292",
@@ -2626,13 +2632,13 @@
       "spouseUnionIds": [
         "F137"
       ],
+      "deathPlace": "Islington, London, England, United Kingdom",
+      "birthPlace": "Islington, London, England, United Kingdom",
+      "birthDate": "OCT 1864",
+      "deathDate": "JUN 1929",
       "birthDateGedcom": "OCT 1864",
       "deathDateGedcom": "JUN 1929",
-      "birthDate": "OCT 1864",
-      "birthPlace": "Islington, London, England, United Kingdom",
-      "deathDate": "JUN 1929",
-      "sex": "M",
-      "deathPlace": "Islington, London, England, United Kingdom"
+      "sex": "M"
     },
     "I293": {
       "id": "I293",
@@ -2641,8 +2647,8 @@
       "spouseUnionIds": [
         "F137"
       ],
-      "birthDate": "1865",
       "birthPlace": "Cranbrook, Kent, England",
+      "birthDate": "1865",
       "personPage": "people/minnie-pope-i293.md",
       "sex": "F"
     },
@@ -2651,8 +2657,8 @@
       "displayName": "David FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1887",
       "birthPlace": "London, Middlesex, England",
+      "birthDate": "ABT 1887",
       "sex": "M"
     },
     "I582": {
@@ -2660,8 +2666,8 @@
       "displayName": "Minnie FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1889",
       "birthPlace": "London, Middlesex, England",
+      "birthDate": "ABT 1889",
       "sex": "F"
     },
     "I583": {
@@ -2669,8 +2675,8 @@
       "displayName": "Fred FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1891",
       "birthPlace": "London, Middlesex, England",
+      "birthDate": "ABT 1891",
       "sex": "M"
     },
     "I584": {
@@ -2678,8 +2684,8 @@
       "displayName": "Gertie FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1895",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT 1895",
       "sex": "F"
     },
     "I585": {
@@ -2687,8 +2693,8 @@
       "displayName": "William FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1898",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT 1898",
       "sex": "M"
     },
     "I586": {
@@ -2696,8 +2702,8 @@
       "displayName": "Gwynne FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1900",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT 1900",
       "sex": "F"
     },
     "I587": {
@@ -2705,8 +2711,8 @@
       "displayName": "Telly FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1902",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT 1902",
       "sex": "F"
     },
     "I588": {
@@ -2714,8 +2720,8 @@
       "displayName": "Rose FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1904",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT 1904",
       "sex": "F"
     },
     "I589": {
@@ -2723,8 +2729,8 @@
       "displayName": "Ellisie FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1906",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT 1906",
       "sex": "F"
     },
     "I590": {
@@ -2732,8 +2738,8 @@
       "displayName": "Allen FENSOM",
       "birthUnionId": "F137",
       "spouseUnionIds": [],
-      "birthDate": "ABT 1908",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT 1908",
       "sex": "F"
     },
     "I294": {
@@ -2743,9 +2749,9 @@
       "spouseUnionIds": [
         "F138"
       ],
-      "birthDateGedcom": "ABT 1836",
-      "birthDate": "ABT 1836",
       "birthPlace": "Harpenden, Hertfordshire, England, United Kingdom",
+      "birthDate": "ABT 1836",
+      "birthDateGedcom": "ABT 1836",
       "sex": "M"
     },
     "I295": {
@@ -2755,13 +2761,13 @@
       "spouseUnionIds": [
         "F138"
       ],
+      "deathPlace": "Edmonton, Middlesex, England, United Kingdom",
+      "birthPlace": "Middlesex, England, United Kingdom",
+      "birthDate": "1835-06-14",
+      "deathDate": "1921",
       "birthDateGedcom": "14 JUN 1835",
       "deathDateGedcom": "1921",
-      "birthDate": "1835-06-14",
-      "birthPlace": "Middlesex, England, United Kingdom",
-      "deathDate": "1921",
-      "sex": "F",
-      "deathPlace": "Edmonton, Middlesex, England, United Kingdom"
+      "sex": "F"
     },
     "I296": {
       "id": "I296",
@@ -2770,12 +2776,12 @@
       "spouseUnionIds": [
         "F139"
       ],
-      "deathDateGedcom": "25 MAY 1887",
-      "birthDate": "ABT 1825",
+      "deathPlace": "Middlesex, England, United Kingdom",
       "birthPlace": "Cranbrook, Kent, England",
+      "birthDate": "ABT 1825",
       "deathDate": "1887-05-25",
-      "sex": "M",
-      "deathPlace": "Middlesex, England, United Kingdom"
+      "deathDateGedcom": "25 MAY 1887",
+      "sex": "M"
     },
     "I591": {
       "id": "I591",
@@ -2784,8 +2790,8 @@
       "spouseUnionIds": [
         "F211"
       ],
-      "birthDate": "ABT 1801",
       "birthPlace": "Kent, England",
+      "birthDate": "ABT 1801",
       "sex": "M"
     },
     "I592": {
@@ -2795,8 +2801,8 @@
       "spouseUnionIds": [
         "F211"
       ],
-      "birthDate": "ABT 1806",
       "birthPlace": "Kent, England",
+      "birthDate": "ABT 1806",
       "sex": "F"
     },
     "I593": {
@@ -2804,8 +2810,8 @@
       "displayName": "Archibald COOLBEAR Jr",
       "birthUnionId": "F51",
       "spouseUnionIds": [],
-      "birthDate": "1912",
       "birthPlace": "Rochford, Essex, England",
+      "birthDate": "1912",
       "sex": "M"
     },
     "I594": {
@@ -2813,8 +2819,8 @@
       "displayName": "Henry Charles COOLBEAR",
       "birthUnionId": "F51",
       "spouseUnionIds": [],
-      "birthDate": "1917",
       "birthPlace": "Southend-on-Sea, Essex, England",
+      "birthDate": "1917",
       "sex": "M"
     },
     "I595": {
@@ -2822,8 +2828,8 @@
       "displayName": "Irene COOLBEAR",
       "birthUnionId": "F51",
       "spouseUnionIds": [],
-      "birthDate": "1921",
       "birthPlace": "Southend-on-Sea, Essex, England",
+      "birthDate": "1921",
       "sex": "F"
     },
     "I596": {
@@ -2833,8 +2839,8 @@
       "spouseUnionIds": [
         "F212"
       ],
-      "birthDate": "ABT 1840",
       "birthPlace": "Sevenoaks, Kent, England",
+      "birthDate": "ABT 1840",
       "personPage": "people/peter-martin-i596.md",
       "sex": "M"
     },
@@ -2845,8 +2851,8 @@
       "spouseUnionIds": [
         "F212"
       ],
-      "birthDate": "ABT 1854",
       "birthPlace": "Chelsfield, Kent, England",
+      "birthDate": "ABT 1854",
       "personPage": "people/clara-webb-i597.md",
       "sex": "F"
     },
@@ -2857,8 +2863,8 @@
       "spouseUnionIds": [
         "F139"
       ],
-      "birthDate": "ABT 1828",
       "birthPlace": "Cranbrook, Kent, England",
+      "birthDate": "ABT 1828",
       "sex": "F"
     },
     "I298": {
@@ -2868,13 +2874,13 @@
       "spouseUnionIds": [
         "F140"
       ],
-      "birthDate": "1814-09-03",
+      "deathPlace": "Rīga, Vidzeme, Latvia",
       "birthPlace": "Rakvere Linn, Estonia",
+      "birthDate": "1814-09-03",
       "personPage": "people/hermann-eberhard-erbe.md",
       "deathDate": "1872-01-22",
       "role": "Domschloßvogt",
-      "sex": "M",
-      "deathPlace": "Rīga, Vidzeme, Latvia"
+      "sex": "M"
     },
     "I299": {
       "id": "I299",
@@ -2883,12 +2889,12 @@
       "spouseUnionIds": [
         "F140"
       ],
-      "birthDate": "1812-03-20",
+      "deathPlace": "Talinn, Estonia",
       "birthPlace": "Talinn, Estonia",
+      "birthDate": "1812-03-20",
       "personPage": "people/emilie-ida-eylandt.md",
       "deathDate": "1872-07-14",
-      "sex": "F",
-      "deathPlace": "Talinn, Estonia"
+      "sex": "F"
     },
     "I3": {
       "id": "I3",
@@ -2897,8 +2903,8 @@
       "spouseUnionIds": [
         "F1"
       ],
-      "birthDate": "1949-12-13",
       "birthPlace": "Richmond, London",
+      "birthDate": "1949-12-13",
       "personPage": "people/catherine-stump.md",
       "sex": "F"
     },
@@ -2909,12 +2915,12 @@
       "spouseUnionIds": [
         "F15"
       ],
-      "birthDate": "1744-10-01",
+      "deathPlace": "before 1811",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1744-10-01",
       "personPage": "people/luigi-anzolo-alloisio-addobbati.md",
       "deathDate": "1811",
-      "sex": "M",
-      "deathPlace": "before 1811"
+      "sex": "M"
     },
     "I300": {
       "id": "I300",
@@ -2923,16 +2929,16 @@
       "spouseUnionIds": [
         "F141"
       ],
-      "birthDate": "1771-05-26",
+      "deathPlace": "Pernau, Kreis Pernau, Livland, Russiches",
+      "birthPlace": "Gotha, Thüringen, Germany",
       "alsoKnownAs": [
         "Georg Sigismund Erbe"
       ],
-      "birthPlace": "Gotha, Thüringen, Germany",
+      "birthDate": "1771-05-26",
       "personPage": "people/johann-georg-sigismund-erbe.md",
       "deathDate": "1841-10-28",
       "role": "Shulinspektor in Pärnu; Tit. Rath.",
-      "sex": "M",
-      "deathPlace": "Pernau, Kreis Pernau, Livland, Russiches"
+      "sex": "M"
     },
     "I301": {
       "id": "I301",
@@ -2941,15 +2947,15 @@
       "spouseUnionIds": [
         "F141"
       ],
-      "birthDate": "1781-06-14",
+      "deathPlace": "Rīga, Rīga, Vidzeme, Latvia",
+      "birthPlace": "Gotha, Thüringen, Germany",
       "alsoKnownAs": [
         "Dorothea"
       ],
-      "birthPlace": "Gotha, Thüringen, Germany",
+      "birthDate": "1781-06-14",
       "personPage": "people/caroline-sophie-heimberger.md",
       "deathDate": "1850-08-29",
-      "sex": "F",
-      "deathPlace": "Rīga, Rīga, Vidzeme, Latvia"
+      "sex": "F"
     },
     "I302": {
       "id": "I302",
@@ -2958,17 +2964,17 @@
       "spouseUnionIds": [
         "F142"
       ],
-      "birthDate": "1774-02-11",
+      "deathPlace": "Reval",
+      "birthPlace": "Leal",
       "alsoKnownAs": [
         "Johann Jakob Eylandt",
         "Jacob Eyland"
       ],
-      "birthPlace": "Leal",
+      "birthDate": "1774-02-11",
       "personPage": "people/johan-jacob-eylandt.md",
       "deathDate": "1831-08-07",
       "role": "Schneidermeister",
-      "sex": "M",
-      "deathPlace": "Reval"
+      "sex": "M"
     },
     "I303": {
       "id": "I303",
@@ -2977,12 +2983,12 @@
       "spouseUnionIds": [
         "F142"
       ],
-      "birthDate": "1779-04-23",
+      "deathPlace": "Reval",
       "birthPlace": "Fellin",
+      "birthDate": "1779-04-23",
       "personPage": "people/maria-elisabeth-busse.md",
       "deathDate": "1823-02-23",
-      "sex": "F",
-      "deathPlace": "Reval"
+      "sex": "F"
     },
     "I304": {
       "id": "I304",
@@ -2991,12 +2997,12 @@
       "spouseUnionIds": [
         "F143"
       ],
-      "birthDate": "1743-09-25",
+      "deathPlace": "Kirrefer, Livland, Estonia",
       "birthPlace": "Haggers",
+      "birthDate": "1743-09-25",
       "personPage": "people/carl-gustav-eylandt.md",
       "deathDate": "aft 1816",
-      "sex": "M",
-      "deathPlace": "Kirrefer, Livland, Estonia"
+      "sex": "M"
     },
     "I305": {
       "id": "I305",
@@ -3005,12 +3011,12 @@
       "spouseUnionIds": [
         "F143"
       ],
-      "birthDate": "1744",
+      "deathPlace": "Kirrefer, Livland, Estonia",
       "birthPlace": "Haggers",
+      "birthDate": "1744",
       "personPage": "people/margarete-elisabeth-wiedau.md",
       "deathDate": "1819",
-      "sex": "F",
-      "deathPlace": "Kirrefer, Livland, Estonia"
+      "sex": "F"
     },
     "I306": {
       "id": "I306",
@@ -3020,12 +3026,12 @@
         "F144",
         "F201"
       ],
-      "birthDate": "1748-05-08",
+      "deathPlace": "Viljandi",
       "birthPlace": "Tallinn",
+      "birthDate": "1748-05-08",
       "personPage": "people/ernst-gottlieb-busse.md",
       "deathDate": "1803-03",
-      "sex": "M",
-      "deathPlace": "Viljandi"
+      "sex": "M"
     },
     "I307": {
       "id": "I307",
@@ -3034,12 +3040,12 @@
       "spouseUnionIds": [
         "F144"
       ],
-      "birthDate": "1757",
+      "deathPlace": "Viljandi County, Estonia",
       "birthPlace": "Estonia",
+      "birthDate": "1757",
       "personPage": "people/anna-christina-schittmar.md",
       "deathDate": "1790",
-      "sex": "F",
-      "deathPlace": "Viljandi County, Estonia"
+      "sex": "F"
     },
     "I308": {
       "id": "I308",
@@ -3048,14 +3054,14 @@
       "spouseUnionIds": [
         "F145"
       ],
+      "deathPlace": "Tallinn",
+      "birthPlace": "Reval, Estonia",
       "alsoKnownAs": [
         "Jürgen Busse (Geni)"
       ],
-      "birthPlace": "Reval, Estonia",
       "personPage": "people/georg-busse.md",
       "deathDate": "1757-03-19",
-      "sex": "M",
-      "deathPlace": "Tallinn"
+      "sex": "M"
     },
     "I309": {
       "id": "I309",
@@ -3064,10 +3070,10 @@
       "spouseUnionIds": [
         "F145"
       ],
+      "birthPlace": "Estonia",
       "alsoKnownAs": [
         "Bischantz (Geni)"
       ],
-      "birthPlace": "Estonia",
       "personPage": "people/margaretha-elisabeth-bischanz.md",
       "sex": "F"
     },
@@ -3079,8 +3085,8 @@
         "F16",
         "F208"
       ],
-      "birthDate": "1702",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1702",
       "personPage": "people/d-daniele-addobbati.md",
       "sex": "M"
     },
@@ -3101,8 +3107,8 @@
       "spouseUnionIds": [
         "F147"
       ],
-      "birthDate": "1730",
       "birthPlace": "Tallinn, Estonia",
+      "birthDate": "1730",
       "personPage": "people/anna-christina.md",
       "sex": "F"
     },
@@ -3113,12 +3119,12 @@
       "spouseUnionIds": [
         "F148"
       ],
-      "birthDate": "1713",
+      "deathPlace": "Kirrefer",
       "birthPlace": "Riga",
+      "birthDate": "1713",
       "personPage": "people/caspar-martin-i-eylandt.md",
       "deathDate": "1766-11-20",
-      "sex": "M",
-      "deathPlace": "Kirrefer"
+      "sex": "M"
     },
     "I313": {
       "id": "I313",
@@ -3127,8 +3133,8 @@
       "spouseUnionIds": [
         "F148"
       ],
-      "birthDate": "1705",
       "birthPlace": "Haiba'scher Krug, Haggers, Livland, Estonia",
+      "birthDate": "1705",
       "personPage": "people/hedwig-helene-busch.md",
       "sex": "F"
     },
@@ -3139,8 +3145,8 @@
       "spouseUnionIds": [
         "F149"
       ],
-      "birthDate": "1746-11-07",
       "birthPlace": "Ohrdruf, Gotha, Germany",
+      "birthDate": "1746-11-07",
       "personPage": "people/sigmund-johann-bartholomaus-erbe.md",
       "sex": "M"
     },
@@ -3151,8 +3157,8 @@
       "spouseUnionIds": [
         "F149"
       ],
-      "birthDate": "1749-10-23",
       "birthPlace": "Ohrdruf, Germany",
+      "birthDate": "1749-10-23",
       "personPage": "people/johanna-magdalena-schultz.md",
       "deathDate": "1803-08-28",
       "sex": "F"
@@ -3164,8 +3170,8 @@
       "spouseUnionIds": [
         "F150"
       ],
-      "birthDate": "1714-10-28",
       "birthPlace": "Ohrdruf, Germany",
+      "birthDate": "1714-10-28",
       "personPage": "people/georg-christian-erbe.md",
       "sex": "M"
     },
@@ -3220,8 +3226,8 @@
       "spouseUnionIds": [
         "F152"
       ],
-      "birthDate": "1680",
       "birthPlace": "Schweinau",
+      "birthDate": "1680",
       "personPage": "people/hanns-erbe.md",
       "sex": "M"
     },
@@ -3253,12 +3259,12 @@
       "spouseUnionIds": [
         "F154"
       ],
-      "birthDate": "ABT 1485",
+      "deathPlace": "Ambleside, Westmorland, England, United Kingdom",
       "birthPlace": "Ambleside, Westmorland, England, United Kingdom",
+      "birthDate": "ABT 1485",
       "personPage": "people/richard-braithwait.md",
       "deathDate": "AFT 1537",
-      "sex": "M",
-      "deathPlace": "Ambleside, Westmorland, England, United Kingdom"
+      "sex": "M"
     },
     "I324": {
       "id": "I324",
@@ -3267,8 +3273,8 @@
       "spouseUnionIds": [
         "F154"
       ],
-      "birthDate": "ABT 1488",
       "birthPlace": "Esthwaite, Lancashire, England",
+      "birthDate": "ABT 1488",
       "personPage": "people/anne-sandys.md",
       "sex": "F"
     },
@@ -3279,12 +3285,12 @@
       "spouseUnionIds": [
         "F155"
       ],
-      "birthDate": "ABT 1459",
+      "deathPlace": "Brathay, Lancashire, England",
       "birthPlace": "Brathay, Lancashire, England",
+      "birthDate": "ABT 1459",
       "personPage": "people/thomas-braythwayte.md",
       "deathDate": "AFT 1494",
-      "sex": "M",
-      "deathPlace": "Brathay, Lancashire, England"
+      "sex": "M"
     },
     "I326": {
       "id": "I326",
@@ -3293,7 +3299,8 @@
       "spouseUnionIds": [
         "F156"
       ],
-      "birthDate": "1790",
+      "deathPlace": "Tabriz, Iran (buried Surb Astvatsatsin)",
+      "birthPlace": "Tbilisi, Georgia",
       "alsoKnownAs": [
         "Mayor Khan",
         "David Saginian",
@@ -3301,16 +3308,14 @@
         "David Saginskilli",
         "Seguinoff (Anna’s 1880 romanisation)",
         "Sākinyān / ساکینیان (Persian)",
-        "Davit Khan Saginian",
-        "Daoud Khan Seguinoff"
+        "Davit Khan Saginian"
       ],
-      "birthPlace": "Tbilisi, Georgia",
+      "birthDate": "1790",
       "personPage": "people/daoud-khan-saginian.md",
-      "deathDate": "1867",
-      "role": "Sartip (Brigadier General); farmandeh of Shiraz & Isfahan; sarperast-e Aramane",
-      "sex": "M",
-      "deathPlace": "Tabriz, Iran (buried Surb Astvatsatsin)",
-      "era": "Qajar"
+      "deathDate": "1867, Tabriz",
+      "role": "Sartip",
+      "era": "Qajar",
+      "sex": "M"
     },
     "I327": {
       "id": "I327",
@@ -3319,12 +3324,12 @@
       "spouseUnionIds": [
         "F157"
       ],
-      "birthDate": "1802",
+      "deathPlace": "Carlow, Carlow, County Carlow, Ireland",
       "birthPlace": "Wexford, County Wexford, Ireland",
+      "birthDate": "1802",
       "personPage": "people/matthew-esmond-white.md",
       "deathDate": "1866-06-26",
-      "sex": "M",
-      "deathPlace": "Carlow, Carlow, County Carlow, Ireland"
+      "sex": "M"
     },
     "I328": {
       "id": "I328",
@@ -3333,12 +3338,12 @@
       "spouseUnionIds": [
         "F157"
       ],
-      "birthDate": "1801",
+      "deathPlace": "County Carlow, Ireland",
       "birthPlace": "County Wicklow, Ireland",
+      "birthDate": "1801",
       "personPage": "people/catherine-byrne.md",
       "deathDate": "1856",
-      "sex": "F",
-      "deathPlace": "County Carlow, Ireland"
+      "sex": "F"
     },
     "I329": {
       "id": "I329",
@@ -3347,8 +3352,8 @@
       "spouseUnionIds": [
         "F158"
       ],
-      "birthDate": "1755",
       "birthPlace": "Ireland",
+      "birthDate": "1755",
       "personPage": "people/mathew-white.md",
       "sex": "M"
     },
@@ -3370,20 +3375,21 @@
       "spouseUnionIds": [
         "F158"
       ],
-      "birthDate": "1760",
       "birthPlace": "Ballynastra, Ireland",
+      "birthDate": "1760",
       "personPage": "people/mary-esmonde.md",
       "deathDate": "1824",
       "sex": "F"
     },
     "I331": {
       "id": "I331",
-      "displayName": "Edward Bottin",
+      "displayName": "Edward BOTTIN",
       "birthUnionId": "F38",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1891",
-      "birthDate": "1891",
       "birthPlace": "Tehran, Iran",
+      "birthDate": "1891",
+      "personPage": "people/edward-bottin.md",
+      "role": "Son of Julien Bottin & Fanny Burgess",
       "sex": "M"
     },
     "I332": {
@@ -3391,9 +3397,13 @@
       "displayName": "Alice BOTTIN",
       "birthUnionId": "F38",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1889",
-      "birthDate": "1889",
       "birthPlace": "Tehran, Iran",
+      "alsoKnownAs": [
+        "Alice Bottin"
+      ],
+      "birthDate": "1889",
+      "personPage": "people/alice-bottin.md",
+      "role": "Daughter of Julien Bottin & Fanny Burgess; married Ladislas Majewski",
       "sex": "F"
     },
     "I333": {
@@ -3401,9 +3411,9 @@
       "displayName": "Elizabeth LEWIS",
       "birthUnionId": "F87",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1898",
-      "birthDate": "1898",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1898",
+      "birthDateGedcom": "1898",
       "sex": "F"
     },
     "I334": {
@@ -3411,9 +3421,9 @@
       "displayName": "James LEWIS",
       "birthUnionId": "F87",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1894",
-      "birthDate": "1894",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1894",
+      "birthDateGedcom": "1894",
       "sex": "M"
     },
     "I335": {
@@ -3421,9 +3431,9 @@
       "displayName": "Thomas J LEWIS",
       "birthUnionId": "F87",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1903",
-      "birthDate": "1903",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1903",
+      "birthDateGedcom": "1903",
       "sex": "M"
     },
     "I336": {
@@ -3431,9 +3441,9 @@
       "displayName": "Thomas LEWIS",
       "birthUnionId": "F87",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1891",
-      "birthDate": "1891",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1891",
+      "birthDateGedcom": "1891",
       "sex": "M"
     },
     "I337": {
@@ -3441,11 +3451,11 @@
       "displayName": "Mary LEWIS",
       "birthUnionId": "F87",
       "spouseUnionIds": [],
-      "birthDate": "1886",
+      "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
       "alsoKnownAs": [
         "Miss M. A. Lewis (postcard)"
       ],
-      "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1886",
       "personPage": "people/mary-ann-lewis.md",
       "sex": "F"
     },
@@ -3454,13 +3464,13 @@
       "displayName": "John BURGESS",
       "birthUnionId": "F39",
       "spouseUnionIds": [],
+      "deathPlace": "Iran",
+      "birthPlace": "Iran",
+      "birthDate": "1854",
+      "deathDate": "1855",
       "birthDateGedcom": "1854",
       "deathDateGedcom": "1855",
-      "birthDate": "1854",
-      "birthPlace": "Iran",
-      "deathDate": "1855",
-      "sex": "M",
-      "deathPlace": "Iran"
+      "sex": "M"
     },
     "I339": {
       "id": "I339",
@@ -3502,13 +3512,13 @@
       "spouseUnionIds": [
         "F160"
       ],
-      "birthDate": "~1769",
+      "deathPlace": "George's Street, Limerick, Ireland",
       "birthPlace": "Limerick, Ireland",
+      "birthDate": "~1769",
       "personPage": "people/thomas-roche.md",
       "deathDate": "1855-12-15",
       "role": "Banker",
-      "sex": "M",
-      "deathPlace": "George's Street, Limerick, Ireland"
+      "sex": "M"
     },
     "I342": {
       "id": "I342",
@@ -3517,25 +3527,25 @@
       "spouseUnionIds": [
         "F160"
       ],
-      "birthDate": "~1772",
+      "deathPlace": "George's Street, Limerick, Ireland",
       "birthPlace": "Dingle, Kerry, Ireland",
+      "birthDate": "~1772",
       "personPage": "people/hellen-ankettle.md",
       "deathDate": "1849-03-22",
-      "sex": "F",
-      "deathPlace": "George's Street, Limerick, Ireland"
+      "sex": "F"
     },
     "I343": {
       "id": "I343",
       "displayName": "Lawrence WHITE",
       "birthUnionId": "F158",
       "spouseUnionIds": [],
+      "deathPlace": "Ireland",
+      "birthPlace": "Wexford, County Wexford, Ireland",
+      "birthDate": "ABT 1777",
+      "deathDate": "FEB 1845",
       "birthDateGedcom": "ABT 1777",
       "deathDateGedcom": "FEB 1845",
-      "birthDate": "ABT 1777",
-      "birthPlace": "Wexford, County Wexford, Ireland",
-      "deathDate": "FEB 1845",
-      "sex": "M",
-      "deathPlace": "Ireland"
+      "sex": "M"
     },
     "I344": {
       "id": "I344",
@@ -3544,8 +3554,8 @@
       "spouseUnionIds": [
         "F161"
       ],
-      "birthDate": "ABT 1732",
       "birthPlace": "Scarnagh Cross Roads, County Wexford, Ireland",
+      "birthDate": "ABT 1732",
       "personPage": "people/lawrence-white.md",
       "sex": "M"
     },
@@ -3556,8 +3566,8 @@
       "spouseUnionIds": [
         "F161"
       ],
-      "birthDate": "ABT 1735",
       "birthPlace": "Ireland",
+      "birthDate": "ABT 1735",
       "personPage": "people/jane-lee.md",
       "sex": "F"
     },
@@ -3568,12 +3578,12 @@
       "spouseUnionIds": [
         "F162"
       ],
-      "birthDate": "1912",
+      "birthPlace": "Chanco, Cauquenes, Maule, Chile",
       "alsoKnownAs": [
         "Miguel Luis Cerpa González",
         "Manuel Antonio Cerpa González"
       ],
-      "birthPlace": "Chanco, Cauquenes, Maule, Chile",
+      "birthDate": "1912",
       "personPage": "people/miguel-cerpa-gonzalez-i346.md",
       "deathDate": "1966",
       "sex": "M"
@@ -3585,15 +3595,15 @@
       "spouseUnionIds": [
         "F162"
       ],
-      "birthDate": "1912-07-16",
+      "deathPlace": "Coquimbo, Chile",
+      "birthPlace": "Parral, Linares, Maule, Chile",
       "alsoKnownAs": [
         "Laurencia del Carmen Perez Escobar"
       ],
-      "birthPlace": "Parral, Linares, Maule, Chile",
+      "birthDate": "1912-07-16",
       "personPage": "people/laurencia-perez-escobar-i347.md",
       "deathDate": "2002-12-09",
-      "sex": "F",
-      "deathPlace": "Coquimbo, Chile"
+      "sex": "F"
     },
     "I348": {
       "id": "I348",
@@ -3613,10 +3623,10 @@
       "spouseUnionIds": [
         "F163"
       ],
+      "birthPlace": "Chile",
       "alsoKnownAs": [
         "Ana González"
       ],
-      "birthPlace": "Chile",
       "personPage": "people/ana-gonzalez-i349.md",
       "sex": "F"
     },
@@ -3638,8 +3648,8 @@
       "spouseUnionIds": [
         "F164"
       ],
-      "birthDate": "1882",
       "birthPlace": "Chile",
+      "birthDate": "1882",
       "personPage": "people/francisco-antonio-perez-i350.md",
       "sex": "M"
     },
@@ -3650,8 +3660,8 @@
       "spouseUnionIds": [
         "F164"
       ],
-      "birthDate": "1885",
       "birthPlace": "Chile",
+      "birthDate": "1885",
       "personPage": "people/zoraida-escobar-i351.md",
       "sex": "F"
     },
@@ -3660,10 +3670,10 @@
       "displayName": "Miguel Cerpa Pérez",
       "birthUnionId": "F162",
       "spouseUnionIds": [],
-      "birthDate": "1948-03-04",
       "alsoKnownAs": [
         "Miguel Antonio Cerpa Pérez"
       ],
+      "birthDate": "1948-03-04",
       "personPage": "people/miguel-cerpa-perez-i352.md",
       "deathDate": "2015-10-11",
       "sex": "M"
@@ -3681,10 +3691,10 @@
       "displayName": "Narciso Cerpa Gonzales",
       "birthUnionId": "F163",
       "spouseUnionIds": [],
-      "birthDate": "1912",
       "alsoKnownAs": [
         "Narciso Antonio Cerpa Gonzales"
       ],
+      "birthDate": "1912",
       "personPage": "people/narciso-cerpa-gonzales-i354.md",
       "deathDate": "2009",
       "sex": "M"
@@ -3696,13 +3706,13 @@
       "spouseUnionIds": [
         "F165"
       ],
+      "deathPlace": "Brighton, Brighton and Hove, England, United Kingdom",
+      "birthPlace": "Hertfordshire, England, United Kingdom",
+      "birthDate": "1945-02-18",
+      "deathDate": "2010-01-03",
       "birthDateGedcom": "18 FEB 1945",
       "deathDateGedcom": "3 JAN 2010",
-      "birthDate": "1945-02-18",
-      "birthPlace": "Hertfordshire, England, United Kingdom",
-      "deathDate": "2010-01-03",
-      "sex": "M",
-      "deathPlace": "Brighton, Brighton and Hove, England, United Kingdom"
+      "sex": "M"
     },
     "I356": {
       "id": "I356",
@@ -3711,8 +3721,8 @@
       "spouseUnionIds": [
         "F166"
       ],
-      "birthDate": "1568",
       "birthPlace": "Neesham, Durham, England, United Kingdom",
+      "birthDate": "1568",
       "personPage": "people/james-lawson-of-nesham-abbey.md",
       "deathDate": "1631-10-20",
       "sex": "M"
@@ -3728,11 +3738,11 @@
         "F197",
         "F198"
       ],
-      "birthDate": "1570",
+      "deathPlace": "England, United Kingdom",
       "birthPlace": "Sockburn, Durham, England",
+      "birthDate": "1570",
       "personPage": "people/jane-conyers.md",
-      "sex": "F",
-      "deathPlace": "England, United Kingdom"
+      "sex": "F"
     },
     "I358": {
       "id": "I358",
@@ -3742,12 +3752,12 @@
         "F167",
         "F203"
       ],
-      "birthDate": "1724-12-05",
+      "deathPlace": "Limerick, Munster, Ireland",
       "birthPlace": "County Limerick, Ireland",
+      "birthDate": "1724-12-05",
       "personPage": "people/stephen-john-roche.md",
       "deathDate": "1804-02-12",
-      "sex": "M",
-      "deathPlace": "Limerick, Munster, Ireland"
+      "sex": "M"
     },
     "I359": {
       "id": "I359",
@@ -3756,11 +3766,11 @@
       "spouseUnionIds": [
         "F167"
       ],
+      "deathPlace": "Ireland",
       "birthPlace": "Moyvanine and Clounties, Limerick, Ireland",
       "personPage": "people/sarah-obryen.md",
       "deathDate": "1786-11-08",
-      "sex": "F",
-      "deathPlace": "Ireland"
+      "sex": "F"
     },
     "I36": {
       "id": "I36",
@@ -3780,10 +3790,10 @@
       "spouseUnionIds": [
         "F68"
       ],
+      "deathPlace": "County Limerick, Ireland",
       "birthPlace": "Brickfield, Limerick, Ireland",
       "personPage": "people/eliza-knight.md",
-      "sex": "F",
-      "deathPlace": "County Limerick, Ireland"
+      "sex": "F"
     },
     "I361": {
       "id": "I361",
@@ -3816,13 +3826,13 @@
         "F170",
         "F202"
       ],
-      "birthDate": "1688",
+      "deathPlace": "Limerick, Munster, Ireland",
       "birthPlace": "Limerick City, County Limerick, barony of Connello Lower, Munster",
+      "birthDate": "1688",
       "personPage": "people/john-lysaght-roche.md",
       "deathDate": "1760-01-18",
       "role": "Merchant prince, Limerick; West Indies trader",
-      "sex": "M",
-      "deathPlace": "Limerick, Munster, Ireland"
+      "sex": "M"
     },
     "I364": {
       "id": "I364",
@@ -3831,15 +3841,15 @@
       "spouseUnionIds": [
         "F170"
       ],
-      "birthDate": "1689",
+      "deathPlace": "County Limerick, Ireland",
+      "birthPlace": "Mount Cashel, Clare, Ireland",
       "alsoKnownAs": [
         "Anne Roche (born Stacpoole) (Geni)"
       ],
-      "birthPlace": "Mount Cashel, Clare, Ireland",
+      "birthDate": "1689",
       "personPage": "people/anna-stackpole.md",
       "deathDate": "1760-01-18",
-      "sex": "F",
-      "deathPlace": "County Limerick, Ireland"
+      "sex": "F"
     },
     "I365": {
       "id": "I365",
@@ -3848,12 +3858,12 @@
       "spouseUnionIds": [
         "F171"
       ],
-      "birthDate": "1644",
+      "deathPlace": "Pery, Limerick, Ireland",
       "birthPlace": "Ireland",
+      "birthDate": "1644",
       "personPage": "people/philip-of-limerick-stackpole.md",
       "deathDate": "1715-12-04",
-      "sex": "M",
-      "deathPlace": "Pery, Limerick, Ireland"
+      "sex": "M"
     },
     "I366": {
       "id": "I366",
@@ -3862,12 +3872,12 @@
       "spouseUnionIds": [
         "F171"
       ],
-      "birthDate": "1658",
+      "deathPlace": "County Limerick, Ireland",
       "birthPlace": "Clare, Ireland",
+      "birthDate": "1658",
       "personPage": "people/christian-jane-creagh.md",
       "deathDate": "1717-05-03",
-      "sex": "F",
-      "deathPlace": "County Limerick, Ireland"
+      "sex": "F"
     },
     "I367": {
       "id": "I367",
@@ -3876,17 +3886,17 @@
       "spouseUnionIds": [
         "F172"
       ],
-      "birthDate": "~1660",
+      "deathPlace": "Pallas, County Limerick, Ireland",
+      "birthPlace": "Castletown-Roche, County Cork, Ireland",
       "alsoKnownAs": [
         "Dov (Geni)",
         "Stephen Roche \"the Black\""
       ],
-      "birthPlace": "Castletown-Roche, County Cork, Ireland",
+      "birthDate": "~1660",
       "personPage": "people/stephen-omoore-roche.md",
       "deathDate": "AFT 1688",
       "role": "Last Roche of Castletown-Roche; forfeited under William III",
-      "sex": "M",
-      "deathPlace": "Pallas, County Limerick, Ireland"
+      "sex": "M"
     },
     "I368": {
       "id": "I368",
@@ -3895,14 +3905,14 @@
       "spouseUnionIds": [
         "F172"
       ],
-      "birthDate": "1665",
+      "deathPlace": "Ireland",
+      "birthPlace": "Limerick, County Limerick, Ireland",
       "alsoKnownAs": [
         "Anastatia Roche (born Lysaght) (Geni)"
       ],
-      "birthPlace": "Limerick, County Limerick, Ireland",
+      "birthDate": "1665",
       "personPage": "people/anastasia-lysagt-burke.md",
-      "sex": "F",
-      "deathPlace": "Ireland"
+      "sex": "F"
     },
     "I369": {
       "id": "I369",
@@ -3911,12 +3921,12 @@
       "spouseUnionIds": [
         "F173"
       ],
-      "birthDate": "~1631",
+      "deathPlace": "Ireland",
       "birthPlace": "Castletown-Roche, County Cork, Ireland",
+      "birthDate": "~1631",
       "personPage": "people/robert-roche.md",
       "deathDate": "~1690",
-      "sex": "M",
-      "deathPlace": "Ireland"
+      "sex": "M"
     },
     "I37": {
       "id": "I37",
@@ -3936,12 +3946,12 @@
       "spouseUnionIds": [
         "F173"
       ],
-      "birthDate": "~1636",
+      "deathPlace": "Ireland",
       "birthPlace": "Ballina, County Kildare, Ireland",
+      "birthDate": "~1636",
       "personPage": "people/juliana-omoore.md",
       "deathDate": "~1689",
-      "sex": "F",
-      "deathPlace": "Ireland"
+      "sex": "F"
     },
     "I371": {
       "id": "I371",
@@ -3950,8 +3960,8 @@
       "spouseUnionIds": [
         "F174"
       ],
-      "birthDate": "~1600",
       "birthPlace": "Castletown-Roche, County Cork, Ireland",
+      "birthDate": "~1600",
       "personPage": "people/john-roche.md",
       "role": "Member of the Catholic Parliament, Kilkenny, 1641; descended from the Viscounts Fermoy",
       "sex": "M"
@@ -4056,8 +4066,8 @@
       "spouseUnionIds": [
         "F180"
       ],
-      "birthDate": "ABT 1746",
       "birthPlace": "Brickfield, Limerick, Ireland",
+      "birthDate": "ABT 1746",
       "personPage": "people/christopher-knight.md",
       "sex": "M"
     },
@@ -4068,8 +4078,8 @@
       "spouseUnionIds": [
         "F180"
       ],
-      "birthDate": "ABT 1748",
       "birthPlace": "Limerick, County Limerick, Ireland",
+      "birthDate": "ABT 1748",
       "personPage": "people/lacy.md",
       "sex": "F"
     },
@@ -4078,10 +4088,10 @@
       "displayName": "María Pérez Escobar",
       "birthUnionId": "F164",
       "spouseUnionIds": [],
-      "birthDate": "1915",
       "alsoKnownAs": [
         "María Estela Pérez Escobar"
       ],
+      "birthDate": "1915",
       "personPage": "people/maria-perez-escobar-i382.md",
       "sex": "F"
     },
@@ -4090,10 +4100,10 @@
       "displayName": "Madeline O'SHEA",
       "birthUnionId": "F59",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1897",
-      "birthDate": "1897",
       "birthPlace": "Cork, County Cork, Ireland",
+      "birthDate": "1897",
       "deathDate": "1977",
+      "birthDateGedcom": "1897",
       "sex": "F"
     },
     "I384": {
@@ -4101,10 +4111,10 @@
       "displayName": "Teresa Rose O'SHEA",
       "birthUnionId": "F59",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1895",
-      "birthDate": "1894",
       "birthPlace": "Cork, County Cork, Ireland",
+      "birthDate": "1894",
       "deathDate": "1974",
+      "birthDateGedcom": "1895",
       "sex": "F"
     },
     "I385": {
@@ -4114,20 +4124,20 @@
       "spouseUnionIds": [
         "F181"
       ],
-      "birthDateGedcom": "1832",
-      "deathDateGedcom": "21 MAY 1899",
-      "birthDate": "1832",
+      "deathPlace": "UK",
+      "birthPlace": "Tabrīz, Iran",
       "alsoKnownAs": [
         "Tamar Daoudian",
         "تامار (Persian Wikipedia form of her given name)"
       ],
-      "birthPlace": "Tabrīz, Iran",
+      "birthDate": "1832",
       "personPage": "people/tamar-saginian.md",
       "deathDate": "1899-05-21",
+      "birthDateGedcom": "1832",
+      "deathDateGedcom": "21 MAY 1899",
       "role": "Youngest Saginian sister; married into Qajar court medicine",
-      "sex": "F",
-      "deathPlace": "UK",
-      "era": "Qajar"
+      "era": "Qajar",
+      "sex": "F"
     },
     "I386": {
       "id": "I386",
@@ -4136,17 +4146,17 @@
       "spouseUnionIds": [
         "F181"
       ],
-      "birthDate": "1822",
+      "birthPlace": "Tabriz, Iran",
+      "birthDateAlt": "1819-07-19",
       "alsoKnownAs": [
         "Irish-Armenian physician (born Tabriz)"
       ],
-      "birthPlace": "Tabriz, Iran",
-      "birthDateAlt": "1819-07-19",
+      "birthDate": "1822",
       "personPage": "people/william-cormick.md",
       "deathDate": "1877",
       "role": "Royal physician; modernization of medicine in Persia",
-      "sex": "M",
-      "era": "Qajar"
+      "era": "Qajar",
+      "sex": "M"
     },
     "I387": {
       "id": "I387",
@@ -4155,11 +4165,11 @@
       "spouseUnionIds": [
         "F182"
       ],
+      "deathPlace": "before 1850",
       "birthPlace": "Zara, Dalmatia",
       "personPage": "people/biagio-zerauschek.md",
       "deathDate": "1850",
-      "sex": "M",
-      "deathPlace": "before 1850"
+      "sex": "M"
     },
     "I388": {
       "id": "I388",
@@ -4188,15 +4198,15 @@
       "displayName": "Peter LEWIS",
       "birthUnionId": "F4",
       "spouseUnionIds": [],
-      "birthDate": "1953-07-14",
+      "birthPlace": "Chipata, Eastern, Zambia",
       "alsoKnownAs": [
         "Peter Martin Lewis",
         "Peter Morgan Lewis"
       ],
-      "birthPlace": "Chipata, Eastern, Zambia",
+      "birthDate": "1953-07-14",
       "personPage": "people/peter-martin-lewis.md",
-      "nationality": "British",
-      "sex": "M"
+      "sex": "M",
+      "nationality": "British"
     },
     "I390": {
       "id": "I390",
@@ -4236,12 +4246,12 @@
       "displayName": "Luise STUMP",
       "birthUnionId": "F71",
       "spouseUnionIds": [],
-      "birthDate": "1837-07-11",
+      "deathPlace": "Tallinn, Estonia",
       "birthPlace": "Erlen, Thurgau, Switzerland",
+      "birthDate": "1837-07-11",
       "personPage": "people/luise-elizabeta-stump.md",
       "deathDate": "1910-03-08",
-      "sex": "F",
-      "deathPlace": "Tallinn, Estonia"
+      "sex": "F"
     },
     "I394": {
       "id": "I394",
@@ -4259,12 +4269,12 @@
       "spouseUnionIds": [
         "F185"
       ],
-      "birthDate": "1920-02-10",
+      "deathPlace": "Villars sur Ollon, Switzerland",
       "birthPlace": "Morges, Switzerland",
+      "birthDate": "1920-02-10",
       "personPage": "people/jacques-stump.md",
       "deathDate": "2013-11-20",
-      "sex": "M",
-      "deathPlace": "Villars sur Ollon, Switzerland"
+      "sex": "M"
     },
     "I396": {
       "id": "I396",
@@ -4280,10 +4290,10 @@
       "displayName": "Irene STUMP",
       "birthUnionId": "F6",
       "spouseUnionIds": [],
-      "birthDate": "1917",
       "alsoKnownAs": [
         "Loulou"
       ],
+      "birthDate": "1917",
       "personPage": "people/irene-stump.md",
       "sex": "F"
     },
@@ -4292,16 +4302,16 @@
       "displayName": "Jean Jacque Herman Eugen STUMP",
       "birthUnionId": "F70",
       "spouseUnionIds": [],
-      "birthDate": "1869-06-24",
+      "deathPlace": "Tallinn, Estonia",
+      "birthPlace": "Tallinn, Estonia",
       "alsoKnownAs": [
         "Jean Jaque Herman Eugen Stump",
         "Jean Jaque Herm. Eugen Stump"
       ],
-      "birthPlace": "Tallinn, Estonia",
+      "birthDate": "1869-06-24",
       "personPage": "people/jean-jacque-stump.md",
       "deathDate": "1874-05-07",
-      "sex": "M",
-      "deathPlace": "Tallinn, Estonia"
+      "sex": "M"
     },
     "I399": {
       "id": "I399",
@@ -4310,24 +4320,24 @@
       "spouseUnionIds": [
         "F206"
       ],
-      "birthDate": "1871-02-25",
+      "deathPlace": "Berlin, Germany",
+      "birthPlace": "Tallinn, Estonia",
       "alsoKnownAs": [
         "Roger Stump"
       ],
-      "birthPlace": "Tallinn, Estonia",
+      "birthDate": "1871-02-25",
       "personPage": "people/arthur-roger-stump.md",
       "deathDate": "1935-06-13",
-      "sex": "M",
-      "deathPlace": "Berlin, Germany"
+      "sex": "M"
     },
     "I4": {
       "id": "I4",
       "displayName": "Callas LEWIS",
       "birthUnionId": "F1",
       "spouseUnionIds": [],
-      "birthDateGedcom": "11 DEC 1980",
-      "birthDate": "1980-12-11",
       "birthPlace": "Canberra, Australia",
+      "birthDate": "1980-12-11",
+      "birthDateGedcom": "11 DEC 1980",
       "sex": "F"
     },
     "I40": {
@@ -4337,10 +4347,10 @@
       "spouseUnionIds": [
         "F37"
       ],
-      "birthDateGedcom": "18 DEC 1955",
-      "deathDateGedcom": "2013",
       "birthDate": "1955-12-18",
       "deathDate": "2013",
+      "birthDateGedcom": "18 DEC 1955",
+      "deathDateGedcom": "2013",
       "sex": "M"
     },
     "I400": {
@@ -4350,37 +4360,38 @@
       "spouseUnionIds": [
         "F207"
       ],
-      "deathDateGedcom": "1910",
-      "birthDate": "1872-11-29",
+      "deathPlace": "Latvia",
+      "birthPlace": "Tallinn, Estonia",
       "alsoKnownAs": [
         "Margarite Emilie Stump"
       ],
-      "birthPlace": "Tallinn, Estonia",
+      "birthDate": "1872-11-29",
       "personPage": "people/marguerite-emilie-stump.md",
       "deathDate": "1910",
-      "sex": "F",
-      "deathPlace": "Latvia"
+      "deathDateGedcom": "1910",
+      "sex": "F"
     },
     "I401": {
       "id": "I401",
       "displayName": "Antoinette STUMP",
       "birthUnionId": "F70",
       "spouseUnionIds": [],
-      "birthDate": "1873-12-13",
+      "deathPlace": "Tallinn, Estonia",
       "birthPlace": "Tallinn, Estonia",
+      "birthDate": "1873-12-13",
       "personPage": "people/antoinette-stump.md",
       "deathDate": "1881-04-29",
-      "sex": "F",
-      "deathPlace": "Tallinn, Estonia"
+      "sex": "F"
     },
     "I402": {
       "id": "I402",
-      "displayName": "Rene BOTTIN",
+      "displayName": "René BOTTIN",
       "birthUnionId": "F38",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1892",
-      "birthDate": "1892",
       "birthPlace": "Tehran, Iran",
+      "birthDate": "1892",
+      "personPage": "people/rene-bottin.md",
+      "role": "Son of Julien Bottin & Fanny Burgess",
       "sex": "M"
     },
     "I403": {
@@ -4388,9 +4399,10 @@
       "displayName": "George BOTTIN",
       "birthUnionId": "F38",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1895",
-      "birthDate": "1895",
       "birthPlace": "Tehran, Iran",
+      "birthDate": "1895",
+      "personPage": "people/george-bottin.md",
+      "role": "Son of Julien Bottin & Fanny Burgess",
       "sex": "M"
     },
     "I404": {
@@ -4405,10 +4417,10 @@
       "displayName": "Jacky STUMP",
       "birthUnionId": "F185",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1954",
-      "deathDateGedcom": "1991",
       "birthDate": "1954",
-      "deathDate": "1991"
+      "deathDate": "1991",
+      "birthDateGedcom": "1954",
+      "deathDateGedcom": "1991"
     },
     "I406": {
       "id": "I406",
@@ -4417,10 +4429,10 @@
       "spouseUnionIds": [
         "F185"
       ],
-      "birthDateGedcom": "1926",
-      "deathDateGedcom": "1980",
       "birthDate": "1926",
       "deathDate": "1980",
+      "birthDateGedcom": "1926",
+      "deathDateGedcom": "1980",
       "sex": "F"
     },
     "I408": {
@@ -4434,9 +4446,9 @@
       "displayName": "Reginald WHITE",
       "birthUnionId": "F67",
       "spouseUnionIds": [],
-      "birthDateGedcom": "2 NOV 1876",
-      "birthDate": "1876-11-02",
       "birthPlace": "Jabalpur, Bengal, India",
+      "birthDate": "1876-11-02",
+      "birthDateGedcom": "2 NOV 1876",
       "sex": "M"
     },
     "I41": {
@@ -4446,23 +4458,23 @@
       "spouseUnionIds": [
         "F165"
       ],
+      "deathPlace": "Kilkenny, County Kilkenny, Ireland",
+      "birthPlace": "Sirmione, Province of Brescia, Lombardy, Italy",
+      "birthDate": "1948-10-03",
+      "deathDate": "2019-09-04",
       "birthDateGedcom": "3 OCT 1948",
       "deathDateGedcom": "4 SEP 2019",
-      "birthDate": "1948-10-03",
-      "birthPlace": "Sirmione, Province of Brescia, Lombardy, Italy",
-      "deathDate": "2019-09-04",
-      "sex": "F",
-      "deathPlace": "Kilkenny, County Kilkenny, Ireland"
+      "sex": "F"
     },
     "I410": {
       "id": "I410",
       "displayName": "William WHITE",
       "birthUnionId": "F67",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1870",
-      "deathDateGedcom": "1954",
       "birthDate": "1870",
       "deathDate": "1954",
+      "birthDateGedcom": "1870",
+      "deathDateGedcom": "1954",
       "sex": "M"
     },
     "I411": {
@@ -4470,9 +4482,9 @@
       "displayName": "Kathleen WHITE",
       "birthUnionId": "F67",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1882",
-      "birthDate": "1882",
       "birthPlace": "Tipperary, Munster, Ireland",
+      "birthDate": "1882",
+      "birthDateGedcom": "1882",
       "sex": "F"
     },
     "I412": {
@@ -4480,9 +4492,9 @@
       "displayName": "Celsus WHITE",
       "birthUnionId": "F67",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1881",
-      "birthDate": "1881",
       "birthPlace": "Tipperary, Munster, Ireland",
+      "birthDate": "1881",
+      "birthDateGedcom": "1881",
       "sex": "M"
     },
     "I413": {
@@ -4492,8 +4504,8 @@
       "spouseUnionIds": [
         "F187"
       ],
-      "birthDate": "1824-03-07",
       "birthPlace": "Nantyglo, Aberystruth, Monmouthshire, Wales",
+      "birthDate": "1824-03-07",
       "personPage": "people/morgan.md",
       "sex": "M"
     },
@@ -4504,8 +4516,8 @@
       "spouseUnionIds": [
         "F187"
       ],
-      "birthDate": "1828",
       "birthPlace": "Dowlais, Glamorgan, Wales",
+      "birthDate": "1828",
       "personPage": "people/amelia.md",
       "sex": "F"
     },
@@ -4534,9 +4546,9 @@
       "displayName": "Margaret CUSHEN",
       "birthUnionId": "F88",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1876",
-      "birthDate": "1876",
       "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1876",
+      "birthDateGedcom": "1876",
       "sex": "F"
     },
     "I416": {
@@ -4544,9 +4556,9 @@
       "displayName": "David T CUSHEN",
       "birthUnionId": "F88",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1880",
-      "birthDate": "1880",
       "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1880",
+      "birthDateGedcom": "1880",
       "sex": "M"
     },
     "I417": {
@@ -4554,9 +4566,9 @@
       "displayName": "Hezekiah CUSHEN",
       "birthUnionId": "F88",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1873",
-      "birthDate": "1873",
       "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1873",
+      "birthDateGedcom": "1873",
       "sex": "M"
     },
     "I418": {
@@ -4564,22 +4576,22 @@
       "displayName": "Catherine Cushen",
       "birthUnionId": "F88",
       "spouseUnionIds": [],
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
+      "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1883",
+      "deathDate": "ABT NOV 1907",
       "birthDateGedcom": "1883",
       "deathDateGedcom": "ABT NOV 1907",
-      "birthDate": "1883",
-      "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
-      "deathDate": "ABT NOV 1907",
-      "sex": "F",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "F"
     },
     "I419": {
       "id": "I419",
       "displayName": "Harriet CUSHEN",
       "birthUnionId": "F88",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1889",
-      "birthDate": "1889",
       "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1889",
+      "birthDateGedcom": "1889",
       "sex": "F"
     },
     "I42": {
@@ -4587,8 +4599,8 @@
       "displayName": "Owen LEWIS",
       "birthUnionId": "F4",
       "spouseUnionIds": [],
-      "birthDateGedcom": "27 JUL 1950",
       "birthDate": "1950-07-27",
+      "birthDateGedcom": "27 JUL 1950",
       "sex": "M"
     },
     "I420": {
@@ -4596,9 +4608,9 @@
       "displayName": "Ellen CUSHEN",
       "birthUnionId": "F88",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1889",
-      "birthDate": "1889",
       "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1889",
+      "birthDateGedcom": "1889",
       "sex": "F"
     },
     "I421": {
@@ -4606,9 +4618,9 @@
       "displayName": "Rachel LEWIS",
       "birthUnionId": "F87",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1901",
-      "birthDate": "1901",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1901",
+      "birthDateGedcom": "1901",
       "sex": "F"
     },
     "I422": {
@@ -4618,8 +4630,8 @@
       "spouseUnionIds": [
         "F188"
       ],
-      "birthDate": "1830",
       "birthPlace": "Trecastle, Brecknockshire, Wales",
+      "birthDate": "1830",
       "personPage": "people/thomas-griffiths.md",
       "sex": "M"
     },
@@ -4630,8 +4642,8 @@
       "spouseUnionIds": [
         "F188"
       ],
-      "birthDate": "1829",
       "birthPlace": "Llanfair, Carmarthenshire, Wales",
+      "birthDate": "1829",
       "personPage": "people/anne.md",
       "sex": "F"
     },
@@ -4640,9 +4652,9 @@
       "displayName": "Elizabeth Griffiths",
       "birthUnionId": "F188",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1860",
-      "birthDate": "1860",
       "birthPlace": "Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1860",
+      "birthDateGedcom": "1860",
       "sex": "F"
     },
     "I425": {
@@ -4650,9 +4662,9 @@
       "displayName": "Margaret Griffiths",
       "birthUnionId": "F188",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1866",
-      "birthDate": "1866",
       "birthPlace": "Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1866",
+      "birthDateGedcom": "1866",
       "sex": "F"
     },
     "I426": {
@@ -4660,9 +4672,9 @@
       "displayName": "David Griffiths",
       "birthUnionId": "F188",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1869",
-      "birthDate": "1869",
       "birthPlace": "Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1869",
+      "birthDateGedcom": "1869",
       "sex": "M"
     },
     "I427": {
@@ -4672,12 +4684,12 @@
       "spouseUnionIds": [
         "F189"
       ],
-      "birthDate": "1813",
+      "deathPlace": "Port Talbot, Aberavon, Glamorganshire, Wales",
       "birthPlace": "Briton Ferry, Glamorganshire, Wales",
+      "birthDate": "1813",
       "personPage": "people/lewis-lewis.md",
       "deathDate": "1872",
-      "sex": "M",
-      "deathPlace": "Port Talbot, Aberavon, Glamorganshire, Wales"
+      "sex": "M"
     },
     "I428": {
       "id": "I428",
@@ -4686,8 +4698,8 @@
       "spouseUnionIds": [
         "F189"
       ],
-      "birthDate": "1825",
       "birthPlace": "Llanarthne, Carmarthenshire, Wales",
+      "birthDate": "1825",
       "personPage": "people/rachel-james.md",
       "sex": "F"
     },
@@ -4696,9 +4708,9 @@
       "displayName": "Ann LEWIS",
       "birthUnionId": "F189",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1846",
-      "birthDate": "1846",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1846",
+      "birthDateGedcom": "1846",
       "sex": "F"
     },
     "I43": {
@@ -4706,9 +4718,9 @@
       "displayName": "Roland STUMP",
       "birthUnionId": "F3",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT FEB 1946",
-      "birthDate": "ABT FEB 1946",
       "birthPlace": "Surrey North Eastern, Surrey, England",
+      "birthDate": "ABT FEB 1946",
+      "birthDateGedcom": "ABT FEB 1946",
       "sex": "M"
     },
     "I430": {
@@ -4716,9 +4728,9 @@
       "displayName": "Gwenllian LEWIS",
       "birthUnionId": "F189",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1856",
-      "birthDate": "1856",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1856",
+      "birthDateGedcom": "1856",
       "sex": "F"
     },
     "I431": {
@@ -4726,9 +4738,9 @@
       "displayName": "Mary LEWIS",
       "birthUnionId": "F189",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1848",
-      "birthDate": "1848",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1848",
+      "birthDateGedcom": "1848",
       "sex": "F"
     },
     "I432": {
@@ -4736,9 +4748,9 @@
       "displayName": "Joshua LEWIS",
       "birthUnionId": "F189",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1850",
-      "birthDate": "1850",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1850",
+      "birthDateGedcom": "1850",
       "sex": "M"
     },
     "I433": {
@@ -4746,9 +4758,9 @@
       "displayName": "Susannah LEWIS",
       "birthUnionId": "F189",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1853",
-      "birthDate": "1853",
       "birthPlace": "Aberdare, Merthyr Tydfil, Glamorganshire, Wales",
+      "birthDate": "1853",
+      "birthDateGedcom": "1853",
       "sex": "F"
     },
     "I434": {
@@ -4758,8 +4770,8 @@
       "spouseUnionIds": [
         "F190"
       ],
-      "birthDate": "ABT 1821",
       "birthPlace": "Shoreditch, London, England",
+      "birthDate": "ABT 1821",
       "personPage": "people/alfred-evans-i434.md",
       "sex": "M"
     },
@@ -4770,13 +4782,13 @@
       "spouseUnionIds": [
         "F191"
       ],
+      "deathPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
+      "birthPlace": "London, Middlesex, England",
+      "birthDate": "ABT 1838",
+      "deathDate": "1904-03-12",
       "birthDateGedcom": "ABT 1838",
       "deathDateGedcom": "12 MAR 1904",
-      "birthDate": "ABT 1838",
-      "birthPlace": "London, Middlesex, England",
-      "deathDate": "1904-03-12",
-      "sex": "M",
-      "deathPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex"
+      "sex": "M"
     },
     "I436": {
       "id": "I436",
@@ -4785,35 +4797,35 @@
       "spouseUnionIds": [
         "F191"
       ],
+      "deathPlace": "Holborn, London, England",
+      "birthPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
+      "birthDate": "ABT 1845",
+      "deathDate": "APR 1882",
       "birthDateGedcom": "ABT 1845",
       "deathDateGedcom": "APR 1882",
-      "birthDate": "ABT 1845",
-      "birthPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
-      "deathDate": "APR 1882",
-      "sex": "F",
-      "deathPlace": "Holborn, London, England"
+      "sex": "F"
     },
     "I437": {
       "id": "I437",
       "displayName": "William Spencer",
       "birthUnionId": "F191",
       "spouseUnionIds": [],
+      "deathPlace": "Shoreditch, Middlesex, England",
+      "birthPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
+      "birthDate": "1865-10-24",
+      "deathDate": "1915-01-15",
       "birthDateGedcom": "24 OCT 1865",
       "deathDateGedcom": "15 JAN 1915",
-      "birthDate": "1865-10-24",
-      "birthPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
-      "deathDate": "1915-01-15",
-      "sex": "M",
-      "deathPlace": "Shoreditch, Middlesex, England"
+      "sex": "M"
     },
     "I438": {
       "id": "I438",
       "displayName": "William Spencer",
       "birthUnionId": "F191",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1866",
-      "birthDate": "ABT 1866",
       "birthPlace": "Middlesex, England, United Kingdom",
+      "birthDate": "ABT 1866",
+      "birthDateGedcom": "ABT 1866",
       "sex": "M"
     },
     "I439": {
@@ -4821,9 +4833,9 @@
       "displayName": "Charlotte Spencer",
       "birthUnionId": "F191",
       "spouseUnionIds": [],
-      "birthDateGedcom": "7 AUG 1867",
-      "birthDate": "1867-08-07",
       "birthPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
+      "birthDate": "1867-08-07",
+      "birthDateGedcom": "7 AUG 1867",
       "sex": "F"
     },
     "I44": {
@@ -4838,9 +4850,9 @@
       "displayName": "Mary Spencer",
       "birthUnionId": "F191",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1870",
-      "birthDate": "ABT 1870",
       "birthPlace": "Middlesex, England, United Kingdom",
+      "birthDate": "ABT 1870",
+      "birthDateGedcom": "ABT 1870",
       "sex": "F"
     },
     "I441": {
@@ -4848,9 +4860,9 @@
       "displayName": "Edward Spencer",
       "birthUnionId": "F191",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1873",
-      "birthDate": "1873",
       "birthPlace": "London, Middlesex, England",
+      "birthDate": "1873",
+      "birthDateGedcom": "1873",
       "sex": "M"
     },
     "I442": {
@@ -4858,9 +4870,9 @@
       "displayName": "Robert Spencer",
       "birthUnionId": "F191",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1876",
-      "birthDate": "1876",
       "birthPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
+      "birthDate": "1876",
+      "birthDateGedcom": "1876",
       "sex": "M"
     },
     "I443": {
@@ -4870,9 +4882,9 @@
       "spouseUnionIds": [
         "F192"
       ],
-      "birthDateGedcom": "1811",
-      "birthDate": "1811",
       "birthPlace": "St Andrew's, Middlesex, England, United Kingdom",
+      "birthDate": "1811",
+      "birthDateGedcom": "1811",
       "sex": "M"
     },
     "I444": {
@@ -4892,11 +4904,11 @@
       "spouseUnionIds": [
         "F192"
       ],
+      "birthPlace": "St Andrew's, Middlesex, England, United Kingdom",
+      "birthDate": "1815",
+      "deathDate": "OCT 1858",
       "birthDateGedcom": "1815",
       "deathDateGedcom": "OCT 1858",
-      "birthDate": "1815",
-      "birthPlace": "St Andrew's, Middlesex, England, United Kingdom",
-      "deathDate": "OCT 1858",
       "sex": "F"
     },
     "I446": {
@@ -4904,9 +4916,9 @@
       "displayName": "Lucia THOMAS",
       "birthUnionId": "F192",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1831",
-      "birthDate": "1831",
       "birthPlace": "St Andrew's, Middlesex, England, United Kingdom",
+      "birthDate": "1831",
+      "birthDateGedcom": "1831",
       "sex": "F"
     },
     "I447": {
@@ -4914,9 +4926,9 @@
       "displayName": "Ann THOMAS",
       "birthUnionId": "F192",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1835",
-      "birthDate": "1835",
       "birthPlace": "St Andrew's, Middlesex, England, United Kingdom",
+      "birthDate": "1835",
+      "birthDateGedcom": "1835",
       "sex": "F"
     },
     "I448": {
@@ -4924,9 +4936,9 @@
       "displayName": "Charlotte THOMAS",
       "birthUnionId": "F192",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1836",
-      "birthDate": "1836",
       "birthPlace": "St Andrew's, Middlesex, England, United Kingdom",
+      "birthDate": "1836",
+      "birthDateGedcom": "1836",
       "sex": "F"
     },
     "I449": {
@@ -4934,9 +4946,9 @@
       "displayName": "John THOMAS",
       "birthUnionId": "F192",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1847",
-      "birthDate": "1847",
       "birthPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
+      "birthDate": "1847",
+      "birthDateGedcom": "1847",
       "sex": "M"
     },
     "I45": {
@@ -4951,9 +4963,9 @@
       "displayName": "Caroline THOMAS",
       "birthUnionId": "F192",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1850",
-      "birthDate": "1850",
       "birthPlace": "Clerkenwell, Holborn, London & Middlesex, England, London, Middlesex",
+      "birthDate": "1850",
+      "birthDateGedcom": "1850",
       "sex": "F"
     },
     "I451": {
@@ -4961,9 +4973,9 @@
       "displayName": "Saria THOMAS",
       "birthUnionId": "F192",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1831",
-      "birthDate": "1831",
       "birthPlace": "St Andrew's, Middlesex, England, United Kingdom",
+      "birthDate": "1831",
+      "birthDateGedcom": "1831",
       "sex": "F"
     },
     "I452": {
@@ -4971,9 +4983,9 @@
       "displayName": "Mary THOMAS",
       "birthUnionId": "F192",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1835",
-      "birthDate": "ABT 1835",
       "birthPlace": "St Andrew's, Middlesex, England, United Kingdom",
+      "birthDate": "ABT 1835",
+      "birthDateGedcom": "ABT 1835",
       "sex": "F"
     },
     "I453": {
@@ -4981,9 +4993,9 @@
       "displayName": "John CUSHEN",
       "birthUnionId": "F89",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1868",
-      "birthDate": "1868",
       "birthPlace": "Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1868",
+      "birthDateGedcom": "1868",
       "sex": "M"
     },
     "I454": {
@@ -4991,22 +5003,22 @@
       "displayName": "Thomas CUSHEN",
       "birthUnionId": "F89",
       "spouseUnionIds": [],
+      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
+      "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1851",
+      "deathDate": "ABT NOV 1900",
       "birthDateGedcom": "1851",
       "deathDateGedcom": "ABT NOV 1900",
-      "birthDate": "1851",
-      "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
-      "deathDate": "ABT NOV 1900",
-      "sex": "M",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales"
+      "sex": "M"
     },
     "I455": {
       "id": "I455",
       "displayName": "Edward CUSHEN",
       "birthUnionId": "F89",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1858",
-      "birthDate": "1858",
       "birthPlace": "Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1858",
+      "birthDateGedcom": "1858",
       "sex": "M"
     },
     "I456": {
@@ -5014,9 +5026,9 @@
       "displayName": "Patrick M CUSHEN",
       "birthUnionId": "F89",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1861",
-      "birthDate": "1861",
       "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1861",
+      "birthDateGedcom": "1861",
       "sex": "M"
     },
     "I457": {
@@ -5024,22 +5036,22 @@
       "displayName": "William CUSHEN",
       "birthUnionId": "F89",
       "spouseUnionIds": [],
+      "deathPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthPlace": "Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1864",
+      "deathDate": "1887",
       "birthDateGedcom": "1864",
       "deathDateGedcom": "1887",
-      "birthDate": "1864",
-      "birthPlace": "Glamorganshire, Wales, United Kingdom",
-      "deathDate": "1887",
-      "sex": "M",
-      "deathPlace": "Dowlais, Glamorganshire, Wales, United Kingdom"
+      "sex": "M"
     },
     "I458": {
       "id": "I458",
       "displayName": "Mary CUSHEN",
       "birthUnionId": "F89",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1846",
-      "birthDate": "1846",
       "birthPlace": "Abersychan, Monmouthshire, Wales",
+      "birthDate": "1846",
+      "birthDateGedcom": "1846",
       "sex": "F"
     },
     "I459": {
@@ -5047,9 +5059,9 @@
       "displayName": "Theresa CUSHEN",
       "birthUnionId": "F88",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1893",
-      "birthDate": "1893",
       "birthPlace": "Dowlais, Glamorganshire, Wales, United Kingdom",
+      "birthDate": "1893",
+      "birthDateGedcom": "1893",
       "sex": "F"
     },
     "I46": {
@@ -5059,13 +5071,13 @@
       "spouseUnionIds": [
         "F24"
       ],
+      "deathPlace": "Florence, Italy",
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1921-09-05",
+      "deathDate": "2000-09-02",
       "birthDateGedcom": "5 SEP 1921",
       "deathDateGedcom": "2 SEP 2000",
-      "birthDate": "1921-09-05",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "2000-09-02",
-      "sex": "F",
-      "deathPlace": "Florence, Italy"
+      "sex": "F"
     },
     "I460": {
       "id": "I460",
@@ -5074,13 +5086,13 @@
       "spouseUnionIds": [
         "F29"
       ],
+      "deathPlace": "Zara, Dalmatia",
+      "birthPlace": "Genoa, Metropolitan City of Genoa, Liguria, Italy",
+      "birthDate": "1789-07-13",
+      "deathDate": "1846-05-07",
       "birthDateGedcom": "13 JUL 1789",
       "deathDateGedcom": "7 MAY 1846",
-      "birthDate": "1789-07-13",
-      "birthPlace": "Genoa, Metropolitan City of Genoa, Liguria, Italy",
-      "deathDate": "1846-05-07",
-      "sex": "F",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "F"
     },
     "I461": {
       "id": "I461",
@@ -5089,11 +5101,11 @@
       "spouseUnionIds": [
         "F28"
       ],
+      "birthPlace": "Split, Općina Split, Split-Dalmatia County, Croatia",
+      "birthDate": "1817-12-14",
+      "deathDate": "1881-02-14",
       "birthDateGedcom": "14 DEC 1817",
       "deathDateGedcom": "14 FEB 1881",
-      "birthDate": "1817-12-14",
-      "birthPlace": "Split, Općina Split, Split-Dalmatia County, Croatia",
-      "deathDate": "1881-02-14",
       "sex": "F"
     },
     "I462": {
@@ -5101,23 +5113,23 @@
       "displayName": "Bartolomeo Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
+      "deathPlace": "Trieste, Friuli-Venezia Giulia, Italy",
+      "birthPlace": "Santa Margherita Ligure, Liguria, Italy",
+      "birthDate": "1807-07-08",
+      "deathDate": "1881-01-01",
       "birthDateGedcom": "8 JUL 1807",
       "deathDateGedcom": "1 JAN 1881",
-      "birthDate": "1807-07-08",
-      "birthPlace": "Santa Margherita Ligure, Liguria, Italy",
-      "deathDate": "1881-01-01",
-      "sex": "M",
-      "deathPlace": "Trieste, Friuli-Venezia Giulia, Italy"
+      "sex": "M"
     },
     "I463": {
       "id": "I463",
       "displayName": "Giovanni Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
-      "birthDateGedcom": "15 MAY 1829",
-      "deathDateGedcom": "13 FEB 1912",
       "birthDate": "1829-05-15",
       "deathDate": "1912-02-13",
+      "birthDateGedcom": "15 MAY 1829",
+      "deathDateGedcom": "13 FEB 1912",
       "sex": "M"
     },
     "I464": {
@@ -5125,11 +5137,11 @@
       "displayName": "Emanuel Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
+      "birthPlace": "Santa Margherita Ligure, Liguria, Italia",
+      "birthDate": "1809-11-24",
+      "deathDate": "1865-09-08",
       "birthDateGedcom": "24 NOV 1809",
       "deathDateGedcom": "8 SEP 1865",
-      "birthDate": "1809-11-24",
-      "birthPlace": "Santa Margherita Ligure, Liguria, Italia",
-      "deathDate": "1865-09-08",
       "sex": "M"
     },
     "I465": {
@@ -5137,10 +5149,10 @@
       "displayName": "Rosa Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
-      "birthDateGedcom": "3 MAR 1812",
-      "deathDateGedcom": "17 OCT 1888",
       "birthDate": "1812-03-03",
       "deathDate": "1888-10-17",
+      "birthDateGedcom": "3 MAR 1812",
+      "deathDateGedcom": "17 OCT 1888",
       "sex": "F"
     },
     "I466": {
@@ -5148,8 +5160,8 @@
       "displayName": "Giovanni Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
-      "birthDateGedcom": "19 SEP 1813",
       "birthDate": "1813-09-19",
+      "birthDateGedcom": "19 SEP 1813",
       "sex": "M"
     },
     "I467": {
@@ -5157,8 +5169,8 @@
       "displayName": "Fanny Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1818",
       "birthDate": "1818",
+      "birthDateGedcom": "1818",
       "sex": "F"
     },
     "I468": {
@@ -5166,8 +5178,8 @@
       "displayName": "Maria Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1820",
       "birthDate": "1820",
+      "birthDateGedcom": "1820",
       "sex": "F"
     },
     "I469": {
@@ -5175,10 +5187,10 @@
       "displayName": "Urbano Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
-      "birthDateGedcom": "21 JAN 1825",
-      "deathDateGedcom": "27 JUL 1899",
       "birthDate": "1825-01-21",
       "deathDate": "1899-07-27",
+      "birthDateGedcom": "21 JAN 1825",
+      "deathDateGedcom": "27 JUL 1899",
       "sex": "M"
     },
     "I47": {
@@ -5188,11 +5200,11 @@
       "spouseUnionIds": [
         "F35"
       ],
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1927-07-28",
+      "deathDate": "2012-11-22",
       "birthDateGedcom": "28 JUL 1927",
       "deathDateGedcom": "22 NOV 2012",
-      "birthDate": "1927-07-28",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "2012-11-22",
       "sex": "M"
     },
     "I470": {
@@ -5200,10 +5212,10 @@
       "displayName": "Giuseppe Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
-      "birthDateGedcom": "10 JAN 1827",
-      "deathDateGedcom": "20 MAY 1828",
       "birthDate": "1827-01-10",
       "deathDate": "1828-05-20",
+      "birthDateGedcom": "10 JAN 1827",
+      "deathDateGedcom": "20 MAY 1828",
       "sex": "M"
     },
     "I471": {
@@ -5211,8 +5223,8 @@
       "displayName": "Eugenio Luxardo",
       "birthUnionId": "F29",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1839",
       "birthDate": "1839",
+      "birthDateGedcom": "1839",
       "sex": "M"
     },
     "I472": {
@@ -5220,10 +5232,10 @@
       "displayName": "Girolamo Luxardo",
       "birthUnionId": "F28",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 20 APR 1850",
-      "deathDateGedcom": "20 APR 1850",
       "birthDate": "ABT 1850-04-20",
       "deathDate": "1850-04-20",
+      "birthDateGedcom": "ABT 20 APR 1850",
+      "deathDateGedcom": "20 APR 1850",
       "sex": "M"
     },
     "I473": {
@@ -5231,11 +5243,11 @@
       "displayName": "Demetrio Luxardo",
       "birthUnionId": "F28",
       "spouseUnionIds": [],
+      "birthPlace": "Trieste, Provincia di Trieste, Friuli-Venezia Giulia, Italy",
+      "birthDate": "1852-08-17",
+      "deathDate": "1906-12-25",
       "birthDateGedcom": "17 AUG 1852",
       "deathDateGedcom": "25 DEC 1906",
-      "birthDate": "1852-08-17",
-      "birthPlace": "Trieste, Provincia di Trieste, Friuli-Venezia Giulia, Italy",
-      "deathDate": "1906-12-25",
       "sex": "M"
     },
     "I474": {
@@ -5243,11 +5255,11 @@
       "displayName": "Michelangelo Luxardo",
       "birthUnionId": "F28",
       "spouseUnionIds": [],
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1857-09-29",
+      "deathDate": "1934-01-20",
       "birthDateGedcom": "29 SEP 1857",
       "deathDateGedcom": "20 JAN 1934",
-      "birthDate": "1857-09-29",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "1934-01-20",
       "sex": "M"
     },
     "I475": {
@@ -5255,13 +5267,13 @@
       "displayName": "Elena LUXARDO",
       "birthUnionId": "F28",
       "spouseUnionIds": [],
+      "deathPlace": "Zara, Dalmatia",
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1864-02-08",
+      "deathDate": "1934-08-06",
       "birthDateGedcom": "8 FEB 1864",
       "deathDateGedcom": "6 AUG 1934",
-      "birthDate": "1864-02-08",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "1934-08-06",
-      "sex": "F",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "F"
     },
     "I476": {
       "id": "I476",
@@ -5270,8 +5282,8 @@
       "spouseUnionIds": [
         "F30"
       ],
-      "birthDateGedcom": "ABT 1742",
       "birthDate": "ABT 1742",
+      "birthDateGedcom": "ABT 1742",
       "sex": "F"
     },
     "I477": {
@@ -5281,8 +5293,8 @@
       "spouseUnionIds": [
         "F194"
       ],
-      "birthDate": "1550",
       "birthPlace": "Sockburn, Northumberland, England",
+      "birthDate": "1550",
       "personPage": "people/john-conyers.md",
       "deathDate": "1610",
       "sex": "M"
@@ -5294,8 +5306,8 @@
       "spouseUnionIds": [
         "F194"
       ],
-      "birthDate": "ABT 1548",
       "birthPlace": "Sockburn, Yorkshire, England",
+      "birthDate": "ABT 1548",
       "personPage": "people/agnes-bowes.md",
       "deathDate": "1597-02-12",
       "sex": "F"
@@ -5305,13 +5317,13 @@
       "displayName": "Eleanor CONYERS",
       "birthUnionId": "F194",
       "spouseUnionIds": [],
+      "deathPlace": "Kirkenewton, Fowberry, Northumberland, England",
+      "birthPlace": "Sockburn, Northumberland, England",
+      "birthDate": "ABT 1570",
+      "deathDate": "1611",
       "birthDateGedcom": "ABT 1570",
       "deathDateGedcom": "1611",
-      "birthDate": "ABT 1570",
-      "birthPlace": "Sockburn, Northumberland, England",
-      "deathDate": "1611",
-      "sex": "F",
-      "deathPlace": "Kirkenewton, Fowberry, Northumberland, England"
+      "sex": "F"
     },
     "I48": {
       "id": "I48",
@@ -5320,8 +5332,8 @@
       "spouseUnionIds": [
         "F34"
       ],
-      "birthDateGedcom": "26 MAR 1930",
       "birthDate": "1930-03-26",
+      "birthDateGedcom": "26 MAR 1930",
       "sex": "M"
     },
     "I480": {
@@ -5329,11 +5341,11 @@
       "displayName": "Elizabeth Conyers",
       "birthUnionId": "F194",
       "spouseUnionIds": [],
+      "birthPlace": "Sockburn, Yorkshire, England",
+      "birthDate": "ABT 1571",
+      "deathDate": "1632-01-03",
       "birthDateGedcom": "ABT 1571",
       "deathDateGedcom": "3 JAN 1632",
-      "birthDate": "ABT 1571",
-      "birthPlace": "Sockburn, Yorkshire, England",
-      "deathDate": "1632-01-03",
       "sex": "F"
     },
     "I481": {
@@ -5362,23 +5374,23 @@
       "displayName": "Sir. John",
       "birthUnionId": "F194",
       "spouseUnionIds": [],
+      "deathPlace": "East Riding, Yorkshire, England",
+      "birthPlace": "Sockburn, Durham, England",
+      "birthDate": "1570",
+      "deathDate": "1634-06-30",
       "birthDateGedcom": "1570",
       "deathDateGedcom": "30 JUN 1634",
-      "birthDate": "1570",
-      "birthPlace": "Sockburn, Durham, England",
-      "deathDate": "1634-06-30",
-      "sex": "M",
-      "deathPlace": "East Riding, Yorkshire, England"
+      "sex": "M"
     },
     "I485": {
       "id": "I485",
       "displayName": "James Lawson",
       "birthUnionId": "F195",
       "spouseUnionIds": [],
-      "deathDateGedcom": "16 FEB 1628",
+      "deathPlace": "North Yorkshire, England, United Kingdom",
       "deathDate": "1628-02-16",
-      "sex": "M",
-      "deathPlace": "North Yorkshire, England, United Kingdom"
+      "deathDateGedcom": "16 FEB 1628",
+      "sex": "M"
     },
     "I486": {
       "id": "I486",
@@ -5419,13 +5431,13 @@
       "spouseUnionIds": [
         "F24"
       ],
+      "deathPlace": "Florence, Italy",
+      "birthPlace": "Palermo, Palermo, Sicily, Italy",
+      "birthDate": "1920-11-08",
+      "deathDate": "2003-05-04",
       "birthDateGedcom": "8 NOV 1920",
       "deathDateGedcom": "4 MAY 2003",
-      "birthDate": "1920-11-08",
-      "birthPlace": "Palermo, Palermo, Sicily, Italy",
-      "deathDate": "2003-05-04",
-      "sex": "M",
-      "deathPlace": "Florence, Italy"
+      "sex": "M"
     },
     "I490": {
       "id": "I490",
@@ -5441,8 +5453,8 @@
       "displayName": "Ralph Lawson",
       "birthUnionId": "F198",
       "spouseUnionIds": [],
-      "deathDateGedcom": "1620",
       "deathDate": "1620",
+      "deathDateGedcom": "1620",
       "sex": "M"
     },
     "I492": {
@@ -5461,9 +5473,9 @@
       "spouseUnionIds": [
         "F199"
       ],
-      "birthDateGedcom": "5 OCT 1839",
-      "birthDate": "1839-10-05",
       "birthPlace": "Split, Općina Split, Split-Dalmatia County, Croatia",
+      "birthDate": "1839-10-05",
+      "birthDateGedcom": "5 OCT 1839",
       "sex": "M"
     },
     "I494": {
@@ -5471,9 +5483,9 @@
       "displayName": "Rainalda Kirchmayer",
       "birthUnionId": "F199",
       "spouseUnionIds": [],
-      "birthDateGedcom": "31 JAN 1871",
-      "birthDate": "1871-01-31",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1871-01-31",
+      "birthDateGedcom": "31 JAN 1871",
       "sex": "F"
     },
     "I495": {
@@ -5481,35 +5493,35 @@
       "displayName": "Giuseppe Kirchmayer",
       "birthUnionId": "F199",
       "spouseUnionIds": [],
+      "deathPlace": "Zara, Dalmatia",
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1877-02-27",
+      "deathDate": "1942-02-21",
       "birthDateGedcom": "27 FEB 1877",
       "deathDateGedcom": "21 FEB 1942",
-      "birthDate": "1877-02-27",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "1942-02-21",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I496": {
       "id": "I496",
       "displayName": "Pio Kirchmayer",
       "birthUnionId": "F199",
       "spouseUnionIds": [],
+      "deathPlace": "Zara, Dalmatia",
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1878-02-12",
+      "deathDate": "1878-02-21",
       "birthDateGedcom": "12 FEB 1878",
       "deathDateGedcom": "21 FEB 1878",
-      "birthDate": "1878-02-12",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "1878-02-21",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I497": {
       "id": "I497",
       "displayName": "Andrina Kirchmayer",
       "birthUnionId": "F199",
       "spouseUnionIds": [],
-      "birthDateGedcom": "18 SEP 1879",
-      "birthDate": "1879-09-18",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1879-09-18",
+      "birthDateGedcom": "18 SEP 1879",
       "sex": "F"
     },
     "I498": {
@@ -5517,11 +5529,11 @@
       "displayName": "Giovanni Kirchmayer",
       "birthUnionId": "F199",
       "spouseUnionIds": [],
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1882-12-10",
+      "deathDate": "1963-10-24",
       "birthDateGedcom": "10 DEC 1882",
       "deathDateGedcom": "24 OCT 1963",
-      "birthDate": "1882-12-10",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "1963-10-24",
       "sex": "M"
     },
     "I499": {
@@ -5529,11 +5541,11 @@
       "displayName": "Karl ERBE",
       "birthUnionId": "F141",
       "spouseUnionIds": [],
+      "birthPlace": "Rakvere Linn, Estonia",
+      "birthDate": "1808-08-29",
+      "deathDate": "1852",
       "birthDateGedcom": "29 AUG 1808",
       "deathDateGedcom": "1852",
-      "birthDate": "1808-08-29",
-      "birthPlace": "Rakvere Linn, Estonia",
-      "deathDate": "1852",
       "sex": "M"
     },
     "I5": {
@@ -5543,11 +5555,11 @@
       "spouseUnionIds": [
         "F2"
       ],
-      "birthDate": "1983-09-13",
+      "birthPlace": "Camden, London, England",
       "alsoKnownAs": [
         "Jacqueline Evans"
       ],
-      "birthPlace": "Camden, London, England",
+      "birthDate": "1983-09-13",
       "personPage": "people/jacqueline-caroline-evans-i5.md",
       "sex": "F"
     },
@@ -5558,74 +5570,74 @@
       "spouseUnionIds": [
         "F25"
       ],
+      "deathPlace": "Florence, Italy",
+      "birthPlace": "Florence, Italy",
+      "birthDate": "1950-08-05",
+      "deathDate": "2004-04-15",
       "birthDateGedcom": "5 AUG 1950",
       "deathDateGedcom": "15 APR 2004",
-      "birthDate": "1950-08-05",
-      "birthPlace": "Florence, Italy",
-      "deathDate": "2004-04-15",
-      "sex": "F",
-      "deathPlace": "Florence, Italy"
+      "sex": "F"
     },
     "I500": {
       "id": "I500",
       "displayName": "Mathilde ERBE",
       "birthUnionId": "F141",
       "spouseUnionIds": [],
+      "deathPlace": "Rīga, Rīga, Vidzeme, Latvia",
+      "birthPlace": "Rakvere Linn, Estonia",
+      "birthDate": "1810-09-17",
+      "deathDate": "1892-09-29",
       "birthDateGedcom": "17 SEP 1810",
       "deathDateGedcom": "29 SEP 1892",
-      "birthDate": "1810-09-17",
-      "birthPlace": "Rakvere Linn, Estonia",
-      "deathDate": "1892-09-29",
-      "sex": "F",
-      "deathPlace": "Rīga, Rīga, Vidzeme, Latvia"
+      "sex": "F"
     },
     "I501": {
       "id": "I501",
       "displayName": "Carl ERBE",
       "birthUnionId": "F141",
       "spouseUnionIds": [],
+      "deathPlace": "Haapsalu Linn, Haapsalu linn, Estonia",
+      "birthPlace": "Rakvere Linn, Estonia",
+      "birthDate": "1812-05-30",
+      "deathDate": "1872-04-16",
       "birthDateGedcom": "30 MAY 1812",
       "deathDateGedcom": "16 APR 1872",
-      "birthDate": "1812-05-30",
-      "birthPlace": "Rakvere Linn, Estonia",
-      "deathDate": "1872-04-16",
-      "sex": "M",
-      "deathPlace": "Haapsalu Linn, Haapsalu linn, Estonia"
+      "sex": "M"
     },
     "I502": {
       "id": "I502",
       "displayName": "Alexander* ERBE",
       "birthUnionId": "F141",
       "spouseUnionIds": [],
+      "deathPlace": "Rīga, Rīga, Vidzeme, Latvia",
+      "birthPlace": "Pärnu, Pärnu linn, Estonia",
+      "birthDate": "1818-09-15",
+      "deathDate": "1882-12-09",
       "birthDateGedcom": "15 SEP 1818",
       "deathDateGedcom": "9 DEC 1882",
-      "birthDate": "1818-09-15",
-      "birthPlace": "Pärnu, Pärnu linn, Estonia",
-      "deathDate": "1882-12-09",
-      "sex": "M",
-      "deathPlace": "Rīga, Rīga, Vidzeme, Latvia"
+      "sex": "M"
     },
     "I503": {
       "id": "I503",
       "displayName": "Emil ERBE",
       "birthUnionId": "F140",
       "spouseUnionIds": [],
+      "deathPlace": "Khabarovsk, Russia",
+      "birthPlace": "Saint Petersburg, Russia",
+      "birthDate": "ABT 1841",
+      "deathDate": "1881",
       "birthDateGedcom": "ABT 1841",
       "deathDateGedcom": "1881",
-      "birthDate": "ABT 1841",
-      "birthPlace": "Saint Petersburg, Russia",
-      "deathDate": "1881",
-      "sex": "M",
-      "deathPlace": "Khabarovsk, Russia"
+      "sex": "M"
     },
     "I504": {
       "id": "I504",
       "displayName": "Antonie ERBE",
       "birthUnionId": "F140",
       "spouseUnionIds": [],
-      "birthDateGedcom": "2 FEB 1841",
-      "birthDate": "1841-02-02",
       "birthPlace": "Saint Petersburg, Russia",
+      "birthDate": "1841-02-02",
+      "birthDateGedcom": "2 FEB 1841",
       "sex": "F"
     },
     "I505": {
@@ -5633,25 +5645,25 @@
       "displayName": "Eugen ERBE",
       "birthUnionId": "F140",
       "spouseUnionIds": [],
-      "birthDate": "1847-11-05",
+      "deathPlace": "Reval",
+      "birthPlace": "Reval",
       "alsoKnownAs": [
         "Eugen Edmund Eduard Erbe"
       ],
-      "birthPlace": "Reval",
+      "birthDate": "1847-11-05",
       "personPage": "people/eugen-edmund-erbe.md",
       "deathDate": "1908-01-22",
       "role": "Jurist; Tallinna linnanõunik ja aselinnapea",
-      "sex": "M",
-      "deathPlace": "Reval"
+      "sex": "M"
     },
     "I506": {
       "id": "I506",
       "displayName": "Richard ERBE",
       "birthUnionId": "F140",
       "spouseUnionIds": [],
-      "birthDateGedcom": "23 NOV 1849",
-      "birthDate": "1849-11-23",
       "birthPlace": "Reval (Tallinn), Harjumaa",
+      "birthDate": "1849-11-23",
+      "birthDateGedcom": "23 NOV 1849",
       "sex": "M"
     },
     "I507": {
@@ -5659,35 +5671,35 @@
       "displayName": "Karl ERBE",
       "birthUnionId": "F140",
       "spouseUnionIds": [],
+      "deathPlace": "Moscow, Russia",
+      "birthPlace": "Reval (Tallinn), Harjumaa",
+      "birthDate": "1851-06-06",
+      "deathDate": "1886",
       "birthDateGedcom": "6 JUN 1851",
       "deathDateGedcom": "1886",
-      "birthDate": "1851-06-06",
-      "birthPlace": "Reval (Tallinn), Harjumaa",
-      "deathDate": "1886",
-      "sex": "M",
-      "deathPlace": "Moscow, Russia"
+      "sex": "M"
     },
     "I508": {
       "id": "I508",
       "displayName": "Alexander ERBE",
       "birthUnionId": "F140",
       "spouseUnionIds": [],
+      "deathPlace": "Ivanovo, Russia",
+      "birthPlace": "Reval (Tallinn), Harjumaa",
+      "birthDate": "1853-12-18",
+      "deathDate": "1909",
       "birthDateGedcom": "18 DEC 1853",
       "deathDateGedcom": "1909",
-      "birthDate": "1853-12-18",
-      "birthPlace": "Reval (Tallinn), Harjumaa",
-      "deathDate": "1909",
-      "sex": "M",
-      "deathPlace": "Ivanovo, Russia"
+      "sex": "M"
     },
     "I509": {
       "id": "I509",
       "displayName": "Alpos ERBE",
       "birthUnionId": "F140",
       "spouseUnionIds": [],
-      "birthDateGedcom": "16 JUN 1856",
-      "birthDate": "1856-06-16",
       "birthPlace": "Reval (Tallinn), Harjumaa",
+      "birthDate": "1856-06-16",
+      "birthDateGedcom": "16 JUN 1856",
       "sex": "M"
     },
     "I51": {
@@ -5704,22 +5716,22 @@
       "displayName": "Christina Eylandt",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
+      "deathPlace": "Fellin=Viljandi, Viljandi Parish, Viljandi County, Estonia",
+      "birthPlace": "Lihula, Lihula Parish, Lääne County, Estonia",
+      "birthDate": "ABT 1767",
+      "deathDate": "1835-04-29",
       "birthDateGedcom": "ABT 1767",
       "deathDateGedcom": "29 APR 1835",
-      "birthDate": "ABT 1767",
-      "birthPlace": "Lihula, Lihula Parish, Lääne County, Estonia",
-      "deathDate": "1835-04-29",
-      "sex": "F",
-      "deathPlace": "Fellin=Viljandi, Viljandi Parish, Viljandi County, Estonia"
+      "sex": "F"
     },
     "I511": {
       "id": "I511",
       "displayName": "Otto Eylandt",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
-      "birthDateGedcom": "6 APR 1779",
-      "birthDate": "1779-04-06",
       "birthPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthDate": "1779-04-06",
+      "birthDateGedcom": "6 APR 1779",
       "sex": "M"
     },
     "I512": {
@@ -5727,9 +5739,9 @@
       "displayName": "Anna Eiland",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1772",
-      "birthDate": "ABT 1772",
       "birthPlace": "Lääne County, Estonia",
+      "birthDate": "ABT 1772",
+      "birthDateGedcom": "ABT 1772",
       "sex": "F"
     },
     "I513": {
@@ -5737,9 +5749,9 @@
       "displayName": "Maria Eylandt",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
-      "birthDateGedcom": "27 NOV 1776",
-      "birthDate": "1776-11-27",
       "birthPlace": "Lihula=Leal, Lääne County, Estonia",
+      "birthDate": "1776-11-27",
+      "birthDateGedcom": "27 NOV 1776",
       "sex": "F"
     },
     "I514": {
@@ -5747,22 +5759,22 @@
       "displayName": "Hans Eiland",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
+      "deathPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthDate": "1790-12-22",
+      "deathDate": "1791-06-12",
       "birthDateGedcom": "22 DEC 1790",
       "deathDateGedcom": "12 JUN 1791",
-      "birthDate": "1790-12-22",
-      "birthPlace": "Kirbla Parish, Lääne County, Estonia",
-      "deathDate": "1791-06-12",
-      "sex": "M",
-      "deathPlace": "Kirbla Parish, Lääne County, Estonia"
+      "sex": "M"
     },
     "I515": {
       "id": "I515",
       "displayName": "Dorothea Eiland",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1782",
-      "birthDate": "ABT 1782",
       "birthPlace": "Lääne County, Estonia",
+      "birthDate": "ABT 1782",
+      "birthDateGedcom": "ABT 1782",
       "sex": "F"
     },
     "I516": {
@@ -5770,9 +5782,9 @@
       "displayName": "Carl Eiland",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
-      "birthDateGedcom": "6 NOV 1783",
-      "birthDate": "1783-11-06",
       "birthPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthDate": "1783-11-06",
+      "birthDateGedcom": "6 NOV 1783",
       "sex": "M"
     },
     "I517": {
@@ -5780,9 +5792,9 @@
       "displayName": "Daniel Eylandt",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
-      "birthDateGedcom": "7 MAY 1786",
-      "birthDate": "1786-05-07",
       "birthPlace": "Kirbla kirikumõis (Pastorat Kirrefer), Kirbla Parish, Lääne County, Estonia",
+      "birthDate": "1786-05-07",
+      "birthDateGedcom": "7 MAY 1786",
       "sex": "M"
     },
     "I518": {
@@ -5790,9 +5802,9 @@
       "displayName": "Augusta Eiland",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
-      "birthDateGedcom": "2 JUL 1788",
-      "birthDate": "1788-07-02",
       "birthPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthDate": "1788-07-02",
+      "birthDateGedcom": "2 JUL 1788",
       "sex": "F"
     },
     "I519": {
@@ -5800,23 +5812,23 @@
       "displayName": "Amalia Eiland",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
+      "deathPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthDate": "1792-11-18",
+      "deathDate": "1795-03-25",
       "birthDateGedcom": "18 NOV 1792",
       "deathDateGedcom": "25 MAR 1795",
-      "birthDate": "1792-11-18",
-      "birthPlace": "Kirbla Parish, Lääne County, Estonia",
-      "deathDate": "1795-03-25",
-      "sex": "F",
-      "deathPlace": "Kirbla Parish, Lääne County, Estonia"
+      "sex": "F"
     },
     "I52": {
       "id": "I52",
       "displayName": "Alain QUINN",
       "birthUnionId": "F25",
       "spouseUnionIds": [],
-      "birthDateGedcom": "13 NOV 1982",
-      "deathDateGedcom": "26 JUL 2016",
       "birthDate": "1982-11-13",
       "deathDate": "2016-07-26",
+      "birthDateGedcom": "13 NOV 1982",
+      "deathDateGedcom": "26 JUL 2016",
       "sex": "M"
     },
     "I520": {
@@ -5824,22 +5836,22 @@
       "displayName": "Eleonora Eiland",
       "birthUnionId": "F143",
       "spouseUnionIds": [],
+      "deathPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthPlace": "Kirbla Parish, Lääne County, Estonia",
+      "birthDate": "1794-01-16",
+      "deathDate": "1795-03-24",
       "birthDateGedcom": "16 JAN 1794",
       "deathDateGedcom": "24 MAR 1795",
-      "birthDate": "1794-01-16",
-      "birthPlace": "Kirbla Parish, Lääne County, Estonia",
-      "deathDate": "1795-03-24",
-      "sex": "F",
-      "deathPlace": "Kirbla Parish, Lääne County, Estonia"
+      "sex": "F"
     },
     "I521": {
       "id": "I521",
       "displayName": "Caroline Eylandt",
       "birthUnionId": "F142",
       "spouseUnionIds": [],
-      "birthDateGedcom": "10 DEC 1800",
-      "birthDate": "1800-12-10",
       "birthPlace": "Talinn, Estonia",
+      "birthDate": "1800-12-10",
+      "birthDateGedcom": "10 DEC 1800",
       "sex": "F"
     },
     "I522": {
@@ -5847,22 +5859,22 @@
       "displayName": "Jakob Eylandt",
       "birthUnionId": "F142",
       "spouseUnionIds": [],
+      "deathPlace": "Dorogobuzh, Russia",
+      "birthPlace": "Talinn, Estonia",
+      "birthDate": "1820-03-14",
+      "deathDate": "ABT 1865",
       "birthDateGedcom": "14 MAR 1820",
       "deathDateGedcom": "ABT 1865",
-      "birthDate": "1820-03-14",
-      "birthPlace": "Talinn, Estonia",
-      "deathDate": "ABT 1865",
-      "sex": "M",
-      "deathPlace": "Dorogobuzh, Russia"
+      "sex": "M"
     },
     "I523": {
       "id": "I523",
       "displayName": "Henrietta EYLAND",
       "birthUnionId": "F142",
       "spouseUnionIds": [],
-      "birthDateGedcom": "23 APR 1802",
-      "birthDate": "1802-04-23",
       "birthPlace": "Talinn, Estonia",
+      "birthDate": "1802-04-23",
+      "birthDateGedcom": "23 APR 1802",
       "sex": "F"
     },
     "I524": {
@@ -5870,11 +5882,11 @@
       "displayName": "Elisabeth Eylandt",
       "birthUnionId": "F142",
       "spouseUnionIds": [],
+      "birthPlace": "Talinn, Estonia",
+      "birthDate": "1804-06-20",
+      "deathDate": "BET 1845 AND 1850",
       "birthDateGedcom": "20 JUN 1804",
       "deathDateGedcom": "BET 1845 AND 1850",
-      "birthDate": "1804-06-20",
-      "birthPlace": "Talinn, Estonia",
-      "deathDate": "BET 1845 AND 1850",
       "sex": "F"
     },
     "I525": {
@@ -5882,9 +5894,9 @@
       "displayName": "Pauline Eylandt",
       "birthUnionId": "F142",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1806",
-      "birthDate": "ABT 1806",
       "birthPlace": "Talinn, Estonia",
+      "birthDate": "ABT 1806",
+      "birthDateGedcom": "ABT 1806",
       "sex": "F"
     },
     "I526": {
@@ -5892,22 +5904,22 @@
       "displayName": "Johann Eylandt",
       "birthUnionId": "F142",
       "spouseUnionIds": [],
+      "deathPlace": "Talinn, Estonia",
+      "birthPlace": "Reval (Tallinn), Harju County, Estonia",
+      "birthDate": "1821-05-10",
+      "deathDate": "1890-06-28",
       "birthDateGedcom": "10 MAY 1821",
       "deathDateGedcom": "28 JUN 1890",
-      "birthDate": "1821-05-10",
-      "birthPlace": "Reval (Tallinn), Harju County, Estonia",
-      "deathDate": "1890-06-28",
-      "sex": "M",
-      "deathPlace": "Talinn, Estonia"
+      "sex": "M"
     },
     "I527": {
       "id": "I527",
       "displayName": "Carl Eylandt",
       "birthUnionId": "F142",
       "spouseUnionIds": [],
-      "birthDateGedcom": "21 APR 1808",
-      "birthDate": "1808-04-21",
       "birthPlace": "Talinn, Estonia",
+      "birthDate": "1808-04-21",
+      "birthDateGedcom": "21 APR 1808",
       "sex": "M"
     },
     "I528": {
@@ -5915,13 +5927,13 @@
       "displayName": "Therese Eylandt",
       "birthUnionId": "F142",
       "spouseUnionIds": [],
+      "deathPlace": "Haapsalu Linn, Haapsalu linn, Estonia",
+      "birthPlace": "Talinn, Estonia",
+      "birthDate": "1813-12-17",
+      "deathDate": "1856-01-10",
       "birthDateGedcom": "17 DEC 1813",
       "deathDateGedcom": "10 JAN 1856",
-      "birthDate": "1813-12-17",
-      "birthPlace": "Talinn, Estonia",
-      "deathDate": "1856-01-10",
-      "sex": "F",
-      "deathPlace": "Haapsalu Linn, Haapsalu linn, Estonia"
+      "sex": "F"
     },
     "I529": {
       "id": "I529",
@@ -5930,25 +5942,25 @@
       "spouseUnionIds": [
         "F200"
       ],
-      "birthDate": "1530",
+      "deathPlace": "Durham, Durham, England",
       "birthPlace": "Durham, Durham, England",
+      "birthDate": "1530",
       "personPage": "people/henry-lawson-of-nesham-abbey.md",
       "deathDate": "1607",
-      "sex": "M",
-      "deathPlace": "Durham, Durham, England"
+      "sex": "M"
     },
     "I53": {
       "id": "I53",
       "displayName": "Pietro ADDOBBATI",
       "birthUnionId": "F10",
       "spouseUnionIds": [],
+      "deathPlace": "Trieste, Provincia di Trieste, Friuli-Venezia Giulia, Italy",
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1891-05-20",
+      "deathDate": "1930-09-11",
       "birthDateGedcom": "20 MAY 1891",
       "deathDateGedcom": "11 SEP 1930",
-      "birthDate": "1891-05-20",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "1930-09-11",
-      "sex": "M",
-      "deathPlace": "Trieste, Provincia di Trieste, Friuli-Venezia Giulia, Italy"
+      "sex": "M"
     },
     "I530": {
       "id": "I530",
@@ -5957,20 +5969,20 @@
       "spouseUnionIds": [
         "F200"
       ],
-      "birthDate": "1532",
+      "deathPlace": "Bath, Somerset, England",
       "birthPlace": "Layton, Durham, England",
+      "birthDate": "1532",
       "personPage": "people/frances-conyers.md",
       "deathDate": "1580",
-      "sex": "F",
-      "deathPlace": "Bath, Somerset, England"
+      "sex": "F"
     },
     "I531": {
       "id": "I531",
       "displayName": "Elizabeth Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1563",
       "birthDate": "1563",
+      "birthDateGedcom": "1563",
       "sex": "F"
     },
     "I532": {
@@ -5978,10 +5990,10 @@
       "displayName": "Ann Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1565",
-      "deathDateGedcom": "1565",
       "birthDate": "1565",
       "deathDate": "1565",
+      "birthDateGedcom": "1565",
+      "deathDateGedcom": "1565",
       "sex": "F"
     },
     "I533": {
@@ -5989,8 +6001,8 @@
       "displayName": "Catherine Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1566",
       "birthDate": "1566",
+      "birthDateGedcom": "1566",
       "sex": "F"
     },
     "I534": {
@@ -5998,8 +6010,8 @@
       "displayName": "Ralph Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1570",
       "birthDate": "1570",
+      "birthDateGedcom": "1570",
       "sex": "M"
     },
     "I535": {
@@ -6007,10 +6019,10 @@
       "displayName": "Barbara Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1571",
-      "deathDateGedcom": "1572",
       "birthDate": "1571",
       "deathDate": "1572",
+      "birthDateGedcom": "1571",
+      "deathDateGedcom": "1572",
       "sex": "F"
     },
     "I536": {
@@ -6018,8 +6030,8 @@
       "displayName": "Margaret Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1573",
       "birthDate": "1573",
+      "birthDateGedcom": "1573",
       "sex": "F"
     },
     "I537": {
@@ -6027,10 +6039,10 @@
       "displayName": "Thomas Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1575",
-      "deathDateGedcom": "1576",
       "birthDate": "1575",
       "deathDate": "1576",
+      "birthDateGedcom": "1575",
+      "deathDateGedcom": "1576",
       "sex": "M"
     },
     "I538": {
@@ -6038,21 +6050,21 @@
       "displayName": "James Unknown",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
+      "deathPlace": "England, United Kingdom",
+      "birthPlace": "Neesham, Durham, England, United Kingdom",
+      "birthDate": "JUL 1575",
+      "deathDate": "1631-10-20",
       "birthDateGedcom": "JUL 1575",
       "deathDateGedcom": "20 OCT 1631",
-      "birthDate": "JUL 1575",
-      "birthPlace": "Neesham, Durham, England, United Kingdom",
-      "deathDate": "1631-10-20",
-      "sex": "M",
-      "deathPlace": "England, United Kingdom"
+      "sex": "M"
     },
     "I539": {
       "id": "I539",
       "displayName": "Ann Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1577",
       "birthDate": "1577",
+      "birthDateGedcom": "1577",
       "sex": "F"
     },
     "I54": {
@@ -6062,20 +6074,20 @@
       "spouseUnionIds": [
         "F27"
       ],
-      "birthDate": "1851-02-04",
+      "deathPlace": "Zara, Dalmatia",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1851-02-04",
       "personPage": "people/simeone-gilberto-addobbati.md",
       "deathDate": "1926-06-20",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I540": {
       "id": "I540",
       "displayName": "Janet Lawson",
       "birthUnionId": "F200",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1578",
       "birthDate": "1578",
+      "birthDateGedcom": "1578",
       "sex": "F"
     },
     "I541": {
@@ -6083,8 +6095,8 @@
       "displayName": "Ralph Lawson",
       "birthUnionId": "F166",
       "spouseUnionIds": [],
-      "deathDateGedcom": "1620",
       "deathDate": "1620",
+      "deathDateGedcom": "1620",
       "sex": "M"
     },
     "I542": {
@@ -6092,10 +6104,10 @@
       "displayName": "James Lawson",
       "birthUnionId": "F166",
       "spouseUnionIds": [],
-      "deathDateGedcom": "16 FEB 1628",
+      "deathPlace": "North Yorkshire, England, United Kingdom",
       "deathDate": "1628-02-16",
-      "sex": "M",
-      "deathPlace": "North Yorkshire, England, United Kingdom"
+      "deathDateGedcom": "16 FEB 1628",
+      "sex": "M"
     },
     "I543": {
       "id": "I543",
@@ -6123,9 +6135,9 @@
       "displayName": "Christina Busse",
       "birthUnionId": "F144",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1782",
-      "birthDate": "ABT 1782",
       "birthPlace": "Viljandi County, Estonia",
+      "birthDate": "ABT 1782",
+      "birthDateGedcom": "ABT 1782",
       "sex": "F"
     },
     "I547": {
@@ -6133,22 +6145,22 @@
       "displayName": "Christian Busse",
       "birthUnionId": "F145",
       "spouseUnionIds": [],
+      "deathPlace": "Talinn, Estonia",
+      "birthPlace": "Talinn, Estonia",
+      "birthDate": "1745-04-25",
+      "deathDate": "1807-05-28",
       "birthDateGedcom": "25 APR 1745",
       "deathDateGedcom": "28 MAY 1807",
-      "birthDate": "1745-04-25",
-      "birthPlace": "Talinn, Estonia",
-      "deathDate": "1807-05-28",
-      "sex": "M",
-      "deathPlace": "Talinn, Estonia"
+      "sex": "M"
     },
     "I548": {
       "id": "I548",
       "displayName": "Margaretha Busse",
       "birthUnionId": "F145",
       "spouseUnionIds": [],
-      "birthDateGedcom": "3 OCT 1751",
-      "birthDate": "1751-10-03",
       "birthPlace": "Talinn, Estonia",
+      "birthDate": "1751-10-03",
+      "birthDateGedcom": "3 OCT 1751",
       "sex": "F"
     },
     "I549": {
@@ -6158,11 +6170,11 @@
       "spouseUnionIds": [
         "F201"
       ],
+      "birthPlace": "Võnnu Parish, Tartu County, Estonia",
+      "birthDate": "ABT 1769",
+      "deathDate": "BEF 1834",
       "birthDateGedcom": "ABT 1769",
       "deathDateGedcom": "BEF 1834",
-      "birthDate": "ABT 1769",
-      "birthPlace": "Võnnu Parish, Tartu County, Estonia",
-      "deathDate": "BEF 1834",
       "sex": "F"
     },
     "I55": {
@@ -6172,34 +6184,34 @@
       "spouseUnionIds": [
         "F14"
       ],
-      "birthDate": "1786-04-04",
+      "deathPlace": "Zara, Dalmatia",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1786-04-04",
       "personPage": "people/domenica-vincenza-coltelli.md",
       "deathDate": "1851-03-13",
-      "sex": "F",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "F"
     },
     "I550": {
       "id": "I550",
       "displayName": "Anna Busse",
       "birthUnionId": "F201",
       "spouseUnionIds": [],
+      "deathPlace": "Talinn, Estonia",
+      "birthPlace": "Viljandi (Fellin), Viljandi County, Estonia",
+      "birthDate": "1792-10-30",
+      "deathDate": "1870-03-31",
       "birthDateGedcom": "30 OCT 1792",
       "deathDateGedcom": "31 MAR 1870",
-      "birthDate": "1792-10-30",
-      "birthPlace": "Viljandi (Fellin), Viljandi County, Estonia",
-      "deathDate": "1870-03-31",
-      "sex": "F",
-      "deathPlace": "Talinn, Estonia"
+      "sex": "F"
     },
     "I551": {
       "id": "I551",
       "displayName": "Friderika Busse",
       "birthUnionId": "F201",
       "spouseUnionIds": [],
-      "birthDateGedcom": "30 OCT 1801",
-      "birthDate": "1801-10-30",
       "birthPlace": "Rakvere (Wesenberg), Lääne-Viru County, Estonia",
+      "birthDate": "1801-10-30",
+      "birthDateGedcom": "30 OCT 1801",
       "sex": "F"
     },
     "I552": {
@@ -6233,37 +6245,37 @@
       "spouseUnionIds": [
         "F203"
       ],
+      "deathPlace": "Limerick, County Limerick, Ireland",
+      "birthPlace": "County Limerick, Ireland",
+      "birthDate": "ABT 1730",
+      "deathDate": "DEC 1821",
       "birthDateGedcom": "ABT 1730",
       "deathDateGedcom": "DEC 1821",
-      "birthDate": "ABT 1730",
-      "birthPlace": "County Limerick, Ireland",
-      "deathDate": "DEC 1821",
-      "sex": "F",
-      "deathPlace": "Limerick, County Limerick, Ireland"
+      "sex": "F"
     },
     "I556": {
       "id": "I556",
       "displayName": "Anne Roche",
       "birthUnionId": "F203",
       "spouseUnionIds": [],
-      "birthDateGedcom": "ABT 1756",
-      "birthDate": "ABT 1756",
+      "deathPlace": "County Waterford, Ireland",
       "birthPlace": "County Limerick, Ireland",
-      "sex": "F",
-      "deathPlace": "County Waterford, Ireland"
+      "birthDate": "ABT 1756",
+      "birthDateGedcom": "ABT 1756",
+      "sex": "F"
     },
     "I557": {
       "id": "I557",
       "displayName": "Alice Brathwayt",
       "birthUnionId": "F99",
       "spouseUnionIds": [],
+      "deathPlace": "Burton-in-wirral, Cheshire, England",
+      "birthPlace": "Kendal, Cumbria, England, United Kingdom",
+      "birthDate": "1623-09-25",
+      "deathDate": "1666-05-23",
       "birthDateGedcom": "25 SEP 1623",
       "deathDateGedcom": "23 MAY 1666",
-      "birthDate": "1623-09-25",
-      "birthPlace": "Kendal, Cumbria, England, United Kingdom",
-      "deathDate": "1666-05-23",
-      "sex": "F",
-      "deathPlace": "Burton-in-wirral, Cheshire, England"
+      "sex": "F"
     },
     "I558": {
       "id": "I558",
@@ -6272,8 +6284,8 @@
       "spouseUnionIds": [
         "F204"
       ],
-      "deathDateGedcom": "BEF 1849",
       "deathDate": "BEF 1849",
+      "deathDateGedcom": "BEF 1849",
       "sex": "F"
     },
     "I559": {
@@ -6281,8 +6293,8 @@
       "displayName": "Thomas Braithwait",
       "birthUnionId": "F100",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1618",
       "birthDate": "1618",
+      "birthDateGedcom": "1618",
       "sex": "M"
     },
     "I56": {
@@ -6312,12 +6324,12 @@
       "spouseUnionIds": [
         "F206"
       ],
-      "birthDate": "1873-07-06",
+      "deathPlace": "Grebblo, Novgorod Province, Russia",
       "birthPlace": "Tallinn, Estonia",
+      "birthDate": "1873-07-06",
       "personPage": "people/lydia-siebert.md",
       "deathDate": "1920-03-11",
-      "sex": "F",
-      "deathPlace": "Grebblo, Novgorod Province, Russia"
+      "sex": "F"
     },
     "I562": {
       "id": "I562",
@@ -6352,8 +6364,8 @@
       "displayName": "Hans Stump",
       "birthUnionId": "F73",
       "spouseUnionIds": [],
-      "deathDateGedcom": "8 JUN 1769",
       "deathDate": "1769-06-08",
+      "deathDateGedcom": "8 JUN 1769",
       "sex": "M"
     },
     "I566": {
@@ -6361,8 +6373,8 @@
       "displayName": "Esther Haag",
       "birthUnionId": "F92",
       "spouseUnionIds": [],
-      "deathDateGedcom": "MAY 1807",
       "deathDate": "MAY 1807",
+      "deathDateGedcom": "MAY 1807",
       "sex": "F"
     },
     "I567": {
@@ -6377,8 +6389,8 @@
       "displayName": "Johann Haag",
       "birthUnionId": "F92",
       "spouseUnionIds": [],
-      "deathDateGedcom": "29 JUN 1831",
       "deathDate": "1831-06-29",
+      "deathDateGedcom": "29 JUN 1831",
       "sex": "M"
     },
     "I569": {
@@ -6437,8 +6449,8 @@
       "spouseUnionIds": [
         "F209"
       ],
-      "birthDate": "1811",
       "birthPlace": "County Cork, Ireland",
+      "birthDate": "1811",
       "deathDate": "1881",
       "sex": "M"
     },
@@ -6449,8 +6461,8 @@
       "spouseUnionIds": [
         "F209"
       ],
-      "birthDate": "1821",
       "birthPlace": "County Cork, Ireland",
+      "birthDate": "1821",
       "deathDate": "1893",
       "sex": "F"
     },
@@ -6461,11 +6473,11 @@
       "spouseUnionIds": [
         "F27"
       ],
+      "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1863-03-31",
+      "deathDate": "1943-12-27",
       "birthDateGedcom": "31 MAR 1863",
       "deathDateGedcom": "27 DEC 1943",
-      "birthDate": "1863-03-31",
-      "birthPlace": "Zara, Dalmatia",
-      "deathDate": "1943-12-27",
       "sex": "F"
     },
     "I59": {
@@ -6475,11 +6487,11 @@
       "spouseUnionIds": [
         "F28"
       ],
+      "birthPlace": "Genoa, Metropolitan City of Genoa, Liguria, Italy",
+      "birthDate": "1815-01-12",
+      "deathDate": "1882-12-07",
       "birthDateGedcom": "12 JAN 1815",
       "deathDateGedcom": "7 DEC 1882",
-      "birthDate": "1815-01-12",
-      "birthPlace": "Genoa, Metropolitan City of Genoa, Liguria, Italy",
-      "deathDate": "1882-12-07",
       "sex": "M"
     },
     "I6": {
@@ -6487,8 +6499,8 @@
       "displayName": "Sloan LEWIS",
       "birthUnionId": "F2",
       "spouseUnionIds": [],
-      "birthDateGedcom": "29 SEP 2018",
       "birthDate": "2018-09-29",
+      "birthDateGedcom": "29 SEP 2018",
       "sex": "F"
     },
     "I60": {
@@ -6498,13 +6510,13 @@
       "spouseUnionIds": [
         "F29"
       ],
+      "deathPlace": "Zara, Dalmatia",
+      "birthPlace": "Genoa, Metropolitan City of Genoa, Liguria, Italy",
+      "birthDate": "1784-09-29",
+      "deathDate": "1865-09-08",
       "birthDateGedcom": "29 SEP 1784",
       "deathDateGedcom": "8 SEP 1865",
-      "birthDate": "1784-09-29",
-      "birthPlace": "Genoa, Metropolitan City of Genoa, Liguria, Italy",
-      "deathDate": "1865-09-08",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I61": {
       "id": "I61",
@@ -6522,9 +6534,9 @@
       "spouseUnionIds": [
         "F199"
       ],
-      "birthDateGedcom": "10 MAY 1850",
-      "birthDate": "1850-05-10",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1850-05-10",
+      "birthDateGedcom": "10 MAY 1850",
       "sex": "F"
     },
     "I63": {
@@ -6534,11 +6546,11 @@
       "spouseUnionIds": [
         "F31"
       ],
+      "deathPlace": "Zara, Dalmatia",
       "birthPlace": "Senj, Lika-Senj, Croatia",
       "personPage": "people/casimiro-carobbi.md",
       "deathDate": "1866-04-05",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I64": {
       "id": "I64",
@@ -6547,12 +6559,12 @@
       "spouseUnionIds": [
         "F31"
       ],
-      "birthDate": "1795",
+      "deathPlace": "Zara, Dalmatia",
       "birthPlace": "Cattaro, Dalmatia, Austria",
+      "birthDate": "1795",
       "personPage": "people/marianna-billicich.md",
       "deathDate": "1860-04-24",
-      "sex": "F",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "F"
     },
     "I65": {
       "id": "I65",
@@ -6561,11 +6573,11 @@
       "spouseUnionIds": [
         "F32"
       ],
+      "deathPlace": "before 1822",
       "birthPlace": "Croatia",
       "personPage": "people/giovanni-battista-carobbi.md",
       "deathDate": "1822",
-      "sex": "M",
-      "deathPlace": "before 1822"
+      "sex": "M"
     },
     "I66": {
       "id": "I66",
@@ -6574,21 +6586,21 @@
       "spouseUnionIds": [
         "F33"
       ],
+      "deathPlace": "about 1828",
       "birthPlace": "Cattaro, Dalmatia",
       "personPage": "people/jakov-bilicic.md",
       "deathDate": "1828",
-      "sex": "M",
-      "deathPlace": "about 1828"
+      "sex": "M"
     },
     "I67": {
       "id": "I67",
       "displayName": "Roberto ZERAUSCHEK",
       "birthUnionId": "F13",
       "spouseUnionIds": [],
-      "birthDateGedcom": "7 JAN 1891",
-      "deathDateGedcom": "5 JUN 1964",
       "birthDate": "1891-01-07",
       "deathDate": "1964-06-05",
+      "birthDateGedcom": "7 JAN 1891",
+      "deathDateGedcom": "5 JUN 1964",
       "sex": "M"
     },
     "I68": {
@@ -6610,9 +6622,9 @@
       "displayName": "Archer LEWIS",
       "birthUnionId": "F2",
       "spouseUnionIds": [],
-      "birthDateGedcom": "14 OCT 2016",
-      "birthDate": "2016-10-14",
       "birthPlace": "Los Gatos, California, United States",
+      "birthDate": "2016-10-14",
+      "birthDateGedcom": "14 OCT 2016",
       "sex": "M"
     },
     "I70": {
@@ -6627,9 +6639,9 @@
       "displayName": "Nicola ZERAUSCHEK",
       "birthUnionId": "F35",
       "spouseUnionIds": [],
-      "birthDateGedcom": "30 MAR 1960",
-      "birthDate": "1960-03-30",
       "birthPlace": "Florence, Italy",
+      "birthDate": "1960-03-30",
+      "birthDateGedcom": "30 MAR 1960",
       "sex": "M"
     },
     "I72": {
@@ -6637,8 +6649,8 @@
       "displayName": "Simone ZERAUSCHEK",
       "birthUnionId": "F35",
       "spouseUnionIds": [],
-      "birthDateGedcom": "30 APR 1962",
       "birthDate": "1962-04-30",
+      "birthDateGedcom": "30 APR 1962",
       "sex": "M"
     },
     "I73": {
@@ -6646,11 +6658,11 @@
       "displayName": "Brynmor LEWIS",
       "birthUnionId": "F7",
       "spouseUnionIds": [],
-      "birthDate": "1934",
       "birthPlace": "Merthyr Tydfil, Glamorgan, Wales, United Kingdom",
+      "birthDate": "1934",
       "personPage": "people/brynmor-keith-lewis.md",
-      "nationality": "British",
-      "sex": "M"
+      "sex": "M",
+      "nationality": "British"
     },
     "I74": {
       "id": "I74",
@@ -6666,16 +6678,16 @@
       "displayName": "Pietro ADDOBBATI",
       "birthUnionId": null,
       "spouseUnionIds": [],
-      "deathDateGedcom": "4 NOV 1832",
-      "birthDate": "1769",
+      "deathPlace": "Zara, Dalmatia",
       "alsoKnownAs": [
         "Dr. Petar Addobbati"
       ],
+      "birthDate": "1769",
       "personPage": "people/dr-pietro-addobbati.md",
       "deathDate": "1832-11-04",
+      "deathDateGedcom": "4 NOV 1832",
       "role": "Lawyer, Knight of the Golden Spur, noble of Nin",
-      "sex": "M",
-      "deathPlace": "Zara, Dalmatia"
+      "sex": "M"
     },
     "I76": {
       "id": "I76",
@@ -6684,17 +6696,17 @@
       "spouseUnionIds": [
         "F6"
       ],
-      "birthDate": "1886-03-06",
+      "birthPlace": "Tehran, Persia",
+      "birthDateAlt": "1888-06-26",
       "alsoKnownAs": [
         "Henriette Louise Bottin"
       ],
-      "birthPlace": "Tehran, Persia",
-      "birthDateAlt": "1888-06-26",
+      "birthDate": "1886-03-06",
       "personPage": "people/henriette-bottin.md",
       "deathDate": "1961-06-26",
       "role": "Daughter of Fanny + Julien; married Étienne Stump",
-      "sex": "F",
-      "era": "Qajar – Pahlavi transition"
+      "era": "Qajar – Pahlavi transition",
+      "sex": "F"
     },
     "I77": {
       "id": "I77",
@@ -6703,13 +6715,13 @@
       "spouseUnionIds": [
         "F38"
       ],
-      "birthDate": "1853-03-24",
       "birthPlace": "Saint Barthélemy, Nice, France",
+      "birthDate": "1853-07-01",
       "personPage": "people/julien-bottin.md",
       "role": "Engineer; Ministry of War",
-      "nationality": "French",
+      "era": "Late Qajar – early 20th c.",
       "sex": "M",
-      "era": "Late Qajar – early 20th c."
+      "nationality": "French"
     },
     "I78": {
       "id": "I78",
@@ -6718,18 +6730,18 @@
       "spouseUnionIds": [
         "F38"
       ],
-      "birthDate": "1854-06-09",
+      "deathPlace": "Tehran, Iran",
+      "birthPlace": "Tehran, Iran",
       "alsoKnownAs": [
         "Fanny Burgess Bottin"
       ],
-      "birthPlace": "Tehran, Iran",
+      "birthDate": "1854-06-09",
+      "burialPlace": "Tehran Protestant Cemetery",
       "personPage": "people/fanny-burgess.md",
       "deathDate": "1938-11-06",
       "role": "Daughter of Anna + Edward; married Julien Bottin",
-      "sex": "F",
-      "deathPlace": "Tehran, Iran",
-      "burialPlace": "Tehran Protestant Cemetery",
-      "era": "Late Qajar"
+      "era": "Late Qajar",
+      "sex": "F"
     },
     "I79": {
       "id": "I79",
@@ -6738,19 +6750,19 @@
       "spouseUnionIds": [
         "F39"
       ],
-      "birthDate": "1810",
+      "deathPlace": "Tabriz, Iran",
+      "birthPlace": "England",
       "alsoKnownAs": [
         "Berjīs Ṣāḥeb (برجیس صاحب)"
       ],
-      "birthPlace": "England",
+      "birthDate": "1810",
+      "burialPlace": "Armenian cemetery outside the walls of Tabriz",
       "personPage": "people/edward-burgess.md",
       "deathDate": "1855-06-18",
       "role": "Merchant, translator, King's Dragoman and Interpreter of Oriental Languages, founding editor of Iran's state gazette, publisher of Iran's first confidential intelligence bulletin, Iran's first press censor",
-      "nationality": "British",
+      "era": "Qajar",
       "sex": "M",
-      "deathPlace": "Tabriz, Iran",
-      "burialPlace": "Armenian cemetery outside the walls of Tabriz",
-      "era": "Qajar"
+      "nationality": "British"
     },
     "I8": {
       "id": "I8",
@@ -6760,15 +6772,15 @@
         "F4",
         "F36"
       ],
-      "birthDate": "1918-10-02",
+      "deathPlace": "Brighton and Hove, Sussex, England, United Kingdom",
       "birthPlace": "Merthyr Tydfil, Glamorgan, Wales, United Kingdom",
+      "birthDate": "1918-10-02",
+      "burialPlace": "Sirmione, Province of Brescia, Lombardy, Italy",
       "personPage": "people/david-john-lewis.md",
       "deathDate": "2000-08-22",
       "role": "Major / District Commissioner / Under Secretary",
-      "nationality": "British",
       "sex": "M",
-      "deathPlace": "Brighton and Hove, Sussex, England, United Kingdom",
-      "burialPlace": "Sirmione, Province of Brescia, Lombardy, Italy"
+      "nationality": "British"
     },
     "I80": {
       "id": "I80",
@@ -6777,13 +6789,13 @@
       "spouseUnionIds": [
         "F39"
       ],
-      "birthDate": "~1830",
       "birthPlace": "Tabrīz, Iran",
       "birthDateAlt": "1815",
+      "birthDate": "~1830",
       "personPage": "people/anna-saginian.md",
       "role": "Court and diplomatic circles",
-      "sex": "F",
-      "era": "Qajar"
+      "era": "Qajar",
+      "sex": "F"
     },
     "I81": {
       "id": "I81",
@@ -6792,13 +6804,13 @@
       "spouseUnionIds": [
         "F40"
       ],
-      "birthDate": "1780-07-07",
+      "deathPlace": "City of London",
       "birthPlace": "Hinckley, Leicestershire, England",
+      "birthDate": "1780-07-07",
       "personPage": "people/henry-burgess.md",
       "deathDate": "1863",
       "role": "Banker, economist, editor",
-      "sex": "M",
-      "deathPlace": "City of London"
+      "sex": "M"
     },
     "I82": {
       "id": "I82",
@@ -6807,22 +6819,22 @@
       "spouseUnionIds": [
         "F40"
       ],
-      "birthDate": "1784-06-10",
+      "deathPlace": "Brighton, Sussex",
       "birthPlace": "Wakefield, All Saints, Yorkshire, England",
+      "birthDate": "1784-06-10",
       "personPage": "people/frances-ridsdale.md",
       "deathDate": "1847",
-      "sex": "F",
-      "deathPlace": "Brighton, Sussex"
+      "sex": "F"
     },
     "I83": {
       "id": "I83",
       "displayName": "Charles BURGESS",
       "birthUnionId": "F40",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1805",
-      "deathDateGedcom": "1854",
       "birthDate": "1805",
       "deathDate": "1854",
+      "birthDateGedcom": "1805",
+      "deathDateGedcom": "1854",
       "sex": "M"
     },
     "I84": {
@@ -6830,10 +6842,10 @@
       "displayName": "Joseph BURGESS",
       "birthUnionId": "F40",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1813",
-      "deathDateGedcom": "1832",
       "birthDate": "1813",
       "deathDate": "1832",
+      "birthDateGedcom": "1813",
+      "deathDateGedcom": "1832",
       "sex": "M"
     },
     "I85": {
@@ -6841,10 +6853,10 @@
       "displayName": "George BURGESS",
       "birthUnionId": "F40",
       "spouseUnionIds": [],
-      "birthDateGedcom": "1817",
-      "deathDateGedcom": "1900",
       "birthDate": "1817",
       "deathDate": "1900",
+      "birthDateGedcom": "1817",
+      "deathDateGedcom": "1900",
       "sex": "M"
     },
     "I86": {
@@ -6854,12 +6866,12 @@
       "spouseUnionIds": [
         "F41"
       ],
-      "birthDate": "1735-11-14",
+      "deathPlace": "Leicester, Leicestershire",
       "birthPlace": "Leicester, Leicestershire, England",
+      "birthDate": "1735-11-14",
       "personPage": "people/joseph-burgess.md",
       "deathDate": "1807-03-26",
-      "sex": "M",
-      "deathPlace": "Leicester, Leicestershire"
+      "sex": "M"
     },
     "I87": {
       "id": "I87",
@@ -6868,8 +6880,8 @@
       "spouseUnionIds": [
         "F41"
       ],
-      "birthDate": "1741-02-22",
       "birthPlace": "Kendal, Westmorland, England",
+      "birthDate": "1741-02-22",
       "personPage": "people/sarah-airey.md",
       "deathDate": "1828",
       "sex": "F"
@@ -6881,8 +6893,8 @@
       "spouseUnionIds": [
         "F42"
       ],
-      "birthDate": "1701-04-10",
       "birthPlace": "England",
+      "birthDate": "1701-04-10",
       "personPage": "people/joseph-airey.md",
       "deathDate": "1777-08-31",
       "sex": "M"
@@ -6894,8 +6906,8 @@
       "spouseUnionIds": [
         "F42"
       ],
-      "birthDate": "1704-02-28",
       "birthPlace": "England",
+      "birthDate": "1704-02-28",
       "personPage": "people/sarah-grave.md",
       "deathDate": "1774-02-23",
       "sex": "F"
@@ -6907,13 +6919,13 @@
       "spouseUnionIds": [
         "F4"
       ],
-      "birthDate": "1923-11-10",
+      "deathPlace": "Hove, The City of Brighton and Hove, England, United Kingdom",
       "birthPlace": "Zara, Dalmatia",
+      "birthDate": "1923-11-10",
+      "burialPlace": "Sirmione, Province of Brescia, Lombardy, Italy",
       "personPage": "people/fulvia-ottilia-antonia-zerauschek.md",
       "deathDate": "2000-12-20",
-      "sex": "F",
-      "deathPlace": "Hove, The City of Brighton and Hove, England, United Kingdom",
-      "burialPlace": "Sirmione, Province of Brescia, Lombardy, Italy"
+      "sex": "F"
     },
     "I90": {
       "id": "I90",
@@ -6946,13 +6958,13 @@
       "spouseUnionIds": [
         "F44"
       ],
-      "birthDate": "1633",
+      "deathPlace": "Orest Head, Westmorland, England",
       "birthPlace": "Westmorland, England",
+      "birthDate": "1633",
+      "burialPlace": "Westmorland, England",
       "personPage": "people/thomas-grave.md",
       "deathDate": "1708-06",
-      "sex": "M",
-      "deathPlace": "Orest Head, Westmorland, England",
-      "burialPlace": "Westmorland, England"
+      "sex": "M"
     },
     "I93": {
       "id": "I93",
@@ -6961,12 +6973,12 @@
       "spouseUnionIds": [
         "F45"
       ],
-      "birthDate": "1587",
+      "deathPlace": "Hugill, Westmorland",
       "birthPlace": "Kendal, Westmorland, England",
+      "birthDate": "1587",
       "personPage": "people/william-grave.md",
       "deathDate": "1641",
-      "sex": "M",
-      "deathPlace": "Hugill, Westmorland"
+      "sex": "M"
     },
     "I94": {
       "id": "I94",
@@ -6975,8 +6987,8 @@
       "spouseUnionIds": [
         "F46"
       ],
-      "birthDate": "1560",
       "birthPlace": "Westmorland, England",
+      "birthDate": "1560",
       "personPage": "people/john-grave.md",
       "sex": "M"
     },
@@ -6987,12 +6999,12 @@
       "spouseUnionIds": [
         "F45"
       ],
-      "birthDate": "1584-11",
+      "deathPlace": "Kendal, Westmorland, England",
       "birthPlace": "Kendal, Westmorland, England",
+      "birthDate": "1584-11",
       "personPage": "people/elizabeth-mackereth.md",
       "deathDate": "1670-07",
-      "sex": "F",
-      "deathPlace": "Kendal, Westmorland, England"
+      "sex": "F"
     },
     "I96": {
       "id": "I96",
@@ -7001,12 +7013,12 @@
       "spouseUnionIds": [
         "F47"
       ],
-      "birthDate": "APR 1559",
+      "deathPlace": "Kendal, Westmorland, England",
       "birthPlace": "Kendal, Westmorland, England",
+      "birthDate": "APR 1559",
       "personPage": "people/robert-mackereth.md",
       "deathDate": "1611-12-09",
-      "sex": "M",
-      "deathPlace": "Kendal, Westmorland, England"
+      "sex": "M"
     },
     "I97": {
       "id": "I97",
@@ -7035,11 +7047,11 @@
       "spouseUnionIds": [
         "F49"
       ],
-      "birthDate": "ABT SEP 1914",
+      "birthPlace": "Holborn, London, England",
       "alsoKnownAs": [
         "Joseph David Evans"
       ],
-      "birthPlace": "Holborn, London, England",
+      "birthDate": "ABT SEP 1914",
       "personPage": "people/joseph-evans-i99.md",
       "deathDate": "2024",
       "sex": "M"
@@ -7049,8 +7061,8 @@
       "displayName": "Alfred Charles EVANS",
       "birthUnionId": "F50",
       "spouseUnionIds": [],
-      "birthDate": "ABT APR 1913",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT APR 1913",
       "personPage": "people/alfred-charles-evans-i576.md",
       "sex": "M"
     },
@@ -7059,8 +7071,8 @@
       "displayName": "Annie EVANS",
       "birthUnionId": "F50",
       "spouseUnionIds": [],
-      "birthDate": "ABT APR 1917",
       "birthPlace": "Islington, London, England",
+      "birthDate": "ABT APR 1917",
       "personPage": "people/annie-evans-i577.md",
       "sex": "F"
     },
@@ -7071,8 +7083,8 @@
       "spouseUnionIds": [
         "F136"
       ],
-      "birthDate": "Q1 1861",
       "birthPlace": "Islington, London, England",
+      "birthDate": "Q1 1861",
       "personPage": "people/dorothea-knecht.md",
       "sex": "F"
     },
@@ -7083,15 +7095,15 @@
       "spouseUnionIds": [
         "F210"
       ],
-      "birthDate": "ABT 1829",
+      "deathPlace": "Paddington, London, England",
+      "birthPlace": "Hesse-Nassau, Germany",
       "alsoKnownAs": [
         "Johann George Knecht"
       ],
-      "birthPlace": "Hesse-Nassau, Germany",
+      "birthDate": "ABT 1829",
       "personPage": "people/george-knecht.md",
       "deathDate": "1898-09-28",
-      "sex": "M",
-      "deathPlace": "Paddington, London, England"
+      "sex": "M"
     },
     "I580": {
       "id": "I580",
@@ -7100,13 +7112,13 @@
       "spouseUnionIds": [
         "F210"
       ],
-      "birthDate": "ABT 1828",
+      "birthPlace": "Bethnal Green, London, England",
       "alsoKnownAs": [
         "Sarah Eliza Victoria Knecht",
         "Eliza Thorbourn",
         "Eliza Knecht"
       ],
-      "birthPlace": "Bethnal Green, London, England",
+      "birthDate": "ABT 1828",
       "personPage": "people/eliza-knecht.md",
       "sex": "F"
     },
@@ -7117,12 +7129,12 @@
       "spouseUnionIds": [
         "F213"
       ],
-      "birthDate": "ABT 1794",
+      "deathPlace": "Bethnal Green, London, England",
       "birthPlace": "Stepney, London, England",
+      "birthDate": "ABT 1794",
       "personPage": "people/james-glasscock-i598.md",
       "deathDate": "Q2 1863",
-      "sex": "M",
-      "deathPlace": "Bethnal Green, London, England"
+      "sex": "M"
     },
     "I599": {
       "id": "I599",
@@ -7131,8 +7143,8 @@
       "spouseUnionIds": [
         "F213"
       ],
-      "birthDate": "ABT 1809",
       "birthPlace": "Bethnal Green, London, England",
+      "birthDate": "ABT 1809",
       "sex": "F"
     },
     "I600": {
@@ -7142,8 +7154,8 @@
       "spouseUnionIds": [
         "F214"
       ],
-      "birthDate": "1773-02-14",
       "birthPlace": "Whitechapel, London, England",
+      "birthDate": "1773-02-14",
       "personPage": "people/john-glasscock-i600.md",
       "sex": "M"
     },
@@ -7163,8 +7175,8 @@
       "spouseUnionIds": [
         "F215"
       ],
-      "birthDate": "ABT 1735",
       "birthPlace": "Bishop's Stortford, Hertfordshire, England",
+      "birthDate": "ABT 1735",
       "personPage": "people/abraham-glasscock-i602.md",
       "sex": "M"
     },
@@ -7184,11 +7196,11 @@
       "spouseUnionIds": [
         "F216"
       ],
-      "birthDate": "ABT 1703",
+      "deathPlace": "Bishop's Stortford, Hertfordshire, England",
       "birthPlace": "Bishop's Stortford, Hertfordshire, England",
+      "birthDate": "ABT 1703",
       "deathDate": "ABT 1738",
-      "sex": "M",
-      "deathPlace": "Bishop's Stortford, Hertfordshire, England"
+      "sex": "M"
     },
     "I605": {
       "id": "I605",
@@ -7206,8 +7218,8 @@
       "spouseUnionIds": [
         "F190"
       ],
-      "birthDate": "ABT 1824",
       "birthPlace": "Clapton, Hackney, London, England",
+      "birthDate": "ABT 1824",
       "personPage": "people/catherine-burton-evans-i608.md",
       "sex": "F"
     },
@@ -7218,8 +7230,8 @@
       "spouseUnionIds": [
         "F218"
       ],
-      "birthDate": "1794-01-07",
       "birthPlace": "Briton Ferry, Glamorganshire, Wales",
+      "birthDate": "1794-01-07",
       "sex": "M"
     },
     "I610": {
@@ -7258,8 +7270,8 @@
       "spouseUnionIds": [
         "F220"
       ],
-      "birthDate": "1790",
       "birthPlace": "Llandybie, Carmarthenshire, Wales",
+      "birthDate": "1790",
       "sex": "M"
     },
     "I614": {
@@ -7297,12 +7309,12 @@
       "spouseUnionIds": [
         "F98"
       ],
-      "birthDate": "1637-05-07",
+      "deathPlace": "Swarthmoor, Lancashire, England",
       "birthPlace": "Hawkshead, Lancashire, England",
+      "birthDate": "1637-05-07",
       "personPage": "people/george-brathwaite.md",
       "deathDate": "1681-03-04",
-      "sex": "M",
-      "deathPlace": "Swarthmoor, Lancashire, England"
+      "sex": "M"
     },
     "I618": {
       "id": "I618",
@@ -7311,11 +7323,11 @@
       "spouseUnionIds": [
         "F98"
       ],
+      "deathPlace": "Swarthmoor, Lancashire, England",
       "birthPlace": "Longriggs, Lancashire, England",
       "personPage": "people/agnes-benson.md",
       "deathDate": "1694-07-05",
-      "sex": "F",
-      "deathPlace": "Swarthmoor, Lancashire, England"
+      "sex": "F"
     },
     "I619": {
       "id": "I619",
@@ -7324,12 +7336,12 @@
       "spouseUnionIds": [
         "F222"
       ],
-      "birthDate": "1614-10-02",
+      "deathPlace": "Swarthmoor, Lancashire, England",
       "birthPlace": "Hawkshead, Lancashire, England",
+      "birthDate": "1614-10-02",
       "personPage": "people/william-brathwaite-hawkshead.md",
       "deathDate": "1689-10-25",
-      "sex": "M",
-      "deathPlace": "Swarthmoor, Lancashire, England"
+      "sex": "M"
     },
     "I620": {
       "id": "I620",
@@ -7346,13 +7358,13 @@
       "displayName": "James ROCHE",
       "birthUnionId": "F167",
       "spouseUnionIds": [],
-      "birthDate": "1770-12-30",
+      "deathPlace": "Glanmire Road, Cork, Ireland",
       "birthPlace": "Limerick, Ireland",
+      "birthDate": "1770-12-30",
       "personPage": "people/james-roche.md",
       "deathDate": "1853-04-01",
       "role": "Banker",
-      "sex": "M",
-      "deathPlace": "Glanmire Road, Cork, Ireland"
+      "sex": "M"
     },
     "I622": {
       "id": "I622",
@@ -7372,8 +7384,8 @@
       "spouseUnionIds": [
         "F223"
       ],
-      "birthDate": "1775",
       "birthPlace": "Vaud, Switzerland",
+      "birthDate": "1775",
       "personPage": "people/jeanne-francoise-dumartheray.md",
       "sex": "F"
     },
@@ -7384,16 +7396,16 @@
       "spouseUnionIds": [
         "F224"
       ],
-      "birthDate": "~1737",
+      "deathPlace": "Aubonne, Vaud, Switzerland",
+      "birthPlace": "Aubonne, Vaud, Switzerland",
       "alsoKnownAs": [
         "Jean Louis Montagnon",
         "J Louis Montagnon"
       ],
-      "birthPlace": "Aubonne, Vaud, Switzerland",
+      "birthDate": "~1737",
       "personPage": "people/jean-francois-louis-montagnon.md",
       "deathDate": "1786-02-04",
-      "sex": "M",
-      "deathPlace": "Aubonne, Vaud, Switzerland"
+      "sex": "M"
     },
     "I625": {
       "id": "I625",
@@ -7402,13 +7414,13 @@
       "spouseUnionIds": [
         "F224"
       ],
-      "birthDate": "1732-10-26",
+      "birthPlace": "Céligny, Geneva, Switzerland",
       "alsoKnownAs": [
         "Susanne Cheneveau",
         "Suzanne Chenevard",
         "Susanne Chanevaz"
       ],
-      "birthPlace": "Céligny, Geneva, Switzerland",
+      "birthDate": "1732-10-26",
       "personPage": "people/jaqueline-suzanne-chenevard.md",
       "sex": "F"
     },
@@ -7430,10 +7442,10 @@
       "spouseUnionIds": [
         "F225"
       ],
+      "birthPlace": "Vaud, Switzerland",
       "alsoKnownAs": [
         "Elisabeth Borrel"
       ],
-      "birthPlace": "Vaud, Switzerland",
       "personPage": "people/jeanne-elisabeth-borel.md",
       "sex": "F"
     },
@@ -7455,10 +7467,10 @@
       "spouseUnionIds": [
         "F226"
       ],
+      "birthPlace": "Thurgau, Switzerland",
       "alsoKnownAs": [
         "Anna Barbara Erb"
       ],
-      "birthPlace": "Thurgau, Switzerland",
       "personPage": "people/anna-barbara-erbig.md",
       "sex": "F"
     },
@@ -7524,12 +7536,12 @@
       "spouseUnionIds": [
         "F231"
       ],
-      "birthDate": "1692",
+      "deathPlace": "Aubonne, Vaud, Switzerland",
       "birthPlace": "Aubonne, Vaud, Switzerland",
+      "birthDate": "1692",
       "personPage": "people/jean-pierre-montagnon.md",
       "deathDate": "1737-03-05",
-      "sex": "M",
-      "deathPlace": "Aubonne, Vaud, Switzerland"
+      "sex": "M"
     },
     "I638": {
       "id": "I638",
@@ -7538,15 +7550,15 @@
       "spouseUnionIds": [
         "F231"
       ],
-      "birthDate": "1685",
+      "deathPlace": "Aubonne, Vaud, Switzerland",
       "alsoKnownAs": [
         "Jeanne Cusin",
         "Jeane Elizabeth Cuzin"
       ],
+      "birthDate": "1685",
       "personPage": "people/jeane-elizabeth-cusin.md",
       "deathDate": "1753-12-04",
-      "sex": "F",
-      "deathPlace": "Aubonne, Vaud, Switzerland"
+      "sex": "F"
     },
     "I639": {
       "id": "I639",
@@ -7555,12 +7567,12 @@
       "spouseUnionIds": [
         "F232"
       ],
-      "birthDate": "~1688",
+      "deathPlace": "Céligny, Geneva, Switzerland",
       "birthPlace": "Céligny, Geneva, Switzerland",
+      "birthDate": "~1688",
       "personPage": "people/benjamin-chenevard.md",
       "deathDate": "1747-12-02",
-      "sex": "M",
-      "deathPlace": "Céligny, Geneva, Switzerland"
+      "sex": "M"
     },
     "I640": {
       "id": "I640",
@@ -7584,12 +7596,12 @@
       "spouseUnionIds": [
         "F233"
       ],
-      "birthDate": "1657",
+      "deathPlace": "Céligny, Geneva, Switzerland",
       "birthPlace": "Céligny, Geneva, Switzerland",
+      "birthDate": "1657",
       "personPage": "people/antoine-chenevard.md",
       "deathDate": "1733-07-24",
-      "sex": "M",
-      "deathPlace": "Céligny, Geneva, Switzerland"
+      "sex": "M"
     },
     "I642": {
       "id": "I642",
@@ -7639,15 +7651,15 @@
       "spouseUnionIds": [
         "F237"
       ],
-      "birthDate": "~1667",
+      "deathPlace": "Aubonne, Vaud, Switzerland",
+      "birthPlace": "Vaud, Switzerland",
       "alsoKnownAs": [
         "François Montagnon"
       ],
-      "birthPlace": "Vaud, Switzerland",
+      "birthDate": "~1667",
       "personPage": "people/jean-francois-montagnon-1666.md",
       "deathDate": "1732-09-15",
-      "sex": "M",
-      "deathPlace": "Aubonne, Vaud, Switzerland"
+      "sex": "M"
     },
     "I647": {
       "id": "I647",
@@ -7656,14 +7668,14 @@
       "spouseUnionIds": [
         "F237"
       ],
-      "birthDate": "1665",
+      "deathPlace": "Aubonne, Vaud, Switzerland",
       "alsoKnownAs": [
         "Jeane Marechal Montagnon"
       ],
+      "birthDate": "1665",
       "personPage": "people/jeane-marechal.md",
       "deathDate": "1742-07-11",
-      "sex": "F",
-      "deathPlace": "Aubonne, Vaud, Switzerland"
+      "sex": "F"
     },
     "I648": {
       "id": "I648",
@@ -7680,8 +7692,8 @@
       "displayName": "Juana de Dios CERPA GONZALEZ",
       "birthUnionId": "F163",
       "spouseUnionIds": [],
-      "birthDate": "1912",
       "birthPlace": "Chanco, Cauquenes, Maule, Chile",
+      "birthDate": "1912",
       "personPage": "people/juana-de-dios-cerpa-gonzalez.md",
       "sex": "F"
     }

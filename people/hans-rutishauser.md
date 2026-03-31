@@ -13,7 +13,7 @@ children:
 
 # Hans Rutishauser
 
-Hans Rutishauser was the husband of [Wybrata Rockenbass](wybrata-rockenbass.md) and father of [Barbara Rutershauer](barbara-rutershauer.md). The export carries no birth or death events for him. His parents were [Wendel Rutishauser](wendel-rutishauser.md) and [Adelheit Claarer](adelheit-claarer.md).
+Hans Rutishauser was the husband of [Wybrata Rockenbass](wybrata-rockenbass.md) and father of [Barbara Rutershauer](barbara-rutershauer.md). The working tree carries no birth or death events for him. His parents were [Wendel Rutishauser](wendel-rutishauser.md) and [Adelheit Claarer](adelheit-claarer.md).
 
 ## Family
 
@@ -23,7 +23,7 @@ Hans Rutishauser was the husband of [Wybrata Rockenbass](wybrata-rockenbass.md) 
 
 ## Evidence
 
-- **Export:** **treeId** **I169** — unions **F85**, **F86** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KHV5-V2K**.
+- **Tree id:** **I169** — unions **F85**, **F86**; FamilySearch **KHV5-V2K**.
 
 ## Open questions
 

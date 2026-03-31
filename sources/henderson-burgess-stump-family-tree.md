@@ -18,7 +18,7 @@ Multi-sheet Excel workbook from the Henderson collection with four genealogical 
 
 ## Key data confirmed against vault
 
-- Henriette Louise Fernande Bottin: b. 1888 Tehran (aligns with GEDCOM, not passport 1886)
+- Henriette Louise Fernande Bottin: b. 1888 Tehran (aligns with legacy export, not passport 1886)
 - Alice Bottin: b. 1889 (widowed 1922, m. 1926 Carlo Marrobbio)
 - Edward Bottin: b. 1891
 - René Bottin: b. 1892

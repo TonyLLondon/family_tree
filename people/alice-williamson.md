@@ -13,7 +13,7 @@ children:
 
 # Alice Williamson
 
-**Alice Williamson** was born about **1514** at **Millbeck**, **Cumberland**. She married [Robert Braithwait](robert-braithwait.md) and was mother of [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md). The export flags death **Y** without date.
+**Alice Williamson** was born about **1514** at **Millbeck**, **Cumberland**. She married [Robert Braithwait](robert-braithwait.md) and was mother of [Thomas Braithwait, of Worcop](thomas-braithwait-of-worcop.md). The working tree flags death **Y** without date.
 
 ## Family
 
@@ -22,7 +22,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I200** — union **F101** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L6C1-BM6**.
+- **Tree id:** **I200** — union **F101**; FamilySearch **L6C1-BM6**.
 
 ## Open questions
 

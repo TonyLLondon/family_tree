@@ -18,7 +18,7 @@ children:
 
 # Hans Jacob Stump (b. 1674)
 
-This is the **earlier** **Hans Jacob** on the strict **Sulgen** line: father of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md). The export reuses the same full name for his descendant [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) on **Marc**’s branch—two different men, two different centuries.
+This is the **earlier** **Hans Jacob** on the strict **Sulgen** line: father of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md). The working tree reuses the same full name for his descendant [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md) on **Marc**’s branch—two different men, two different centuries.
 
 ## Life
 
@@ -34,7 +34,7 @@ This is the **earlier** **Hans Jacob** on the strict **Sulgen** line: father of 
 
 ## Evidence
 
-- **Export:** **treeId** **I151** — unions **F76**, **F77** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **2Z3K-94V**.
+- **Tree id:** **I151** — unions **F76**, **F77**; FamilySearch **2Z3K-94V**.
 
 ## Open questions
 

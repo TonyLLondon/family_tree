@@ -34,7 +34,7 @@ Full baptismal name **Regina Margaritta**. She married [D. Daniele Addobbati](d-
 
 ## Evidence
 
-- **treeId** **I125**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F16** only (no vitals).
+- **treeId** **I125** — **F16** only (no vitals).
 - **Baptism register, Duomo di Zara, 2 Jan 1716 (1715 m.v.):** emergency home baptism of "Regina Margaritta" daughter of Francesco Lanfranchi and Margaritta Doriceo — [media/collections/zerauschek/Zerauschek (1)/Birth Margherita Lanfranchi Zara 1715.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Margherita%20Lanfranchi%20Zara%201715.jpg).
 - **Marriage register, 4 June 1707:** Marriage of Francesco Lanfranchi (Diocese of Bergamo) × **Francesca** Doriceo (d/o late Giovanni Doriceo). Curate Giovanni Battista Cardini officiated with licence of Archbishop Vittorio Priuli. Three banns published, no impediment. Witnesses: Cocchiano, Bratto, the Ponti brothers — [media/collections/zerauschek/Zerauschek (1)/Marriage Lanfranchi Doriceo Zara 1707.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Lanfranchi%20Doriceo%20Zara%201707.jpg).
 - **Death register, 1749:** Death of Margherita Lanfranchi Addobbati — [media/collections/zerauschek/Zerauschek (1)/Death Margherita Lanfranchi Addobbati Zara 1749.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Death%20Margherita%20Lanfranchi%20Addobbati%20Zara%201749.jpg).

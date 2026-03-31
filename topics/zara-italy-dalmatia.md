@@ -108,4 +108,4 @@ The Italian Dalmatian exodus is covered in [Esuli Dalmati — Zara and exile](es
 
 ## Related
 
-- [Lewis (Wales) · Stump (Europe)](lewis-wales-stump-europe.md) — Fulvia's descent into the Welsh line
+- [David John Lewis](../people/david-john-lewis.md) — Fulvia's husband; the Welsh line

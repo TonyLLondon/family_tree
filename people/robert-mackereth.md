@@ -17,7 +17,7 @@ children:
 
 # Robert Mackereth
 
-**Robert Mackereth** was born **April 1559** at **Kendal** and died **9 December 1611** there. He married [Margaret Shaw](margaret-shaw.md) **26 January 1585** at **Kendal** and was father of [Elizabeth Mackereth](elizabeth-mackereth.md). The export names [Robert Mackereth (senior)](robert-mackereth-2.md) as his father without a mother on that parental union in the same file.
+**Robert Mackereth** was born **April 1559** at **Kendal** and died **9 December 1611** there. He married [Margaret Shaw](margaret-shaw.md) **26 January 1585** at **Kendal** and was father of [Elizabeth Mackereth](elizabeth-mackereth.md). The working tree names [Robert Mackereth (senior)](robert-mackereth-2.md) as his father without a mother on that parental union in the working tree.
 
 ## Family
 
@@ -27,8 +27,8 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I96** — unions **F47**, **F48** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **9KC7-V3X**; Westmorland marriage source **@S41@** on **F47**.
+- **Tree id:** **I96** — unions **F47**, **F48**; FamilySearch **9KC7-V3X**; Westmorland marriage source **@S41@** on **F47**.
 
 ## Open questions
 
-- Mother for the senior **Robert** in **F48** — absent from the export used here.
+- Mother for the senior **Robert** in **F48** — absent from the working tree used here.

@@ -6,8 +6,8 @@ country: England and Wales
 
 # 1841 census — Lewis Lewis household, Giant's Grave, Briton Ferry
 
-**Reference:** HO 107/1421  
-**Parish:** Briton Ferry, Glamorganshire  
+**Reference:** HO 107/1421
+**Parish:** Briton Ferry, Glamorganshire
 **Place:** Giant's Grave
 
 Lewis Lewis (25), labourer, born Glamorgan; wife Mary (30); children Ann (6), Henry (4), Elizabeth (infant, b. 1841). All born Glamorgan.

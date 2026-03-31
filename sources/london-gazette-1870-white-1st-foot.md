@@ -3,13 +3,13 @@ title: London Gazette — White appointed to 1st Foot (15 March 1870)
 kind: pdf
 corpus: london-gazette-1870-03-15-white-1st-foot
 people:
-  - william-obyrne-white
+ - william-obyrne-white
 ---
 
 # London Gazette — White appointed to 1st Foot
 
-**Issue:** 23598, 15 March 1870, page 1738  
-**URL:** https://www.thegazette.co.uk/London/issue/23598/page/1738/data.pdf  
+**Issue:** 23598, 15 March 1870, page 1738
+**URL:** https://www.thegazette.co.uk/London/issue/23598/page/1738/data.pdf
 **Corpus:** [sources/corpus/london-gazette-1870-03-15-white-1st-foot/](corpus/london-gazette-1870-03-15-white-1st-foot/)
 
 ## The notice

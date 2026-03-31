@@ -16,7 +16,7 @@ children:
 
 # Ivor Anthony Samuel Lewis
 
-**Ivor** sits at the chemical knot where Wales, Italy, and a childhood on the **Copperbelt** meet. Born in **Florence** in **December 1951**, he was the son of a wartime major who had crossed the **Po** under fire and a mother who had watched **Zara** turn to smoke—[David John Lewis](david-john-lewis.md) and [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md). The export tags him **Dr**; the record trail tags him **I. A. S. Lewis** on mass spectra, co-authored books, and chromatography papers across three continents.
+**Ivor** sits at the chemical knot where Wales, Italy, and a childhood on the **Copperbelt** meet. Born in **Florence** in **December 1951**, he was the son of a wartime major who had crossed the **Po** under fire and a mother who had watched **Zara** turn to smoke—[David John Lewis](david-john-lewis.md) and [Fulvia Ottilia Antonia Zerauschek](fulvia-ottilia-antonia-zerauschek.md). The import tags him **Dr**; the record trail tags him **I. A. S. Lewis** on mass spectra, co-authored books, and chromatography papers across three continents.
 
 He made his professional life in **analytical chemistry** and **mass spectrometry**—the art of weighing molecules in flight. Colleagues at **King’s College London** knew him through the late **1980s** and beyond; the **1990 Springer** volume on **LC/MS**, co-written with **Yergey**, **Edmonds**, and **Vestal**, is still a shelf standard. In **Canberra**, at the **Australian National University**, he worked with **J. K. MacLeod** on toxic plants and natural products—**Wedelia**, **Verbesina**, alkaloids with unglamorous names and serious poison. Italian industry appears in the bibliography too: a **1983** paper on **Iopamidol** by-products with **Bracco** in Milan reads like a quiet bow to his mother’s language. By the **1990s** he was publishing with **Glaxo Wellcome** in drug metabolism. He died at **Bolsena**, north of Rome—a small volcanic lake town, far from Ndola’s red dust but still on Italian soil.
 
@@ -58,7 +58,7 @@ His published work moves from **FAB** and **electrospray** through **thermospray
 - Springer author page for *LC/MS* book: [link.springer.com/book/10.1007/978-1-4899-3605-9](https://link.springer.com/book/10.1007/978-1-4899-3605-9) — affiliation **King's College, London, UK**.
 - Google Scholar results for author "Ivor A. S. Lewis": ~27 publications (1980–1999).
 - Open Library author record: [openlibrary.org/authors/OL3419627A](https://openlibrary.org/authors/OL3419627A).
-- **Export:** **treeId** **I2** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Unions **F1**, **F4** in same graph.
+- **Tree id:** **I2**. Unions **F1**, **F4** in the working tree graph.
 
 ## The lace collection
 

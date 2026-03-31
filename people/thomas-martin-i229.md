@@ -14,11 +14,11 @@ children:
 
 # Thomas Martin
 
-**Thomas Martin** was born **1858** in **Islington**. He married [Elizabeth Moran](elizabeth-moran-i230.md) **25 May 1890** and was father of [Rosina A Martin](rosina-a-martin-i104.md). His father in the graph is [William Martin](william-martin-i231.md); the export names no mother on that birth union.
+**Thomas Martin** was born **1858** in **Islington**. He married [Elizabeth Moran](elizabeth-moran-i230.md) **25 May 1890** and was father of [Rosina A Martin](rosina-a-martin-i104.md). His father in the graph is [William Martin](william-martin-i231.md); the working tree names no mother on that birth union.
 
 ## Evidence
 
-- **Export:** **treeId** **I229** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I229**.
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 
 ## Open questions

@@ -17,8 +17,8 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I127** — union **F62** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I127** — union **F62**.
 
 ## Open questions
 
-- Mother when **F62** gains a wife line in a fuller export.
+- Mother when **F62** gains a wife line in a fuller tree record.

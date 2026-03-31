@@ -13,7 +13,7 @@ published: false
 
 # Brynmor Keith Lewis
 
-**Keith** grew up as the younger brother of [David John Lewis](david-john-lewis.md) in the household of [Samuel](samuel-lewis.md) and [Elizabeth Lilian Lewis](elizabeth-lilian-cushen.md) at **Aberdare**. The family presented him as Samuel and Elizabeth's son throughout his life, and the GEDCOM records him as such (I73). David's 1943 letter from Sicily addresses "Dear Parents and Keith," calling the nine-year-old "the improvement on the other red you had about the house."
+**Keith** grew up as the younger brother of [David John Lewis](david-john-lewis.md) in the household of [Samuel](samuel-lewis.md) and [Elizabeth Lilian Lewis](elizabeth-lilian-cushen.md) at **Aberdare**. The family presented him as Samuel and Elizabeth's son throughout his life, and the working tree records him as such (I73). David's 1943 letter from Sicily addresses "Dear Parents and Keith," calling the nine-year-old "the improvement on the other red you had about the house."
 
 The GRO birth index tells a different story. **Brynmor Lewis** was registered in **Q1 1934** at **Merthyr Tydfil** with the mother's maiden name **Macefield** — not Cushen. The mother was **Sarah Ann Griffin** (b. 5 November 1906, Old Tredegar, Monmouthshire), stepdaughter of Henry Macefield, who used her stepfather's surname. Sarah had married **Arthur Haydn Lewis** (b. 16 May 1905, Merthyr Tydfil; mother's maiden name Rees), a colliery hewer at Aberdare, in Q2 1928. Arthur is unrelated to Samuel's family — the matching surname is coincidental.
 
@@ -43,7 +43,7 @@ The **1939 Register** places Keith in **Arthur and Sarah's household** at Aberda
 - **GRO birth index, Q2 1905** — Arthur Haydn Lewis, Merthyr Tydfil, Vol 11A p. 887, mother's maiden name **Rees**. No family connection to Samuel Lewis (mother Catherine Griffiths).
 - **Wartime letter (16 Aug 1943)** — David to "Dear Parents and Keith" from Sicily: Keith (age 9) described as "a great improvement on the other red you had about the house" ([letter](../media/docs/david-john-lewis-war/letters/Army-Dj160843-01.jpg)).
 - Line narrative: [Lewis in Aberdare and Merthyr — coalfield labour and child mortality](../stories/lewis-aberdare-merthyr-coalfield.md).
-- **Export:** **treeId** **I73** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I73**.
 
 ## Open questions
 

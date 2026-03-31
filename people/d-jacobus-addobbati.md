@@ -13,7 +13,7 @@ children:
 
 **D. Jacobus Addobbati** combines two honorable early-modern labels in one short line from Sabalich: *notajo* and *creato cittadino*, notary and enfranchised citizen, dated 1610 in the Bergamo testimonial of 1745. The juxtaposition hints at the social physics of north Italian towns—ink, property, belonging—long before any Addobbati swore an oath in Zara.
 
-He appears here as father of Ivanes Baptista; the export used for the vault does not name a spouse.
+He appears here as father of Ivanes Baptista; the working tree used for the vault does not name a spouse.
 
 ## Family
 
@@ -23,4 +23,4 @@ He appears here as father of Ivanes Baptista; the export used for the vault does
 ## Evidence
 
 - **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Iacobus notajo, creato cittadino (1610)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
-- **Export:** **treeId** **I35**, families F20 / F21; FamilySearch GW1S-G8N — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I35**, families F20 / F21; FamilySearch GW1S-G8N.

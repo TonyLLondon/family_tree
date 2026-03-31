@@ -30,7 +30,7 @@ His parents were **George Coolbear** (earlier spelled "Coalbear"), a **journeyma
 
 ## Family
 
-- Wife: [Alma Newcomb](alma-newcomb-i106.md) (b. ~1854, **Tolleshunt Knights, Essex**). GEDCOM gives marriage as 1879, but some children predate this — see note below.
+- Wife: [Alma Newcomb](alma-newcomb-i106.md) (b. ~1854, **Tolleshunt Knights, Essex**). The working tree lists the marriage as 1879, but some children predate this — see note below.
 - Parents: **George Coolbear** (b. ~1823, Hazeleigh; carpenter) and **Ann Gridley** (b. ~1825, Tillingham, Essex). They met as teenagers in the **Hamlet of Bicknacre, Danbury** — the 1841 census has George (15, apprentice carpenter) and Ann (15, farm servant) on consecutive pages of the same enumeration book.
 - Siblings: **Samuel Olonzo Coolbear** (~1847, Purleigh), **Elizabeth Ann Coolbear** (~1851, Purleigh).
 - Known children:
@@ -46,7 +46,7 @@ His parents were **George Coolbear** (earlier spelled "Coalbear"), a **journeyma
   - Ernest W Coolbear (~1890, Maldon)
   - [Archibald Percy Coolbear](archibald-percy-coolbear.md) (Mar 1892, Maldon) — born the year George died
 
-**Note on marriage and children:** The GEDCOM records the marriage as 1879. In the **1871 Census** George is **unmarried and childless**, ruling out a prior marriage. Yet Ellen Alice (b. ~1868) and Charles (b. ~1871) appear as his children in 1881. Either: (a) Alma's age in 1881 is understated and she is older than 27, making her old enough to have had children from a prior relationship; (b) the children's ages are overstated in 1881; or (c) there is an unknown first wife/partner not reflected in the census.
+**Note on marriage and children:** The working tree records the marriage as 1879. In the **1871 Census** George is **unmarried and childless**, ruling out a prior marriage. Yet Ellen Alice (b. ~1868) and Charles (b. ~1871) appear as his children in 1881. Either: (a) Alma's age in 1881 is understated and she is older than 27, making her old enough to have had children from a prior relationship; (b) the children's ages are overstated in 1881; or (c) there is an unknown first wife/partner not reflected in the census.
 
 ## British Newspaper Archive
 
@@ -63,7 +63,7 @@ His parents were **George Coolbear** (earlier spelled "Coalbear"), a **journeyma
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 - **1841 Census** — Hamlet of Bicknacre, Danbury (HO 107/325, book 14, folio 29, p. 18, schedule 30): George Coolbear, 15, apprentice carpenter, living with William and Hannah Stebbing. Ann Gridley (his future wife) is on the next page as a farm servant with the Chapmans. [Source card](../sources/1841-census-coolbear-bicknacre.md) · [transcription](../sources/corpus/1841-census-coolbear-apprentice-bicknacre-danbury/transcription.md). Also: [Ann Gridley transcription](../sources/corpus/1841-census-gridley-servant-bicknacre-danbury/transcription.md).
 - **1851 Census** — Butt Lane, St Peter, Maldon (HO 107/1778, folio 473, p. 10, schedule 25): George Coolbear (head, 28, journeyman carpenter, born Hazeleigh), Ann (wife, 26, born Tillingham), George Gridley (son, 6, born Hazeleigh), Samuel Olonzo (son, 4, born Purleigh), Elizabeth Ann (daughter, infant, born Purleigh). [Source card](../sources/1851-census-coolbear-maldon.md) · [transcription](../sources/corpus/1851-census-coolbear-household-maldon/transcription.md).
-- **Export:** **treeId** **I105** — unions **F52** (with Alma), **F53** (his parents) — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I105** — unions **F52** (with Alma), **F53** (his parents).
 
 ## Open questions
 

@@ -44,7 +44,7 @@ children:
 | [FVJR-RYX](https://www.familysearch.org/ark:/61903/1:1:FVJR-RYX) | Marriage — 26 Apr 1792, Sulgen | [corpus](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md) |
 | [6FZL-NLQ8](https://www.familysearch.org/ark:/61903/1:1:6FZL-NLQ8) | Burial — 18 Dec 1807, Sulgen | [corpus](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md) |
 
-**Export:** **treeId** **I144** — unions **F72**, **F73** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K88Z-FQ2**.
+**Tree id:** **I144** — unions **F72**, **F73**; FamilySearch **K88Z-FQ2**.
 
 ## Open questions
 

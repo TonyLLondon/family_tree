@@ -14,11 +14,11 @@ children:
 
 # Hanns Erbe
 
-Hanns Erbe was the husband of [Catharina Elisabeth Nabgten](catharina-elisabeth-nabgten.md) and father of [Georg Christian Erbe](georg-christian-erbe.md). He was born about 1680 at Schweinau, the suburb and parish cluster now part of Nürnberg, Middle Franconia. FamilySearch **GW13-BPP** appears in the export.
+Hanns Erbe was the husband of [Catharina Elisabeth Nabgten](catharina-elisabeth-nabgten.md) and father of [Georg Christian Erbe](georg-christian-erbe.md). He was born about 1680 at Schweinau, the suburb and parish cluster now part of Nürnberg, Middle Franconia. FamilySearch **GW13-BPP** appears in the working tree.
 
 ## Life
 
-- **~1680** — Born **Schweinau** (export).
+- **~1680** — Born **Schweinau** (working tree only).
 - **Death** — flagged without date or place in the slice used here.
 
 ## Family
@@ -29,7 +29,7 @@ Hanns Erbe was the husband of [Catharina Elisabeth Nabgten](catharina-elisabeth-
 
 ## Evidence
 
-- **Export:** **treeId** **I320** — unions **F152**, **F153** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I320** — unions **F152**, **F153**.
 - **Web (Mar 2026):** no tertiary biography hit for **Hanns Erbe** + **Schweinau ~1680**; [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md) § *Thuringian / Franconian Erbe line*.
 
 ## Open questions

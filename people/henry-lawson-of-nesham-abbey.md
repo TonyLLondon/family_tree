@@ -15,7 +15,7 @@ children:
 
 # Henry Lawson, of Nesham Abbey
 
-Henry Lawson, of Nesham Abbey, was the husband of [Frances Conyers](frances-conyers.md) and father of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) among other children named in the same export household. The export slice used here does not fill in his own parents; Geni text cites further Lawson ascents not yet mirrored to `people/`.
+Henry Lawson, of Nesham Abbey, was the husband of [Frances Conyers](frances-conyers.md) and father of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md) among other children named in the same working-tree household. The working-tree excerpt used here does not fill in his own parents; Geni text cites further Lawson ascents not yet mirrored to `people/`.
 
 ## Family
 
@@ -24,8 +24,8 @@ Henry Lawson, of Nesham Abbey, was the husband of [Frances Conyers](frances-cony
 
 ## Evidence
 
-- **Export:** **treeId** **I529** — union **F200** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
+- **Tree id:** **I529** — union **F200**; **Geni** **SOUR** in the working tree import.
 
 ## Open questions
 
-- Parents for Henry—recover on a full pass through his individual block in the GEDCOM.
+- Parents for Henry—recover on a full pass through his individual block in the working tree.

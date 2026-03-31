@@ -65,11 +65,11 @@ In **Q3 1856** she married [George Knecht](george-knecht.md), a German cabinet m
 - **Baptism — Bishop's Stortford, St Michael, 1735** — Abraham Glascock, the strongest candidate for John's father. (FMP: GBPRS/B/71381316/1, Hertfordshire Baptisms, image page 246.) Two earlier Abrahams baptised at the same church died as infants: Abraham (bapt. 1724, buried 1725) and Abraham (bapt. 1733, buried 1733). The 1735 Abraham has no corresponding burial at Bishop's Stortford — he survived, and at age 33 married Mary Thompson in London.
 - **Marriage — St Botolph Aldgate, 17 Jan 1768** — Abraham Glasscock married **Mary Thompson** by banns. (FMP: R_849941289.) Also indexed at Enfield (Boyd's: "Abr Glascock / Mary Tomson"). The family settled at Colchester Street, Whitechapel.
 - **Children of Abraham and Mary at Whitechapel / Bethnal Green:**
-  - **Ann Thompson Glascock** (b. ~1768, Whitechapel) — named for Mary's maiden name; their first child. (FMP: GBPRS/B/902365482/1.)
-  - **John Glasscock** (bapt. 14 Feb 1773, St Mary Whitechapel) — our ancestor.
-  - **Abraham Jr.** (bapt. 8 Jun 1777, Bethnal Green). (FMP: R_952897420.)
-  - **Hannah Glascock** (b. ~1779, Whitechapel). (FMP: GBPRS/B/902393652/1.)
-  - **Mary Perry Glascock** (b. ~1779, Whitechapel). (FMP: GBPRS/B/902393653/1.)
+ - **Ann Thompson Glascock** (b. ~1768, Whitechapel) — named for Mary's maiden name; their first child. (FMP: GBPRS/B/902365482/1.)
+ - **John Glasscock** (bapt. 14 Feb 1773, St Mary Whitechapel) — our ancestor.
+ - **Abraham Jr.** (bapt. 8 Jun 1777, Bethnal Green). (FMP: R_952897420.)
+ - **Hannah Glascock** (b. ~1779, Whitechapel). (FMP: GBPRS/B/902393652/1.)
+ - **Mary Perry Glascock** (b. ~1779, Whitechapel). (FMP: GBPRS/B/902393653/1.)
 
 **Abraham's father — the Bishop's Stortford Glasscocks:**
 

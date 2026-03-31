@@ -354,9 +354,11 @@ def merge_person_vitals(
         out.pop("deathDateGedcom", None)
 
     if ignore_gedcom_death:
-        out.pop("deathDate", None)
+        if not vault.get("deathDate"):
+            out.pop("deathDate", None)
         out.pop("deathDateGedcom", None)
-        out.pop("deathPlace", None)
+        if not vault.get("deathPlace"):
+            out.pop("deathPlace", None)
 
     if not gedcom_fill:
         return out

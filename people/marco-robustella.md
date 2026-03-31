@@ -11,7 +11,7 @@ children:
 
 # Marco Robustella
 
-**Marco Robustella** married [Francesca Arcolin](francesca-arcolin.md) and was father of [Maria Teresa Robustella](maria-teresa-robustella.md). The export slice used for this vault has no birth or death lines for him, and the marriage union has no dated **MARR** block in that slice.
+**Marco Robustella** married [Francesca Arcolin](francesca-arcolin.md) and was father of [Maria Teresa Robustella](maria-teresa-robustella.md). The working-tree excerpt used for this vault has no birth or death lines for him, and the marriage union has no dated **MARR** block in that slice.
 
 ## Family
 
@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I128** — union **F63** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I128** — union **F63**.
 
 ## Open questions
 

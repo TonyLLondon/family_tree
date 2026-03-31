@@ -31,7 +31,7 @@ He died **2024** (year in tree; citation when filed).
 - [1921 Census, 4 Bratton Street, Islington](../sources/1921-census-evans-islington.md) — TNA RG 15/00915, schedule 243: Joseph David Evans, son, age 6 years 9 months, born Holborn, London. Both parents alive. [Transcription](../sources/corpus/1921-census-evans-bratton-street-islington/transcription.md).
 - Portrait: [elderly-man-holding-baby-pink-fleece-armchair.jpg](../media/images/portraits/elderly-man-holding-baby-pink-fleece-armchair.jpg) → tree id in [web/photo-map.json](../web/photo-map.json).
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
-- **Export:** **treeId** **I99** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Unions **F50** (parents) / **F49** (May).
+- **Tree id:** **I99**. Unions **F50** (parents) / **F49** (May).
 
 ## Open questions
 

@@ -31,7 +31,7 @@ Wife of [Arthur Roger Stump](arthur-roger-stump.md). Lydia died during the Russi
 
 - [Estonian Biographical Center — Stump family Tallinn research (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — birth, death, obituary reference.
 - *Revaler Bote* no. 89-1920 — obituary (not yet in corpus).
-- **treeId** **I561**, family **F206**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I561**, family **F206**: .
 ## Open questions
 
 - **Siebert family background** — parents, siblings (mentioned as mourners in her obituary) not yet identified.

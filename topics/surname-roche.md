@@ -76,7 +76,6 @@ The allied surnames tell the same story of Hiberno-Norman gentry networks: **Sta
 
 - [The Bankers of George's Street](../stories/roche-limerick-bankers.md) — scrollytelling story: armed ships, the 1820 crisis, and pineapples in Limerick
 - [The Bank of Thomas and William Roche, Limerick (1801–1825)](bank-of-thomas-and-william-roche.md)
-- [Lewis (Wales) · Stump (Europe) — line hub](lewis-wales-stump-europe.md)
 - [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md)
 - [O'Brien / Roche notes](../sources/obrien-roche-notes.md)
 - [Lewis / White / Roche / Ireland corpus cluster](../sources/lewis-white-roche-ireland-corpus-cluster.md)

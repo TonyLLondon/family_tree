@@ -18,7 +18,7 @@ James Stackpole was the husband of [Christian MacMahon](christian-macmahon.md) a
 
 ## Life
 
-- **1622** — Born (year only in export).
+- **1622** — Born (year only in the working tree).
 - **Death** — flagged without detail in slice.
 
 ## Family
@@ -29,7 +29,7 @@ James Stackpole was the husband of [Christian MacMahon](christian-macmahon.md) a
 
 ## Evidence
 
-- **Export:** **treeId** **I372** — unions **F175**, **F176** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I372** — unions **F175**, **F176**.
 
 ## Open questions
 

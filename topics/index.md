@@ -22,7 +22,6 @@ Places, institutions, themes, and regional family hubs — linked from person fi
 | [aberdare-welsh-valleys.md](aberdare-welsh-valleys.md) | David's Welsh roots: 32 Pendarren Street, Aberdare Grammar School (1931–37), Bristol University, the wartime letter signed "Dafydd John," Samuel and Lily Lewis |
 | [persia.md](persia.md) | Saginian → Burgess → Bottin → Stump: Anglo-Armenian–Persian court family c. 1800–1950; master outline, Mermaid sketch, evidence map, source register |
 | [zara-italy-dalmatia.md](zara-italy-dalmatia.md) | Venetian → Habsburg → Italian Zara: Addobbati *cittadini*, Zerauschek patriline, interwar hotels, bridge to Fulvia × David Lewis; anchor people, source register |
-| [lewis-wales-stump-europe.md](lewis-wales-stump-europe.md) | Welsh Lewis (coalfield, WWII Italy), Stump/Erbe (Baltic–Swiss–Tehran), Spencer–Evans, and link to Evans · Cerpa Pérez |
 | [evans-cerpa-perez-london-chile.md](evans-cerpa-perez-london-chile.md) | London Evans (Holborn/Islington) and Chilean Maule Cerpa–Pérez; tree-ID anchors, civil registration, research links |
 | [nin-noble-council.md](nin-noble-council.md) | Noble council of the Dalmatian commune of Nin; 1817 Habsburg petition; Addobbati inscription |
 | [odd-fellows-manchester-unity.md](odd-fellows-manchester-unity.md) | Independent Order of Odd Fellows (Manchester Unity): friendly society origins, ranks and regalia, Aberdare lodges, Rev Dr Thomas Price (Grand Master 1865), Samuel Lewis as Provincial Grand Master of the Lily of the Valley Lodge |

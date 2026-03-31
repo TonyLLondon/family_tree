@@ -15,7 +15,7 @@ children:
 
 # Frances Conyers
 
-Frances Conyers was the wife of [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md) and mother of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md). She was born in 1532 at Layton, Durham, and is given as dying in 1580 at Bath, Somerset—a Geni-style migration that needs confirmation in registers. The short export slice does not carry a family-of-origin block; a Geni scrape names Cuthbert Conyers and Mary Laton as her parents (no vault pages yet).
+Frances Conyers was the wife of [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md) and mother of [James Lawson, of Nesham Abbey](james-lawson-of-nesham-abbey.md). She was born in 1532 at Layton, Durham, and is given as dying in 1580 at Bath, Somerset—a Geni-style migration that needs confirmation in registers. The short working-tree excerpt does not carry a family-of-origin block; a Geni scrape names Cuthbert Conyers and Mary Laton as her parents (no vault pages yet).
 
 ## Family
 
@@ -24,7 +24,7 @@ Frances Conyers was the wife of [Henry Lawson, of Nesham Abbey](henry-lawson-of-
 
 ## Evidence
 
-- **Export:** **treeId** **I530** — union **F200** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** in export.
+- **Tree id:** **I530** — union **F200**; **Geni** **SOUR** in the working tree import.
 
 ## Open questions
 

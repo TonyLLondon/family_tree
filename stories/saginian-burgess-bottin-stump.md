@@ -1,6 +1,6 @@
 # Persia narrative — Saginian → Burgess → Bottin → Stump
 
-**Canonical structured tree:** [family-tree.json](../family-tree.json). **Narrative hub:** [topics/persia.md](../topics/persia.md). **Legacy exports catalog:** [archive/index.md](../archive/index.md).
+**Canonical structured tree:** [Structured family tree](../family-tree.json). **Narrative hub:** [topics/persia.md](../topics/persia.md). **Legacy exports catalog:** [archive/index.md](../archive/index.md).
 
 ---
 
@@ -73,11 +73,11 @@ Four generations, each at a different pressure point of Iranian modernization:
 
 ## All key links
 
-- [NYPL Burgess papers](https://archives.nypl.org/mss/431)  
-- [Cormick + Anna / Tamar / Daoud](https://connectionsbmc.wordpress.com/2013/01/14/134/)  
-- [William Cormick (Wikipedia)](https://en.wikipedia.org/wiki/William_Cormick)  
-- [Freemasonry / Bottin (PDF)](https://www.levantineheritage.com/pdf/Freemasonry_and_fraternalism_in_the_Middle_East.pdf)  
-- [Iranica — dentistry](https://www.iranicaonline.org/articles/dentistry)  
+- [NYPL Burgess papers](https://archives.nypl.org/mss/431)
+- [Cormick + Anna / Tamar / Daoud](https://connectionsbmc.wordpress.com/2013/01/14/134/)
+- [William Cormick (Wikipedia)](https://en.wikipedia.org/wiki/William_Cormick)
+- [Freemasonry / Bottin (PDF)](https://www.levantineheritage.com/pdf/Freemasonry_and_fraternalism_in_the_Middle_East.pdf)
+- [Iranica — dentistry](https://www.iranicaonline.org/articles/dentistry)
 - Bottin contract: on disk via [bottin-government-contract.md](../sources/bottin-government-contract.md)
 - Stump Baltic generation: [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md)
 

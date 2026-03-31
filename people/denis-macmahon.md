@@ -9,7 +9,7 @@ children:
 
 # Denis MacMahon
 
-**Denis MacMahon** was father of [Christian MacMahon](christian-macmahon.md). No birth or death in the export slice used here.
+**Denis MacMahon** was father of [Christian MacMahon](christian-macmahon.md). No birth or death in the working-tree excerpt used here.
 
 ## Family
 
@@ -17,8 +17,8 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I376** — union **F177** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I376** — union **F177**.
 
 ## Open questions
 
-- Spouse—**F177** has no wife line in this export.
+- Spouse—**F177** has no wife line in this working-tree row.

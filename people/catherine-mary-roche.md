@@ -27,7 +27,7 @@ Her siblings married into the highest ranks of the Irish legal and medical profe
 - **8 Feb 1869** — Marriage **Bombay Presidency, India** to [William O'Byrne White](william-obyrne-white.md), officiated by Bishop Leo Meurin SJ, Vicar Apostolic of Bombay.
 - **1901** — Census: **Denny Street, Tralee Urban**, wife; age 59, birthplace Dublin. See [1901 census transcription](../sources/corpus/ireland-census-1901-34e603dc32/transcription.md).
 - **1911** — Same address; recorded as **Katie**, age 69, birthplace Dublin City; 42 years married, 8 children born alive, 6 still living. See [1911 census transcription](../sources/corpus/census-for-whites-in-1911-in-ireland-20007ea92c/transcription.md).
-- **1937** — Died **Tralee, Kerry** (export + FamilySearch Irish deaths index).
+- **1937** — Died **Tralee, Kerry** (import + FamilySearch Irish deaths index).
 
 ## Family
 
@@ -70,7 +70,7 @@ The 1883 marriage notice for Maria Josephine independently confirms the Burke's 
 - [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/).
 - [O'Brien / Roche notes](../sources/obrien-roche-notes.md).
 - [William Roche — full evidence list](william-roche.md) (obituary, Crown Solicitor appointment, sibling marriages).
-- **Export:** **treeId** **I136** — union **F67** with William — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I136** — union **F67** with William.
 
 ## Open questions
 

@@ -11,7 +11,7 @@ children:
 
 # Jennett (surname unknown)
 
-**Jennett**—forename only in the export—married [John Grave](john-grave.md) and was mother of [William Grave](william-grave.md). No birth or death in that slice.
+**Jennett**—forename only in the working tree—married [John Grave](john-grave.md) and was mother of [William Grave](william-grave.md). No birth or death in that slice.
 
 ## Family
 
@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I134** — union **F46** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I134** — union **F46**.
 
 ## Open questions
 

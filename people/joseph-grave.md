@@ -25,7 +25,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I90** — unions **F43** (with Sarah Becke), **F44** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I90** — unions **F43** (with Sarah Becke), **F44** (parents).
 
 ## Open questions
 

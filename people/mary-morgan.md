@@ -53,9 +53,8 @@ David died in **Q3 1907**. By the [1911 census](../media/docs/1911-census-mary-c
 - **1881 census — 31 Pond Street** — Mary Cushin (27, wife), with David (25, mason) and 4 children. RG 11/5314 ([image](../media/docs/1881-census-david-cushin-household-pond-street-caeharris-rg11-5314.png)).
 - **1911 census — 25 Pond Street** — Mary Cushen (58, widow, head), signed schedule. RG 14/32453 ([image](../media/docs/1911-census-mary-cushen-widow-pond-street-dowlais-rg14-32453.jpg)).
 
-**Export:**
-
-- **treeId** **I176** — union **F88** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). GEDCOM gives parents as "Morgan" and "Amelia" — **primary sources disprove this**. The 1871 census shows **Keziah Morgan** and **Jane**; the baptism record confirms Keziah at Aberystruth. "Amelia" does not match.
+**Tree id:**
+- **treeId** **I176** — union **F88**. The working tree once gave parents as "Morgan" and "Amelia" — **primary sources disprove this**. The 1871 census shows **Keziah Morgan** and **Jane**; the baptism record confirms Keziah at Aberystruth. "Amelia" does not match.
 
 ## Open questions
 

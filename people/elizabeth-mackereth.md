@@ -17,7 +17,7 @@ children:
 
 # Elizabeth Mackereth
 
-Elizabeth Mackereth was the wife of [William Grave](william-grave.md) and mother of [Thomas Grave](thomas-grave.md). She was born in November 1584 at Kendal, Westmorland, and died there in July 1670. The export places her as daughter of Robert Mackereth and Margaret Shaw, who married at Kendal on 26 January 1585; dedicated person pages for those parents are not yet in this vault.
+Elizabeth Mackereth was the wife of [William Grave](william-grave.md) and mother of [Thomas Grave](thomas-grave.md). She was born in November 1584 at Kendal, Westmorland, and died there in July 1670. The working tree places her as daughter of Robert Mackereth and Margaret Shaw, who married at Kendal on 26 January 1585; dedicated person pages for those parents are not yet in this vault.
 
 ## Family
 
@@ -26,7 +26,7 @@ Elizabeth Mackereth was the wife of [William Grave](william-grave.md) and mother
 
 ## Evidence
 
-- **Export:** **treeId** **I95** — unions **F45**, **F47** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I95** — unions **F45**, **F47**.
 
 ## Open questions
 

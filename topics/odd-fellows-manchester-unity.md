@@ -84,5 +84,4 @@ Lodge-level minute books and district officer lists from these collections would
 
 - [Samuel Lewis](../people/samuel-lewis.md) · [Elizabeth Lilian Cushen](../people/elizabeth-lilian-cushen.md)
 - [Aberdare and the Welsh Valleys](aberdare-welsh-valleys.md)
-- [Lewis · Stump · Europe hub](lewis-wales-stump-europe.md)
 - [Freemasonry — Orient de Tehran](freemasonry-orient-de-tehran.md) — another fraternal order in the family tree, a generation earlier and a continent away

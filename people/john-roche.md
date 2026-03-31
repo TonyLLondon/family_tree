@@ -47,7 +47,7 @@ John Roche of Castletown was likely a grandson or great-grandson of a younger so
 ## Family
 
 - Son: [Robert Roche](robert-roche.md) (1631–1690), of Castletown-Roche; m. [Juliana O'Moore](juliana-omoore.md).
-- Wife: not recorded in the GEDCOM or Burke's 1833.
+- Wife: not recorded in the working tree or Burke's 1833.
 
 ## Evidence
 
@@ -57,10 +57,10 @@ John Roche of Castletown was likely a grandson or great-grandson of a younger so
 - [Wikipedia — David Roche, 7th Viscount Fermoy](../sources/corpus/wikipedia-david-roche-7th-viscount-fermoy/extracted.web.md): full genealogy of the Viscount Fermoy line, descent from Adam de Rupe.
 - [Donnelly, *The Roches, Lords of Fermoy* (JCHAS, 1936)](../sources/corpus/donnelly-roches-lords-fermoy-1936/extracted.web.md): scholarly history of the Norman-Irish family.
 - [Lewis, *Topographical Dictionary* (1837) — Castletown-Roche](../sources/corpus/lewis-topographical-castletown-roche-1837/extracted.web.md): 1649 siege; Cromwellian confiscation.
-- **Export:** **treeId** **I371** — union **F174** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I371** — union **F174**.
 
 ## Open questions
 
 - The exact branch point from the Viscount Fermoy main line — which younger son's line did John descend from?
 - Whether John survived the 1640s wars or died during the Cromwellian conquest.
-- John's wife — not recorded in Burke's or the GEDCOM.
+- John's wife — not recorded in Burke's or the working tree.

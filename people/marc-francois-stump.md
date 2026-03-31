@@ -27,13 +27,13 @@ children:
 
 # Marc Francois Stump
 
-Marc is the Swiss anchor who carried the Stump surname from Thurgau onto the Baltic coast. In export spellings he is Markus Franz or Marc François; in Tallinn's Lutheran books he is the French master who rose to *Kollegienrat*, owned property between Tatari and Mere streets, and married into the Erbe family when Olga Caroline was still in her early twenties. His youngest son [Étienne Stump](etienne-stump.md) would leave that world for Tehran; Marc's own trace ends in 1903 beside Lac Neuchâtel, not on the Neva.
+Marc is the Swiss anchor who carried the Stump surname from Thurgau onto the Baltic coast. In the working tree he is **Markus Franz** or **Marc François**; in Tallinn's Lutheran books he is the French master who rose to *Kollegienrat*, owned property between Tatari and Mere streets, and married into the Erbe family when Olga Caroline was still in her early twenties. His youngest son [Étienne Stump](etienne-stump.md) would leave that world for Tehran; Marc's own trace ends in 1903 beside Lac Neuchâtel, not on the Neva.
 
 The [commissioned Estonian digest](../sources/estonian-biographical-center-stump-report-2005.md) is the spine of his adult life. In March 1865 the Imperial University at Tartu certified him in French language and literature—first step toward the gymnasium post he held from 1868. The same source sketches a busy merchant-household: Holy Communion as a family in 1881, tenants in his bakery wing, a pharmacist below stairs, and a neighbour's tinning dispute that left paper in the city archives. It is the texture of a *Hausvater* on the make in a Russian imperial port.
 
 His marriage to [Olga Caroline Erbe](olga-caroline-erbe.md) on 22 June 1868 produced five children who appear in the parish summary: [Jean Jacque Stump](jean-jacque-stump.md), who died young; [Arthur Roger Stump](arthur-roger-stump.md); [Marguerite Emilie Stump](marguerite-emilie-stump.md); [Antoinette Stump](antoinette-stump.md); and Étienne. Olga predeceased him in 1894. The Tallinn Dome Church marriage register identifies Marc as **Ober-Lehrer** (senior teacher), and Étienne's 1880 baptism entry names him "Lehrer des Französ. Sprache des evang. Gymnasium" — teacher of French at the evangelical gymnasium.
 
-Death is the knot. The Dome parish register used in the 2005 report records 3 April 1903 at Yverdon with a Switzerland gloss, without a formal leave note—read as death abroad or incomplete bookkeeping. Some older merged files still say mid-April 1903 in Tallinn; the narrative here follows the parish book until a Swiss civil image or burial entry contradicts it.
+Death is the knot. The Dome parish register used in the 2005 report records 3 April 1903 at Yverdon with a Switzerland gloss, without a formal leave note—read as death abroad or incomplete bookkeeping. Some older tree versions still say mid-April 1903 in Tallinn; the narrative here follows the parish book until a Swiss civil image or burial entry contradicts it.
 
 Swiss christening data points to 10 March 1834 at Erlen; the same Estonian file quotes a February Yverdon line that may duplicate or conflict—calendar and place need one reconciled image. The FamilySearch indexed baptism ([FVFK-CQH](https://www.familysearch.org/ark:/61903/1:1:FVFK-CQH)) from "Switzerland, Baptisms, 1491-1940" confirms: Markus Franz Stump, christened 25 April 1834 at Erlen, born 10 March 1834, father Jakob Stump, mother Jeanne Benigne Montagnon. The Swiss church-book images for Erlen (collection 4138674) are restricted to FamilySearch Centers.
 
@@ -47,7 +47,7 @@ Parents: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); [Jeanne Benigne
 
 **Paternal grandparents:** [Hans Ulrich Stump](hans-ulrich-stump.md) (b. 25 Oct 1767, Riedt bei Erlen; d. 18 Dec 1807, Sulgen) × [Anna Margaretha Hagg](anna-margaretha-hagg.md) (chr. 1 Jan 1769, Hüttwilen), m. 26 Apr 1792 at Sulgen. Ulrich's parents were [Hs. Konrad Stump](hs-konrad-stump.md) (b. 1730, d. 1774) and [Anna Margaretha Jung](anna-margaretha-jung.md) (b. 1735).
 
-**Maternal grandparents:** Louis Montagnon × Jeanne Françoise Dumartheray, of the Canton de Vaud, Switzerland (Aubonne area). The family register ([6NQG-YBTS](https://www.familysearch.org/ark:/61903/1:1:6NQG-YBTS)) identifies Louis's parents as **Jean Louis Montagnon** + **Susanne Cheneveau**, and Françoise's parents as **Jean Gabriel Nicolas Dumartheray** + **Elisabeth Borrel**. Jeanne Bénigne's baptism ([6JCV-BDKJ](https://www.familysearch.org/ark:/61903/1:1:6JCV-BDKJ)) corrects the GEDCOM: she was born **15 July 1805** in **Vaud**, not "1800" in "France."
+**Maternal grandparents:** Louis Montagnon × Jeanne Françoise Dumartheray, of the Canton de Vaud, Switzerland (Aubonne area). The family register ([6NQG-YBTS](https://www.familysearch.org/ark:/61903/1:1:6NQG-YBTS)) identifies Louis's parents as **Jean Louis Montagnon** + **Susanne Cheneveau**, and Françoise's parents as **Jean Gabriel Nicolas Dumartheray** + **Elisabeth Borrel**. Jeanne Bénigne's baptism ([6JCV-BDKJ](https://www.familysearch.org/ark:/61903/1:1:6JCV-BDKJ)) corrects the working tree: she was born **15 July 1805** in **Vaud**, not "1800" in "France."
 
 Wife: [Olga Caroline Erbe](olga-caroline-erbe.md) (b. c. 1845, d. 1894). The Tallinn marriage register names her father as Hermann Erbe.
 
@@ -84,10 +84,9 @@ Children: Jean Jacque, Arthur Roger, Marguerite Emilie, Antoinette, Étienne (se
 | Burial — Jean Jaque | 10 May 1874 | [corpus](../sources/corpus/1874-burial-jean-jaque-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1874-jean-jaque-stump-burial-tallinn.jpg) |
 | Baptism — Étienne | 6 Apr 1880 | [corpus](../sources/corpus/1880-baptism-etienne-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1880-etienne-stump-baptism-tallinn.jpg) |
 
-**Export:**
-
-- **treeId** **I140** — marriage **F70** (Olga); parents' union **F71** — [Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- Children in export: **I398** (Jean), **I399** (Arthur), **I400** (Marguerite), **I401** (Antoinette), **I16** (Étienne).
+**Tree id:**
+- **treeId** **I140** — marriage **F70** (Olga); parents' union **F71**.
+- Children (tree ids): **I398** (Jean), **I399** (Arthur), **I400** (Marguerite), **I401** (Antoinette), **I16** (Étienne).
 
 ## Open questions
 

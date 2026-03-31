@@ -1,6 +1,6 @@
 # Lewis in Aberdare and Merthyr — coalfield labour and child mortality
 
-Multi-generation Welsh thread from an Aberavon porter's household to Aberdare deep mining and white-collar work by 1939. Centred on [Samuel Lewis](../people/samuel-lewis.md) and his parents. **Structured tree:** [family-tree.json](../family-tree.json). **Primary export:** [Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+Multi-generation Welsh thread from an Aberavon porter's household to Aberdare deep mining and white-collar work by 1939. Centred on [Samuel Lewis](../people/samuel-lewis.md) and his parents. **Structured tree:** [Structured family tree](../family-tree.json).
 
 ---
 
@@ -10,7 +10,7 @@ The line begins not in the coalfield but on the coast. [Lewis Lewis](../people/l
 
 The [1871 census](../sources/1871-census-aberavon-lewis-lewis.md) catches the household at its fullest: Lewis at 58, Rachel at 41, and **nine children** — every one born at Aberavon. The eldest was [David](../people/david-john-lewis-1857.md), thirteen and still a scholar, [baptised at Aberavon on 11 August 1857](../sources/aberavon-baptism-david-lewis-1857.md) (Wales Births & Baptisms batch C02533-2). Below him came Margaret (12), Jane (10), John (9), Lewis junior (8), Rachel (7), William (5), Thomas (3), and Samuel (2) — a household of eleven in a port town far from the deep shafts.
 
-The GEDCOM export placed this family at **Gelligaer** and called Lewis Lewis a **carpenter** (census references RG09/4046, RG10/5388, RG11/5308). Those references belong to a **different Lewis Lewis**. The actual 1871 reference is **RG10/5424**, Aberavon. David himself would later report his birthplace as "Aberdare" on every census from 1891 onward — the two names, Aberavon and Aberdare, both beginning with "Aber-" and both in Glamorganshire, were evidently confused by the family or the enumerator. The baptism record and the 1871 census settle it: he was an Aberavon boy.
+An older version of the working tree placed this family at **Gelligaer** and called Lewis Lewis a **carpenter** (census references RG09/4046, RG10/5388, RG11/5308). Those references belong to a **different Lewis Lewis**. The actual 1871 reference is **RG10/5424**, Aberavon. David himself would later report his birthplace as "Aberdare" on every census from 1891 onward — the two names, Aberavon and Aberdare, both beginning with "Aber-" and both in Glamorganshire, were evidently confused by the family or the enumerator. The baptism record and the 1871 census settle it: he was an Aberavon boy.
 
 ---
 
@@ -118,5 +118,5 @@ His son [David John Lewis](../people/david-john-lewis.md) (1918–2000) broke th
 - [1901 census — Glen Road, Aberdare](../sources/1901-census-aberdare-david-john-lewis.md) ([transcription](../sources/corpus/1901-census-aberdare-david-john-lewis-household-rg13-5035/transcription.md) · [image](../media/docs/1901-census-glen-road-aberdare-david-john-lewis-household-rg13-5035.jpg)) — RG 13/5035, folio 70, p. 41, schedule 242
 - [1921 census — 41 Glan Road, Aberdare](../sources/1921-census-aberdare-david-john-lewis.md) ([transcription](../sources/corpus/1921-census-aberdare-david-john-lewis-household-rg15-26875/transcription.md) · [image](../media/docs/1921-census-41-glan-road-aberdare-david-john-lewis-household-rg15-26875.jpg)) — RG 15/26875, schedule 43
 - [1911 census image — 41 Glen Road, Aberdare](../media/docs/1911%20census%2041%20Glen%20Road%20Aberdare%20David%20J%20Lewis%20household%20schedule%2079.jpg) (schedule 77 in RG14/32495)
-- [GEDCOM export with embedded census text blocks](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — individuals @I17@, @I173@, @I174@, @I427@, @I428@; family F87. **Note:** GEDCOM census references for Lewis Lewis (RG09/4046, RG10/5388, RG11/5308) belong to a different person.
-- [family-tree.json](../family-tree.json) — union F87, persons I17, I173, I174
+- Some **obsolete pedigree exports** embedded census text for persons **I17**, **I173**, **I174**, **I427**, **I428** (union **F87**). **Note:** those exports attached census districts for a different **Lewis Lewis** (RG09/4046, RG10/5388, RG11/5308) — not this Aberavon line.
+- [Structured family tree](../family-tree.json) — union F87, persons I17, I173, I174

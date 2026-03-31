@@ -11,7 +11,7 @@ children:
 
 # Enright (given name unknown)
 
-**treeId** **I120** has **NAME** line **/ENRIGHT/** (surname only, **SEX M**) as **HUSB** in **F60** with [Catherine (mother of Catherine Enright)](catherine.md) and child [Catherine Enright](catherine-enright.md). **BIRT** and **DEAT** are present as flags without **DATE**/**PLAC** in the export.
+**treeId** **I120** has **NAME** line **/ENRIGHT/** (surname only, **SEX M**) as **HUSB** in **F60** with [Catherine (mother of Catherine Enright)](catherine.md) and child [Catherine Enright](catherine-enright.md). **BIRT** and **DEAT** are present as flags without **DATE**/**PLAC** in the working tree.
 
 ## Family
 
@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **treeId** **I120**, **F60**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I120**, **F60**: .
 ## Open questions
 
 - **Forename** — recover from Cork civil or church marriage to **Catherine** (pre-1871).

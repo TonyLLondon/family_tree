@@ -12,7 +12,7 @@ children:
 
 # Nicholas Stackpole
 
-Nicholas Stackpole was the husband of [Phillis Fox](phillis-fox.md) and father of [James Stackpole](james-stackpole.md). The export gives his death as 1622—the same year as his son’s birth—so the date is likely index conflation and should stay open until primary evidence is in hand.
+Nicholas Stackpole was the husband of [Phillis Fox](phillis-fox.md) and father of [James Stackpole](james-stackpole.md). The working tree gives his death as 1622—the same year as his son’s birth—so the date is likely index conflation and should stay open until primary evidence is in hand.
 
 ## Family
 
@@ -21,7 +21,7 @@ Nicholas Stackpole was the husband of [Phillis Fox](phillis-fox.md) and father o
 
 ## Evidence
 
-- **Export:** **treeId** **I374** — union **F176** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I374** — union **F176**.
 
 ## Open questions
 

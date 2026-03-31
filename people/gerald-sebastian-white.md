@@ -61,7 +61,7 @@ This represents a coherent second-generation pattern: where his father William u
 - [Civil & Military Gazette, 14 May 1907 — Madras Volunteer Guards](../sources/corpus/1907-civil-military-gazette-gerald-white-volunteer-guards/transcription.md) — gazetted Second-Lieutenant; full name "Gerald Sebastian White, gentleman."
 - [London Gazette — New Year Honours 1938, O.B.E.](../sources/london-gazette-1938-white-obe.md) · [scan](../media/docs/London%20Gazette%201%20Jan%201938%20Gerald%20Sebastian%20White%20OBE%20New%20Year%20Honours.pdf) — supplement to London Gazette, issue 34469, 31 December 1937 (published 1 January 1938): "Gerald Sebastian White, Esq., Registrar, High Court of Judicature at Fort St. George, Madras" — Officer of the Civil Division of the Most Excellent Order of the British Empire.
 - [White and Stump families, Geneva, c. 1953](../media/docs/White%20and%20Stump%20families%20Geneva%20c1953.jpg) — Gerald centre of the back row with May, Robert and Molly Stump, and grandchildren. Source: Charlie Ginnane photocopy via Barbara Cantwell.
-- **Export:** **treeId** **I12** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged)
+- **Tree id:** **I12**
 ## Open questions
 
 - Exact dates of Registrar tenure within the Beasley window (1929–1937); whether Gerald continued under successor Leach (1937–).

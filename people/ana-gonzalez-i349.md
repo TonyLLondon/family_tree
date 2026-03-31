@@ -28,7 +28,7 @@ Her children's birth registrations in 1912 are indexed under "Cerpa González," 
 - **Chanco civil registry marriage index** (DGS 004702560, film page 365): "Cerpa, Francisco con González, Ana Delia, 59" under Año 1909.
 - **Chanco civil registry birth index** (film page 520): Children "Cerpa González, Manuel Antonio" (entry 65) and "Cerpa González, Juana de Dios" (entry 82) under Año 1912 confirm the González maternal surname.
 - Research hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
-- **Export:** **treeId** **I349** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I349**.
 
 ## Open questions
 

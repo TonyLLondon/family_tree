@@ -21,14 +21,14 @@ children:
 
 # Hs. Konrad Stump (b. 1730)
 
-**Hs. Konrad Stump** is the **Sulgen** link between [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) and [Hans Ulrich Stump](hans-ulrich-stump.md). The export encodes three given-name spellings (**Hans Conrad**, **Hans Konrad**, **Hs. Konrad**); this file follows the `hs-konrad-stump` slug used in the ancestor spine.
+**Hs. Konrad Stump** is the **Sulgen** link between [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md) and [Hans Ulrich Stump](hans-ulrich-stump.md). The import encodes three given-name spellings (**Hans Conrad**, **Hans Konrad**, **Hs. Konrad**); this file follows the `hs-konrad-stump` slug used in the ancestor spine.
 
 ## Life
 
-- **1730** — Born (year in export).
+- **1730** — Born (year in the working tree only).
 - **10 Oct 1730** — Christened **Sulgen**, **Thurgau**, **Switzerland**.
 - **19 Jun 1766** — Marriage **Sulgen** to [Anna Margaretha Jung](anna-margaretha-jung.md).
-- **31 Dec 1774** — Died **Sulgen** (export abbreviates place).
+- **31 Dec 1774** — Died **Sulgen** (import abbreviates place).
 
 ## Family
 
@@ -38,7 +38,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I146** — unions **F73**, **F74** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KF58-2K8**.
+- **Tree id:** **I146** — unions **F73**, **F74**; FamilySearch **KF58-2K8**.
 
 ## Open questions
 

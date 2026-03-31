@@ -44,7 +44,6 @@ With twenty-three people in the tree, the Eylandt/Eiland cluster is one of the d
 
 ## Related
 
-- [Lewis (Wales) · Stump (Europe) — line hub](lewis-wales-stump-europe.md)
 - Story: [Stump — Thurgau & Tallinn](../stories/stump-thurgau-tallinn-baltic-line.md)
 - Surname: [Erbe](surname-erbe.md) — the family the Eylandts married into
 - Surname: [Stump](surname-stump.md) — the Swiss family connected through the Erbe marriage

@@ -1,0 +1,12 @@
+id: gap-chile-mujeres-estadio-nacional-2018
+remote:
+  webpage_url: https://www.gap-chile.org/noticias/newscbm_276098/144/
+fetches:
+- kind: web
+  at: '2026-03-30T14:36:40Z'
+  remote_url: https://www.gap-chile.org/noticias/newscbm_276098/144/
+  sha256: 50bf0eeae476f77d369e808f65442b3847fbead1ebb33cdd38436579514f37fd
+  bytes: 164115
+files:
+  html_mirror: mirror.html
+  web_markdown: extracted.web.md

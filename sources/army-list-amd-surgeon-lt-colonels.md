@@ -2,7 +2,7 @@
 title: Army List — Non-Effective Officers, Surgeon-Lieutenant-Colonels
 kind: scan
 people:
-  - william-obyrne-white
+ - william-obyrne-white
 ---
 
 # Army List — Non-Effective Officers: Surgeon-Lieutenant-Colonels

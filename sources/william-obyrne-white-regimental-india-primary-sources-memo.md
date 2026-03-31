@@ -2,7 +2,7 @@
 corpus: william-obyrne-white-regimental-india-primary-sources-memo
 kind: pdf
 people:
-  - william-obyrne-white
+ - william-obyrne-white
 ---
 
 # William O'Byrne White — regimental assignment & India postings (memo)

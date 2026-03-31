@@ -20,7 +20,7 @@ Under the entry for **Thomas Roche of Limerick** (son of Stephen Roche; m. Helle
 
 > "**3. William, a solicitor in Dublin, married Eliza, another daughter and co-heir of — Knight, esq.**"
 
-This matches GEDCOM `@I136@`'s parents **exactly**: Catherine Mary Roche's father is recorded as **William Roche** and mother as **Eliza Knight**. The Burke's entry confirms:
+This matches legacy export `@I136@`'s parents **exactly**: Catherine Mary Roche's father is recorded as **William Roche** and mother as **Eliza Knight**. The Burke's entry confirms:
 - William Roche was a **solicitor practising in Dublin**
 - Eliza's maiden name was **Knight** — she was co-heiress of a "— Knight, esq." (first name not given in Burke's) with her sister Catherine (who married Stephen Roche above)
 - The Roche family seated at **Granagh Castle, Kilkenny**; earlier seats in **Limerick and Clare**

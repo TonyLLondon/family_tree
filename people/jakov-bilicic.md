@@ -11,7 +11,7 @@ children:
 
 # Jakov Bilicic
 
-**Jakov Bilicic** was father of [Marianna Billicich](marianna-billicich.md). Death about **1828** in export.
+**Jakov Bilicic** was father of [Marianna Billicich](marianna-billicich.md). Death about **1828** in the working tree (unconfirmed).
 
 ## Family
 
@@ -19,7 +19,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I66** — union **F33** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I66** — union **F33**.
 
 ## Open questions
 

@@ -13,7 +13,7 @@ children:
 
 **D. Joannes Aloysious Addobbati** is the sixteenth-century notary who, in Sabalich’s digest of the 1745 Bergamo genealogical testimonial, receives his brevet in 1511. The Latinized *Aloysius* ties him to the same onomastic world as the “Alloisio” that will surface in Zara baptisms three centuries later—names travelling like heirlooms even when careers diverge.
 
-His documented child in this vault is [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md); a wife is not named in the export that built this slice of the tree.
+His documented child in this vault is [D. Joanes Baptista Addobbati](d-joanes-baptista-addobbati.md); a wife is not named in the working tree that built this slice of the tree.
 
 ## Family
 
@@ -23,4 +23,4 @@ His documented child in this vault is [D. Joanes Baptista Addobbati](d-joanes-ba
 ## Evidence
 
 - **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Joanes Aloysius creato notajo (1511)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
-- **Export:** **treeId** **I37**, families F22 / F23; FamilySearch GW1S-H7M — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I37**, families F22 / F23; FamilySearch GW1S-H7M.

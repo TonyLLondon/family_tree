@@ -32,9 +32,9 @@ Vittoria survived Simeone by six years (he died 1896; she died 1902) and witness
 
 - **10 Oct 1828** — Born **Zara, Dalmatia**.
 - **8 Aug 1849** — Marriage **Sv. Šime, Zara** to [Simeone Vincenzo Boara](simeone-vincenzo-boara.md).
-- **11 Dec 1902** — Died (export).
+- **11 Dec 1902** — Died (working tree only).
 
-**Memoir discrepancy:** Fulvia's 1996 memoir gives dates "(1820–1911)" for "Vittorie Carobbi" — the **1820** is likely Simeone Boara's birth year, and **1911** may be a misremembered death year (the export gives 1902). The documentary dates (1828–1902) from Geni/FamilySearch and the structured tree are preferred.
+**Memoir discrepancy:** Fulvia's 1996 memoir gives dates "(1820–1911)" for "Vittorie Carobbi" — the **1820** is likely Simeone Boara's birth year, and **1911** may be a misremembered death year (the working tree gives 1902). The documentary dates (1828–1902) from Geni/FamilySearch and the structured tree are preferred.
 
 ## Family
 
@@ -44,7 +44,7 @@ Vittoria survived Simeone by six years (he died 1896; she died 1902) and witness
 
 ## Evidence
 
-- **Export:** **treeId** **I27** — unions **F11**, **F31** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); MyHeritage **Geni** URL in **SOUR**; FamilySearch **L22T-RHS**.
+- **Tree id:** **I27** — unions **F11**, **F31**; MyHeritage **Geni** URL in **SOUR**; FamilySearch **L22T-RHS**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — eight children, Boara inheritance dispute, Casimiro and Carmela.
 - **Handwritten family tree (NTree01):** [media/docs/fulvia-family-tree-file/NTree01.jpg](../media/docs/fulvia-family-tree-file/NTree01.jpg) — Fulvia's hand; all eight children named and dated.
 - **Marriage register of daughter Ottilia, Entry N. 8, 12 Feb 1890:** "Carobbi Vittoria, da Zara, Cattolica, Civile, Vivente" — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).

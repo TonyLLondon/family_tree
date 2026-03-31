@@ -15,7 +15,7 @@ children:
 
 # Joseph Airey
 
-**Joseph Airey** was born **10 April 1701** and died **31 August 1777**. He married [Sarah Grave](sarah-grave.md) and fathered [Sarah Airey](sarah-airey.md). His parents in the graph are [Joseph Ayrey](joseph-ayrey.md) and [Ann Braithwaite](ann-braithwaite.md) (**Ayrey** / **Braithwaite** spellings follow the export).
+**Joseph Airey** was born **10 April 1701** and died **31 August 1777**. He married [Sarah Grave](sarah-grave.md) and fathered [Sarah Airey](sarah-airey.md). His parents in the graph are [Joseph Ayrey](joseph-ayrey.md) and [Ann Braithwaite](ann-braithwaite.md) (**Ayrey** / **Braithwaite** spellings follow the import spellings).
 
 ## Family
 
@@ -25,7 +25,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I88** — unions **F42** (with Sarah Grave), **F96** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LHDT-5PG**.
+- **Tree id:** **I88** — unions **F42** (with Sarah Grave), **F96** (parents); FamilySearch **LHDT-5PG**.
 
 ## Open questions
 

@@ -13,7 +13,7 @@ children:
 
 # Anna Schuemperli
 
-Anna Schuemperli was the wife of [Caspar Stumpp](caspar-stumpp.md) and mother of [Augustin Stumpf](augustin-stumpf.md). The MyHeritage export used here carries no birth or death events for her. Her parents were [Zacharias Schuemperli](zacharias-schuemperli.md) and [Barbel Weber](barbel-weber.md).
+Anna Schuemperli was the wife of [Caspar Stumpp](caspar-stumpp.md) and mother of [Augustin Stumpf](augustin-stumpf.md). The MyHeritage import used here carries no birth or death events for her. Her parents were [Zacharias Schuemperli](zacharias-schuemperli.md) and [Barbel Weber](barbel-weber.md).
 
 ## Family
 
@@ -23,7 +23,7 @@ Anna Schuemperli was the wife of [Caspar Stumpp](caspar-stumpp.md) and mother of
 
 ## Evidence
 
-- **Export:** **treeId** **I164** — unions **F82**, **F84** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LW8F-1GM**.
+- **Tree id:** **I164** — unions **F82**, **F84**; FamilySearch **LW8F-1GM**.
 
 ## Open questions
 

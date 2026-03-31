@@ -25,7 +25,7 @@ By the [1851 census](../sources/1851-census-lewis-lewis-aberavon.md) Lewis was a
 
 Lewis Lewis died at Port Talbot in late 1872 and was buried at **Aberavon (St Mary) on 18 December 1872**, aged 60. The GRO death index records him in Q4 1872, Neath district, Vol 11A p. 413.
 
-The GEDCOM export (I427) recorded Lewis Lewis as a **carpenter** at **Gelligaer** with census references RG09/4046, RG10/5388, and RG11/5308. Those references belong to a **different Lewis Lewis** — the real 1871 reference is **RG10/5424**, Aberavon.
+The working tree (I427) recorded Lewis Lewis as a **carpenter** at **Gelligaer** with census references RG09/4046, RG10/5388, and RG11/5308. Those references belong to a **different Lewis Lewis** — the real 1871 reference is **RG10/5424**, Aberavon.
 
 ## Life
 
@@ -66,7 +66,7 @@ Born **23 June 1808** at **Neath, St Thomas**, daughter of **Henry Prichard** an
 
 ### Second wife: [Rachel Stephen](rachel-james.md) (1825–?)
 
-Baptised **9 October 1825** at **Llanarthne**, Carmarthenshire, daughter of **William Stephen** (farmer) and **Mary** (parish register p. 81, No. 648). She gave her age as 41 on the 1871 census (implying ~1830), five years younger than her actual baptism date. Married Lewis in **Q4 1856** (GRO marriage, Neath district, Vol 11A p. 784). MarriageFinder cross-references Lewis Lewis to **Rachel Stephens** or Betsey Williams — since we know the wife was Rachel, the maiden name is **Stephen(s)**. The GEDCOM's "James" was wrong.
+Baptised **9 October 1825** at **Llanarthne**, Carmarthenshire, daughter of **William Stephen** (farmer) and **Mary** (parish register p. 81, No. 648). She gave her age as 41 on the 1871 census (implying ~1830), five years younger than her actual baptism date. Married Lewis in **Q4 1856** (GRO marriage, Neath district, Vol 11A p. 784). MarriageFinder cross-references Lewis Lewis to **Rachel Stephens** or Betsey Williams — since we know the wife was Rachel, the maiden name is **Stephen(s)**. The working tree used **James**; that was wrong.
 
 **Children with Rachel** (all born Aberavon, from 1871 census):
 
@@ -103,14 +103,14 @@ Baptised **9 October 1825** at **Llanarthne**, Carmarthenshire, daughter of **Wi
 - **GRO death index, Q4 1872** — Lewis Lewis, male, age 60, Neath district, Vol 11A p. 413 ([image](../media/docs/gro-death-index-q4-1872-lewis-lewis-neath.jpg)).
 - **Burial, 18 December 1872, Aberavon (St Mary)** — Lewis Lewis, age 60, residence Port Talbot. Parish register P/68/CW/12, p. 228 ([image](../media/docs/1872-burial-lewis-lewis-aberavon-p68.jpg)).
 
-**Export (partially wrong):**
+**Tree ids (partially wrong in the working tree):**
 
-- **treeId** **I427**; union **F189** with [Rachel Stephen](rachel-james.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- GEDCOM census references (1861 RG09/4046; 1871 RG10/5388; 1881 RG11/5308 — "carpenter") are **wrong**: they belong to a different Lewis Lewis at Gelligaer. Actual 1871 reference: **RG10/5424**, Aberavon.
+- **treeId** **I427**; union **F189** with [Rachel Stephen](rachel-james.md).
+- Census references from that tree row (1861 RG09/4046; 1871 RG10/5388; 1881 RG11/5308 — "carpenter") are **wrong**: they belong to a different Lewis Lewis at Gelligaer. Actual 1871 reference: **RG10/5424**, Aberavon.
 
 ## Open questions
 
-- **1861 census** — Lewis Lewis at Aberavon (~48); not yet located. GEDCOM RG09/4046 is wrong person; the Lewis Lewis (45, collier) at Lantwit Juxta/Resolven (RG 9/4087) with wife Anne from Carmarthenshire is also a different man.
+- **1861 census** — Lewis Lewis at Aberavon (~48); not yet located. Citation RG09/4046 from an obsolete tree row is the wrong person; the Lewis Lewis (45, collier) at Lantwit Juxta/Resolven (RG 9/4087) with wife Anne from Carmarthenshire is also a different man.
 - **Rachel after 1872** — Lewis died December 1872; Rachel was 47 (born 1825, not ~1830 as censuses suggest). Not yet found on 1881 census. The Rachel Lewis at Llangunnor, Carmarthen (1881) is a different family (farmer).
 - **William Lewis's baptism** — David Lewis's father, married Mary David at Briton Ferry 1780, then Catherine Rees. Also had son William Jr (1783). No Briton Ferry baptism found ~1750–1770; he may have been baptised at Baglan or Neath.
 - **Ann Davies's parents** — Lewis Lewis's mother, married David Lewis 1812. No baptism found at Briton Ferry ~1785–1795.

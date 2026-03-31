@@ -35,7 +35,7 @@ Re-fetch or append provenance: `.venv/bin/python scripts/ingest_source.py web|pd
 | **Geni** (as linked from BBLD) | https://www.geni.com/profile/index/6000000037626987900 | **Crowdsourced** — use only with parish confirmation. |
 | **EADB** (Erinnerungsanzeigen-Datenbank Baltikum, Regensburg) | https://amburger.ios-regensburg.de/?id=65373 | Linked from BBLD **Nachweise** for Hermann — **obituary / memorial-notice style** index entry (confirm scope on site). |
 
-**Label alignment:** BBLD gives **Schlossvogt**; the vault’s GEDCOM/Geni gloss **Domschloßvogt** is the same kind of **cathedral / chapter estate steward** role in German; exact **institution** still needs an archival shelf mark (see person page open questions).
+**Label alignment:** BBLD gives **Schlossvogt**; the vault’s Geni profile gloss **Domschloßvogt** is the same kind of **cathedral / chapter estate steward** role in German; exact **institution** still needs an archival shelf mark (see person page open questions).
 
 ---
 
@@ -54,7 +54,7 @@ Standalone **Emilie** biographies (Wikipedia, Wikidata) were **not** located in 
 
 | Source | URL | Notes |
 |--------|-----|--------|
-| **Vault narrative + EBC** | [stories/stump-thurgau-tallinn-baltic-line.md](../stories/stump-thurgau-tallinn-baltic-line.md) §4 · [estonian-biographical-center-stump-report-2005.md](estonian-biographical-center-stump-report-2005.md) | **St. Petersburg** birth and **1868** Tallinn marriage to **Marc François Stump** come from **GEDCOM + EBC**; not yet matched to a **BBLD** or **Wikipedia** article. |
+| **Vault narrative + EBC** | [stories/stump-thurgau-tallinn-baltic-line.md](../stories/stump-thurgau-tallinn-baltic-line.md) §4 · [estonian-biographical-center-stump-report-2005.md](estonian-biographical-center-stump-report-2005.md) | **St. Petersburg** birth and **1868** Tallinn marriage to **Marc François Stump** come from **Legacy export + EBC**; not yet matched to a **BBLD** or **Wikipedia** article. |
 | **Open web (Mar 2026)** | — | Targeted searches did **not** surface a dedicated biography or newspaper corpus page for **“Olga Caroline Erbe”** / Stump under that string; treat **EBC**, parish books, and future **RA.EE** / **DIGAR** hits as the path forward. |
 
 **Sibling anchor (proves Erbe–Eylandt household in Reval):** [Eugen Edmund Erbe](../people/eugen-edmund-erbe.md) — tertiary bios: [English Wikipedia](https://en.wikipedia.org/wiki/Eugen_Edmund_Eduard_Erbe), [Estonian](https://et.wikipedia.org/wiki/Eugen_Erbe_(s%C3%BCndik)), [BBLD](https://bbld.de/GND1173663347), [Wikidata Q12362430](https://www.wikidata.org/wiki/Q12362430), [Commons category](https://commons.wikimedia.org/wiki/Category:Eugen_Edmund_Erbe).
@@ -77,7 +77,7 @@ Beyond the short table under **Emilie**, these pages add **institutional chronol
 
 ## Marie von Landesen — father (in-law line)
 
-GEDCOM uses **Maria Agnes Elisabeth**; **BBLD** uses **Marie v. Landesen**.
+An older desktop export uses **Maria Agnes Elisabeth**; **BBLD** uses **Marie v. Landesen**.
 
 | Source | URL | Notes |
 |--------|-----|--------|
@@ -105,7 +105,7 @@ Searches for **[Hanns Erbe](../people/hanns-erbe.md) Schweinau ~1680**, **[Georg
 |--------|-----|--------|
 | **Thomas Erbe — *Deutsches Geschlechterbuch* transcript** | http://www.thomas-erbe.de/ahnen/dgb.htm | Private index of **DGB** “Erbe” lines (Schmalkalden, Württemberg, Silesia, etc.). **None** of the lines on that page (snapshot **Mar 2026**) name **our** Hanns → Georg Christian → … chain; use only as a **reminder that “Erbe” is polyphyletic**, not as proof. |
 
-**Next steps** for Germany and Baltic primaries: [wishlist/erbe-baltic-german-line.md](wishlist/erbe-baltic-german-line.md) — **Ohrdruf** / **Schweinau** / **Gotha** parish books, **FamilySearch** ids already in GEDCOM (**GW13-BPP**, **GW13-KV7** on some exports), **Saaga** URLs from the GEDCOM notes, **TLA** / **EAA** for Tallinn events, and **Thuringian / Baltic archive** finding aids.
+**Next steps** for Germany and Baltic primaries: [wishlist/erbe-baltic-german-line.md](wishlist/erbe-baltic-german-line.md) — **Ohrdruf** / **Schweinau** / **Gotha** parish books, **FamilySearch** ids already in the legacy export (**GW13-BPP**, **GW13-KV7** on some exports), **Saaga** URLs from the legacy export notes, **TLA** / **EAA** for Tallinn events, and **Thuringian / Baltic archive** finding aids.
 
 ---
 

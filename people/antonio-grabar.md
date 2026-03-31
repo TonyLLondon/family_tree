@@ -12,7 +12,7 @@ children:
 
 # Antonio Grabar
 
-**Antonio Grabar** was born at **Palmanova**, **Friuli** (year not in export slice). He married [Antonia Polettit](antonia-polettit.md) and was father of [Giovanna Grabar](giovanna-grabar.md).
+**Antonio Grabar** was born at **Palmanova**, **Friuli** (year not in working-tree excerpt). He married [Antonia Polettit](antonia-polettit.md) and was father of [Giovanna Grabar](giovanna-grabar.md).
 
 ## Family
 
@@ -21,7 +21,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I114** — union **F57** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I114** — union **F57**.
 
 ## Open questions
 

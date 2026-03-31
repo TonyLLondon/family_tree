@@ -13,7 +13,7 @@ children:
 
 # Jane Lee
 
-**Jane Lee** was born about **1735** in **Ireland**. She married [Lawrence White](lawrence-white.md) and was mother of [Mathew White](mathew-white.md). The export flags death **Y** without detail.
+**Jane Lee** was born about **1735** in **Ireland**. She married [Lawrence White](lawrence-white.md) and was mother of [Mathew White](mathew-white.md). The working tree flags death **Y** without detail.
 
 ## Family
 
@@ -22,7 +22,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I345** — union **F161** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L5RW-X4M**.
+- **Tree id:** **I345** — union **F161**; FamilySearch **L5RW-X4M**.
 
 ## Open questions
 

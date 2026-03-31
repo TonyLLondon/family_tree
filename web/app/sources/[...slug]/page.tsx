@@ -4,15 +4,25 @@ import { MarkdownContent } from "@/components/MarkdownContent";
 import { PageShell } from "@/components/PageShell";
 import { getSourceSegmentLists, readMarkdownFile } from "@/lib/content";
 import { repoPath } from "@/lib/paths";
-import { getAllSourceSlugs, resolveSource } from "@/lib/sourceResolver";
+import { getAllSourcePageSlugs, resolveSource } from "@/lib/sourceResolver";
 import { getSourceBacklinks, type Backlink } from "@/lib/backlinks";
 import fs from "fs";
 import path from "path";
 
+/** Remove the first `# …` heading from markdown body (the page header already shows it). */
+function stripFirstH1(md: string): string {
+  const lines = md.split(/\r?\n/);
+  const idx = lines.findIndex((l) => /^#\s+/.test(l));
+  if (idx === -1) return md;
+  lines.splice(idx, 1);
+  if (idx < lines.length && lines[idx]?.trim() === "") lines.splice(idx, 1);
+  return lines.join("\n");
+}
+
 type Props = { params: Promise<{ slug: string[] }> };
 
 export function generateStaticParams() {
-  const unified = getAllSourceSlugs().map((s) => ({ slug: [s] }));
+  const unified = getAllSourcePageSlugs().map((s) => ({ slug: [s] }));
 
   const legacy = getSourceSegmentLists()
     .filter((segs) => segs.length > 1)
@@ -80,11 +90,6 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
                 {kindLabel}
               </span>
             )}
-            {source.hasPdf && (
-              <span className="inline-flex items-center rounded-md bg-amber-50 px-2 py-0.5 text-xs font-semibold text-amber-700 ring-1 ring-amber-200">
-                PDF available
-              </span>
-            )}
           </div>
           <h1 className="mt-3 text-3xl font-bold tracking-tight text-zinc-900">
             {source.title}
@@ -118,31 +123,14 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
           )}
         </header>
 
-        {/* PDF download */}
-        {source.hasPdf && source.pdfUrl && (
-          <div className="mb-8 flex items-center gap-3 rounded-xl border border-zinc-200 bg-zinc-50 px-4 py-3">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" className="flex-none text-red-500" aria-hidden>
-              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6Z" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-              <path d="M14 2v6h6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-              <text x="7" y="18" fontSize="6" fontWeight="bold" fill="currentColor">PDF</text>
-            </svg>
-            <div className="flex-1">
-              <p className="text-sm font-medium text-zinc-800">Original document available</p>
-            </div>
-            <a
-              href={source.pdfUrl}
-              className="inline-flex items-center rounded-md border border-zinc-300 bg-white px-3 py-1.5 text-xs font-semibold text-zinc-800 shadow-sm transition hover:border-zinc-400 hover:bg-zinc-50"
-            >
-              View PDF
-            </a>
-          </div>
-        )}
+        {/* Referenced by — first, it's the main navigation value */}
+        {backlinks.length > 0 && <BacklinksSection backlinks={backlinks} />}
 
         {/* Citation card content */}
         {source.cardContent && source.cardFilePath && (
           <section className="mb-10">
             <div className="prose prose-zinc max-w-none">
-              <MarkdownContent content={source.cardContent} filePath={source.cardFilePath} />
+              <MarkdownContent content={stripFirstH1(source.cardContent)} filePath={source.cardFilePath} />
             </div>
           </section>
         )}
@@ -160,13 +148,13 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
                 <p className="m-0 font-medium leading-snug">
                   This content is <strong className="font-semibold">machine-extracted</strong> from
                   a PDF or web capture. OCR and layout conversion often produce broken words and
-                  stray symbols. For clean reading, use the original document above.
+                  stray symbols.
                 </p>
               </div>
             )}
             <div className="prose prose-zinc max-w-none">
               <MarkdownContent
-                content={source.corpusContent}
+                content={stripFirstH1(source.corpusContent)}
                 filePath={source.corpusContentFilePath}
               />
             </div>
@@ -179,9 +167,6 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
             No content available for this source yet.
           </div>
         )}
-
-        {/* Backlinks */}
-        {backlinks.length > 0 && <BacklinksSection backlinks={backlinks} />}
 
         {/* Bundle files (collapsed) */}
         {source.primaryCorpusSlug && source.bundleFiles.length > 0 && (

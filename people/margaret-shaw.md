@@ -11,7 +11,7 @@ children:
 
 # Margaret Shaw
 
-**Margaret Shaw** married [Robert Mackereth](robert-mackereth.md) and was mother of [Elizabeth Mackereth](elizabeth-mackereth.md). Birth and death are flagged in the export without date or place.
+**Margaret Shaw** married [Robert Mackereth](robert-mackereth.md) and was mother of [Elizabeth Mackereth](elizabeth-mackereth.md). Birth and death are flagged in the working tree without date or place.
 
 ## Family
 
@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I97** — union **F47** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I97** — union **F47**.
 
 ## Open questions
 

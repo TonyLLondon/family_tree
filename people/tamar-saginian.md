@@ -40,7 +40,7 @@ Use Tamar’s branch when explaining **why two independent source types** (NYPL 
 ## Portraits
 
 - **Hakop Hovnatanian, *Portrait of Tamar Saginian*** (private collection) — oil painting by the renowned Armenian court painter, reproduced in Navasargian (2012). Caption: *"the wife of Dr. McCormic the private physician of the King."*
-  ![Hovnatanian portrait of Tamar Saginian](../media/images/portraits/tamar-saginian-hovnatanian-portrait.png)
+ ![Hovnatanian portrait of Tamar Saginian](../media/images/portraits/tamar-saginian-hovnatanian-portrait.png)
 
 ## Evidence
 

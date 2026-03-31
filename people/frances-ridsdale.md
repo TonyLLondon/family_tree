@@ -17,7 +17,7 @@ children:
 
 # Frances Ridsdale
 
-Mother of [Edward Burgess](edward-burgess.md). Baptized **10 June 1784** at **Wakefield**, **All Saints**; died **1847** at **Brighton**, **Sussex** (export). She married [Henry Burgess](henry-burgess.md) on **6 December 1804** at **St John's, Wakefield** by licence, with her father **Edward Ridsdale** and **Elisa Ridsdale** as witnesses.
+Mother of [Edward Burgess](edward-burgess.md). Baptized **10 June 1784** at **Wakefield**, **All Saints**; died **1847** at **Brighton**, **Sussex** (working tree only). She married [Henry Burgess](henry-burgess.md) on **6 December 1804** at **St John's, Wakefield** by licence, with her father **Edward Ridsdale** and **Elisa Ridsdale** as witnesses.
 
 ## Life
 
@@ -35,10 +35,10 @@ Mother of [Edward Burgess](edward-burgess.md). Baptized **10 June 1784** at **Wa
 
 - **Marriage licence (1804):** Archbishop of York licence index — Frances Ridsdale of Wakefield (age 20) to Henry Burgess of Leicester (age 21), 3 Dec 1804, intended at St John, Wakefield. FMP `GBPRS/OR/YORK/M/00098493/1`.
 - **Marriage (1804):** Bishop's transcripts, Yorkshire Marriages — 6 Dec 1804, Wakefield. FMP `GBPRS/YORKSHIRE/MAR/183534/1`. Wakefield FHS: witnesses Edward Ridsdale, Elisa Ridsdale; archive ref WDP 45/1/10. FMP `GBPRS/M/343018975/1`.
-- **Export:** **treeId** **I82** — unions **F40** (with Henry), **F135** (parents) — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I82** — unions **F40** (with Henry), **F135** (parents).
 - Ridsdale collateral PDFs: search `media/docs/` and `media/publications/genealogy-regional/` when filenames are standardized.
 
 ## Open questions
 
 - **Brighton** death register image; siblings of **Frances** under **F135**.
-- The export gives the marriage location as "York" — the actual records all point to **St John's, Wakefield**. The Archbishop of York issued the licence, which may have caused the confusion.
+- The working tree gives the marriage location as "York" — the actual records all point to **St John's, Wakefield**. The Archbishop of York issued the licence, which may have caused the confusion.

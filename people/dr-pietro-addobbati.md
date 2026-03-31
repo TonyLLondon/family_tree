@@ -45,7 +45,7 @@ He died in Zara on 4 November 1832. The registers quiet; the briefs and decrees 
 
 ## Evidence
 
-- Merged export / site graph: birth **1769**, death **4 Nov 1832** (matches YAML **treeId** for this page).
+- Working tree / site graph: birth **1769**, death **4 Nov 1832** (matches YAML **treeId** for this page).
 - **Sabalich, *Guida archeologica di Zara* (1897), pp. 504–508:** principal civic career — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
 - **Granić 1817 Nin list:** Dr. Petar among 1804 admissions — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) → [corpus/granic-nin-noble-list-1817/](../sources/corpus/granic-nin-noble-list-1817/).
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — Nin confirmation; 1786 Golden Spur diploma — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md).
@@ -53,4 +53,4 @@ He died in Zara on 4 November 1832. The registers quiet; the briefs and decrees 
 - Portrait: `media/images/portraits/pietro-addobbati-golden-spur-1769.jpg` (photo-map I75).
 - **Annotated portrait photograph (Zara album):** [PAddobbati01.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/PAddobbati01.jpg) — photograph of the painting with Fulvia's annotation: *"Zio Pietro Addobbati / Holder of the Order of the Holy Spear / 100 holders at any one time."* The Golden Spur cross is visible on his lapel; matches the miniature tradition and Stratico's 1786 investiture.
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Export:** structured tree individual I75 (no GEDCOM id in frontmatter file used here).
+- **Tree id:** **I75** ([Structured family tree](../family-tree.json)).

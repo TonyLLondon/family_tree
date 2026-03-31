@@ -1,6 +1,6 @@
 # Saginian → Burgess → Bottin → Stump
 
-Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite intermediary roles across **Qajar military → princely administration & royal medicine → War Ministry industrial modernization → professional medicine in the Pahlavi transition**. This file is the **canonical genealogical hub (topic)**: prose outline, **[family-tree.json](../family-tree.json)** (single master tree for the web app), one Mermaid sketch for Markdown previews, and tables. Long-form chronology: [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md). **Topics:** [topics/index.md](../topics/index.md). **Vault map:** [index.md](../index.md).
+Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite intermediary roles across **Qajar military → princely administration & royal medicine → War Ministry industrial modernization → professional medicine in the Pahlavi transition**. This file is the **canonical genealogical hub (topic)**: prose outline, **[Structured family tree](../family-tree.json)** (single master tree for the web app), one Mermaid sketch for Markdown previews, and tables. Long-form chronology: [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md). **Topics:** [topics/index.md](../topics/index.md). **Vault map:** [index.md](../index.md).
 
 ---
 
@@ -9,7 +9,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
 | Element | Meaning |
 |--------|---------|
 | **Nested outline** | Full detail: vitals, institutions, sources — the narrative layer of the tree. |
-| **[family-tree.json](../family-tree.json)** | **Only authoritative structured tree** for the web UI: `people`, `unions` (partners + children + optional `marriageDate`), and `graph.nodes` / `graph.edges` (`kind`: `person` \| `union`, `spouse` \| `descent`). Edit this file to change the tree; [scripts/validate_family_tree_json.py](../scripts/validate_family_tree_json.py) checks schema and references. |
+| **[Structured family tree](../family-tree.json)** | **Only authoritative structured tree** for the web UI: `people`, `unions` (partners + children + optional `marriageDate`), and `graph.nodes` / `graph.edges` (`kind`: `person` \| `union`, `spouse` \| `descent`). Maintainer workflow: edit the repo structured tree + person pages; [scripts/validate_family_tree_json.py](../scripts/validate_family_tree_json.py) checks schema and references. |
 | **Mermaid block below** | **Persia-line sketch only** (not the full DB); same names as the research outline. |
 | **(est.)** | Approximate or inferred in research notes — see person file and [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md). |
 
@@ -70,13 +70,13 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
 
 ---
 
-## Master tree data (`family-tree.json`)
+## Master tree data (structured family tree)
 
-One file drives the **full** tree in a browser: load JSON, render `graph` (or traverse `people` + `unions`). **Unions** are marriage records: `partnerIds` (spouses), `childIds`, optional `marriageDate`.
+One machine-readable file drives the **full** tree in a browser: load JSON, render `graph` (or traverse `people` + `unions`). **Unions** are marriage records: `partnerIds` (spouses), `childIds`, optional `marriageDate`.
 
-GEDCOM and other exports under [archive/](../archive/index.md) are **legacy backups only**, not sources for the app.
+Legacy desktop exports under [archive/](../archive/index.md) are **not** browsing sources for the site — use the structured tree, person pages, and catalogued evidence instead.
 
-**Completeness:** the JSON matches that export **in topology** (every person and family, same links). **Schema 2** adds structured fields beyond topology (vitals, aliases, `personPage`, etc.): **`family-tree.json` and `people/*.md` (`treeId`) are master**; [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) only **backfills** missing vitals when you run sync. See `meta.coverage` in [family-tree.json](../family-tree.json). Sync: `.venv/bin/python scripts/sync_family_tree_json.py` (use `--no-gedcom-fill` for vault/JSON only).
+**Completeness:** **Schema 2** holds topology plus structured fields (vitals, aliases, `personPage`, etc.). **`people/*.md` (`treeId`) and the structured tree stay in sync** via `.venv/bin/python scripts/sync_family_tree_json.py`. Coverage notes live under `meta.coverage` in [Structured family tree](../family-tree.json).
 
 ---
 
@@ -86,46 +86,46 @@ Illustration for this Markdown page only — **not** the full 571-person tree. *
 
 ```mermaid
 flowchart TB
-  subgraph G1["Generation 1 — Qajar military"]
-    DK["Daoud Khan Saginian<br/>Mayor Khan · David Saginian<br/>Armenian · head of Isfahan army<br/>c. 1790s – mid-19th c. (est.)"]
-  end
+ subgraph G1["Generation 1 — Qajar military"]
+ DK["Daoud Khan Saginian<br/>Mayor Khan · David Saginian<br/>Armenian · head of Isfahan army<br/>c. 1790s – mid-19th c. (est.)"]
+ end
 
-  subgraph G2["Generation 2 — Court and medicine"]
-    AS["Anna Saginian<br/>~1830 · ? · Armenian"]
-    EB["Edward Burgess<br/>1810–1855 · British<br/>translator / magistrate / princes"]
-    TS["Tamar Saginian<br/>? · Armenian · Anna's sister"]
-    WC["Dr. William Cormick<br/>1822–1877 · b. Tabriz<br/>Mohammad Shah and crown prince physician"]
-  end
+ subgraph G2["Generation 2 — Court and medicine"]
+ AS["Anna Saginian<br/>~1830 · ? · Armenian"]
+ EB["Edward Burgess<br/>1810–1855 · British<br/>translator / magistrate / princes"]
+ TS["Tamar Saginian<br/>? · Armenian · Anna's sister"]
+ WC["Dr. William Cormick<br/>1822–1877 · b. Tabriz<br/>Mohammad Shah and crown prince physician"]
+ end
 
-  subgraph G3["Generation 3 — War Ministry and Tehran elite"]
-    FB["Fanny Burgess<br/>1854–1938 · Fanny Burgess Bottin<br/>Tehran Protestant Cemetery"]
-    JB["Julien Bottin<br/>French engineer · Tehran<br/>War Ministry arsenal and manufactures<br/>Alliance Francaise · lodge Orient de Tehran 1898"]
-  end
+ subgraph G3["Generation 3 — War Ministry and Tehran elite"]
+ FB["Fanny Burgess<br/>1854–1938 · Fanny Burgess Bottin<br/>Tehran Protestant Cemetery"]
+ JB["Julien Bottin<br/>French engineer · Tehran<br/>War Ministry arsenal and manufactures<br/>Alliance Francaise · lodge Orient de Tehran 1898"]
+ end
 
-  subgraph G4["Generation 4 — Pahlavi-transition medicine"]
-    HB["Henriette Bottin Burgess<br/>c. 1880s · ?"]
-    ES["Etienne Stump<br/>b. 7 Mar 1880 Tallinn · d. 1951 Tehran<br/>Swiss dentist · Iran c. 1904–1951"]
-  end
+ subgraph G4["Generation 4 — Pahlavi-transition medicine"]
+ HB["Henriette Bottin Burgess<br/>c. 1880s · ?"]
+ ES["Etienne Stump<br/>b. 7 Mar 1880 Tallinn · d. 1951 Tehran<br/>Swiss dentist · Iran c. 1904–1951"]
+ end
 
-  DK --> AS
-  DK --> TS
-  AS --- EB
-  TS --- WC
-  AS --> FB
-  EB --> FB
-  FB --- JB
-  FB --> HB
-  JB --> HB
-  HB --- ES
+ DK --> AS
+ DK --> TS
+ AS --- EB
+ TS --- WC
+ AS --> FB
+ EB --> FB
+ FB --- JB
+ FB --> HB
+ JB --> HB
+ HB --- ES
 
-  classDef g1 fill:#3d2914,color:#f5e6d3,stroke:#1f150a,stroke-width:2px;
-  classDef g2 fill:#1e3a5f,color:#fff,stroke:#0d1f33,stroke-width:2px;
-  classDef g3 fill:#2d5a87,color:#fff,stroke:#1a3d5c,stroke-width:2px;
-  classDef g4 fill:#5b8fc7,color:#0d1f33,stroke:#2d5a87,stroke-width:2px;
-  class DK g1;
-  class AS,EB,TS,WC g2;
-  class FB,JB g3;
-  class HB,ES g4;
+ classDef g1 fill:#3d2914,color:#f5e6d3,stroke:#1f150a,stroke-width:2px;
+ classDef g2 fill:#1e3a5f,color:#fff,stroke:#0d1f33,stroke-width:2px;
+ classDef g3 fill:#2d5a87,color:#fff,stroke:#1a3d5c,stroke-width:2px;
+ classDef g4 fill:#5b8fc7,color:#0d1f33,stroke:#2d5a87,stroke-width:2px;
+ class DK g1;
+ class AS,EB,TS,WC g2;
+ class FB,JB g3;
+ class HB,ES g4;
 ```
 
 ---
@@ -201,14 +201,14 @@ flowchart TB
 | Mustawfi memoir / Mahmoudieh / Stump | [sources/mustawfi-mahmoudieh-stump.md](../sources/mustawfi-mahmoudieh-stump.md) |
 | O’Brien / Roche notes (Tabriz, Seguinoff, interview bits) | [sources/obrien-roche-notes.md](../sources/obrien-roche-notes.md) |
 | British Library notes | [sources/british-library-notes.md](../sources/british-library-notes.md) |
-| **Archive** (GEDCOM, Gramps/RM, Mahmoudieh paths in catalog) | [archive/index.md](../archive/index.md) · stub [sources/legacy-index.md](../sources/legacy-index.md) |
+| **Archive** (legacy exports, Gramps/RM, Mahmoudieh paths in catalog) | [archive/index.md](../archive/index.md) · stub [sources/legacy-index.md](../sources/legacy-index.md) |
 | **Media — Assyrians / Persia** (Yonan monograph PDF in `media/docs/`) | [Gabriele Yonan — *Lest We Perish* (1996) PDF](../media/docs/Gabriele%20Yonan%20-%20Lest%20We%20Perish%20-%20Christian%20Assyrians%20Turkey%20and%20Persia%201996.pdf) |
 | **Media — Central Asia context** (Eden dissertation PDF) | [Jeffrey Eden — *Slavery and Empire in Central Asia* (Harvard diss., 2016) PDF](../media/docs/Jeffrey%20Eden%20-%20Slavery%20and%20Empire%20in%20Central%20Asia%20-%20Harvard%20dissertation%202016.pdf) |
-| **Offline web capture** (curl / browser tools) | Bundles under [sources/corpus/](../sources/corpus/) (`mirror.html`, `source.yaml`). **Full slug list:** [sources/corpus-bibliography.md](../sources/corpus-bibliography.md). **Inbox** for new drops: [manual/](../manual/README.md). GEDCOM-embedded profile URLs remain in [archive/gedcom/](../archive/gedcom/) only (not bulk-mirrored). |
+| **Offline web capture** (curl / browser tools) | Bundles under [sources/corpus/](../sources/corpus/) (`mirror.html`, `source.yaml`). **Full slug list:** [sources/corpus-bibliography.md](../sources/corpus-bibliography.md). **Inbox** for new drops: [manual/](../manual/README.md). |
 
 Primary documents: [sources/documents/](../sources/documents/) · **media** (albums, scans, PDFs): [media/](../media/) — see [index.md](../index.md)
 
-**Ancestor scope (person pages):** [people/ancestor-coverage-list.md](../people/ancestor-coverage-list.md) — father/mother chain from **Anthony Robert (Tony) Lewis** (`@I1@`) in the MyHeritage GEDCOM export; excludes collateral lines (e.g. Tamar / Cormick).
+**Ancestor scope (person pages):** [people/ancestor-coverage-list.md](../people/ancestor-coverage-list.md) — strict father/mother chain from **Anthony Robert (Tony) Lewis** (**I1**); excludes collateral lines (e.g. Tamar / Cormick).
 
 ### Surname studies
 
@@ -222,22 +222,22 @@ Primary documents: [sources/documents/](../sources/documents/) · **media** (alb
 
 ```
 family_tree/
-├── index.md                 ← vault map (start here)
-├── family-tree.json         ← master tree for web app (export from GEDCOM)
+├── index.md ← vault map (start here)
+├── family-tree.json ← master structured tree for the web app (maintainer-edited)
 ├── topics/
-│   ├── persia.md                 ← Persia hub + tables
-│   ├── zara-italy-dalmatia.md    ← Zara — Addobbati + Zerauschek + source register
-│   └── lewis-wales-stump-europe.md ← Lewis (Wales) + Stump/Erbe (Europe) + Ireland cluster
-├── people/                  ← one markdown file per person
-├── stories/              ← multi-generation essays
-├── topics/                  ← places, institutions, themes ([topics/index.md](../topics/index.md))
-├── media/                   ← albums, collections, docs inbox, publications/, charts/, military/, images/
-├── archive/                 ← legacy GEDCOM snapshots, Gramps/RootsMagic ([archive/index.md](../archive/index.md))
+│ ├── persia.md ← Persia hub + tables
+│ ├── zara-italy-dalmatia.md ← Zara — Addobbati + Zerauschek + source register
+│ └── evans-cerpa-perez-london-chile.md ← London Evans × Chile
+├── people/ ← one markdown file per person
+├── stories/ ← multi-generation essays
+├── topics/ ← places, institutions, themes ([topics/index.md](../topics/index.md))
+├── media/ ← albums, collections, docs inbox, publications/, charts/, military/, images/
+├── archive/ ← legacy desktop exports, Gramps/RootsMagic ([archive/index.md](../archive/index.md))
 ├── scripts/
-│   ├── validate_family_tree_json.py ← checks family-tree.json
-│   └── ingest_source.py     ← PDF/HTML → sources/corpus/
-├── manual/                  ← inbox: raw files for AI/scripts to file into corpus/media/people
-├── sources/                 ← citation cards, corpus bundles
-│   ├── corpus/              ← extracts + source.yaml; mirror.html / original.pdf as needed
-│   └── documents/           ← optional small primary uploads
+│ ├── validate_family_tree_json.py ← checks structured tree JSON
+│ └── ingest_source.py ← PDF/HTML → sources/corpus/
+├── manual/ ← inbox: raw files for AI/scripts to file into corpus/media/people
+├── sources/ ← citation cards, corpus bundles
+│ ├── corpus/ ← extracts + source.yaml; mirror.html / original.pdf as needed
+│ └── documents/ ← optional small primary uploads
 ```

@@ -9,7 +9,7 @@ birth_place: Gotha, Thüringen, Germany
 died: 1841-10-28
 death_place: Pernau, Kreis Pernau, Livland, Russiches
 sex: male
-role: Shulinspektor in Pärnu; Tit. Rath. (per MyHeritage export occupation text)
+role: Shulinspektor in Pärnu; Tit. Rath. (per MyHeritage occupation text in the import)
 father: sigmund-johann-bartholomaus-erbe
 mother: johanna-magdalena-schultz
 spouses:
@@ -20,15 +20,15 @@ children:
 
 # Johann Georg Sigismund Erbe
 
-Grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md). The export gives him the alias **Georg** and ties him to **Gotha** (Thuringia) and a long **Baltic career** ending in **Pärnu (Pernau)** in **Livonia** under Russian rule.
+Grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md). The working tree gives him the alias **Georg** and ties him to **Gotha** (Thuringia) and a long **Baltic career** ending in **Pärnu (Pernau)** in **Livonia** under Russian rule.
 
 ## Life
 
 - **26 May 1771** — Born **Gotha, Thüringen** (then Saxe-Gotha-Altenburg; politically part of the **Holy Roman Empire** world that Baltic Germans still referenced when describing “from Germany”).
-- Occupation line in GEDCOM: **Shulinspektor in Paernu, Tit. Rath.,** — a **school inspector** or **synodal school supervisor** role (German *Schulinspektor*) in **Pärnu**, plus a **titular councilor** (*Titularrath*) style rank common in Russian service.
-- **28 October 1841** — Died **Pernau**, **Kreis Pernau**, **Livland** (Russian-period wording in export).
+- Occupation line in the working tree: **Shulinspektor in Paernu, Tit. Rath.,** — a **school inspector** or **synodal school supervisor** role (German *Schulinspektor*) in **Pärnu**, plus a **titular councilor** (*Titularrath*) style rank common in Russian service.
+- **28 October 1841** — Died **Pernau**, **Kreis Pernau**, **Livland** (Russian-period wording in the import).
 
-He married [Caroline Sophie Heimberger](caroline-sophie-heimberger.md). Their son [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) is the direct line to Olga; the Geni block also names **Karl Wilhelm, Mathilde Ulrike Petersenn, Carl Ferdinand**, and **Alexander Georg** among the children—cross-walk to **CHIL** rows on the same union in the export before writing sibling articles.
+He married [Caroline Sophie Heimberger](caroline-sophie-heimberger.md). Their son [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) is the direct line to Olga; the Geni block also names **Karl Wilhelm, Mathilde Ulrike Petersenn, Carl Ferdinand**, and **Alexander Georg** among the children—cross-walk to **CHIL** rows on the same union in the working tree before writing sibling articles.
 
 ## Family
 
@@ -38,7 +38,7 @@ He married [Caroline Sophie Heimberger](caroline-sophie-heimberger.md). Their so
 
 ## Evidence
 
-- **Export:** **treeId** **I300** — unions **F141**, **F149** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I300** — unions **F141**, **F149**.
 - MyHeritage URL in **`@S43@`** (“Georg Sigismund Erbe”).
 - **Web (Mar 2026):** no **BBLD** / **Wikipedia** article located for this name + **Gotha / Pärnu Schulinspektor** cluster; see [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md) § *Thuringian / Franconian Erbe line*.
 

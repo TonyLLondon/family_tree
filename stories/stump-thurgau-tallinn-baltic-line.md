@@ -1,10 +1,10 @@
 # Stump / Stumpf — Thurgau parishes to Tallinn and the Baltic German Erbe line
 
-**Europe-only** essay for [Marc Francois Stump](../people/marc-francois-stump.md) and [Olga Caroline Erbe](../people/olga-caroline-erbe.md): Swiss Protestant forebears in canton Thurgau, Marc's career as a French teacher in Imperial Russian Tallinn, marriage into a Baltic German household, and children baptised in the Tallinn Dome congregation. **Structured tree:** [family-tree.json](../family-tree.json).
+**Europe-only** essay for [Marc Francois Stump](../people/marc-francois-stump.md) and [Olga Caroline Erbe](../people/olga-caroline-erbe.md): Swiss Protestant forebears in canton Thurgau, Marc's career as a French teacher in Imperial Russian Tallinn, marriage into a Baltic German household, and children baptised in the Tallinn Dome congregation. **Structured tree:** [Structured family tree](../family-tree.json).
 
-**Geographic note:** casual family memory sometimes says "Emmental" for Swiss German lines. The strict-ancestor GEDCOM anchors the Stump patriline in **Sulgen / Erlen / Buchackern, Thurgau** — not the Emmental (canton Bern). If a parish book ever ties this branch to Bern, the narrative can be retitled; until then, Thurgau is the documented canton.
+**Geographic note:** casual family memory sometimes says "Emmental" for Swiss German lines. The strict-ancestor list anchors the Stump patriline in **Sulgen / Erlen / Buchackern, Thurgau** — not the Emmental (canton Bern). If a parish book ever ties this branch to Bern, the narrative can be retitled; until then, Thurgau is the documented canton.
 
-**Iran / dentistry** — son [Étienne Stump](../people/etienne-stump.md) and the Persia hub remain in [topics/persia.md](../topics/persia.md) and [saginian-burgess-bottin-stump.md](saginian-burgess-bottin-stump.md) §4; this file stops at the Baltic household and Marc's death.
+**Iran / dentistry** — son [Étienne Stump](../people/etienne-stump.md) and the Persia hub remain in [topics/persia.md](../topics/persia.md) and [saginian-burgess-bottin-stump.md](saginian-burgess-bottin-stump.md) (section 4); this file stops at the Baltic household and Marc's death.
 
 ---
 
@@ -18,9 +18,9 @@ The family can be traced through the Reformed church books of northeastern Thurg
 | 17th c. | [Hans Jacob Stump (b. 1674)](../people/hans-jacob-stump-1674.md) | Sulgen |
 | Late 18th c. | [Hans Ulrich Stump](../people/hans-ulrich-stump.md) | Sulgen birth 1767, marriage 1792 |
 | Early 19th c. | [Hans Jacob Stump (b. 1800)](../people/hans-jacob-stump-1800.md) | Sulgen birth; marriage 25 Sep 1832 to [Jeanne Benigne Montagnon](../people/jeanne-benigne-montagnon.md) (France) |
-| 1834 | [Marc Francois Stump](../people/marc-francois-stump.md) | Christening 10 March 1834, Erlen, Thurgau (FamilySearch ark in GEDCOM @S5@) |
+| 1834 | [Marc Francois Stump](../people/marc-francois-stump.md) | Christening 10 March 1834, Erlen, Thurgau (FamilySearch; ark on Marc's person page) |
 
-Detail and citations: individual person pages and [GEDCOM export](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+Detail and citations: individual person pages and the [Estonian Biographical Center — Stump report (2005)](../sources/estonian-biographical-center-stump-report-2005.md).
 
 ---
 
@@ -56,15 +56,15 @@ By 1910, a Tallinn obituary for Étienne's mother Louise already noted "Dr Etien
 
 Sibling IDs confirmed: [Jean Jacque](../people/jean-jacque-stump.md) (`@I398@`), [Arthur Roger](../people/arthur-roger-stump.md) (`@I399@`), [Marguerite Emilie](../people/marguerite-emilie-stump.md) (`@I400@`), [Antoinette](../people/antoinette-stump.md) (`@I401@`).
 
-**Next generation (Iran):** [Étienne Stump](../people/etienne-stump.md); Persia narrative [saginian-burgess-bottin-stump.md](saginian-burgess-bottin-stump.md) §4.
+**Next generation (Iran):** [Étienne Stump](../people/etienne-stump.md); Persia narrative [saginian-burgess-bottin-stump.md](saginian-burgess-bottin-stump.md) (section 4).
 
 ---
 
 ## Evidence quick list
 
 - [Estonian Biographical Center — Stump report 2005](../sources/estonian-biographical-center-stump-report-2005.md) (central for Tallinn career, property, children, Marc's death note)
-- [GEDCOM export](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — Swiss Thurgau events; F70, F71, F140–F142
-- [family-tree.json](../family-tree.json) — topology; vitals may be incomplete in JSON (meta.coverage)
+- Swiss Thurgau lines in the structured tree — unions F70, F71, F140–F142
+- [Structured family tree](../family-tree.json) — topology; vitals may be incomplete (see `meta.coverage` in that file)
 
 ---
 
@@ -72,6 +72,6 @@ Sibling IDs confirmed: [Jean Jacque](../people/jean-jacque-stump.md) (`@I398@`),
 
 - Single image reconciling **Erlen 10 Mar 1834** vs **Yverdon / Feb–Mar 1834** in Tallinn book.
 - Swiss civil death **April 1903 Yverdon** vs Tallinn register line.
-- **Jeanne Montagnon** — French parish of origin (export is year-only).
+- **Jeanne Montagnon** — French parish of origin (structured tree has year-only for now).
 - **Hermann Erbe** — archival shelf mark for Domschloßvogt duties.
 - Eight Tallinn real-estate files listed in EBC — not yet ingested as separate scans.

@@ -16,7 +16,7 @@ children:
 
 # James Lawson, of Nesham Abbey
 
-James Lawson, of Nesham Abbey, was the husband of [Jane Conyers](jane-conyers.md)—they married on 8 January 1593 at Neesham, Durham—and father of [Lady Frances Lawson](lady-frances-lawson.md) and other children named in the same export household. The export gives a christening on 17 November 1568 at Hurworth-on-Tees alongside a birth year 1568 at Neesham; those details need reconciliation against the register image. He died on 20 October 1631. His parents were [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md) and [Frances Conyers](frances-conyers.md).
+James Lawson, of Nesham Abbey, was the husband of [Jane Conyers](jane-conyers.md)—they married on 8 January 1593 at Neesham, Durham—and father of [Lady Frances Lawson](lady-frances-lawson.md) and other children named in the same working-tree household. The working tree gives a christening on 17 November 1568 at Hurworth-on-Tees alongside a birth year 1568 at Neesham; those details need reconciliation against the register image. He died on 20 October 1631. His parents were [Henry Lawson, of Nesham Abbey](henry-lawson-of-nesham-abbey.md) and [Frances Conyers](frances-conyers.md).
 
 ## Family
 
@@ -26,7 +26,7 @@ James Lawson, of Nesham Abbey, was the husband of [Jane Conyers](jane-conyers.md
 
 ## Evidence
 
-- **Export:** **treeId** **I356** — unions **F166**, **F200** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **Geni** **SOUR** blocks in export.
+- **Tree id:** **I356** — unions **F166**, **F200**; **Geni** **SOUR** blocks in the working tree import.
 
 ## Open questions
 

@@ -5,12 +5,24 @@ import { repoPath } from "./paths";
 import { photoPublicPath } from "./photos";
 import { readScrollySidecar, resolveScrollySteps } from "./scrollytelling";
 
-/** First markdown H1 line in body (after frontmatter). */
+/** Strip inline markdown formatting from a plain-text string. */
+export function stripInlineMarkdown(s: string): string {
+  return s
+    .replace(/\*\*([^*]+)\*\*/g, "$1")
+    .replace(/\*([^*]+)\*/g, "$1")
+    .replace(/__([^_]+)__/g, "$1")
+    .replace(/_([^_]+)_/g, "$1")
+    .replace(/`([^`]+)`/g, "$1")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/** First markdown H1 line in body (after frontmatter), with inline formatting stripped. */
 export function extractFirstHeading(markdownBody: string): string | null {
   const lines = markdownBody.split(/\r?\n/);
   for (const line of lines) {
     const m = line.match(/^#\s+(.+)$/);
-    if (m) return m[1].trim();
+    if (m) return stripInlineMarkdown(m[1].trim());
   }
   return null;
 }

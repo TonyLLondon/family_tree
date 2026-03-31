@@ -13,7 +13,7 @@ children:
 
 # Mary Whitehead
 
-**Mary Whitehead** was born about **1637** at **Shap**, **Westmorland**. She married [Richard Ayray](richard-ayray.md) and was mother of [Joseph Ayrey](joseph-ayrey.md). The export flags death **Y** without date.
+**Mary Whitehead** was born about **1637** at **Shap**, **Westmorland**. She married [Richard Ayray](richard-ayray.md) and was mother of [Joseph Ayrey](joseph-ayrey.md). The working tree flags death **Y** without date.
 
 ## Family
 
@@ -22,7 +22,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I193** — union **F97** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K8HR-NP5**.
+- **Tree id:** **I193** — union **F97**; FamilySearch **K8HR-NP5**.
 
 ## Open questions
 

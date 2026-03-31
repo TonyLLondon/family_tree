@@ -12,7 +12,7 @@ children:
 
 # Francesca Arcolin
 
-Francesca Arcolin was the wife of [Marco Robustella](marco-robustella.md) and mother of [Maria Teresa Robustella](maria-teresa-robustella.md). Her father in the export is [Pasquale Arcolin](pasquale-arcolin.md); see Pasquale’s page for the parental household context.
+Francesca Arcolin was the wife of [Marco Robustella](marco-robustella.md) and mother of [Maria Teresa Robustella](maria-teresa-robustella.md). Her father in the working tree is [Pasquale Arcolin](pasquale-arcolin.md); see Pasquale’s page for the parental household context.
 
 ## Family
 
@@ -22,7 +22,7 @@ Francesca Arcolin was the wife of [Marco Robustella](marco-robustella.md) and mo
 
 ## Evidence
 
-- **Export:** **treeId** **I339** — unions **F63**, **F159** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I339** — unions **F63**, **F159**.
 ## Open questions
 
 - **Birth** — not in the slice; Zara **Arcolin** family group.

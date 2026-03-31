@@ -22,7 +22,7 @@ Fourth child of [Marc Francois Stump](marc-francois-stump.md) and [Olga Caroline
 - **Died 29 April 1881** at 3 PM in Tallinn; cause of death: **heart disorder**.
 - **Buried 2 May 1881** AM, Tallinn Dome congregation.
 
-**Note:** The merged MyHeritage export gives a birth date of **7 March 1873**, which conflicts with the **13 December 1873** in the EBC parish register digest. The March date appears to be a transposition or confusion with [Étienne Stump](etienne-stump.md)'s **7 March 1880** birth. The EBC reading of the Tallinn Dome register is the preferred source.
+**Note:** The merged MyHeritage import gives a birth date of **7 March 1873**, which conflicts with the **13 December 1873** in the EBC parish register digest. The March date appears to be a transposition or confusion with [Étienne Stump](etienne-stump.md)'s **7 March 1880** birth. The EBC reading of the Tallinn Dome register is the preferred source.
 
 ## Family
 
@@ -32,4 +32,4 @@ Fourth child of [Marc Francois Stump](marc-francois-stump.md) and [Olga Caroline
 ## Evidence
 
 - [Estonian Biographical Center — Stump family Tallinn research (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — birth, baptism, godparents, death, burial.
-- **Export:** **treeId** **I401** — union **F70** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I401** — union **F70**.

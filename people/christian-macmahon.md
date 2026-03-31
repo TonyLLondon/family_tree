@@ -22,8 +22,8 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I373** — unions **F175**, **F177** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LRH7-JW8**.
+- **Tree id:** **I373** — unions **F175**, **F177**; FamilySearch **LRH7-JW8**.
 
 ## Open questions
 
-- Mother on **Denis**’s union—absent in this export.
+- Mother on **Denis**’s union—absent in this working-tree row.

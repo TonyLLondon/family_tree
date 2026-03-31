@@ -26,7 +26,7 @@ No death entry for Francisco appears in the Chanco deaths index (covering approx
 
 - **Chanco civil registry marriage index** (DGS 004702560, film page 365): "Cerpa, Francisco con González, Ana Delia, 59" under Año 1909. Index image: [page-0365-cerpa-marriage-crop.jpg](../media/docs/chile-chanco/index-nacimientos-1885-1932/page-0365-cerpa-marriage-crop.jpg).
 - Research hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
-- **Export:** **treeId** **I348** — union **F163** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I348** — union **F163**.
 
 ## Open questions
 

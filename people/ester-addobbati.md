@@ -54,7 +54,7 @@ Her last days were in **Florence**: admitted to the **Arcispedale di Santa Maria
 - **Antonio to Fulvia, 14 Nov 1940 (Zara):** [AZtoFZ141140-01.jpg](../media/docs/correspondence/antonio-ester-to-fulvia/AZtoFZ141140-01.jpg) — Ester active with the **San Vincenzo de' Paoli** charity; managing the children's boarding-school holiday logistics.
 - Zara context: [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md) · [media/collections/zerauschek/](../media/collections/zerauschek/).
 - Addobbati narrative: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Export identifiers:** **treeId** **I15** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I15**.
 
 ### Zara album (pre-marriage album 01)
 

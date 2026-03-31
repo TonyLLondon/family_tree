@@ -15,7 +15,7 @@ children:
 
 # Caspar Stumpp
 
-**Caspar Stumpp**—the export also gives **Casper STUMP**, **Caspar Stump**—was born **26 October 1596** at **Buchackern**, **Thurgau**. He married [Anna Schuemperli](anna-schuemperli.md) and was father of [Augustin Stumpf](augustin-stumpf.md). Parents: [Blaesi Stump](blaesi-stump.md) and [Madalena Bruewschwyler](madalena-bruewschwyler.md), married about **1590** at **Sulgen**. Death **Y** without date in export.
+**Caspar Stumpp**—the working tree also gives **Casper STUMP**, **Caspar Stump**—was born **26 October 1596** at **Buchackern**, **Thurgau**. He married [Anna Schuemperli](anna-schuemperli.md) and was father of [Augustin Stumpf](augustin-stumpf.md). Parents: [Blaesi Stump](blaesi-stump.md) and [Madalena Bruewschwyler](madalena-bruewschwyler.md), married about **1590** at **Sulgen**. Death **Y** without date in the working tree.
 
 ## Family
 
@@ -25,7 +25,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I163** — unions **F82**, **F83** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LW8F-1VX**.
+- **Tree id:** **I163** — unions **F82**, **F83**; FamilySearch **LW8F-1VX**.
 
 ## Open questions
 

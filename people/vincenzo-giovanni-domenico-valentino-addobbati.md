@@ -46,10 +46,10 @@ He died in Zara on 28 January 1839. The 1845 marriage of his posthumous “voice
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — 1 July 1804 Nin municipal confirmation — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Celić 1806 census:** “Vicko Addobbati” in Zara citizen council — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Export:** **treeId** **I29**, families F14 / F15 — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch GW1S-CGK.
+- **Tree id:** **I29**, families F14 / F15; FamilySearch GW1S-CGK.
 
 ## Open questions
 
 - **1839 death** — civil or church image bundle in the DAZD state archives.
-- **Sons Petar and Josip** (per Granić 1817) — not yet in the structured tree export.
+- **Sons Petar and Josip** (per Granić 1817) — not yet in the structured tree.
 - **Daughter Anna** — no birth record located yet.

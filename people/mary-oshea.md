@@ -36,7 +36,7 @@ She died **November 1968**; the exact day waits on an index image.
 - [Catherine Enright with daughters May, Maddy and Rose](../media/docs/Catherine%20Enright%20O%27Shea%20with%20daughters%20May%20Maddy%20and%20Rose.jpg) — May standing behind her seated mother with sisters Madeline and Teresa Rose ("Rose").
 - [White and Stump families, Geneva, c. 1953](../media/docs/White%20and%20Stump%20families%20Geneva%20c1953.jpg) — May on far right. Back row L–R: Mary White, Robert Stump, Gerald White, Molly Stump holding Mongie Stump, an au pair, May. Front: Susan Stump (Henderson), Kitty Stump (Lewis), Roland "Snookie" Stump. Source: Charlie Ginnane photocopy via Barbara Cantwell (Jul 2021).
 - [Bill and Mary White family, southern England, c. 1968](../media/docs/Bill%20and%20Mary%20White%20family%20southern%20England%20c1968.jpg) — May holding baby Sarah. L–R: May, Peter, Francis, "Uncle Timmy" (Bill), Patrick, Richard, Clare, Jo. Source: same provenance.
-- **Export:** **treeId** **I13** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Marital union **F8** with Gerald.
+- **Tree id:** **I13**. Marital union **F8** with Gerald.
 
 ## Open questions
 

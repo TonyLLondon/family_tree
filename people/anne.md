@@ -34,7 +34,7 @@ She married [Thomas Griffiths](thomas-griffiths.md) of Trecastle, Breconshire, a
 
 - [1871 census — Griffiths household, Aberdare](../media/docs/1871-census-griffiths-household-aberdare-rg10-5405.jpg) — RG10/5405. Anne age 41, wife.
 - [1881 census — Griffiths household, Aberdare](../media/docs/1881-census-griffiths-household-aberdare-rg11-5320.jpg) — RG11/5320. Ann age 52, wife. Mother **Sarah Morgan** (75) listed as "Mother in law" (i.e. Thomas's mother-in-law = Anne's mother), confirming maiden name **Morgan**.
-- **Export:** **treeId** **I423** — union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I423** — union **F188**.
 
 ## Open questions
 

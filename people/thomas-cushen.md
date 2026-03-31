@@ -92,9 +92,8 @@ All are phonetic renderings of the Irish surname **Coisín** / **Cuisín** (angl
 - **1871 — Dowlais** — Pat Cushion (60, boarder, labourer, Ireland), living in son-in-law Pat Welsh's household with daughter Ann (21). RG 10/5398 ([image](../media/docs/1871-census-pat-cushion-boarder-dowlais-rg10-5398.jpg)).
 - **1881 — Royal Oak Inn, Penydarren** — Patrick Cushen (70, father-in-law, widower, overman, Ireland). RG 11/5315 ([image](../media/docs/1881-census-patrick-cushen-royal-oak-penydarren-rg11-5315.jpg)).
 
-**Export:**
-
-- **treeId** **I177** — union **F89**; FamilySearch **KJ5C-P89**; **Geni** URL in **SOUR** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+**Tree id:**
+- **treeId** **I177** — union **F89**; FamilySearch **KJ5C-P89**; **Geni** URL in **SOUR**.
 
 ## Open questions
 

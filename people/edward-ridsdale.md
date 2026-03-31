@@ -12,7 +12,7 @@ children:
 
 # Edward Ridsdale
 
-**Edward Ridsdale** was born **1735** (year in graph). He married [Elizabeth Romley](elizabeth-romley.md)—**28 July 1772**, **Whitgift**, **York**, **England** in export—and was father of [Frances Ridsdale](frances-ridsdale.md). Death **Y** without date or place in slice.
+**Edward Ridsdale** was born **1735** (year in graph). He married [Elizabeth Romley](elizabeth-romley.md)—**28 July 1772**, **Whitgift**, **York**, **England** in the import—and was father of [Frances Ridsdale](frances-ridsdale.md). Death **Y** without date or place in slice.
 
 ## Family
 
@@ -21,7 +21,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I287** — union **F135** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I287** — union **F135**.
 
 ## Open questions
 

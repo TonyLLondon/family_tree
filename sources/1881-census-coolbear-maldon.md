@@ -1,6 +1,6 @@
 # 1881 Census — Coolbear household, Bambridge Road, Maldon
 
-**George Gridley Coolbear** (36, bill poster & hawker, born Hazeleigh) and **Alma** née Newcomb (27, born Essex) with five children at Bambridge Road, All Saints, Maldon. George is a bill poster and itinerant hawker — Alma assists in the trade. The two eldest children (Ellen Alice, ~1868; Charles, ~1871) predate the GEDCOM marriage date of 1879, suggesting either an earlier marriage or children from George's prior relationship.
+**George Gridley Coolbear** (36, bill poster & hawker, born Hazeleigh) and **Alma** née Newcomb (27, born Essex) with five children at Bambridge Road, All Saints, Maldon. George is a bill poster and itinerant hawker — Alma assists in the trade. The two eldest children (Ellen Alice, ~1868; Charles, ~1871) predate the legacy export marriage date of 1879, suggesting either an earlier marriage or children from George's prior relationship.
 
 ## Reference
 

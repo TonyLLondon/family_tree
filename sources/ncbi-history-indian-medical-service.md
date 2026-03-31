@@ -7,7 +7,7 @@ people: []
 
 # NCBI — History of the Indian Medical Service
 
-**URL:** https://ncbi.nlm.nih.gov/pmc/articles/PMC5165998/  
+**URL:** https://ncbi.nlm.nih.gov/pmc/articles/PMC5165998/
 **Corpus:** [sources/corpus/ncbi-history-indian-medical-service/](corpus/ncbi-history-indian-medical-service/)
 
 Peer-reviewed article on the history of the Indian Medical Service. Secondary source for the institutional structure of the AMD/IMS and rank progression in the period relevant to William O'Byrne White (1865–1885).

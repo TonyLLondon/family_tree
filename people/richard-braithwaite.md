@@ -15,7 +15,7 @@ children:
 
 # Richard Braithwaite
 
-Richard Braithwaite was father of [Ann Braithwaite](ann-braithwaite.md). The export’s household record for Ann names no wife—her mother is not named there. He was born 19 May 1621 (Cartmel in the name block; christening the same day at Saint Mary, Luton, Bedfordshire—a Geni-style conflict to resolve in registers). He died 14 April 1679 and was buried at Windermere, Westmorland. His parents were [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md) and [Lady Frances Lawson](lady-frances-lawson.md), who married on 4 May 1617 at Hurworth-on-Tees.
+Richard Braithwaite was father of [Ann Braithwaite](ann-braithwaite.md). The working tree’s household record for Ann names no wife—her mother is not named there. He was born 19 May 1621 (Cartmel in the name block; christening the same day at Saint Mary, Luton, Bedfordshire—a Geni-style conflict to resolve in registers). He died 14 April 1679 and was buried at Windermere, Westmorland. His parents were [Richard Braithwaite (of Hurworth)](richard-braithwaite-2.md) and [Lady Frances Lawson](lady-frances-lawson.md), who married on 4 May 1617 at Hurworth-on-Tees.
 
 ## Family
 
@@ -24,9 +24,9 @@ Richard Braithwaite was father of [Ann Braithwaite](ann-braithwaite.md). The exp
 
 ## Evidence
 
-- **Export:** **treeId** **I194** — unions **F98**, **F99** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I194** — unions **F98**, **F99**.
 
 ## Open questions
 
 - **Cartmel** vs **Luton** christening conflict.
-- Spouse for Ann’s mother in the export household that lists Ann as child.
+- Spouse for Ann’s mother in the working tree household that lists Ann as child.

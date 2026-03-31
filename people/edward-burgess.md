@@ -129,9 +129,8 @@ Anna's testimony (interview, Leicester, March 1880) provides the only account of
 - [NYPL Burgess family papers — finding aid](../sources/corpus/nypl-archives-mss-431-curl-mirror/) — Series VII (Box 9) holds ~70 watercolours/sketches, cartes-de-visite of Henry Burgess / Anna / Fanny / Queen Victoria and others, "snapshots of unidentified individuals," and genealogical material. **No carte-de-visite or photograph of Edward is listed.** In-person examination of Box 9 at the Schwarzman Building (Fifth Avenue at 42nd Street) is the only remaining path to a visual likeness.
 - **Lady Mary Sheil**, *Glimpses of Life and Manners in Persia* (London: John Murray, 1856), Ch. 13 (pp. 200–201) — contemporary testimony from the wife of the British Minister in Tehran (1849–53). Describes Edward (unnamed, as "an English gentleman") managing the public gazette, censoring content, and running a separate **confidential intelligence bulletin** for the Shah and Prime Minister. [Digital text (Bahai Library)](https://bahai-library.com/shiel_glimpses_life_persia&chapter=13) · [corpus extract](../sources/corpus/lady-sheil-glimpses-persia-ch13/extracted.web.md).
 
-**Export:**
-
-- **treeId** **I79** — parents’ union **F40** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+**Tree id:**
+- **treeId** **I79** — parents’ union **F40**.
 
 ### British Newspaper Archive (FindMyPast, March 2026)
 

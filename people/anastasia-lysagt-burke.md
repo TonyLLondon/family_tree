@@ -38,4 +38,4 @@ The Lysaght connection was decisive: it gave the dispossessed Roches a foothold 
 ## Evidence
 
 - [Burke's *History of Commoners* (1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/extracted.pdf.md): "Anastasia, elder daughter and co-heir of Thomas Lysaght, esq."
-- **Export:** **treeId** **I368** — unions **F172**, **F178** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KCQZ-SZY**.
+- **Tree id:** **I368** — unions **F172**, **F178**; FamilySearch **KCQZ-SZY**.

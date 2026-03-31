@@ -45,13 +45,12 @@ Parents: Hermann Eberhard Erbe; Emilie Ida Eylandt. Brother (vault page): [Eugen
 - [Estonian Biographical Center — Stump report (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — marriage 22 June 1868, children’s vitals, Marc’s career and 1903 Yverdon death note.
 - [Eugen Edmund Erbe](eugen-edmund-erbe.md) — brother; [Erbe Baltic web summary](../sources/erbe-baltic-german-web-references.md). Standalone biography under “Olga Caroline Erbe” was not located in a March 2026 open-web sweep; parish imaging remains primary.
 
-**Export:**
-
-- **Export:** **treeId** **I141** — marriage union **F70**; parents’ union **F140** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). Child rows match [Jean Jacque Stump](jean-jacque-stump.md), [Arthur Roger Stump](arthur-roger-stump.md), [Marguerite Emilie Stump](marguerite-emilie-stump.md), [Antoinette Stump](antoinette-stump.md), and [Étienne Stump](etienne-stump.md). MyHeritage / Geni blocks under **`@S43@`** on Hermann and Emilie — secondary until microfilm check.
+**Tree id:**
+- **Tree id:** **I141** — marriage union **F70**; parents’ union **F140**. Child rows match [Jean Jacque Stump](jean-jacque-stump.md), [Arthur Roger Stump](arthur-roger-stump.md), [Marguerite Emilie Stump](marguerite-emilie-stump.md), [Antoinette Stump](antoinette-stump.md), and [Étienne Stump](etienne-stump.md). MyHeritage / Geni blocks under **`@S43@`** on Hermann and Emilie — secondary until microfilm check.
 - if hand-edited after import.
 
 ## Open questions
 
 - St Petersburg birth: which register series (Orthodox, Lutheran, civil) and whether the family was posted long-term or briefly in the capital.
-- “Talinn” vs “Tallinn” in older exports — one jurisdiction or two for marriage and death.
+- “Talinn” vs “Tallinn” in older tree copies — one jurisdiction or two for marriage and death.
 - Étienne’s birth: confirm 7 March 1880 vs stray July date in some exports against grave and any Swiss passport file.

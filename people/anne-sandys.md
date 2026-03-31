@@ -13,7 +13,7 @@ children:
 
 # Anne Sandys
 
-**Anne Sandys** was born about **1488** at **Esthwaite**, **Lancashire**. She married [Richard Braithwait](richard-braithwait.md) and was mother of [Robert Braithwait](robert-braithwait.md). The export flags a death **Y** without year.
+**Anne Sandys** was born about **1488** at **Esthwaite**, **Lancashire**. She married [Richard Braithwait](richard-braithwait.md) and was mother of [Robert Braithwait](robert-braithwait.md). The working tree flags a death **Y** without year.
 
 ## Family
 
@@ -22,7 +22,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I324** — union **F154** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LZXJ-J8C**.
+- **Tree id:** **I324** — union **F154**; FamilySearch **LZXJ-J8C**.
 
 ## Open questions
 

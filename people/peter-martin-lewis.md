@@ -27,10 +27,10 @@ A **birthday reminder sheet** Peter created for his family lists the key dates w
 - Siblings: **Valerie** ("Baba"), **Michele** (Michael), [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md), **Marco**.
 - Wife: **Anne** (born **23 August 1960**).
 - Children:
-  - **Gemma** (born **26 January 1984**)
-  - **Haley** (born **15 February 1985**)
-  - **Clara** (born **5 January 1988**)
-  - **Robert** (born **20 November 1989**)
+ - **Gemma** (born **26 January 1984**)
+ - **Haley** (born **15 February 1985**)
+ - **Clara** (born **5 January 1988**)
+ - **Robert** (born **20 November 1989**)
 
 All six names appear on a printed Christmas card: *"Merry Christmas and a Happy New Year from Peter, Anne, Gemma, Haley, Clara and Robert."*
 
@@ -41,6 +41,5 @@ All six names appear on a printed Christmas card: *"Merry Christmas and a Happy 
 - **1998 birthday calendar:** [PMLBDayCalendar-01.jpg](../media/docs/souvenirs/peter-lewis-family/PMLBDayCalendar-01.jpg) through [-13](../media/docs/souvenirs/peter-lewis-family/PMLBDayCalendar-13.jpg) — Italian-language calendar for 1998, compiled by Peter, with photos and birth years for extended family members across both the Lewis and Zerauschek/Rivolta sides.
 - **Christmas card:** [PMLBDayCalendar-01.jpg](../media/docs/souvenirs/peter-lewis-family/PMLBDayCalendar-01.jpg) — cover page signed "from Peter, Anne, Gemma, Haley, Clara and Robert," with a child's drawing of a Christmas living room scene.
 
-**Export:**
-
-- **treeId** **I39** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). Chart label "Peter Morgan LEWIS" vs memoir "Peter Martin Lewis" — both preserved in YAML `also_known_as`.
+**Tree id:**
+- **treeId** **I39**. Chart label "Peter Morgan LEWIS" vs memoir "Peter Martin Lewis" — both preserved in YAML `also_known_as`.

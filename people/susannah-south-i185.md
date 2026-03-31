@@ -35,5 +35,5 @@ Decades later, Alma married **Reuben South** after George Coolbear's death — m
 ## Open questions
 
 - **Natal family:** Which South household was she born into? James South (b. ~1809) or a sibling of James and Reuben? Abraham South (b. ~1786, Layer de la Haye) is the patriarch.
-- **Cousins connection:** Alma is listed as "granddaughter" of John and Elizabeth Cousins in 1861. If the Cousins are maternal grandparents, Susannah's mother (not father) was a Cousins — meaning Susannah's full maiden name might have been Cousins, with "South" being an error or alternate family name in the GEDCOM. Alternatively, the Cousins connection runs through a different route.
+- **Cousins connection:** Alma is listed as "granddaughter" of John and Elizabeth Cousins in 1861. If the Cousins are maternal grandparents, Susannah's mother (not father) was a Cousins — meaning Susannah's full maiden name might have been Cousins, with "South" being an error or alternate family name in the working tree. Alternatively, the Cousins connection runs through a different route.
 - **Fate after 1857:** Like James, Susannah vanishes. Death may be registered outside Maldon, or under a remarried name.

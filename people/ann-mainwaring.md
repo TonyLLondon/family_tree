@@ -57,9 +57,8 @@ Her father Evan's trade as a **mason** passed to her son [David Cushen](david-cu
 - **1871 census** — Anne Cushing (47, wife, Llansamlet). RG 10/5397 ([image](../media/docs/1871-census-thomas-cushing-household-dowlais-rg10-5397.jpg)).
 - **GRO death, Jul 1875** — Ann Cushen, Merthyr Tydfil, Vol 11A p. 227. Burial: Dowlais.
 
-**Export:**
-
-- **treeId** **I178** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). GEDCOM gives parents as Richard Mainwaring and Mary Richards (married 25 Oct 1825, Merthyr) and a christening at Merthyr 18 Jun 1828 — **primary sources disprove this**. The Swansea St Mary baptism (1826) gives parents as Evan and Margaret; burial indexes confirm both Evan (b. ~1781) and Margaret (b. ~1785) at St Mary's, Swansea; their marriage was also at St Mary's. The GEDCOM conflates a different Ann Mainwaring.
+**Tree id:**
+- **treeId** **I178**. The working tree gives parents as Richard Mainwaring and Mary Richards (married 25 Oct 1825, Merthyr) and a christening at Merthyr 18 Jun 1828 — **primary sources disprove this**. The Swansea St Mary baptism (1826) gives parents as Evan and Margaret; burial indexes confirm both Evan (b. ~1781) and Margaret (b. ~1785) at St Mary's, Swansea; their marriage was also at St Mary's. That tree entry conflates a different Ann Mainwaring.
 
 ## Open questions
 

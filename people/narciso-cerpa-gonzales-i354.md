@@ -20,7 +20,7 @@ Son of [Francisco Cerpa](francisco-cerpa-i348.md) and [Ana González](ana-gonzal
 
 ## Evidence
 
-- **Export:** [Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **treeId** **I354**, birth family **F163** ([Francisco Cerpa](francisco-cerpa-i348.md) × [Ana González](ana-gonzalez-i349.md)).
+- **Tree id:** — **treeId** **I354**, birth family **F163** ([Francisco Cerpa](francisco-cerpa-i348.md) × [Ana González](ana-gonzalez-i349.md)).
 - **Site:** [Ancestor chart](/chart) — same compiled graph as the vault.
 - Research hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
 

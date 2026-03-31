@@ -39,4 +39,4 @@ Burke's 1833:
 
 - [Burke's *History of Commoners* (1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/extracted.pdf.md): "His eldest son, Robert Roche, espoused Juliana O'Moore, daughter of Alexander O'Moore, of Ballina, in the county of Kildare."
 - [Lewis, *Topographical Dictionary* (1837) — Castletown-Roche](../sources/corpus/lewis-topographical-castletown-roche-1837/extracted.web.md): 1649 siege of Castletown-Roche castle; Cromwellian confiscation.
-- **Export:** **treeId** **I369** — unions **F173**, **F174** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K8GF-PM2**.
+- **Tree id:** **I369** — unions **F173**, **F174**; FamilySearch **K8GF-PM2**.

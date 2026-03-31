@@ -25,7 +25,7 @@ William Stephen was a farmer at Llanarthne. Search for further records:
 
 ## 1861 census
 
-Lewis Lewis (~48) at Aberavon/Port Talbot not yet found. GEDCOM reference RG09/4046 is wrong (Gelligaer). The Lewis Lewis at Lantwit Juxta/Resolven (RG 9/4087) is a different man (collier, wife Anne from Carmarthenshire). May be mis-indexed or on a damaged page.
+Lewis Lewis (~48) at Aberavon/Port Talbot not yet found. RG09/4046 from an older export is wrong (Gelligaer). The Lewis Lewis at Lantwit Juxta/Resolven (RG 9/4087) is a different man (collier, wife Anne from Carmarthenshire). May be mis-indexed or on a damaged page.
 
 ## Rachel after 1872
 

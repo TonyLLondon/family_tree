@@ -19,13 +19,13 @@ children:
 
 Anna Margaretha Freyenmuth was christened **15 September 1743** at **Wigoltingen** (Wagerswil, Engwang), Thurgau ([FVVF-NX7](https://www.familysearch.org/ark:/61903/1:1:FVVF-NX7)), daughter of **Hans Jacob Freyenmuth** and **Anna Margaretha Keller**. She married [Hans Conrad Haag](hans-conrad-haag.md) on 12 December 1765 and was mother of [Anna Margaretha Hagg](anna-margaretha-hagg.md).
 
-The GEDCOM gives the christening date as 15 October 1743, one month off from the indexed record's September. Two independent FamilySearch collections agree on September.
+The working tree gives the christening date as 15 October 1743, one month off from the indexed record's September. Two independent FamilySearch collections agree on September.
 
 ## Life
 
 - **15 Sep 1743** — Christened at Wigoltingen (Wagerswil, Engwang), Thurgau.
 - **12 Dec 1765** — Marriage to Hans Conrad Haag.
-- **Death** — flagged without date in the GEDCOM extract.
+- **Death** — flagged without date in the working tree extract.
 
 ## Family
 
@@ -40,7 +40,7 @@ The GEDCOM gives the christening date as 15 October 1743, one month off from the
 | [FVVF-NX7](https://www.familysearch.org/ark:/61903/1:1:FVVF-NX7) | Baptism — 15 Sep 1743, Wigoltingen | [corpus](../sources/corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/reference.md) |
 | [FVJZ-3ZV](https://www.familysearch.org/ark:/61903/1:1:FVJZ-3ZV) | Marriage — Haag × Freyenmuth, 1765 | [corpus](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
 
-**Export:** **treeId** **I183** — union **F92** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K81F-HS2**.
+**Tree id:** **I183** — union **F92**; FamilySearch **K81F-HS2**.
 
 ## Open questions
 

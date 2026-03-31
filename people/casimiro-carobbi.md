@@ -15,7 +15,7 @@ children:
 
 # Casimiro Carobbi
 
-**Casimiro Carobbi** was born in **Senj** (Segna) on the Croatian coast; he married [Marianna Billicich](marianna-billicich.md) **5 May 1820** at **Kotor** (place string as in export) and was father of [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md). He died **5 April 1866** at **Zara**.
+**Casimiro Carobbi** was born in **Senj** (Segna) on the Croatian coast; he married [Marianna Billicich](marianna-billicich.md) **5 May 1820** at **Kotor** (place string as in the import) and was father of [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md). He died **5 April 1866** at **Zara**.
 
 ## Context
 
@@ -39,7 +39,7 @@ The Carobbi trajectory — Senj (birth) → Kotor (marriage 1820) → Zara (sett
 
 ## Evidence
 
-- **Export:** **treeId** **I63** — unions **F31**, **F32** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); Geni URL in **SOUR**; FamilySearch **L22T-TMX**.
+- **Tree id:** **I63** — unions **F31**, **F32**; Geni URL in **SOUR**; FamilySearch **L22T-TMX**.
 - **Death register, Zara, 1866:** [media/collections/zerauschek/Zerauschek (1)/Death Casimiro Carobbi Zara 1866.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Death%20Casimiro%20Carobbi%20Zara%201866.jpg) — untranscribed; may reveal occupation and age at death.
 - **Marriage register of daughter Vittoria, Zara, 1849:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Carobbi Zara 1849.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Carobbi%20Zara%201849.jpg) — untranscribed; marriage of Vittoria Carobbi × Simeone Boara (F11).
 
@@ -53,5 +53,5 @@ The Carobbi trajectory — Senj (birth) → Kotor (marriage 1820) → Zara (sett
 ## Open questions
 
 - **Senj ↔ Zara** move — trade or military family path before **1820** Kotor marriage.
-- **Casimiro's birth date** — not recorded in the merged export; Senj baptism registers would resolve this.
+- **Casimiro's birth date** — not recorded in the working tree; Senj baptism registers would resolve this.
 - **Other Carobbi children** — are there siblings of Vittoria Elisa born in Zara?

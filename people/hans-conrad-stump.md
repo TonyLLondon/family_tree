@@ -18,9 +18,9 @@ children:
 
 ## Life
 
-- **1702** — Born (year in export).
+- **1702** — Born (year in the working tree only).
 - **28 Sep 1728** — Marriage to Anna Barbel Kaegi (place not spelled out in family-record slice used here).
-- **Death** — Flag in export without date or place.
+- **Death** — Flag in the import without date or place.
 
 ## Family
 
@@ -29,9 +29,9 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I148** — unions **F74**, **F76** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K67V-HSP**.
+- **Tree id:** **I148** — unions **F74**, **F76**; FamilySearch **K67V-HSP**.
 
 ## Open questions
 
 - Death — **Sulgen** burial after **1728** marriage.
-- **Kaeg** parental union in export—parents of Anna Barbel.
+- **Kaeg** parental union in the working tree—parents of Anna Barbel.

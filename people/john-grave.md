@@ -13,7 +13,7 @@ children:
 
 # John Grave
 
-**John Grave** was born **1560** in **Westmorland**. He married [Jennett](jennett.md) and fathered [William Grave](william-grave.md). The export marks a death **Y** without date.
+**John Grave** was born **1560** in **Westmorland**. He married [Jennett](jennett.md) and fathered [William Grave](william-grave.md). The working tree marks a death **Y** without date.
 
 ## Family
 
@@ -22,7 +22,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I94** — union **F46** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I94** — union **F46**.
 
 ## Open questions
 

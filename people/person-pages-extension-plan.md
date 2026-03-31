@@ -1,6 +1,6 @@
 # Plan — extending `people/*.md`
 
-This complements **[ancestor-coverage-list.md](ancestor-coverage-list.md)** (strict **parents-only** path from `@I1@`). Here we define **who gets a page**, **how deep to write**, and **where the evidence already lives**.
+This complements **[ancestor-coverage-list.md](ancestor-coverage-list.md)** (strict **parents-only** path from **I1**). Here we define **who gets a page**, **how deep to write**, and **where the evidence already lives**.
 
 ---
 
@@ -10,10 +10,10 @@ This complements **[ancestor-coverage-list.md](ancestor-coverage-list.md)** (str
 |------|-----|--------|
 | **A — Ancestors** | Everyone on [ancestor-coverage-list.md](ancestor-coverage-list.md) | Eventually one `people/` file each; depth follows evidence (see phases below). |
 | **B — Priority collateral** | **Tamar Saginian** · **Dr. William Cormick** | Explicitly **keep** full articles; not on strict ancestor list but central to Persia narrative and sources. |
-| **C — Siblings & significant others** | Full/half siblings of ancestors; spouses not on strict list when they anchor a branch or story | Add a page when (1) they appear in **`family-tree.json`** with unions, **and** (2) you have **either** narrative + sources **or** **named media** (cert, photo, article). Skip endless “name-only” GEDCOM individuals until something attaches. |
-| **D — Descendants (recent)** | Children of `@I1@`, siblings of `@I1@`, nieces/nephews | Optional; useful for living privacy boundaries — use **`family-tree.json`** as the list; write only where you want a public biography. |
+| **C — Siblings & significant others** | Full/half siblings of ancestors; spouses not on strict list when they anchor a branch or story | Add a page when (1) they appear in the **structured tree** with unions, **and** (2) you have **either** narrative + sources **or** **named media** (cert, photo, article). Skip endless “name-only” placeholders until something attaches. |
+| **D — Descendants (recent)** | Children of **I1**, siblings of **I1**, nieces/nephews | Optional; useful for living privacy boundaries — use the **structured tree** as the list; write only where you want a public biography. |
 
-**Authoritative structure:** **`family-tree.json`** (571 people, unions, edges). Use GEDCOM / ancestor list for import history; prefer **JSON `id`** (`I3`, …) in YAML on new pages when it matches.
+**Authoritative structure:** **[Structured family tree](../family-tree.json)** (571 people, unions, edges). Prefer **`id`** (`I3`, …) in YAML on new pages when it matches the tree.
 
 ---
 
@@ -21,7 +21,7 @@ This complements **[ancestor-coverage-list.md](ancestor-coverage-list.md)** (str
 
 Use the same skeleton so pages feel like one wiki:
 
-1. **YAML frontmatter** — `name`, `gedcom` or `treeId: I…`, dates/places if known, `sex`, `generation` or `era`, optional `spouses:` as slugs.
+1. **YAML frontmatter** — `name`, `treeId: I…` (and optional import-era tags if needed), dates/places if known, `sex`, `generation` or `era`, optional `spouses:` as slugs.
 2. **Opening paragraph** — One tight summary (who, when, why they matter in *your* story).
 3. **Life** — Chronological bullets; mark uncertain items `(est.)`.
 4. **Family** — Links to `people/…` + short note on non-documented children.
@@ -53,14 +53,14 @@ These files exist but stay thin. You already have citations or files to weave in
 
 ## Phase 2 — **Create** pages with **strong local evidence**
 
-New files; you can draft from `family-tree.json` + scans already in **`media/docs/`** or **`media/albums/henderson/`**.
+New files; you can draft from the **structured tree** + scans already in **`media/docs/`** or **`media/albums/henderson/`**.
 
 | Target file (suggested) | Tree id (JSON) | Evidence to lead with |
 |-------------------------|----------------|------------------------|
-| `anthony-robert-lewis.md` | `I1` | `family-tree.json`; birth Macclesfield; spouse/children from unions — keep living details minimal if preferred. |
-| `ivor-anthony-samuel-lewis.md` | `I2` | GEDCOM notes; Florence birth; link to David + Fulvia. |
-| `catherine-stump.md` | `I3` | Mother of `@I1@`; link Robert Stump, Gerald White line; Surrey birth registration in JSON if present. |
-| `david-john-lewis.md` | `I8` | Major, Merthyr, Sirmione burial; MyHeritage URL in GEDCOM text; Welsh census refs. |
+| `anthony-robert-lewis.md` | `I1` | Structured tree + narrative; birth Macclesfield; spouse/children from unions — keep living details minimal if preferred. |
+| `ivor-anthony-samuel-lewis.md` | `I2` | Florence birth; link to David + Fulvia. |
+| `catherine-stump.md` | `I3` | Mother of **I1**; link Robert Stump, Gerald White line; Surrey birth registration in tree if present. |
+| `david-john-lewis.md` | `I8` | Major, Merthyr, Sirmione burial; Welsh census refs. Links to chart sources in vault/research if needed. |
 | `fulvia-ottilia-antonia-zerauschek.md` | `I9` | Italian civil line; link both Antonios; `media/collections/zerauschek/`. |
 | `maureen-catherine-finbarr-white.md` | `I10` | Irish line; Roche/O’Shea; narrative role in Henderson chart. |
 | `robert-marc-murard-stump.md` | `I11` | Tehran children; link Étienne; photos in Henderson / `media/docs/` (Stump, Robert). |
@@ -83,20 +83,20 @@ New files; you can draft from `family-tree.json` + scans already in **`media/doc
 
 ## Phase 3 — **Siblings & other unions** (Tier C)
 
-Use **`family-tree.json`** (`unions` / `people`) to list siblings of people in Phase 1–2. Prioritize:
+Use the **structured tree** (`unions` / `people`) to list siblings of people in Phase 1–2. Prioritize:
 
 - **Burgess siblings** of Edward (Charles H, Joseph, George, Mary, etc. on Henderson chart) — create only when you add a source or image.
 - **Stump siblings** of Robert (Theo, Irene, Jacques, Jean in Henderson) — link from `robert-marc-murard-stump.md` first; separate pages when you have obits or photos.
-- **Zal Saginian** (`family-tree.json`) — if same as “Zal” in interview notes, one short page + source link.
+- **Zal Saginian** (structured tree) — if same as “Zal” in interview notes, one short page + source link.
 - **Spouses** of Lewis/Stump lines appearing in JSON with marriage events — page when census or civil registration exists in `media/docs/`.
 
 ---
 
-## Phase 4 — **Long tail** (ancestors with GEDCOM name only)
+## Phase 4 — **Long tail** (ancestors with name-only tree stubs)
 
 Remaining rows in [ancestor-coverage-list.md](ancestor-coverage-list.md) (Italian parish stacks, Swiss Stump depth, Braithwaite/Lawson, etc.):
 
-- **Stub rule:** YAML + 2 sentences + `treeId` + link to parents’ pages + “Evidence: GEDCOM only — pending.”
+- **Stub rule:** YAML + 2 sentences + `treeId` + link to parents’ pages + “Evidence: tree placeholder only — pending.”
 - **Promotion:** When you add a parish image, mirror HTML, or publication cite, expand to Phase 2 standard.
 
 ---
@@ -113,13 +113,13 @@ Remaining rows in [ancestor-coverage-list.md](ancestor-coverage-list.md) (Italia
 
 ## Maintenance
 
-- After bulk edits to **`family-tree.json`**, re-run `python scripts/generate_ancestor_coverage_list.py` and reconcile any renamed `people/` stems.
+- After bulk edits to the **structured tree**, re-run `python scripts/generate_ancestor_coverage_list.py` and reconcile any renamed `people/` stems.
 - When you ingest a new PDF for someone, add **`sources/corpus/<slug>/`** and link from their person page **Evidence** section.
 
 ---
 
 ## Related files
 
-- [ancestor-coverage-list.md](ancestor-coverage-list.md) — strict ancestor enumeration  
-- [../family-tree.json](../family-tree.json) — full graph  
-- [../index.md](../index.md) — media layout map  
+- [ancestor-coverage-list.md](ancestor-coverage-list.md) — strict ancestor enumeration
+- [Structured family tree](../family-tree.json) — full graph (machine-readable)
+- [../index.md](../index.md) — media layout map

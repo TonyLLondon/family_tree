@@ -21,7 +21,7 @@ children:
 
 Simeone Vincenzo Boara—known in Croatian as **Šimun**—was the husband of [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md) and father of [Ottilia Anna Vincenza Boara](ottilia-anna-vincenza-boara.md). They married on 8 August 1849 at Sv. Šime, Zara. Geni URLs use **Šimun Boara**. The structured tree lists him as *assessore comunale* (municipal councillor) in Zara in 1855 and 1891 (**@S12@**).
 
-**Data hygiene:** The export’s **F11** note names Lucia Boara (born Bozich) while the wife pointer is [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md)—likely a first-wife remnant. **F204** repeats Simeone with spouse I558 and the same 1849 date; treat **F11** as the union that produces Ottilia (I21) and Artemisia (I62) in the graph.
+**Data hygiene:** The working tree’s **F11** note names Lucia Boara (born Bozich) while the wife pointer is [Vittoria Elisa Carobbi](vittoria-elisa-carobbi.md)—likely a first-wife remnant. **F204** repeats Simeone with spouse I558 and the same 1849 date; treat **F11** as the union that produces Ottilia (I21) and Artemisia (I62) in the graph.
 
 ## Context
 
@@ -52,7 +52,7 @@ The marriage church, **Sv. Šime** (Church of Saint Simeon), is one of Zadar's m
 
 ## Evidence
 
-- **Export:** **treeId** **I22** — unions **F11**, **F55**, **F204** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); **@S12@**; Geni note in **SOUR**.
+- **Tree id:** **I22** — unions **F11**, **F55**, **F204**; **@S12@**; Geni note in **SOUR**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — "landowners and intellectuals, very much Italians", eight children, inheritance dispute.
 - **Handwritten family tree (NTree01):** [media/docs/fulvia-family-tree-file/NTree01.jpg](../media/docs/fulvia-family-tree-file/NTree01.jpg) — Fulvia's hand; shows all eight Boara children with dates for Bate (1851–1924), Casimiro (1852–1931), Carmela (1858–1934); married names for Evelina (m. Velzek) and Artemia (m. Giuseppe Kirmayer).
 - **Marriage register of daughter Ottilia, Entry N. 8, 12 Feb 1890:** "Boara Simeone, da Zara, Cattolico, Possidente, Civile, Vivente" — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
@@ -64,7 +64,7 @@ The marriage church, **Sv. Šime** (Church of Saint Simeon), is one of Zadar's m
 
 - **DAZD Sv. Šime parish registers** — marriage record of 8 Aug 1849; baptism records for all eight children (would resolve the three unnamed). Access: [dazd.hr/en/books](https://www.dazd.hr/en/books).
 - **Portale Antenati** — [antenati.cultura.gov.it](https://antenati.cultura.gov.it) — Italian state digitization of civil registers; some Dalmatian records appear here.
-- **Lucia Bozich** — Sv. Šime marriage registers pre-1849 to determine whether she was a deceased first wife or a data error in the GEDCOM NOTE.
+- **Lucia Bozich** — Sv. Šime marriage registers pre-1849 to determine whether she was a deceased first wife or a data error in a working-tree note field.
 - **@S12@ original** — locate and image the source document behind the 1855 and 1891 assessore snapshots.
 - See also: [sources/wishlist/boara-carobbi-zara.md](../sources/wishlist/boara-carobbi-zara.md).
 

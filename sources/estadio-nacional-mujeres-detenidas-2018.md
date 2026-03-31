@@ -1,8 +1,8 @@
 ---
 title: "405 Women Detained at the Estadio Nacional, 1973 — Corporación Estadio Nacional Memoria Viva list"
 corpus:
-  - cambio21-405-mujeres-estadio-nacional-2018
-  - cctt-mujeres-estadio-nacional-2018
+ - cambio21-405-mujeres-estadio-nacional-2018
+ - cctt-mujeres-estadio-nacional-2018
 kind: web
 ---
 

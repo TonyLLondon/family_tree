@@ -20,7 +20,7 @@ Working translations alongside corpus bundles: e.g. Beytoote article — [annota
 
 | Asset | Role |
 |-------|------|
-| [family-tree.json](../family-tree.json) | Canonical structured tree (web app); schema 2 — sync from vault via [../scripts/sync_family_tree_json.py](../scripts/sync_family_tree_json.py) (GEDCOM optional gap-fill) |
+| [Structured family tree](../family-tree.json) | Canonical structured tree (web app); schema 2 — sync from vault via [../scripts/sync_family_tree_json.py](../scripts/sync_family_tree_json.py) |
 | [people/](../people/) | Person pages → sources, corpus, media |
 
 ## Media and archive
@@ -28,7 +28,7 @@ Working translations alongside corpus bundles: e.g. Beytoote article — [annota
 | Asset | Role |
 |-------|------|
 | [media/](../media/) | Scans, albums, PDFs — layout in [index.md](../index.md) |
-| [archive/](../archive/) | GEDCOM, exports, non-canonical bundles — [archive/index.md](../archive/index.md) |
+| [archive/](../archive/) | legacy export, exports, non-canonical bundles — [archive/index.md](../archive/index.md) |
 
 ## Wishlist (sources to obtain)
 

@@ -54,10 +54,85 @@ export interface SourceProvenance {
 /* ------------------------------------------------------------------ */
 
 /**
- * All unified source slugs: every citation card + every corpus bundle,
- * deduplicated. Each slug gets one page at /sources/[slug].
+ * Corpus slugs that are "owned" by a citation card — via `corpus:` in YAML
+ * frontmatter OR via markdown links to `corpus/<slug>/` in the body.
+ * These should not appear as separate index entries.
+ */
+function getOwnedCorpusSlugs(): Set<string> {
+  const owned = new Set<string>();
+  const sourcesDir = repoPath("sources");
+  if (!fs.existsSync(sourcesDir)) return owned;
+
+  for (const ent of fs.readdirSync(sourcesDir, { withFileTypes: true })) {
+    if (!ent.isFile() || !ent.name.endsWith(".md")) continue;
+    const abs = path.join(sourcesDir, ent.name);
+    try {
+      const raw = fs.readFileSync(abs, "utf8");
+      const { data, content } = matter(raw);
+
+      const c = data.corpus;
+      if (typeof c === "string") {
+        owned.add(c.replace(/^corpus\//, ""));
+      } else if (Array.isArray(c)) {
+        for (const x of c) owned.add(String(x).replace(/^corpus\//, ""));
+      }
+
+      const linkPattern = /\]\((?:\.\.\/sources\/)?corpus\/([^/)]+)/g;
+      let m: RegExpExecArray | null;
+      while ((m = linkPattern.exec(content)) !== null) {
+        owned.add(m[1]!);
+      }
+    } catch {
+      // skip unparseable files
+    }
+  }
+  return owned;
+}
+
+/**
+ * All unified source slugs: every citation card + every corpus bundle
+ * NOT already owned by a card. Each slug gets one page at /sources/[slug].
  */
 export function getAllSourceSlugs(): string[] {
+  const slugs = new Set<string>();
+
+  const sourcesDir = repoPath("sources");
+  if (fs.existsSync(sourcesDir)) {
+    for (const ent of fs.readdirSync(sourcesDir, { withFileTypes: true })) {
+      if (
+        ent.isFile() &&
+        ent.name.endsWith(".md") &&
+        ent.name !== "corpus-bibliography.md" &&
+        ent.name !== "master-source-list.md" &&
+        ent.name !== "legacy-index.md"
+      ) {
+        slugs.add(ent.name.replace(/\.md$/, ""));
+      }
+    }
+  }
+
+  const owned = getOwnedCorpusSlugs();
+
+  const corpusDir = repoPath("sources", "corpus");
+  if (fs.existsSync(corpusDir)) {
+    for (const ent of fs.readdirSync(corpusDir, { withFileTypes: true })) {
+      if (ent.isDirectory() && !ent.name.startsWith(".")) {
+        const corpusSlug = ent.name;
+        if (!owned.has(corpusSlug) && !slugs.has(corpusSlug)) {
+          slugs.add(corpusSlug);
+        }
+      }
+    }
+  }
+
+  return Array.from(slugs).sort();
+}
+
+/**
+ * Every slug that needs a /sources/[slug] static page — includes owned corpus
+ * slugs (they still need pages for direct links and /corpus/ redirects).
+ */
+export function getAllSourcePageSlugs(): string[] {
   const slugs = new Set<string>();
 
   const sourcesDir = repoPath("sources");

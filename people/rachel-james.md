@@ -15,7 +15,7 @@ children:
 
 Rachel was the **second wife** of [Lewis Lewis](lewis-lewis.md) (1813–1872). Baptised **9 October 1825** at **Llanarthne**, Carmarthenshire, the daughter of **William Stephen** (farmer) and **Mary**, she crossed the county boundary into Glamorganshire to marry a widower twelve years her senior whose first wife, [Mary Ann Prichard](lewis-lewis.md#first-wife-mary-ann-prichard-c-18051849), had been buried at Aberavon in July 1849.
 
-The GRO marriage index confirms the wedding: **Q4 1856**, Neath district, Vol 11A p. 784. MarriageFinder cross-references Lewis Lewis to **Rachel Stephens** and Betsey Williams — since we know the wife was Rachel, her maiden name was **Stephen(s)**. The GEDCOM's "James" (I428) was wrong. Their eldest son [David](david-john-lewis-1857.md) was baptised at Aberavon in August 1857, six months after the marriage was registered.
+The GRO marriage index confirms the wedding: **Q4 1856**, Neath district, Vol 11A p. 784. MarriageFinder cross-references Lewis Lewis to **Rachel Stephens** and Betsey Williams — since we know the wife was Rachel, her maiden name was **Stephen(s)**. The working tree once used **James** as her maiden name (**I428**); that was wrong. Their eldest son [David](david-john-lewis-1857.md) was baptised at Aberavon in August 1857, six months after the marriage was registered.
 
 By the [1871 census](../sources/1871-census-aberavon-lewis-lewis.md) Rachel gave her age as 41 (implying a birth of ~1830), five years younger than her actual baptism date. She was described as "Porter's Wife," with nine of her own children in the house — none of Lewis's first-marriage children remained. Lewis died in December 1872 and was buried at Aberavon, leaving Rachel a widow at 47 with nine children aged three to fifteen.
 
@@ -41,12 +41,12 @@ By the [1871 census](../sources/1871-census-aberavon-lewis-lewis.md) Rachel gave
 - [1871 census — Aberavon](../sources/1871-census-aberavon-lewis-lewis.md) — wife, age 41 (actually ~46), born Carmarthen, Carmarthenshire; nine children ([transcription](../sources/corpus/1871-census-aberavon-lewis-lewis-household-rg10-5424/transcription.md) · [image](../media/docs/1871-census-aberavon-lewis-lewis-household-rg10-5424.png)). RG 10/5424, schedule 460.
 - [Baptism of David Lewis, Aberavon, 1857](../sources/aberavon-baptism-david-lewis-1857.md) — mother listed as "Rachael" (no surname) ([transcription](../sources/corpus/aberavon-baptism-david-lewis-1857/transcription.md)).
 
-**Export (corrected):**
+**Tree ids (corrected):**
 
-- **treeId** **I428**; union **F189** with [Lewis Lewis](lewis-lewis.md) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- GEDCOM maiden name **James** is **wrong** — GRO MarriageFinder confirms **Stephen(s)**; baptism register confirms **Stephen**.
-- GEDCOM census references (RG09/4046, RG10/5388, RG11/5308) belong to a **different Lewis Lewis family** at Gelligaer. Actual 1871 reference: **RG10/5424**, Aberavon.
-- Death: export marks **DEAT Y** without date/place.
+- **treeId** **I428**; union **F189** with [Lewis Lewis](lewis-lewis.md).
+- The working tree’s maiden name **James** is **wrong** — GRO MarriageFinder confirms **Stephen(s)**; baptism register confirms **Stephen**.
+- That working tree’s census references (RG09/4046, RG10/5388, RG11/5308) belong to a **different Lewis Lewis family** at Gelligaer. Actual 1871 reference: **RG10/5424**, Aberavon.
+- Death: working-tree stub marks **DEAT Y** without date/place.
 
 ## Open questions
 

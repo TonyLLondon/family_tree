@@ -76,7 +76,7 @@ Confidence tags: **HIGH** (clear handwriting, structured grid), **MEDIUM** (legi
 
 ### New data for the vault
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Marriage date | **12 Feb 1890** | 12 Feb 1890 | **Confirmed** ✓ |
 | Marriage parish | **Basilica Metropolitana** (Zara Cathedral) | "Zara" (no parish specified) | **NEW** — specific parish identified |
@@ -116,7 +116,7 @@ Confidence tags: **HIGH** (clear handwriting, structured grid), **MEDIUM** (legi
 > **Testimoni (Witnesses):** Francesco Fort (Muratore), Giambattista Mapari[?] (falegname), Antonio Rivelli (falegname).
 > **Levatrice (Midwife):** Maria Stein[?].
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Birth date | **24 Jun 1889** at noon | 24 Jun 1889 | **Confirmed** ✓ |
 | Full name | **Antonio Carlo Giovanni Battista** | Antonio | **ADDITION** — three extra baptismal names |
@@ -168,7 +168,7 @@ Confidence tags: **HIGH** (clear handwriting, structured grid), **MEDIUM** (legi
 **Father's name — now understood (see #11 resolution):**
 - The 1878 marriage register names the groom's father in patronymic format — likely **"[qu.] Biagio, Giuseppe"** or simply abbreviates to the patronymic "Biaggio" (the grandfather's name was used as a shorthand identifier in some registers, especially for declarations made by family rather than the person themselves).
 - His mother as **Antonia** — matches **Antonia Maria Guerino** (`@I116@`), Giuseppe's wife. ✓
-- The 1850 birth record (resolved via Tony's direct reading, Mar 2026) confirms the GEDCOM chain: **Biagio (`@I387@`) → Giuseppe (`@I115@`) → Antonio senior (`@I25@`)**. The "Biaggio" in this marriage register is the patronymic/grandfather, not the father's given name.
+- The 1850 birth record (resolved via Tony's direct reading, Mar 2026) confirms the legacy export chain: **Biagio (`@I387@`) → Giuseppe (`@I115@`) → Antonio senior (`@I25@`)**. The "Biaggio" in this marriage register is the patronymic/grandfather, not the father's given name.
 
 **Action:** ~~Flag for re-examination~~ Resolved. Link image to `people/antonio-zerauschek-senior.md` and `people/anna-herenda.md`.
 
@@ -254,12 +254,12 @@ Confidence tags: **HIGH** (clear handwriting, structured grid), **MEDIUM** (legi
 **Extracted:**
 - One of entries 28–33 should record the Zerauschek–Guerino marriage in 1850.
 - This would confirm:
-  - Giuseppe's full name and age/birthdate
-  - Whether father is "Biagio" (matching both the 1878 discrepancy and the GEDCOM grandfather)
-  - Antonia Maria's parents (currently listed as Antonio Guerino and Maria Zuajetto per F183)
-  - Witnesses
+ - Giuseppe's full name and age/birthdate
+ - Whether father is "Biagio" (matching both the 1878 discrepancy and the legacy export grandfather)
+ - Antonia Maria's parents (currently listed as Antonio Guerino and Maria Zuajetto per F183)
+ - Witnesses
 
-**Cross-reference (now resolved):** The 1850 birth record (see #11, resolved Mar 2026) confirms parents' marriage as **24 August 1850** — matching the GEDCOM. The birth register shows "Illegitimo" crossed out, confirming the child was born before the wedding and later legitimized.
+**Cross-reference (now resolved):** The 1850 birth record (see #11, resolved Mar 2026) confirms parents' marriage as **24 August 1850** — matching the legacy export. The birth register shows "Illegitimo" crossed out, confirming the child was born before the wedding and later legitimized.
 
 **Parents section confirmed (Tony's direct reading + cropped image, Mar 2026):**
 The marriage register's parents block reads:
@@ -268,7 +268,7 @@ The marriage register's parents block reads:
 - **Guerino Antonio** — padre **defunto** (deceased by 1850)
 - **Zuajetto Maria** — madre **defunta** (deceased by 1850)
 
-Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, Antonio Guerino F183, Maria Zuajetto F183). New finding: **Biagio died before Aug 1850; Maria Schinkouz was still alive.**
+Every name matches the legacy export exactly (Biagio `@I387@`, Maria Schinkouz F182, Antonio Guerino F183, Maria Zuajetto F183). New finding: **Biagio died before Aug 1850; Maria Schinkouz was still alive.**
 
 **Action:** ~~Identify entry row~~ Resolved. Add "Biagio deceased before 1850" and "Maria Schinkouz alive 1850" to `people/biagio-zerauschek.md` and `people/maria-schinkouz.md`. Link image to both pages.
 
@@ -304,11 +304,11 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 - **Child's names:** **Antonio Giacomo Vincenzo** — male. Registered as **Illegitimo** (illegitimate), **then crossed out** — legitimized after parents' marriage.
 - **Father:** **Zerauschek [qu./di] Biagio, Giuseppe** — i.e. the father is **Giuseppe**, identified with his own father's (Biagio's) name as a patronymic chain. This is standard Italian register practice (*cognome, [patronymic], nome*). The connecting word between "Biagio" and "Giuseppe" is partially illegible but appears to indicate filiation.
 - **Mother:** **Guarino Antonia** — surname-first register ordering = **Antonia Maria Guerino** in the marriage certificate format.
-- **Parents' marriage:** **24 August 1850** — matches GEDCOM F58 exactly. Marriage was **after** the birth (confirming premarital birth, consistent with the crossed-out "Illegitimo").
+- **Parents' marriage:** **24 August 1850** — matches legacy export F58 exactly. Marriage was **after** the birth (confirming premarital birth, consistent with the crossed-out "Illegitimo").
 
 **Resolution of all previously-flagged "conflicts":**
 
-| Field | Birth record (1850) | GEDCOM / person page | Verdict |
+| Field | Birth record (1850) | legacy export / person page | Verdict |
 |-------|--------------------|-----------------------|---------|
 | Child's names | Antonio Giacomo Vincenzo | Antonio | **ADDITION** — two extra baptismal names to add |
 | Father | Giuseppe [di Biagio] Zerauschek | Giuseppe Zerauschek (`@I115@`) | **CONFIRMED** — "Biagio" is the patronymic (grandfather), not the father's given name |
@@ -317,7 +317,7 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 | Parents' marriage | 24 Aug 1850 | 24 Aug 1850 (F58) | **CONFIRMED** |
 | Legitimacy | Illegitimo, crossed out | "premarital birth" | **CONFIRMED** — born out of wedlock, legitimized by subsequent marriage |
 
-**The GEDCOM chain Biagio → Giuseppe → Antonio Sr. is correct.** No generation collapse. The earlier AI-assisted reading misinterpreted the patronymic "Biagio" as the father's given name.
+**A legacy export chain Biagio → Giuseppe → Antonio Sr. is correct.** No generation collapse. The earlier AI-assisted reading misinterpreted the patronymic "Biagio" as the father's given name.
 
 **Actions completed:** ~~Re-examine at higher resolution~~ — resolved by human reading.
 **Remaining actions:**
@@ -369,7 +369,7 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 **Key findings:**
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Groom name | **"Addobbati, Pietro"** | Pietro Paolo | Register uses primary baptismal name only |
 | Groom birth | **27 Apr 1815** | 27 Apr 1815 | **Confirmed** ✓ |
@@ -407,7 +407,7 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 **New data for the vault:**
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Birth date | **12 July 1825** | "born 1825" | **Precise date** — fills the gap |
 | Death date | **10 March 1908** | "after 1890" | **NEW** — precise date from marginal annotation |
@@ -460,12 +460,12 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 **Key findings:**
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Marriage date | **25 Feb 1811** | None (F14 had no date) | **NEW** |
 | Vincenzo's age | **~30 circa** | Born 1776 (Sabalich) or 1781 (DAZD) | **Supports DAZD 1781** — age ~30 in Feb 1811 = born ~1781; if 1776 he'd be ~35 |
 | Luigi Addobbati | **"fù"** (deceased) | No death info | **NEW** — dead before Feb 1811 |
-| Luigi's wife | **"fù" Maddalena Plavina** | "Plarino" (GEDCOM) / "Canona" (DAZD) | **Third variant** — "Plavina" = feminine of "Plavinò" (Sabalich's spelling); likely all the same person |
+| Luigi's wife | **"fù" Maddalena Plavina** | "Plarino" (legacy export) / "Canona" (DAZD) | **Third variant** — "Plavina" = feminine of "Plavinò" (Sabalich's spelling); likely all the same person |
 | Bride's parents | **Paolo Coltelli** (Pub. Notary) + **Devina Sandri** | None recorded | **NEW** — fills Vincenza's parentage |
 | Ceremony | In Casa della Sposa (bride's house), Cathedral parish | — | New |
 | Witnesses | Five civic/judicial officials | — | Socially significant wedding |
@@ -550,7 +550,7 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 | Recorded by | Don Michele Corsina, parish priest |
 | Banns | Dispensed (waived) |
 
-**Surname settled definitively:** The original 1766 marriage register says **Plarinò**. The GEDCOM's "Plarino" is correct (missing accent). The 1811 entry's "Plavina" is a later scribal variant / feminine form. The DAZD inventory's "Canona" is simply wrong — likely a misreading or confusion with the separate Plarinò × Canova 1732 marriage (image #27). The two families (Plarinò and Canova) intermarried one generation earlier, which explains the confusion.
+**Surname settled definitively:** The original 1766 marriage register says **Plarinò**. An older export’s **Plarino** spelling is correct (missing accent). The 1811 entry's "Plavina" is a later scribal variant / feminine form. The DAZD inventory's "Canona" is simply wrong — likely a misreading or confusion with the separate Plarinò × Canova 1732 marriage (image #27). The two families (Plarinò and Canova) intermarried one generation earlier, which explains the confusion.
 
 **Also notable:** banns waived, ceremony in the bride's house (same pattern as the 1811 Vincenzo × Coltelli wedding — an Addobbati family custom?). Witnesses were two physicians named Danieli.
 
@@ -610,9 +610,9 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 > On the 12th of March 1749. The three banns having been dispensed by the Most Illustrious and Most Reverend Archbishop, with the authority of the same, the Most Reverend Signor Primicerio Don Pietro Garo joined in Marriage with the customary words Signor Daniel Adobati, Citizen of Zara, with Signora Laura, daughter of the late Signor Salustio Tori, a Sienese nobleman, having conducted his interrogations and with their mutual consent. Witnesses: the Signori Giam Battista Lorenzo Adobatti, and Girolamo Lantana. And I, Don Giovanni Frangipani, delegate and Parish Priest of this Metropolitan Church, have made the present annotation.
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
-| Marriage date | **12 Mar 1749** | Not recorded (no second union in GEDCOM) | **NEW** |
+| Marriage date | **12 Mar 1749** | Not recorded (no second union in the legacy export) | **NEW** |
 | Groom | **Daniel Adobati**, Cittadino di Zara | I31 | **Confirmed** ✓ |
 | Bride | **Laura Tori**, d/o late Salustio Tori | Not in tree | **NEW** |
 | Bride's father | **Salustio Tori**, *Nobile Senese* (Sienese nobleman, deceased) | Not recorded | **NEW** — Tuscan minor nobility (see note below) |
@@ -642,7 +642,7 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 > Die 22 9bris 1730. Omissis Publicationibus, de Facultate Reverendissimi et Perillustris Domini Archiepiscopi Vincentii Zmaerich [Zmajević], ego Canonicus Petrus Bado, de licentia eiusdem Archiepiscopi, interrogavi Dominum Danielem Adobati et Dominam Margaritam filiam quondam Francisci Lanfranchi, eorumque mutuo consensu habito, matrimonio copulavi iuxta ritum Sanctae Matris Ecclesiae, praesentibus testibus notis Dominis Francisco Armanini et Petro Pilarino ac aliis multis.
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Marriage date | **22 Nov 1730** | Previously "14 Nov 1730" (misread from adjacent entry) | **CORRECTED** |
 | Language | Latin | — | Noted (earlier registers in Latin, later ones in Italian) |
@@ -685,7 +685,7 @@ Every name matches the GEDCOM exactly (Biagio `@I387@`, Maria Schinkouz F182, An
 
 > Dì 19 8bre 1732. Dispensate le tre solite pubblicationi di Mons.re Ill.mo et R.mo Arciv.o Zmaiovich, con di lui permissione da Carta, D. Pietro Cortese hò congiunto in Matrimonio questo dì, precedute le mie interrogationi, e il loro mutuo consenso, il S.r Pietro Plarinò con la S.ra Margherita figlia del q.m Gio Maria Canova, in Casa di loro habitatione, presenti il S.r Dom.co Bonaielli, e il S.r Gio Batta Romani con molti altri.
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Marriage date | **19 Oct 1732** | Not recorded (F64 had null) | **NEW** — now in JSON |
 | Groom | **Pietro Plarinò** | Pietro Plarino (I129) | **Confirmed** ✓ |
@@ -808,7 +808,7 @@ A systematic search of the repo and DAZD corpus found **no evidence for a second
 
 > **Lanfranchi** — Adì 2 Geno: 1715. Io D. Giorgio Bonicelli Reverendo e Curato del Duomo di Zara per causa d'imminente necessità ho Battezato in casa una Bambina nata li 26 Xbre 1715 figlia del Sig.r Franc.o Lanfranchi procreata con la Sig.ra Margaritta Doriceo [?] sua legittima Consorte alla quale ho posto nome **Regina Margaritta**. Fu Padrino il Sig.r Gio: Maria Canovia [?]. — Adì 3 d.o Marzo [formal registration].
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Birth date | **26 Dec 1715** | Not recorded | **NEW** — fills major gap |
 | Baptism | **2 Jan 1716** (emergency, at home) | Not recorded | **NEW** — infant in danger at birth |
@@ -836,7 +836,7 @@ A systematic search of the repo and DAZD corpus found **no evidence for a second
 
 > Adì ii [Nov?] 1744. D. D.n Carlo [C/F]elicinouvich Curato di q.ta Chiesa Metropolitana hò Battezato un Fanciulo nato li p.mo ottobre p.p. figlio del Sig.r Daniel Addobbati Cittadino di q.ta Città provved.o di leg.mo matrimonio co la Sig.ra Margaritta Lanfranchi; al quale vien nome Anzolo Alloisio. P.no il Sig.r Cristoffo Guardi.
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Birth date | **1 Oct 1744** | 1 Oct 1744 (@S12@, Sabalich) | **Confirmed** ✓ from primary source |
 | Baptism date | **2 Nov [?] 1744** | Not recorded | **NEW** — month uncertain but November is chronologically coherent |
@@ -863,13 +863,13 @@ A systematic search of the repo and DAZD corpus found **no evidence for a second
 
 > [†] Adì a [8?] di [Giug(no)?]. Io Pre [?] Curato del Duomo ho Battezzato una Bambina nata li 4 d.o figlia del Sig.r D. Pietro Plarinò procreata da legittimo Matrimonio con la Sig.ra Margherita Canova sua legittima Consorte alla quale fu posto nome Maddalena. Furono Patrini l'Ill.mo Sig.r Tomaso Franceschi e la Sig.ra Maddalena [surname uncertain].
 
-| Field | Extracted | Vault / GEDCOM | Verdict |
+| Field | Extracted | Vault / legacy export | Verdict |
 |-------|-----------|----------------|---------|
 | Birth date | **4 [Jun?] 1736** | Not recorded | **NEW** — fills open question; month uncertain |
 | Baptism date | **[8?] [Jun?] 1736** | Not recorded | **NEW** |
 | Child | **Maddalena** | Maddelena Plarino (I124) | **Confirmed** ✓ |
 | Father | **Don Pietro Plarinò** | I129 | **Confirmed** ✓ — styled "Don" here |
-| Mother | **Margherita Canova** | Not in GEDCOM (identified from 1732 marriage) | **Confirmed** ✓ from second source |
+| Mother | **Margherita Canova** | Not in the legacy export (identified from 1732 marriage) | **Confirmed** ✓ from second source |
 | Legitimacy | Legitimate ("procreata da legittimo Matrimonio") | — | **Confirmed** ✓ |
 | Godfather | **Tomaso Franceschi** (Ill.mo) | Not recorded | **NEW** — Zaratine family of standing |
 | Godmother | **Maddalena [surname uncertain]** | Not recorded | **NEW** — child likely named after godmother |
@@ -922,7 +922,7 @@ Separate audit of the **DAZD Addobbati family fonds analytical inventory** ([`so
 
 ## DAZD-1. Strong clash: Vincenzo Addobbati birth date
 
-| Person page | Vault / GEDCOM | DAZD inventory |
+| Person page | Vault / legacy export | DAZD inventory |
 |-------------|----------------|----------------|
 | [`vincenzo-giovanni-domenico-valentino-addobbati.md`](../people/vincenzo-giovanni-domenico-valentino-addobbati.md) | Born **30 Jan 1776** (Zara); cites Sabalich "nato 1776". | Born **24 Mar 1781**, with footnote to Archbishop's **baptism book 1778–1791**. |
 
@@ -938,7 +938,7 @@ One must be wrong or they refer to two different people. The inventory is explic
 |-------------|-------|----------------|
 | [`luigi-anzolo-alloisio-addobbati.md`](../people/luigi-anzolo-alloisio-addobbati.md) | Wife: **Maddelena Plarino** (F15). | Luigi's children with **Maddalena Canona**: Pietro, Vincenzo, **Margarita**. |
 
-**RESOLVED:** The 1766 marriage register (image #21) definitively says **"Maddalena figlia del Sig.r Pietro Plarinò"**. The GEDCOM's "Plarino" is correct (missing accent). The DAZD inventory's "Canona" is wrong — likely a misreading or confusion with the separate **Plarinò × Canova marriage of 1732** (image #27), where the two families intermarried one generation earlier.
+**RESOLVED:** The 1766 marriage register (image #21) definitively says **"Maddalena figlia del Sig.r Pietro Plarinò"**. An older export’s **Plarino** spelling is correct (missing accent). The DAZD inventory's "Canona" is wrong — likely a misreading or confusion with the separate **Plarinò × Canova marriage of 1732** (image #27), where the two families intermarried one generation earlier.
 
 **Additionally:** The DAZD inventory names a **daughter Margarita** alongside Pietro and Vincenzo — no `people/` page exists for her. The vault currently lists other siblings but not Margarita.
 
@@ -1022,10 +1022,10 @@ Several findings from the two sources reinforce or constrain each other:
 
 ## Tier 1 — Resolve hard conflicts
 
-1. ~~**Re-examine Birth Antonio Zerauschek Sr. 1850** (image #11)~~ — **RESOLVED** (Mar 2026). Father is **Giuseppe [di Biagio] Zerauschek**; "Biagio" is the patronymic. GEDCOM chain confirmed. Child's full name: **Antonio Giacomo Vincenzo**. "Illegitimo" crossed out confirms premarital birth + subsequent legitimization. Mother: **Guarino Antonia** = Antonia Maria Guerino.
-2. ~~**Confirm bride's birth year in Marriage Zerauschek Herenda Pago 1878** (image #4)~~ — **RESOLVED** (Mar 2026). Tony confirms **14 February 1859** — matches GEDCOM exactly.
+1. ~~**Re-examine Birth Antonio Zerauschek Sr. 1850** (image #11)~~ — **RESOLVED** (Mar 2026). Father is **Giuseppe [di Biagio] Zerauschek**; "Biagio" is the patronymic. Desktop export chain confirmed. Child's full name: **Antonio Giacomo Vincenzo**. "Illegitimo" crossed out confirms premarital birth + subsequent legitimization. Mother: **Guarino Antonia** = Antonia Maria Guerino.
+2. ~~**Confirm bride's birth year in Marriage Zerauschek Herenda Pago 1878** (image #4)~~ — **RESOLVED** (Mar 2026). Tony confirms **14 February 1859** — matches legacy export exactly.
 3. ~~**Identify entry in Marriage Zerauschek Guerino 1850** (image #9)~~ — **No longer critical** now that the birth record confirms Giuseppe. Still worth extracting for Giuseppe's full vitals and witnesses.
-4. ~~**Extract Vincenzo's age from Matrimonio Addobbati Coltelli 1811** (image #16)~~ — **RESOLVED** (Mar 2026). Tony's direct reading: **"d'anni 30 c.a"** (circa 30) in Feb 1811 → born ~1781. **Strongly supports DAZD birth date of 24 Mar 1781** over Sabalich/GEDCOM 1776. Also yields: marriage date **25 Feb 1811**, both Luigi Addobbati and Maddalena **deceased** ("fù"), wife's surname **Plavina** (= Plavinò/Plarino), bride's parents **Paolo Coltelli** (notary) + **Devina Sandri** (NEW).
+4. ~~**Extract Vincenzo's age from Matrimonio Addobbati Coltelli 1811** (image #16)~~ — **RESOLVED** (Mar 2026). Tony's direct reading: **"d'anni 30 c.a"** (circa 30) in Feb 1811 → born ~1781. **Strongly supports DAZD birth date of 24 Mar 1781** over Sabalich/legacy export 1776. Also yields: marriage date **25 Feb 1811**, both Luigi Addobbati and Maddalena **deceased** ("fù"), wife's surname **Plavina** (= Plavinò/Plarino), bride's parents **Paolo Coltelli** (notary) + **Devina Sandri** (NEW).
 
 ### Additional Zerauschek clarifications (Mar 2026)
 
@@ -1036,7 +1036,7 @@ Several findings from the two sources reinforce or constrain each other:
 ## Tier 2 — Fill gaps in existing data
 
 5. ~~**Extract parents from Birth Gerarda Rovaro Brizzi 1825** (image #14)~~ — **RESOLVED** (Mar 2026). Father: **Giuseppe Rovaro Brizzi** (salt & tobacco retailer). Mother: **Annastasia Castellanich** (seamstress). Parents married **25 Aug 1821**. Gerarda born **12 July 1825**, died **10 March 1908** (was "after 1890"). Full name: **Gerarda Maria**.
-6. ~~**Extract Luigi Addobbati marriage entry 1766** (image #21)~~ — **RESOLVED** (Mar 2026). Bride is **Maddalena, daughter of Pietro Plarinò**. Surname definitively settled: **Plarinò** is correct. GEDCOM's "Plarino" = correct (missing accent). 1811's "Plavina" = scribal variant. DAZD's "Canona" = wrong (likely confusion with Plarinò × Canova 1732 intermarriage). Also confirms Luigi's father: **Daniele** (already known). Marriage: **4 April 1766**, in the bride's house, banns waived.
+6. ~~**Extract Luigi Addobbati marriage entry 1766** (image #21)~~ — **RESOLVED** (Mar 2026). Bride is **Maddalena, daughter of Pietro Plarinò**. Surname definitively settled: **Plarinò** is correct. An older export’s **Plarino** = correct (missing accent). 1811's "Plavina" = scribal variant. DAZD's "Canona" = wrong (likely confusion with Plarinò × Canova 1732 intermarriage). Also confirms Luigi's father: **Daniele** (already known). Marriage: **4 April 1766**, in the bride's house, banns waived.
 7. ~~**Add daughter Anna** to `vincenzo-giovanni-domenico-valentino-addobbati.md` (DAZD-4)~~ — **DONE** (already on page).
 8. ~~**Add daughter Margarita** to `luigi-anzolo-alloisio-addobbati.md` (DAZD-4)~~ — **DONE** (already on page).
 9. ~~**Link sig. 59** (Pietro medical degree) to `pietro-pio-addobbati.md` doctor-son section (DAZD-7)~~ — **DONE** (Mar 2026).

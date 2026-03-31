@@ -18,7 +18,7 @@ Sister of [Marc Francois Stump](marc-francois-stump.md); both children of [Hans 
 ## Life
 
 - **11 July 1837** — Born **Erlen**, **Thurgau**, **Switzerland**.
-- Lived in **Tallinn** (**Reval**); the Henderson [Stump Family Tree chart](../sources/stump-family-tree-chart.md) records death at **Yverdon** in one hand, while the structured export gives **Tallinn**.
+- Lived in **Tallinn** (**Reval**); the Henderson [Stump Family Tree chart](../sources/stump-family-tree-chart.md) records death at **Yverdon** in one hand, while the structured import gives **Tallinn**.
 - **8 March 1910** — Died **Tallinn**. The [Estonian Biographical Center report (2005)](../sources/estonian-biographical-center-stump-report-2005.md) notes a **1910** Tallinn obituary for **“Louise Stump”** with mourners including **“Dr Etienne Stump and wife in Teheran”** — almost certainly her.
 
 ## Family
@@ -29,5 +29,5 @@ Sister of [Marc Francois Stump](marc-francois-stump.md); both children of [Hans 
 
 ## Evidence
 
-- **Export:** **treeId** **I393** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I393**.
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection.

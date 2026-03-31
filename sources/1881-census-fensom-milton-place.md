@@ -13,7 +13,7 @@ The full Fensom family at 8 Milton Place, Lower Holloway: **David Fensom** (46, 
 - Georgiana Grindlay (I203) — wife
 - [Georgina Elizabeth Fensom](../people/georgina-fensom-i205.md) (I205) — daughter
 - David William Fensom (I292) — son
-- Annie Fensom (b. ~1870) — daughter (not in GEDCOM)
+- Annie Fensom (b. ~1870) — daughter (not in the legacy export)
 - Ellen Fensom (I207) — daughter
 - Fanny Fensom (I209) — daughter
 

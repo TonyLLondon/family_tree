@@ -25,7 +25,7 @@ siblings:
 
 **Laurencia** was born **16 July 1912** at **Parral**, **Linares**, **Maule**. She married [Miguel Luis Cerpa González](miguel-cerpa-gonzalez-i346.md) and was mother of [Helia del Carmen Cerpa Pérez](helia-cerpa-perez.md) and [Miguel Antonio Cerpa Pérez](miguel-cerpa-perez-i352.md). She died **9 December 2002** at **Coquimbo**.
 
-An older export had **27 March 1910**; **[FamilySearch GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)** gives the **1912** date—civil register should decide.
+The working tree once had **27 March 1910**; **[FamilySearch GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)** gives the **1912** date—civil register should decide.
 
 Parents: [Francisco Antonio Pérez Avejares](francisco-antonio-perez-i350.md) and [Soraida del Carmen Escobar Muñoz](zoraida-escobar-i351.md). Siblings with pages: [María Estela](maria-perez-escobar-i382.md); **Jorge Antonio** and **María Lucinda** appear on FamilySearch without `people/` stubs yet.
 
@@ -40,10 +40,10 @@ Parents: [Francisco Antonio Pérez Avejares](francisco-antonio-perez-i350.md) an
 
 - FamilySearch **[GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)**.
 - Hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
-- **Export:** **treeId** **I347** — unions **F162**, **F164** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I347** — unions **F162**, **F164**.
 
 ## Open questions
 
-- Civil image reconciling **1910** export vs **1912** FamilySearch.
+- Civil image reconciling **1910** working-tree date vs **1912** FamilySearch.
 - Coquimbo death image **2002**.
 - Person pages for Jorge Antonio and María Lucinda when ids are assigned.

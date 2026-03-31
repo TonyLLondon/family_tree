@@ -12,7 +12,7 @@ children:
 
 # Catherine (maiden name unknown)
 
-Catherine—maiden surname unknown—was the wife of [Enright](enright.md) and mother of [Catherine Enright](catherine-enright.md). The export gives only her forename **Catherine** with no surname line. She was born about 1832; a death is flagged without detail.
+Catherine—maiden surname unknown—was the wife of [Enright](enright.md) and mother of [Catherine Enright](catherine-enright.md). The working tree gives only her forename **Catherine** with no surname line. She was born about 1832; a death is flagged without detail.
 
 ## Family
 
@@ -21,7 +21,7 @@ Catherine—maiden surname unknown—was the wife of [Enright](enright.md) and m
 
 ## Evidence
 
-- **Export:** **treeId** **I121** — union **F60** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I121** — union **F60**.
 ## Open questions
 
 - **Maiden surname** — marriage register **Catherine Enright**’s maternal line.

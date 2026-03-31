@@ -26,11 +26,11 @@ On **17 January 1768** he married **Mary Thompson** by banns at **St Botolph Ald
 - Siblings at Bishop's Stortford: Jonathan (1733), Abraham (1733, died same year), Sarah (1734), Joanna (1735/36), Mary (1735/36), Richard (1737), Richard (1739).
 - Wife: **Mary Thompson** (m. 17 Jan 1768, St Botolph Aldgate).
 - Children:
-  - **Ann Thompson Glascock** (b. ~1768, Whitechapel) — named for Mary's maiden name. (FMP: GBPRS/B/902365482/1.)
-  - **[John Glasscock](john-glasscock-i600.md)** (bapt. 14 Feb 1773, St Mary Whitechapel).
-  - **Abraham Jr.** (bapt. 8 Jun 1777, Bethnal Green). (FMP: R_952897420.)
-  - **Hannah Glascock** (b. ~1779, Whitechapel). (FMP: GBPRS/B/902393652/1.)
-  - **Mary Perry Glascock** (b. ~1779, Whitechapel). (FMP: GBPRS/B/902393653/1.)
+ - **Ann Thompson Glascock** (b. ~1768, Whitechapel) — named for Mary's maiden name. (FMP: GBPRS/B/902365482/1.)
+ - **[John Glasscock](john-glasscock-i600.md)** (bapt. 14 Feb 1773, St Mary Whitechapel).
+ - **Abraham Jr.** (bapt. 8 Jun 1777, Bethnal Green). (FMP: R_952897420.)
+ - **Hannah Glascock** (b. ~1779, Whitechapel). (FMP: GBPRS/B/902393652/1.)
+ - **Mary Perry Glascock** (b. ~1779, Whitechapel). (FMP: GBPRS/B/902393653/1.)
 
 ## Bishop's Stortford — a Glascock stronghold
 

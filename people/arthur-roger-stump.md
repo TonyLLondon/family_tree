@@ -21,7 +21,7 @@ Second child of [Marc Francois Stump](marc-francois-stump.md) and [Olga Caroline
 
 ## Life
 
-- **Born 13/25 February 1871** at 7:45 AM in Tallinn ([EBC 2005](../sources/estonian-biographical-center-stump-report-2005.md)). The double date reflects the **Julian / Gregorian** split; the merged MyHeritage export uses **25 February** (new style). An erroneous variant **1 February 1871** also circulates.
+- **Born 13/25 February 1871** at 7:45 AM in Tallinn ([EBC 2005](../sources/estonian-biographical-center-stump-report-2005.md)). The double date reflects the **Julian / Gregorian** split; the merged MyHeritage import uses **25 February** (new style). An erroneous variant **1 February 1871** also circulates.
 - **Baptised 11 April 1871** at home, registered in **Tallinn Dome** congregation. Godparents: Mr Dr **Th. Kirchhofer**, Mr law student **Eugen Erbe**, Miss **Luise Stump**, Mrs **Elisabeth von Landesen** née **Scholvin** (wife of a city councilor), Miss **Hermine von Igelström**.
 - **Confirmed 2 April 1889** in Tallinn Dome congregation.
 - **Married** in **Moscow** (note in the 1902–1926 Tallinn Dome register of parishioners, no date given). Wife: [Lydia Siebert](lydia-siebert.md).
@@ -43,7 +43,7 @@ Second child of [Marc Francois Stump](marc-francois-stump.md) and [Olga Caroline
 - [Estonian Biographical Center — Stump family Tallinn research (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — birth, baptism, godparents, confirmation, Moscow marriage note, 1922 transit, death and obituary reference.
 - *Revalsche Zeitung* no. 135-1935 — obituary (not yet in corpus).
 - *Revaler Bote* no. 89-1920 — wife Lydia's obituary (not yet in corpus).
-- **Export:** **treeId** **I399** — unions **F70**, **F206** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I399** — unions **F70**, **F206**.
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) — Henderson collection one-page pedigree (chart incorrectly shows death at Tallinn; obituary confirms Berlin).
 ## Open questions
 

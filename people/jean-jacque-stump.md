@@ -33,4 +33,4 @@ First child of [Marc Francois Stump](marc-francois-stump.md) and [Olga Caroline 
 ## Evidence
 
 - [Estonian Biographical Center — Stump family Tallinn research (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — birth, baptism, godparents, death, burial.
-- **Export:** **treeId** **I398** — union **F70** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I398** — union **F70**.

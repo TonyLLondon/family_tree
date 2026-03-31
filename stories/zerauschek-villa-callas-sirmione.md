@@ -56,7 +56,7 @@ A plaque on the exterior commemorates Callas and Meneghini. The villa's facade h
 - Family photograph: [Fulvia Zerauschek at Villa Ester, Sirmione](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png) — young woman on the loggia balustrade, marble floors, wrought-iron doors, conifer park behind.
 - Period exterior photograph: [Villa Ester exterior, c. 1958](../media/docs/Villa%20Ester%20Sirmione%20exterior%20c1958.png) — road-side view showing three floors, solarium turret, four window types, external staircase with quatrefoil balustrade, two late-1950s cars parked in front.
 - *Difesa Adriatica* obituary (1973): [translation (EN)](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md) — describes Antonio's post-war exile in Florence.
-- Fulvia and David John Lewis: buried at Sirmione (GEDCOM `@I9@`, `@I8@`).
+- Fulvia and David John Lewis: buried at Sirmione (tree ids **I9**, **I8**).
 - Magazine clipping (c. 1959): *"Per Maria Callas questa villa è una catapecchia"* — [scan](../media/docs/Villa%20Callas%20Sirmione%20magazine%20clipping%20catapecchia%20c1959.png) · [Italian transcript](../sources/corpus/villa-callas-catapecchia-magazine-c1959/transcription-villa-callas-catapecchia.it.md) · [English translation](../sources/corpus/villa-callas-catapecchia-magazine-c1959/translation-villa-callas-catapecchia.en.md). Describes villa as three floors plus solarium turret, rectangular pool; dates to after the Callas–Meneghini separation.
 - Comune di Sirmione: [Villa Callas point of interest](https://www.comune.sirmione.bs.it/it/point-of-interest/755430).
 

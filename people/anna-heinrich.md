@@ -13,7 +13,7 @@ children:
 
 # Anna Heinrich
 
-**Anna Heinrich** married [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) and was mother of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md). No birth or death structure in the export slice. Parents: [Johannes Heinrich](johannes-heinrich.md) and [Anna Duenner](anna-duenner.md).
+**Anna Heinrich** married [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) and was mother of [Hans Conrad Stump (b. 1702)](hans-conrad-stump.md). No birth or death structure in the working-tree excerpt. Parents: [Johannes Heinrich](johannes-heinrich.md) and [Anna Duenner](anna-duenner.md).
 
 ## Family
 
@@ -23,7 +23,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I152** — unions **F76**, **F78** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KZR1-Y8S**.
+- **Tree id:** **I152** — unions **F76**, **F78**; FamilySearch **KZR1-Y8S**.
 
 ## Open questions
 

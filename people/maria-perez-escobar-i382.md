@@ -19,7 +19,7 @@ Born **1915** (FamilySearch). Daughter of [Francisco Antonio Pérez Avejares](fr
 ## Evidence
 
 - FamilySearch tree (via [Laurencia GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)) — "María Estela Pérez Escobar", b. 1915.
-- **Export:** [Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **treeId** **I382**, household **F164** with parents linked above.
+- **Tree id:** — **treeId** **I382**, household **F164** with parents linked above.
 - **Site:** [Ancestor chart](/chart) — same compiled graph as the vault.
 - Research hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
 

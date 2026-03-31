@@ -42,4 +42,4 @@ She was buried **18 December 1807** at Sulgen ([66JN-HGX5](https://www.familysea
 | [FVKB-M51](https://www.familysearch.org/ark:/61903/1:1:FVKB-M51) | Baptism — 24 Jul 1735, Sulgen | [corpus](../sources/corpus/1735-baptism-margaretha-jung-sulgen/reference.md) |
 | [66JN-HGX5](https://www.familysearch.org/ark:/61903/1:1:66JN-HGX5) | Burial — 18 Dec 1807, Sulgen | [corpus](../sources/corpus/1807-burial-margaretha-jung-sulgen/reference.md) |
 
-**Export:** **treeId** **I147** — unions **F73**, **F75** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KFRC-6JP**.
+**Tree id:** **I147** — unions **F73**, **F75**; FamilySearch **KFRC-6JP**.

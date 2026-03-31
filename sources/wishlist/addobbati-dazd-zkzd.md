@@ -20,9 +20,9 @@ Full **Latin text** of the **1745** Bergamo nobility instrument and the **1786**
 
 **Order copies**
 
-- Requests / reception: https://www.dazd.hr/hr/posjetite-nas/rjesavanje-zahtjeva-prijamni-ured/11  
-- General form (PDF): https://www.dazd.hr/storage/Rješavanje%20zahtjeva/ZAHTJEV_OPĆI.pdf  
-- Fee schedule (PDF): https://www.dazd.hr/storage/Cjenik%20naknada%202022.pdf  
+- Requests / reception: https://www.dazd.hr/hr/posjetite-nas/rjesavanje-zahtjeva-prijamni-ured/11
+- General form (PDF): https://www.dazd.hr/storage/Rješavanje%20zahtjeva/ZAHTJEV_OPĆI.pdf
+- Fee schedule (PDF): https://www.dazd.hr/storage/Cjenik%20naknada%202022.pdf
 - Contact: https://www.dazd.hr/hr/kontakt — **prijamni@dazd.hr**, **dazd@dazd.hr**
 
 Quote **HR-DAZD-342**, kutija **1**, brojevi **41** and **7**. After receipt: ingest via `scripts/ingest_source.py` into `sources/corpus/` and link from relevant `people/*addobbati*.md`.
@@ -33,8 +33,8 @@ Quote **HR-DAZD-342**, kutija **1**, brojevi **41** and **7**. After receipt: in
 
 **Holding:** Znanstvena knjižnica u Zadru — **Rukopisi, Ms. 910** (*Joanellus* copy; Granić fn. 37: fol. 1–5).
 
-- Holdings overview: https://www.zkzd.hr/en/holdings  
-- Scanned **catalogue cards** (locate Ms. 910): https://www.zkzd.hr/hr/scanned-card-catalogues  
+- Holdings overview: https://www.zkzd.hr/en/holdings
+- Scanned **catalogue cards** (locate Ms. 910): https://www.zkzd.hr/hr/scanned-card-catalogues
 
 Request digital images of the unit through library **Kontakt** (see site menu). Useful to compare with DAZd br. 41.
 
@@ -44,9 +44,9 @@ Request digital images of the unit through library **Kontakt** (see site menu). 
 
 **ARHiNET** — search fond / units; some entries have digital attachments.
 
-- Archival search: https://arhinet.arhiv.hr/search.aspx?TableId=1  
-- Filter or search: **Državni arhiv u Zadar**, **Addobbati**, **342** / **HR-DAZD-342**  
-- Help: https://arhinet.arhiv.hr/page.aspx?id=5 — **arhinet@arhiv.hr**  
+- Archival search: https://arhinet.arhiv.hr/search.aspx?TableId=1
+- Filter or search: **Državni arhiv u Zadar**, **Addobbati**, **342** / **HR-DAZD-342**
+- Help: https://arhinet.arhiv.hr/page.aspx?id=5 — **arhinet@arhiv.hr**
 - Site sometimes returns **502**; retry later.
 
 **DAZd vodič** — confirm signatures and hierarchy:

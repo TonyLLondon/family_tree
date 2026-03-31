@@ -9,7 +9,7 @@ children:
 
 # Daniel Kaeg
 
-**Daniel Kaeg** was father of [Anna Barbel Kaegi](anna-barbel-kaegi.md). The export names no wife on that parental union and marks death **Y** without date or place.
+**Daniel Kaeg** was father of [Anna Barbel Kaegi](anna-barbel-kaegi.md). The working tree names no wife on that parental union and marks death **Y** without date or place.
 
 ## Family
 
@@ -17,7 +17,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I181** — union **F91** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I181** — union **F91**.
 
 ## Open questions
 

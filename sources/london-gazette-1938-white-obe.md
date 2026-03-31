@@ -3,7 +3,7 @@ title: "London Gazette — Gerald Sebastian White, O.B.E. (1938 New Year Honours
 kind: pdf
 corpus: london-gazette-1938-01-01-white-obe
 people:
-  - gerald-sebastian-white
+ - gerald-sebastian-white
 ---
 
 # London Gazette — Gerald Sebastian White, O.B.E.

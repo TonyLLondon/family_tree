@@ -17,7 +17,7 @@ children:
 
 # Augustin Stumpf
 
-**Augustin Stumpf**—**STUMP** / **Stumpf** alternate in export—married [Barbara Rutershauer](barbara-rutershauer.md) about **1661** at **Sulgen** and was father of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md). Born **28 April 1639** **Buchackern**; died **27 February 1679** **Sulgen**. Parents: [Caspar Stumpp](caspar-stumpp.md) and [Anna Schuemperli](anna-schuemperli.md), married **12 June 1631** at the **Evangelisch-Reformierte Kirche**, **Sulgen**.
+**Augustin Stumpf**—**STUMP** / **Stumpf** alternate in the import—married [Barbara Rutershauer](barbara-rutershauer.md) about **1661** at **Sulgen** and was father of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md). Born **28 April 1639** **Buchackern**; died **27 February 1679** **Sulgen**. Parents: [Caspar Stumpp](caspar-stumpp.md) and [Anna Schuemperli](anna-schuemperli.md), married **12 June 1631** at the **Evangelisch-Reformierte Kirche**, **Sulgen**.
 
 ## Family
 
@@ -27,7 +27,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I153** — unions **F77**, **F82** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MVRD-DHW**.
+- **Tree id:** **I153** — unions **F77**, **F82**; FamilySearch **MVRD-DHW**.
 
 ## Open questions
 

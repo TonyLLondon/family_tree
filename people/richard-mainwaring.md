@@ -15,11 +15,11 @@ children:
 
 # Richard Mainwaring
 
-**Richard Mainwaring** was born **1797** at **Neath**, **Glamorgan**. He married [Mary Richards](mary-richards.md) **25 October 1825** at **Merthyr Tydfil** and was father of [Ann Mainwaring](ann-mainwaring.md). He died **February 1844** at **Merthyr**; burial **1844** **Merthyr** in the same export (light source stub only).
+**Richard Mainwaring** was born **1797** at **Neath**, **Glamorgan**. He married [Mary Richards](mary-richards.md) **25 October 1825** at **Merthyr Tydfil** and was father of [Ann Mainwaring](ann-mainwaring.md). He died **February 1844** at **Merthyr**; burial **1844** **Merthyr** in the same import (light source stub only).
 
 ## Life
 
-- **1797** — Born **Neath** (no parish image in export).
+- **1797** — Born **Neath** (no parish image in the import).
 - **25 Oct 1825** — Marriage **Merthyr Tydfil** to Mary Richards.
 - **Feb 1844** — Died **Merthyr Tydfil**.
 - **1844** — Burial **Merthyr Tydfil**.
@@ -31,7 +31,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I179** — union **F90** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GWPL-R2M**.
+- **Tree id:** **I179** — union **F90**; FamilySearch **GWPL-R2M**.
 
 ## Open questions
 

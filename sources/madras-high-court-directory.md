@@ -2,14 +2,14 @@
 title: Madras High Court — Officers of the Court directory (~1930s)
 kind: scan
 people:
-  - gerald-sebastian-white
+ - gerald-sebastian-white
 ---
 
 # Madras High Court — Officers of the Court (printed directory, ~1930s)
 
 Printed directory page listing the Madras High Court's officers under Chief Justice **Sir H.O.C. Beasley**. Section "Officers of the High Court" records:
 
-> Registrar — **G. S. White**  
+> Registrar — **G. S. White**
 > Deputy-Registrar — R. Matyamurti
 
 **Scan:** [media/docs/Madras High Court directory Registrar Gerald S White judiciary officers ~1930s.png](../media/docs/Madras%20High%20Court%20directory%20Registrar%20Gerald%20S%20White%20judiciary%20officers%20~1930s.png)

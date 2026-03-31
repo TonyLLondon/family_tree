@@ -38,10 +38,10 @@ children:
 - Wife: [Agnes Benson](agnes-benson.md) (married 1 Jul 1666, Swarthmoor), daughter of **Barnard Benson** of Longriggs (not William Benson as previously assumed — corrected from original register).
 - Sister: [?] Brathwaite, "second daughter of William Brathwaite", married Barnard Benson son of Francis Benson at George's house, 1664.
 - Children (all born at Swarthmoor, Quaker register TNA RG6/1085):
-  - [**Ann**](ann-braithwaite.md), b. 21 Sep 1663 — married [Joseph Ayrey](joseph-ayrey.md), 6 Oct 1692
-  - **Edward**, b. 2 Jul 1667 — bur. 1684, Swarthmoor, aged ~17
-  - **Agnes**, b. 4 Jun 1669
-  - **Dorothy**, b. 10 Feb 1671
+ - [**Ann**](ann-braithwaite.md), b. 21 Sep 1663 — married [Joseph Ayrey](joseph-ayrey.md), 6 Oct 1692
+ - **Edward**, b. 2 Jul 1667 — bur. 1684, Swarthmoor, aged ~17
+ - **Agnes**, b. 4 Jun 1669
+ - **Dorothy**, b. 10 Feb 1671
 
 ## Evidence
 
@@ -51,10 +51,10 @@ children:
 - **Sister's marriage (1664):** Same register page — Barnard Benson son of Francis Benson (Westmorland) m. [?] Brathwaite "second daughter of William Brathwaite" of Hawkshead, [?] day of the 11th month 1664, "in the house of George Brathwaite." Shows intermarriage between the two families.
 - **Edward's burial (1684):** TNA RG6/1085 — *Edward son of George Brathwaite*, buried 4th day of 4th month 1684. Died aged ~17.
 - **Quaker births (children):**
-  - Ann, 21 Sep 1663 — TNA RG6/1084, image `TNA/RG6/1084/0/0128`. FMP `TNA/RG6/BAP/1600137`.
-  - Edward, 2 Jul 1667 — TNA RG6/1085, image `TNA/RG6/1085/0/0016`. FMP `TNA/RG6/BAP/1600683`.
-  - Agnes, 4 Jun 1669 — TNA RG6/1085, image `TNA/RG6/1085/0/0018`. FMP `TNA/RG6/BAP/1600698`.
-  - Dorothy, 10 Feb 1671 — TNA RG6/1085, image `TNA/RG6/1085/0/0019`. FMP `TNA/RG6/BAP/1600711`.
+ - Ann, 21 Sep 1663 — TNA RG6/1084, image `TNA/RG6/1084/0/0128`. FMP `TNA/RG6/BAP/1600137`.
+ - Edward, 2 Jul 1667 — TNA RG6/1085, image `TNA/RG6/1085/0/0016`. FMP `TNA/RG6/BAP/1600683`.
+ - Agnes, 4 Jun 1669 — TNA RG6/1085, image `TNA/RG6/1085/0/0018`. FMP `TNA/RG6/BAP/1600698`.
+ - Dorothy, 10 Feb 1671 — TNA RG6/1085, image `TNA/RG6/1085/0/0019`. FMP `TNA/RG6/BAP/1600711`.
 - **Quaker burial (1681):** TNA RG6/1085, Swarthmoor Monthly Meeting — *George Brathwaite*, buried 4 Mar 1681. Image: `TNA/RG6/1085/0/0060`. FMP `TNA/RG6/BUR/794571`.
 - **Agnes's burial (1694):** TNA RG6/1616, Lancashire Quarterly Meeting — *Agnes Brathwaite*, spouse *George*, buried 7 Jul 1694, Swarthmoor. Death 5 Jul 1694. FMP `TNA/RG6/BUR/49370`.
 - **Disambiguation:** A second George Brathwaite (father **Rowland**) buried at Swarthmoor on 12 Mar 1687 (FMP `TNA/RG6/BUR/794586`) — different person.

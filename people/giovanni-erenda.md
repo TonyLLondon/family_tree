@@ -12,7 +12,7 @@ children:
 
 # Giovanni Erenda
 
-Giovanni Erenda was the husband of [Giuseppina Magassich](giuseppina-magassich.md) and father of [Anna Herenda](anna-herenda.md). The export places his birth at Pago, Zara, Dalmatia, Austria (Habsburg-era wording); a death is flagged without a date.
+Giovanni Erenda was the husband of [Giuseppina Magassich](giuseppina-magassich.md) and father of [Anna Herenda](anna-herenda.md). The working tree places his birth at Pago, Zara, Dalmatia, Austria (Habsburg-era wording); a death is flagged without a date.
 
 ## Family
 
@@ -21,7 +21,7 @@ Giovanni Erenda was the husband of [Giuseppina Magassich](giuseppina-magassich.m
 
 ## Evidence
 
-- **Export:** **treeId** **I391** — union **F184** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I391** — union **F184**.
 ## Open questions
 
 - **Herenda** etymology vs parish spellings on **Pag** / **Zara** books.

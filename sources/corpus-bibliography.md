@@ -183,7 +183,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 ## Missions / Bahá'í / Iranian modernity (books)
 
 - [Civil & Military Gazette (Lahore), 14 May 1907 — Gerald Sebastian White, Madras Volunteer Guards commission](corpus/1907-civil-military-gazette-gerald-white-volunteer-guards/) — `1907-civil-military-gazette-gerald-white-volunteer-guards`
-- [Baha'i Talks, Messages and Articles  An Italian scientist extols the Báb  – one of the very first documentations made by a European of the episode of the Báb – by Ugo R. Giachery](corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/) — `baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb`
+- [Baha'i Talks, Messages and Articles An Italian scientist extols the Báb – one of the very first documentations made by a European of the episode of the Báb – by Ugo R. Giachery](corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/) — `baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb`
 - [Christian Mission to Muslims](corpus/christian-mission-to-muslims-fc5eb90f00/) — `christian-mission-to-muslims-fc5eb90f00`
 - [History of the Mission by Rufus Anderson](corpus/history-of-the-mission-by-rufus-anderson-5264293694/) — `history-of-the-mission-by-rufus-anderson-5264293694`
 - [History of the Missions of the american Board of Commissoiners](corpus/history-of-the-missions-of-the-american-board-of-651655d656/) — `history-of-the-missions-of-the-american-board-of-651655d656`
@@ -362,4 +362,3 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [wikipedia-murrough-mac-toirdelbach-clan-tiege-aran](corpus/wikipedia-murrough-mac-toirdelbach-clan-tiege-aran/) — `wikipedia-murrough-mac-toirdelbach-clan-tiege-aran`
 - [wikipedia-viscount-fermoy](corpus/wikipedia-viscount-fermoy/) — `wikipedia-viscount-fermoy`
 - [Calypso — cigarette packet collector database (zigsam.at)](corpus/zigsam-at-calypso-cigarette-packs/) — `zigsam-at-calypso-cigarette-packs`
-

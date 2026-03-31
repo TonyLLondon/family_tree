@@ -2,7 +2,7 @@
 corpus: cormick-john-william-research-executive-summary
 kind: pdf
 people:
-  - william-cormick
+ - william-cormick
 ---
 
 # John & William Cormick — research executive summary

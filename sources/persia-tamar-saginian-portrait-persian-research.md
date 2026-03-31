@@ -2,8 +2,8 @@
 corpus: persia-tamar-saginian-portrait-persian-research
 kind: pdf
 people:
-  - tamar-saginian
-  - william-cormick
+ - tamar-saginian
+ - william-cormick
 ---
 
 # Persian-language research: “Portrait of Tamar Saginian” (attribution)

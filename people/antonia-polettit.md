@@ -12,7 +12,7 @@ children:
 
 # Antonia Polettit
 
-**Antonia Polettit** was born at **Brescia** (year not in slice). The export spells the surname **POLETTIT**—**Poletti** / **Polettić** variants are likely in manuscripts. She married [Antonio Grabar](antonio-grabar.md) and was mother of [Giovanna Grabar](giovanna-grabar.md).
+**Antonia Polettit** was born at **Brescia** (year not in slice). The working tree spells the surname **POLETTIT**—**Poletti** / **Polettić** variants are likely in manuscripts. She married [Antonio Grabar](antonio-grabar.md) and was mother of [Giovanna Grabar](giovanna-grabar.md).
 
 ## Family
 
@@ -21,7 +21,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I117** — union **F57** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I117** — union **F57**.
 
 ## Open questions
 

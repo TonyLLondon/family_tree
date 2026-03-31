@@ -19,13 +19,13 @@ children:
 
 **Hans Jacob Stump** of **Sulgen**—the **1800** birth on this patriline—is father of [Marc Francois Stump](marc-francois-stump.md) and **great-great-grandfather** of [Robert Marc Murard Stump](robert-marc-murard-stump.md). He is the later **Hans Jacob** in the chart; [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md) is the seventeenth-century namesake on the same line.
 
-The export places birth and christening **15 June 1800** at **Sulgen**, **Thurgau**, and marriage **25 September 1832** at **Sulgen** to [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md)—before Marc’s **Tallinn** marriage to [Olga Caroline Erbe](olga-caroline-erbe.md).
+The working tree places birth and christening **15 June 1800** at **Sulgen**, **Thurgau**, and marriage **25 September 1832** at **Sulgen** to [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md)—before Marc’s **Tallinn** marriage to [Olga Caroline Erbe](olga-caroline-erbe.md).
 
 ## Life
 
 - **15 Jun 1800** — Birth and christening **Sulgen**, **Thurgau**, **Switzerland**.
 - **25 Sep 1832** — Marriage **Sulgen** to Jeanne Benigne Montagnon.
-- **Death** — Flag in export without structured date or place in the slice used here.
+- **Death** — Flag in the import without structured date or place in the slice used here.
 
 ## Family
 
@@ -50,7 +50,7 @@ The export places birth and christening **15 June 1800** at **Sulgen**, **Thurga
 | [FVJR-RYX](https://www.familysearch.org/ark:/61903/1:1:FVJR-RYX) | Parents' marriage — 26 Apr 1792, Sulgen | [corpus](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md) |
 | [6FZL-NLQ8](https://www.familysearch.org/ark:/61903/1:1:6FZL-NLQ8) | Father's burial — 18 Dec 1807, Sulgen | [corpus](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md) |
 
-**Export:** **treeId** **I142** — unions **F71**, **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MSXZ-Z6F**.
+**Tree id:** **I142** — unions **F71**, **F72**; FamilySearch **MSXZ-Z6F**.
 
 ## Open questions
 

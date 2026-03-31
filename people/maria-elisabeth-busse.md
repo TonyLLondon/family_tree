@@ -25,7 +25,7 @@ Maternal grandmother of [Olga Caroline Erbe](olga-caroline-erbe.md). She was bor
 - **27 December 1799** — Married [Johan Jacob Eylandt](johan-jacob-eylandt.md) in **Viljandi** (**F142**).
 - **23 February 1823** — Died **Reval (Tallinn)**. Emilie was only about **eleven**; the Geni narrative’s longer child list must be checked for half-siblings or stepfamily if Ernst Gottlieb Busse remarried (he appears with **two wives** in the Geni excerpt).
 
-Her parents in the export are [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) and [Anna Christina Schittmar](anna-christina-schittmar.md) (**F144**).
+Her parents in the working tree are [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) and [Anna Christina Schittmar](anna-christina-schittmar.md) (**F144**).
 
 ## Family
 
@@ -35,7 +35,7 @@ Her parents in the export are [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) an
 
 ## Evidence
 
-- **treeId** **I303**, **F142**, **F144**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I303**, **F142**, **F144**: .
 - MyHeritage URL in **`@S43@`**.
 
 ## Open questions

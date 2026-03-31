@@ -2,7 +2,7 @@
 title: Gerald Sebastian White — obituary notices, March 1953
 kind: scan
 people:
-  - gerald-sebastian-white
+ - gerald-sebastian-white
 ---
 
 # Gerald Sebastian White — Obituary Notices (March 1953)

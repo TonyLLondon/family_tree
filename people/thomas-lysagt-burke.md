@@ -11,7 +11,7 @@ children:
 
 # Thomas Lysagt Burke
 
-Thomas Lysagt Burke was the husband of [Burke](burke.md) and father of [Anastasia Lysagt Burke](anastasia-lysagt-burke.md). The export carries no birth or death events for him.
+Thomas Lysagt Burke was the husband of [Burke](burke.md) and father of [Anastasia Lysagt Burke](anastasia-lysagt-burke.md). The working tree carries no birth or death events for him.
 
 ## Family
 
@@ -20,7 +20,7 @@ Thomas Lysagt Burke was the husband of [Burke](burke.md) and father of [Anastasi
 
 ## Evidence
 
-- **Export:** **treeId** **I378** — union **F178** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I378** — union **F178**.
 ## Open questions
 
 - **Lysaght / Burke** compound — whether **Thomas** is **Lysaght** patriline with **Burke** alliance by marriage.

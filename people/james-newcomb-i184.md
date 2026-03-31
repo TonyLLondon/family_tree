@@ -24,14 +24,14 @@ James's parents were [William Newcomb](william-newcomb-i186.md) (b. ~1793, labou
 - Brother: Charles Newcomb (b. ~1830, labourer — in the 1851 household, unmarried).
 - Probable brother: Thomas Newcomb (married Q4 1837, Maldon — likely another son of William and Elizabeth).
 - Children (from GRO birth index and 1851 census):
-  - Charles (~1844)
-  - James Jr (b. Q2 1846)
-  - Sarah A / William (~1849)
-  - Arthur (b. Q3 1851)
-  - Emily (b. Q4 1852)
-  - William (b. Q1 1854, died Q1 1854) and a twin sister (Female Newcomb, Q1 1854)
-  - **[Alma](alma-newcomb-i106.md)** (b. Q2 1855)
-  - Mary Ann (b. Q2 1857 — last recorded birth)
+ - Charles (~1844)
+ - James Jr (b. Q2 1846)
+ - Sarah A / William (~1849)
+ - Arthur (b. Q3 1851)
+ - Emily (b. Q4 1852)
+ - William (b. Q1 1854, died Q1 1854) and a twin sister (Female Newcomb, Q1 1854)
+ - **[Alma](alma-newcomb-i106.md)** (b. Q2 1855)
+ - Mary Ann (b. Q2 1857 — last recorded birth)
 
 ## Evidence
 

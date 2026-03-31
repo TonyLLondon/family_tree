@@ -3,12 +3,12 @@ title: Wikipedia — Owen Beasley (Chief Justice, Madras High Court 1929–1937)
 kind: web
 corpus: wikipedia-owen-beasley
 people:
-  - gerald-sebastian-white
+ - gerald-sebastian-white
 ---
 
 # Owen Beasley — Wikipedia
 
-**URL:** https://en.wikipedia.org/wiki/Owen_Beasley  
+**URL:** https://en.wikipedia.org/wiki/Owen_Beasley
 **Corpus:** [sources/corpus/wikipedia-owen-beasley/](corpus/wikipedia-owen-beasley/)
 
 ## Key facts for this vault

@@ -36,7 +36,7 @@ Her father was **[John Ankettle](john-ankettle.md)** of Dingle. The Ankettle fam
 
 - [Southern Reporter, 27 Mar 1849 — death of Helen, wife of Thomas Roche](../sources/corpus/1849-southern-reporter-helen-roche-death/transcription.md) — "in the 77th year of her age, Helen, wife of Thomas Roche, of George's-street, Limerick."
 - [Farrar's Index to Irish Marriages 1771–1812](https://www.findmypast.co.uk/transcript?id=IRE/IET0038/395/036) — Thomas Roche × [Catherine/Hellen] Ankettle, 1796, Limerick. Bride's father: John Ankettle. Bride's residence: Dingle, Kerry.
-- **Export:** **treeId** **I342** — unions **F160** (with Thomas Roche), **F168** (father) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MMZP-LMX**.
+- **Tree id:** **I342** — unions **F160** (with Thomas Roche), **F168** (father); FamilySearch **MMZP-LMX**.
 
 ## Open questions
 

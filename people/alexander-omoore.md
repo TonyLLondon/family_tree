@@ -9,7 +9,7 @@ children:
 
 # Alexander O'Moore
 
-**Alexander O'Moore** was father of [Juliana O'Moore](juliana-omoore.md). No birth or death in the export slice; no wife on the parental union there.
+**Alexander O'Moore** was father of [Juliana O'Moore](juliana-omoore.md). No birth or death in the working-tree excerpt; no wife on the parental union there.
 
 ## Family
 
@@ -17,7 +17,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I379** — union **F179** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I379** — union **F179**.
 
 ## Open questions
 

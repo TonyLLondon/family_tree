@@ -35,8 +35,8 @@ Frances Lawson was the daughter of [James Lawson of Nesham Abbey](james-lawson-o
 ## Evidence
 
 - **DNB (1885–1900):** "Brathwaite, Richard" — identifies her as "Frances, daughter of James Lawson of Nesham," married 4 May 1617 at Hurworth, bore nine children (five sons), died 7 Mar 1633.
-- **Export:** **treeId** **I196** — unions **F99**, **F166** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K1TH-C53**.
+- **Tree id:** **I196** — unions **F99**, **F166**; FamilySearch **K1TH-C53**.
 
 ## Open questions
 
-- The "Lady" prefix in the export — the DNB does not use it. The Lawsons were gentry holding Nesham Abbey but no peerage title is recorded for James Lawson. The "Lady" may be a Geni convention or a courtesy title from a later heraldic grant.
+- The "Lady" prefix in the working tree — the DNB does not use it. The Lawsons were gentry holding Nesham Abbey but no peerage title is recorded for James Lawson. The "Lady" may be a Geni convention or a courtesy title from a later heraldic grant.

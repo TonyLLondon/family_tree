@@ -14,12 +14,12 @@ children:
 
 # Sigmund Johann Bartholomaus Erbe
 
-Great-grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md). The merged export places his birth on **7 November 1746** with wife [Johanna Magdalena Schultz](johanna-magdalena-schultz.md). Parents: [Georg Christian Erbe](georg-christian-erbe.md) and [Catharia Dorothea Korber](catharia-dorothea-korber.md).
+Great-grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md). The working tree places his birth on **7 November 1746** with wife [Johanna Magdalena Schultz](johanna-magdalena-schultz.md). Parents: [Georg Christian Erbe](georg-christian-erbe.md) and [Catharia Dorothea Korber](catharia-dorothea-korber.md).
 
 ## Life
 
-- **7 November 1746** — Birth date in merged export (place field empty in the lines read here).
-- Marriage and death: union row exists in export; **death date** was not filled in the snippet inspected—pull the full individual block when copying to `sources/corpus/` or when imaging Thuringian registers.
+- **7 November 1746** — Birth date in working tree (place field empty in the lines read here).
+- Marriage and death: union row exists in the working tree; **death date** was not filled in the snippet inspected—pull the full individual block when copying to `sources/corpus/` or when imaging Thuringian registers.
 
 ## Family
 
@@ -29,10 +29,10 @@ Great-grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md). The merged exp
 
 ## Evidence
 
-- **Export:** **treeId** **I314** — unions **F149**, **F150** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I314** — unions **F149**, **F150**.
 - **Web (Mar 2026):** no **BBLD** / **Wikipedia** hit for **Sigmund** + **1746** + this **Erbe** line; [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md) § *Thuringian / Franconian Erbe line*.
 
 ## Open questions
 
 - **Parish book** for birth (Ohrdruf / Gotha area cluster is likely given wife’s Ohrdruf birth).
-- Complete **death** and **marriage** lines from the merged export or from microfilm.
+- Complete **death** and **marriage** lines from the working tree or from microfilm.

@@ -11,7 +11,7 @@ father: jean-montagnon
 spouses:
   - jeane-marechal
 children:
-  - jean-pierre-montagnon  # unconfirmed — circumstantial only
+  - jean-pierre-montagnon # unconfirmed — circumstantial only
 ---
 
 # Jean François Montagnon

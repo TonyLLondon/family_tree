@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **treeId** **I413**, **F187**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I413**, **F187**: .
 ## Open questions
 
 - **Given name** — Welsh GRO birth index for **Mary Morgan 1854** (father’s name on certificate).

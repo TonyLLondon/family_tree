@@ -22,11 +22,11 @@ Mother of [Olga Caroline Erbe](olga-caroline-erbe.md) and [Eugen Edmund Erbe](eu
 
 ## Life
 
-- **20 March 1812** — Born **Tallinn**; baptized **2 April 1812**, **Reval** (register wording as in export).
+- **20 March 1812** — Born **Tallinn**; baptized **2 April 1812**, **Reval** (register wording as in the import).
 - **27 March 1839** — Married [Hermann Eberhard Erbe](hermann-eberhard-erbe.md) in **Tallinn**.
 - **14 July 1872** — Died **Tallinn**, a few months after Hermann’s **January** death in **Riga** — worth noting when reconstructing whether the household had already fragmented geographically.
 
-Her parents in the export are [Johan Jacob Eylandt](johan-jacob-eylandt.md) and [Maria Elisabeth Busse](maria-elisabeth-busse.md), married **27 December 1799** in **Viljandi**. The Geni narrative lists a large sibling set (Caroline Helene Pfeiffer, Henrietta Margaretha Elisabeth, Johann Emil, Carl Gottlieb, Therese Constanze Erbe, etc.); again, **confirm each in parish books** before promoting to separate biographies.
+Her parents in the working tree are [Johan Jacob Eylandt](johan-jacob-eylandt.md) and [Maria Elisabeth Busse](maria-elisabeth-busse.md), married **27 December 1799** in **Viljandi**. The Geni narrative lists a large sibling set (Caroline Helene Pfeiffer, Henrietta Margaretha Elisabeth, Johann Emil, Carl Gottlieb, Therese Constanze Erbe, etc.); again, **confirm each in parish books** before promoting to separate biographies.
 
 ## Family
 
@@ -36,7 +36,7 @@ Her parents in the export are [Johan Jacob Eylandt](johan-jacob-eylandt.md) and 
 
 ## Evidence
 
-- **treeId** **I299**, **F140**, **F142**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I299**, **F140**, **F142**: .
 - **Web:** named as **M.: Emilie, geb. Eylandt** on son Eugen’s [BBLD entry](https://bbld.de/GND1173663347); summary table [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md).
 - **Press (Emilie death, not found in DIGAR text layer):** Full-issue *Revalsche Zeitung* PDF **14 Jul 1872** was searched **2026-03-23** via embedded text for **Familien-Nachrichten**, **Eylandt**, **Emilie**, **Erbe** — **no** matching line; see [DIGAR URL sheet](../sources/erbe-baltic-digar-newspaper-urls.md).
 - MyHeritage URL in **`@S43@`** on Emilie’s block.

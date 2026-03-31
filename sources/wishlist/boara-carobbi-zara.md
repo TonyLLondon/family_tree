@@ -1,11 +1,11 @@
 # Wishlist — Boara / Carobbi (Zara): parish records, civil registers, Senj origins
 
-The Boara–Carobbi union (**F11**, 8 Aug 1849, Sv. Šime, Zara) is well documented in GEDCOM, Geni, and Fulvia's 1996 memoir, but **primary records** are not yet in corpus. The memoir names five of eight children; three remain unidentified. The Carobbi path from Senj → Kotor → Zara is undocumented in primary sources.
+The Boara–Carobbi union (**F11**, 8 Aug 1849, Sv. Šime, Zara) is well documented in the legacy export, Geni, and Fulvia's 1996 memoir, but **primary records** are not yet in corpus. The memoir names five of eight children; three remain unidentified. The Carobbi path from Senj → Kotor → Zara is undocumented in primary sources.
 
 **Already in repo (secondary / memoir):**
 
 - Fulvia memoir (1996): [corpus/famhist-nonna-memoir-1996/](../corpus/famhist-nonna-memoir-1996/) — Boara inheritance dispute, eight children, Lega Nazionale bequests.
-- GEDCOM: [archive/gedcom/Upload for MyHeritage 200929.ged](../../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — @I22@, @I27@, @I63@; families F11, F31, F55, F204.
+- legacy export: — @I22@, @I27@, @I63@; families F11, F31, F55, F204.
 - Geni / FamilySearch person records: FamilySearch **L22T-RHS** (Vittoria), **L22T-TMX** (Casimiro Carobbi).
 
 ---
@@ -20,7 +20,7 @@ The Boara–Carobbi union (**F11**, 8 Aug 1849, Sv. Šime, Zara) is well documen
 | Baptism registers, Sv. Šime, **c. 1850–1870** | Names of all eight Boara children (three currently unknown); godparents; birth dates |
 | Death register, Vittoria Carobbi, **11 Dec 1902** | Confirm date and burial location; any additional family details |
 | Death register, Simeone Boara, **3 Apr 1896** | Confirm date, occupation at death, burial |
-| Marriage or baptism entries pre-1849 | Resolve the **Lucia Bozich** question (GEDCOM NOTE in F11 — first wife or data error?) |
+| Marriage or baptism entries pre-1849 | Resolve the **Lucia Bozich** question (legacy export NOTE in F11 — first wife or data error?) |
 
 **Access:**
 
@@ -74,7 +74,7 @@ Would confirm Casimiro's age (→ approximate birth year), occupation, and paren
 
 | Source | Access |
 |--------|--------|
-| @S12@ original document | Locate via GEDCOM SOUR reference; may be a Geni-sourced almanac or Zara municipal yearbook |
+| @S12@ original document | Locate via legacy export SOUR reference; may be a Geni-sourced almanac or Zara municipal yearbook |
 | *Annuario Dalmata* / *Schematismo della Dalmazia* (Austrian yearbooks listing municipal officials) | Austrian National Library digital collections; HathiTrust; Google Books |
 | DAZD: Zara municipal council minutes (*Atti del Consiglio Comunale di Zara*) | DAZD fond for Zadar municipal administration |
 
@@ -87,5 +87,5 @@ Five named per memoir: Ottilia, Artemisia, Eveline, Casimiro (son), Carmela. Thr
 **Strategy:** Systematic search of Sv. Šime baptism registers 1850–1870 (Priority 1 above). Cross-reference with:
 
 - FamilySearch person pages linked from @I22@ and @I27@
-- Geni tree (GEDCOM SOUR URLs for @I22@)
+- Geni tree (legacy export SOUR URLs for @I22@)
 - Zara civil death registers 1880–1920 (would capture deaths of unmarried Boara sons who left money to the Lega Nazionale)

@@ -14,7 +14,7 @@ description: >
   on page 12 of the booklet.
 
 files:
-  media_reference: "manual/Chilean Document.pdf"
+  media_reference: "media/docs/1985-cartilla-retornado-3-comite-pro-retorno.pdf"
   page_images:
     - "media/docs/1985-cartilla-retornado-3-comite-pro-retorno-cover.jpg"
     - "media/docs/1985-cartilla-retornado-3-sexto-listado-header-page-7.jpg"

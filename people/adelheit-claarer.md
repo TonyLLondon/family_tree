@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I172** — union **F86** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I172** — union **F86**.
 
 ## Open questions
 

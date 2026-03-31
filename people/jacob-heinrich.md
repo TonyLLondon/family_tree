@@ -22,8 +22,8 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I161** — union **F81** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I161** — union **F81**.
 
 ## Open questions
 
-- Marriage date from **Sulgen** parish book (export union lacks **MARR** block in slice used).
+- Marriage date from **Sulgen** parish book (import row lacks **MARR** block in slice used).

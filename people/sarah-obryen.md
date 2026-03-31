@@ -65,7 +65,7 @@ After losing the Aran Islands to the O'Flahertys in the 1580s, the chiefs of Cla
 - [Burke's *History of Commoners* (1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/extracted.pdf.md): full genealogy. Death date 8 Nov 1786.
 - [Limerick Chronicle / Limerick Leader (2018)](../sources/corpus/limerick-chronicle-roche-merchant-family/extracted.web.md): "His mother [Sarah O'Brien] was the heir to large estates in Rathkeale, Co. Limerick and Tuam in Galway."
 - [Wikipedia — Murrough mac Toirdelbach Ó Briain](../sources/corpus/wikipedia-murrough-mac-toirdelbach-clan-tiege-aran/extracted.web.md): Hardiman (1820) names John O'Brien of Clounties as "the direct chief of that princely family."
-- **Export:** **treeId** **I359** — unions **F167**, **F169** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **MB2B-GCZ**.
+- **Tree id:** **I359** — unions **F167**, **F169**; FamilySearch **MB2B-GCZ**.
 
 ## Open questions
 

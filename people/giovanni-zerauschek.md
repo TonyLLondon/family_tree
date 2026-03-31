@@ -28,13 +28,13 @@ Bruno married **Giulietta Ceriani** on **28 February 1942** in Zara; the witness
 - Siblings: [Antonio Zerauschek](antonio-zerauschek.md), [Giuseppina](giuseppina-zerauschek.md), [Marie](marie-zerauschek.md), [Emma](emma-zerauschek.md), [Giusit](giusit-zerauschek.md), [Roberto / Besto](besto-zerauschek.md), [Riccardo](riccardo-zerauschek.md).
 - Wife: **Enrichetta Decovich** (b. 2 Feb 1894, Zara; d. 14 Oct 1972, Alghero, Sardinia).
 - Children: **fourteen** born, **seven** survived. The handwritten family tree (FT-ExtraA-001) names the surviving children:
-  - **Aldo** (b. ~1911; d. 28 Mar 1992, Trieste; left wife and two married children).
-  - **Ferruccio** (emigrated to Australia 1949 with wife and two children; grandson on the Australian national basketball team).
-  - **Bruno** (b. 17 Mar 1915, Zara; d. 22 May 1994, Mar del Plata, Argentina; m. **Giulietta Ceriani** 28 Feb 1942; son **Valter** b. ~1947, m. **Piera** of Piemonte ~1970; grandchildren **Adrian** b. ~1970, **Martin** b. ~1972, **Karina** b. ~1975). Baby daughter **Brunetta** died in infancy in Bari (no penicillin). Address: Gonzales Chavez 540, 7600 Mar del Plata, Argentina.
-  - **Emma** (m. **Gino Marsan**; settled in **Alghero**, Sardinia, near Enrichetta).
-  - **Antonio**.
-  - **Lina** (settled in **Ancona**).
-  - **Giovanni** (junior).
+ - **Aldo** (b. ~1911; d. 28 Mar 1992, Trieste; left wife and two married children).
+ - **Ferruccio** (emigrated to Australia 1949 with wife and two children; grandson on the Australian national basketball team).
+ - **Bruno** (b. 17 Mar 1915, Zara; d. 22 May 1994, Mar del Plata, Argentina; m. **Giulietta Ceriani** 28 Feb 1942; son **Valter** b. ~1947, m. **Piera** of Piemonte ~1970; grandchildren **Adrian** b. ~1970, **Martin** b. ~1972, **Karina** b. ~1975). Baby daughter **Brunetta** died in infancy in Bari (no penicillin). Address: Gonzales Chavez 540, 7600 Mar del Plata, Argentina.
+ - **Emma** (m. **Gino Marsan**; settled in **Alghero**, Sardinia, near Enrichetta).
+ - **Antonio**.
+ - **Lina** (settled in **Ancona**).
+ - **Giovanni** (junior).
 
 ## Evidence
 

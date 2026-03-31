@@ -24,11 +24,11 @@ His son Richard's 1611 work *The Golden Fleece* refers to "family bickerings, ca
 
 ## Life
 
-- **~1537** — Born (export estimate); family seated at **Ambleside** and **Burneside**, Westmorland.
+- **~1537** — Born (year is an estimate in the working tree only); family seated at **Ambleside** and **Burneside**, Westmorland.
 - Practised as a **barrister**; served as **recorder of Kendal**.
-- Purchased the **manor of Warcop** near Appleby (DNB: "Warcop"; export spelling "Worcop").
+- Purchased the **manor of Warcop** near Appleby (DNB: "Warcop"; working-tree spelling "Worcop").
 - Inherited the estate at **Burneside** on the death of his father [Robert Braithwait](robert-braithwait.md).
-- **1610** — Died at **Burneside** (DNB: "Thomas Brathwaite died in 1610"; export: buried 6 May 1610, Westmorland).
+- **1610** — Died at **Burneside** (DNB: "Thomas Brathwaite died in 1610"). The structured family tree also records burial **6 May 1610**, Westmorland—that date is not taken from the DNB entry on this page and should be pinned to a register when possible.
 
 ## Family
 
@@ -39,8 +39,8 @@ His son Richard's 1611 work *The Golden Fleece* refers to "family bickerings, ca
 ## Evidence
 
 - **DNB (1885–1900):** "Brathwaite, Richard" — identifies Thomas as a barrister, recorder of Kendal, purchaser of Warcop manor, who married Dorothy dau. of Robert Bindloss of Haulston; died 1610.
-- **Export:** **treeId** **I197** — unions **F100**, **F101** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I197** — unions **F100**, **F101**.
 
 ## Open questions
 
-- Export birthplace "Hawkshead, Lancashire" vs the family's Ambleside/Burneside seat — Hawkshead is nearby in the Lake District but in Lancashire (Furness). The DNB does not give Thomas's birthplace.
+- Older-tree birthplace string "Hawkshead, Lancashire" vs the family's Ambleside/Burneside seat — Hawkshead is nearby in the Lake District but in Lancashire (Furness). The DNB does not give Thomas's birthplace.

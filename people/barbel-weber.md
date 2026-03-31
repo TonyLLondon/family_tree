@@ -11,7 +11,7 @@ children:
 
 # Barbel Weber
 
-**Barbel Weber** married [Zacharias Schuemperli](zacharias-schuemperli.md) and was mother of [Anna Schuemperli](anna-schuemperli.md). The export slice used here has no birth or death for her.
+**Barbel Weber** married [Zacharias Schuemperli](zacharias-schuemperli.md) and was mother of [Anna Schuemperli](anna-schuemperli.md). The working-tree excerpt used here has no birth or death for her.
 
 ## Family
 
@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I168** — union **F84** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I168** — union **F84**.
 
 ## Open questions
 

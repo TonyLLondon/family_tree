@@ -62,7 +62,6 @@ When David and Fulvia died in 2000, they were buried not in Wales but at **Sirmi
 ## Related
 
 - [David John Lewis](../people/david-john-lewis.md) · [Samuel Lewis](../people/samuel-lewis.md) · [Elizabeth Lilian Cushen](../people/elizabeth-lilian-cushen.md) · [Brynmor Keith Lewis](../people/brynmor-keith-lewis.md)
-- [Lewis · Stump · Europe hub](../topics/lewis-wales-stump-europe.md)
 - [Independent Order of Odd Fellows — Manchester Unity](odd-fellows-manchester-unity.md) — Samuel Lewis as Provincial Grand Master; Aberdare lodge culture
 - [Sirmione on Lake Garda](sirmione-lake-garda.md) — where the Pendarren Street address appears on the customs declaration
 - [Northern Rhodesia — Colonial Service](northern-rhodesia-colonial-service.md) — the career the valley education made possible

@@ -52,9 +52,9 @@ Born at **Burneside** (Burneshead), near Kendal, Westmorland, he was the **secon
 - **ODNB (2004, rev. 2009):** Julie Sanders, "Brathwaite, Richard (1587/8–1673)," *Oxford Dictionary of National Biography*.
 - **Portrait inscription:** "An° 1626, Æt. 38" — establishing birth ~1588.
 - **Anthony à Wood:** Entered Oriel College 1604, aged 16.
-- **Export:** **treeId** **I195** — unions **F99**, **F100**, **F205** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **2CNB-3WT**.
+- **Tree id:** **I195** — unions **F99**, **F100**, **F205**; FamilySearch **2CNB-3WT**.
 
 ## Open questions
 
-- **Christening 29 Jan 1591 at Strickland Ketel** in the export — this conflicts with a 1588 birth from the portrait and Wood. Strickland Ketel is adjacent to Burneside; the register image would resolve whether this is an older sibling or a registration anomaly.
+- **Christening 29 Jan 1591 at Strickland Ketel** in the working tree — this conflicts with a 1588 birth from the portrait and Wood. Strickland Ketel is adjacent to Burneside; the register image would resolve whether this is an older sibling or a registration anomaly.
 - The "Lady" prefix for Frances Lawson — the DNB simply says "Frances, daughter of James Lawson of Nesham." The courtesy title may be legitimate (the Lawsons held Nesham Abbey) or a later Geni addition.

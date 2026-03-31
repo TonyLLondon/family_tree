@@ -111,9 +111,9 @@ Thomas was also active in Limerick public life for decades: he seconded **Daniel
 
 [Roche of Limerick — Forgotten Victorians](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/): Thomas listed as child of Stephen Roche × Sarah O'Bryen (second marriage). William described as "M.P. for his native city of Limerick, and its first catholic representative."
 
-### Export
+### Tree id
 
-**treeId** **I341** — unions **F160**, **F167** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+**treeId** **I341** — unions **F160**, **F167**.
 
 ## Open questions
 

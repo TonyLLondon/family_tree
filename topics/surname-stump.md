@@ -51,7 +51,6 @@ His son **[Étienne Stump](../people/etienne-stump.md)** carried the name to Teh
 
 ## Related
 
-- [Lewis (Wales) · Stump (Europe) — line hub](lewis-wales-stump-europe.md)
 - [Persia — Saginian → Burgess → Bottin → Stump](persia.md)
 - Story: [Stump — Thurgau & Tallinn](../stories/stump-thurgau-tallinn-baltic-line.md)
 - Story: [From Reval to Tehran — Étienne Stump](../stories/etienne-stump-reval-to-tehran.md)

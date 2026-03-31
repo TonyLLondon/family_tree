@@ -25,7 +25,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I89** — unions **F42**, **F43** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **[LHDT-5R5](https://www.familysearch.org/tree/person/details/LHDT-5R5)**.
+- **Tree id:** **I89** — unions **F42**, **F43**; FamilySearch **[LHDT-5R5](https://www.familysearch.org/tree/person/details/LHDT-5R5)**.
 
 ## Open questions
 

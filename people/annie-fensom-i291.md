@@ -44,7 +44,7 @@ The **1939 Register** found her with Alfred at **37 Oldershaw Road, Lower Hollow
 - [1921 Census, 4 Bratton Street, Islington](../sources/1921-census-evans-islington.md) — TNA RG 15/00915, schedule 243: Annie Evans, wife, 28, brush maker, Star Brush Company, Eden Grove, Holloway. [Transcription](../sources/corpus/1921-census-evans-bratton-street-islington/transcription.md).
 - **1939 Register:** RG101/0291F/005, schedule 61 — 37 Oldershaw Road, Lower Holloway: Annie Evans (printers maker), with Alfred (costermonger) and daughter Annie F.
 - **Death index:** Vol 5C, p. 1822 — ~Feb 1972, Islington.
-- **Export:** **treeId** **I291** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Marriage to Alfred **F50**; parental union **F137**.
+- **Tree id:** **I291**. Marriage to Alfred **F50**; parental union **F137**.
 
 ### David William & Minnie's children (11 born alive)
 
@@ -68,12 +68,12 @@ The **1939 Register** found her with Alfred at **37 Oldershaw Road, Lower Hollow
 |------|------|--------|
 | Georgina Elizabeth Fensom | ~1862 | 1881 Census |
 | David William Fensom | Oct 1864 | 1881 Census |
-| Annie Fensom | ~1870 | 1881 Census (not in GEDCOM) |
+| Annie Fensom | ~1870 | 1881 Census (not in the working tree) |
 | Ellen Fensom | ~1875 | 1881 Census |
 | Fanny Fensom | ~1877 | 1881 Census |
 
 ## Open questions
 
-- **Minnie's parents identified:** GRO marriage index confirms George Pope married **Sarah Anne Quaife** (Q4 1847, Cranbrook, Vol 5, p. 163). 1871 Census, Cranbrook, Kent confirms: father **George Pope** (b. ~1825, Cranbrook, shoemaker master), mother **Sarah Ann Quaife** (b. ~1828, Cranbrook, dressmaker). Siblings: George (~1854), Frank (~1859), Arthur (~1864), Gertrude (~1868). The GEDCOM parents (Edward Pope & Emma Day from Hammersmith) were a completely different family.
+- **Minnie's parents identified:** GRO marriage index confirms George Pope married **Sarah Anne Quaife** (Q4 1847, Cranbrook, Vol 5, p. 163). 1871 Census, Cranbrook, Kent confirms: father **George Pope** (b. ~1825, Cranbrook, shoemaker master), mother **Sarah Ann Quaife** (b. ~1828, Cranbrook, dressmaker). Siblings: George (~1854), Frank (~1859), Arthur (~1864), Gertrude (~1868). Parents named as **Edward Pope** and **Emma Day** (Hammersmith) in an working tree belong to a **different** family than Minnie’s.
 - The family was indexed as **"Fenson"** (not Fensom) in 1901 and 1911, which is why earlier searches failed.
 - Trace the older siblings (David Jr, Minnie Jr) and younger children through later records.

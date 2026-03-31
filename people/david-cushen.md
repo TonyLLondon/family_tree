@@ -17,7 +17,7 @@ children:
 
 # David Cushen (c. 1853–1907)
 
-David Cushen was a **bricklayer** and **mason** at **Dowlais**, the ironworks town on the northern rim of Merthyr Tydfil. Born about **1853** (the GEDCOM gives 28 July 1853), he was son of [Thomas Cushen](thomas-cushen.md) (1821, Cork, Ireland) and [Ann Mainwaring](ann-mainwaring.md). His family were part of the Irish Catholic migration into the south Wales iron districts — his probable uncle **Patrick Cushen** (b. ~1811, Ireland) was an **overman** in the ironworks and kept the Royal Oak Inn at Penydarren.
+David Cushen was a **bricklayer** and **mason** at **Dowlais**, the ironworks town on the northern rim of Merthyr Tydfil. Born about **1853** (the working tree gives 28 July 1853), he was son of [Thomas Cushen](thomas-cushen.md) (1821, Cork, Ireland) and [Ann Mainwaring](ann-mainwaring.md). His family were part of the Irish Catholic migration into the south Wales iron districts — his probable uncle **Patrick Cushen** (b. ~1811, Ireland) was an **overman** in the ironworks and kept the Royal Oak Inn at Penydarren.
 
 David married [Mary Morgan](mary-morgan.md) in **Q1 1876** at Merthyr Tydfil (GRO: "David Cushin", Vol 11A p. 514; MarriageFinder confirms bride was Mary Morgan). The [1891 census](../media/docs/1891-census-david-cushen-household-dowlais-rg12-4438.jpg) records them at Dowlais with eight children including twins Harriet and Ellen. By the [1901 census](../media/docs/1901-census-david-cushion-household-pond-street-dowlais-rg13-5028.jpg) the family was at **15 Pond Street**, Dowlais — surname transcribed as "Cushion" — with David now described as a **mason**, Mary, and the four youngest daughters. The older children had left home; Lily was in service at Pentrebach.
 
@@ -72,9 +72,8 @@ David died in **Q3 1907** (July–September) at Merthyr Tydfil, age 52 (GRO Vol 
 - **1881 census — 24 George Street (Royal Oak Inn), Penydarren** — Patrick Cushen (70, widower, overman, Ireland), father-in-law to Patrick Walsh. RG 11/5315 ([image](../media/docs/1881-census-patrick-cushen-royal-oak-penydarren-rg11-5315.jpg)).
 - **GRO marriage index, Q2 1902** — David Cushen, Merthyr Tydfil, Vol 11A p. 1075. MarriageFinder: "Morgan Jesse Spacey, Jane Elizabeth Murray, Catherine Healy." This is son **David T** (b. ~1880), whose wife died before 1911 ([image](../media/docs/gro-marriage-index-q2-1902-david-cushen-merthyr-tydfil.jpg)).
 
-**Export:**
-
-- **treeId** **I175** — union **F88** with Mary — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+**Tree id:**
+- **treeId** **I175** — union **F88** with Mary.
 
 ## Open questions
 

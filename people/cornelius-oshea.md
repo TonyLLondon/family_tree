@@ -64,7 +64,7 @@ Cornelius died on **12 June 1929** at the **Little Sisters of the Poor**, Cork C
 - [Mary's birth certificate](../media/docs/Ireland%20birth%20certificate%20Mary%20O%27Shea%201893-02-19%20Monkstown%20parents%20Cornelius%20O%27Shea%20Catherine%20Enright%20copy%201967.jpg) — civil registration naming **Cornelius O'Shea, National Teacher, Castle Terrace, Monkstown** and **Catherine O'Shea, formerly Enright**; informant Catherine Enright (grandmother); copy certified 12 April 1967.
 - **[1905 Teachers' Census](../sources/corpus/teachers-census-1905/)** — NAI/ED/PCO/10/1/29 (O'Keane–O'Sullivan); Cornelius is **absent** from the O'Shea entries (pages 15–17), confirming he was no longer a serving national teacher by March 1905.
 - [Ancestry profile printout — Cornelius O'Shea, 1856–1929](../media/docs/Cornelius%20O%27Shea%20Ancestry%20profile%201856-1929.jpg) — Ancestry.com profile page listing birth, baptism, marriage, 1911 residence, death, burial, parents, siblings, spouse, and children. Source: printed screenshot scanned July 2021.
-- **treeId** **I118**: [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **treeId** **I118**: .
 
 ## Open questions
 
@@ -72,4 +72,4 @@ Cornelius died on **12 June 1929** at the **Little Sisters of the Poor**, Cork C
 - **1901 Irish census** — Cornelius is **absent** from the [grandmother's household (Form B 7)](../sources/corpus/1901-census-enright-oshea-household-monkstown-cork/transcription.md), where his wife Catherine and daughters Mary and Madeline appear under Catherine Enright Sr as head. His own 1901 return has not been located — he may appear on a separate schedule in the Monkstown / Passage West area, or may already be lodging elsewhere.
 - **1911 Irish census** — Cornelius is **absent** from the [Monkstown household (Form B 34)](../sources/corpus/catherine-enright-1911-30da5b22af/transcription.md). His own return: [lodger at 4 James Street, Cork City](../sources/corpus/1911-census-cornelius-oshea-lodger-james-street-cork/transcription.md) — a common lodging house run by Robert John Rice with 20 male lodgers. Cornelius, age 52, records his occupation as **School Master**, marital status **Married**, 19 years, 3 children born, 3 living (matching Catherine's return exactly). He speaks **Irish and English**.
 - **Why absent from the 1905 Teachers' Census?** — He lived until 1929, so this was retirement or a change of profession rather than death. By 1911 he was lodging in Cork City.
-- Link **S13** source note in the GEDCOM to a PDF in `media/docs/`.
+- Link **S13** source note in the working tree to a PDF in `media/docs/`.

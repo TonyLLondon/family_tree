@@ -11,7 +11,7 @@ children:
 
 # Giuseppina Magassich
 
-**Giuseppina Magassich** married [Giovanni Erenda](giovanni-erenda.md) and was mother of [Anna Herenda](anna-herenda.md). The export marks death **Y** without birth or full date.
+**Giuseppina Magassich** married [Giovanni Erenda](giovanni-erenda.md) and was mother of [Anna Herenda](anna-herenda.md). The working tree marks death **Y** without birth or full date.
 
 ## Family
 
@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I392** — union **F184** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I392** — union **F184**.
 
 ## Open questions
 

@@ -48,22 +48,22 @@ Asked by his son Ivor what he had done to earn the Silver Star, David replied: *
 - **23 Aug 1940** — **Emergency commission** as **2nd Lieutenant**, Welch Regiment (army number **143587**). London Gazette Supplement 34928 (20 Aug 1940), p. 5145.
 - **1942** — **Western Desert Campaign**.
 - **Second World War — Italy** — **Major**, **1st Battalion, The Welch Regiment**. Full narrative: [David John Lewis — Sicily to the Po, and the U.S. Silver Star](../stories/david-john-lewis-italy-1945-silver-star.md).
-  - **May 1943** — 1st Welch joined **168th (2nd London) Brigade**, attached to **50th Northumbrian Division**.
-  - **Jul 1943** — **Sicily** (Operation Husky): Allied invasion. Lewis later recalled being pinned down by enemy guns on the beach near **Avola**, when Admiral Sir William Davies' light cruiser **HMS *Mauritius*** bombarded the shore — *"Probably saved my life."*
-  - **Oct 1943** — 168th Brigade returned to **56th (London) Division** on the Italian mainland.
-  - **Jan 1944** — **Garigliano crossing / First Battle of Monte Cassino**.
-  - **Feb–Mar 1944** — **Anzio**: 168th Brigade detached to reinforce the bridgehead under 1st British Division / U.S. VI Corps. The brigade suffered **50% casualties** — the worst of the 56th Division's three brigades.
-  - **1944** — Promoted to **Major**.
-  - **Jul 1944** — Brigade rebuilt (including ex-RA anti-aircraft gunners retrained as infantry); landed **Taranto**.
-  - **Aug–Sep 1944** — **Gothic Line / Battle of Gemmano** (Operation Olive). 56th Division took ~6,000 casualties, nearly half the Eighth Army total for Olive.
-  - **Sep 1944** — 1st Welch reduced to **cadre**; left 168th Brigade.
-  - **Winter 1944–45** — Battalion rebuilt; joined **61st Infantry Brigade, 6th Armoured Division**.
-  - **13–19 Apr 1945** — **Battle of the Argenta Gap**: 6th Armoured Division part of V Corps breakthrough.
-  - **23 Apr 1945** — **Bondeno** captured; linked with U.S. 10th Mountain Division at Finale.
-  - **25 Apr 1945** — **Po bridgehead / Faccenda**: Lewis ordered to seize and hold hamlet on the right flank. Led platoon assaults against machine-gun positions and a counterattack. Awarded **U.S. Silver Star** (GO No. 285, 10 Nov 1945).
-  - **2 May 1945** — German surrender in Italy.
-  - **May 1945** — 6th Armoured Division moved to **Austria**. Lewis recalled that he **ended his war in Austria**. Division subsequently deployed to the **Trieste** border zone.
-  - **4 Dec 1945** — Battalion stationed at **Sirmione, Lake Garda**. Battalion Orders (No. 113, Lt-Col D.L.C. Reynolds OBE commanding) formally announce the Silver Star under "Honours and Awards." It was here, at Sirmione, that David met **Fulvia Zerauschek**.
+ - **May 1943** — 1st Welch joined **168th (2nd London) Brigade**, attached to **50th Northumbrian Division**.
+ - **Jul 1943** — **Sicily** (Operation Husky): Allied invasion. Lewis later recalled being pinned down by enemy guns on the beach near **Avola**, when Admiral Sir William Davies' light cruiser **HMS *Mauritius*** bombarded the shore — *"Probably saved my life."*
+ - **Oct 1943** — 168th Brigade returned to **56th (London) Division** on the Italian mainland.
+ - **Jan 1944** — **Garigliano crossing / First Battle of Monte Cassino**.
+ - **Feb–Mar 1944** — **Anzio**: 168th Brigade detached to reinforce the bridgehead under 1st British Division / U.S. VI Corps. The brigade suffered **50% casualties** — the worst of the 56th Division's three brigades.
+ - **1944** — Promoted to **Major**.
+ - **Jul 1944** — Brigade rebuilt (including ex-RA anti-aircraft gunners retrained as infantry); landed **Taranto**.
+ - **Aug–Sep 1944** — **Gothic Line / Battle of Gemmano** (Operation Olive). 56th Division took ~6,000 casualties, nearly half the Eighth Army total for Olive.
+ - **Sep 1944** — 1st Welch reduced to **cadre**; left 168th Brigade.
+ - **Winter 1944–45** — Battalion rebuilt; joined **61st Infantry Brigade, 6th Armoured Division**.
+ - **13–19 Apr 1945** — **Battle of the Argenta Gap**: 6th Armoured Division part of V Corps breakthrough.
+ - **23 Apr 1945** — **Bondeno** captured; linked with U.S. 10th Mountain Division at Finale.
+ - **25 Apr 1945** — **Po bridgehead / Faccenda**: Lewis ordered to seize and hold hamlet on the right flank. Led platoon assaults against machine-gun positions and a counterattack. Awarded **U.S. Silver Star** (GO No. 285, 10 Nov 1945).
+ - **2 May 1945** — German surrender in Italy.
+ - **May 1945** — 6th Armoured Division moved to **Austria**. Lewis recalled that he **ended his war in Austria**. Division subsequently deployed to the **Trieste** border zone.
+ - **4 Dec 1945** — Battalion stationed at **Sirmione, Lake Garda**. Battalion Orders (No. 113, Lt-Col D.L.C. Reynolds OBE commanding) formally announce the Silver Star under "Honours and Awards." It was here, at Sirmione, that David met **Fulvia Zerauschek**.
 - **1947** — Demobilised with rank of **Major**. Returned to Sirmione to marry Fulvia. By **mid-October 1947** the couple were at Sirmione preparing the *corredo di nozze* (wedding trousseau) for export to England — the customs declaration, signed "David J. Lewis. Major." at the British Consulate General in Milan (17 Oct 1947), gave his address as **32 Pendarren Street, Aberdare** (his parents' home).
 - **23 May 1946** — **Mentioned in dispatches** (London Gazette, Supplement 37575, p. 2466).
 - **18 Jul 1947** — Silver Star formally gazetted (London Gazette, Second Supplement 38018, p. 3319).
@@ -172,14 +172,13 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 
 ## Evidence
 
-- Hub: [Lewis · Stump · Europe](../topics/lewis-wales-stump-europe.md) — Ireland / chart / Baltic corpus clusters.
 - Topic: [British Administration of Tripolitania and the Rise of King Idris](../topics/libya-tripolitania-british-administration.md) — BMA 1943–51, Emirate of Cyrenaica, Idris reception 1949.
 - Topic: [Northern Rhodesia — Colonial Service](../topics/northern-rhodesia-colonial-service.md) — district administration, Congo crisis, transition to Zambia.
 - Topic: [Keep Britain Tidy Group](../topics/keep-britain-tidy-group.md) — environmental campaigning and royal patronage (1969–c. 1987).
 - Topic: [Sirmione on Lake Garda](../topics/sirmione-lake-garda.md) — the family's axis mundi (1945–2000).
 - Topic: [Aberdare and the Welsh Valleys](../topics/aberdare-welsh-valleys.md) — 32 Pendarren Street, Aberdare Grammar School, Bristol University.
 - [Lewis / White / Roche / Ireland corpus cluster](../sources/lewis-white-roche-ireland-corpus-cluster.md) — census, MyHeritage charts, Limerick, Obolensky (`corpus/<slug>/`).
-- **Export:** **treeId** **I8** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%200929.ged) · [alternate export snapshot](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged) (MyHeritage URL in note).
+- **Tree id:** **I8** (MyHeritage URL in note).
 - [1911 census — Aberdare household (David J Lewis)](../media/docs/1911%20census%2041%20Glen%20Road%20Aberdare%20David%20J%20Lewis%20household%20schedule%2079.jpg) (grandfather's household; not this David's generation).
 
 ### Military evidence
@@ -318,16 +317,16 @@ Six photographs from the Tripolitania posting, separate from the Idris reception
 - **Library of Congress authority — Keep Britain Tidy Group:** [loc-authority-keep-britain-tidy-group](../sources/corpus/loc-authority-keep-britain-tidy-group/) (LCCN n86809834; confirms Bostel House, Brighton address).
 - **KBT founder — Lady Brunner:** [kbt-founder-lady-brunner-oxford-mail](../sources/corpus/kbt-founder-lady-brunner-oxford-mail/extracted.web.md) (Oxford Mail, context on early leadership).
 - **British Newspaper Archive (FindMyPast, March 2026):**
-  - [Merthyr Express, 21 Feb 1948 — "Other Posts"](../sources/corpus/1948-merthyr-express-david-lewis-quakers-yard/transcription.md) ([scan](../media/docs/1948-merthyr-express-david-lewis-quakers-yard-appointment.png)) — "Mr. D. J. Lewis, Pendarren-street, Aberdare, history teacher at Quakers' Yard Grammar School." Appointed by the Merthyr Education Committee; confirms the brief teaching post between Bristol and the Colonial Service.
-  - [Aberdare Leader, 2 Mar 1946 — "U.S. Silver Star Awarded to Aberdare Major"](../sources/corpus/1946-aberdare-leader-david-lewis-silver-star/transcription.md) ([scan](../media/docs/1946-aberdare-leader-david-lewis-silver-star.png)) — **Illustrated article with portrait photograph.** Full text of the Silver Star citation from General Orders No. 285, sent to David's parents at Pendarren Street, Aberdare. Describes the action at Faccenda on 25 April 1945: leading platoon assaults against machine-gun positions, overrunning the enemy (7 killed, 6 captured), then repelling a counterattack. The paper notes "some weeks ago we reported" the award — an earlier, shorter announcement has not yet been located.
-  - [Aberdare Leader, 17 Nov 1951 — "Home from North Africa"](../sources/corpus/1951-aberdare-leader-major-david-lewis-home-from-africa/transcription.md) ([scan](../media/docs/1951-aberdare-leader-major-david-lewis-home-from-north-africa.png)) — Welcome tea at Carmel (C.M.), Trecynon, for "Major David John Lewis, son of Mr. and Mrs. Samuel Lewis, Penydarren Street, Aberdare." Confirms three years with the Foreign Office administering Tripolitania, then transfer to Colonial Office in Northern Rhodesia. David and Samuel thanked Carmel members; David presented a communion cloth "embroidered with lace crocheted by his mother."
-  - 368 results for "David Lewis" + "Keep Britain Tidy". Key articles:
-  - [Hartlepool Northern Daily Mail, 28 August 1973 — "Keeping Britain Tidy"](../sources/corpus/1973-hartlepool-mail-keeping-britain-tidy/transcription.md) — illustrated feature on KBT's Bank Holiday anti-litter campaigns.
-  - [St. Andrews Citizen, 15 July 1983 — "Blooming Britain"](../sources/corpus/1983-st-andrews-citizen-blooming-britain-david-lewis/transcription.md) — quotes "Mr David Lewis, Director General" on the Britain in Bloom competition.
-  - [Dundee Courier, 12 April 1985 — "Teams to Keep Tayside Tidy"](../sources/corpus/1985-dundee-courier-david-lewis-kbt-tayside/transcription.md) — "Mr David J Lewis, the director general of the Keep Britain Tidy Group" visiting Dundee. One of the latest dated press references to his KBT role.
-  - [Arbroath Herald, 26 July 1974 — "Floral Britain"](../sources/corpus/1974-arbroath-herald-floral-britain-fulvia-lewis-trophy/transcription.md) ([scan](../media/docs/1974-arbroath-herald-floral-britain-fulvia-lewis-trophy.png)) — earliest located press reference to the "Fulvia Lewis Keep Britain Tidy Trophy": "A trophy donated by Mrs Fulvia Lewis, wife of 'Keep Britain Tidy' Director General, David Lewis, will be presented to the finalist most active in litter prevention." 1973 winner: Bridlington, Yorkshire.
-  - [Buxton Advertiser, 7 July 1977 — "Blooming"](../sources/corpus/1977-buxton-advertiser-blooming-fulvia-lewis-trophy/transcription.md) ([scan](../media/docs/1977-buxton-advertiser-blooming-fulvia-lewis-trophy.png)) — "A trophy given by Mrs Fulvia Lewis — wife of 'Keep Britain Tidy' Director David Lewis." 1977 Britain in Bloom with record entries including Buxton.
-  - Multiple job advertisements (1972–1978) in Birmingham Daily Post, The Scotsman, and regional papers with "Apply … to David Lewis, Keep Britain Tidy Group" — confirming his name, title, and office addresses (86 Strand, London; Bostel House, Brighton).
+ - [Merthyr Express, 21 Feb 1948 — "Other Posts"](../sources/corpus/1948-merthyr-express-david-lewis-quakers-yard/transcription.md) ([scan](../media/docs/1948-merthyr-express-david-lewis-quakers-yard-appointment.png)) — "Mr. D. J. Lewis, Pendarren-street, Aberdare, history teacher at Quakers' Yard Grammar School." Appointed by the Merthyr Education Committee; confirms the brief teaching post between Bristol and the Colonial Service.
+ - [Aberdare Leader, 2 Mar 1946 — "U.S. Silver Star Awarded to Aberdare Major"](../sources/corpus/1946-aberdare-leader-david-lewis-silver-star/transcription.md) ([scan](../media/docs/1946-aberdare-leader-david-lewis-silver-star.png)) — **Illustrated article with portrait photograph.** Full text of the Silver Star citation from General Orders No. 285, sent to David's parents at Pendarren Street, Aberdare. Describes the action at Faccenda on 25 April 1945: leading platoon assaults against machine-gun positions, overrunning the enemy (7 killed, 6 captured), then repelling a counterattack. The paper notes "some weeks ago we reported" the award — an earlier, shorter announcement has not yet been located.
+ - [Aberdare Leader, 17 Nov 1951 — "Home from North Africa"](../sources/corpus/1951-aberdare-leader-major-david-lewis-home-from-africa/transcription.md) ([scan](../media/docs/1951-aberdare-leader-major-david-lewis-home-from-north-africa.png)) — Welcome tea at Carmel (C.M.), Trecynon, for "Major David John Lewis, son of Mr. and Mrs. Samuel Lewis, Penydarren Street, Aberdare." Confirms three years with the Foreign Office administering Tripolitania, then transfer to Colonial Office in Northern Rhodesia. David and Samuel thanked Carmel members; David presented a communion cloth "embroidered with lace crocheted by his mother."
+ - 368 results for "David Lewis" + "Keep Britain Tidy". Key articles:
+ - [Hartlepool Northern Daily Mail, 28 August 1973 — "Keeping Britain Tidy"](../sources/corpus/1973-hartlepool-mail-keeping-britain-tidy/transcription.md) — illustrated feature on KBT's Bank Holiday anti-litter campaigns.
+ - [St. Andrews Citizen, 15 July 1983 — "Blooming Britain"](../sources/corpus/1983-st-andrews-citizen-blooming-britain-david-lewis/transcription.md) — quotes "Mr David Lewis, Director General" on the Britain in Bloom competition.
+ - [Dundee Courier, 12 April 1985 — "Teams to Keep Tayside Tidy"](../sources/corpus/1985-dundee-courier-david-lewis-kbt-tayside/transcription.md) — "Mr David J Lewis, the director general of the Keep Britain Tidy Group" visiting Dundee. One of the latest dated press references to his KBT role.
+ - [Arbroath Herald, 26 July 1974 — "Floral Britain"](../sources/corpus/1974-arbroath-herald-floral-britain-fulvia-lewis-trophy/transcription.md) ([scan](../media/docs/1974-arbroath-herald-floral-britain-fulvia-lewis-trophy.png)) — earliest located press reference to the "Fulvia Lewis Keep Britain Tidy Trophy": "A trophy donated by Mrs Fulvia Lewis, wife of 'Keep Britain Tidy' Director General, David Lewis, will be presented to the finalist most active in litter prevention." 1973 winner: Bridlington, Yorkshire.
+ - [Buxton Advertiser, 7 July 1977 — "Blooming"](../sources/corpus/1977-buxton-advertiser-blooming-fulvia-lewis-trophy/transcription.md) ([scan](../media/docs/1977-buxton-advertiser-blooming-fulvia-lewis-trophy.png)) — "A trophy given by Mrs Fulvia Lewis — wife of 'Keep Britain Tidy' Director David Lewis." 1977 Britain in Bloom with record entries including Buxton.
+ - Multiple job advertisements (1972–1978) in Birmingham Daily Post, The Scotsman, and regional papers with "Apply … to David Lewis, Keep Britain Tidy Group" — confirming his name, title, and office addresses (86 Strand, London; Bostel House, Brighton).
 - **The Spectator (9 Oct 1976):** Elisabeth Dunn, "Consuming Interest: Litter Louts" — contemporary article discussing KBT's campaigns, enforcement philosophy, and forthcoming Queen's Jubilee clean-up (1977) during Lewis's tenure as Director-General. [Archive](http://archive.spectator.co.uk/article/9th-october-1976/14/consuming-interest).
 - **LSE Archives — Brunner Papers (BRUNNER/4):** KBT annual reports 1961/62–1978, including folders covering 1970/71–1975 and 1977–1978 — would name the Director-General across Lewis's tenure. Held at The Women's Library, LSE. [Catalogue](https://archives.lse.ac.uk/records/BRUNNER/4).
 
@@ -404,13 +403,13 @@ The 1995 date on the last painting suggests these may be later works from memory
 - **NRZam.org.uk — Northern Rhodesia Government Staff List (1962):** Alphabetical staff list in image format; the "L" section has not been retrieved. Would confirm Lewis's exact grade and posting as of 1962. [Site](https://www.nrzam.org.uk/).
 - **Probate record (England & Wales, 2000):** Not found online; the probate registry covers post-1858 grants. A formal search at the Probate Registry or via gov.uk would confirm estate details and address at death.
 - **Manual inbox (not committed):** Five batches of scanned personal records in `manual/01 - David John Lewis[1–5]/` (~11,100 files). Critical evidence has been copied to `media/docs/david-john-lewis-colonial-service/`, `media/docs/david-john-lewis-war/`, `media/docs/david-john-lewis-kbt/`, and `media/docs/david-john-lewis-personal/`. Remaining uncatalogued material includes:
-  - **20+ personal diaries** (1950–1968) covering the entire colonial career, year by year.
-  - **45-page handwritten Bristol University essay** (`DjEssayBr-001.jpg` through `DjEssayBr-045.jpg`).
-  - **150+ family photographs** across five albums (Photos-01 and Photos-02).
-  - **NR Government letters** spanning 1952–1969 (official postings, promotions, transfers).
-  - **Zambian Government correspondence** (1964–1970, in and out) — over 100 items.
-  - **NR and Zambian press clippings** from Livingstone (1958), Ndola promotions (1960), Zambia TV (1965), and *Zambia Mail* (1969).
-  - **Financial records:** Barclays NR bank records, DFID pension papers, NR/Zambian pay slips (monthly, 1964–1966).
-  - **Tripoli period:** OHMS appointment (Jan 1949), Thomas Cook travel documents (1950), gun licences (1950–51), customs paperwork.
-  - **Teaching career (1948):** Central Board for Mathematics Teaching correspondence, Ministry of Education letters, education diary pages.
-  - **Condolence letters (2000–2001):** Over 60 letters from former colleagues in Northern Rhodesia, Italy, and Britain.
+ - **20+ personal diaries** (1950–1968) covering the entire colonial career, year by year.
+ - **45-page handwritten Bristol University essay** (`DjEssayBr-001.jpg` through `DjEssayBr-045.jpg`).
+ - **150+ family photographs** across five albums (Photos-01 and Photos-02).
+ - **NR Government letters** spanning 1952–1969 (official postings, promotions, transfers).
+ - **Zambian Government correspondence** (1964–1970, in and out) — over 100 items.
+ - **NR and Zambian press clippings** from Livingstone (1958), Ndola promotions (1960), Zambia TV (1965), and *Zambia Mail* (1969).
+ - **Financial records:** Barclays NR bank records, DFID pension papers, NR/Zambian pay slips (monthly, 1964–1966).
+ - **Tripoli period:** OHMS appointment (Jan 1949), Thomas Cook travel documents (1950), gun licences (1950–51), customs paperwork.
+ - **Teaching career (1948):** Central Board for Mathematics Teaching correspondence, Ministry of Education letters, education diary pages.
+ - **Condolence letters (2000–2001):** Over 60 letters from former colleagues in Northern Rhodesia, Italy, and Britain.

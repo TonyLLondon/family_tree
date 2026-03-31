@@ -4,7 +4,7 @@ title: Evans · Cerpa Pérez — London & Chile
 
 # Evans · Cerpa Pérez — London & Chile
 
-**Scope:** The **London Evans** line from Holborn and Islington (via [Alfred Evans](../people/alfred-evans-i101.md) and his son [Joseph Evans (1940)](../people/joseph-evans-i18.md)) and the **Chilean Maule** ancestry of [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) — the union (**F9**, 1982) that brings the Americas into the same structured tree as the Welsh Lewis branch. **Master topology:** [family-tree.json](../family-tree.json). **Sibling hub (Wales, Baltic, Ireland):** [Lewis · Stump · Europe](lewis-wales-stump-europe.md).
+**Scope:** The **London Evans** line from Holborn and Islington (via [Alfred Evans](../people/alfred-evans-i101.md) and his son [Joseph Evans (1940)](../people/joseph-evans-i18.md)) and the **Chilean Maule** ancestry of [Helia Cerpa-Pérez](../people/helia-cerpa-perez.md) — the union (**F9**, 1982) that brings the Americas into the same structured tree as the Welsh Lewis branch. **Master topology:** [Structured family tree](../family-tree.json).
 
 This page is the **working hub** for registers, civil records, and family media that are still thin compared with the Persia and Dalmatia corpora; it names the key JSON anchors so research can accumulate in one place. **Narratives:**
 
@@ -75,7 +75,7 @@ Parents of [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) (**F1
 | Person | Tree id | Vitals |
 |--------|---------|--------|
 | [Miguel Luis Cerpa González](../people/miguel-cerpa-gonzalez-i346.md) | `I346` | b. 1910 Chanco, Cauquenes; d. 1966 |
-| [Laurencia del Carmen Pérez Escobar](../people/laurencia-perez-escobar-i347.md) | `I347` | b. **16 Jul 1912** Parral, Linares (FamilySearch [GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3); GEDCOM had 27 Mar 1910); d. **9 Dec 2002** Coquimbo |
+| [Laurencia del Carmen Pérez Escobar](../people/laurencia-perez-escobar-i347.md) | `I347` | b. **16 Jul 1912** Parral, Linares (FamilySearch [GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3); an older pedigree gave 27 Mar 1910); d. **9 Dec 2002** Coquimbo |
 | [Miguel Antonio Cerpa Pérez](../people/miguel-cerpa-perez-i352.md) | `I352` | b. 1948; d. 2015-10-11 — **F162** with Helia |
 | [René Cerpa González](../people/rene-cerpa-gonzalez-i353.md) | `I353` | **F163** — brother of Miguel **`I346`** |
 | [Narciso Cerpa Gonzales](../people/narciso-cerpa-gonzales-i354.md) | `I354` | **F163**; b. 1912, d. 2009 |
@@ -122,5 +122,4 @@ Parents of [Helia del Carmen Cerpa Pérez](../people/helia-cerpa-perez.md) (**F1
 
 ## Related
 
-- [Lewis · Stump · Europe](lewis-wales-stump-europe.md) — Wales coalfield, Stump–Erbe, Spencer–Evans table
 - [Ireland / Roche / White cluster](../sources/lewis-white-roche-ireland-corpus-cluster.md) — Louisa Spencer context

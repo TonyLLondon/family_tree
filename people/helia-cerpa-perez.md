@@ -132,19 +132,20 @@ General Pinochet was arrested in London on 16 October 1998 on a warrant from Spa
 ## Evidence
 
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
-- **Export:** **treeId** **I19** — birth union **F162** with parents; marriage **F9** with Joseph — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I19** — birth union **F162** with parents; marriage **F9** with Joseph.
 
 ### Estadio Nacional detention
 
 - [Cambio21, "Las mujeres víctimas de la dictadura prisioneras en el Estadio Nacional," 31 Dec 2018](https://cambio21.cl/cambio21/las-mujeres-vctimas-de-la-dictadura-prisioneras-en-el-estadio-nacional-conzca-en-exclusiva-los-nombres-de-405-detenidas-en-el-principal-coliseo-deportivo-en-1973-5c26692bcd49b0733e070387) — "CERPA PEREZ HELIA DEL C" on official Corporación list of 405 women prisoners. Corpus: [cambio21-405-mujeres-estadio-nacional-2018](../sources/corpus/cambio21-405-mujeres-estadio-nacional-2018/source.yaml).
 - [Correo de los Trabajadores syndication, 31 Dec 2018](https://cctt.cl/2018/12/31/estadio-nacional-de-chile-mas-de-400-mujeres-detenidas/) — same list with Marcelo Montecino photograph. Corpus: [cctt-mujeres-estadio-nacional-2018](../sources/corpus/cctt-mujeres-estadio-nacional-2018/source.yaml).
+- [Salvador Allende GAP syndication, 31 Dec 2018](https://www.gap-chile.org/noticias/newscbm_276098/144/) — same list republished by the Grupo de Amigos Personales de Salvador Allende. Corpus: [gap-chile-mujeres-estadio-nacional-2018](../sources/corpus/gap-chile-mujeres-estadio-nacional-2018/source.yaml).
 - [Corporación Estadio Nacional Memoria Viva — Camarín de Mujeres](https://www.memoriaestadionacional.cl/camarin-norte/) — official memory site; copper plaques with detainees' names in the camarín norte.
 - Citation card: [sources/estadio-nacional-mujeres-detenidas-2018.md](../sources/estadio-nacional-mujeres-detenidas-2018.md).
 
 ### Prohibición de ingreso (banned list)
 
 - *Cartilla del Retornado* Nº 3, November 1985 (Comité Pro-Retorno de Exiliados / Vicaría de la Solidaridad) — "Cerpa Pérez, Helia del Carmen" on page 12 of the *Sexto listado* (6th edition, 15 July 1985; 4,360 names). Corpus: [1985-cartilla-retornado-3-prohibicion-ingreso](../sources/corpus/1985-cartilla-retornado-3-prohibicion-ingreso/source.yaml). Citation card: [cartilla-retornado-prohibicion-ingreso-1985.md](../sources/cartilla-retornado-prohibicion-ingreso-1985.md).
-- Evidence images: [cover](../media/docs/1985-cartilla-retornado-3-comite-pro-retorno-cover.jpg), [list header p. 7](../media/docs/1985-cartilla-retornado-3-sexto-listado-header-page-7.jpg), [Helia's entry p. 12](../media/docs/1985-cartilla-retornado-3-cerpa-perez-helia-page-12.jpg).
+- Full booklet (33 pp.): [media/docs/1985-cartilla-retornado-3-comite-pro-retorno.pdf](../media/docs/1985-cartilla-retornado-3-comite-pro-retorno.pdf). Evidence images: [cover](../media/docs/1985-cartilla-retornado-3-comite-pro-retorno-cover.jpg), [list header p. 7](../media/docs/1985-cartilla-retornado-3-sexto-listado-header-page-7.jpg), [Helia's entry p. 12](../media/docs/1985-cartilla-retornado-3-cerpa-perez-helia-page-12.jpg).
 - OAS IACHR, *Report on the Situation of Human Rights in Chile* (1985), [Chapter VI(a) — Right of Residence and Movement](https://cidh.oas.org/countryrep/Chile85eng/chap.6a.htm) — documents the banned-list system, the September 1985 list of 3,878, and the regime's violation of Article VIII of the American Declaration.
 - OAS IACHR Annual Report 1986–87, [Chapter IV(c) — Chile](https://www.cidh.oas.org/annualrep/86.87sp/cap.4c.htm) — 3,717 banned in 1986, reduced to 623 by June 1987.
 - Decreto Nº 203 (Ministry of the Interior, 1 September 1988) — lifted the ban for the final 512 persons, officially ending the exile (deliberately timed after voter-registration closure for the 5 October 1988 plebiscite).
@@ -201,7 +202,7 @@ General Pinochet was arrested in London on 16 October 1998 on a warrant from Spa
 
 ### Possible relatives — Valech victims
 
-The Comisión Nacional sobre Prisión Política y Tortura (Valech I, 2004) recognised 28,459 survivors of political imprisonment and torture under the dictatorship (1973–1990). OCR search of the full 255-page victim list ([corpus bundle](../sources/corpus/valech-i-nomina-victimas/source.yaml); PDF in `media/docs/chile-valech/`) returned the following entries sharing surnames with Helia's parents:
+The Comisión Nacional sobre Prisión Política y Tortura (Valech I, 2004) recognised 28,459 survivors of political imprisonment and torture under the dictatorship (1973–1990). OCR search of the full 255-page victim list ([corpus bundle](../sources/corpus/valech-i-nomina-victimas/source.yaml); PDF in `media/docs/chile-valech/`) returned the following entries sharing surnames with Helia's parents. The subsequent Valech II commission (2011) recognised a further 9,795 victims ([corpus bundle](../sources/corpus/valech-ii-nomina-victimas/source.yaml); PDF in `media/docs/chile-valech/`).
 
 **Helia does not appear in either Valech I (2004) or Valech II (2011)**, despite her documented detention at the Estadio Nacional. She never testified to either commission — a pattern common among women survivors, particularly those who experienced sexual violence at the stadium. Her detention is, however, documented independently by the Corporación Estadio Nacional Memoria Nacional's list of 405 women prisoners (see **Detention — Estadio Nacional** above).
 

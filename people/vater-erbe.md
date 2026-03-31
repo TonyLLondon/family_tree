@@ -9,7 +9,7 @@ children:
 
 # Vater Erbe
 
-GEDCOM placeholder individual: **given name** is literally **“Vater”** (German for *father*) with surname **ERBE**, **treeId** **I322** as **HUSB** in **F153** with child [Hanns Erbe](hanns-erbe.md). This usually means the actual first name was **unknown** when the Geni/MyHeritage merge was exported.
+This **tree placeholder** treats **given name** literally as **“Vater”** (German for *father*) with surname **ERBE**, **treeId** **I322** as a parent in union **F153** with child [Hanns Erbe](hanns-erbe.md). The true first name was probably **unknown** when older desktop imports were merged in.
 
 ## Family
 
@@ -17,7 +17,7 @@ GEDCOM placeholder individual: **given name** is literally **“Vater”** (Germ
 
 ## Evidence
 
-- **treeId** **I322**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F153** only.
+- **treeId** **I322** — union **F153** only ([Structured family tree](../family-tree.json)).
 ## Open questions
 
-- **Replace placeholder** — identify **Hanns**’s father from **Schweinau** baptism; then map **treeId** **I322** to a real **NAME** line in a cleaned GEDCOM.
+- **Replace placeholder** — identify **Hanns**’s father from **Schweinau** baptism; then map **treeId** **I322** to a real person in the structured tree.

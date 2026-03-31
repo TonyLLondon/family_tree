@@ -27,9 +27,9 @@ children:
 
 - Wife: **Sibell Mackreth** (married 6 Nov 1634, Hawkshead).
 - Known children:
-  - *George* (bap. 26 Apr 1635, Hawkshead) — died in infancy.
-  - [**George**](george-brathwaite.md) (bap. 7 May 1637, Hawkshead) — married Agnes Benson; settled at Swarthmoor.
-  - **[?] Brathwaite** (daughter) — described as "second daughter of William Brathwaite" in the Swarthmoor marriage register (1664). She married Barnard Benson son of Francis Benson "in the house of George Brathwaite." This confirms William had at least two daughters as well as son George.
+ - *George* (bap. 26 Apr 1635, Hawkshead) — died in infancy.
+ - [**George**](george-brathwaite.md) (bap. 7 May 1637, Hawkshead) — married Agnes Benson; settled at Swarthmoor.
+ - **[?] Brathwaite** (daughter) — described as "second daughter of William Brathwaite" in the Swarthmoor marriage register (1664). She married Barnard Benson son of Francis Benson "in the house of George Brathwaite." This confirms William had at least two daughters as well as son George.
 - Possible additional children: Other Braithwait baptisms at Hawkshead with father "Wm." or "Will." include Dorathie (1627), Edward (1628), Agnes (1635), and Edward (1647). Multiple William Braithwaites were active at Hawkshead simultaneously, so attribution of these children to our William is uncertain.
 
 ## Evidence

@@ -21,10 +21,10 @@ First World War **soldier-turned-airman** (**RAF official number 125257**) whose
 
 ### Before the war
 
-- **Mar 1892** — Born **Maldon, Essex** (vitals from merged export aligned to structured tree). Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md) and [Alma Newcomb](alma-newcomb-i106.md); their marriage **1879** in the working tree. Father died the same year (~1892).
+- **Mar 1892** — Born **Maldon, Essex** (vitals from working tree aligned to structured tree). Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md) and [Alma Newcomb](alma-newcomb-i106.md); their marriage **1879** in the working tree. Father died the same year (~1892).
 - **1901 Census** — aged 9, living as step-son of **Reuben South** (farm dayman) at Little Totham, Essex. Mother Alma had remarried. [Source card](../sources/1901-census-south-coolbear-little-totham.md).
 - **Civilian occupation** — **Chimney sweep** (RAF service form, field 5a).
-- **28 Oct 1911** — Marriage to [Rosina A Martin](rosina-a-martin-i104.md). Town on the service form is partially legible (possibly Bottlewell / Southwell). The merged export had **December 1911**; the form's **28.10.11** is primary evidence and takes precedence.
+- **28 Oct 1911** — Marriage to [Rosina A Martin](rosina-a-martin-i104.md). Town on the service form is partially legible (possibly Bottlewell / Southwell). The working tree had **December 1911**; the form's **28.10.11** is primary evidence and takes precedence.
 - **Mar 1916** — Daughter [May Coolbear](may-coolbear-i100.md) born (tree).
 - **Physical description** (RAF form, field 8) — Height **5 ft 7 in**, chest **39 in**.
 
@@ -86,10 +86,10 @@ The character page records medal dates: BWM + VM authorised 23/4/12 to 5/5/22; 1
 - Parents: [George Gridley Coolbear](george-gridley-coolbear-i105.md); [Alma Newcomb](alma-newcomb-i106.md).
 - Wife: [Rosina A Martin](rosina-a-martin-i104.md) (b. 1891, Orpington, Kent). Daughter of **Peter Martin**, chimney sweep from Woolwich — a trade family connection. Rosina's brother **Edward Martin** lived with the Coolbears in 1921.
 - Children:
-  - Archibald Coolbear Jr (I593, b. 8 Feb 1912, Rochford, Essex) — married Rosina Angus (b. 25 Mar 1909); by 1939 at 28 Crown Mansions, Lower Holloway
-  - [May Coolbear](may-coolbear-i100.md) (I100, b. 25 Jan 1916, Southend) — married [Joseph Evans](joseph-evans-i99.md)
-  - Henry Charles Coolbear (I594, b. 16 Oct 1918, Southend)
-  - Irene Barbara Coolbear (I595, b. 23 Jan 1921, Southend)
+ - Archibald Coolbear Jr (I593, b. 8 Feb 1912, Rochford, Essex) — married Rosina Angus (b. 25 Mar 1909); by 1939 at 28 Crown Mansions, Lower Holloway
+ - [May Coolbear](may-coolbear-i100.md) (I100, b. 25 Jan 1916, Southend) — married [Joseph Evans](joseph-evans-i99.md)
+ - Henry Charles Coolbear (I594, b. 16 Oct 1918, Southend)
+ - Irene Barbara Coolbear (I595, b. 23 Jan 1921, Southend)
 
 ## Evidence
 
@@ -151,7 +151,7 @@ The Fold3 record exists (confirming the card was once indexed) but the physical 
 
 ### Structured tree and import
 
-- **Export:** **treeId** **I103** — unions **F51**, **F52** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I103** — unions **F51**, **F52**.
 - **treeId** **I103** — same id as YAML above; vitals align to structured graph used for this file.
 - Record image: `media/docs/Cool Bear, Archibald Percy (125257).jpg` — Ministry of Pensions card, not a portrait photo.
 
@@ -170,7 +170,7 @@ The Coolbear surname traces to a single Essex cluster around Mundon and Maldon o
 ## Open questions
 
 - **"S. 8855C" number:** The character page records this number for France service alongside the main Essex number 16694. It may represent an attached-unit number (Machine Gun Corps? Labour detachment?) or a War Office administrative reference. The full WO 363 attestation papers (if they survive) would clarify.
-- **Marriage town:** The RAF form field 6a is partially legible. The GRO marriage certificate would confirm the place and reconcile **December 1911** in the merged export with **28 Oct 1911** on the RAF form.
+- **Marriage town:** The RAF form field 6a is partially legible. The GRO marriage certificate would confirm the place and reconcile **December 1911** in the working tree with **28 Oct 1911** on the RAF form.
 - **Cause of death (1928):** Died at ~36, ten years after the war. The repeated hospitalisations for dysentery, diarrhoea, and rheumatism across Gallipoli, France, and England suggest long-term health consequences of service. The death certificate would clarify.
 - **Ingest:** If a single consolidated **PDF** of the RAF record is obtained, add `sources/corpus/<slug>/` and replace long image lists with one canonical bundle link plus key crops here.
 

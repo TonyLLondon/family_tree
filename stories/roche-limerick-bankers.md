@@ -42,5 +42,4 @@ His brother James, who had been imprisoned during the French Revolution and late
 
 ## Related
 
-- [Lewis (Wales) · Stump (Europe) — line hub](../topics/lewis-wales-stump-europe.md)
 - [Catherine Mary Roche](../people/catherine-mary-roche.md) — Thomas's granddaughter, who married a surgeon and followed him to Bombay

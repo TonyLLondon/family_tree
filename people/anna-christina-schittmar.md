@@ -15,11 +15,11 @@ children:
 
 # Anna Christina Schittmar
 
-**Anna Christina Schittmar**—**Geni** styles her **Anna Christina Busse (born Schittmar)**—married [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) and was mother of [Maria Elisabeth Busse](maria-elisabeth-busse.md). Born **1757**; died about **1790** in **Viljandi County**, **Estonia**, in the export. Her mother in the graph is [Anna Christina](anna-christina.md); the parental union in this file names no father.
+**Anna Christina Schittmar**—**Geni** styles her **Anna Christina Busse (born Schittmar)**—married [Ernst Gottlieb Busse](ernst-gottlieb-busse.md) and was mother of [Maria Elisabeth Busse](maria-elisabeth-busse.md). Born **1757**; died about **1790** in **Viljandi County**, **Estonia**, in the working tree. Her mother in the graph is [Anna Christina](anna-christina.md); the parental union in this file names no father.
 
 ## Life
 
-- **1757** — Born (year in export; Geni sometimes says “circa”).
+- **1757** — Born (year in the import; Geni sometimes says “circa”).
 - **~1790** — Died **Viljandi County**.
 
 ## Family
@@ -30,7 +30,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I307** — unions **F144**, **F147** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I307** — unions **F144**, **F147**.
 
 ## Open questions
 

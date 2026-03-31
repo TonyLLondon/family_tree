@@ -13,7 +13,7 @@ children:
 
 # Sir Robert Bindlosse
 
-**Sir Robert Bindlosse** of **Borwick**, **Lancashire**, was father of [Dorothy Bindlose](dorothy-bindlose.md). The export carries **Sir** and **Knight** style fields—treat heraldic rank against inquisition or pedigree sources, not Geni alone. No wife line on the parental union in this export.
+**Sir Robert Bindlosse** of **Borwick**, **Lancashire**, was father of [Dorothy Bindlose](dorothy-bindlose.md). The working tree carries **Sir** and **Knight** style fields—treat heraldic rank against inquisition or pedigree sources, not Geni alone. No wife line on the parental union in this working-tree row.
 
 ## Family
 
@@ -21,7 +21,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I201** — union **F102** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I201** — union **F102**.
 
 ## Open questions
 

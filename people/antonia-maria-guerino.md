@@ -15,7 +15,7 @@ children:
 
 # Antonia Maria Guerino
 
-Antonia Maria Guerino was the wife of [Giuseppe Zerauschek](giuseppe-zerauschek.md) and mother of [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md). She was born on 1 February 1825 in Zara (the GEDCOM date "1825-01-02" was a format error; the 1850 marriage register clearly reads "1° Febbrajo 1825") and married Giuseppe there on 24 August 1850.
+Antonia Maria Guerino was the wife of [Giuseppe Zerauschek](giuseppe-zerauschek.md) and mother of [Antonio Zerauschek (senior)](antonio-zerauschek-senior.md). She was born on 1 February 1825 in Zara (the working-tree date "1825-01-02" was a format error; the 1850 marriage register clearly reads "1° Febbrajo 1825") and married Giuseppe there on 24 August 1850.
 
 Both her parents came from **Venice**: her father [Antonio Guerino](antonio-guerino.md) was a former sailor in the Austrian Imperial Navy, and her mother [Maria Zuajetto](maria-zuajetto.md) was a seamstress. Antonia Maria followed her mother's trade, working as a **sarta** (seamstress) at the time of her marriage.
 
@@ -37,7 +37,7 @@ Italian-speaking, she reportedly lived **60 years on the island of Pago** and ne
 
 ## Evidence
 
-- **Export:** **treeId** **I116** — unions **F58**, **F183** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I116** — unions **F58**, **F183**.
 - **Marriage register, Entry 30, 24 Aug 1850 (Zara):** Groom "Zerauschek M. Biagio vulgo Giuseppe," born 11 Nov at Vindol (Carniola); bride "Guerino Antonia Maria," born in Zara 1° Febbrajo 1825, Catholic, nubile, sarta. Father: Guerino Antonio (*padre defunto*), di Venezia, fu Marinajo dell'I.R. marina Austriaca. Mother: Quajetto Maria, di Venezia, Cusitrice. Witnesses: Pietro Federici (Senigallia, merchant) and Pietro Huttner (Venice, shopkeeper), both resident in Zadar — [local image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg) · [FamilySearch image](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G99X-26RK?cat=664761&i=515&lang=en) (Sv. Stošija, Zadar · Marriages 1825–1852 · image 515 of 535).
 - **Marriage register of son Antonio, Entry N. 8, 26 Jan 1878 (Pago):** mother listed as "Antonia Guerino", deceased — [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
 - **Birth register search (Sv. Stošija, Zadar, Births 1822–1833):** February 1825 entries systematically examined (positions 20–22, entries #14–25); no entry headed "Guerino" was found. The birth was likely registered at the **Austrian military garrison chaplaincy** ([FamilySearch catalog 674321](https://www.familysearch.org/search/catalog/674321), Kirchenbuch 1814–1913, Garnisons- und Spitalsseelsorge Zara), consistent with the father's service as an Austrian Navy sailor.

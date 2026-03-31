@@ -10,11 +10,11 @@ children:
 
 # William Martin
 
-William Martin was father of [Thomas Martin](thomas-martin-i229.md). The export’s birth-family record for Thomas names only one parent; no mother is attached in the working tree.
+William Martin was father of [Thomas Martin](thomas-martin-i229.md). The working tree’s birth-family record for Thomas names only one parent; no mother is attached in the working tree.
 
 ## Evidence
 
-- **Export:** **treeId** **I231** — union **F114** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I231** — union **F114**.
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 
 ## Open questions

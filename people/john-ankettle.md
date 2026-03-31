@@ -9,7 +9,7 @@ children:
 
 # John Ankettle
 
-**John Ankettle** was father of [Hellen Ankettle](hellen-ankettle.md). The export marks death **Y** without birth or date; no wife is named on the parental union in the same file.
+**John Ankettle** was father of [Hellen Ankettle](hellen-ankettle.md). The working tree marks death **Y** without birth or date; no wife is named on the parental union in the working tree.
 
 ## Family
 
@@ -17,7 +17,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I361** — union **F168** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I361** — union **F168**.
 
 ## Open questions
 

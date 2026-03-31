@@ -7,7 +7,7 @@ people: []
 
 # Malta RAMC — Henry Joseph O'Brien
 
-**URL:** https://www.maltaramc.com/regsurg/o/obrienhj.html  
+**URL:** https://www.maltaramc.com/regsurg/o/obrienhj.html
 **Corpus:** [sources/corpus/maltaramc-obrien-henry-joseph/](corpus/maltaramc-obrien-henry-joseph/)
 
 Profile of Surgeon **Henry Joseph O'Brien** (1841–1916, Cork), from the Malta garrison RAMC biographical register. Used as a **comparative case** for the career type of Irish Catholic Army Medical Department officers in the 1860s–1880s.

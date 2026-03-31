@@ -67,9 +67,8 @@ She died **suddenly** in **Merthyr** in **November 1972**, a few years after Sam
 - **1911 census — 25 Pond Street, Dowlais** — Mary Cushen (58, widow, head). Lily absent — married and living at 4 Cwm Canal. Sister Catherine (28) married to William Richards (30, **loco fireman**, born Cardiff). RG 14/32453 ([image](../media/docs/1911-census-mary-cushen-widow-pond-street-dowlais-rg14-32453.jpg)).
 - **1881 census — 24 George Street (Royal Oak Inn), Penydarren** — Patrick Cushen (70, widower, overman in iron works, born Ireland), father-in-law to Patrick Walsh (inn keeper). Patrick is likely a great-uncle (brother of Lily's grandfather [Thomas Cushen](thomas-cushen.md), 1821 Cork). RG 11/5315 ([image](../media/docs/1881-census-patrick-cushen-royal-oak-penydarren-rg11-5315.jpg)).
 
-**Export:**
-
-- **treeId** **I28** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). **1891** child: **RG12** piece **4438**, schedule **57**. Marital union **F7** with Samuel; parental union **F88**.
+**Tree id:**
+- **treeId** **I28**. **1891** child: **RG12** piece **4438**, schedule **57**. Marital union **F7** with Samuel; parental union **F88**.
 
 ## Open questions
 

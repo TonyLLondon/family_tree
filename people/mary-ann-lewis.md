@@ -30,7 +30,7 @@ The middle initial **A** on her Edwardian studio postcard (c. 1910) is the only 
 
 ## Evidence
 
-- **Export:** **treeId** **I337** — union **F87** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I337** — union **F87**.
 - Postcard portrait: [FLDavid-I-036.jpg / FLDavid-I-037.jpg](../manual/dump/david-john-lewis-photos/david-ia/FLDavid-I-036.jpg) — source scan in David Lewis's photo collection (david-ia).
 
 ## Open questions

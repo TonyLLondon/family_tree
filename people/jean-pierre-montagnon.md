@@ -6,8 +6,8 @@ birth_place: Aubonne, Vaud, Switzerland
 died: 1737-03-05
 death_place: Aubonne, Vaud, Switzerland
 sex: male
-father: jean-francois-montagnon-1666  # unconfirmed — circumstantial only
-mother: jeane-marechal  # unconfirmed — circumstantial only
+father: jean-francois-montagnon-1666 # unconfirmed — circumstantial only
+mother: jeane-marechal # unconfirmed — circumstantial only
 spouses:
   - jeane-elizabeth-cusin
 children:

@@ -2,7 +2,7 @@
 title: Army Medical Department — Half or Retired Pay Register, page 1080
 kind: scan
 people:
-  - william-obyrne-white
+ - william-obyrne-white
 ---
 
 # Army Medical Department — Half or Retired Pay Register (page 1080)

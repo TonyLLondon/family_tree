@@ -13,11 +13,11 @@ children:
 
 # Anna Margaretha Hagg
 
-**Anna Margaretha Hagg** married [Hans Ulrich Stump](hans-ulrich-stump.md) **26 April 1792** at the **Evangelisch** church, **Sulgen**, **Thurgau**, and was mother of [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md). Christening **1 January 1769** is given as **“Huettevilen, Thurgan, Switz.”** in the export—almost certainly **Hüttwilen** on the **Untersee** east of **Sulgen**.
+**Anna Margaretha Hagg** married [Hans Ulrich Stump](hans-ulrich-stump.md) **26 April 1792** at the **Evangelisch** church, **Sulgen**, **Thurgau**, and was mother of [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md). Christening **1 January 1769** is given as **“Huettevilen, Thurgan, Switz.”** in the working tree—almost certainly **Hüttwilen** on the **Untersee** east of **Sulgen**.
 
 ## Life
 
-- **1 Jan 1769** — Christening **Hüttwilen** (export spells **Huettevilen**).
+- **1 Jan 1769** — Christening **Hüttwilen** (import spells **Huettevilen**).
 - **26 Apr 1792** — Marriage **Sulgen**.
 - Birth and death not structured in the slice used here.
 
@@ -38,9 +38,9 @@ children:
 | [FVJZ-3ZV](https://www.familysearch.org/ark:/61903/1:1:FVJZ-3ZV) | Marriage — Haag × Freyenmuth, 1765 | [corpus](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
 | [6F87-6D7N](https://www.familysearch.org/ark:/61903/1:1:6F87-6D7N) | Burial — Hans Conrad Haag, 15 Sep 1803, Hüttwilen | [corpus](../sources/corpus/1803-burial-hans-conrad-haag-hüttwilen/reference.md) |
 
-**Export:** **treeId** **I145** — union **F72** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **KHPV-HT6**.
+**Tree id:** **I145** — union **F72**; FamilySearch **KHPV-HT6**.
 
 ## Open questions
 
-- Full birth date from Hüttwilen baptism book (currently only the GEDCOM christening date of 1 Jan 1769).
+- Full birth date from Hüttwilen baptism book (currently only the working tree christening date of 1 Jan 1769).
 - Margaretha Freyenmuth's parents and baptism in Wigoltingen area.

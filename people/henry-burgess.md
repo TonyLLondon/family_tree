@@ -41,7 +41,7 @@ Born into a **Quaker** family at Hinckley, Leicestershire, Henry was the son of 
 
 - Parents: [Joseph Burgess](joseph-burgess.md); [Sarah Airey](sarah-airey.md) (Quaker marriage **6 Feb 1769**, Kendal Monthly Meeting, Westmorland).
 - Wife: [Frances Ridsdale](frances-ridsdale.md) (married **6 Dec 1804**, St John's, Wakefield).
-- Children: **Charles Henry Burgess** (eldest; Persian trade **1827** onward; died Aix-la-Chapelle winter **1854–55**); [Edward Burgess](edward-burgess.md); **Joseph** ("brother Joe," Liverpool schooling); **George** (Philadelphia / New York; Edward's main correspondent from the **1840s**). Further siblings appear in the merged export and **Export** section below.
+- Children: **Charles Henry Burgess** (eldest; Persian trade **1827** onward; died Aix-la-Chapelle winter **1854–55**); [Edward Burgess](edward-burgess.md); **Joseph** ("brother Joe," Liverpool schooling); **George** (Philadelphia / New York; Edward's main correspondent from the **1840s**). Further siblings appear in the working tree and **Tree id** section below.
 
 ## Evidence
 
@@ -53,11 +53,11 @@ Born into a **Quaker** family at Hinckley, Leicestershire, Henry was the son of 
 - **Census 1851:** Swithins Lane, City of London, Widower, age 69, born Leicestershire, "Trader On Dealer." FMP `GBC/1851/0004139829`.
 - **Census 1861:** 29 St Swithins Lane, City of London, Head, Widower, age 80, birthplace "Winster." FMP `GBC/1861/0001423441`.
 - **Death (1863):** GRO death index, Q2 1863, London City, vol 1C, p.68. FMP `BMD/D/1863/2/AB/000394/004`.
-- **Export:** **treeId** **I81** — unions **F40** (with Frances), **F41** (parents) — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I81** — unions **F40** (with Frances), **F41** (parents).
 - [Burgess Persian Letters — full volume](../sources/corpus/burgess-persian-letters-full-volume/) — Schwartz's introduction identifies Henry as "the English banker, economist, and editor." Henry's letter (Part II, Oct 1830) is the only surviving letter *from* him in the collection. Edward's letters throughout contain extensive references to Henry's character, finances, and role.
 - [NYPL / Burgess corpus cluster](../sources/nypl-burgess-corpus-cluster.md) — Schwartz bulletin parts, full letters volume, scans.
 - **Sun-chart portrait (Henry):** [henry-burgess.jpg](../media/images/portraits/henry-burgess.jpg) — extracted from the family sun chart; was mislabelled `joseph-burgess.jpg` and corrected. Also on file: [Henry Burgess.jpg](../media/images/loose/Henry%20Burgess.jpg) (loose copy). Tie to [NYPL Burgess papers / seated portrait note](../sources/corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md) (finding aid mentions **Henry Burgess** cartes-de-visite) or other primary ID before treating sitter as proved.
-- External note URL embedded in GEDCOM (Hadwen tree) — capture static PDF in `media/` if the link rots.
+- External note URL embedded in the working tree (Hadwen tree) — capture static PDF in `media/` if the link rots.
 
 ## Open questions
 

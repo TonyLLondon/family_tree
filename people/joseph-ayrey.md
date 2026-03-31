@@ -24,7 +24,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I190** — unions **F96**, **F97** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **9HNC-9GQ**. (Death field in file is a **WFT** software bracket—not a sourced date.)
+- **Tree id:** **I190** — unions **F96**, **F97**; FamilySearch **9HNC-9GQ**. (Death field in file is a **WFT** software bracket—not a sourced date.)
 
 ## Open questions
 

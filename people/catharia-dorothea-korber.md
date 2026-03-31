@@ -11,7 +11,7 @@ children:
 
 # Catharia Dorothea Korber
 
-Catharia Dorothea Korber was the wife of [Georg Christian Erbe](georg-christian-erbe.md) and mother of [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md). The MyHeritage export used here records no birth or death events for her—only her link to that marriage and household.
+Catharia Dorothea Korber was the wife of [Georg Christian Erbe](georg-christian-erbe.md) and mother of [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md). The MyHeritage import used here records no birth or death events for her—only her link to that marriage and household.
 
 ## Family
 
@@ -20,7 +20,7 @@ Catharia Dorothea Korber was the wife of [Georg Christian Erbe](georg-christian-
 
 ## Evidence
 
-- **Export:** **treeId** **I317** — union **F150** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I317** — union **F150**.
 ## Open questions
 
 - **Korber** family origin — Thuringian parish book entry when marriage to **Georg Christian** is imaged.

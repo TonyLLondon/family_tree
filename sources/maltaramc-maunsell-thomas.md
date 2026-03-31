@@ -7,7 +7,7 @@ people: []
 
 # Malta RAMC — Thomas Maunsell
 
-**URL:** https://www.maltaramc.com/regsurg/m/maunsellt.html  
+**URL:** https://www.maltaramc.com/regsurg/m/maunsellt.html
 **Corpus:** [sources/corpus/maltaramc-maunsell-thomas/](corpus/maltaramc-maunsell-thomas/)
 
 Profile of Surgeon General **Thomas Maunsell** (1839–1937, Dingle, County Kerry). Used as a **comparative case** and contextual anchor for the Irish Catholic AMD career pathway.

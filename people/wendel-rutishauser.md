@@ -11,7 +11,7 @@ children:
 
 # Wendel Rutishauser
 
-Wendel Rutishauser was the husband of [Adelheit Claarer](adelheit-claarer.md) and father of [Hans Rutishauser](hans-rutishauser.md). The export carries no birth or death events for him, and the family record read here has no marriage detail.
+Wendel Rutishauser was the husband of [Adelheit Claarer](adelheit-claarer.md) and father of [Hans Rutishauser](hans-rutishauser.md). The working tree carries no birth or death events for him, and the family record read here has no marriage detail.
 
 ## Family
 
@@ -20,8 +20,8 @@ Wendel Rutishauser was the husband of [Adelheit Claarer](adelheit-claarer.md) an
 
 ## Evidence
 
-- **Export:** **treeId** **I171** — union **F86** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I171** — union **F86**.
 
 ## Open questions
 
-- Earlier **Rutishauser** generation not in the export slice for this household.
+- Earlier **Rutishauser** generation not in the working-tree excerpt for this household.

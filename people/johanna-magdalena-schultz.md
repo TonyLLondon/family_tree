@@ -16,12 +16,12 @@ children:
 
 # Johanna Magdalena Schultz
 
-Wife of [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md) and grandmother of [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md). **Ohrdruf** (Thuringia) anchors her birth; she died **28 August 1803** per the export.
+Wife of [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md) and grandmother of [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md). **Ohrdruf** (Thuringia) anchors her birth; she died **28 August 1803** per the import.
 
 ## Life
 
 - **23 October 1749** — Born **Ohrdruf** (historically tied to **Saxe-Gotha-Altenburg** and later **Saxe-Coburg and Gotha** politics; church registers usually Lutheran).
-- **28 August 1803** — Died (place not filled in the lines transcribed here—complete from full export pull or parish death entry).
+- **28 August 1803** — Died (place not filled in the lines transcribed here—complete from full tree pull or parish death entry).
 
 ## Family
 
@@ -31,8 +31,8 @@ Wife of [Sigmund Johann Bartholomaus Erbe](sigmund-johann-bartholomaus-erbe.md) 
 
 ## Evidence
 
-- **Export:** **treeId** **I315** — unions **F149**, **F151** (birth family) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I315** — unions **F149**, **F151** (birth family).
 
 ## Open questions
 
-- **Siblings** under **F151** — other **CHIL** lines if any in a fuller export.
+- **Siblings** under **F151** — other **CHIL** lines if any in a fuller tree record.

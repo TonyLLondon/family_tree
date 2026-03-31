@@ -20,4 +20,4 @@ mother: henriette-bottin
 ## Evidence
 
 - [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md).
-- **Export:** **treeId** **I396** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged). Child of **F6**.
+- **Tree id:** **I396**. Child of **F6**.

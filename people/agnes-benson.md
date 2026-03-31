@@ -36,10 +36,10 @@ The Benson and Brathwaite families were closely connected: in 1664, George's sis
 - Mother: Unknown.
 - Known siblings: **Rebecka Benson** (bur. 1688), another daughter (bur. 1689).
 - Children:
-  - [**Ann**](ann-braithwaite.md), b. 21 Sep 1663
-  - **Edward**, b. 2 Jul 1667 — bur. 1684, aged ~17
-  - **Agnes**, b. 4 Jun 1669
-  - **Dorothy**, b. 10 Feb 1671
+ - [**Ann**](ann-braithwaite.md), b. 21 Sep 1663
+ - **Edward**, b. 2 Jul 1667 — bur. 1684, aged ~17
+ - **Agnes**, b. 4 Jun 1669
+ - **Dorothy**, b. 10 Feb 1671
 
 ## Evidence
 

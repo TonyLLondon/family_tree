@@ -7,7 +7,7 @@ kind: pdf
 
 One-page visual pedigree chart from the Henderson collection covering four generations of the Stump family: **Jacob Stump** (m. 1832) → **Marc Francois Stump** + **Luise Elizabeta Stump** → Marc's children (including **Étienne**) → Étienne's children (including **Robert Marc Murard Stump**).
 
-The chart is a hand-assembled family document (not a civil record); its dates generally align with the GEDCOM and the [Estonian Biographical Center report (2005)](estonian-biographical-center-stump-report-2005.md), with minor discrepancies (e.g. Robert's death year 1997 vs GEDCOM 1996). The machine-extracted text is spatially jumbled because the source is a visual layout; column assignments for Étienne's children's dates are approximate.
+The chart is a hand-assembled family document (not a civil record); its dates generally align with the legacy export and the [Estonian Biographical Center report (2005)](estonian-biographical-center-stump-report-2005.md), with minor discrepancies (e.g. Robert's death year 1997 vs legacy export 1996). The machine-extracted text is spatially jumbled because the source is a visual layout; column assignments for Étienne's children's dates are approximate.
 
 ## Key data
 

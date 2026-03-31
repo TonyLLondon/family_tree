@@ -20,7 +20,7 @@ children:
 
 **Catherine** is the woman the **1911** enumerator found at **41 Glen Road, Aberdare** beside **[David John Lewis (1857)](david-john-lewis-1857.md)**—the mother whose fertility return became the coalfield story: **twelve** children born, **seven** dead, **five** living, the industrial age written in a single row. Born about **1862** in **Aberdare**, Glamorganshire, she was the daughter of [Thomas Griffiths](thomas-griffiths.md), a Breconshire man who came to the coalfield as an ironworks labourer, and [Anne (Morgan)](anne.md), from Llanfair in Carmarthenshire. By nine she was in her father's household on the 1871 census; by eighteen she and her sisters Eliza and Margaret were all **tin workers** in an Aberdare tinplate works. Three years later she was a Merthyr bride, married to David John Lewis in Q1 1884.
 
-Her son **[Samuel Lewis](samuel-lewis.md)**—the boy who would go down the pit at **thirteen**—is the child this vault follows forward; other sons and daughters wait in the same export cluster until each earns a named page.
+Her son **[Samuel Lewis](samuel-lewis.md)**—the boy who would go down the pit at **thirteen**—is the child this vault follows forward; other sons and daughters wait in the same import cluster until each earns a named page.
 
 ## Life
 
@@ -52,7 +52,7 @@ No confirmed photograph.
 - [1901 census — Glen Road, Aberdare](../sources/1901-census-aberdare-david-john-lewis.md) — wife, age 38, birthplace Aberdare; five children present, Thomas (1891) already dead, Rachel an infant ([transcription](../sources/corpus/1901-census-aberdare-david-john-lewis-household-rg13-5035/transcription.md)). Son **James Griffiths Lewis** carries her maiden name.
 - [1921 census — 41 Glan Road, Aberdare](../sources/1921-census-aberdare-david-john-lewis.md) — David John Lewis recorded as **Widower** ([transcription](../sources/corpus/1921-census-aberdare-david-john-lewis-household-rg15-26875/transcription.md)).
 - **GRO death index** — Q2 1920, Merthyr Tydfil, Vol 11A, Page 851. Catherine Lewis, b. 1862, age 58. `BMD/D/1920/2/AZ/000567/021`.
-- **Export:** **treeId** **I174**; marriage **F87** with David; parents' union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged). FamilySearch id **GWPL-SVD** in export text.
+- **Tree id:** **I174**; marriage **F87** with David; parents' union **F188**. FamilySearch id **GWPL-SVD** in import text.
 
 ## Open questions
 

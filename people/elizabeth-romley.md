@@ -11,7 +11,7 @@ children:
 
 # Elizabeth Romley
 
-Elizabeth Romley was the wife of [Edward Ridsdale](edward-ridsdale.md) and mother of [Frances Ridsdale](frances-ridsdale.md). The export slice used here records only her spousal family—no structured birth or death lines.
+Elizabeth Romley was the wife of [Edward Ridsdale](edward-ridsdale.md) and mother of [Frances Ridsdale](frances-ridsdale.md). The working-tree excerpt used here records only her spousal family—no structured birth or death lines.
 
 ## Family
 
@@ -20,7 +20,7 @@ Elizabeth Romley was the wife of [Edward Ridsdale](edward-ridsdale.md) and mothe
 
 ## Evidence
 
-- **Export:** **treeId** **I288** — union **F135** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I288** — union **F135**.
 ## Open questions
 
 - **Romley** spelling vs **Rumley** / **Romiley** in **Whitgift** registers.

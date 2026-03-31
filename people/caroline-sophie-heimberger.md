@@ -24,16 +24,16 @@ children:
 - **14 June 1781** — Born **Gotha**, **Thüringen**.
 - **29 August 1850** — Died **Riga** (Vidzeme). Riga was the **administrative and mercantile capital** of Baltic Livonia; dying there while the husband’s career centered on **Pärnu** may indicate retirement, widowhood in a daughter’s household, or medical travel.
 
-The **Geni** narrative lists the same five major children as Johann Georg’s block (Karl Wilhelm, Mathilde Ulrike Petersenn, Carl Ferdinand, Hermann Eberhard, Alexander Georg). Treat the export’s child list as a checklist, then parish books for birth order and godparents.
+The **Geni** narrative lists the same five major children as Johann Georg’s block (Karl Wilhelm, Mathilde Ulrike Petersenn, Carl Ferdinand, Hermann Eberhard, Alexander Georg). Treat the working tree’s child list as a checklist, then parish books for birth order and godparents.
 
 ## Family
 
 - Husband: [Johann Georg Sigismund Erbe](johann-georg-sigismund-erbe.md).
-- Children: [Hermann Eberhard Erbe](hermann-eberhard-erbe.md); further siblings in the working tree / export.
+- Children: [Hermann Eberhard Erbe](hermann-eberhard-erbe.md); further siblings in the working tree.
 
 ## Evidence
 
-- **Export:** **treeId** **I301** — union **F141** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I301** — union **F141**.
 - MyHeritage URL in **`@S43@`**.
 
 ## Open questions

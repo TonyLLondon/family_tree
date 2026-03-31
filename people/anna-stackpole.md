@@ -19,7 +19,7 @@ children:
 
 # Anna Stackpole
 
-**Anna Stackpole**—**Geni** uses **Anne Roche (born Stacpoole)**; the export uses **Stackpole**—was born **1689** at **Mount Cashel**, **Clare**. She married [John Lysaght Roche](john-lysaght-roche.md) and was mother of [Stephen John Roche](stephen-john-roche.md). She died **18 January 1760** in **County Limerick**; the export gives her husband the same death date, which may be one burial index line or a duplicated transcription.
+**Anna Stackpole**—**Geni** uses **Anne Roche (born Stacpoole)**; the working tree uses **Stackpole**—was born **1689** at **Mount Cashel**, **Clare**. She married [John Lysaght Roche](john-lysaght-roche.md) and was mother of [Stephen John Roche](stephen-john-roche.md). She died **18 January 1760** in **County Limerick**; the working tree gives her husband the same death date, which may be one burial index line or a duplicated transcription.
 
 ## Life
 
@@ -29,12 +29,12 @@ children:
 ## Family
 
 - Husband: [John Lysaght Roche](john-lysaght-roche.md).
-- Parents: [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md); [Christian Jane Creagh](christian-jane-creagh.md) (parents’ marriage **1688** **Limerick** in export).
+- Parents: [Philip of Limerick Stackpole](philip-of-limerick-stackpole.md); [Christian Jane Creagh](christian-jane-creagh.md) (parents’ marriage **1688** **Limerick** in the import).
 - Children: [Stephen John Roche](stephen-john-roche.md).
 
 ## Evidence
 
-- **Export:** **treeId** **I364** — unions **F170**, **F171** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LCVY-RZP**; **Geni** in **SOUR**.
+- **Tree id:** **I364** — unions **F170**, **F171**; FamilySearch **LCVY-RZP**; **Geni** in **SOUR**.
 
 ## Open questions
 

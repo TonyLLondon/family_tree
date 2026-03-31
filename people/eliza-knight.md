@@ -15,7 +15,7 @@ children:
 
 # Eliza Knight
 
-Eliza Knight was the wife of [William Roche](william-roche.md) and mother of [Catherine Mary Roche](catherine-mary-roche.md). She was born at Brickfield, Limerick, and died in County Limerick; the export used here leaves day, month, and year fields empty for those events. She married William on 1 March 1832 at St Andrew’s, Westland Row, Dublin.
+Eliza Knight was the wife of [William Roche](william-roche.md) and mother of [Catherine Mary Roche](catherine-mary-roche.md). She was born at Brickfield, Limerick, and died in County Limerick; the working tree used here leaves day, month, and year fields empty for those events. She married William on 1 March 1832 at St Andrew’s, Westland Row, Dublin.
 
 ## Life
 
@@ -29,7 +29,7 @@ Eliza Knight was the wife of [William Roche](william-roche.md) and mother of [Ca
 
 ## Evidence
 
-- **Export:** **treeId** **I360** — unions **F68**, **F180** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I360** — unions **F68**, **F180**.
 - [O’Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/).
 ## Open questions
 

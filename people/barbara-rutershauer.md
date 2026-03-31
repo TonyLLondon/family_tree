@@ -13,7 +13,7 @@ children:
 
 # Barbara Rutershauer
 
-**Barbara Rutershauer** married [Augustin Stumpf](augustin-stumpf.md) and was mother of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md). No birth or death in the export slice. Parents: [Hans Rutishauser](hans-rutishauser.md); [Wybrata Rockenbass](wybrata-rockenbass.md).
+**Barbara Rutershauer** married [Augustin Stumpf](augustin-stumpf.md) and was mother of [Hans Jacob Stump (b. 1674)](hans-jacob-stump-1674.md). No birth or death in the working-tree excerpt. Parents: [Hans Rutishauser](hans-rutishauser.md); [Wybrata Rockenbass](wybrata-rockenbass.md).
 
 ## Family
 
@@ -23,7 +23,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I154** — unions **F77**, **F85** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K27S-W2Z**.
+- **Tree id:** **I154** — unions **F77**, **F85**; FamilySearch **K27S-W2Z**.
 
 ## Open questions
 

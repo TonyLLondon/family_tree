@@ -19,7 +19,7 @@ Mother of [Matthew Esmond White](matthew-esmond-white.md). **Ballynastra** as bi
 ## Life
 
 - **~1760** — Born **Ballynastra**.
-- **1824** — Died (place thin in short extract—fill from register or full export).
+- **1824** — Died (place thin in short extract—fill from register or full tree pull).
 
 She married [Mathew White](mathew-white.md) in **1772**, producing at least **Matthew** and a second child present only in the working tree until a `people/` page exists.
 
@@ -30,7 +30,7 @@ She married [Mathew White](mathew-white.md) in **1772**, producing at least **Ma
 
 ## Evidence
 
-- **Export:** **treeId** **I330** — union **F158** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I330** — union **F158**.
 
 ## Open questions
 

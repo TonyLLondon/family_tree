@@ -9,10 +9,10 @@ Use these in a normal browser. **DIGAR** serves **full-issue PDFs** from the rea
 | **Reader** (tiles + link to PDF on page) | `https://dea.digar.ee/?a=d&d=revalschezeitungYYYYMMDD.1.1` |
 | **Full-issue PDF** (when OID matches) | `https://dea.digar.ee/?a=is&oid=revalschezeitungYYYYMMDD&type=staticpdf` |
 
-If **404**, open the **publication calendar** for that year and pick the exact date tile:  
-https://dea.digar.ee/publication/revalschezeitung  
+If **404**, open the **publication calendar** for that year and pick the exact date tile:
+https://dea.digar.ee/publication/revalschezeitung
 
-**English UI / search:** https://dea.digar.ee/?a=q&l=en  
+**English UI / search:** https://dea.digar.ee/?a=q&l=en
 
 **Parent catalog (all DIGAR):** https://www.digar.ee/id/en/
 
@@ -64,8 +64,8 @@ Local copies: `sources/corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/ori
 | **1903-04-03** | https://dea.digar.ee/?a=d&d=revalschezeitung19030403.1.1 | https://dea.digar.ee/?a=is&oid=revalschezeitung19030403&type=staticpdf |
 | 1903-04-05 | https://dea.digar.ee/?a=d&d=revalschezeitung19030405.1.1 | https://dea.digar.ee/?a=is&oid=revalschezeitung19030405&type=staticpdf |
 
-**1910 — Louise Stump obituary** (EBC quotes mourners incl. Étienne in Tehran): no exact issue date in the vault — use **DIGAR search** (full text / date range **1910**, keyword **Stump** or **Louise**):  
-https://dea.digar.ee/?a=q&l=en  
+**1910 — Louise Stump obituary** (EBC quotes mourners incl. Étienne in Tehran): no exact issue date in the vault — use **DIGAR search** (full text / date range **1910**, keyword **Stump** or **Louise**):
+https://dea.digar.ee/?a=q&l=en
 
 ---
 
@@ -80,7 +80,7 @@ No stable public **DIGAR** title match for **“Revaler Beobachter”** turned u
 | Resource | URL |
 |----------|-----|
 | **EADB** (Hermann memorial index; BBLD *Nachweise*) | https://amburger.ios-regensburg.de/?id=65373 |
-| **RA.EE Fotis** — Eugen portrait record (GEDCOM id) | https://www.ra.ee/fotis/index.php?type=2&id=743023d85cccc9a4e248371d3c127ae8474 |
+| **RA.EE Fotis** — Eugen portrait record (legacy export id) | https://www.ra.ee/fotis/index.php?type=2&id=743023d85cccc9a4e248371d3c127ae8474 |
 | **RA.EE** archive search (Saaga / fonds) | https://www.ra.ee/en/archive/search/ |
 | **BBLD** Eugen (links to press cite) | https://bbld.de/GND1173663347 |
 
@@ -88,5 +88,5 @@ No stable public **DIGAR** title match for **“Revaler Beobachter”** turned u
 
 ## People / hub
 
-- [erbe-baltic-german-web-references.md](erbe-baltic-german-web-references.md)  
+- [erbe-baltic-german-web-references.md](erbe-baltic-german-web-references.md)
 - [wishlist/erbe-baltic-german-line.md](wishlist/erbe-baltic-german-line.md)

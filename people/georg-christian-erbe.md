@@ -19,8 +19,8 @@ Georg Christian Erbe was the husband of [Catharia Dorothea Korber](catharia-doro
 
 ## Life
 
-- **28 Oct 1714** — Born **Ohrdruf, Germany** (export).
-- **Death** — flagged without date or place in the export slice used here.
+- **28 Oct 1714** — Born **Ohrdruf, Germany** (working tree only).
+- **Death** — flagged without date or place in the working-tree excerpt used here.
 
 ## Family
 
@@ -30,10 +30,10 @@ Georg Christian Erbe was the husband of [Catharia Dorothea Korber](catharia-doro
 
 ## Evidence
 
-- **Export:** **treeId** **I316** — unions **F150**, **F152** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GW13-KV7**.
+- **Tree id:** **I316** — unions **F150**, **F152**; FamilySearch **GW13-KV7**.
 - **Web (Mar 2026):** no **BBLD** / **Wikipedia** match for **Georg Christian Erbe** **1714 Ohrdruf**; [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md) § *Thuringian / Franconian Erbe line*.
 
 ## Open questions
 
-- **Korber** marriage date and parish — the export slice for this household carries no marriage block.
+- **Korber** marriage date and parish — the working-tree excerpt for this household carries no marriage block.
 - **Death** — Ohrdruf / Gotha register to close **1714**–**1746** (Sigmund’s birth) window.

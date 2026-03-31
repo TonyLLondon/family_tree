@@ -79,7 +79,7 @@ From that date the couple's paper trail belongs to **India**. A child ("Tommie")
 - [Army List — surgeon lieutenant-colonels](../sources/army-list-amd-surgeon-lt-colonels.md) · [scan](../media/docs/Army%20List%20non-effective%20surgeon%20lieutenant-colonels%20page%202056-7%20Adye-Curran%20to%20White.jpg)
 - [Army Medical Department half-pay register](../sources/army-medical-department-half-pay-register.md) · [scan](../media/docs/Army%20Medical%20Department%20half%20pay%20register%20page%201080%20Lt%20Colonels%20and%20Surgeon%20Majors.jpg)
 - [FIBIwiki — Jubbulpore](../sources/fibis-jubbulpore.md) — station context
-- **Export:** **treeId** **I135**; unions **F67** (with Catherine Mary Roche), **F157** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged)
+- **Tree id:** **I135**; unions **F67** (with Catherine Mary Roche), **F157** (parents)
 - [O'Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/)
 
 ### British & Irish Newspaper Archive (FindMyPast, March 2026)

@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **treeId** **I377**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **F178** only.
+- **treeId** **I377** — **F178** only.
 ## Open questions
 
 - **Rename file** after baptism gives **GIVN**—keep slug **`burke.md`** only if the list generator requires it.

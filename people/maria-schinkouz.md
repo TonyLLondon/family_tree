@@ -12,7 +12,7 @@ children:
 
 # Maria Schinkouz
 
-Maria Schinkouz was the wife of [Biagio Zerauschek](biagio-zerauschek.md) and mother of [Giuseppe Zerauschek](giuseppe-zerauschek.md). The export gives her birthplace as Vinodol, Croatia, without a structured birth date. The 1850 marriage register of her son Giuseppe lists her as **"Maria Schinkovz — madre"** without *defunta*, confirming she was alive in August 1850 while her husband Biagio was already deceased.
+Maria Schinkouz was the wife of [Biagio Zerauschek](biagio-zerauschek.md) and mother of [Giuseppe Zerauschek](giuseppe-zerauschek.md). The working tree gives her birthplace as Vinodol, Croatia, without a structured birth date. The 1850 marriage register of her son Giuseppe lists her as **"Maria Schinkovz — madre"** without *defunta*, confirming she was alive in August 1850 while her husband Biagio was already deceased.
 
 ## Family
 
@@ -21,10 +21,10 @@ Maria Schinkouz was the wife of [Biagio Zerauschek](biagio-zerauschek.md) and mo
 
 ## Evidence
 
-- **Export:** **treeId** **I388** — union **F182** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I388** — union **F182**.
 - **Marriage register, 1850 (Zara):** "Maria Schinkovz — madre" (alive, no "defunta") — [media/collections/zerauschek/Zerauschek (1)/Marriage Zerauschek Guerino Zara 1850.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg).
 
 ## Open questions
 
 - **Historic Vinodol** (region) vs modern **Vinodol** toponyms — confirm in marriage or child baptism.
-- **Death date** — alive in 1850 but the merged export marks **DEAT Y** without a date; search Zara or Pago death registers.
+- **Death date** — alive in 1850 but the working tree marks **DEAT Y** without a date; search Zara or Pago death registers.

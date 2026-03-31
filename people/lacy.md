@@ -13,7 +13,7 @@ children:
 
 # Lacy (surname unknown)
 
-**Lacy**—given name only in the export—was born about **1748** in **Limerick**, **County Limerick**. She married [Christopher Knight](christopher-knight.md) and was mother of [Eliza Knight](eliza-knight.md). The export flags death **Y** without detail.
+**Lacy**—given name only in the working tree—was born about **1748** in **Limerick**, **County Limerick**. She married [Christopher Knight](christopher-knight.md) and was mother of [Eliza Knight](eliza-knight.md). The working tree flags death **Y** without detail.
 
 ## Family
 
@@ -22,7 +22,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I381** — union **F180** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I381** — union **F180**.
 
 ## Open questions
 

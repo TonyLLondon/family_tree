@@ -25,7 +25,7 @@ The pits did not keep him. By the year-before-war register he had traded the col
 
 The chapel claimed the rest of his weekdays. Around 1922 he became Sunday school superintendent at Carmel Calvinistic Methodist, Trecynon; a decade later the deacons made him *Blaenor*, an office he held until death. Three decades more as chapel secretary and corresponding secretary (*ysgrifennydd gohebol*) turned his handwriting into the institutional memory of the cause. Outside the meeting house he rose through the Independent Order of Odd Fellows (Manchester Unity), Lily of the Valley Lodge. After seven years as a committeeman he reached Provincial Grand Master—the highest degree the Order’s Grand Lodge could confer and the senior office overseeing lodges across the district. His obituary noted simply that he “held some of the Order’s highest offices”; a studio portrait in full sash and rank jewels confirms the title, and a companion group photograph places him among fellow provincial officers. Aberdare had deep Odd Fellows roots: the Rev Dr Thomas Price of Calfaria, another local minister, had been Grand Master of all Oddfellows of Great Britain in 1865–66. Records for the Manchester Unity’s Gwalia District held at the National Library of Wales and Glamorgan Archives may pin down Samuel’s exact years of office.
 
-His marriage to [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md) was registered at Merthyr in 1917. In old age the couple moved to Maesyffynnon, a care home in Aberaman. Samuel died there on 7 August 1967, aged eighty; cremation followed at Glyntaff on Friday 11 August, the Rev. Glyndwr Richards—once of Carmel—officiating. The family asked for donations instead of flowers. Welsh- and English-language notices in the local press recorded the same date; an export line giving 8 July is a known month/day transposition against those clippings.
+His marriage to [Elizabeth Lilian Cushen](elizabeth-lilian-cushen.md) was registered at Merthyr in 1917. In old age the couple moved to Maesyffynnon, a care home in Aberaman. Samuel died there on 7 August 1967, aged eighty; cremation followed at Glyntaff on Friday 11 August, the Rev. Glyndwr Richards—once of Carmel—officiating. The family asked for donations instead of flowers. Welsh- and English-language notices in the local press recorded the same date; a wrong tree line giving 8 July is a known month/day transposition against those clippings.
 
 At the thanksgiving service Mr E. R. Walters praised “tremendous sincerity and loyalty” and a willingness to serve God and church without stint.
 
@@ -59,12 +59,11 @@ Wife: Elizabeth Lilian Cushen (“Elizabeth Lily” in death notice; “Elizabet
 - [Aberdare Leader, 8 Oct 1949 — "Y.P. Societies Open New Session"](../sources/corpus/1949-aberdare-leader-carmel-trecynon-yps-tea/transcription.md) ([scan](../media/docs/1949-aberdare-leader-carmel-trecynon-yps-tea-keith-samuel-lewis.png)) — Carmel (Trecynon) Y.P.S. tea. Musical items included "solo **Master Keith Lewis** accompanied by **Mr Samuel Lewis**." **Mrs. Samuel Lewis** among the cutters at the tables. Farewell to Mrs. Rachel M. Frost from Australia.
 - [Aberdare Leader, 9 Mar 1940 — Carmel (C.M.) chapel notes](../sources/corpus/1940-aberdare-leader-carmel-samuel-lewis-resigns/transcription.md) ([scan](../media/docs/1940-aberdare-leader-carmel-samuel-lewis-resigns-financial-secretary.png)) — "Mr. Llewelyn Jones … elected financial secretary of Carmel (C.M.) Chapel in succession to **Mr. Samuel Lewis** who has resigned after **ten years' service**, owing to ill-health." Dates his tenure as financial secretary to ~1930.
 
-**Export:**
-
-- **treeId** **I17** — YAML **`ignore_gedcom_death: true`** (export death month/day transposed vs press) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
-- Embedded census and 1939 citations in export: RG12/4444, RG13/5035, RG14/32495 schedule 77, RG101/7310F/013/9; 1901 age 13 coal miner (RG13/5035 — no scan in repo).
+**Tree id:**
+- **treeId** **I17** — YAML **`ignore_gedcom_death: true`** (death month/day transposed in the import vs press).
+- Embedded census and 1939 citations embedded in the import: RG12/4444, RG13/5035, RG14/32495 schedule 77, RG101/7310F/013/9; 1901 age 13 coal miner (RG13/5035 — no scan in repo).
 - Marriage to Elizabeth — union **F7**.
-- Further siblings on father’s **F87** — recorded in merged export only until each has a page.
+- Further siblings on father’s **F87** — recorded in working tree only until each has a page.
 
 ## Open questions
 

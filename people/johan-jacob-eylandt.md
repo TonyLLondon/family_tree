@@ -21,7 +21,7 @@ children:
 
 # Johan Jacob Eylandt
 
-Maternal grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md) through [Emilie Ida Eylandt](emilie-ida-eylandt.md). He is a classic **Baltic artisan** figure in the merged tree: **Schneidermeister** in Tallinn, with spelling drift **Eiland / Eyland / Eylandt** typical of German clerks normalizing Estonian and Swedish-era names.
+Maternal grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md) through [Emilie Ida Eylandt](emilie-ida-eylandt.md). He is a classic **Baltic artisan** figure in the working tree: **Schneidermeister** in Tallinn, with spelling drift **Eiland / Eyland / Eylandt** typical of German clerks normalizing Estonian and Swedish-era names.
 
 ## Life
 
@@ -29,7 +29,7 @@ Maternal grandfather of [Olga Caroline Erbe](olga-caroline-erbe.md) through [Emi
 - **27 December 1799** — Married [Maria Elisabeth Busse](maria-elisabeth-busse.md) in **Viljandi** (**F142**).
 - **7 August 1831** — Died **Reval (Tallinn)**, **Harrien** (Harjumaa).
 
-His parents in the export are [Carl Gustav Eylandt](carl-gustav-eylandt.md) and [Margarete Elisabeth Wiedau](margarete-elisabeth-wiedau.md) (**F143**). The Geni block lists an enormous sibling set; treat it as **hints** until **F143** siblings are reconciled with baptism indexes.
+His parents in the working tree are [Carl Gustav Eylandt](carl-gustav-eylandt.md) and [Margarete Elisabeth Wiedau](margarete-elisabeth-wiedau.md) (**F143**). The Geni block lists an enormous sibling set; treat it as **hints** until **F143** siblings are reconciled with baptism indexes.
 
 ## Family
 
@@ -39,7 +39,7 @@ His parents in the export are [Carl Gustav Eylandt](carl-gustav-eylandt.md) and 
 
 ## Evidence
 
-- **treeId** **I302**, **F142**, **F143**: [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **treeId** **I302**, **F142**, **F143**: .
 - MyHeritage URL in **`@S43@`** (“Johann Jakob Eylandt born Eiland”).
 
 ## Open questions

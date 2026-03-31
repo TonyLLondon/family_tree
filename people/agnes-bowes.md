@@ -14,7 +14,7 @@ children:
 
 # Agnes Bowes
 
-**Agnes Bowes** was born about **1548** at **Sockburn**, **Yorkshire**. She married [John Conyers, of Sockburne](john-conyers.md) **1564** at **Sockburn** and was mother of [Jane Conyers](jane-conyers.md). She died **12 February 1597**. **NOTE** blocks in the export point at web trees—secondary only.
+**Agnes Bowes** was born about **1548** at **Sockburn**, **Yorkshire**. She married [John Conyers, of Sockburne](john-conyers.md) **1564** at **Sockburn** and was mother of [Jane Conyers](jane-conyers.md). She died **12 February 1597**. **NOTE** blocks in the working tree point at web trees—secondary only.
 
 ## Family
 
@@ -23,7 +23,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I478** — union **F194** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **GWXK-SP3**; **Geni** in **SOUR**.
+- **Tree id:** **I478** — union **F194**; FamilySearch **GWXK-SP3**; **Geni** in **SOUR**.
 
 ## Open questions
 

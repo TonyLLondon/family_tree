@@ -28,14 +28,14 @@ children:
 
 Parents: [Francisco Cerpa](francisco-cerpa-i348.md) and [Ana Delia González](ana-gonzalez-i349.md). The same 1912 birth index page records his sister [Juana de Dios Cerpa González](juana-de-dios-cerpa-gonzalez.md) (entry 82, Año 1912), suggesting they were twins or born in the same calendar year. Brothers with person pages: [René Cerpa González](rene-cerpa-gonzalez-i353.md) and [Narciso Cerpa Gonzales](narciso-cerpa-gonzales-i354.md).
 
-He died **1966** (export / tree; civil register citation still to file).
+He died **1966** (import / tree; civil register citation still to file).
 
 ## Evidence
 
 - **Chanco civil registry birth index** (DGS 004702560, film page 520): "Cerpa González, Manuel Antonio, 65" under Año 1912. Same page lists his sister "Cerpa González, Juana de Dios, 82." Index image: [page-0520-cerpa-crop.jpg](../media/docs/chile-chanco/index-nacimientos-1885-1932/page-0520-cerpa-crop.jpg).
 - FamilySearch — e.g. via [Laurencia GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3) (linked tree for household).
 - Hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
-- **Export:** **treeId** **I346** — unions **F162** (with Laurencia), **F163** (parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I346** — unions **F162** (with Laurencia), **F163** (parents).
 
 ## Open questions
 

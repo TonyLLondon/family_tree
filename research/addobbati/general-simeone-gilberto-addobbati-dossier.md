@@ -20,19 +20,19 @@ Unresolved points requiring primary confirmation are: **campaigns served (unspec
 
 The sequence below integrates the Austrian generality list with your 1968 Kriegsarchiv letter.
 
-- **4 Feb 1851**: Birth in Zara/Dalmatia. citeturn0search44  
-- **1866**: entered cadet institute at entity["city","Maribor","slovenia"] and then the academy at entity["city","Wiener Neustadt","lower austria, austria"] (Kriegsarchiv letter; user scan).  
-- **30 Aug 1870**: commissioned lieutenant; posted to Infantry Regiment No. 46 (letter; user scan).  
-- **1 Nov 1876**: promoted Oberleutnant; **1878–1879** instructor in Laibach/Ljubljana and Innsbruck cadet schooling (letter; user scan).  
-- **31 Dec 1882**: transferred to Infantry Regiment No. 101; **1 Nov 1883** promoted Hauptmann 2nd class; later transfers include Infantry Regiment No. 22 (letter; user scan). Presence in Landwehr schematismus name indices corroborates official print visibility. citeturn10search0turn10search9  
-- **1889–1897**: Landwehr phase begins: assignments at Ragusa/entity["city","Dubrovnik","croatia"] and Cattaro/entity["city","Kotor","montenegro"]; battalion command; promoted Major (1893) and Oberstleutnant (1897) (letter; user scan).  
-- **1900**: became commander of Landwehr Infantry Regiment No. 11; promoted Oberst (colonel) (letter; user scan).  
-- **18 Jul 1906**: appointed brigade commander in entity["city","Prague","czech republic"] (k.k. 42nd Landwehr Infantry Brigade) (letter; user scan).  
-- **1 Nov 1906** (seniority 28 Oct 1906): promoted **Generalmajor**. citeturn0search44  
-- **30 Mar 1909**: removed from command for health reasons (letter; user scan).  
-- **1 Nov 1909**: retired (pens.), domicile entity["city","Vienna","austria"] (letter; user scan). citeturn0search44  
-- **17 Dec 1910**: granted **Titular Feldmarschalleutnant**. citeturn0search44  
-- **20 Jun 1926**: died; burial location **unspecified** (see below). citeturn0search44  
+- **4 Feb 1851**: Birth in Zara/Dalmatia. citeturn0search44
+- **1866**: entered cadet institute at entity["city","Maribor","slovenia"] and then the academy at entity["city","Wiener Neustadt","lower austria, austria"] (Kriegsarchiv letter; user scan).
+- **30 Aug 1870**: commissioned lieutenant; posted to Infantry Regiment No. 46 (letter; user scan).
+- **1 Nov 1876**: promoted Oberleutnant; **1878–1879** instructor in Laibach/Ljubljana and Innsbruck cadet schooling (letter; user scan).
+- **31 Dec 1882**: transferred to Infantry Regiment No. 101; **1 Nov 1883** promoted Hauptmann 2nd class; later transfers include Infantry Regiment No. 22 (letter; user scan). Presence in Landwehr schematismus name indices corroborates official print visibility. citeturn10search0turn10search9
+- **1889–1897**: Landwehr phase begins: assignments at Ragusa/entity["city","Dubrovnik","croatia"] and Cattaro/entity["city","Kotor","montenegro"]; battalion command; promoted Major (1893) and Oberstleutnant (1897) (letter; user scan).
+- **1900**: became commander of Landwehr Infantry Regiment No. 11; promoted Oberst (colonel) (letter; user scan).
+- **18 Jul 1906**: appointed brigade commander in entity["city","Prague","czech republic"] (k.k. 42nd Landwehr Infantry Brigade) (letter; user scan).
+- **1 Nov 1906** (seniority 28 Oct 1906): promoted **Generalmajor**. citeturn0search44
+- **30 Mar 1909**: removed from command for health reasons (letter; user scan).
+- **1 Nov 1909**: retired (pens.), domicile entity["city","Vienna","austria"] (letter; user scan). citeturn0search44
+- **17 Dec 1910**: granted **Titular Feldmarschalleutnant**. citeturn0search44
+- **20 Jun 1926**: died; burial location **unspecified** (see below). citeturn0search44
 
 ## Decorations, nationality questions, and burial evidence
 

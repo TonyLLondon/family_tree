@@ -23,7 +23,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I165** — union **F83** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **26L8-74Q**.
+- **Tree id:** **I165** — union **F83**; FamilySearch **26L8-74Q**.
 
 ## Open questions
 

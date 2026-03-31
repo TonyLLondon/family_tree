@@ -33,4 +33,4 @@ Burke's 1833:
 ## Evidence
 
 - [Burke's *History of Commoners* (1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/extracted.pdf.md): "Juliana O'Moore, daughter of Alexander O'Moore, of Ballina, in the county of Kildare."
-- **Export:** **treeId** **I370** — unions **F173**, **F179** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **M17Q-CF3**.
+- **Tree id:** **I370** — unions **F173**, **F179**; FamilySearch **M17Q-CF3**.

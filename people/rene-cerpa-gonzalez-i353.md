@@ -16,10 +16,10 @@ Son of [Francisco Cerpa](francisco-cerpa-i348.md) and [Ana González](ana-gonzal
 
 ## Evidence
 
-- **Export:** [Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged) — **treeId** **I353**, birth family **F163** ([Francisco Cerpa](francisco-cerpa-i348.md) × [Ana González](ana-gonzalez-i349.md)).
+- **Tree id:** — **treeId** **I353**, birth family **F163** ([Francisco Cerpa](francisco-cerpa-i348.md) × [Ana González](ana-gonzalez-i349.md)).
 - **Site:** [Ancestor chart](/chart) — same compiled graph as the vault.
 - Research hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
 
 ## Open questions
 
-- Birth (and death) from Chilean civil books; confirm spelling **René** vs export variants.
+- Birth (and death) from Chilean civil books; confirm spelling **René** vs tree variants.

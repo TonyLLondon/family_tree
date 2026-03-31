@@ -20,11 +20,11 @@ Margaretha Elisabeth Bischanz was the wife of [Georg Busse](georg-busse.md) and 
 
 - Husband: [Georg Busse](georg-busse.md).
 - Father: [Hinrich Bischanz](hinrich-bischanz.md).
-- Children include [Ernst Gottlieb Busse](ernst-gottlieb-busse.md); see **Export** below for the full sibling set under the Busse household.
+- Children include [Ernst Gottlieb Busse](ernst-gottlieb-busse.md); see **Tree id** below for the full sibling set under the Busse household.
 
 ## Evidence
 
-- **Export:** **treeId** **I309** — unions **F145**, **F146** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); MyHeritage **Geni** URL in **SOUR**.
+- **Tree id:** **I309** — unions **F145**, **F146**; MyHeritage **Geni** URL in **SOUR**.
 ## Open questions
 
 - **Rippel** first marriage — separate narrative if this individual is merged correctly with Geni’s **widow** note.

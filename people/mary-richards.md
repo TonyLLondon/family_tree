@@ -13,7 +13,7 @@ children:
 
 # Mary Richards
 
-**Mary Richards** was born **1802** and died **1852** (years only in the export—no parish or civil strings in the slice used here). She married [Richard Mainwaring](richard-mainwaring.md) **25 October 1825** at **Merthyr Tydfil** and was mother of [Ann Mainwaring](ann-mainwaring.md).
+**Mary Richards** was born **1802** and died **1852** (years only in the working tree—no parish or civil strings in the slice used here). She married [Richard Mainwaring](richard-mainwaring.md) **25 October 1825** at **Merthyr Tydfil** and was mother of [Ann Mainwaring](ann-mainwaring.md).
 
 ## Life
 
@@ -28,7 +28,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I180** — union **F90** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I180** — union **F90**.
 
 ## Open questions
 

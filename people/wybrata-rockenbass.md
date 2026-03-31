@@ -11,7 +11,7 @@ children:
 
 # Wybrata Rockenbass
 
-Wybrata Rockenbass was the wife of [Hans Rutishauser](hans-rutishauser.md) and mother of [Barbara Rutershauer](barbara-rutershauer.md). The export carries no birth or death events for her.
+Wybrata Rockenbass was the wife of [Hans Rutishauser](hans-rutishauser.md) and mother of [Barbara Rutershauer](barbara-rutershauer.md). The working tree carries no birth or death events for her.
 
 ## Family
 
@@ -20,7 +20,7 @@ Wybrata Rockenbass was the wife of [Hans Rutishauser](hans-rutishauser.md) and m
 
 ## Evidence
 
-- **Export:** **treeId** **I170** — union **F85** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I170** — union **F85**.
 ## Open questions
 
 - **Rockenbass** / **Rockenbach** variant.

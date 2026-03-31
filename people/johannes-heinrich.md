@@ -13,7 +13,7 @@ children:
 
 # Johannes Heinrich
 
-Johannes Heinrich was the husband of [Anna Duenner](anna-duenner.md) and father of [Anna Heinrich](anna-heinrich.md). The export carries no birth or death events for him. His parents were [Aenderli Heinrich](aenderli-heinrich.md) and [Anna Lachenauer](anna-lauchenauer.md), recorded as marrying about 1642 at Sulgen.
+Johannes Heinrich was the husband of [Anna Duenner](anna-duenner.md) and father of [Anna Heinrich](anna-heinrich.md). The working tree carries no birth or death events for him. His parents were [Aenderli Heinrich](aenderli-heinrich.md) and [Anna Lachenauer](anna-lauchenauer.md), recorded as marrying about 1642 at Sulgen.
 
 ## Family
 
@@ -23,7 +23,7 @@ Johannes Heinrich was the husband of [Anna Duenner](anna-duenner.md) and father 
 
 ## Evidence
 
-- **Export:** **treeId** **I155** — unions **F78**, **F79** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **K4P5-2WB**.
+- **Tree id:** **I155** — unions **F78**, **F79**; FamilySearch **K4P5-2WB**.
 
 ## Open questions
 

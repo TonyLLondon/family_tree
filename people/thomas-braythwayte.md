@@ -13,7 +13,7 @@ children:
 
 # Thomas Braythwayte
 
-Thomas Braythwayte was father of [Richard Braithwait](richard-braithwait.md). He was born about 1459 at Brathay and died after 1494 there. The export’s household record for this line names no wife.
+Thomas Braythwayte was father of [Richard Braithwait](richard-braithwait.md). He was born about 1459 at Brathay and died after 1494 there. The working tree’s household record for this line names no wife.
 
 ## Family
 
@@ -21,7 +21,7 @@ Thomas Braythwayte was father of [Richard Braithwait](richard-braithwait.md). He
 
 ## Evidence
 
-- **Export:** **treeId** **I325** — union **F155** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L2TF-KRZ**.
+- **Tree id:** **I325** — union **F155**; FamilySearch **L2TF-KRZ**.
 
 ## Open questions
 

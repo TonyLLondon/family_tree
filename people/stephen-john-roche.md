@@ -17,13 +17,13 @@ children:
 
 # Stephen John Roche
 
-**Stephen Roche** of Limerick — "the oldest merchant in that city" at the time of his death — was the central figure of the Roche of Limerick family in the late 18th century. Burke's 1833 records **three marriages**: first, **Margaret Meade** (daughter of Richard Meade); second, **[Sarah O'Bryen](sarah-obryen.md)** (daughter of John O'Bryen of Moyvanine and Clounties, chief of the O'Bryens of Arran, lineal descendants of Brian Boru); third, **Mary-Anne Ankettle** (daughter of Richard Ankettle, M.D., no issue). The GEDCOM pairs him with Sarah O'Bryen because [Thomas Roche](thomas-roche.md), the direct ancestor, was a child of the second marriage.
+**Stephen Roche** of Limerick — "the oldest merchant in that city" at the time of his death — was the central figure of the Roche of Limerick family in the late 18th century. Burke's 1833 records **three marriages**: first, **Margaret Meade** (daughter of Richard Meade); second, **[Sarah O'Bryen](sarah-obryen.md)** (daughter of John O'Bryen of Moyvanine and Clounties, chief of the O'Bryens of Arran, lineal descendants of Brian Boru); third, **Mary-Anne Ankettle** (daughter of Richard Ankettle, M.D., no issue). The working tree pairs him with Sarah O'Bryen because [Thomas Roche](thomas-roche.md), the direct ancestor, was a child of the second marriage.
 
 He succeeded his father [John Lysaght Roche](john-lysaght-roche.md) — a "merchant prince" who in 1758 fitted out the **Catherine**, Limerick's first armed ship, for Barbados — in 1760. Stephen was a prominent Limerick merchant for over four decades, lived at **George's Quay, Limerick**, and died in February 1804 "in his 80th year." His second wife Sarah brought large estates at **Rathkeale, Co. Limerick** and **Tuam, Co. Galway**, and descended from the **O'Bryens of Arran, lineal descendants of Brian Boru**.
 
 ## Life
 
-- **5 Dec 1724** — Born **County Limerick, Ireland** (Burke's 1833; GEDCOM).
+- **5 Dec 1724** — Born **County Limerick, Ireland** (Burke's 1833; same date in the working tree).
 - **~1760** — Succeeded his father John Lysaght Roche; first marriage to **Margaret Meade**, daughter of Richard Meade, Esq. Children: John (merchant, Dublin, d. Sep 1825), Richard (in holy orders, d. 1805), George (of Granagh Castle, d. Mar 1846 aged 86), Anne (m. Peter Long), Mary (m. Peter Grehan).
 - **~1768–1770s** — Second marriage to **[Sarah O'Bryen](sarah-obryen.md)**. Children: Stephen (of Killarney), [Thomas](thomas-roche.md) (~1769–1855), [James](james-roche.md) (of Cork, "the Roscoe of Cork"), William (MP for Limerick), Sarah, Hellen, Anastasia.
 - **8 Nov 1786** — Death of second wife Sarah O'Bryen (per Burke's 1833).
@@ -54,7 +54,7 @@ He succeeded his father [John Lysaght Roche](john-lysaght-roche.md) — a "merch
 - [Saunders's News-Letter, 28 May 1789 — death of Philip Roche (grandson)](https://www.findmypast.co.uk/search-newspapers/article/BL/0001057/17890528/008) — "Master Philip Roche, son to Mr. Stephen Roche John" died in Limerick.
 - [The Day (London), 18 Oct 1809 — toast to Stephen Roche](../sources/corpus/1809-the-day-toast-philip-stephen-roche/transcription.md) ([scan](../media/docs/1809-toast-philip-roche-mercantile-spirit-stephen-roche.png)) — "the amiable memory of Mr. Stephen Roche, the President's Father."
 - [Ferrar, *History of Limerick* (1787)](../sources/corpus/ferrar-history-limerick-1787/transcription.md) — subscriber list includes **"Mr. Phil. Roche Stephen"** (Philip, son of Stephen Roche — Limerick patronymic style) and **"Phil. Roche John, esq"** (brother Philip's branch). Also pp. 352–353 ([scan](../media/docs/ferrar-history-limerick-1787-pp352-353-roche-family.png)): Roche family history from the house of Fermoy — Dominick Roche, Viscount Cahiravahalla, and Sir Boyle Roche.
-- **Export:** **treeId** **I358** — unions **F167**, **F170**, **F203** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **LZPD-GR4**.
+- **Tree id:** **I358** — unions **F167**, **F170**, **F203**; FamilySearch **LZPD-GR4**.
 
 ### Siblings (children of John Lysaght Roche × Anna Stackpole)
 
@@ -68,6 +68,6 @@ He succeeded his father [John Lysaght Roche](john-lysaght-roche.md) — a "merch
 
 ## Open questions
 
-- The GEDCOM/Geni discrepancy on first wife's name (**Margaret Meade** in Burke's 1833 vs sometimes **Sarah O'Brien** in Geni) is resolved: both are correct — they are wife 1 and wife 2 respectively. Burke's 1833 documents all three marriages.
+- The online-tree confusion on first wife's name (**Margaret Meade** in Burke's 1833 vs sometimes **Sarah O'Brien** in Geni) is resolved: both are correct — they are wife 1 and wife 2 respectively. Burke's 1833 documents all three marriages.
 - Sarah O'Bryen's death date (8 Nov 1786 per Burke's) implies her marriage to Stephen was before that date; Thomas was born ~1769, so the second marriage was by ~1768 at the latest.
 - Identify which parish registers cover the George's Quay household.

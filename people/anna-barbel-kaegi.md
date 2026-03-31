@@ -22,9 +22,9 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I149** — unions **F74**, **F91** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L163-QVC**.
+- **Tree id:** **I149** — unions **F74**, **F91**; FamilySearch **L163-QVC**.
 
 ## Open questions
 
 - **Kaegi** / **Sulgen** parish vitals around the **1728** marriage.
-- Mother on **Daniel Kaeg**’s union in the export—unnamed there.
+- Mother on **Daniel Kaeg**’s union in the working tree—unnamed there.

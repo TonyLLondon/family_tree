@@ -7,8 +7,8 @@ birth_place: Islington, London, England
 birth_registered: "Islington, Vol 1B, p. 253"
 sex: male
 parents:
-  father: alfred-evans-i434
-  mother: catherine-burton-evans-i608
+ father: alfred-evans-i434
+ mother: catherine-burton-evans-i608
 spouses:
   - dorothea-knecht
 children:
@@ -58,12 +58,11 @@ The **1881 Census** places the couple at **3 Swinton Street, St Pancras** — ju
 
 - [1881 Census — Alfred Evans household, 6 Paradise Place, Islington](../sources/corpus/1881-census-alfred-evans-household-islington/transcription.md) — RG11/265, folio 9, p. 12: Alfred (60, Painter), Catherine (58), Arthur (26, Cabinet Maker), William (24), Reuben, Catherine May (12), Thomas (17, Printer). Seven persons. Our William already at Swinton Street — the "William" here may be a dual enumeration or indexing confusion.
 
-**Correction note:** The original GEDCOM export linked William to Louisa Spencer (marriage 26 Jul 1891, I290/F136). Four census returns (1901, 1911, 1921) and the 1939 Register consistently record his wife as **Dorothea**, married since ~1878. The Louisa Spencer marriage belongs to a different William Evans. See [Louisa Spencer](louisa-spencer.md) for the disconnection note.
+**Correction note:** An older working tree linked William to Louisa Spencer (marriage 26 Jul 1891, I290/F136). Four census returns (1901, 1911, 1921) and the 1939 Register consistently record his wife as **Dorothea**, married since ~1878. The Louisa Spencer marriage belongs to a different William Evans. See [Louisa Spencer](louisa-spencer.md) for the disconnection note.
 
 **Note on birthplace:** Later censuses (1901, 1911) give William's birthplace as "Clerkenwell." The GRO birth registration and 1871 census both say Islington. The two parishes are contiguous — the family lived on the Islington side of the boundary, but "Clerkenwell" was the broader neighbourhood name for the area's metalworking quarter.
 
-**Export:**
-
+**Tree id:**
 - **treeId** **I289** — marriage union **F136** with [Dorothea Knecht](dorothea-knecht.md) in the working tree.
 
 ## Open questions

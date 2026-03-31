@@ -21,7 +21,7 @@ She enters the vault again through **1901** and **1911** census captures that gr
 
 ## Life
 
-- **1865** — Birth year per Ancestry profile (previously recorded as 1871 in the tree export).
+- **1865** — Birth year per Ancestry profile (previously recorded as 1871 in the tree file).
 
 ## Family
 
@@ -39,7 +39,7 @@ She enters the vault again through **1901** and **1911** census captures that gr
 - Census: [1901 Form A/B7](../media/docs/1901%20Ireland%20census%20Form%20A%20Cork%20Catherine%20Enright%20O%27Shea%20grandchildren%20Form%20B7.jpg) · [transcription](../sources/corpus/1901-census-enright-oshea-household-monkstown-cork/transcription.md) — grandmother Catherine Enright as Head (Widow, 69), with daughters Ellen Enright (Dressmaker, 33) and Catherine O'Shea (I119, Married, 30); grandchildren Mary (8, Scholar) and Madeline (4). Cornelius absent.
 - Census: [1911 Monkstown Form A/B34](../media/docs/1911%20Ireland%20census%20Form%20A%20Catherine%20O%27Shea%20household%20Monkstown%20boarders%20Form%20B34.jpg) · [transcription](../sources/corpus/catherine-enright-1911-30da5b22af/transcription.md) — Catherine O'Shea (I119) now Head of Family (40, Married 19 years, 3 born, 3 living); daughters Teresa Rosa (16) and Madeline (14) as Scholars; grandmother Catherine Enright (79, Widow, reads only, Irish & English) as "Rlt Mother"; five boarders including two golf professionals from Co. Louth. Mary (18) and Cornelius both absent.
 - [Mary O’Shea birth certificate](../media/docs/Ireland%20birth%20certificate%20Mary%20O%27Shea%201893-02-19%20Monkstown%20parents%20Cornelius%20O%27Shea%20Catherine%20Enright%20copy%201967.jpg).
-- **Export:** **treeId** **I119** — parental union **F60** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I119** — parental union **F60**.
 
 ## Open questions
 

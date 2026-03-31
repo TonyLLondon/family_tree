@@ -1,6 +1,6 @@
 # 1851 Census — Coolbear household, Butt Lane, Maldon
 
-**George Coolbear** (28, journeyman carpenter, born Hazeleigh) and **Ann** née Gridley (26, born Tillingham, Essex) with three children at Butt Lane, St Peter, Maldon. Confirms the GEDCOM parents of George Gridley Coolbear. George Gridley (6) has his mother's maiden name as his middle name.
+**George Coolbear** (28, journeyman carpenter, born Hazeleigh) and **Ann** née Gridley (26, born Tillingham, Essex) with three children at Butt Lane, St Peter, Maldon. Confirms the legacy export parents of George Gridley Coolbear. George Gridley (6) has his mother's maiden name as his middle name.
 
 ## Reference
 

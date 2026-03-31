@@ -43,14 +43,13 @@ Parents: [William Evans](william-evans-i289.md) (brass finisher / horse dealer);
 - [1901 Census — Evans household, 44 Pembroke Street](../media/docs/1901-census-evans-household-pembroke-street-islington-rg13-182.jpg) — RG13/182: Alfred (9), with parents William and Dorothea and eight siblings.
 - Sibling batch via father's file: [GRO birth index capture](../media/docs/GRO%20birth%20index%20Evans%20children%20names%20Emma%20through%20Margaret%20England%20Wales.tif).
 
-**Correction note:** The original GEDCOM export recorded Alfred's mother as Louisa Spencer, attributed a baptism at Holy Redeemer, Clerkenwell to him, and gave middle names "Edward William" from that register entry. Census returns from 1901 and 1911 — both primary household returns signed by William Evans — consistently record his mother as **Dorothea** (née Knecht, married Q4 1878 at Pancras). The Holy Redeemer baptism register (parents "William and Louisa", child "Alfred Edward William") belongs to a different Alfred Evans — the son of the other William Evans who married Louisa Spencer in 1891. The marriage register at St David's records the groom simply as **Alfred Evans**. See [William Evans](william-evans-i289.md) for the full correction chain.
+**Correction note:** An older working tree recorded Alfred's mother as Louisa Spencer, attributed a baptism at Holy Redeemer, Clerkenwell to him, and gave middle names "Edward William" from that register entry. Census returns from 1901 and 1911 — both primary household returns signed by William Evans — consistently record his mother as **Dorothea** (née Knecht, married Q4 1878 at Pancras). The Holy Redeemer baptism register (parents "William and Louisa", child "Alfred Edward William") belongs to a different Alfred Evans — the son of the other William Evans who married Louisa Spencer in 1891. The marriage register at St David's records the groom simply as **Alfred Evans**. See [William Evans](william-evans-i289.md) for the full correction chain.
 
-**Export:**
+**Tree id & evidence:**
 
 - **treeId** **I101** — parents' union **F136**; marriage to Annie **F50**.
 - **1939 Register:** RG101/0291F/005, schedule 61 — 37 Oldershaw Road, Lower Holloway: Alfred Evans (b. 2 Feb 1893, costermonger), Annie Evans (printers maker), Annie F Evans (daughter).
-- [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
-- **Site:** [Ancestor chart](/chart) — **treeId** **I101** matches YAML.
+- **Site:** [Ancestor chart](/chart) — **treeId** **I101** matches YAML; [Structured family tree](../family-tree.json).
 
 ## Open questions
 

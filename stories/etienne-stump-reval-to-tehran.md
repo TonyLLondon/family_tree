@@ -1,8 +1,8 @@
 # From Reval to Tehran — The Life of Étienne Stump
 
-**Canonical structured tree:** [family-tree.json](../family-tree.json) (I16).
+**Canonical structured tree:** [Structured family tree](../family-tree.json) (I16).
 **Person page:** [Étienne Stump](../people/etienne-stump.md).
-**Line hub:** [Lewis · Stump · Europe](../topics/lewis-wales-stump-europe.md) · [Persia trunk](../topics/persia.md).
+**Line hub:** [Persia trunk](../topics/persia.md).
 
 ---
 

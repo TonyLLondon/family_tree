@@ -34,7 +34,7 @@ His daughter [Catherine Griffiths](catherine-griffiths.md) married [David John L
 
 - [1871 census — Griffiths household, Aberdare](../media/docs/1871-census-griffiths-household-aberdare-rg10-5405.jpg) — RG10/5405, folio 12, page 17, schedule 76. FMP `GBC/1871/0000199804`.
 - [1881 census — Griffiths household, Aberdare](../media/docs/1881-census-griffiths-household-aberdare-rg11-5320.jpg) — RG11/5320, folio 51, page 7, schedule 409. FMP `GBC/1881/0024882895`.
-- **Export:** **treeId** **I422** — union **F188** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); census references RG09/4068, RG10/5405, RG11/5320.
+- **Tree id:** **I422** — union **F188**; census references RG09/4068, RG10/5405, RG11/5320.
 
 ## Open questions
 

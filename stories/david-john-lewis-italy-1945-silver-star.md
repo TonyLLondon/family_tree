@@ -1,6 +1,6 @@
 # David John Lewis — Sicily to the Po, and the U.S. Silver Star
 
-Military narrative for [David John Lewis](../people/david-john-lewis.md) (**1918–2000**): **Major (temp.)**, **1st Battalion, The Welch Regiment**, **British Army**; army number **143587**. **U.S. Silver Star**; **Mentioned in Dispatches**. **Structured tree:** [family-tree.json](../family-tree.json). **Welsh line (parents):** [Lewis in Aberdare and Merthyr](lewis-aberdare-merthyr-coalfield.md).
+Military narrative for [David John Lewis](../people/david-john-lewis.md) (**1918–2000**): **Major (temp.)**, **1st Battalion, The Welch Regiment**, **British Army**; army number **143587**. **U.S. Silver Star**; **Mentioned in Dispatches**. **Structured tree:** [Structured family tree](../family-tree.json). **Welsh line (parents):** [Lewis in Aberdare and Merthyr](lewis-aberdare-merthyr-coalfield.md).
 
 ---
 

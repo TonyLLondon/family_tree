@@ -80,9 +80,9 @@ No separate ingest planned — use as alternate stable URLs or Wayback targets.
 ### 4. Mustawfi memoir — Persian PDF sites
 
 - **URLs:**
-  - <https://persianpdf.com/book/دانلود-کتاب-شرح-زندگانی-من-اثر-عبدالله/> (10,000 toman)
-  - <https://taaghche.com/book/205631/شرح-زندگانی-من-جلد-اول> (vol. 1)
-  - <https://fidibo.com/book/174886-شرح-حال-زندگانی-من-جلد-1>
+ - <https://persianpdf.com/book/دانلود-کتاب-شرح-زندگانی-من-اثر-عبدالله/> (10,000 toman)
+ - <https://taaghche.com/book/205631/شرح-زندگانی-من-جلد-اول> (vol. 1)
+ - <https://fidibo.com/book/174886-شرح-حال-زندگانی-من-جلد-1>
 - **What:** عبدالله مستوفی, *شرح زندگانی من* (3 vols., 1927 pp.)
 - **Action:** Download vol. 1 (the Mahmoudieh/Stump passages are in vol. 1 per the legacy email). Search for استمپ / دندانساز.
 - **Already in repo:** [mustawfi-mahmoudieh-stump.md](../mustawfi-mahmoudieh-stump.md) — legacy email summary of vol. 1 passages.
@@ -96,8 +96,8 @@ No separate ingest planned — use as alternate stable URLs or Wayback targets.
 ### 6. Dr. Esmail Yazdi bio pages
 
 - **URLs:**
-  - <https://www.mohammadmossadegh.com/biography/ismail-yazdi/>
-  - <https://fa.wikipedia.org/wiki/اسماعیل_یزدی>
+ - <https://www.mohammadmossadegh.com/biography/ismail-yazdi/>
+ - <https://fa.wikipedia.org/wiki/اسماعیل_یزدی>
 - **What:** Background on the author of *Siri dar Tarikh-e Dandanpezeshki-ye Iran*, the book that reproduces Stump's own 1922 article.
 
 ### 7. International College of Dentists — early history

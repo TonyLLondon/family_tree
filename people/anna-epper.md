@@ -11,7 +11,7 @@ children:
 
 # Anna Epper
 
-**Anna Epper** married [Andreas Heinrich](andreas-heinrich.md) and was mother of [Aenderli Heinrich](aenderli-heinrich.md). No birth or death in the export slice.
+**Anna Epper** married [Andreas Heinrich](andreas-heinrich.md) and was mother of [Aenderli Heinrich](aenderli-heinrich.md). No birth or death in the working-tree excerpt.
 
 ## Family
 
@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I160** — union **F80** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I160** — union **F80**.
 
 ## Open questions
 

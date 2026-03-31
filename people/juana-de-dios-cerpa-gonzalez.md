@@ -18,7 +18,7 @@ siblings:
 
 She was discovered through the Chanco civil registry birth index, where her entry (82, Año 1912) appears on the same index page as her brother Manuel Antonio (Miguel), entry 65. Both share the paternal surname Cerpa and maternal surname González. The proximity of their entry numbers (65 and 82) within the same year suggests they may have been twins, or born within a few months of each other.
 
-No death entry for Juana de Dios Cerpa González appears in the Chanco deaths index (covering approximately 1918–1932), indicating she survived at least into the 1930s. She does not appear in the family tree export, suggesting she may have been unknown to the family members who compiled the tree, or she may have married and been recorded under her married name.
+No death entry for Juana de Dios Cerpa González appears in the Chanco deaths index (covering approximately 1918–1932), indicating she survived at least into the 1930s. She does not appear in the structured family tree, suggesting she may have been unknown to the family members who compiled the tree, or she may have married and been recorded under her married name.
 
 ## Evidence
 

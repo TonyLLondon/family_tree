@@ -17,12 +17,12 @@ children:
 
 # Carl Gustav Eylandt
 
-**Carl Gustav Eylandt** was father of [Johan Jacob Eylandt](johan-jacob-eylandt.md). The export places his birth in **Hageri (Harjumaa)**—south of **Tallinn** in the **Harrien** church district—and his last known place at **Kirrefer** in **Livonia**, with death **after 1816**—typical **Estland** / **Livland** movement under one imperial administration.
+**Carl Gustav Eylandt** was father of [Johan Jacob Eylandt](johan-jacob-eylandt.md). The working tree places his birth in **Hageri (Harjumaa)**—south of **Tallinn** in the **Harrien** church district—and his last known place at **Kirrefer** in **Livonia**, with death **after 1816**—typical **Estland** / **Livland** movement under one imperial administration.
 
 ## Life
 
 - **25 September 1743** — Born **Haggers (Hageri)**; christened **29 September 1743**, **Hageri kihelkond**.
-- **After 1816** — Death bracket in export; **Kirrefer** as last named place.
+- **After 1816** — Death bracket in the import; **Kirrefer** as last named place.
 
 He married [Margarete Elisabeth Wiedau](margarete-elisabeth-wiedau.md). She was born **1744** also in **Hageri**, which often marks same-parish marriage and continuity on tenant or farm holdings.
 
@@ -34,7 +34,7 @@ He married [Margarete Elisabeth Wiedau](margarete-elisabeth-wiedau.md). She was 
 
 ## Evidence
 
-- **Export:** **treeId** **I304** — unions **F143** (with Margarete), **F148** (`FAMC`) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I304** — unions **F143** (with Margarete), **F148** (`FAMC`).
 
 ## Open questions
 

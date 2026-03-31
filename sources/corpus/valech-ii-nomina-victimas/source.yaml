@@ -1,0 +1,12 @@
+id: valech-ii-nomina-victimas
+title: Nómina de Prisioneros Políticos y Torturados — Comisión Asesora para la Calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura (Valech II, 2011)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-03-30T14:37:18Z'
+  sha256: 7c02d7bc5b1af810b8df044ad5ef7f814fe67185e33b11734b2bc088d045abdf
+  bytes: 575561
+  media_reference: media/docs/chile-valech/nomina-valech-ii-ppt.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/chile-valech/nomina-valech-ii-ppt.pdf

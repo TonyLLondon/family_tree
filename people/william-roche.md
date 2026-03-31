@@ -22,7 +22,7 @@ children:
 
 ## Life
 
-- **~1806** — Born **Limerick** (GEDCOM says "bef 1794" but obituary records death "at the ripe age of 88" in April 1894, placing birth ~1806).
+- **~1806** — Born **Limerick** (working tree says "bef 1794" but obituary records death "at the ripe age of 88" in April 1894, placing birth ~1806).
 - **1 Mar 1832** — Marriage at **St Andrew's, Westland Row, Dublin** to [Eliza Knight](eliza-knight.md).
 - **By 1833** — Described in Burke's *History of Commoners* as "William, a solicitor in Dublin, married Eliza, another daughter and co-heir of — Knight, esq."
 - **1838** — Appears in Dublin court records on behalf of a Limerick client, still connected to his home city.
@@ -74,7 +74,7 @@ The pattern is striking: Crown Solicitor father, Crown Solicitor son-in-law (O'F
 
 ### Other evidence
 
-- **Export:** **treeId** **I137** — unions **F68**, **F160** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I137** — unions **F68**, **F160**.
 - [O'Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/).
 
 ## Open questions

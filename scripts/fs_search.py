@@ -1055,15 +1055,67 @@ def run_check(args: argparse.Namespace) -> None:
 #  FILMS  (catalog → film list → waypoint contexts)
 # ══════════════════════════════════════════════════════════════════════════════
 
-CATALOG_DETAIL_URL = "https://www.familysearch.org/service/search/catalog/v3/catalogRecord"
+CATALOG_DETAIL_URLS = [
+    "https://www.familysearch.org/service/search/catalog/v4/catalogRecord",
+    "https://www.familysearch.org/service/search/catalog/v3/catalogRecord",
+]
+
 
 def _fetch_catalog_detail(catalog_id: str) -> dict:
-    """Fetch catalog record detail by ID, including film/item list."""
-    url = f"{CATALOG_DETAIL_URL}/{catalog_id}"
-    return _api_get(
-        url,
-        referer=f"https://www.familysearch.org/search/catalog/{catalog_id}",
+    """Fetch catalog record detail by ID, including film/item list.
+
+    Tries multiple API versions since FamilySearch retires endpoints without
+    notice.  Falls back to scraping embedded JSON from the catalog web page.
+    """
+    referer = f"https://www.familysearch.org/search/catalog/{catalog_id}"
+
+    for base in CATALOG_DETAIL_URLS:
+        _rate_limit()
+        url = f"{base}/{catalog_id}"
+        headers = {
+            **_FS_HEADERS_BASE,
+            "Accept": "application/json",
+            "Authorization": f"Bearer {_token()}",
+            "Referer": referer,
+        }
+        req = Request(url, headers=headers)
+        try:
+            with urlopen(req) as resp:
+                return json.loads(resp.read())
+        except HTTPError as exc:
+            if exc.code == 404:
+                continue
+            _handle_http_error(exc)
+            return {}
+
+    # All versioned endpoints failed — try the web page for embedded JSON
+    _rate_limit()
+    web_url = f"https://www.familysearch.org/search/catalog/{catalog_id}"
+    web_req = Request(web_url, headers={
+        **_FS_HEADERS_BASE,
+        "Accept": "text/html",
+        "Authorization": f"Bearer {_token()}",
+    })
+    try:
+        with urlopen(web_req) as resp:
+            html = resp.read().decode(errors="replace")
+        m = re.search(r'window\.__INITIAL_STATE__\s*=\s*({.+?});', html)
+        if m:
+            state = json.loads(m.group(1))
+            record = state.get("catalogRecord", state)
+            if isinstance(record, dict) and ("repositoryCalls" in record or "title" in record):
+                return record
+    except (HTTPError, json.JSONDecodeError):
+        pass
+
+    print(
+        f"ERROR: Could not fetch catalog detail for {catalog_id}.\n"
+        f"  The FamilySearch catalog detail API has changed.\n"
+        f"  Try browsing https://www.familysearch.org/search/catalog/{catalog_id}\n"
+        f"  and use 'browse' with the waypoint context shown on that page.",
+        file=sys.stderr,
     )
+    sys.exit(1)
 
 
 def _parse_catalog_films(data: dict) -> list[dict]:

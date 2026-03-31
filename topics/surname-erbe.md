@@ -46,7 +46,6 @@ The Erbe name also produced **[Eugen Edmund Erbe](../people/eugen-edmund-erbe.md
 
 ## Related
 
-- [Lewis (Wales) · Stump (Europe) — line hub](lewis-wales-stump-europe.md)
 - Story: [Stump — Thurgau & Tallinn](../stories/stump-thurgau-tallinn-baltic-line.md)
 - Surname: [Stump](surname-stump.md) — the Swiss family Olga married into
 - Surname: [Eylandt](surname-eylandt.md) — Olga's mother's family

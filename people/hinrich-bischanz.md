@@ -9,7 +9,7 @@ children:
 
 # Hinrich Bischanz
 
-**Hinrich Bischanz** was father of [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md). The export gives a single name line; **Geni** sometimes spells the line **Bischantz**—orthography drifts **Bischanz** / **Bischantz**.
+**Hinrich Bischanz** was father of [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md). The working tree gives a single name line; **Geni** sometimes spells the line **Bischantz**—orthography drifts **Bischanz** / **Bischantz**.
 
 ## Family
 
@@ -17,8 +17,8 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I310** — union **F146** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I310** — union **F146**.
 
 ## Open questions
 
-- Spouse—**F146** has no wife line in this export.
+- Spouse—**F146** has no wife line in this working-tree row.

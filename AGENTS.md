@@ -29,7 +29,7 @@ Scripts (below) handle **sync, ingest, and validation**. They do not replace ope
 | `index.md` | Vault map (tables for `media/` layout). |
 | `manual/` | **Inbox** for raw drops to be **read and relocated** into `people/`, `stories/`, `sources/corpus/`, `media/`, etc. See `manual/README.md`. |
 
-**Regional hubs (in `topics/`):** `topics/persia.md` (Persia trunk); `topics/zara-italy-dalmatia.md` (Zara); `topics/lewis-wales-stump-europe.md` (Lewis + Stump/Erbe + Ireland); `topics/evans-cerpa-perez-london-chile.md` (London Evans × Chile).
+**Regional hubs (in `topics/`):** `topics/persia.md` (Persia trunk); `topics/zara-italy-dalmatia.md` (Zara); `topics/evans-cerpa-perez-london-chile.md` (London Evans × Chile).
 
 ## Sources: corpus bundles
 
@@ -148,7 +148,7 @@ Stories are **visual-rich scrollytelling pages** on the web app, not plain markd
 1. Write `stories/<slug>.md` with `# Title`, then `## Section` per visual beat, then `## Evidence` / `## Related` as appendix.
 2. Gather images: family photos in `media/docs/`; download CC/public-domain context images to `media/context/<topic>/` with a `CREDITS.md`.
 3. Create `stories/<slug>.scrolly.json` matching the number of `##` sections to `scrollyStepCount` and `steps[]`.
-4. Link the story from the relevant `topics/*.md` hub (not from unrelated hubs — Evans stories link from `evans-cerpa-perez-london-chile.md`, not from `lewis-wales-stump-europe.md`).
+4. Link the story from the relevant `topics/*.md` hub (not from unrelated hubs — Evans stories link from `evans-cerpa-perez-london-chile.md`, not from `persia.md`).
 5. Test locally: `cd web && npm run dev` → visit `/stories/<slug>`.
 
 ## Research approach

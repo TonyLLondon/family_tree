@@ -24,11 +24,11 @@ The biographical heart of his line runs through [Ivor](ivor-anthony-samuel-lewis
 - Father: [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md).
 - Mother: [Catherine Stump](catherine-stump.md).
 - Spouse: [Jacqueline Caroline Evans](jacqueline-caroline-evans-i5.md).
-- Children: see **Export** below.
+- Children: see **Tree id** below.
 
 ## Evidence
 
-- **Export:** **treeId** **I1** — [archive/gedcom/Upload 201609 - 2020 09 23 23-53.ged](../archive/gedcom/Upload%20201609%20-%202020%2009%2023%2023-53.ged).
+- **Tree id:** **I1**.
 - Roster context (coverage tooling): [ancestor-coverage-list.md](ancestor-coverage-list.md).
 
 ## Open questions

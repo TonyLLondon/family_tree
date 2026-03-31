@@ -62,9 +62,8 @@ His parents were [Marc Francois Stump](marc-francois-stump.md) and [Olga Carolin
 - [NYT — Vera Obolensky (1974)](../sources/corpus/vera-obolensky-death-notice-nytimes-2644e85dac/) · [ProQuest “Princess Obolensky”](../sources/corpus/princess-obolensky-abbcc58ed8/).
 - [Portrait — Vera and Georges, c. 1920s](../media/collections/stump-etienne/vera-obolensky-and-georges.png).
 
-**Export:**
-
-- **treeId** **I16** — household **F6** in the working tree — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+**Tree id:**
+- **treeId** **I16** — household **F6** in the working tree.
 - Older exports sometimes give Étienne’s birth as 3 July 1880 (likely day/month transposition vs Tallinn parish 7 March 1880).
 - [Stump wishlist — Elgood purchase lead](../sources/wishlist/stump.md).
 

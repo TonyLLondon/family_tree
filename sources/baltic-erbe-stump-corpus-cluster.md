@@ -1,6 +1,6 @@
 # Baltic Erbe, DIGAR, Thurgau, Stump tree — corpus cluster
 
-Bundles for **Olga Erbe / Marc Stump / Étienne Stump**, **Tallinn / Reval**, **Thurgau parish books**, and **Swiss–Russian petition** context. Pair with [topics/lewis-wales-stump-europe.md](../topics/lewis-wales-stump-europe.md), [wishlist/erbe-baltic-german-line.md](wishlist/erbe-baltic-german-line.md), [erbe-baltic-german-web-references.md](erbe-baltic-german-web-references.md).
+Bundles for **Olga Erbe / Marc Stump / Étienne Stump**, **Tallinn / Reval**, **Thurgau parish books**, and **Swiss–Russian petition** context. Pair with [wishlist/erbe-baltic-german-line.md](wishlist/erbe-baltic-german-line.md), [erbe-baltic-german-web-references.md](erbe-baltic-german-web-references.md).
 
 ## Newspapers (DIGAR)
 

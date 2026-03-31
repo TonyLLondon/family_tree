@@ -11,7 +11,7 @@ children:
 
 # Zacharias Schuemperli
 
-**Zacharias Schuemperli** married [Barbel Weber](barbel-weber.md) and was father of [Anna Schuemperli](anna-schuemperli.md). No birth or death in the export slice used here.
+**Zacharias Schuemperli** married [Barbel Weber](barbel-weber.md) and was father of [Anna Schuemperli](anna-schuemperli.md). No birth or death in the working-tree excerpt used here.
 
 ## Family
 
@@ -20,7 +20,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I167** — union **F84** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I167** — union **F84**.
 
 ## Open questions
 

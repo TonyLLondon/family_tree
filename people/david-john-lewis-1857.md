@@ -28,7 +28,7 @@ By the **1921** census, taken during the great coal lockout of that summer, Davi
 
 The **1911** census return still shocks: **twelve births, seven deaths**, five children surviving. Among them was [Samuel](samuel-lewis.md), who would descend into the earth as a miner at thirteen.
 
-Military papers tag a **South Wales Borderer** stint beginning in **1884** — service number **1082** in the export, full **WO** bundle not yet in this repo. David died in **May 1925** in **Merthyr** registration district, administratively bound to the coalfield that had shaped every line of his life.
+Military papers tag a **South Wales Borderer** stint beginning in **1884** — service number **1082** in the working tree, full **WO** bundle not yet in this repo. David died in **May 1925** in **Merthyr** registration district, administratively bound to the coalfield that had shaped every line of his life.
 
 > *Not to be confused with his grandson [David John Lewis (1918–2000)](david-john-lewis.md), the major who crossed the Po in 1945.*
 
@@ -51,7 +51,7 @@ No confirmed photograph.
 - [1901 census — Glen Road, Aberdare](../sources/1901-census-aberdare-david-john-lewis.md) — coal miner, age 42; household of 7 family + 2 boarders; Samuel (13) already underground; infant Rachel alive; Thomas (1891) absent ([transcription](../sources/corpus/1901-census-aberdare-david-john-lewis-household-rg13-5035/transcription.md) · [image](../media/docs/1901-census-glen-road-aberdare-david-john-lewis-household-rg13-5035.jpg)).
 - [1921 census — 41 Glan Road, Aberdare](../sources/1921-census-aberdare-david-john-lewis.md) — **Widower**, surface labourer, Bwllfa Co; all miners out of work during the 1921 lockout ([transcription](../sources/corpus/1921-census-aberdare-david-john-lewis-household-rg15-26875/transcription.md) · [image](../media/docs/1921-census-41-glan-road-aberdare-david-john-lewis-household-rg15-26875.jpg)).
 - [1911 census — 41 Glen Road cluster](../media/docs/1911%20census%2041%20Glen%20Road%20Aberdare%20David%20J%20Lewis%20household%20schedule%2079.jpg) — related Aberdare street network.
-- **Export:** **treeId** **I173** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%200929.ged). Marriage to Catherine **F87**; parents' union **F189**. GEDCOM census references **RG10/5388**, **RG11/5308** are **wrong** — they belong to a different Lewis Lewis (Gelligaer carpenter). Actual 1871 reference is **RG10/5424** (Aberavon). Military **South Wales Borderers** no. **1082** (1884).
+- **Tree id:** **I173**. Marriage to Catherine **F87**; parents' union **F189**. Census references **RG10/5388**, **RG11/5308** from an obsolete tree row are **wrong** — they belong to a different Lewis Lewis (Gelligaer carpenter). Actual 1871 reference is **RG10/5424** (Aberavon). Military **South Wales Borderers** no. **1082** (1884).
 
 ## Civil registration
 

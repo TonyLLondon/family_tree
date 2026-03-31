@@ -6,8 +6,8 @@ country: England and Wales
 
 # 1851 census — Lewis Lewis household, Port Talbot, Aberavon
 
-**Reference:** HO 107/2467, p. 233  
-**Parish:** Aberavon, Glamorganshire  
+**Reference:** HO 107/2467, p. 233
+**Parish:** Aberavon, Glamorganshire
 **Place:** Port Talbot
 
 Lewis Lewis (38), **widower**, wood ward, born Briton Ferry. Six children: Ann (15, Baglan), Henry (14, Baglan), Eliza (10, Briton Ferry), Mary (7, Aberavon), Gwen (5, Aberavon), Sarah (3, Aberavon).

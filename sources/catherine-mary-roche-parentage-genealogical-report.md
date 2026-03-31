@@ -2,9 +2,9 @@
 corpus: catherine-mary-roche-parentage-genealogical-report
 kind: pdf
 people:
-  - catherine-mary-roche
-  - william-roche
-  - eliza-knight
+ - catherine-mary-roche
+ - william-roche
+ - eliza-knight
 ---
 
 # Genealogical report: Catherine Mary Roche (1841–1937) parentage

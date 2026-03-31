@@ -13,7 +13,7 @@ children:
 
 # Lawrence White
 
-**Lawrence White** was born about **1732** at **Scarnagh Cross Roads**, **County Wexford**. He married [Jane Lee](jane-lee.md) and was father of [Mathew White](mathew-white.md). The export flags death **Y** without detail.
+**Lawrence White** was born about **1732** at **Scarnagh Cross Roads**, **County Wexford**. He married [Jane Lee](jane-lee.md) and was father of [Mathew White](mathew-white.md). The working tree flags death **Y** without detail.
 
 ## Family
 
@@ -22,7 +22,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I344** — union **F161** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged); FamilySearch **L5RW-C5F**.
+- **Tree id:** **I344** — union **F161**; FamilySearch **L5RW-C5F**.
 
 ## Open questions
 

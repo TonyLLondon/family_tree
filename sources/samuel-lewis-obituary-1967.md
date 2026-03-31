@@ -3,10 +3,10 @@ title: "Obituary notices — Samuel Lewis (d. 7 Aug 1967)"
 corpus: samuel-lewis-obituary-notices-1967
 kind: scan
 people:
-  - samuel-lewis
-  - elizabeth-lilian-cushen
-  - david-john-lewis
-  - brynmor-keith-lewis
+ - samuel-lewis
+ - elizabeth-lilian-cushen
+ - david-john-lewis
+ - brynmor-keith-lewis
 ---
 
 # Obituary notices — Samuel Lewis (d. 7 Aug 1967)

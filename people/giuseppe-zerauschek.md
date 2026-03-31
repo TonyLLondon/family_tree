@@ -45,7 +45,7 @@ He was **dead** before the 1878 wedding of his son; the Pago register lists **Bi
 - **Marriage register of son Antonio, Entry N. 8, 26 Jan 1878 (Pago):** [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
 - **Marriage register, Entry 30, 24 Aug 1850 (Zara):** [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg) · [FamilySearch image](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G99X-26RK?cat=664761&i=515&lang=en) (Sv. Stošija, Zadar · Marriages 1825–1852 · image 515 of 535).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
-- **Export:** **treeId** **I115**; marriages **F58** (with Antonia), **F182** (his parents) — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I115**; marriages **F58** (with Antonia), **F182** (his parents).
 
 ## Open questions
 

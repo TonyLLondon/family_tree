@@ -12,11 +12,11 @@ children:
 
 # Catharina Elisabeth Nabgten
 
-Catharina Elisabeth Nabgten was the wife of [Hanns Erbe](hanns-erbe.md) and mother of [Georg Christian Erbe](georg-christian-erbe.md). The export gives her birth about 1684. **Nabgten** follows the spelling in that export (possible **Nachten** / **Nabicht** copy error—confirm in the marriage record).
+Catharina Elisabeth Nabgten was the wife of [Hanns Erbe](hanns-erbe.md) and mother of [Georg Christian Erbe](georg-christian-erbe.md). The working tree gives her birth about 1684. **Nabgten** follows the spelling in that import (possible **Nachten** / **Nabicht** copy error—confirm in the marriage record).
 
 ## Life
 
-- **~1684** — Born (year only in export).
+- **~1684** — Born (year only in the working tree).
 - **Death** — flagged without detail in the slice used here.
 
 ## Family
@@ -26,7 +26,7 @@ Catharina Elisabeth Nabgten was the wife of [Hanns Erbe](hanns-erbe.md) and moth
 
 ## Evidence
 
-- **Export:** **treeId** **I321** — union **F152** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I321** — union **F152**.
 ## Open questions
 
 - **Surname orthography** — primary **Erbe–Nabgten** marriage image.

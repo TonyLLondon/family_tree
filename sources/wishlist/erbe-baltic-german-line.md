@@ -5,7 +5,7 @@
 | Target | Why |
 |--------|-----|
 | **Tallinn Dome / TLA** parish books | Close **Olga** birth (**St. Petersburg**?) vs **Reval** household; **1868** marriage image; **Étienne** baptism (EBC already summarized). |
-| **EAA Saaga** (`ra.ee/dgs`) | GEDCOM already embeds `_purl.php?shc=…` hints for **F140** children — download PDFs or screenshots into `media/` + register in corpus. |
+| **EAA Saaga** (`ra.ee/dgs`) | legacy export already embeds `_purl.php?shc=…` hints for **F140** children — download PDFs or screenshots into `media/` + register in corpus. |
 | **LVVA / Estonian archives** | **Johann Georg Sigismund Erbe** — **Pärnu** *Schulinspektor* appointment / personnel file (if fonds indexed). |
 | **Germany: Schweinau, Ohrdruf, Gotha** parish or Landeskirchenarchiv | Replace **[Vater Erbe](../../people/vater-erbe.md)** placeholder; firm **Hanns → Georg Christian → Sigmund** chain. |
 | ***Revaler Beobachter*** **1908** Nr. **19** | BBLD couples it with *Revalsche Zeitung* for **Eugen**’s obituary. **Mar 2026:** no publication titled **Revaler Beobachter** found on **dea.digar.ee** (closest names: **Revaler Bote**, **Revalsche Zeitung**, **Feuilleton-Beilage**); BBLD cite may mean another microfilm title or catalog alias — keep eyes open in LVIA / union catalog. |

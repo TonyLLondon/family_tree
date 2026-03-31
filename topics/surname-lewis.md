@@ -64,7 +64,6 @@ The Lewis patriline runs through the South Wales coalfield: **[Samuel Lewis](../
 
 ### Related
 
-- [Lewis (Wales) · Stump (Europe) — line hub](lewis-wales-stump-europe.md)
 - [Aberdare and the Welsh valleys](aberdare-welsh-valleys.md)
 - Story: [Lewis — Aberdare & Merthyr coalfield](../stories/lewis-aberdare-merthyr-coalfield.md)
 - Story: [David John Lewis — Italy 1945 & Silver Star](../stories/david-john-lewis-italy-1945-silver-star.md)

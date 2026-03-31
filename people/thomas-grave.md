@@ -29,7 +29,7 @@ children:
 
 ## Evidence
 
-- **Export:** **treeId** **I92** — unions **F44**, **F45** — [archive/gedcom/Upload for MyHeritage 200929.ged](../archive/gedcom/Upload%20for%20MyHeritage%20200929.ged).
+- **Tree id:** **I92** — unions **F44**, **F45**.
 
 ## Open questions
 
