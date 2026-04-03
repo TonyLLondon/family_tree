@@ -18,6 +18,8 @@ siblings:
 
 # Eugen Edmund Erbe
 
+![Eugen Edmund Erbe, c. 1870](../media/images/portraits/eugen-edmund-erbe-portrait-c1870.png)
+
 Brother of [Olga Caroline Erbe](olga-caroline-erbe.md) and the best-documented **public figure** in the Hermann–Emilie Erbe household: a **Baltic German jurist** who served on **Tallinn / Reval** city government and appears in **Wikipedia**, **BBLD**, and **Wikidata** under the extended form **Eugen Edmund Eduard Erbe**. He is **not** on the direct Stump descent line, but he anchors the family in **Reval civic life** and appears by name in the **[Estonian Biographical Center Stump report](../sources/estonian-biographical-center-stump-report-2005.md)** as a **law-student godparent** at Arthur Roger Stump’s **1871** baptism.
 
 ## Life
@@ -50,4 +52,4 @@ Brother of [Olga Caroline Erbe](olga-caroline-erbe.md) and the best-documented *
 
 - **Birth register** — confirm **5 November 1847** in **Tallinn Dome** (or relevant Lutheran book) to close the **17 November** variant in some web mirrors.
 - **Acting Stadthaupt** — English Wikipedia’s **Dec 1905 – May 1906** window vs other temporary assignments in **BBLD**; tie down with **Reval city council** records or **Revalsche Zeitung** / **Revaler Beobachter**.
-- **Portrait** — MyHeritage note links **RA.EE Fotis**; stable `media/` copy and license if you want a local asset.
+- **Portrait** — Local copy at `media/images/portraits/eugen-edmund-erbe-portrait-c1870.png`. A public-domain version (c. 1870, anonymous photographer, sourced from tallinn.ee) is on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Erbe.jpg). The MyHeritage note also links **RA.EE Fotis**.

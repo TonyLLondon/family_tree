@@ -1,0 +1,14 @@
+slug: fs-estonia-church-books-eylandt-busse
+title: "FamilySearch: Estonia Church Books — Eylandt / Busse family records"
+collection: "Estonia, Church Books and Synagogue Registers, 1590-1941"
+collection_id: 1932350
+search_date: "2026-04-03"
+remote:
+  webpage_url: "https://www.familysearch.org/search/collection/1932350"
+files:
+  reference: reference.md
+notes: >
+  Indexed records searched via fs_search.py for Eylandt/Eyland/Eiland
+  and Busse surnames in Estonia. Key findings: Carl Gustav burial (corrects
+  death date), Maria Elisabeth Busse baptism (confirms parents), six children
+  of Johan Jacob baptised in Tallinn, Erbe-Eylandt marriage and burial.

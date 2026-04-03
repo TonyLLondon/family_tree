@@ -1,0 +1,25 @@
+title: "Estonian National Archives (Saaga) — Erbe / Eylandt archival references"
+repository: Estonian National Archives (Rahvusarhiiv)
+access: https://www.ra.ee/dgs/explorer.php
+provenance: >
+  Archival shelf marks cited by Geni profile managers Elle Kiiker and Andrey Masing
+  on the Erbe / Eylandt / Eyland profiles. Each reference points to a specific
+  digitised page in the Saaga viewer (ra.ee). The viewer requires JavaScript;
+  images are publicly accessible but cannot be fetched programmatically.
+  Coordinates after the ? in each Saaga URL highlight a specific region on the scan.
+collections:
+  - EAA (Eesti Ajalooarhiiv / Estonian Historical Archives)
+  - TLA (Tallinna Linnaarhiiv / Tallinn City Archives)
+geni_profiles:
+  - url: https://www.geni.com/people/Hermann-Eberhard-Erbe/6000000007283461280
+    managed_by: Elle Kiiker
+  - url: https://www.geni.com/people/Georg-Sigismund-Erbe/6000000028779281397
+    managed_by: Andrey Masing
+  - url: https://www.geni.com/people/Caroline-Sophie-Erbe/6000000028779281405
+    managed_by: Andrey Masing
+  - url: https://www.geni.com/people/Emilie-Ida-Erbe/6000000007283455509
+    managed_by: Elle Kiiker
+  - url: https://www.geni.com/people/Johann-Jakob-Eylandt/6000000028779240899
+    managed_by: Andrey Masing
+  - url: https://www.geni.com/people/Olga-Caroline-Erbe/6000000007283461275
+    managed_by: Elle Kiiker

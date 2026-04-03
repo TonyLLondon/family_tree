@@ -45,6 +45,8 @@ Parents: Hermann Eberhard Erbe; Emilie Ida Eylandt. Brother (vault page): [Eugen
 - [Estonian Biographical Center — Stump report (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — marriage 22 June 1868, children’s vitals, Marc’s career and 1903 Yverdon death note.
 - [Eugen Edmund Erbe](eugen-edmund-erbe.md) — brother; [Erbe Baltic web summary](../sources/erbe-baltic-german-web-references.md). Standalone biography under “Olga Caroline Erbe” was not located in a March 2026 open-web sweep; parish imaging remains primary.
 
+- **Church books (FamilySearch):** [Estonia Church Books — Eylandt / Busse / Erbe / Stump records](../sources/corpus/fs-estonia-church-books-eylandt-busse/reference.md) — marriage to Marc François Stump (22 Jun 1868, record 6DQZ-37PP); all five children’s baptisms in Tallinn naming both parents; Jean Jaque’s burial (10 May 1874, record 6DQV-M79H).
+
 **Tree id:**
 - **Tree id:** **I141** — marriage union **F70**; parents’ union **F140**. Child rows match [Jean Jacque Stump](jean-jacque-stump.md), [Arthur Roger Stump](arthur-roger-stump.md), [Marguerite Emilie Stump](marguerite-emilie-stump.md), [Antoinette Stump](antoinette-stump.md), and [Étienne Stump](etienne-stump.md). MyHeritage / Geni blocks under **`@S43@`** on Hermann and Emilie — secondary until microfilm check.
 

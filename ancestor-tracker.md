@@ -356,6 +356,22 @@ Morgan Morgans and Lettice appear at **two positions** in the chart: slots 268�
 | 2600 | 11 | Bernard | **CHENEVARD** | ?–? | Céligny | I644 | [page](people/bernard-chenevard.md) |
 | 2602 | 11 | Estienne | **MESTRAL** | ?–? | ? | I645 | [page](people/estienne-mestral.md) |
 
+#### ERBE / EYLANDT / BUSSE line (Estonia → Riga)
+
+| # | Gen | Name | Surname | Dates | Location | ID | Page |
+|---|-----|------|---------|-------|----------|-----|------|
+| 332 | 9 | Carl Gustav | **EYLANDT** | 1743–1826 | Hageri → Viljandi | I304 | [page](people/carl-gustav-eylandt.md) |
+| 333 | 9 | Margarete Elisabeth | **WIEDAU** | 1744–1819 | Hageri → Kirrefer | I305 | [page](people/margarete-elisabeth-wiedau.md) |
+| 334 | 9 | Ernst Gottlieb | **BUSSE** | 1748–1803 | Tallinn → Viljandi | I306 | [page](people/ernst-gottlieb-busse.md) |
+| 335 | 9 | Anna Christina | **SCHITTMAR** | ~1757–~1790 | Viljandi County | I307 | [page](people/anna-christina-schittmar.md) |
+| 664 | 10 | Caspar Martin I. | **EYLANDT** | ~1713–1766 | Riga → Kirrefer | I312 | [page](people/caspar-martin-i-eylandt.md) |
+| 665 | 10 | Hedwig Helene | **BUSCH** | ~1705–? | Haiba, Haggers | I313 | [page](people/hedwig-helene-busch.md) |
+| 668 | 10 | Georg | **BUSSE** | ?–? | Tallinn? | I308 | [page](people/georg-busse.md) |
+| 669 | 10 | Margaretha Elisabeth | **BISCHANZ** | ?–? | ? | I309 | [page](people/margaretha-elisabeth-bischanz.md) |
+| 670 | 10 | Anna Christina | — | ~1730–? | Tallinn | I311 | [page](people/anna-christina.md) |
+| 1336 | 11 | George | **BUSSE** | ?–? | Tallinn | I680 | [page](people/george-busse-elder.md) |
+| 1337 | 11 | Anna Margaretha | **BOHM** | ?–? | Tallinn | I681 | [page](people/anna-margaretha-bohm.md) |
+
 #### ROCHE / BURKE / STACKPOLE line (Ireland → Normans)
 
 | # | Gen | Name | Surname | Dates | Location | ID | Page |
@@ -495,8 +511,13 @@ Morgan Morgans and Lettice appear at **two positions** in the chart: slots 268�
 | Surname | Deepest | Slots | Earliest |
 |---------|---------|-------|----------|
 | **ERBE** | Gen 11 | 7 | Vater Erbe |
-| **EYLANDT** | Gen 9 | 4 | Johan, Leal |
-| **BUSSE** | Gen 9 | 3 | Maria, Fellin |
+| **EYLANDT** | Gen 10 | 4 | Caspar Martin, ~1713, Riga |
+| **BUSSE** | Gen 11 | 4 | George (elder), Tallinn |
+| **BOHM** | Gen 11 | 1 | Anna Margaretha, Tallinn |
+| **BUSCH** | Gen 10 | 1 | Hedwig Helene, Haiba |
+| **WIEDAU** | Gen 9 | 1 | Margarete Elisabeth, Hageri |
+| **SCHITTMAR** | Gen 9 | 1 | Anna Christina, Viljandi |
+| **BISCHANZ** | Gen 10 | 1 | Margaretha Elisabeth |
 
 ### France
 

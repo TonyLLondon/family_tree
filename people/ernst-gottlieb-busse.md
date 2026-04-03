@@ -17,25 +17,30 @@ children:
 
 # Ernst Gottlieb Busse
 
-**Ernst Gottlieb Busse** was father of [Maria Elisabeth Busse](maria-elisabeth-busse.md). **Geni** text bundled in the MyHeritage import places his birth at **Tallinn (Reval)** and death at **Viljandi (Fellin)** and names two marriages: first to **[Anna Christina Schittmar](anna-christina-schittmar.md)**, then to **Christina Hedwig Plügge** née **Heyer**. A second marriage affects how sibling lists are read—half-siblings may appear under different surnames or patronymics in Baltic registers.
+Ernst Gottlieb Busse was born on **8 May 1748** in **Tallinn (Reval)**, the son of [Georg Busse](georg-busse.md) and [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md). He married twice: first to [Anna Christina Schittmar](anna-christina-schittmar.md), and after her death around 1790, to **Christina Hedwig Plügge** née **Heyer** (union **F201**).
+
+The baptism record of his daughter [Maria Elisabeth Busse](maria-elisabeth-busse.md) — registered at Viljandi on 28 March 1779 — names "Ernst Gottlieb Busse" as father and "Anna Christiane Schittmar" as mother, confirming that Maria Elisabeth was born of the **first** marriage. Ernst Gottlieb died in **March 1803** in **Viljandi (Fellin)**, where the family had evidently settled by the late 1770s.
 
 ## Life
 
-- **8 May 1748** — Born **Tallinn (Reval)** (Geni narrative in the import).
-- **March 1803** — Died **Viljandi (Fellin)** (same narrative; day level may differ from structured `DEAT` in the file).
+- **8 May 1748** — Born **Tallinn (Reval)**.
+- **March 1803** — Died **Viljandi (Fellin)**.
 
 ## Family
 
 - Parents: [Georg Busse](georg-busse.md); [Margaretha Elisabeth Bischanz](margaretha-elisabeth-bischanz.md).
-- Wives: [Anna Christina Schittmar](anna-christina-schittmar.md); later marriage to **Christina Hedwig Plügge** née **Heyer** (union **F201** in the import; person page when the line is expanded).
-- Children: [Maria Elisabeth Busse](maria-elisabeth-busse.md); Geni also names **Hedwig Elisabeth Greim**, **Christina Amalia**, **Anna Florentine Forsmann**, and others—each needs a register citation before a separate vault page.
+- Wives: [Anna Christina Schittmar](anna-christina-schittmar.md) (first); **Christina Hedwig Plügge** née **Heyer** (second, union **F201**).
+- Children (first marriage): [Maria Elisabeth Busse](maria-elisabeth-busse.md) — confirmed by her baptism record; Geni also names **Christina Amalia** and others needing register citations.
+- Children (second marriage / unattributed): **Hedwig Elisabeth Greim**, **Anna Florentine Forsmann**, and others per Geni — each needs a register citation before a separate vault page.
 
 ## Evidence
 
-- **Tree id:** **I306** — unions **F144**, **F145**.
+- **Tree id:** **I306** — unions **F144**, **F145**, **F201**.
+- **Daughter's baptism names him as father:** [Estonia Church Books — Eylandt / Busse / Erbe / Stump records](../sources/corpus/fs-estonia-church-books-eylandt-busse/reference.md).
 - MyHeritage source **@S43@**.
 
 ## Open questions
 
-- Which wife was mother of **Maria Elisabeth** (first marriage is the usual reading).
-- Burgher or guild traces in **Tallinn** before interior **Viljandi** years.
+- **Archival records (Saaga):** [Estonian National Archives — archival references](../sources/corpus/saaga-eaa-erbe-eylandt-archival-refs/reference.md) — 1786 Viljandi Einwohnerbuch (EAA.1002.1.67:11) lists Ernst Gottlieb with wife Anna Christina Schittmar and family; marriage shelf mark EAA.3149.2.1:576. Cited by Geni researcher Maris Lindau. His birth date (8 May 1748, Tallinn) comes from the working tree. Parentage is circumstantial: Georg married Bischanz in Tallinn in 1744, and their children’s baptism table includes Ernst Gottlieb, but his own baptism record has not been located.
+- Burgher or guild traces in **Tallinn** before the family's move to **Viljandi**.
+- Whether the second marriage to Christina Hedwig Plügge produced children who overlap with the Geni sibling list.
