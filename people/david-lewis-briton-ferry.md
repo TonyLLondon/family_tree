@@ -12,13 +12,13 @@ children:
 
 # David Lewis
 
-**David Lewis** was born **7 January 1794** at **Briton Ferry**, Glamorganshire — a coastal village on the west bank of the River Neath dominated by the copper and tinplate trades. He was the son of **William Lewis** (I611) and **Catherine Rees** (I612) of Briton Ferry.
+**David Lewis** was born **7 January 1794** at **Briton Ferry**, Glamorganshire — a coastal village on the west bank of the River Neath dominated by the copper and tinplate trades. He was the son of [William Lewis](william-lewis-briton-ferry.md) and [Catherine Rees](catherine-rees-briton-ferry.md) of Briton Ferry.
 
 On **23 May 1812** he married [Ann Davies](ann-davies-briton-ferry.md) at **Briton Ferry** parish church. Their son [Lewis Lewis](lewis-lewis.md) — the doubled Welsh patronymic — was baptised **14 March 1813** at Briton Ferry. The baptism register recorded David as a **labourer**.
 
 ## Family
 
-- Parents: William Lewis (I611) × Catherine Rees (I612).
+- Parents: [William Lewis](william-lewis-briton-ferry.md) (I611) × [Catherine Rees](catherine-rees-briton-ferry.md) (I612).
 - Wife: [Ann Davies](ann-davies-briton-ferry.md) (of Briton Ferry).
 - Son: [Lewis Lewis](lewis-lewis.md) (b. 1813, Briton Ferry; d. 1872, Port Talbot).
 

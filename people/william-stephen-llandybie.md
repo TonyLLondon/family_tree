@@ -12,13 +12,13 @@ children:
 
 # William Stephen
 
-**William Stephen** was baptised **9 May 1790** at **Llandybie**, Carmarthenshire, the son of **Thomas Stephen** (I615). He became a farmer at **Llanarthne**, a rural parish in the Tywi valley east of Carmarthen.
+**William Stephen** was baptised **9 May 1790** at **Llandybie**, Carmarthenshire, the son of [Thomas Stephen](thomas-stephen-llandybie.md). He became a farmer at **Llanarthne**, a rural parish in the Tywi valley east of Carmarthen.
 
 He married at least twice. His first documented marriage was to **Margaret Hopkins** at Llanarthne on **18 November 1814**. A second marriage to **Rachel Morley** took place at Llanarthne on **27 January 1826**. His daughter [Rachel](rachel-james.md) was baptised **9 October 1825** at Llanarthne — recorded as the daughter of William and **[Mary](mary-stephen-i614.md)** Stephen (farmer). Since Rachel's birth fell between the two marriages, Mary may have been a wife in the intervening period, or "Mary" may be a variant/middle name for Margaret Hopkins.
 
 ## Family
 
-- Father: Thomas Stephen (I615).
+- Father: [Thomas Stephen](thomas-stephen-llandybie.md) (I615).
 - Wife: [Mary](mary-stephen-i614.md) (surname unknown; mother of Rachel per baptism register).
 - Daughter: [Rachel Stephen](rachel-james.md) (bapt. 9 Oct 1825, Llanarthne; m. Lewis Lewis 1856).
 

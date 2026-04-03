@@ -112,6 +112,9 @@
 | `I610` | Ann /DAVIES/ | `people/ann-davies-briton-ferry.md` | yes |
 | `I613` | William /STEPHEN/ | `people/william-stephen-llandybie.md` | yes |
 | `I614` | Mary /STEPHEN/ | `people/mary-stephen-i614.md` | yes |
+| `I611` | William /LEWIS/ | `people/william-lewis-briton-ferry.md` | yes |
+| `I612` | Catherine /REES/ | `people/catherine-rees-briton-ferry.md` | yes |
+| `I615` | Thomas /STEPHEN/ | `people/thomas-stephen-llandybie.md` | yes |
 | `I661` | Morgan // | — | no |
 | `I662` | Rachel // | — | no |
 | `I27` | Vittoria Elisa /CAROBBI/ | `people/vittoria-elisa-carobbi.md` | yes |

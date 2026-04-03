@@ -28,7 +28,7 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 | 5 | 3×great | 32 | 24 | 75% | 24 | 23 |
 | 6 | 4×great | 64 | 48 | **75%** | 41 | 38 |
 | 7 | 5×great | 128 | 49 | 38% | 35 | 40 |
-| 8 | 6×great | 256 | 43 | 17% | 28 | 32 |
+| 8 | 6×great | 256 | 43 | 17% | 28 | 35 |
 | 9 | 7×great | 512 | 40 | 8% | 19 | 26 |
 | 10 | 8×great | 1,024 | 23 | 2% | 17 | 16 |
 | 11 | 9×great | 2,048 | 21 | 1% | 10 | 18 |
@@ -279,6 +279,19 @@ Morgan Morgans and Lettice appear at **two positions** in the chart: slots 268�
 | 269 = 281 | 8 | Lettuce | — | ?–? | Llywel | I660 | [page](people/lettuce-llywel.md) |
 | 536 | 9 | Morgan | — | ?–? | Llywel | I661 | — |
 | 537 | 9 | Rachel | — | ?–? | ? | I662 | — |
+
+#### LEWIS line (Briton Ferry)
+
+| # | Gen | Name | Surname | Dates | Location | ID | Page |
+|---|-----|------|---------|-------|----------|-----|------|
+| 256 | 8 | William | **LEWIS** | ?–? | Briton Ferry, Glamorganshire | I611 | [page](people/william-lewis-briton-ferry.md) |
+| 257 | 8 | Catherine | **REES** | ?–? | Briton Ferry | I612 | [page](people/catherine-rees-briton-ferry.md) |
+
+#### STEPHEN line (Llandybie)
+
+| # | Gen | Name | Surname | Dates | Location | ID | Page |
+|---|-----|------|---------|-------|----------|-----|------|
+| 260 | 8 | Thomas | **STEPHEN** | ?–? | Llandybie, Carmarthenshire | I615 | [page](people/thomas-stephen-llandybie.md) |
 
 #### STUMP line (Thurgau → 1560s)
 
