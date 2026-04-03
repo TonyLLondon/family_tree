@@ -73,11 +73,13 @@
 | Id | Name (graph) | Target `people/` file | Has page? |
 |--------|---------------|----------------------|----------|
 | `I120` | /ENRIGHT/ | `people/enright.md` | yes |
-| `I413` | /MORGAN/ | `people/morgan.md` | yes |
-| `I414` | Amelia // | `people/amelia.md` | yes |
+| `I413` | Keziah /MORGAN/ | `people/keziah-morgan.md` | yes |
+| `I414` | Jane /MORGAN/ | `people/jane-morgan-dowlais.md` | yes |
+| `I606` | Thomas /MORGAN/ | `people/thomas-morgan-nantyglo.md` | yes |
+| `I607` | Charlotte /DAVIES/ | `people/charlotte-davies-aberystruth.md` | yes |
 | `I178` | Ann /MAINWARING/ | `people/ann-mainwaring.md` | yes |
 | `I80` | Anna /SAGINIAN/ | `people/anna-saginian.md` | yes |
-| `I423` | Anne // | `people/anne.md` | yes |
+| `I423` | Anne MORGAN // | `people/anne-morgan.md` | yes |
 | `I116` | Antonia Maria /GUERINO/ | `people/antonia-maria-guerino.md` | yes |
 | `I121` | Catherine // | `people/catherine.md` | yes |
 | `I328` | Catherine /BYRNE/ | `people/catherine-byrne.md` | yes |
@@ -100,6 +102,18 @@
 | `I22` | Simeone Vincenzo /BOARA/ | `people/simeone-vincenzo-boara.md` | yes |
 | `I177` | Thomas /CUSHEN/ | `people/thomas-cushen.md` | yes |
 | `I422` | Thomas /GRIFFITHS/ | `people/thomas-griffiths.md` | yes |
+| `I654` | David /GRIFFITHS/ | `people/david-griffiths-llywel.md` | yes |
+| `I655` | Margaret // | `people/margaret-griffiths-mother.md` | yes |
+| `I657` | William /MORGAN/ | `people/william-morgan-llanfairarybryn.md` | yes |
+| `I658` | Sarah /WATKINS/ (MORGAN) | `people/sarah-morgan.md` | yes |
+| `I659` | Morgan /MORGANS/ | `people/morgan-morgans-llywel.md` | yes |
+| `I660` | Lettuce // | `people/lettuce-llywel.md` | yes |
+| `I609` | David /LEWIS/ | `people/david-lewis-briton-ferry.md` | yes |
+| `I610` | Ann /DAVIES/ | `people/ann-davies-briton-ferry.md` | yes |
+| `I613` | William /STEPHEN/ | `people/william-stephen-llandybie.md` | yes |
+| `I614` | Mary /STEPHEN/ | `people/mary-stephen-i614.md` | yes |
+| `I661` | Morgan // | — | no |
+| `I662` | Rachel // | — | no |
 | `I27` | Vittoria Elisa /CAROBBI/ | `people/vittoria-elisa-carobbi.md` | yes |
 | `I137` | William /ROCHE/ | `people/william-roche.md` | yes |
 
@@ -131,9 +145,9 @@
 | `I303` | Maria Elisabeth /BUSSE/ | `people/maria-elisabeth-busse.md` | yes |
 | `I64` | Marianna /BILLICICH/ | `people/marianna-billicich.md` | yes |
 | `I330` | Mary /ESMONDE/ | `people/mary-esmonde.md` | yes |
-| `I180` | Mary /RICHARDS/ | `people/mary-richards.md` | yes |
+| `I180` | Margaret /MAINWARING/ | `people/margaret-mainwaring-i180.md` | yes |
 | `I329` | Mathew /WHITE/ | `people/mathew-white.md` | yes |
-| `I179` | Richard /MAINWARING/ | `people/richard-mainwaring.md` | yes |
+| `I179` | Evan /MAINWARING/ | `people/evan-mainwaring.md` | yes |
 | `I341` | Thomas /ROCHE/ | `people/thomas-roche.md` | yes |
 | `I29` | Vincenzo Giovanni Domenico Valentino /ADDOBBATI/ | `people/vincenzo-giovanni-domenico-valentino-addobbati.md` | yes |
 

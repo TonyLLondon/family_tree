@@ -27,6 +27,7 @@ Younger children in this branch stay in the working tree only—living minors, n
 
 ## Evidence
 
+- Wedding portrait: [bride with parents outdoors](../media/images/portraits/outdoor-wedding-trio-beaded-gown-champagne-hills.jpg) — Jacquie (centre) with [Joseph](joseph-evans-i18.md) and [Helia](helia-cerpa-perez.md), 25 June 2012.
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 - **Tree id:** **I5** — unions **F9** / **F2** with parents and spouse (topology in the working tree).
 

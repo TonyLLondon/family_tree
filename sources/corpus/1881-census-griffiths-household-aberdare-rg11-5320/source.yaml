@@ -1,0 +1,31 @@
+id: 1881-census-griffiths-household-aberdare-rg11-5320
+title: "1881 Census of England & Wales — 11 Clive Street, Aberdare (Thomas Griffiths household, schedule 409)"
+type: census
+year: 1881
+reference: "RG 11/5320"
+collection: "1881 England, Wales & Scotland Census"
+repository: The National Archives
+fmp_record_ids:
+  - GBC/1881/0024882892
+  - GBC/1881/0024882893
+  - GBC/1881/0024882894
+  - GBC/1881/0024882895
+  - GBC/1881/0024882896
+  - GBC/1881/0024882897
+  - GBC/1881/0024882898
+  - GBC/1881/0024882899
+  - GBC/1881/0024882900
+  - GBC/1881/0024882901
+people:
+  - thomas-griffiths
+  - anne-morgan
+  - catherine-griffiths
+files:
+  transcription: transcription.md
+archive:
+  repository: The National Archives
+  reference: RG 11/5320
+  folio: 50-51
+  page: 6-7
+  schedule: 409
+  description: "1881 Census, 11 Clive Street, Aberdare"

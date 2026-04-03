@@ -131,6 +131,7 @@ General Pinochet was arrested in London on 16 October 1998 on a warrant from Spa
 
 ## Evidence
 
+- Wedding portrait: [with Joseph and Jacquie outdoors](../media/images/portraits/outdoor-wedding-trio-beaded-gown-champagne-hills.jpg) — Jacquie's wedding, 25 June 2012.
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 - **Tree id:** **I19** — birth union **F162** with parents; marriage **F9** with Joseph.
 

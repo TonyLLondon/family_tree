@@ -1,0 +1,21 @@
+id: 1863-burial-margaret-griffiths-st-fagans-aberdare
+title: "Burial — Margaret Griffiths, St Fagan's, Aberdare, 2 December 1863"
+type: burial
+year: 1863
+reference: "P/139/CW/3/2"
+collection: "Glamorganshire Burials"
+repository: Glamorgan Archives
+fmp_record_ids:
+  - GBPRS/D/WAL123090
+  - BMD/NBI/09123530
+  - GBPRS/D/17234734/1
+people:
+  - thomas-griffiths
+  - anne-morgan
+files:
+  transcription: transcription.md
+archive:
+  repository: Glamorgan Archives (via Welsh Archive Services)
+  reference: P/139/CW/3/2
+  page: 85
+  description: "Aberdare, St Fagan — Burials, May 1861–April 1864"

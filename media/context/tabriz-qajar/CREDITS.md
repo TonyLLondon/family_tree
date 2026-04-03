@@ -16,6 +16,8 @@ All images are public domain unless otherwise noted.
 | `tabriz-armenian-cemetery-baskerville-grave.jpg` | Photograph of Baskerville's grave in the Armenian cemetery, Tabriz. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baskerville_Grave.jpg) | CC BY-SA 3.0 |
 | `tabriz-armenian-cemetery-2021.jpg` | Baskerville grave, Armenian cemetery, Tabriz (2021). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HowardConklinBaskerville_grave_2021.jpg) | CC BY-SA 4.0 |
 | `shoghakat-church-tabriz-cemetery.jpg` | Shoghakat Church interior, Armenian cemetery, Tabriz. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shogaghat_Church_003_-_Tabriz.jpg) | CC BY-SA 3.0 |
+| `shoghakat-church-exterior-historic.jpg` | Historic exterior photograph of Shoghakat Church, Tabriz. Source: *Shahr-e man Tabriz* by Behrouz Khamachi. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saint_Shoghagat_Church.jpg) | Public domain (Iran copyright law) |
+| `shoghakat-church-exterior-2010.jpg` | Outdoor view of Shoghakat Church and cemetery grounds, Tabriz (2010). Photo by Jacopo188. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shogaghat_Church_001_-_Tabriz.jpg) | CC BY-SA 3.0 |
 
 Flandin visited Tabriz in 1839–1841 as part of a French diplomatic mission — precisely the years Edward Burgess was living there. His lithographs depict the city Edward knew.
 

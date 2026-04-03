@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "Villa Ester",
+    "title": "Villa Ester to Villa Callas",
     "subtitle": "From the Zerauscheks of Zara to Maria Callas — a house on Lake Garda",
     "era": "1928 – 1970"
   },
@@ -9,9 +9,9 @@
     {
       "era": "1928",
       "media": {
-        "src": "media/context/sirmione-villa-callas/sirmione-peninsula.jpg",
-        "alt": "Sirmione peninsula jutting into Lake Garda, seen from above",
-        "caption": "Sirmione — the narrow peninsula on Lake Garda where Giannantoni built his villa"
+        "src": "media/context/sirmione-villa-callas/villa-callas-exterior.jpg",
+        "alt": "Villa Callas today — the yellow facade, solarium turret, and iron gates at Via Caio Valerio Catullo 7, Sirmione",
+        "caption": "The yellow villa at the tip of Sirmione — once Villa Ester, then Villa Callas"
       }
     },
     {
@@ -68,9 +68,9 @@
     {
       "era": "1958 – today",
       "media": {
-        "src": "media/context/sirmione-villa-callas/villa-callas-exterior.jpg",
-        "alt": "Villa Callas exterior, Via Caio Valerio Catullo 7, Sirmione — unchanged since the 1950s",
-        "caption": "Villa Callas today — the facade unchanged, a plaque for Callas and Meneghini on the wall"
+        "src": "media/context/sirmione-villa-callas/callas-meneghini-1957-milan.jpg",
+        "alt": "Maria Callas in a red tartan dress, seated in the Milan apartment on Via Buonarroti, with Giovanni Battista Meneghini in the background, 1957",
+        "caption": "Maria Callas, 1957 — the soprano who gave the villa its lasting name"
       }
     }
   ]

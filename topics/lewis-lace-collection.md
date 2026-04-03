@@ -16,16 +16,9 @@ By the time of her death at Hove in December 2000, the collection was large enou
 
 ## The sale (December 2006)
 
-After Fulvia's death in December 2000, the collection passed to her sons — the "eredità familiare" (family inheritance) noted in the Province's official acquisition decision. They divided it and sold it to the **Provincia autonoma di Trento** in two simultaneous transactions, both decided on **21 December 2006**:
+After Fulvia's death in December 2000, the collection passed to her sons — the "eredità familiare" (family inheritance) noted in the Province's official acquisition decision. They divided it and sold it to the **Provincia autonoma di Trento** in two simultaneous transactions, both decided on **21 December 2006**. The total acquisition comprised **674 laces** spanning the 16th to 20th centuries.
 
-| Seller | Description | Pieces | Price |
-|--------|-------------|--------|-------|
-| **Owen Michael Lewis** — "avvocato inglese, residente a Twickenham Middlesex" | Antique laces, XVI–XX century | 300+ | €60,000 |
-| **[Ivor Antony Samuel Lewis](../people/ivor-anthony-samuel-lewis.md)** — "nato a Firenze e residente a Bolsena, di professione professore" | Antique laces, XVI–XX century | 300+ | €60,000 |
-
-Owen Michael Lewis is Michele — Fulvia's son who lived at 44 Lebanon Park, Twickenham, with children Stephen and Alice. The "OML" prefix on correspondence files in the family archive stands for his legal name. Ivor is the analytical chemist and mass spectrometrist who had worked at King's College London and the Australian National University before retiring to Bolsena, on the volcanic lake north of Rome.
-
-The total acquisition: **674 laces**, €120,000.
+The two sellers were **Owen Michael Lewis** — described in the provincial records as "avvocato inglese, residente a Twickenham Middlesex" — and **[Ivor Antony Samuel Lewis](../people/ivor-anthony-samuel-lewis.md)** — "nato a Firenze e residente a Bolsena, di professione professore." Owen is Michele, Fulvia's son who lived at 44 Lebanon Park, Twickenham, with children Stephen and Alice; the "OML" prefix on correspondence files in the family archive stands for his legal name. Ivor is the analytical chemist and mass spectrometrist who had worked at King's College London and the Australian National University before retiring to Bolsena, on the volcanic lake north of Rome.
 
 Vice-president **Margherita Cogo** (DS) told the *L'Adige* newspaper: "Le collezioni Lewis di merletti che abbiamo acquistato sono tra le più importanti d'Europa e una parte è stata battuta all'asta da Sotheby's a Londra" — the Lewis lace collections are among the most important in Europe, and part had been auctioned at Sotheby's in London.
 

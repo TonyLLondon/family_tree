@@ -70,7 +70,7 @@ The relationship was "more than just a friendship." After **Henriette's death** 
 
 ## 8. Death and legacy (1951)
 
-Étienne Stump died on **1 November 1951** in Tehran. He was buried in the **[Tehran Protestant Cemetery](../topics/tehran-protestant-cemetery.md)**, under a stone that reads "ICI REPOSE" — here rests. The grave marker gives his age as 71, consistent with the 1880 birth year from the Tallinn parish records, though the Beytoote article, citing Najm-Abadi, claims he died aged 83 — implying a birth year of c. 1868. The discrepancy remains unresolved.
+Étienne Stump died on **1 November 1951** in Tehran. He was buried in the **[Tehran Protestant Cemetery](../topics/iran-cemeteries.md)**, under a stone that reads "ICI REPOSE" — here rests. The grave marker gives his age as 71, consistent with the 1880 birth year from the Tallinn parish records, though the Beytoote article, citing Najm-Abadi, claims he died aged 83 — implying a birth year of c. 1868. The discrepancy remains unresolved.
 
 After his death, Vera left Iran for Frankfurt and then New Jersey, where she died on 6 November 1974. The *New York Times* ran a death notice for "Princess Obolensky."
 
@@ -98,4 +98,4 @@ The arc of Étienne Stump's life — from a French teacher's son in Russian Tall
 - [Saginian · Burgess · Bottin · Stump](saginian-burgess-bottin-stump.md) — Henriette's family and the Tehran connection.
 - [Modern dentistry in Iran](../topics/modern-dentistry-iran.md).
 - [Mahmoudieh house](../topics/mahmoudieh-house.md).
-- [Tehran Protestant Cemetery](../topics/tehran-protestant-cemetery.md).
+- [Cemeteries in Iran](../topics/iran-cemeteries.md).

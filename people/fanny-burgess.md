@@ -71,5 +71,5 @@ Daughter of [Anna Saginian](anna-saginian.md) and [Edward Burgess](edward-burges
 
 ## Topics
 
-- [Tehran Protestant Cemetery](../topics/tehran-protestant-cemetery.md)
+- [Cemeteries in Iran](../topics/iran-cemeteries.md)
 - [NYPL Burgess papers archive](../topics/nypl-burgess-papers-archive.md)

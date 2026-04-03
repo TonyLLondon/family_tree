@@ -112,7 +112,8 @@ export function readTopicCard(slug: string): { title: string; blurb: string; her
   const rawImg = extractFirstImage(parsed.content);
   let heroImage: string | null = null;
   if (rawImg) {
-    heroImage = path.resolve(path.dirname(abs), rawImg);
+    const decoded = decodeURIComponent(rawImg);
+    heroImage = path.resolve(path.dirname(abs), decoded);
     const rel = path.relative(repoPath(), heroImage);
     heroImage = rel.startsWith("..") ? null : rel;
   }
@@ -127,7 +128,8 @@ export function readStoryCard(slug: string): { title: string; blurb: string; her
   const rawImg = extractFirstImage(parsed.content);
   let heroImage: string | null = null;
   if (rawImg) {
-    heroImage = path.resolve(path.dirname(abs), rawImg);
+    const decoded = decodeURIComponent(rawImg);
+    heroImage = path.resolve(path.dirname(abs), decoded);
     const rel = path.relative(repoPath(), heroImage);
     heroImage = rel.startsWith("..") ? null : rel;
   }

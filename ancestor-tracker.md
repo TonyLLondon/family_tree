@@ -27,9 +27,9 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 | 4 | 2×great | 16 | 16 | **100%** | 14 | 16 |
 | 5 | 3×great | 32 | 24 | 75% | 24 | 23 |
 | 6 | 4×great | 64 | 48 | **75%** | 41 | 38 |
-| 7 | 5×great | 128 | 45 | 35% | 32 | 30 |
-| 8 | 6×great | 256 | 41 | 16% | 27 | 30 |
-| 9 | 7×great | 512 | 38 | 7% | 19 | 26 |
+| 7 | 5×great | 128 | 49 | 38% | 35 | 40 |
+| 8 | 6×great | 256 | 43 | 17% | 28 | 32 |
+| 9 | 7×great | 512 | 40 | 8% | 19 | 26 |
 | 10 | 8×great | 1,024 | 23 | 2% | 17 | 16 |
 | 11 | 9×great | 2,048 | 21 | 1% | 10 | 18 |
 | 12 | 10×great | 4,096 | 16 | <1% | 8 | 16 |
@@ -38,9 +38,11 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 | 15 | 13×great | 32,768 | 1 | <1% | 1 | 1 |
 | 16 | 14×great | 65,536 | 1 | <1% | 1 | 1 |
 
-**Total: 306 known ancestors across 17 generations.**
+**Total: 314 distinct ancestors across 17 generations.** (312 unique individuals — see pedigree collapse below.)
 
 **Deepest confirmed:** Pietro ADDOBBATI (b. 1495, Gen 16, Dalmatia) · Blaesi STUMP (b. ~1565, Gen 13, Thurgau) · John Roche (b. 1600, Gen 12, Ireland) · Robert MACKERETH (Gen 14, Westmorland).
+
+**Pedigree collapse:** Morgan MORGANS (I659) and Lettice (I660) each appear in **two** positions — slots 268/269 (via William → Anne → Catherine → Samuel) and slots 280/281 (via Thomas → Keziah → Mary → Lily). Samuel Lewis and Lily Cushen were **third cousins**. See [topic](topics/pedigree-collapse-morgan-morgans.md).
 
 ---
 
@@ -136,12 +138,12 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 |---|------|---------|-------|----------|--------|-----|------|
 | 64 | Lewis | **LEWIS** | 1813–? | Briton Ferry, Wales | Lewis | I427 | [page](people/lewis-lewis.md) |
 | 65 | Rachel | **STEPHEN** | 1825–? | Llanarthne, Carmarthen | Lewis | I428 | [page](people/rachel-james.md) |
-| 66 | Thomas | **GRIFFITHS** | 1830–? | Trecastle, Brecon | Lewis | I422 | [page](people/thomas-griffiths.md) |
-| 67 | Anne | — | 1829–? | Llanfair, Carmarthen | Lewis | I423 | [page](people/anne.md) |
+| 66 | Thomas | **GRIFFITHS** | 1830–? | Llywel (Trecastle), Brecon | Lewis | I422 | [page](people/thomas-griffiths.md) |
+| 67 | Anne MORGAN | — | 1829–? | Llanfair, Carmarthen | Lewis | I423 | [page](people/anne-morgan.md) |
 | 68 | Thomas | **CUSHEN** | 1821–1889 | Cork → Merthyr Tydfil | Cushen | I177 | [page](people/thomas-cushen.md) |
 | 69 | Ann | **MAINWARING** | 1826–1875 | Swansea, Wales | Cushen | I178 | [page](people/ann-mainwaring.md) |
-| 70 | Keziah | **MORGAN** | 1824–? | Nantyglo, Monmouth | Cushen | I413 | — |
-| 71 | Jane | **MORGAN** | 1828–? | Dowlais, Glamorgan | Cushen | I414 | — |
+| 70 | Keziah | **MORGAN** | 1824–? | Nantyglo, Monmouth | Cushen | I413 | [page](people/keziah-morgan.md) |
+| 71 | Jane | **MORGAN** | 1828–? | Dowlais, Glamorgan | Cushen | I414 | [page](people/jane-morgan-dowlais.md) |
 | 72 | Giuseppe | **ZERAUSCHEK** | ?–1878 | Zara, Dalmatia | Zerauschek | I115 | [page](people/giuseppe-zerauschek.md) |
 | 73 | Antonia | **GUERINO** | 1825–1878 | Zara, Dalmatia | Zerauschek | I116 | [page](people/antonia-maria-guerino.md) |
 | 74 | Giovanni | **ERENDA** | ?–? | Pago, Dalmatia | Zerauschek | I391 | [page](people/giovanni-erenda.md) |
@@ -187,20 +189,24 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 
 From here only known ancestors are listed. Empty slots omitted.
 
-### Generation 7 — 5×great (45 of 128 known)
+### Generation 7 — 5×great (49 of 128 known)
 
 **Welsh lines:**
 
 | # | Name | Surname | Dates | Location | ID | Page |
 |---|------|---------|-------|----------|-----|------|
-| 128 | David | **LEWIS** | 1794–? | Briton Ferry, Wales | I609 | — |
-| 129 | Ann | **DAVIES** | ?–? | Briton Ferry | I610 | — |
-| 130 | William | **STEPHEN** | 1790–? | Llandybie, Carmarthen | I613 | — |
-| 131 | Mary | **STEPHEN** | ?–? | ? | I614 | — |
-| 138 | Evan | **MAINWARING** | 1781–1848 | Swansea | I179 | — |
-| 139 | Margaret | **MAINWARING** | 1785–1841 | Swansea | I180 | — |
-| 140 | Thomas | **MORGAN** | ?–? | Nantyglo, Monmouth | I606 | — |
-| 141 | Charlotte | **DAVIES** | ?–? | Aberystruth | I607 | — |
+| 128 | David | **LEWIS** | 1794–? | Briton Ferry, Wales | I609 | [page](people/david-lewis-briton-ferry.md) |
+| 129 | Ann | **DAVIES** | ?–? | Briton Ferry | I610 | [page](people/ann-davies-briton-ferry.md) |
+| 130 | William | **STEPHEN** | 1790–? | Llandybie, Carmarthen | I613 | [page](people/william-stephen-llandybie.md) |
+| 131 | Mary | **STEPHEN** | ?–? | Carmarthenshire | I614 | [page](people/mary-stephen-i614.md) |
+| 132 | David | **GRIFFITHS** | ~1776–? | Llywel, Brecknockshire | I654 | [page](people/david-griffiths-llywel.md) |
+| 133 | Margaret | **DAVIES** | ~1787–? | Conwil-gaio (Cynwyl Gaeo), Carmarthenshire | I655 | [page](people/margaret-griffiths-mother.md) |
+| 134 | William | **MORGAN** | 1795–? | Llywel → Llanfairarybryn | I657 | [page](people/william-morgan-llanfairarybryn.md) |
+| 135 | Sarah | — | ~1806–1887 | Builth, Brecknockshire → Aberdare | I658 | [page](people/sarah-morgan.md) |
+| 138 | Evan | **MAINWARING** | ~1781–~1848 | Swansea | I179 | [page](people/evan-mainwaring.md) |
+| 139 | Margaret | **MAINWARING** | ~1785–1841 | Swansea | I180 | [page](people/margaret-mainwaring-i180.md) |
+| 140 | Thomas | **MORGAN** | 1794–1862 | Llywel, Brecknockshire → Nantyglo | I606 | [page](people/thomas-morgan-nantyglo.md) |
+| 141 | Charlotte | **DAVIES** | ~1800–~1825 | Aberystruth | I607 | [page](people/charlotte-davies-aberystruth.md) |
 
 **Dalmatian lines:**
 
@@ -262,6 +268,17 @@ From here only known ancestors are listed. Empty slots omitted.
 ### Generations 8–16 — deepest ancestry
 
 Listed by family branch. Only known slots shown.
+
+#### MORGAN line (Llywel → 1776) — pedigree collapse
+
+Morgan Morgans and Lettice appear at **two positions** in the chart: slots 268–269 (via William Morgan → Anne → Catherine Griffiths → Samuel Lewis) and slots 280–281 (via Thomas Morgan → Keziah → Mary Morgan → Lily Cushen). This is a [pedigree collapse](topics/pedigree-collapse-morgan-morgans.md) — Samuel and Lily were third cousins.
+
+| # | Gen | Name | Surname | Dates | Location | ID | Page |
+|---|-----|------|---------|-------|----------|-----|------|
+| 268 = 280 | 8 | Morgan | **MORGANS** | 1776–? | Llywel, Breconshire | I659 | [page](people/morgan-morgans-llywel.md) |
+| 269 = 281 | 8 | Lettuce | — | ?–? | Llywel | I660 | [page](people/lettuce-llywel.md) |
+| 536 | 9 | Morgan | — | ?–? | Llywel | I661 | — |
+| 537 | 9 | Rachel | — | ?–? | ? | I662 | — |
 
 #### STUMP line (Thurgau → 1560s)
 
@@ -502,10 +519,12 @@ Listed by family branch. Only known slots shown.
 | 84–85 | **BOTTIN / BAUDOUIN** | Gen 6 | No dates or details — French civil records |
 | 92–95 | **SHEA / BUCKLEY / ENRIGHT** | Gen 6 | Cork parish records |
 | 96–111 | **EVANS / FENSOM / KNECHT / GLASSCOCK / POPE / COOLBEAR / MARTIN / WEBB** | Gen 7–9 | All Gen 6 slots now filled; deeper Gen 7+ gaps remain for London, Essex & Kent parish records |
+| 270–271 | **WATKINS** (Sarah's parents) | Gen 8 | Sarah Watkins' baptism ~1806, Builth or Llanddaysaint. **Builth registers not indexed** online; images restricted to FS Centers. Marriage bond (FS `QGK5-FVXB`) may name her father. |
 
 ### Unconfirmed links
 
 | Slot | Person | Issue | Resolution |
 |------|--------|-------|------------|
+| 268 | Morgan Morgans (I659) | Linked to William via 1795 baptism at Llywel; 1776 baptism is plausible match but patronymic names are common | Corroboration from Llywel burial register or land records |
 | 648 | Jean Pierre MONTAGNON | Link to parents (1296–1297) is circumstantial | [FamilySearch Center visit](sources/wishlist/montagnon-aubonne-registers.md) |
 | 1296–1297 | Jean François × Jeane Marechal | Link to their son Jean Pierre unconfirmed | Same as above |

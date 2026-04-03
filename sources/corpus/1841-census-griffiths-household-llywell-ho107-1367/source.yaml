@@ -1,0 +1,24 @@
+id: 1841-census-griffiths-household-llywell-ho107-1367
+title: "1841 Census of England & Wales — Tresgob, Llywell (David Griffis household, schedule 600)"
+type: census
+year: 1841
+reference: "HO 107/1367"
+collection: "1841 England, Wales & Scotland Census"
+repository: The National Archives
+fmp_record_ids:
+  - GBC/1841/0013425741
+  - GBC/1841/0013425742
+  - GBC/1841/0013425743
+people:
+  - david-griffiths-llywel
+  - margaret-griffiths-mother
+  - thomas-griffiths
+files:
+  transcription: transcription.md
+archive:
+  repository: The National Archives
+  reference: HO 107/1367
+  folio: 13
+  page: 7
+  schedule: 600
+  description: "1841 Census, Tresgob, Llywell, Brecknockshire"

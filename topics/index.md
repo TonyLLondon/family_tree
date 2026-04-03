@@ -4,7 +4,7 @@ Places, institutions, themes, and regional family hubs — linked from person fi
 
 | Topic | Scope |
 |-------|--------|
-| [tehran-protestant-cemetery.md](tehran-protestant-cemetery.md) | Akbarabad cemetery (1884–1970): founding, 508 graves, 1967 diplomatic crisis, relocation to 'Azimabad; burials of Fanny Burgess Bottin and Étienne Stump |
+| [iran-cemeteries.md](iran-cemeteries.md) | Christian burial grounds in Iran: Armenian cemetery at Tabriz (Shoghakat Church precinct — Edward Burgess, Daoud Khan Saginian) and Protestant cemetery at Akbarabad, Tehran (Fanny Burgess Bottin, Étienne Stump); 1967 diplomatic crisis, relocation to 'Azimabad |
 | [mahmoudieh-house.md](mahmoudieh-house.md) | Qajar garden estate → Stump villa → Mahmoudieh neighbourhood; ownership chain from Mohammad Shah through Amin al-Zarb to Stump; Hotel Esteghlal (ex-Hilton); Vera Obolensky's guesthouse |
 | [qajar-armenian-military.md](qajar-armenian-military.md) | Caucasian officer pipeline into Qajar command; Daoud Khan Saginian as sartip at Isfahan; 1834 conflict; daughters Anna and Tamar and the marriage bridge to Europeans |
 | [war-ministry-arsenal-tehran.md](war-ministry-arsenal-tehran.md) | Julien Bottin's contract as arsenal engineer: 2,400 tomans salary, 30 students, powder factory and cartridge works; French technical wave in late Qajar Tehran |
@@ -26,6 +26,7 @@ Places, institutions, themes, and regional family hubs — linked from person fi
 | [nin-noble-council.md](nin-noble-council.md) | Noble council of the Dalmatian commune of Nin; 1817 Habsburg petition; Addobbati inscription |
 | [odd-fellows-manchester-unity.md](odd-fellows-manchester-unity.md) | Independent Order of Odd Fellows (Manchester Unity): friendly society origins, ranks and regalia, Aberdare lodges, Rev Dr Thomas Price (Grand Master 1865), Samuel Lewis as Provincial Grand Master of the Lily of the Valley Lodge |
 | [lewis-lace-collection.md](lewis-lace-collection.md) | The Lewis lace collection: 674 antique laces (XVI–XX c.), twelve European countries; inherited from Fulvia Zerauschek Lewis; sold by sons Ivor and Owen Michael to Provincia di Trento (Dec 2006, €120,000); appraised by Davanzo Poli and Peri; destined for Museo del Tessuto at Ala |
+| [pedigree-collapse-morgan-morgans.md](pedigree-collapse-morgan-morgans.md) | Pedigree collapse: Morgan Morgans & Lettice of Llywel (bap. 1776) are shared ancestors on both the Griffiths and Cushen lines; Samuel Lewis and Lily Cushen were third cousins; mermaid chart, evidence, and historical context |
 
 ## Surname studies
 

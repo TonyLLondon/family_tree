@@ -1,0 +1,22 @@
+id: 1830-baptism-thomas-griffiths-saron-independent-llywell
+title: "Non-Conformist Baptisms — Thomas Griffiths (1830) and Thomas Griffith (1828), Saron Independent, Llywell, Breconshire"
+type: baptism
+year: 1830
+reference: "TNA RG 4/1725"
+collection: "England & Wales Non-Conformist Births And Baptisms"
+repository: The National Archives
+fmp_record_ids:
+  - TNA/RG4/BAP/653693
+  - TNA/RG4/BAP/653651
+  - R_733089160
+people:
+  - thomas-griffiths
+  - david-griffiths-llywel
+  - margaret-griffiths-mother
+files:
+  transcription: transcription.md
+archive:
+  repository: The National Archives
+  series: RG 4
+  piece: 1725
+  description: "BRECONSHIRE: Llywell, Saron (Independent): Births & Baptisms"

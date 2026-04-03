@@ -1,0 +1,19 @@
+title: "1851 Census — Morgan household, Coedefaur, Llanfairarybryn"
+type: census
+year: 1851
+reference: "HO107/2470, folio 395, page 3, schedule 6"
+findmypast:
+  head_record_id: "GBC/1851/0017202756"
+  image_id: "GBC/1851/4354706/00303"
+  household_ids:
+    - "GBC/1851/0017202756"
+    - "GBC/1851/0017202757"
+    - "GBC/1851/0017202758"
+    - "GBC/1851/0017202759"
+    - "GBC/1851/0017202760"
+    - "GBC/1851/0017202761"
+    - "GBC/1851/0017202762"
+    - "GBC/1851/0017202763"
+associated_people:
+  - I657
+  - I658

@@ -1,0 +1,25 @@
+id: 1861-census-griffiths-household-aberdare-rg09-4068
+title: "1861 Census of England & Wales — Clive Place, Aberdare (Thomas Griffiths household, schedule 114)"
+type: census
+year: 1861
+reference: "RG 09/4068"
+collection: "1861 England, Wales & Scotland Census"
+repository: The National Archives
+fmp_record_ids:
+  - GBC/1861/0020462788
+  - GBC/1861/0020462789
+  - GBC/1861/0020462790
+  - GBC/1861/0020462791
+  - GBC/1861/0020462792
+people:
+  - thomas-griffiths
+  - anne-morgan
+files:
+  transcription: transcription.md
+archive:
+  repository: The National Archives
+  reference: RG 09/4068
+  folio: 71
+  page: 24
+  schedule: 114
+  description: "1861 Census, Clive Place, Cwmdare, Aberdare"

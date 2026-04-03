@@ -76,7 +76,7 @@ His parents were [Marc Francois Stump](marc-francois-stump.md) and [Olga Carolin
 
 - [Modern dentistry in Iran](../topics/modern-dentistry-iran.md)
 - [Mahmoudieh house](../topics/mahmoudieh-house.md)
-- [Tehran Protestant Cemetery](../topics/tehran-protestant-cemetery.md)
+- [Cemeteries in Iran](../topics/iran-cemeteries.md)
 
 ## Source acquisition
 

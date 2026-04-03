@@ -7,7 +7,7 @@ Single-line research reminders migrated from the legacy import.
 ## Topics touched
 
 - Northern Persia trade
-- British burials / memorials in Persia (ties to [topics/tehran-protestant-cemetery.md](../topics/tehran-protestant-cemetery.md))
+- British burials / memorials in Persia (ties to [topics/iran-cemeteries.md](../topics/iran-cemeteries.md))
 - Persian famine
 - *Kavkaz* / Adolf Berzhe
 

@@ -1,4 +1,4 @@
-# Villa Ester — from the Zerauscheks to Maria Callas
+# Villa Ester to Villa Callas
 
 On the tip of the Sirmione peninsula, where the road curves toward the Roman ruins improperly called the Grotte di Catullo, a villa rises at the edge of a park thick with conifers. The industrialist Giannantoni built it around 1928 — mixed styles, Swiss-inspired sloping roofs, four different window types on the front facade — and it passed through a chain of owners that connects Zadar's Italian exile community to the most famous soprano of the twentieth century.
 

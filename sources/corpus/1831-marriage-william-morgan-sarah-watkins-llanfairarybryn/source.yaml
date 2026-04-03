@@ -1,0 +1,26 @@
+title: "Marriage — William Morgan × Sarah Watkins, Llanfair-ar-y-bryn, 24 October 1831"
+type: marriage
+year: 1831
+reference: "Llanfairarybryn parish register, Carmarthenshire, page 67"
+findmypast:
+  record_id: "GBPRS/M/872063528/1"
+  image_id: "GBPRS/WAL/4214179/00068"
+  dataset: "Carmarthenshire Marriages And Banns"
+familysearch:
+  parish_register:
+    person_id: "KCGQ-BGN"
+    collection: "Wales, Carmarthenshire, Parish Registers, 1538-1912"
+    collection_id: "1403176"
+    image_ark: "3:1:S3HY-6QGZ-RL"
+    access: "Restricted — FamilySearch Center only"
+  marriage_bond:
+    person_id: "QGK5-FVXB"
+    collection: "Wales, Marriage Bonds, 1650-1900"
+    collection_id: "2761121"
+    image_ark: "3:1:3Q9M-CSJ6-9SDX-M"
+    date: "22 October 1831"
+    access: "Restricted — FamilySearch Center only"
+    note: "May name father and parish of both parties"
+associated_people:
+  - I657
+  - I658

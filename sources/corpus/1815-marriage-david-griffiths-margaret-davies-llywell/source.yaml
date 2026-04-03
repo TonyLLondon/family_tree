@@ -1,0 +1,21 @@
+id: 1815-marriage-david-griffiths-margaret-davies-llywell
+title: "Parish marriage — David Griffiths and Margaret Davies, Llywell, 22 December 1815"
+type: marriage
+year: 1815
+reference: "Llywel parish register (CofE)"
+collection: "Wales, Brecknockshire, Parish Registers, 1538-1912"
+repository: National Library of Wales / FamilySearch
+familysearch_ids:
+  - KCV1-ND7
+  - FGWR-FQW
+people:
+  - david-griffiths-llywel
+  - margaret-griffiths-mother
+files:
+  transcription: transcription.md
+archive:
+  repository: National Library of Wales (via FamilySearch microfilm)
+  reference: "Llywel parish register"
+  description: "Marriage of David Griffiths and Margaret Davies, 22 December 1815"
+  image_ark: "3:1:S3HY-6WN9-MKB"
+  access_note: "Image restricted to FamilySearch Centers / affiliate libraries"

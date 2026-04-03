@@ -1161,11 +1161,11 @@
       "spouseUnionIds": [
         "F90"
       ],
-      "personPage": "people/richard-mainwaring.md",
-      "birthDate": "1797",
-      "birthPlace": "Neath, Glamorgan, Wales",
-      "deathDate": "1844-02",
-      "deathPlace": "Merthyr Tydfil, Glamorganshire, Wales",
+      "personPage": "people/evan-mainwaring.md",
+      "birthDate": "1781",
+      "birthPlace": "Swansea, Glamorganshire, Wales",
+      "deathDate": "1848",
+      "deathPlace": "Swansea, Glamorganshire, Wales",
       "sex": "M"
     },
     "I18": {
@@ -2831,7 +2831,7 @@
       ],
       "personPage": "people/catherine-stump.md",
       "birthDate": "1949-12-13",
-      "birthPlace": "Richmond, London",
+      "birthPlace": "Richmond, Surrey",
       "sex": "F"
     },
     "I30": {
@@ -4401,7 +4401,7 @@
       "spouseUnionIds": [
         "F187"
       ],
-      "personPage": "people/morgan.md",
+      "personPage": "people/keziah-morgan.md",
       "birthDate": "1824-03-07",
       "birthPlace": "Nantyglo, Aberystruth, Monmouthshire, Wales",
       "sex": "M"
@@ -4413,7 +4413,7 @@
       "spouseUnionIds": [
         "F187"
       ],
-      "personPage": "people/amelia.md",
+      "personPage": "people/jane-morgan-dowlais.md",
       "birthDate": "1828",
       "birthPlace": "Dowlais, Glamorgan, Wales",
       "sex": "F"
@@ -4421,11 +4421,16 @@
     "I606": {
       "id": "I606",
       "displayName": "Thomas MORGAN",
-      "birthUnionId": null,
+      "birthUnionId": "F243",
       "spouseUnionIds": [
         "F217"
       ],
-      "birthPlace": "Nantyglo, Aberystruth, Monmouthshire, Wales",
+      "personPage": "people/thomas-morgan-nantyglo.md",
+      "birthDate": "1794-02-15",
+      "birthPlace": "Llywel, Brecknockshire, Wales",
+      "deathDate": "1862-12-26",
+      "deathPlace": "Aberystruth, Monmouthshire, Wales",
+      "burialPlace": "Aberystruth",
       "sex": "M"
     },
     "I607": {
@@ -4435,7 +4440,10 @@
       "spouseUnionIds": [
         "F217"
       ],
+      "personPage": "people/charlotte-davies-aberystruth.md",
+      "birthDate": "1800",
       "birthPlace": "Aberystruth, Monmouthshire, Wales",
+      "deathDate": "1825",
       "sex": "F"
     },
     "I415": {
@@ -4514,23 +4522,26 @@
     "I422": {
       "id": "I422",
       "displayName": "Thomas GRIFFITHS",
-      "birthUnionId": null,
+      "birthUnionId": "F241",
       "spouseUnionIds": [
         "F188"
       ],
       "personPage": "people/thomas-griffiths.md",
-      "birthDate": "1830",
-      "birthPlace": "Trecastle, Brecknockshire, Wales",
+      "birthDate": "1830-06-16",
+      "birthPlace": "Llywel (Trecastle), Breconshire, Wales",
       "sex": "M"
     },
     "I423": {
       "id": "I423",
-      "displayName": "Anne",
-      "birthUnionId": null,
+      "displayName": "Anne MORGAN",
+      "birthUnionId": "F242",
       "spouseUnionIds": [
         "F188"
       ],
-      "personPage": "people/anne.md",
+      "personPage": "people/anne-morgan.md",
+      "alsoKnownAs": [
+        "Anne GRIFFITHS"
+      ],
       "birthDate": "1829",
       "birthPlace": "Llanfair, Carmarthenshire, Wales",
       "sex": "F"
@@ -6921,6 +6932,7 @@
       "spouseUnionIds": [
         "F218"
       ],
+      "personPage": "people/david-lewis-briton-ferry.md",
       "birthDate": "1794-01-07",
       "birthPlace": "Briton Ferry, Glamorganshire, Wales",
       "sex": "M"
@@ -6932,6 +6944,7 @@
       "spouseUnionIds": [
         "F218"
       ],
+      "personPage": "people/ann-davies-briton-ferry.md",
       "birthPlace": "Briton Ferry, Glamorganshire, Wales",
       "sex": "F"
     },
@@ -6961,7 +6974,8 @@
       "spouseUnionIds": [
         "F220"
       ],
-      "birthDate": "1790",
+      "personPage": "people/william-stephen-llandybie.md",
+      "birthDate": "1790-05-09",
       "birthPlace": "Llandybie, Carmarthenshire, Wales",
       "sex": "M"
     },
@@ -7435,6 +7449,110 @@
       "personPage": "people/charlotte-willoughby-i653.md",
       "birthDate": "ABT 1832",
       "birthPlace": "St Paul's Cray, Kent, England",
+      "sex": "F"
+    },
+    "I654": {
+      "id": "I654",
+      "displayName": "David GRIFFITHS",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F241"
+      ],
+      "personPage": "people/david-griffiths-llywel.md",
+      "birthDate": "~1776",
+      "birthPlace": "Llywel, Brecknockshire, Wales",
+      "sex": "M"
+    },
+    "I655": {
+      "id": "I655",
+      "displayName": "Margaret DAVIES",
+      "alsoKnownAs": ["Margaret GRIFFITHS"],
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F241"
+      ],
+      "personPage": "people/margaret-griffiths-mother.md",
+      "birthDate": "~1787",
+      "birthPlace": "Conwil-gaio (Cynwyl Gaeo), Carmarthenshire, Wales",
+      "sex": "F"
+    },
+    "I657": {
+      "id": "I657",
+      "displayName": "William MORGAN",
+      "birthUnionId": "F243",
+      "spouseUnionIds": [
+        "F242"
+      ],
+      "personPage": "people/william-morgan-llanfairarybryn.md",
+      "birthDate": "1795-09-15",
+      "birthPlace": "Llanfair-ar-y-bryn, Carmarthenshire, Wales",
+      "sex": "M"
+    },
+    "I658": {
+      "id": "I658",
+      "displayName": "Sarah WATKINS",
+      "alsoKnownAs": ["Sarah MORGAN"],
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F242"
+      ],
+      "personPage": "people/sarah-morgan.md",
+      "birthDate": "1806",
+      "deathDate": "1887-06-27",
+      "birthPlace": "Builth, Brecknockshire, Wales",
+      "deathPlace": "Aberdare, Glamorganshire, Wales",
+      "burialPlace": "St Fagan's, Aberdare",
+      "sex": "F"
+    },
+    "I659": {
+      "id": "I659",
+      "displayName": "Morgan MORGANS",
+      "birthUnionId": "F244",
+      "spouseUnionIds": [
+        "F243"
+      ],
+      "personPage": "people/morgan-morgans-llywel.md",
+      "birthDate": "1776",
+      "birthPlace": "Llywel, Breconshire, Wales",
+      "sex": "M"
+    },
+    "I660": {
+      "id": "I660",
+      "displayName": "Lettuce",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F243"
+      ],
+      "personPage": "people/lettuce-llywel.md",
+      "sex": "F"
+    },
+    "I661": {
+      "id": "I661",
+      "displayName": "Morgan",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F244"
+      ],
+      "sex": "M"
+    },
+    "I662": {
+      "id": "I662",
+      "displayName": "Rachel",
+      "birthUnionId": null,
+      "spouseUnionIds": [
+        "F244"
+      ],
+      "sex": "F"
+    },
+    "I656": {
+      "id": "I656",
+      "displayName": "Margaret GRIFFITHS",
+      "birthUnionId": "F188",
+      "spouseUnionIds": [],
+      "birthDate": "1855",
+      "deathDate": "1863-12-02",
+      "birthPlace": "Aberdare, Glamorganshire, Wales",
+      "deathPlace": "Aberdare, Glamorganshire, Wales",
       "sex": "F"
     }
   },
@@ -8558,6 +8676,7 @@
         "I423"
       ],
       "childIds": [
+        "I656",
         "I424",
         "I174",
         "I425",
@@ -10188,6 +10307,49 @@
       ],
       "marriageDate": "1851-06-07",
       "marriagePlace": "St Paul's Cray, Kent, England"
+    },
+    "F241": {
+      "id": "F241",
+      "partnerIds": [
+        "I654",
+        "I655"
+      ],
+      "childIds": [
+        "I422"
+      ],
+      "marriageDate": "1815-12-22",
+      "marriagePlace": "Llywell, Brecknockshire, Wales"
+    },
+    "F242": {
+      "id": "F242",
+      "partnerIds": [
+        "I657",
+        "I658"
+      ],
+      "childIds": [
+        "I423"
+      ]
+    },
+    "F243": {
+      "id": "F243",
+      "partnerIds": [
+        "I659",
+        "I660"
+      ],
+      "childIds": [
+        "I657",
+        "I606"
+      ]
+    },
+    "F244": {
+      "id": "F244",
+      "partnerIds": [
+        "I661",
+        "I662"
+      ],
+      "childIds": [
+        "I659"
+      ]
     }
   },
   "graph": {
@@ -12040,7 +12202,7 @@
       {
         "id": "I423",
         "kind": "person",
-        "label": "Anne"
+        "label": "Anne MORGAN"
       },
       {
         "id": "I424",
@@ -14864,6 +15026,75 @@
         "kind": "union",
         "label": "",
         "marriageDate": "1851-06-07"
+      },
+      {
+        "id": "I654",
+        "kind": "person",
+        "label": "David GRIFFITHS"
+      },
+      {
+        "id": "I655",
+        "kind": "person",
+        "label": "Margaret DAVIES"
+      },
+      {
+        "id": "I656",
+        "kind": "person",
+        "label": "Margaret GRIFFITHS"
+      },
+      {
+        "id": "F241",
+        "kind": "union",
+        "label": "",
+        "marriageDate": "1815-12-22"
+      },
+      {
+        "id": "I657",
+        "kind": "person",
+        "label": "William MORGAN"
+      },
+      {
+        "id": "I658",
+        "kind": "person",
+        "label": "Sarah WATKINS"
+      },
+      {
+        "id": "F242",
+        "kind": "union",
+        "label": "",
+        "marriageDate": null
+      },
+      {
+        "id": "I659",
+        "kind": "person",
+        "label": "Morgan MORGANS"
+      },
+      {
+        "id": "I660",
+        "kind": "person",
+        "label": "Lettuce"
+      },
+      {
+        "id": "F243",
+        "kind": "union",
+        "label": "",
+        "marriageDate": null
+      },
+      {
+        "id": "I661",
+        "kind": "person",
+        "label": "Morgan"
+      },
+      {
+        "id": "I662",
+        "kind": "person",
+        "label": "Rachel"
+      },
+      {
+        "id": "F244",
+        "kind": "union",
+        "label": "",
+        "marriageDate": null
       }
     ],
     "edges": [
@@ -19265,6 +19496,76 @@
       {
         "from": "F240",
         "to": "I597",
+        "kind": "descent"
+      },
+      {
+        "from": "I654",
+        "to": "F241",
+        "kind": "spouse"
+      },
+      {
+        "from": "I655",
+        "to": "F241",
+        "kind": "spouse"
+      },
+      {
+        "from": "F241",
+        "to": "I422",
+        "kind": "descent"
+      },
+      {
+        "from": "F188",
+        "to": "I656",
+        "kind": "descent"
+      },
+      {
+        "from": "I657",
+        "to": "F242",
+        "kind": "spouse"
+      },
+      {
+        "from": "I658",
+        "to": "F242",
+        "kind": "spouse"
+      },
+      {
+        "from": "F242",
+        "to": "I423",
+        "kind": "descent"
+      },
+      {
+        "from": "I659",
+        "to": "F243",
+        "kind": "spouse"
+      },
+      {
+        "from": "I660",
+        "to": "F243",
+        "kind": "spouse"
+      },
+      {
+        "from": "F243",
+        "to": "I657",
+        "kind": "descent"
+      },
+      {
+        "from": "F243",
+        "to": "I606",
+        "kind": "descent"
+      },
+      {
+        "from": "I661",
+        "to": "F244",
+        "kind": "spouse"
+      },
+      {
+        "from": "I662",
+        "to": "F244",
+        "kind": "spouse"
+      },
+      {
+        "from": "F244",
+        "to": "I659",
         "kind": "descent"
       }
     ]

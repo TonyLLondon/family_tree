@@ -1,0 +1,22 @@
+id: 1851-census-griffiths-household-llywell-ho107-2489
+title: "1851 Census of England & Wales — 3 Bishop Town, Llywell (David Griffiths household, schedule 36)"
+type: census
+year: 1851
+reference: "HO 107/2489"
+collection: "1851 England, Wales & Scotland Census"
+repository: The National Archives
+fmp_record_ids:
+  - GBC/1851/0017456822
+  - GBC/1851/0017456823
+people:
+  - david-griffiths-llywel
+  - margaret-griffiths-mother
+files:
+  transcription: transcription.md
+archive:
+  repository: The National Archives
+  reference: HO 107/2489
+  folio: 113
+  page: 15
+  schedule: 36
+  description: "1851 Census, 3 Bishop Town, Llywell, Brecknockshire"

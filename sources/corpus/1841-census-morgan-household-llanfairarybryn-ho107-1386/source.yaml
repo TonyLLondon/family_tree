@@ -1,0 +1,20 @@
+title: "1841 Census — Morgan household, Coedevan, Llanfairarybryn"
+type: census
+year: 1841
+reference: "HO107/1386, folio 8, page 11, schedule 1360"
+findmypast:
+  head_record_id: "GBC/1841/0015406645"
+  image_id: "GBC/1841/1386/0282"
+  household_ids:
+    - "GBC/1841/0015406645"
+    - "GBC/1841/0015406646"
+    - "GBC/1841/0015406647"
+    - "GBC/1841/0015406648"
+    - "GBC/1841/0015406649"
+    - "GBC/1841/0015406650"
+    - "GBC/1841/0015406651"
+    - "GBC/1841/0015406652"
+associated_people:
+  - I657
+  - I658
+  - I423

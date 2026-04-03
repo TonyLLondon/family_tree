@@ -26,6 +26,7 @@ children:
 ## Evidence
 
 - Portrait: [uniform-epaulettes-man-holding-baby-vintage-tv-room.jpg](../media/images/portraits/uniform-epaulettes-man-holding-baby-vintage-tv-room.jpg) → tree id in [web/photo-map.json](../web/photo-map.json).
+- Wedding portrait: [with Jacquie and Helia outdoors](../media/images/portraits/outdoor-wedding-trio-beaded-gown-champagne-hills.jpg) — Jacquie's wedding, 25 June 2012.
 - Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
 - **Tree id:** **I18**. Birth union and **1982** marriage indexed in the working tree graph.
 

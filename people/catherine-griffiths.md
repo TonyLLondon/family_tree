@@ -18,7 +18,7 @@ children:
 
 # Catherine Griffiths
 
-**Catherine** is the woman the **1911** enumerator found at **41 Glen Road, Aberdare** beside **[David John Lewis (1857)](david-john-lewis-1857.md)**—the mother whose fertility return became the coalfield story: **twelve** children born, **seven** dead, **five** living, the industrial age written in a single row. Born about **1862** in **Aberdare**, Glamorganshire, she was the daughter of [Thomas Griffiths](thomas-griffiths.md), a Breconshire man who came to the coalfield as an ironworks labourer, and [Anne (Morgan)](anne.md), from Llanfair in Carmarthenshire. By nine she was in her father's household on the 1871 census; by eighteen she and her sisters Eliza and Margaret were all **tin workers** in an Aberdare tinplate works. Three years later she was a Merthyr bride, married to David John Lewis in Q1 1884.
+**Catherine** is the woman the **1911** enumerator found at **41 Glen Road, Aberdare** beside **[David John Lewis (1857)](david-john-lewis-1857.md)**—the mother whose fertility return became the coalfield story: **twelve** children born, **seven** dead, **five** living, the industrial age written in a single row. Born about **1862** in **Aberdare**, Glamorganshire, she was the daughter of [Thomas Griffiths](thomas-griffiths.md), a Breconshire man who came to the coalfield as an ironworks labourer, and [Anne (Morgan)](anne-morgan.md), from Llanfair in Carmarthenshire. By nine she was in her father's household on the 1871 census; by eighteen she and her sisters Eliza and Margaret were all **tin workers** in an Aberdare tinplate works. Three years later she was a Merthyr bride, married to David John Lewis in Q1 1884.
 
 Her son **[Samuel Lewis](samuel-lewis.md)**—the boy who would go down the pit at **thirteen**—is the child this vault follows forward; other sons and daughters wait in the same import cluster until each earns a named page.
 
@@ -35,7 +35,7 @@ Her son **[Samuel Lewis](samuel-lewis.md)**—the boy who would go down the pit 
 
 - Husband: [David John Lewis (1857)](david-john-lewis-1857.md).
 - Children: [Mary Lewis](mary-ann-lewis.md) (1886), [Samuel Lewis](samuel-lewis.md) (1887), and others — not yet on individual pages.
-- Parents: [Thomas Griffiths](thomas-griffiths.md) (b. 1830, Trecastle, Breconshire); [Anne (Morgan)](anne.md) (b. 1829, Llanfair, Carmarthenshire).
+- Parents: [Thomas Griffiths](thomas-griffiths.md) (b. 1830, Trecastle, Breconshire); [Anne (Morgan)](anne-morgan.md) (b. 1829, Llanfair, Carmarthenshire).
 - Siblings: Elizabeth/Eliza (b. ~1860), Margaret A (b. ~1866), David (b. ~1869) — all born Aberdare.
 
 ## Photographs

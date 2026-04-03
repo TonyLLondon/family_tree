@@ -62,7 +62,7 @@ His published work moves from **FAB** and **electrospray** through **thermospray
 
 ## The lace collection
 
-In December 2006, Ivor and his brother Owen Michael Lewis (Michele) sold their mother [Fulvia](fulvia-ottilia-antonia-zerauschek.md)'s antique lace collection — over 600 pieces, 16th–20th century, among the most important in Europe — to the **Provincia autonoma di Trento** for €120,000 (two lots of ~300 pieces at €60,000 each). The laces were destined for the planned **Museo del Tessuto** at Palazzo Taddei, Ala. The newspaper described Ivor as "nato a Firenze e residente a Bolsena, di professione professore." See [L'Adige articles (28 Dec 2006)](../sources/corpus/ladige-2006-lewis-lace-collection-trento/translation-ladige-lewis-lace-2006.en.md).
+In December 2006, Ivor and his brother Owen Michael Lewis (Michele) sold their mother [Fulvia](fulvia-ottilia-antonia-zerauschek.md)'s antique lace collection — over 600 pieces, 16th–20th century, among the most important in Europe — to the **Provincia autonoma di Trento**. The laces were destined for the planned **Museo del Tessuto** at Palazzo Taddei, Ala. The newspaper described Ivor as "nato a Firenze e residente a Bolsena, di professione professore." See [L'Adige articles (28 Dec 2006)](../sources/corpus/ladige-2006-lewis-lace-collection-trento/translation-ladige-lewis-lace-2006.en.md).
 
 ## Open questions
 
