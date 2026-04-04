@@ -62,7 +62,7 @@ Her last days were in **Florence**: admitted to the **Arcispedale di Santa Maria
 - **Addobbati family group (c. 1916–1920):** [PAddoFam.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/PAddoFam.jpg) — captioned *"Otilia e Piero Addobbati and Vittoria, Pietro, Ester, Beatrice, Noemi, Elsa e Irma — Nonna"*; parents seated with all children standing.
 - **"Zie Addobbati" group photos (c. 1920s–1930s):** [ZieAddobbati-01.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/ZieAddobbati-01.jpg) — composite of three snapshots showing groups of the Addobbati sisters outdoors in Zara. [ZieAddobbati-02.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/ZieAddobbati-02.jpg).
 - **School, Zara:** [Sch-01.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/zara-views/Sch-01.jpg) — postcard of "Zara — Liceo e Convitto S. Demetrio" annotated *"Nonna's Convent school under the 'English Sisters' / My daily school under Dominican Sisters."*
-- **Portrait promoted to photo-map:** [ester-addobbati-young-zara.jpg](../media/images/portraits/ester-addobbati-young-zara.jpg) (copy of Nonna-Ester01, I15 in chart).
+- **Portrait promoted to photo-map:** [ester-addobbati-passport-1964.jpg](../media/images/portraits/ester-addobbati-passport-1964.jpg) (cropped from 1964 passport EZPPort200664-03, I15 in chart). Previous young-Zara portrait (Nonna-Ester01) may depict a sister.
 
 ## Open questions
 

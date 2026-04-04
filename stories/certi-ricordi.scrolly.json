@@ -1,0 +1,672 @@
+{
+  "hero": {
+    "title": "Certi Ricordi — Certain Memories",
+    "subtitle": "A family history scrapbook compiled by Fulvia Zerauschek Lewis — the Zerauschek-Addobbati world in Zara",
+    "era": "~1990s compilation · 1495–1973 subject"
+  },
+  "layout": "scrapbook",
+  "scrollyStepCount": 0,
+  "steps": [],
+  "pages": [
+    {
+      "image": "media/docs/certi-ricordi/Nonna000.jpg",
+      "alt": "Title page — Zerauschek-Addobbati: Certi Ricordi, with swimmer photograph"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna001.jpg",
+      "alt": "Handwritten epigraph quoting Caesar: Meglio essere il primo al proprio paese"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna002.jpg",
+      "alt": "Dedication page — per chi non lo sapesse"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna003.jpg",
+      "alt": "Postcards of Zara — Fossombrone paintings of Jesus over Zadar, 1935 and 1942"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna004.jpg",
+      "alt": "The Archive building in Piazza dei Signori, Zara"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna005.jpg",
+      "alt": "Sabalich Guida archeologica di Zara, page 503 — Addobbati genealogy from 1495"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna006.jpg",
+      "alt": "Sabalich page 504 — civic offices of the Addobbati"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna007.jpg",
+      "alt": "Sabalich page 505 — nobility and the fall of Venice"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna008.jpg",
+      "alt": "Sabalich page 506 — Dr Pietro Addobbati and the Golden Spur"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna009.jpg",
+      "alt": "Sabalich page 507 — Napoleon appoints Dr Pietro Substitute Judge"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna010.jpg",
+      "alt": "Sabalich page 508 — Vincenzo and Pietro Paolo Addobbati"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna011.jpg",
+      "alt": "Sabalich page 509 — the Zadar ginnasio library"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna012.jpg",
+      "alt": "Certi Ricordi page 12"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna013.jpg",
+      "alt": "Certi Ricordi page 13"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna014.jpg",
+      "alt": "Certi Ricordi page 14"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna015.jpg",
+      "alt": "Certi Ricordi page 15"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna016.jpg",
+      "alt": "Certi Ricordi page 16"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna017.jpg",
+      "alt": "Certi Ricordi page 17"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna018.jpg",
+      "alt": "Certi Ricordi page 18"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna019.jpg",
+      "alt": "Certi Ricordi page 19"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna020.jpg",
+      "alt": "Certi Ricordi page 20"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna021.jpg",
+      "alt": "Certi Ricordi page 21"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna022.jpg",
+      "alt": "Certi Ricordi page 22"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna023.jpg",
+      "alt": "Certi Ricordi page 23"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna024.jpg",
+      "alt": "Certi Ricordi page 24"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna025.jpg",
+      "alt": "Certi Ricordi page 25"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna026.jpg",
+      "alt": "Certi Ricordi page 26"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna027.jpg",
+      "alt": "Certi Ricordi page 27"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna028.jpg",
+      "alt": "Certi Ricordi page 28"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna029.jpg",
+      "alt": "Certi Ricordi page 29"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna030.jpg",
+      "alt": "Certi Ricordi page 30"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna031.jpg",
+      "alt": "Certi Ricordi page 31"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna032.jpg",
+      "alt": "Certi Ricordi page 32"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna033.jpg",
+      "alt": "Il Signor Max — cinema review, movie credits, and Nonno's cigarettes"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna034.jpg",
+      "alt": "Il Signor Max — De Sica film still and plot synopsis"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna035.jpg",
+      "alt": "Colour postcard of the Zara waterfront, Riva Vittorio Emanuele III"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna036.jpg",
+      "alt": "Inaugurazione del Monumento ai Caduti, September 1928"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna037.jpg",
+      "alt": "Riva Nuova — Tu sei nato qui, birthplace of Guido"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna038.jpg",
+      "alt": "Baby Guido in white chair — La Nico te tiên"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna039.jpg",
+      "alt": "Family group in the Salotto drawing room, Zara"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna040.jpg",
+      "alt": "Christmas stockings and presents at Hove, England"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna041.jpg",
+      "alt": "Christmas tree in the dining room at Zara — high ceilings and frescoed walls"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna042.jpg",
+      "alt": "Children in sailor suits — La Pierella Tottani e el Cio-Cio-San"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna043.jpg",
+      "alt": "Children on Riva Derna, February 1936 — reluctant photo subjects"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna044.jpg",
+      "alt": "Beach photographs — Nico holding Guido, Puntamice July 1931"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna045.jpg",
+      "alt": "Carnival costumes — Leone March 1928 and re-used fancy dress"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna046.jpg",
+      "alt": "Carnival costume ball and flower-decorated horse carriage parade"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna047.jpg",
+      "alt": "Lukoran, Ugljan Island — panoramic views of the family's summer retreat"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna048.jpg",
+      "alt": "Speedboats on the Adriatic — the ESSO motorboat and racing"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna049.jpg",
+      "alt": "Letter from Giorgio Giadrini about the Zerauschek boat EROS vs ESSO"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna050.jpg",
+      "alt": "1934 commercial postcard — A. Zerauschek refuses to sell motorboat ESSO"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna051.jpg",
+      "alt": "I due piccoli piloti — motorboats with hidden tiller and gearbox"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna052.jpg",
+      "alt": "La Fulla — aluminium rowboat and Lukoran summer villa"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna053.jpg",
+      "alt": "El Dardo — boats at Lukoran and Firestone floats"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna054.jpg",
+      "alt": "Fioi del zio Nini — swimming and Firestone rubber dinghy"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna055.jpg",
+      "alt": "La Bebè Zerauschek — family dog and English governess"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna056.jpg",
+      "alt": "Passeggiate — afternoon walks and Nico on the rocks"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna057.jpg",
+      "alt": "Gita a Uglian — excursions on the island and Salghetti chapel"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna058.jpg",
+      "alt": "L'Arcivescovo al Salghetti — annual visit and the Alba Maris"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna059.jpg",
+      "alt": "Bomba a Lukoran — the house hit by a bomb from a plane"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna060.jpg",
+      "alt": "Cavalli e carozze — horses and Colessi carriages in Zara"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna061.jpg",
+      "alt": "La Zia Beppina — outings in horse-drawn carriages and the Kalì girls"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna062.jpg",
+      "alt": "Automobili!! — the Ford dealership and Nonno's invitation to America"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna063.jpg",
+      "alt": "Altre macchine de uso — work car for rushing between businesses"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna064.jpg",
+      "alt": "Camioncin — little truck parked outside the office"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna065.jpg",
+      "alt": "Lincoln e Mercury — luxury cars for the border run"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna066.jpg",
+      "alt": "Altre barche — the Eros sailing ship and the lost Pickwick yacht"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna067.jpg",
+      "alt": "Liberty — postwar cargo ship bought in partnership"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna068.jpg",
+      "alt": "Costruzione — building the family apartment block, Roman coins found"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna069.jpg",
+      "alt": "La nostra casa — modernist apartment, Aga cooker, Communist HQ after the war"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna070.jpg",
+      "alt": "La casetta del Tennis — pavilion from packing crates, pigeons, Morris chairs"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna071.jpg",
+      "alt": "Il campo di bocce — Nonno's friends, frescoes by Formonthrone, Fornasetti furniture"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna072.jpg",
+      "alt": "Il campo de Tennis — court destroyed by communists, Val di Maestro garden"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna073.jpg",
+      "alt": "La piscina di mare — seawater pool with square boat and octagonal raft"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna074.jpg",
+      "alt": "Le Scuole — Villa Brignole Sale, Genoa, Papà mad about education"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna075.jpg",
+      "alt": "Villa Brignole Sale — arcaded corridor and neoclassical atrium interior"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna076.jpg",
+      "alt": "Bombardamento aereo — frescoed corridors and church nave in ruins"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna077.jpg",
+      "alt": "Lettera del Papà — dense cursive letter from Antonio Zerauschek Sr., page 1"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna078.jpg",
+      "alt": "Lettera del Papà — conclusion and signature, page 2"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna079.jpg",
+      "alt": "Cara Fulli — letter to eighteen-year-old Fulvia, Zara 12 November 1941"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna080.jpg",
+      "alt": "Montecassino — magazine article on the abbey destroyed in the war"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna081.jpg",
+      "alt": "Le scuole — almost a priest instead of a cardiologist"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna082.jpg",
+      "alt": "Real Collegio Carlo Alberto — Prince Umberto's prize-giving invitation, 1941"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna083.jpg",
+      "alt": "La bandiera del collegio — cadets parading with the Kingdom of Sardinia flag"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna084.jpg",
+      "alt": "Il campo sportivo — fencing team, gymnastics, and the Benedictines at Downside"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna085.jpg",
+      "alt": "Lo strillone — lottery seller, 'I already am a millionaire,' and Superga"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna086.jpg",
+      "alt": "Al Valentino — El Bibo e la Biba in Turin, suits by tailor Filippo"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna087.jpg",
+      "alt": "I Viaggi — the indomitable tourist, Rome, Cortina, every Italian city"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna088.jpg",
+      "alt": "Trieste e Val Gardena — Nonno in mourning for Nonna Ottilia"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna089.jpg",
+      "alt": "Cortina d'Ampezzo — Hotel Miramonti, New Year's Eve, Scalera Film owner"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna090.jpg",
+      "alt": "Arbe e Piano d'Arte — the first exodus, before war was declared"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna091.jpg",
+      "alt": "Villa Ester — aerial postcard of Sirmione peninsula, Lake Garda"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna092.jpg",
+      "alt": "Villa Giannantoni — bought and paid for in a single day, July 1943"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna093.jpg",
+      "alt": "L'ingresso — self-timer photo, the striped dress from Bellezza magazine"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna094.jpg",
+      "alt": "I ferri battuti — wrought-iron gates worth over a million, later removed"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna095.jpg",
+      "alt": "Il caminetto — pencil sketch of one of three marble fireplaces"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna096.jpg",
+      "alt": "Nichetto e Andine Luxardo — 'I Luxardo non lussano!' and the olive grove"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna097.jpg",
+      "alt": "Il giardino — accordion, fountain, and garden paths at the Sirmione villa"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna098.jpg",
+      "alt": "Altro viale — palm-lined garden paths, now site of two hotels"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna099.jpg",
+      "alt": "Maria Callas — Grazia 1959, 'questa villa è una catapecchia'"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna100.jpg",
+      "alt": "20 appartamenti — the villa entrance today, intercom with twenty buzzers"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna101.jpg",
+      "alt": "Villa Galletti — requisitioned by Germans, Americans, and Welsh Infantry"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna102.jpg",
+      "alt": "Filanda di Lonato — Zerauschek silk mill letterhead"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna103.jpg",
+      "alt": "La Filanda — the silk mill building at Lonato, nylon made it obsolete"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna104.jpg",
+      "alt": "Il Nonno torna a Zara — return to communist Zadar in 1961, workers cry 'Paròn!'"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna105.jpg",
+      "alt": "Ristorante Bristol — Zara's finest restaurant, co-owned by Zerauschek"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna106.jpg",
+      "alt": "La Riva Nuova — views from Hotel Bristol windows, Count Belgiojoso's honeymoon"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna107.jpg",
+      "alt": "Hotel Zagreb — the Bristol renamed under Yugoslavia, Western money extends the city"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna108.jpg",
+      "alt": "Nonno ritorna a Lukoran — the family house changed by bombardment"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna109.jpg",
+      "alt": "L'ultimo bagno del Nonno — last swim in the Adriatic, don't tell Ester!"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna110.jpg",
+      "alt": "Il Vecchietto Brontolone — leaving Dalmatia for the last time, refugees not fashionable"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna111.jpg",
+      "alt": "Certi Ricordi page 111"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna112.jpg",
+      "alt": "Certi Ricordi page 112"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna113.jpg",
+      "alt": "Certi Ricordi page 113"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna114.jpg",
+      "alt": "Certi Ricordi page 114"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna115.jpg",
+      "alt": "Certi Ricordi page 115"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna116.jpg",
+      "alt": "Certi Ricordi page 116"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna117.jpg",
+      "alt": "Certi Ricordi page 117"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna118.jpg",
+      "alt": "Certi Ricordi page 118"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna119.jpg",
+      "alt": "Certi Ricordi page 119"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna120.jpg",
+      "alt": "Certi Ricordi page 120"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna121.jpg",
+      "alt": "Certi Ricordi page 121"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna122.jpg",
+      "alt": "Certi Ricordi page 122"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna123.jpg",
+      "alt": "Certi Ricordi page 123"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna124.jpg",
+      "alt": "Certi Ricordi page 124"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna125.jpg",
+      "alt": "Certi Ricordi page 125"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna126.jpg",
+      "alt": "Certi Ricordi page 126"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna127.jpg",
+      "alt": "Certi Ricordi page 127"
+    },
+    {
+      "image": "media/docs/certi-ricordi/Nonna128.jpg",
+      "alt": "Certi Ricordi page 128"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-001.jpg",
+      "alt": "Certi Ricordi supplement page 1"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-002.jpg",
+      "alt": "Certi Ricordi supplement page 2"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-003.jpg",
+      "alt": "Certi Ricordi supplement page 3"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-004.jpg",
+      "alt": "Certi Ricordi supplement page 4"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-005.jpg",
+      "alt": "Certi Ricordi supplement page 5"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-006.jpg",
+      "alt": "Certi Ricordi supplement page 6"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-007.jpg",
+      "alt": "Certi Ricordi supplement page 7"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-008.jpg",
+      "alt": "Certi Ricordi supplement page 8"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-009.jpg",
+      "alt": "Certi Ricordi supplement page 9"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-010.jpg",
+      "alt": "Certi Ricordi supplement page 10"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-011.jpg",
+      "alt": "Certi Ricordi supplement page 11"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-012.jpg",
+      "alt": "Certi Ricordi supplement page 12"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-013.jpg",
+      "alt": "Certi Ricordi supplement page 13"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-014.jpg",
+      "alt": "Certi Ricordi supplement page 14"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-015.jpg",
+      "alt": "Certi Ricordi supplement page 15"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-016.jpg",
+      "alt": "Certi Ricordi supplement page 16"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-017.jpg",
+      "alt": "Certi Ricordi supplement page 17"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-018.jpg",
+      "alt": "Certi Ricordi supplement page 18"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-019.jpg",
+      "alt": "Certi Ricordi supplement page 19"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-020.jpg",
+      "alt": "Certi Ricordi supplement page 20"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-021.jpg",
+      "alt": "Certi Ricordi supplement page 21"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-022.jpg",
+      "alt": "Certi Ricordi supplement page 22"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-023.jpg",
+      "alt": "Certi Ricordi supplement page 23"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-024.jpg",
+      "alt": "Certi Ricordi supplement page 24"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-025.jpg",
+      "alt": "Certi Ricordi supplement page 25"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-026.jpg",
+      "alt": "Certi Ricordi supplement page 26"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-027.jpg",
+      "alt": "Certi Ricordi supplement page 27"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-028.jpg",
+      "alt": "Certi Ricordi supplement page 28"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-029.jpg",
+      "alt": "Certi Ricordi supplement page 29"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-030.jpg",
+      "alt": "Certi Ricordi supplement page 30"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-031.jpg",
+      "alt": "Certi Ricordi supplement page 31"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-032.jpg",
+      "alt": "Certi Ricordi supplement page 32"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-033.jpg",
+      "alt": "Certi Ricordi supplement page 33"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-034.jpg",
+      "alt": "Certi Ricordi supplement page 34"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-035.jpg",
+      "alt": "Certi Ricordi supplement page 35"
+    },
+    {
+      "image": "media/docs/certi-ricordi/suppl/FLSupplMA-036.jpg",
+      "alt": "Certi Ricordi supplement page 36"
+    }
+  ]
+}

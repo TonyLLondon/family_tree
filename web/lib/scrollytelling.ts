@@ -22,8 +22,15 @@ export interface ScrollySidecar {
     subtitle: string;
     era: string;
   };
+  layout?: "scrapbook";
   scrollyStepCount: number;
   steps: ScrollyStep[];
+  pages?: ScrapbookPage[];
+}
+
+export interface ScrapbookPage {
+  image: string;
+  alt: string;
 }
 
 export interface MarkdownSection {
@@ -88,5 +95,14 @@ export function resolveScrollySteps(sidecar: ScrollySidecar): ScrollyStep[] {
       ...step.media,
       src: photoPublicPath(step.media.src),
     },
+  }));
+}
+
+export function resolveScrapbookPages(
+  sidecar: ScrollySidecar,
+): ScrapbookPage[] {
+  return (sidecar.pages ?? []).map((page) => ({
+    ...page,
+    image: photoPublicPath(page.image),
   }));
 }

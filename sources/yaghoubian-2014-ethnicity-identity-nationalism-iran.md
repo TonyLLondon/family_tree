@@ -4,7 +4,7 @@
 
 **Corpus:** [`sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/`](corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/)
 
-**Local PDF:** [`manual/Ethnicitity_identity and nationalism in Iran.pdf`](../manual/Ethnicitity_identity%20and%20nationalism%20in%20Iran.pdf)
+**Kind:** PDF (ingested into corpus; original deleted from `manual/`)
 
 ## Relevance
 

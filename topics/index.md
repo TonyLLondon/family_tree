@@ -26,7 +26,7 @@ Places, institutions, themes, and regional family hubs — linked from person fi
 | [nin-noble-council.md](nin-noble-council.md) | Noble council of the Dalmatian commune of Nin; 1817 Habsburg petition; Addobbati inscription |
 | [odd-fellows-manchester-unity.md](odd-fellows-manchester-unity.md) | Independent Order of Odd Fellows (Manchester Unity): friendly society origins, ranks and regalia, Aberdare lodges, Rev Dr Thomas Price (Grand Master 1865), Samuel Lewis as Provincial Grand Master of the Lily of the Valley Lodge |
 | [lewis-lace-collection.md](lewis-lace-collection.md) | The Lewis lace collection: 674 antique laces (XVI–XX c.), twelve European countries; inherited from Fulvia Zerauschek Lewis; sold by sons Ivor and Owen Michael to Provincia di Trento (Dec 2006, €120,000); appraised by Davanzo Poli and Peri; destined for Museo del Tessuto at Ala |
-| [pedigree-collapse-morgan-morgans.md](pedigree-collapse-morgan-morgans.md) | Pedigree collapse: Morgan Morgans & Lettice of Llywel (bap. 1776) are shared ancestors on both the Griffiths and Cushen lines; Samuel Lewis and Lily Cushen were third cousins; mermaid chart, evidence, and historical context |
+| [the-centimorgan-morgans.md](the-centimorgan-morgans.md) | The centiMorgan Morgans: Morgan Morgans & Lettice of Llywel (bap. 1776) are shared ancestors on both the Griffiths and Cushen lines; Samuel Lewis and Lily Cushen were third cousins — and the unit of genetic distance is named *morgan* |
 
 ## Surname studies
 

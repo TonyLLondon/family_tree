@@ -3,10 +3,12 @@ import { notFound } from "next/navigation";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { PageShell } from "@/components/PageShell";
 import { ScrollytellingNarrative } from "@/components/ScrollytellingNarrative";
+import { ScrapbookNarrative } from "@/components/ScrapbookNarrative";
 import { getStorySlugs, readMarkdownFile } from "@/lib/content";
 import {
   readScrollySidecar,
   resolveScrollySteps,
+  resolveScrapbookPages,
   splitMarkdownSections,
 } from "@/lib/scrollytelling";
 import { repoPath } from "@/lib/paths";
@@ -58,6 +60,19 @@ export default async function StoryPage({ params }: Props) {
 
   if (sidecar) {
     const { sections } = splitMarkdownSections(parsed.content);
+
+    if (sidecar.layout === "scrapbook" && sidecar.pages) {
+      const resolvedPages = resolveScrapbookPages(sidecar);
+      return (
+        <ScrapbookNarrative
+          hero={sidecar.hero}
+          sections={sections}
+          pages={resolvedPages}
+          filePath={parsed.filePath}
+        />
+      );
+    }
+
     const resolvedSteps = resolveScrollySteps(sidecar);
 
     return (

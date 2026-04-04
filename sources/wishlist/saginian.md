@@ -10,13 +10,13 @@ People: [Daoud Khan Saginian](../../people/daoud-khan-saginian.md) · [Anna Sagi
 
 ### Armen Saginian — *Thank You, America & Americans* (2022)
 
-**Identified.** The family memoir is **Armen Saginian, *Thank You, America & Americans*** (Xlibris, 2022). Armen (b. 1933, Tabriz) is a great-great-grandson of David Khan via the Gorgin Khan → Solomon Khan → Hovsep line. The book is an oral-history autobiography containing chapters on Dawood Khan, Gorgin Khan, and Colonel Solomon Khan, with family photos and genealogical charts. Screenshots in `manual/"Thank You, America & Americans" by Armen Saginian/`.
+**Identified.** The family memoir is **Armen Saginian, *Thank You, America & Americans*** (Xlibris, 2022). Armen (b. 1933, Tabriz) is a great-great-grandson of David Khan via the Gorgin Khan → Solomon Khan → Hovsep line. The book is an oral-history autobiography containing chapters on Dawood Khan, Gorgin Khan, and Colonel Solomon Khan, with family photos and genealogical charts. Analysed; screenshots removed from `manual/` after extraction into person pages.
 
 **Key discrepancies from Anna's 1880 interview and Yaghoubian (2014):** Armen structures the 1811 emigration as father + two sons (David Khan with Gorgin Khan and Zali Khan); all other sources say David and Zal were **brothers**. Armen places Tamara (wife of Dr. Cormick) as Gorgin Khan's daughter; Anna says Tamar was her sister (Daoud Khan's daughter). Valuable as oral tradition but must be cross-referenced carefully.
 
 ### Yaghoubian — *Ethnicity, Identity, and the Development of Nationalism in Iran* (2014)
 
-**Ingested.** David N. Yaghoubian, *Ethnicity, Identity, and the Development of Nationalism in Iran* (Syracuse University Press, 2014). Local PDF: `manual/Ethnicitity_identity and nationalism in Iran.pdf`. Source card: [yaghoubian-2014-ethnicity-identity-nationalism-iran.md](../yaghoubian-2014-ethnicity-identity-nationalism-iran.md). Corpus: `sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/`.
+**Ingested.** David N. Yaghoubian, *Ethnicity, Identity, and the Development of Nationalism in Iran* (Syracuse University Press, 2014). Corpus: `sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/`. Source card: [yaghoubian-2014-ethnicity-identity-nationalism-iran.md](../yaghoubian-2014-ethnicity-identity-nationalism-iran.md). Corpus: `sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/`.
 
 ---
 

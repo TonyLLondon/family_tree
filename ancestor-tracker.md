@@ -42,7 +42,7 @@ Ahnentafel chart tracking every direct ancestor. Father of person *n* = slot 2*n
 
 **Deepest confirmed:** Pietro ADDOBBATI (b. 1495, Gen 16, Dalmatia) · Blaesi STUMP (b. ~1565, Gen 13, Thurgau) · John Roche (b. 1600, Gen 12, Ireland) · Robert MACKERETH (Gen 14, Westmorland).
 
-**Pedigree collapse:** Morgan MORGANS (I659) and Lettice (I660) each appear in **two** positions — slots 268/269 (via William → Anne → Catherine → Samuel) and slots 280/281 (via Thomas → Keziah → Mary → Lily). Samuel Lewis and Lily Cushen were **third cousins**. See [topic](topics/pedigree-collapse-morgan-morgans.md).
+**Pedigree collapse:** Morgan MORGANS (I659) and Lettice (I660) each appear in **two** positions — slots 268/269 (via William → Anne → Catherine → Samuel) and slots 280/281 (via Thomas → Keziah → Mary → Lily). Samuel Lewis and Lily Cushen were **third cousins**. See [topic](topics/the-centimorgan-morgans.md).
 
 ---
 
@@ -271,7 +271,7 @@ Listed by family branch. Only known slots shown.
 
 #### MORGAN line (Llywel → 1776) — pedigree collapse
 
-Morgan Morgans and Lettice appear at **two positions** in the chart: slots 268–269 (via William Morgan → Anne → Catherine Griffiths → Samuel Lewis) and slots 280–281 (via Thomas Morgan → Keziah → Mary Morgan → Lily Cushen). This is a [pedigree collapse](topics/pedigree-collapse-morgan-morgans.md) — Samuel and Lily were third cousins.
+Morgan Morgans and Lettice appear at **two positions** in the chart: slots 268–269 (via William Morgan → Anne → Catherine Griffiths → Samuel Lewis) and slots 280–281 (via Thomas Morgan → Keziah → Mary Morgan → Lily Cushen). This is a [pedigree collapse](topics/the-centimorgan-morgans.md) — Samuel and Lily were third cousins.
 
 | # | Gen | Name | Surname | Dates | Location | ID | Page |
 |---|-----|------|---------|-------|----------|-----|------|

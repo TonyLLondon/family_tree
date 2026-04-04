@@ -1,0 +1,45 @@
+title: "Certi Ricordi — Zerauschek-Addobbati family history scrapbook"
+author: Fulvia Zerauschek Lewis
+date_compiled: ~1990s
+description: >
+  A 165-page family history scrapbook compiled by Fulvia Zerauschek Lewis
+  (née Zerauschek, granddaughter of Antonio Zerauschek and Ester Addobbati).
+  Titled "Zerauschek - Addobbati: Certi Ricordi" (Certain Memories), the album
+  combines handwritten Italian narrative, family photographs, postcards,
+  business documents, printed historical pages (including extracts from
+  Sabalich's 1897 Guida archeologica di Zara), and magazine clippings into
+  a curated visual family history.
+
+  The album covers the Zerauschek-Addobbati world in Zara (Zadar): the
+  Addobbati lineage from 1495 Bergamo, civic life under Venice/Austria/Italy,
+  the Ausonia chocolate factory, Antonio's business ventures, pre-war and
+  wartime Zara, the Dalmatian exile, and later life in Hove, England.
+
+  Compiled for the next generation — the opening epigraph quotes Caesar:
+  "Meglio essere il primo al proprio paese... che il secondo a Roma!"
+
+format: physical scrapbook (scanned page images)
+pages: 166
+  main: 130 (Nonna000.jpg – Nonna128.jpg)
+  supplement: 36 (FLSupplMA-001.jpg – FLSupplMA-036.jpg)
+
+files:
+  media_reference: media/docs/certi-ricordi/
+  transcription: reference.md
+
+people:
+  - I14   # Antonio Zerauschek (1889–1973)
+  - I15   # Ester Addobbati (1896–1971)
+  - I9    # Fulvia Zerauschek (1923–2000)
+  - I20   # Pietro Pio Addobbati (1852–1919)
+  - I25   # Antonio Zerauschek sr (1850–1899)
+  - I29   # Vincenzo Addobbati (1781–1839)
+  - I54   # Simeone Gilberto Addobbati
+
+related_corpus:
+  - sabalich-guida-zara-addobbati
+  - famhist-nonna-memoir-1996
+  - andaz-zara-1973-antonio-zerauschek-obituary
+  - difesa-adriatica-1973-antonio-zerauschek-obituary
+  - zadarskitjednik-ausonia-tvornica-cokolade
+  - poslovni-hr-2011-ausonia-zadar-zerauschek
