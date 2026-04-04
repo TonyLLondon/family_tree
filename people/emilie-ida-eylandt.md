@@ -40,6 +40,7 @@ Hermann died in **Riga** in **January 1872**. Emilie survived him by only six mo
 
 - **treeId** **I299**, **F140**, **F142**.
 - **Archival records (Saaga):** [Estonian National Archives — Erbe / Eylandt archival references](../sources/corpus/saaga-eaa-erbe-eylandt-archival-refs/reference.md) — birth/baptism in Tallinn (TLA.31.1.34:171, naming parents Johann Jakob Eylandt and Marie Elisabeth Busse). Exact archival shelf mark for the FamilySearch indexed record.
+- **Geni profile** ([Elle Kiiker](https://www.geni.com/people/Emilie-Ida-Erbe/6000000007283455509)): secondary source for dates, parentage, and archival citations. See [Saaga archival references](../sources/corpus/saaga-eaa-erbe-eylandt-archival-refs/reference.md).
 - **Baptism, marriage, burial:** [Estonia Church Books — Eylandt / Busse / Erbe / Stump records](../sources/corpus/fs-estonia-church-books-eylandt-busse/reference.md) — baptism (2 Apr 1812, record 6DQP-5GFZ, parents named); marriage to Hermann Erbe (27 Mar 1839, record 6XXJ-B453); burial (18 Jul 1872, record 6DQJ-KBDL).
 - **Web:** named as **M.: Emilie, geb. Eylandt** on son Eugen's [BBLD entry](https://bbld.de/GND1173663347); summary table [erbe-baltic-german-web-references.md](../sources/erbe-baltic-german-web-references.md).
 - MyHeritage URL in **`@S43@`** on Emilie's block.

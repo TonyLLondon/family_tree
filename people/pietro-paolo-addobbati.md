@@ -52,3 +52,4 @@ Sabalich (p. 508) records that the Addobbati family, after arriving in Zara, int
 - **Marriage register, 26 Oct 1845:** groom “Addobbati, Pietro” born 27 Apr 1815, *Impiegato*; bride “Gerarda Rovero Brizzi” born 12 Jul 1825, underage (Praetor's consent 14 Jul 1845); parents Vincenzo Addobbati / Vincenza Coltelli and Giuseppe Rovero Brizzi / Anastasia Castellanovich; witnesses Giuseppe Tenni Cupilli and Giuseppe Sebasticho (Accounts Officers) — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Rovaro Brizzi Zara 1845.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Rovaro%20Brizzi%20Zara%201845.jpg).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 - **Tree id:** **I23**, families F12 / F14, source `@S12@`; MyHeritage Geni URL in SOUR.
+- [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).

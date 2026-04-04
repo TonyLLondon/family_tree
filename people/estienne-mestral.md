@@ -8,7 +8,7 @@ children:
 
 # Estienne Mestral
 
-Estienne Mestral was the father of [Françoise Mestral](francoise-mestral.md), identified in the family register entry of 4 March 1688 at Céligny ([6NQL-D1L7](https://www.familysearch.org/ark:/61903/1:1:6NQL-D1L7)). Françoise married [Antoine Chenevard](antoine-chenevard.md).
+Estienne Mestral was the father of [Françoise Mestral](francoise-mestral.md), identified in the family register entry of 4 March 1688 at Céligny (6NQL-D1L7). Françoise married [Antoine Chenevard](antoine-chenevard.md).
 
 ## Family
 
@@ -18,4 +18,4 @@ Estienne Mestral was the father of [Françoise Mestral](francoise-mestral.md), i
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQL-D1L7](https://www.familysearch.org/ark:/61903/1:1:6NQL-D1L7) | Named as parent of Françoise Mestral in family register, 4 Mar 1688 | — |
+| 6NQL-D1L7 | Named as parent of Françoise Mestral in family register, 4 Mar 1688 | [corpus](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |

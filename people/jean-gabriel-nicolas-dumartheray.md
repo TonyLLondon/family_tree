@@ -11,7 +11,7 @@ children:
 
 # Jean Gabriel Nicolas Dumartheray
 
-Jean Gabriel Nicolas Dumartheray was the father of [Jeanne Françoise Dumartheray](jeanne-francoise-dumartheray.md) and the husband of [Jeanne Elisabeth Borel](jeanne-elisabeth-borel.md). His father was **Jaques Dumartheray**, confirmed by the family register from 4 August 1767 ([6JCK-2SH2](https://www.familysearch.org/ark:/61903/1:1:6JCK-2SH2)).
+Jean Gabriel Nicolas Dumartheray was the father of [Jeanne Françoise Dumartheray](jeanne-francoise-dumartheray.md) and the husband of [Jeanne Elisabeth Borel](jeanne-elisabeth-borel.md). His father was **Jaques Dumartheray**, confirmed by the family register from 4 August 1767 (6JCK-2SH2).
 
 The Dumartheray surname is from the Canton de Vaud. Through his daughter's marriage to Louis Montagnon and their daughter Jeanne Bénigne's marriage to Jakob Stump, he is a direct ancestor of [Marc François Stump](marc-francois-stump.md).
 
@@ -25,8 +25,8 @@ The Dumartheray surname is from the Canton de Vaud. Through his daughter's marri
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6JCK-2SH2](https://www.familysearch.org/ark:/61903/1:1:6JCK-2SH2) | Family register — Dumartheray × Borel, 4 Aug 1767 | [corpus](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
-| [6JCK-8LQQ](https://www.familysearch.org/ark:/61903/1:1:6JCK-8LQQ) | Baptism of daughter Jeanne Françoise, 25 Mar 1775 | [corpus](../sources/corpus/1775-baptism-jeanne-francoise-dumartheray/reference.md) |
+| 6JCK-2SH2 | Family register — Dumartheray × Borel, 4 Aug 1767 | [corpus](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
+| 6JCK-8LQQ | Baptism of daughter Jeanne Françoise, 25 Mar 1775 | [corpus](../sources/corpus/1775-baptism-jeanne-francoise-dumartheray/reference.md) |
 
 ## Open questions
 

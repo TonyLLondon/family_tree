@@ -46,7 +46,7 @@ He died in Zara on 28 January 1839. The 1845 marriage of his posthumous “voice
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — 1 July 1804 Nin municipal confirmation — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Celić 1806 census:** “Vicko Addobbati” in Zara citizen council — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Tree id:** **I29**, families F14 / F15; FamilySearch GW1S-CGK.
+- **Tree id:** **I29**, families F14 / F15; [FamilySearch collaborative tree](../sources/corpus/fs-tree-addobbati-zadar/reference.md) (GW1S-CGK); [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).
 
 ## Open questions
 

@@ -38,7 +38,7 @@ His son [Louis Montagnon](louis-montagnon.md) married Jeanne Françoise Dumarthe
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQL-FNTW](https://www.familysearch.org/ark:/61903/1:1:6NQL-FNTW) | Family register — JF Louis × Chenevard, 28 Oct 1761, parents confirmed | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
-| [6NQL-3F71](https://www.familysearch.org/ark:/61903/1:1:6NQL-3F71) | Burial — J Louis Montagnon, 4 Feb 1786, Aubonne, b. 1737 | [corpus](../sources/corpus/1786-burial-j-louis-montagnon-aubonne/reference.md) |
-| [6NQV-CLT5](https://www.familysearch.org/ark:/61903/1:1:6NQV-CLT5) | Baptism — son Henri Samuel, 12 Oct 1764, Aubonne | [corpus](../sources/corpus/1764-baptism-henri-samuel-montagnon-aubonne/reference.md) |
-| [6NQG-YBTS](https://www.familysearch.org/ark:/61903/1:1:6NQG-YBTS) | Family register — son Louis Montagnon × Dumartheray | [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
+| 6NQL-FNTW | Family register — JF Louis × Chenevard, 28 Oct 1761, parents confirmed | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
+| 6NQL-3F71 | Burial — J Louis Montagnon, 4 Feb 1786, Aubonne, b. 1737 | [corpus](../sources/corpus/1786-burial-j-louis-montagnon-aubonne/reference.md) |
+| 6NQV-CLT5 | Baptism — son Henri Samuel, 12 Oct 1764, Aubonne | [corpus](../sources/corpus/1764-baptism-henri-samuel-montagnon-aubonne/reference.md) |
+| 6NQG-YBTS | Family register — son Louis Montagnon × Dumartheray | [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |

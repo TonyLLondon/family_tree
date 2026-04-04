@@ -22,7 +22,7 @@ She was the wife of [Francisco Antonio Pérez Avejares](francisco-antonio-perez-
 ## Evidence
 
 - **Tree id:** **I351** — union **F164**.
-- FamilySearch tree (via [Laurencia GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)) — "Soraida del Carmen Escobar Muñoz", b. 1885.
+- FamilySearch tree (via **GJ1B-GS3**) — "Soraida del Carmen Escobar Muñoz", b. 1885.
 - Research hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
 
 ## Open questions

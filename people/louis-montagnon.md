@@ -16,7 +16,7 @@ children:
 
 Louis Montagnon was the father of [Jeanne Bénigne Montagnon](jeanne-benigne-montagnon.md) and the husband of [Jeanne Françoise Dumartheray](jeanne-francoise-dumartheray.md). He was the son of **Jean François Louis Montagnon** (b. ~1737, d. 1786, Aubonne) and **Jaqueline Suzanne Chenevard** (b. 1732, Céligny).
 
-The family register ([6NQG-YBTS](https://www.familysearch.org/ark:/61903/1:1:6NQG-YBTS)) identifies both his parents (Jean Louis Montagnon + Susanne Cheneveau) and his wife's parents (Jean Gabriel Nicolas Dumartheray + Elisabeth Borrel). The Montagnon family was concentrated around Aubonne on the northern shore of Lac Léman in western Switzerland.
+The family register (6NQG-YBTS) identifies both his parents (Jean Louis Montagnon + Susanne Cheneveau) and his wife's parents (Jean Gabriel Nicolas Dumartheray + Elisabeth Borrel). The Montagnon family was concentrated around Aubonne on the northern shore of Lac Léman in western Switzerland.
 
 ## Family
 
@@ -29,4 +29,4 @@ The family register ([6NQG-YBTS](https://www.familysearch.org/ark:/61903/1:1:6NQ
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQG-YBTS](https://www.familysearch.org/ark:/61903/1:1:6NQG-YBTS) | Family register — Louis Montagnon × Dumartheray | [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
+| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray | [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |

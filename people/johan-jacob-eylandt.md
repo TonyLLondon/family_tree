@@ -53,6 +53,7 @@ Maria Elisabeth died in **February 1823**, leaving Johan Jacob with children ran
 
 - **treeId** **I302**, **F142**, **F143**.
 - **Marriage and children's baptisms:** [Estonia Church Books — Eylandt / Busse / Erbe / Stump records](../sources/corpus/fs-estonia-church-books-eylandt-busse/reference.md).
+- **Geni profile** ([Andrey Masing](https://www.geni.com/people/Johann-Jakob-Eylandt/6000000028779240899)): secondary source for dates, parentage, and archival citations. See [Saaga archival references](../sources/corpus/saaga-eaa-erbe-eylandt-archival-refs/reference.md).
 - MyHeritage URL in **`@S43@`** ("Johann Jakob Eylandt born Eiland").
 
 ## Open questions

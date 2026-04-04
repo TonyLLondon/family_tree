@@ -29,5 +29,5 @@ She outlived her husband by 16 years. Her name appears in records as both "Cusin
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQK-33DR](https://www.familysearch.org/ark:/61903/1:1:6NQK-33DR) | Burial — 4 Dec 1753, Aubonne, b. 1685, spouse Pierre Montagnon | — |
-| [6NQL-FNTW](https://www.familysearch.org/ark:/61903/1:1:6NQL-FNTW) | Named as mother "Jeanne Cusin" in son's marriage register, 1761 | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
+| 6NQK-33DR | Burial — 4 Dec 1753, Aubonne, b. 1685, spouse Pierre Montagnon | — |
+| 6NQL-FNTW | Named as mother "Jeanne Cusin" in son's marriage register, 1761 | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |

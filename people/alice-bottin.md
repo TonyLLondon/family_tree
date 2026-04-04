@@ -32,8 +32,8 @@ Second child of [Julien Bottin](julien-bottin.md) and [Fanny Burgess](fanny-burg
 
 ## Evidence
 
-- [Marriage record image — Liège 1914](../media/docs/1914-alice-bottin-majewski-marriage-liege.jpg) · FamilySearch [6JB6-VNK1](https://www.familysearch.org/ark:/61903/1:1:6JB6-VNK1) (Belgium, Liège, Church and Civil Registration, 1590-1947).
-- [1901 census — Bottin household, Hammersmith](../media/docs/1901%20census%20London%20Hammersmith%20Blomfield%20Road%20RG13-42%20page%201%20Bottin%20household.png) · FamilySearch [X94C-5N3](https://www.familysearch.org/ark:/61903/1:1:X94C-5N3).
+- [Marriage record image — Liège 1914](../media/docs/1914-alice-bottin-majewski-marriage-liege.jpg) · [corpus](../sources/corpus/1914-marriage-alice-bottin-liege/reference.md) · FamilySearch 6JB6-VNK1 (Belgium, Liège, Church and Civil Registration, 1590-1947).
+- [1901 census — Bottin household, Hammersmith](../media/docs/1901%20census%20London%20Hammersmith%20Blomfield%20Road%20RG13-42%20page%201%20Bottin%20household.png) · [corpus](../sources/corpus/1901-census-bottin-household-hammersmith/reference.md) · FamilySearch X94C-5N3.
 
 ## Related narrative
 

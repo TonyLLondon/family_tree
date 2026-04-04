@@ -24,22 +24,22 @@ Jean François is the **probable but unconfirmed** father of three Montagnon men
 
 ## Montagnon origins
 
-The surname Montagnon is concentrated in the Isère (Dauphiné) and Ardèche (Vivarais) regions of southeastern France. A striking parallel record survives from Isère: "Pierre Montagnon, baptised 6 Oct 1669 at Parmilieu, Isère, father François Montagnon" ([6W4V-FW6Z](https://www.familysearch.org/ark:/61903/1:1:6W4V-FW6Z)) — a near-contemporary François Montagnon in Huguenot country. Jean Montagnon's arrival in Vaud likely dates to the mid-1600s, coinciding with Huguenot resettlements in the Bernese territories.
+The surname Montagnon is concentrated in the Isère (Dauphiné) and Ardèche (Vivarais) regions of southeastern France. A striking parallel record survives from Isère: "Pierre Montagnon, baptised 6 Oct 1669 at Parmilieu, Isère, father François Montagnon" (6W4V-FW6Z) — a near-contemporary François Montagnon in Huguenot country. Jean Montagnon's arrival in Vaud likely dates to the mid-1600s, coinciding with Huguenot resettlements in the Bernese territories.
 
 ## Family
 
 - Father: [Jean Montagnon](jean-montagnon.md) (earliest known ancestor)
 - Wife: [Jeane Marechal](jeane-marechal.md) (b. 1665, d. 1742, Aubonne)
 - Probable son: [Jean Pierre Montagnon](jean-pierre-montagnon.md) (b. 1692, d. 1737) — direct ancestor, **unconfirmed**
-- Probable son: Jean François Montagnon (b. 1694, d. 1778, Aubonne — [6NQK-38LB](https://www.familysearch.org/ark:/61903/1:1:6NQK-38LB)) — **unconfirmed**
-- Probable son: Jean Michel Montagnon (b. 1699, d. 1772, Aubonne — [6NQ2-GY33](https://www.familysearch.org/ark:/61903/1:1:6NQ2-GY33)) — **unconfirmed**
-- Sister: Elisabet Montagnon (bap. 7 Nov 1670, father Jean Montagnon — [6NQK-XSP4](https://www.familysearch.org/ark:/61903/1:1:6NQK-XSP4))
+- Probable son: Jean François Montagnon (b. 1694, d. 1778, Aubonne — 6NQK-38LB) — **unconfirmed**
+- Probable son: Jean Michel Montagnon (b. 1699, d. 1772, Aubonne — 6NQ2-GY33) — **unconfirmed**
+- Sister: Elisabet Montagnon (bap. 7 Nov 1670, father Jean Montagnon — 6NQK-XSP4)
 
 ## Evidence
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQK-Q676](https://www.familysearch.org/ark:/61903/1:1:6NQK-Q676) | Baptism — "François Montagnon," 22 Dec 1667, father Jean Montagnon | [corpus](../sources/corpus/1667-baptism-francois-montagnon/reference.md) |
-| [6NQ2-1RZ1](https://www.familysearch.org/ark:/61903/1:1:6NQ2-1RZ1) | Burial — Jean François Montagnon, 15 Sep 1732, Aubonne, b. 1666 | — |
-| [6NQ2-2PNZ](https://www.familysearch.org/ark:/61903/1:1:6NQ2-2PNZ) | Burial — wife Jeane Marechal Montagnon, 11 Jul 1742, Aubonne | [corpus](../sources/corpus/1742-burial-jeane-marechal-montagnon-aubonne/reference.md) |
-| [6NQK-XSP4](https://www.familysearch.org/ark:/61903/1:1:6NQK-XSP4) | Baptism — sister Elisabet Montagnon, 7 Nov 1670, father Jean Montagnon | [corpus](../sources/corpus/1670-baptism-elisabet-montagnon/reference.md) |
+| 6NQK-Q676 | Baptism — "François Montagnon," 22 Dec 1667, father Jean Montagnon | [corpus](../sources/corpus/1667-baptism-francois-montagnon/reference.md) |
+| 6NQ2-1RZ1 | Burial — Jean François Montagnon, 15 Sep 1732, Aubonne, b. 1666 | — |
+| 6NQ2-2PNZ | Burial — wife Jeane Marechal Montagnon, 11 Jul 1742, Aubonne | [corpus](../sources/corpus/1742-burial-jeane-marechal-montagnon-aubonne/reference.md) |
+| 6NQK-XSP4 | Baptism — sister Elisabet Montagnon, 7 Nov 1670, father Jean Montagnon | [corpus](../sources/corpus/1670-baptism-elisabet-montagnon/reference.md) |

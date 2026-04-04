@@ -4,7 +4,33 @@ Collection: **Estonia, Church Books and Synagogue Registers, 1590–1941** (Fami
 
 Searched **2026-04-03** using `scripts/fs_search.py records` with surname variants Eylandt / Eyland / Eiland / Busse / Erbe / Stump and given-name + date filters. All records below are indexed entries from digitised Estonian Lutheran parish registers.
 
-This reference covers the continuous direct line from **Olga Caroline Erbe** (Gen 7) back through the **Eylandt**, **Busse**, and **Bohm** lines to Gen 11.
+This reference covers the continuous direct line from **Olga Caroline Erbe** (Gen 7) back through the **Eylandt**, **Busse**, **Erbe**, and **Bohm** lines to Gen 11, plus the newly discovered **Eiland** baptisms at Hageri and the **Erbe × Heimberger** marriage and children.
+
+---
+
+## Carl Gustaw Eiland — baptism (parents named)
+
+| Field | Value |
+|-------|-------|
+| Record ID | [6D7M-XM29](https://www.familysearch.org/ark:/61903/1:1:6D7M-XM29) |
+| Event | Baptism, **29 September 1743**, Hageri, Raplamaa |
+| Child | Carl Gustaw Eiland |
+| Born | 25 September 1743 |
+| Father | **Caspar Eiland** |
+| Mother | **Hedwig Helena Busch** |
+| Image ARK | `3:1:3Q9M-CS9S-G3JJ-5` |
+
+**This is the record that was previously listed as "NOT found" in the FamilySearch index.** It was found by searching the "Eiland" spelling variant rather than "Eylandt." The indexed baptism directly names both parents and proves Carl Gustav's parentage — matching the Saaga archival ref `EAA.3154.2.2:177` and all six Kirbla family lists. Birth date 25 September 1743 is consistent with the burial record `6D73-GFCY` (birth year 1743).
+
+## Children of Caspar Eiland & Hedwig Helena Busch — baptisms, Hageri
+
+| Child | Born | Baptized | Record ID | Image ARK |
+|-------|------|----------|-----------|-----------|
+| Cäsper Marten Eiland | 20 Sep 1740 | 23 Sep 1740 | [6D7M-45JB](https://www.familysearch.org/ark:/61903/1:1:6D7M-45JB) | `3:1:3Q9M-CS9S-G3JF-6` |
+| **Carl Gustaw Eiland** | 25 Sep 1743 | 29 Sep 1743 | [6D7M-XM29](https://www.familysearch.org/ark:/61903/1:1:6D7M-XM29) | `3:1:3Q9M-CS9S-G3JJ-5` |
+| Anna Catharina Eiland | 8 Feb 1748 | 13 Feb 1748 | [6D7M-CBQV](https://www.familysearch.org/ark:/61903/1:1:6D7M-CBQV) | `3:1:3Q9M-CS9S-G3JV-X` |
+
+Three children baptized at Hageri across eight years. Mother's name appears as "Hedwig Helena Busch," "Hedwig Helena Busoh," and simply "Hedvig" across entries. All three baptisms independently confirm Caspar and Hedwig Helena as parents.
 
 ---
 
@@ -217,6 +243,22 @@ If this is our Georg Busse (I308), he died aged 29. Ernst Gottlieb would have be
 
 ---
 
+## Christina Elisabeth Schittmar — baptism (sibling of Anna Christina)
+
+| Field | Value |
+|-------|-------|
+| Record ID | [6DQP-HCXK](https://www.familysearch.org/ark:/61903/1:1:6DQP-HCXK) |
+| Event | Baptism, **25 April 1759**, Viljandi |
+| Child | Christina Elisabeth Schittmar |
+| Born | April 1759 |
+| Father | **Schittmar** (= Christian Friedrich Schittmar) |
+| Mother | **Anne** |
+| Image ARK | `3:1:3Q9M-CS9K-D3GX-Z` |
+
+Confirms the Schittmar family in Viljandi. Father indexed only as "Schittmar" — consistent with Christian Friedrich Schittmar, father of Anna Christina (I307). Christina Elisabeth is a sibling of our direct ancestor.
+
+---
+
 ## Ernst Gottlieb Busse × Anna Christiane Schittmar — marriage
 
 | Field | Value |
@@ -245,6 +287,42 @@ Confirms Ernst Gottlieb's second marriage — his second wife is indexed as "Chr
 
 ---
 
+## Georg Sigismund Erbe × Sophie Dorothea Caroline — marriage
+
+| Field | Value |
+|-------|-------|
+| Record ID | [6DQ2-YL5V](https://www.familysearch.org/ark:/61903/1:1:6DQ2-YL5V) |
+| Event | Marriage, **1 November 1804** |
+| Groom | Joh Georg Siegm Erbe |
+| Bride | Soph Doroth Caroline (= Sophie Dorothea Caroline Heimberger) |
+| Image ARK | `3:1:3Q9M-CS9J-CH2P-Z` |
+
+The bride's surname is not indexed — only her given names "Soph Doroth Caroline" appear. Geni researchers identify her as Caroline Sophie (Dorothea) Heimberger, born ~1781 in Gotha, Thuringia.
+
+## Georg Sigismund Erbe — burial
+
+| Field | Value |
+|-------|-------|
+| Record ID | [6DQN-K5JG](https://www.familysearch.org/ark:/61903/1:1:6DQN-K5JG) |
+| Event | Burial, **1 November 1841** |
+| Death | 28 October 1841 |
+| Birth year (index) | 1771 |
+| Image ARK | `3:1:S3HY-6QRQ-V41` |
+
+Also indexed as [6XXJ-MDKZ](https://www.familysearch.org/ark:/61903/1:1:6XXJ-MDKZ) (Pärnu, birth year 1770). Geni gives birth in Gotha, Thuringia, ~1771, and death in Riga. The burial register places the event near Pärnu, where he served as school inspector.
+
+## Children of Georg Sigismund Erbe & Caroline Sophie Heimberger — baptisms and burials
+
+| Child | Born | Baptized | Place | Record ID | Image ARK |
+|-------|------|----------|-------|-----------|-----------|
+| Carl Wilhelm Sigimund Erbe | 29 Aug 1808 | 6 Sep 1808 | Simuna | [6D79-WJBV](https://www.familysearch.org/ark:/61903/1:1:6D79-WJBV) | `3:1:3Q9M-CS9J-CHPP-1` |
+| Ulrich Johan Erbe (burial) | ~1809 | bur. 5 Jul 1814 | — | [6D79-JLQG](https://www.familysearch.org/ark:/61903/1:1:6D79-JLQG) | — |
+| **Hermann Eberhard Erbe** | ~1814 | — | Rakvere? | — | — |
+
+Carl Wilhelm's baptism names the mother as **Caroline Heimberger** — the first FamilySearch-indexed record to confirm her surname. Ulrich Johan died aged ~5; his burial record names parent as "Erbe" without further detail. Hermann's baptism remains unindexed in FamilySearch (Saaga ref `EAA.3057.2.3:290`).
+
+---
+
 ## Hermann Eberhard Erbe — burial
 
 | Field | Value |
@@ -268,7 +346,9 @@ BBLD and Geni give death place as **Riga**, but the burial register is Tallinn. 
 | Bride | Demoiselle Emilie Ida Eÿland |
 | Image ARK | `3:1:S3HT-DTVS-3B1` |
 
-A separate register entry from the marriage record `6XXJ-B453` — possibly a Proklamation (banns announcement) or a different parish's copy. Both confirm the 27 March 1839 marriage.
+A separate register entry from the marriage record `6XXJ-B453` — possibly a Proklamation (banns announcement) or a different parish's copy.
+
+Also indexed as [6DQC-1C7G](https://www.familysearch.org/ark:/61903/1:1:6DQC-1C7G) — heavily misread by the indexer as "Herrmann Ehrenhard **Ecke**" × "Emilie Ida **Eylenadt**", but the citation date (21 Mar 1839) and image ARK (`3:1:S3HT-6R73-VW9`) confirm it is the same event. Three index entries from different register copies all confirm the marriage.
 
 ## Children of Hermann Eberhard Erbe × Emilie Ida Eylandt — baptisms and burials
 
@@ -332,19 +412,22 @@ The following direct-ancestor baptism/christening records were searched but have
 |--------|---------------|--------|-----------|------------|-----------|--------|
 | **Hermann Eberhard Erbe** (I298) | Baptism | Rakvere | ~1814 | — | **EAA.3057.2.3:290** | Saaga cited, not yet verified |
 | **Johan Jacob Eylandt** (I302) | Baptism | Leal / Lihula | ~1774 | [663593](https://www.familysearch.org/search/catalog/663593) | — | No ref; but 1795 family list **EAA.1864.2.V-67:227** proves parentage |
-| **Carl Gustav Eylandt** (I304) | Baptism | Hageri | ~1743/47 | [620449](https://www.familysearch.org/search/catalog/620449) | **EAA.3154.2.2:177** | Saaga cited (baptism, "Sünd"), not yet verified |
+| ~~**Carl Gustav Eylandt** (I304)~~ | ~~Baptism~~ | ~~Hageri~~ | ~~~1743~~ | — | — | **FOUND** — see `6D7M-XM29` above |
 | **Ernst Gottlieb Busse** (I306) | Baptism | Tallinn | ~1748 | — | **EAA.1002.1.67:11** (1786 Einwohnerbuch) | Supported by civic record listing family |
 | **Olga Caroline Erbe** (I141) | Baptism | St Petersburg | ~1844 | (different collection) | — | Supported by press + siblings' records |
+| **Georg Sigismund Erbe** (I299) | Baptism | Gotha, Germany | ~1771 | — | — | Born in Thuringia; no FS index result for German records |
 
-**Hermann's** parentage (Georg Sigismund × Caroline Sophie) is cited by Geni researcher Elle Kiiker with archival ref `EAA.3057.2.3:290` — the Rakvere church book scan on Saaga. Once verified against the image, this moves from "cited" to "proven."
+**Carl Gustav's** baptism was found by searching under the "**Eiland**" spelling variant: record `6D7M-XM29`, baptism 29 Sep 1743 at Hageri, parents Caspar Eiland and Hedwig Helena Busch. This moves his parentage from "Saaga cited" to **directly proven on FamilySearch**. The Saaga ref `EAA.3154.2.2:177` refers to the same underlying parish register.
+
+**Hermann's** parentage (Georg Sigismund × Caroline Sophie) is cited by Geni researcher Elle Kiiker with archival ref `EAA.3057.2.3:290` — the Rakvere church book scan on Saaga. The FS marriage `6DQ2-YL5V` (1 Nov 1804) and son Carl Wilhelm's baptism `6D79-WJBV` (naming mother "Caroline Heimberger") corroborate the marriage but do not prove Hermann's own birth. Once `EAA.3057.2.3:290` is verified against the image, this moves from "cited" to "proven."
 
 **Johan Jacob's** parentage (Carl Gustav × Margarete) is proven by the 1795 Kirbla family list `EAA.1864.2.V-67:227` (cited by Geni researcher Andrey Masing), which lists him in Carl Gustav's household. No baptism record has been found separately.
 
-**Carl Gustav's** parentage (Caspar × Hedwig Helene) is now cited by Geni researcher Maris Lindau with baptism ref `EAA.3154.2.2:177` ("Sünd"). Six Kirbla family lists (1782–1834) also document the Carl Gustav Eyland household across four decades.
+**Ernst Gottlieb's** parentage (Georg × Bischanz) has no indexed baptism record, but the 1786 Viljandi Einwohnerbuch `EAA.1002.1.67:11` (cited by Geni researcher Maris Lindau) lists Ernst Gottlieb with wife and family. His father Georg Busse's baptism `6DQX-HJ7K` (25 Oct 1727, Tallinn) and marriage to Margaretha Elisab Bischanz `6DQC-BNCL` (9 Feb 1744) are now documented above.
 
-**Ernst Gottlieb's** parentage (Georg × Bischanz) has no indexed baptism record, but the 1786 Viljandi Einwohnerbuch `EAA.1002.1.67:11` (cited by Geni researcher Maris Lindau) lists Ernst Gottlieb with wife and family, providing civic-record corroboration of the family structure.
+**Georg Sigismund Erbe** was born in **Gotha, Thuringia** (~1771) and no FamilySearch result was found in German Lutheran records for a Georg Erbe baptism in Gotha. His marriage `6DQ2-YL5V` and burial `6DQN-K5JG` are documented in Estonian records above.
 
-**No link in the direct Olga → Gen 11 line is now without at least one archival citation.**
+**No link in the direct Olga → Gen 11 line is now without at least one archival citation.** Carl Gustav's parentage is the only one now directly proven via an indexed FamilySearch baptism.
 
 ---
 

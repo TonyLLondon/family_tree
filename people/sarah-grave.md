@@ -25,7 +25,7 @@ children:
 
 ## Evidence
 
-- **Tree id:** **I89** — unions **F42**, **F43**; FamilySearch **[LHDT-5R5](https://www.familysearch.org/tree/person/details/LHDT-5R5)**.
+- **Tree id:** **I89** — unions **F42**, **F43**; FamilySearch **LHDT-5R5**.
 
 ## Open questions
 

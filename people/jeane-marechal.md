@@ -26,4 +26,4 @@ She survived her husband by ten years. She is the probable but **unconfirmed** m
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQ2-2PNZ](https://www.familysearch.org/ark:/61903/1:1:6NQ2-2PNZ) | Burial — Jeane Marechal Montagnon, 11 Jul 1742, Aubonne, b. 1665, spouse François Montagnon | [corpus](../sources/corpus/1742-burial-jeane-marechal-montagnon-aubonne/reference.md) |
+| 6NQ2-2PNZ | Burial — Jeane Marechal Montagnon, 11 Jul 1742, Aubonne, b. 1665, spouse François Montagnon | [corpus](../sources/corpus/1742-burial-jeane-marechal-montagnon-aubonne/reference.md) |

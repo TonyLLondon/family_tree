@@ -9,7 +9,7 @@ children:
 
 # Bernard Chenevard
 
-Bernard Chenevard is the earliest confirmed ancestor of the Chenevard line at Céligny. He is known only from his son [Antoine Chenevard](antoine-chenevard.md)'s burial record ([6NQ2-314L](https://www.familysearch.org/ark:/61903/1:1:6NQ2-314L), 24 Jul 1733) and family register entries, where he is named as Antoine's father.
+Bernard Chenevard is the earliest confirmed ancestor of the Chenevard line at Céligny. He is known only from his son [Antoine Chenevard](antoine-chenevard.md)'s burial record (6NQ2-314L, 24 Jul 1733) and family register entries, where he is named as Antoine's father.
 
 The Chenevard surname clusters at Céligny (Geneva) and Jorat-Mézières (Vaud), with a parallel French branch at Seveux, Haute-Saône (Franche-Comté).
 
@@ -21,5 +21,5 @@ The Chenevard surname clusters at Céligny (Geneva) and Jorat-Mézières (Vaud),
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQ2-314L](https://www.familysearch.org/ark:/61903/1:1:6NQ2-314L) | Named as father in Antoine's burial, 24 Jul 1733 | — |
-| [6NQL-D1L7](https://www.familysearch.org/ark:/61903/1:1:6NQL-D1L7) | Named as father in Antoine's family register, 4 Mar 1688 | — |
+| 6NQ2-314L | Named as father in Antoine's burial, 24 Jul 1733 | [corpus](../sources/corpus/1733-burial-antoine-chenevard-celigny/reference.md) |
+| 6NQL-D1L7 | Named as father in Antoine's family register, 4 Mar 1688 | [corpus](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |

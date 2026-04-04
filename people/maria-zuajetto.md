@@ -24,7 +24,7 @@ The 1850 marriage register of her daughter records her as **"Quajetto Maria, di 
 ## Evidence
 
 - **Tree id:** **I390** — union **F183**.
-- **Marriage register of daughter Antonia Maria, Entry 30, 24 Aug 1850 (Zara):** "Quajetto Maria ... di Venezia, Cusitrice" — [local image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg) · [FamilySearch image](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G99X-26RK?cat=664761&i=515&lang=en).
+- **Marriage register of daughter Antonia Maria, Entry 30, 24 Aug 1850 (Zara):** "Quajetto Maria ... di Venezia, Cusitrice" — [local image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg) · [corpus](../sources/corpus/1850-marriage-zerauschek-guerino-zara/reference.md) · FamilySearch image ARK 3:1:3QSQ-G99X-26RK.
 
 ## Open questions
 

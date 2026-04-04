@@ -19,7 +19,7 @@ children:
 
 # Hans Conrad Haag
 
-Hans Conrad Haag was baptised **24 June 1742** at **Hüttwilen**, Thurgau ([6F83-6YDJ](https://www.familysearch.org/ark:/61903/1:1:6F83-6YDJ)), son of **Johann Conrad Haag** and **Anna Barbara Erbig**. He married [Margaretha Freyenmuth](margaretha-freyenmuth.md) in **1765** ([FVJZ-3ZV](https://www.familysearch.org/ark:/61903/1:1:FVJZ-3ZV)), and they had at least eight children including [Anna Margaretha Hagg](anna-margaretha-hagg.md), who married [Hans Ulrich Stump](hans-ulrich-stump.md). Hans Conrad was buried **15 September 1803** at Hüttwilen ([6F87-6D7N](https://www.familysearch.org/ark:/61903/1:1:6F87-6D7N)), aged sixty-one.
+Hans Conrad Haag was baptised **24 June 1742** at **Hüttwilen**, Thurgau (6F83-6YDJ), son of **Johann Conrad Haag** and **Anna Barbara Erbig**. He married [Margaretha Freyenmuth](margaretha-freyenmuth.md) in **1765** (FVJZ-3ZV), and they had at least eight children including [Anna Margaretha Hagg](anna-margaretha-hagg.md), who married [Hans Ulrich Stump](hans-ulrich-stump.md). Hans Conrad was buried **15 September 1803** at Hüttwilen (6F87-6D7N), aged sixty-one.
 
 ## Life
 
@@ -39,13 +39,13 @@ Hans Conrad Haag was baptised **24 June 1742** at **Hüttwilen**, Thurgau ([6F83
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6F83-6YDJ](https://www.familysearch.org/ark:/61903/1:1:6F83-6YDJ) | Baptism — 24 Jun 1742, Hüttwilen | [corpus](../sources/corpus/1742-baptism-hans-conrad-haag-hüttwilen/reference.md) |
-| [FVJZ-3ZV](https://www.familysearch.org/ark:/61903/1:1:FVJZ-3ZV) | Marriage — 1765, Haag × Freyenmuth | [corpus](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
-| [6F87-6D7N](https://www.familysearch.org/ark:/61903/1:1:6F87-6D7N) | Burial — 15 Sep 1803, Hüttwilen | [corpus](../sources/corpus/1803-burial-hans-conrad-haag-hüttwilen/reference.md) |
+| 6F83-6YDJ | Baptism — 24 Jun 1742, Hüttwilen | [corpus](../sources/corpus/1742-baptism-hans-conrad-haag-hüttwilen/reference.md) |
+| FVJZ-3ZV | Marriage — 1765, Haag × Freyenmuth | [corpus](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
+| 6F87-6D7N | Burial — 15 Sep 1803, Hüttwilen | [corpus](../sources/corpus/1803-burial-hans-conrad-haag-hüttwilen/reference.md) |
 
 **Tree id:** **I182** — union **F92**; FamilySearch **KC92-TYB**.
 
 ## Open questions
 
-- **Johann Conrad Haag** (father): no baptism found; he had a daughter Anna Barbara b. 1713, so he was born by c. 1690. His marriage to Anna Barbara Erbig/Erbin is indexed ([FVJC-RPD](https://www.familysearch.org/ark:/61903/1:1:FVJC-RPD)).
+- **Johann Conrad Haag** (father): no baptism found; he had a daughter Anna Barbara b. 1713, so he was born by c. 1690. His marriage to Anna Barbara Erbig/Erbin is indexed (FVJC-RPD).
 - Margaretha Freyenmuth's parents and baptism not yet found.

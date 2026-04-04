@@ -56,8 +56,6 @@ The civic chronicle is dense—*Casa di Pietà*, *Università* of the citizens, 
 - **Baptism register, Metropolitan Church, Zara, 2 Nov [?] 1744:** — [media/collections/zerauschek/Zerauschek (1)/Birth Luigi Addobbati Zara 1744.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Luigi%20Addobbati%20Zara%201744.jpg).
 - **Marriage register, p. 163, 4 Apr 1766:** — [media/collections/zerauschek/Zerauschek (1)/Marriage Luigi Addobbati Plarinò Zara 1766.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Luigi%20Addobbati%20Plarin%C3%B2%20Zara%201766.jpg).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Tree id:** **I30**, families F15 / F16, source `@S12@`.</think>
+- **Tree id:** **I30**, families F15 / F16, source `@S12@`.
+- [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).
 
-
-<｜tool▁calls▁begin｜><｜tool▁call▁begin｜>
-StrReplace

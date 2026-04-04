@@ -23,4 +23,4 @@ Anna Barbara Erbig was the wife of [Johann Conrad Haag](johann-conrad-haag.md) a
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6F83-6YDJ](https://www.familysearch.org/ark:/61903/1:1:6F83-6YDJ) | Named as mother in son's baptism, 24 Jun 1742, Hüttwilen | [corpus](../sources/corpus/1742-baptism-hans-conrad-haag-hüttwilen/reference.md) |
+| 6F83-6YDJ | Named as mother in son's baptism, 24 Jun 1742, Hüttwilen | [corpus](../sources/corpus/1742-baptism-hans-conrad-haag-hüttwilen/reference.md) |

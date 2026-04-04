@@ -54,3 +54,4 @@ He died in Zara on 4 November 1832. The registers quiet; the briefs and decrees 
 - **Annotated portrait photograph (Zara album):** [PAddobbati01.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/PAddobbati01.jpg) — photograph of the painting with Fulvia's annotation: *"Zio Pietro Addobbati / Holder of the Order of the Holy Spear / 100 holders at any one time."* The Golden Spur cross is visible on his lapel; matches the miniature tradition and Stratico's 1786 investiture.
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 - **Tree id:** **I75** ([Structured family tree](../family-tree.json)).
+- [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).

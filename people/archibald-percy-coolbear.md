@@ -185,7 +185,7 @@ The Coolbear surname traces to a single Essex cluster around Mundon and Maldon o
 | 5 | Search **WO 363** (Army attestation papers) | TNA | Pre-RFC army career; clarify S. 8855C number — many WWI Army records were destroyed |
 | 6 | ~~**Hendon local papers** c. 1928; **electoral registers**~~ | Local archives / BNA | **Partial.** BNA newspaper search found three press appearances (see below); no death notice yet |
 | 7 | **Essex Record Office** (Maldon region) | Local archives | Parish records; enlistment context |
-| 8 | **FamilySearch API** search | [developer.familysearch.org](https://developer.familysearch.org/) | Free programmatic access to indexed records; search Coolbear births/deaths/census in Essex + Middlesex |
+| 8 | **FamilySearch API** search | via `scripts/fs_search.py` | Free programmatic access to indexed records; search Coolbear births/deaths/census in Essex + Middlesex |
 | 9 | ~~Download **AIR 78** microfilm PDFs~~ | [TNA Discovery](https://discovery.nationalarchives.gov.uk/details/r/C2132) | **Done.** Both pieces searched — no Archibald Coolbear/Colbear found on the free microfilm (see § AIR 78 above) |
 | 10 | ~~Obtain **RAF service record**~~ | TNA **AIR 79** / Fold3 | **In hand.** Service file piece 1122 captured as images (see Evidence) |
 | 11 | ~~Obtain **Medal Index Cards**~~ | TNA **WO 372** | **In hand.** Two MICs captured: Essex Regt (16694) and RFC/RAF (4677/125257) (see Evidence) |

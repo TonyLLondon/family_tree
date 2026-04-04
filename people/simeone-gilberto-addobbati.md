@@ -46,6 +46,7 @@ His end matched the theatre of his life. On 20 June 1926 he died in Zara while g
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — Teresianum, death at the ball, Lisette's death during 1943 exodus.
 - Context: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 - **Tree id:** **I54**, families F12 / F27.
+- [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).
 
 ### Zara album (pre-marriage album 01)
 

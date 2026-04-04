@@ -35,19 +35,19 @@ His marriage to [Olga Caroline Erbe](olga-caroline-erbe.md) on 22 June 1868 prod
 
 Death is the knot. The Dome parish register used in the 2005 report records 3 April 1903 at Yverdon with a Switzerland gloss, without a formal leave note—read as death abroad or incomplete bookkeeping. Some older tree versions still say mid-April 1903 in Tallinn; the narrative here follows the parish book until a Swiss civil image or burial entry contradicts it.
 
-Swiss christening data points to 10 March 1834 at Erlen; the same Estonian file quotes a February Yverdon line that may duplicate or conflict—calendar and place need one reconciled image. The FamilySearch indexed baptism ([FVFK-CQH](https://www.familysearch.org/ark:/61903/1:1:FVFK-CQH)) from "Switzerland, Baptisms, 1491-1940" confirms: Markus Franz Stump, christened 25 April 1834 at Erlen, born 10 March 1834, father Jakob Stump, mother Jeanne Benigne Montagnon. The Swiss church-book images for Erlen (collection 4138674) are restricted to FamilySearch Centers.
+Swiss christening data points to 10 March 1834 at Erlen; the same Estonian file quotes a February Yverdon line that may duplicate or conflict—calendar and place need one reconciled image. The FamilySearch indexed baptism (FVFK-CQH) from "Switzerland, Baptisms, 1491-1940" confirms: Markus Franz Stump, christened 25 April 1834 at Erlen, born 10 March 1834, father Jakob Stump, mother Jeanne Benigne Montagnon. The Swiss church-book images for Erlen (collection 4138674) are restricted to FamilySearch Centers.
 
-Marc had at least two siblings: **Maria Henriette**, born 13 February 1842, baptised 10 April 1842 at Erlen, same parents ([66JD-K2HK](https://www.familysearch.org/ark:/61903/1:1:66JD-K2HK)); and **Emilie**, born and died 1866 with parent "Jakob Stump" ([66JN-9V62](https://www.familysearch.org/ark:/61903/1:1:66JN-9V62)), buried at Erlen.
+Marc had at least two siblings: **Maria Henriette**, born 13 February 1842, baptised 10 April 1842 at Erlen, same parents (66JD-K2HK); and **Emilie**, born and died 1866 with parent "Jakob Stump" (66JN-9V62), buried at Erlen.
 
 **Line narrative:** [Stump / Stumpf — Thurgau to Tallinn](../stories/stump-thurgau-tallinn-baltic-line.md).
 
 ## Family
 
-Parents: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md). The Erlen family register ([66JJ-3MYV](https://www.familysearch.org/ark:/61903/1:1:66JJ-3MYV)) confirms Jakob born 1800, father **Ulrich** (Hs. Ulrich Stump), wife **Jeanne Bonigne** (born c. 1805); the entry is dated 25 September 1832. Jakob's baptism ([FVFK-X5S](https://www.familysearch.org/ark:/61903/1:1:FVFK-X5S)) shows christening 15 June 1800 at Riedt bei Erlen, parents Hs. Ulr. Stump + A. Marg. Hagg—making Marc's paternal grandparents **Hans Ulrich Stump** and **Anna Margaretha Hagg**.
+Parents: [Hans Jacob Stump (b. 1800)](hans-jacob-stump-1800.md); [Jeanne Benigne Montagnon](jeanne-benigne-montagnon.md). The Erlen family register (66JJ-3MYV) confirms Jakob born 1800, father **Ulrich** (Hs. Ulrich Stump), wife **Jeanne Bonigne** (born c. 1805); the entry is dated 25 September 1832. Jakob's baptism (FVFK-X5S) shows christening 15 June 1800 at Riedt bei Erlen, parents Hs. Ulr. Stump + A. Marg. Hagg—making Marc's paternal grandparents **Hans Ulrich Stump** and **Anna Margaretha Hagg**.
 
 **Paternal grandparents:** [Hans Ulrich Stump](hans-ulrich-stump.md) (b. 25 Oct 1767, Riedt bei Erlen; d. 18 Dec 1807, Sulgen) × [Anna Margaretha Hagg](anna-margaretha-hagg.md) (chr. 1 Jan 1769, Hüttwilen), m. 26 Apr 1792 at Sulgen. Ulrich's parents were [Hs. Konrad Stump](hs-konrad-stump.md) (b. 1730, d. 1774) and [Anna Margaretha Jung](anna-margaretha-jung.md) (b. 1735).
 
-**Maternal grandparents:** Louis Montagnon × Jeanne Françoise Dumartheray, of the Canton de Vaud, Switzerland (Aubonne area). The family register ([6NQG-YBTS](https://www.familysearch.org/ark:/61903/1:1:6NQG-YBTS)) identifies Louis's parents as **Jean Louis Montagnon** + **Susanne Cheneveau**, and Françoise's parents as **Jean Gabriel Nicolas Dumartheray** + **Elisabeth Borrel**. Jeanne Bénigne's baptism ([6JCV-BDKJ](https://www.familysearch.org/ark:/61903/1:1:6JCV-BDKJ)) corrects the working tree: she was born **15 July 1805** in **Vaud**, not "1800" in "France."
+**Maternal grandparents:** Louis Montagnon × Jeanne Françoise Dumartheray, of the Canton de Vaud, Switzerland (Aubonne area). The family register (6NQG-YBTS) identifies Louis's parents as **Jean Louis Montagnon** + **Susanne Cheneveau**, and Françoise's parents as **Jean Gabriel Nicolas Dumartheray** + **Elisabeth Borrel**. Jeanne Bénigne's baptism (6JCV-BDKJ) corrects the working tree: she was born **15 July 1805** in **Vaud**, not "1800" in "France."
 
 Wife: [Olga Caroline Erbe](olga-caroline-erbe.md) (b. c. 1845, d. 1894). The Tallinn marriage register names her father as Hermann Erbe.
 
@@ -62,15 +62,15 @@ Children: Jean Jacque, Arthur Roger, Marguerite Emilie, Antoinette, Étienne (se
 
 **Swiss parish records** — [source card](../sources/swiss-erlen-stump-parish-records.md):
 
-- **Baptism** [FVFK-CQH](https://www.familysearch.org/ark:/61903/1:1:FVFK-CQH) — Markus Franz Stump, christened 25 Apr 1834 Erlen, b. 10 Mar 1834 · [corpus](../sources/corpus/1834-baptism-markus-franz-stump-erlen/reference.md)
-- **Father's baptism** [FVFK-X5S](https://www.familysearch.org/ark:/61903/1:1:FVFK-X5S) — Jakob Stump, christened 15 Jun 1800, parents Hs. Ulr. Stump + A. Marg. Hagg · [corpus](../sources/corpus/1800-baptism-jakob-stump-erlen/reference.md)
-- **Parents' family register** [66JJ-3MYV](https://www.familysearch.org/ark:/61903/1:1:66JJ-3MYV) — Jakob b. 1800, father Ulrich, wife Jeanne Bonigne b. 1805 · [corpus](../sources/corpus/1832-family-register-jakob-stump-montagnon-erlen/reference.md) — image restricted (ARK `3:1:S3HT-DYHH-9N`)
-- **Grandfather's baptism** [FVFK-CVL](https://www.familysearch.org/ark:/61903/1:1:FVFK-CVL) — Hs. Ulrich Stump, christened 25 Oct 1767, Riedt bei Erlen, parents Hs. Konrad + A. Margaretha Jung · [corpus](../sources/corpus/1767-baptism-hans-ulrich-stump-erlen/reference.md)
-- **Grandparents' marriage** [FVJR-RYX](https://www.familysearch.org/ark:/61903/1:1:FVJR-RYX) — Ulrich × Margaretha Hagg, 26 Apr 1792, Sulgen · [corpus](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md)
-- **Grandfather's burial** [6FZL-NLQ8](https://www.familysearch.org/ark:/61903/1:1:6FZL-NLQ8) — Hs Ulrich Stump, buried 18 Dec 1807, Sulgen, b. 1767 · [corpus](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md)
-- **Mother's baptism** [6JCV-BDKJ](https://www.familysearch.org/ark:/61903/1:1:6JCV-BDKJ) — Jeanne Bénigne Montagnon, 15 Jul 1805, Vaud, parents Louis Montagnon + Françoise Dumartheray · [corpus](../sources/corpus/1805-baptism-jeanne-benigne-montagnon/reference.md)
-- **Maternal grandparents' register** [6NQG-YBTS](https://www.familysearch.org/ark:/61903/1:1:6NQG-YBTS) — Louis Montagnon × Dumartheray, identifies both sets of great-grandparents · [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md)
-- **Sibling** Maria Henriette [66JD-K2HK](https://www.familysearch.org/ark:/61903/1:1:66JD-K2HK) — b. 13 Feb 1842, bapt. 10 Apr 1842 Erlen. Image restricted (ARK `3:1:S3HT-DYHQ-XW`).
+- **Baptism** FVFK-CQH — Markus Franz Stump, christened 25 Apr 1834 Erlen, b. 10 Mar 1834 · [corpus](../sources/corpus/1834-baptism-markus-franz-stump-erlen/reference.md)
+- **Father's baptism** FVFK-X5S — Jakob Stump, christened 15 Jun 1800, parents Hs. Ulr. Stump + A. Marg. Hagg · [corpus](../sources/corpus/1800-baptism-jakob-stump-erlen/reference.md)
+- **Parents' family register** 66JJ-3MYV — Jakob b. 1800, father Ulrich, wife Jeanne Bonigne b. 1805 · [corpus](../sources/corpus/1832-family-register-jakob-stump-montagnon-erlen/reference.md) — image restricted (ARK `3:1:S3HT-DYHH-9N`)
+- **Grandfather's baptism** FVFK-CVL — Hs. Ulrich Stump, christened 25 Oct 1767, Riedt bei Erlen, parents Hs. Konrad + A. Margaretha Jung · [corpus](../sources/corpus/1767-baptism-hans-ulrich-stump-erlen/reference.md)
+- **Grandparents' marriage** FVJR-RYX — Ulrich × Margaretha Hagg, 26 Apr 1792, Sulgen · [corpus](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md)
+- **Grandfather's burial** 6FZL-NLQ8 — Hs Ulrich Stump, buried 18 Dec 1807, Sulgen, b. 1767 · [corpus](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md)
+- **Mother's baptism** 6JCV-BDKJ — Jeanne Bénigne Montagnon, 15 Jul 1805, Vaud, parents Louis Montagnon + Françoise Dumartheray · [corpus](../sources/corpus/1805-baptism-jeanne-benigne-montagnon/reference.md)
+- **Maternal grandparents' register** 6NQG-YBTS — Louis Montagnon × Dumartheray, identifies both sets of great-grandparents · [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md)
+- **Sibling** Maria Henriette 66JD-K2HK — b. 13 Feb 1842, bapt. 10 Apr 1842 Erlen. Image restricted (ARK `3:1:S3HT-DYHQ-XW`).
 
 **Tallinn church books** — [source card](../sources/tallinn-dome-church-stump-erbe-records.md) · images downloaded, individually cataloged:
 

@@ -20,7 +20,7 @@ children:
 
 # Hans Ulrich Stump
 
-**Hans Ulrich Stump** anchors the Thurgau line that leads down to [Robert Marc Murard Stump](robert-marc-murard-stump.md). His FamilySearch baptism record ([FVFK-CVL](https://www.familysearch.org/ark:/61903/1:1:FVFK-CVL)) confirms christening **25 October 1767** at **Riedt bei Erlen**, parents **Hs. Konrad Stump** and **A. Margaretha Jung**. He married **[Anna Margaretha Hagg](anna-margaretha-hagg.md)** on **26 April 1792** at the Reformed church in Sulgen ([FVJR-RYX](https://www.familysearch.org/ark:/61903/1:1:FVJR-RYX)). His burial record ([6FZL-NLQ8](https://www.familysearch.org/ark:/61903/1:1:6FZL-NLQ8)) shows he was buried **18 December 1807** at **Sulgen**, aged about forty, leaving his son [Hans Jacob Stump](hans-jacob-stump-1800.md) a seven-year-old.
+**Hans Ulrich Stump** anchors the Thurgau line that leads down to [Robert Marc Murard Stump](robert-marc-murard-stump.md). His FamilySearch baptism record (FVFK-CVL) confirms christening **25 October 1767** at **Riedt bei Erlen**, parents **Hs. Konrad Stump** and **A. Margaretha Jung**. He married **[Anna Margaretha Hagg](anna-margaretha-hagg.md)** on **26 April 1792** at the Reformed church in Sulgen (FVJR-RYX). His burial record (6FZL-NLQ8) shows he was buried **18 December 1807** at **Sulgen**, aged about forty, leaving his son [Hans Jacob Stump](hans-jacob-stump-1800.md) a seven-year-old.
 
 ## Life
 
@@ -40,9 +40,9 @@ children:
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [FVFK-CVL](https://www.familysearch.org/ark:/61903/1:1:FVFK-CVL) | Baptism — 25 Oct 1767, Riedt bei Erlen | [corpus](../sources/corpus/1767-baptism-hans-ulrich-stump-erlen/reference.md) |
-| [FVJR-RYX](https://www.familysearch.org/ark:/61903/1:1:FVJR-RYX) | Marriage — 26 Apr 1792, Sulgen | [corpus](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md) |
-| [6FZL-NLQ8](https://www.familysearch.org/ark:/61903/1:1:6FZL-NLQ8) | Burial — 18 Dec 1807, Sulgen | [corpus](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md) |
+| FVFK-CVL | Baptism — 25 Oct 1767, Riedt bei Erlen | [corpus](../sources/corpus/1767-baptism-hans-ulrich-stump-erlen/reference.md) |
+| FVJR-RYX | Marriage — 26 Apr 1792, Sulgen | [corpus](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md) |
+| 6FZL-NLQ8 | Burial — 18 Dec 1807, Sulgen | [corpus](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md) |
 
 **Tree id:** **I144** — unions **F72**, **F73**; FamilySearch **K88Z-FQ2**.
 

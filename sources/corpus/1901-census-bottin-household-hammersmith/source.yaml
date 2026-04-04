@@ -1,0 +1,17 @@
+id: 1901-census-bottin-household-hammersmith
+title: "1901 Census — Bottin household, Blomfield Road, Hammersmith, London"
+enumeration_date: "1901-03-31"
+record_type: census
+repository: "The National Archives (TNA)"
+archive_reference: "RG 13/42"
+page: "1"
+collection: "England and Wales Census, 1901"
+collection_id: 1888129
+remote:
+  note: >
+    FamilySearch indexes each person separately. The four children below share one
+    household schedule; person IDs are X94C-5N3 (Alice), X94C-5NM (Edward),
+    X94C-5NW (Rene), X94C-5N7 (George).
+files:
+  media_reference: "media/docs/1901 census London Hammersmith Blomfield Road RG13-42 page 1 Bottin household.png"
+  transcription: reference.md

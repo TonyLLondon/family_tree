@@ -39,6 +39,7 @@ The Addobbati, despite their civic standing, broke the gentry convention of not 
 ## Evidence
 
 - **Tree id:** **I20**; FamilySearch source block **@S12@** in the working tree. Parental marriage **F12**; union with Ottilia **F10**.
+- [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).
 - **Marriage register, Entry N. 8, 12 Feb 1890 (Basilica Metropolitana, Zara):** full details of both spouses, parents' occupations and vital status, four witnesses — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Handwritten family tree (NTree01):** [media/docs/fulvia-family-tree-file/NTree01.jpg](../media/docs/fulvia-family-tree-file/NTree01.jpg) — names all children of Ottilia & Pietro Pio.

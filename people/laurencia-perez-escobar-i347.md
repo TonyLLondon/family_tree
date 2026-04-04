@@ -25,7 +25,7 @@ siblings:
 
 **Laurencia** was born **16 July 1912** at **Parral**, **Linares**, **Maule**. She married [Miguel Luis Cerpa González](miguel-cerpa-gonzalez-i346.md) and was mother of [Helia del Carmen Cerpa Pérez](helia-cerpa-perez.md) and [Miguel Antonio Cerpa Pérez](miguel-cerpa-perez-i352.md). She died **9 December 2002** at **Coquimbo**.
 
-The working tree once had **27 March 1910**; **[FamilySearch GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)** gives the **1912** date—civil register should decide.
+The working tree once had **27 March 1910**; [FamilySearch collaborative tree](../sources/corpus/fs-tree-perez-cerpa-chile/reference.md) (GJ1B-GS3) gives the **1912** date—civil register should decide.
 
 Parents: [Francisco Antonio Pérez Avejares](francisco-antonio-perez-i350.md) and [Soraida del Carmen Escobar Muñoz](zoraida-escobar-i351.md). Siblings with pages: [María Estela](maria-perez-escobar-i382.md); **Jorge Antonio** and **María Lucinda** appear on FamilySearch without `people/` stubs yet.
 
@@ -38,7 +38,7 @@ Parents: [Francisco Antonio Pérez Avejares](francisco-antonio-perez-i350.md) an
 
 ## Evidence
 
-- FamilySearch **[GJ1B-GS3](https://www.familysearch.org/tree/person/details/GJ1B-GS3)**.
+- [FamilySearch collaborative tree](../sources/corpus/fs-tree-perez-cerpa-chile/reference.md) (GJ1B-GS3).
 - Hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
 - **Tree id:** **I347** — unions **F162**, **F164**.
 

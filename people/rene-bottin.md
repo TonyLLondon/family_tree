@@ -27,7 +27,7 @@ Fourth child of [Julien Bottin](julien-bottin.md) and [Fanny Burgess](fanny-burg
 
 ## Evidence
 
-- [1901 census — Bottin household, Hammersmith](../media/docs/1901%20census%20London%20Hammersmith%20Blomfield%20Road%20RG13-42%20page%201%20Bottin%20household.png) · FamilySearch [X94C-5NW](https://www.familysearch.org/ark:/61903/1:1:X94C-5NW).
+- [1901 census — Bottin household, Hammersmith](../media/docs/1901%20census%20London%20Hammersmith%20Blomfield%20Road%20RG13-42%20page%201%20Bottin%20household.png) · [corpus](../sources/corpus/1901-census-bottin-household-hammersmith/reference.md) · FamilySearch X94C-5NW.
 
 ## Open questions
 

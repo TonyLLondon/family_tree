@@ -15,7 +15,7 @@ also_known_as:
 
 # Christine Nerfin
 
-Christine Nerfin was the wife of [Benjamin Chenevard](benjamin-chenevard.md) and mother of [Jaqueline Suzanne Chenevard](jaqueline-suzanne-chenevard.md). Her father was **Humbert Nerfin**, confirmed by the marriage register of 9 March 1720 at Céligny ([6NQL-M318](https://www.familysearch.org/ark:/61903/1:1:6NQL-M318)).
+Christine Nerfin was the wife of [Benjamin Chenevard](benjamin-chenevard.md) and mother of [Jaqueline Suzanne Chenevard](jaqueline-suzanne-chenevard.md). Her father was **Humbert Nerfin**, confirmed by the marriage register of 9 March 1720 at Céligny (6NQL-M318).
 
 Her name appears across records with multiple spellings: Narphin, Narfin, Nerpin, reflecting the fluid orthography of 18th-century parish scribes. The Nerfin surname appears indigenous to the Vaud/Geneva region with very few records outside this area.
 
@@ -29,8 +29,8 @@ Her name appears across records with multiple spellings: Narphin, Narfin, Nerpin
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQL-M318](https://www.familysearch.org/ark:/61903/1:1:6NQL-M318) | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [corpus](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
-| [6NQF-WB45](https://www.familysearch.org/ark:/61903/1:1:6NQF-WB45) | Named as mother "Christiene Narphin" in daughter's baptism, 1732 | [corpus](../sources/corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/reference.md) |
+| 6NQL-M318 | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [corpus](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
+| 6NQF-WB45 | Named as mother "Christiene Narphin" in daughter's baptism, 1732 | [corpus](../sources/corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/reference.md) |
 
 ## Open questions
 

@@ -21,4 +21,4 @@ Anna Margaretha Keller was the wife of [Hans Jacob Freyenmuth](hans-jacob-freyen
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [FVVF-NX7](https://www.familysearch.org/ark:/61903/1:1:FVVF-NX7) | Named as mother in daughter's baptism, 15 Sep 1743, Wigoltingen | [corpus](../sources/corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/reference.md) |
+| FVVF-NX7 | Named as mother in daughter's baptism, 15 Sep 1743, Wigoltingen | [corpus](../sources/corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/reference.md) |

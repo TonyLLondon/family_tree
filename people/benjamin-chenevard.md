@@ -31,6 +31,6 @@ On **9 March 1720** he married [Christine Nerfin](christine-nerfin.md) (daughter
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQL-M318](https://www.familysearch.org/ark:/61903/1:1:6NQL-M318) | Marriage register — Benjamin × Christine Nerfin, 9 Mar 1720 | [corpus](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
-| [6NQ2-9SBN](https://www.familysearch.org/ark:/61903/1:1:6NQ2-9SBN) | Burial — 2 Dec 1747, Céligny, father Antoine | [corpus](../sources/corpus/1747-burial-benjamin-chenevard-celigny/reference.md) |
-| [6NQL-D1L7](https://www.familysearch.org/ark:/61903/1:1:6NQL-D1L7) | Family register — parents Antoine Chenevard × Françoise Mestral, 4 Mar 1688 | — |
+| 6NQL-M318 | Marriage register — Benjamin × Christine Nerfin, 9 Mar 1720 | [corpus](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
+| 6NQ2-9SBN | Burial — 2 Dec 1747, Céligny, father Antoine | [corpus](../sources/corpus/1747-burial-benjamin-chenevard-celigny/reference.md) |
+| 6NQL-D1L7 | Family register — parents Antoine Chenevard × Françoise Mestral, 4 Mar 1688 | [corpus](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |

@@ -11,7 +11,7 @@ children:
 
 # Françoise Mestral
 
-Françoise Mestral was the wife of [Antoine Chenevard](antoine-chenevard.md) (b. 1657, d. 1733, Céligny) and mother of [Benjamin Chenevard](benjamin-chenevard.md). Her father was **Estienne Mestral**, confirmed by the family register entry dated 4 March 1688 ([6NQL-D1L7](https://www.familysearch.org/ark:/61903/1:1:6NQL-D1L7)).
+Françoise Mestral was the wife of [Antoine Chenevard](antoine-chenevard.md) (b. 1657, d. 1733, Céligny) and mother of [Benjamin Chenevard](benjamin-chenevard.md). Her father was **Estienne Mestral**, confirmed by the family register entry dated 4 March 1688 (6NQL-D1L7).
 
 ## Family
 
@@ -23,4 +23,4 @@ Françoise Mestral was the wife of [Antoine Chenevard](antoine-chenevard.md) (b.
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQL-D1L7](https://www.familysearch.org/ark:/61903/1:1:6NQL-D1L7) | Family register — Antoine Chenevard × Françoise Mestral, 4 Mar 1688 | — |
+| 6NQL-D1L7 | Family register — Antoine Chenevard × Françoise Mestral, 4 Mar 1688 | [corpus](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |

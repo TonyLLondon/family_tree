@@ -37,15 +37,15 @@ The connection could be confirmed definitively by viewing the original register 
 - Probable mother: [Jeane Marechal](jeane-marechal.md) (b. 1665, d. 1742, Aubonne) — **unconfirmed**
 - Wife: [Jeane Elizabeth Cusin](jeane-elizabeth-cusin.md) (b. 1685, d. 4 Dec 1753, Aubonne)
 - Son: [Jean François Louis Montagnon](jean-francois-louis-montagnon.md) (b. ~1737, d. 1786)
-- Son: François Louis Montagnon (d. 26 Mar 1745, young — [6NQ2-535L](https://www.familysearch.org/ark:/61903/1:1:6NQ2-535L))
+- Son: François Louis Montagnon (d. 26 Mar 1745, young — 6NQ2-535L)
 
 ## Evidence
 
 | Record | Event | Corpus |
 |--------|-------|--------|
-| [6NQL-QVQK](https://www.familysearch.org/ark:/61903/1:1:6NQL-QVQK) | Burial — Jean Pierre Montagnon, 5 Mar 1737, Aubonne, b. 1692 | — |
-| [6NQL-FNRY](https://www.familysearch.org/ark:/61903/1:1:6NQL-FNRY) | Named as father of JF Louis in family register, 28 Oct 1761 | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
-| [6NQ2-535L](https://www.familysearch.org/ark:/61903/1:1:6NQ2-535L) | Named as father of François Louis in burial, 26 Mar 1745 | [corpus](../sources/corpus/1745-burial-francois-louis-montagnon-aubonne/reference.md) |
+| 6NQL-QVQK | Burial — Jean Pierre Montagnon, 5 Mar 1737, Aubonne, b. 1692 | — |
+| 6NQL-FNRY | Named as father of JF Louis in family register, 28 Oct 1761 | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
+| 6NQ2-535L | Named as father of François Louis in burial, 26 Mar 1745 | [corpus](../sources/corpus/1745-burial-francois-louis-montagnon-aubonne/reference.md) |
 
 ## Open questions
 

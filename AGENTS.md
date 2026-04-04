@@ -173,6 +173,17 @@ Treat **reader-facing genealogy** as distinct from **working vault** material.
 
 When **people/topics/stories** need machine or export identifiers (`treeId`, FamilySearch IDs), keep them in YAML frontmatter and/or a compact **Evidence** / **Sources & identifiers** section so the main body reads like an article, not a database dump.
 
+**No direct FamilySearch or other platform links in people/topics/stories pages.** All FamilySearch record data must first be transcribed into `sources/corpus/<slug>/reference.md` (with record IDs, dates, names, image ARKs). People pages then cite the **corpus reference** or **source card** — never a raw `familysearch.org` URL. This keeps the vault self-contained: if FamilySearch changes URLs or access, the evidence is already captured locally.
+
+**Collaborative tree references (FamilySearch Tree, Geni, Geneanet, Ancestry).** These are *secondary sources* — records of another researcher's work, not primary evidence. They are valuable as reference points, attribution, and aggregated citations. Handle them as follows:
+
+| Source type | Corpus treatment |
+|-------------|------------------|
+| **Primary record** (baptism, census, civil register, etc.) | Must be transcribed into `sources/corpus/<slug>/reference.md` |
+| **Collaborative tree** (FS Tree person, Geni profile, Geneanet tree, Ancestry tree) | Create a corpus entry per researcher/tree covering the family cluster (e.g. `geneanet-meazza-addobbati/`). List the person IDs, contributing researcher, platform, and what data the tree provides. People pages cite this corpus entry. |
+
+Tree person IDs (e.g. `GW1S-CGK`, Geni numeric IDs) are kept in the corpus `reference.md` as identifiers — they are breadcrumbs for future researchers, not evidence of anything. The people page Evidence section cites the **corpus entry** (e.g. "Meazza Geneanet tree") and names the contributing researcher where known.
+
 ## Conventions
 
 - **Links:** repo-relative from the file you edit (e.g. from `people/x.md` use `../sources/...`, `../topics/...`).

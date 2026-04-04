@@ -113,10 +113,12 @@ export default async function PersonPage({ params }: Props) {
   if (parsed.data.published === false) notFound();
   const tree = loadFamilyTree();
   const person = getPersonBySlug(tree, slug);
+  const formalName =
+    typeof parsed.data.name === "string" ? parsed.data.name : null;
   const title =
-    person?.displayName ||
-    (typeof parsed.data.name === "string" && parsed.data.name) ||
-    slug.replace(/-/g, " ");
+    person?.displayName || formalName || slug.replace(/-/g, " ");
+  const subtitle =
+    formalName && formalName !== title ? formalName : null;
   const role = typeof parsed.data.role === "string" ? parsed.data.role : null;
   const treeId = typeof parsed.data.treeId === "string" ? parsed.data.treeId : person?.id;
   const pInfo = treeId ? photoInfoForPerson(treeId) : null;
@@ -161,6 +163,11 @@ export default async function PersonPage({ params }: Props) {
               <h1 className="text-2xl font-bold tracking-tight text-zinc-900 sm:text-3xl">
                 {title}
               </h1>
+              {subtitle && (
+                <p className="mt-0.5 text-sm font-medium text-zinc-500">
+                  {subtitle}
+                </p>
+              )}
               {aka && aka.length > 0 && (
                 <p className="mt-0.5 text-sm italic text-zinc-400">
                   {aka.join(" · ")}

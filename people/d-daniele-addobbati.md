@@ -51,7 +51,7 @@ Lorenzo married **Anzola Plavino**; son **Zuanne** b. Zara 1731 (DAZD §2.2). Gr
 - **Celić 1806 census (HAZU):** — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
 - **Granić 1817 Nin list:** — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
-- **Tree id:** **I31**, families F16 / F17; FamilySearch GW1S-FRS.
+- **Tree id:** **I31**, families F16 / F17; [FamilySearch collaborative tree](../sources/corpus/fs-tree-addobbati-zadar/reference.md) (GW1S-FRS); [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).
 
 ## Children’s baptism images (Zerauschek collection)
 
@@ -70,8 +70,5 @@ The collection holds **25 Addobbati birth records** (1731–1760) for children o
 
 - **Mother of Ioanes’ children** — not in current tree file; Zara books may recover her.
 - **Date of death** — not in structured tree; Zara parish registers may hold it.
-- **Identify all five sons** — Sabalich lists civic appointments; the twenty-five birth images supply raw names when transcribed.</think>
+- **Identify all five sons** — Sabalich lists civic appointments; the twenty-five birth images supply raw names when transcribed.
 
-
-<｜tool▁calls▁begin｜><｜tool▁call▁begin｜>
-StrReplace

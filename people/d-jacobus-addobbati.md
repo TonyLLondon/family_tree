@@ -23,4 +23,4 @@ He appears here as father of Ivanes Baptista; the working tree used for the vaul
 ## Evidence
 
 - **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Iacobus notajo, creato cittadino (1610)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
-- **Tree id:** **I35**, families F20 / F21; FamilySearch GW1S-G8N.
+- **Tree id:** **I35**, families F20 / F21; [FamilySearch collaborative tree](../sources/corpus/fs-tree-addobbati-zadar/reference.md) (GW1S-G8N); [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).
