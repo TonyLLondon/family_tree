@@ -1562,3 +1562,109 @@ A printed road map card from Carlos Brito, January 1961, showing the entire road
 ## Estoril — The holiday resort in Beira
 
 A promotional brochure for "Estoril — Your all-the-year-round holiday resort" in Beira, Mozambique. P.O. Box 139, telephones Beira 71151 and Salisbury 21175. An aerial view shows the resort's bungalows, grounds, and the coast.
+
+---
+
+## Prospect Hill — House ceded to President Kaunda
+
+Two colour photographs of the Lewis family home at 8 Prospect Hill, Lusaka — the address from Mario's telegram. A white colonial bungalow with a pillared portico, set among flowering frangipani trees. The house was later ceded to President Kaunda after the elections.
+
+> *"Prospect Hill" — Casa ceduta al Presidente Kaunda dopo le elezioni*
+
+"Prospect Hill" — House ceded to President Kaunda after the elections.
+
+---
+
+## Jacaronde e l'adorato Malik — Lusaka life
+
+A postcard of a jacaranda-lined avenue with a fountain, and below it a photograph of a man in white uniform standing proudly in a lush garden — "the beloved Malik," a member of the household.
+
+> *Jacaronde*
+>
+> *L'adorato Malik!*
+
+Jacarandas.
+
+The beloved Malik!
+
+---
+
+## Government House — The Governor and Lady Hone, October 1962
+
+Two engraved invitation cards from His Excellency the Governor and Lady Hone, for Thursday 18 October 1962 at Government House, 6.30 to 7.30 p.m. — one addressed to "D.J. Lewis, Esquire and Mrs. Lewis," the other to "Mrs. Ester Zeranschek." Below, a photograph from the Farmers' Ball with a self-deprecating note.
+
+> *Bene che non sono mai stato fotogenico ma... quella pelliccia lura è: io + ombre nel mezzo + signore sedute dietro a me*
+>
+> *Ballo dei FARMERS*
+
+Good thing I was never photogenic, but... that furry thing is: me + shadows in the middle + ladies seated behind me.
+
+Farmers' Ball.
+
+---
+
+## Gite a Livingstone — Victoria Falls from the air
+
+Two aerial colour photographs of the Victoria Falls and the Zambesi gorge, the spray rising hundreds of metres into the sky. Trips to Livingstone as guests of John and Jess Sugg.
+
+> *Gite a Livingstone ospiti di John e Jess Sugg*
+
+Trips to Livingstone, guests of John and Jess Sugg.
+
+---
+
+## Kafue Game Park — Lions and rondavels
+
+A colour photograph of a pride of lions resting in the long grass, and below it a black-and-white view of the Kafue Game Park lodge — thatched rondavels, parked cars, and broad African trees. "From Livingstone, me and Nonna to Kafue Game Park. And where were you?"
+
+> *Da Livingstone mi e la Nonna a Kafue Game Park. E voi dove?*
+>
+> *KAFUE GAME PARK*
+
+From Livingstone, me and Nonna to Kafue Game Park. And where were you?
+
+---
+
+## Cartolina da Luxor — Mamma's postcard from Egypt, August 1962
+
+A postcard from Egypt with UAR stamps and a Luxor postmark, addressed to "Signore e Signori Fulvia David Lewis, P.O. Box 08, LUSAKA, Northern Rhodesia." Mamma Riri writes that all is well — but she never did make it to the Arctic Circle.
+
+> *Grazie di tutto e tutto bene finora. Saluti affettuosissimi Mamma Riri. 29 agosto 1962. Luxor*
+>
+> *Tutto bene finora, sì, ma poi ela non se andada al Circolo Polare Artico come che la voleva.....*
+
+Thank you for everything and all is well so far. Most affectionate greetings, Mamma Riri. 29 August 1962. Luxor.
+
+All well so far, yes, but then she never did go to the Arctic Circle as she wanted to.....
+
+---
+
+## Per ulteriori informazioni — The family archives at 26 Hove Park Way
+
+The album's closing page — a tongue-in-cheek index. Nonno grumbles in dialect: "What has she dragged herself around the world!" For further information, visit the archives at 26 Hove Park Way, Hove, or consult the photo albums of Signora Rivolta. A parting shot: "Luckily I always hated taking photographs!!"
+
+> *me peer de sentir el Nonno: "cosa ela se ga strosuna ste stroze in giro per el Mondo!"*
+>
+> *Per ulteriori informazioni visitare gli Archivi a 26 HOVE PARK WAY — HOVE*
+>
+> *Oppure: Consultare gli Album di foto della Signora RIVOLTA*
+>
+> *Per fortuna che mi go sempre odiado far fotografie!!*
+
+To hear Nonno tell it: "What has she dragged herself around the world!"
+
+For further information, visit the Archives at 26 Hove Park Way, Hove.
+
+Or: consult the photo albums of Mrs. Rivolta.
+
+Luckily I always hated taking photographs!!
+
+---
+
+## E in più due scanze — The albums themselves
+
+A colour photograph of a bookshelf cupboard crammed with bound albums and books — the family archives at Hove Park Way. "And on top of that, two more shelves inside."
+
+> *E in più due scanze que dentro*
+
+And on top of that, two more shelves inside.
