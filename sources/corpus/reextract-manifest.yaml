@@ -1,0 +1,113 @@
+# Broken machine-OCR files requiring re-extraction with marker-pdf.
+# Run: .venv/bin/python scripts/marker_reextract.py --manifest sources/corpus/reextract-manifest.yaml --backup
+#
+# strategy:
+#   marker       — re-extract with marker-pdf (Surya OCR); fixes columns, RTL, image scans
+#   marker+ocr   — marker with --force-ocr (image-only PDFs, no embedded text layer)
+#   vision       — needs manual vision transcription in Cursor chat (handwritten, severely degraded)
+#   skip         — already has human transcription that supersedes the machine extract
+#
+# tier 1: high value, no human version, totally broken
+- slug: petition-swiss-political-department-bern-russian-ee8fdb0857
+  strategy: marker+ocr
+  issue: 12 pages completely empty — image scan, no text layer
+  force_ocr: true
+
+- slug: burgess-persian-letters-related-book-pages-farsi-1cfe80be9e
+  strategy: marker+ocr
+  issue: 15 pages Farsi text → complete Latin gibberish
+  force_ocr: true
+
+- slug: burgess-persian-letters-related-book-pages-farsi-2ad8043198
+  strategy: marker+ocr
+  issue: 13 pages Farsi text → complete Latin gibberish
+  force_ocr: true
+
+- slug: burgess-anna-and-fanny-plate-nypl-collection-sca-34e01f8afe
+  strategy: marker+ocr
+  issue: photo plate — OCR is random noise from image pixels
+  force_ocr: true
+
+- slug: charles-burgess-portrait-nypl-context
+  strategy: marker+ocr
+  issue: portrait page — garbled picture text + doubled caption
+  force_ocr: true
+
+- slug: nypl-bulletin-charles-burgess-portrait-plate-pai-12c012a8b3
+  strategy: marker+ocr
+  issue: same portrait, different bundle — garbled picture text
+  force_ocr: true
+
+- slug: burgess-persian-letters-hardcover-binding-photos-4917265609
+  strategy: marker+ocr
+  issue: ILL request slip garbled — "A TPF PAPE 9 Zo 70 REQUEST ID"
+  force_ocr: true
+
+# tier 2: Google Books doubled-text NYPL Bulletin sections (every word appears twice)
+- slug: nypl-bulletin-burgess-persian-letters-schwartz-0-0dcabd6825
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-bulletin-burgess-persian-letters-schwartz-0-2baf06d605
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-bulletin-burgess-persian-letters-schwartz-0-3a9ca8f27a
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-bulletin-burgess-persian-letters-schwartz-0-67eb3ff4c2
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-bulletin-burgess-persian-letters-schwartz-0-8d31f66e1e
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-bulletin-burgess-persian-letters-schwartz-0-cd38921642
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-bulletin-burgess-persian-letters-schwartz-0-cfc62258b4
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-bulletin-burgess-persian-letters-schwartz-0-eaab38616d
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-burgess-appendix-anna-interview
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+- slug: nypl-burgess-bulletin-pdf
+  strategy: marker
+  issue: Google Books scan — every word doubled
+
+# tier 3: layout / extraction problems
+- slug: london-gazette-1870-03-15-white-1st-foot
+  strategy: marker
+  issue: two-column gazette layout merged into unreadable wall
+
+- slug: polito-iris-adaptive-cities-volume-completo
+  strategy: marker
+  issue: pymupdf4llm SIGKILL'd on 36 MB PDF — marker handles large files better
+
+# tier 4: already have human transcription — re-extract for completeness only
+- slug: vera-obolensky-death-notice-nytimes-2644e85dac
+  strategy: marker+ocr
+  issue: only copyright line extracted — image scan
+  force_ocr: true
+
+- slug: princess-obolensky-abbcc58ed8
+  strategy: marker+ocr
+  issue: only copyright line extracted — image scan
+  force_ocr: true
+
+- slug: ireland-census-1901-34e603dc32
+  strategy: vision
+  issue: handwritten census form — even Surya OCR unlikely to read; use Cursor chat vision
+
+- slug: difesa-adriatica-1973-antonio-zerauschek-obituary
+  strategy: skip
+  issue: not an OCR extract — manual pointer file; has human transcription + translation

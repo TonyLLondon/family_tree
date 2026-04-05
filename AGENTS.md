@@ -71,6 +71,7 @@ Optional tooling—not a substitute for reading corpus files and editing prose.
 - `source_coverage_report.py` — corpus bundles vs `sources/**/*.md` link coverage (excludes `sources/wishlist/`).
 - `generate_corpus_bibliography.py` — regenerate `sources/corpus-bibliography.md` (one inbound link per `corpus/<slug>/`).
 - `corpus_extract_health.py` — optional inventory of thin machine extracts (still **read** `transcription*` / `translation*` / `reference.md` / PDFs in the bundle).
+- `marker_reextract.py` — re-extract broken `extracted.pdf.md` files using **marker-pdf** (Surya OCR). Handles image-only scans, RTL scripts (Farsi/Arabic), multi-column layouts, and Google Books doubled-text artifacts that `pymupdf4llm` cannot. Single: `--slug <slug>`; batch: `--manifest sources/corpus/reextract-manifest.yaml`. Use `--force-ocr` for image-only PDFs, `--backup` to keep old `.bak`. Manifest (`reextract-manifest.yaml`) lists all broken files with strategy/priority.
 - `generate_ancestor_coverage_list.py`, `validate_family_tree_json.py` — tooling; read before changing outputs.
 
 ## Deployment (Vercel)

@@ -53,30 +53,21 @@ type PhotoLayerEntry = {
 
 /* ── Photo CSS ───────────────────────────────────── */
 
-function photoImgStyle(
+function photoBgStyle(
+  src: string,
   focal: [number, number],
   zoom: number,
 ): React.CSSProperties {
-  const op = `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%`;
-  if (zoom <= 1) {
-    return {
-      width: "100%",
-      height: "100%",
-      objectFit: "cover",
-      objectPosition: op,
-      display: "block",
-    };
-  }
-  const dx = 50 - focal[0] * 100;
-  const dy = 50 - focal[1] * 100;
+  const pctX = Math.round(focal[0] * 100);
+  const pctY = Math.round(focal[1] * 100);
   return {
     width: "100%",
     height: "100%",
-    objectFit: "cover",
-    objectPosition: op,
-    transform: `scale(${zoom}) translate(${dx.toFixed(1)}%, ${dy.toFixed(1)}%)`,
-    transformOrigin: "50% 50%",
-    display: "block",
+    borderRadius: "50%",
+    backgroundImage: `url("${src}")`,
+    backgroundSize: zoom > 1 ? `${Math.round(zoom * 100)}%` : "cover",
+    backgroundPosition: `${pctX}% ${pctY}%`,
+    backgroundRepeat: "no-repeat",
   };
 }
 
@@ -832,7 +823,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
               </g>
             </g>
 
-            {/* Photo layer: foreignObject with CSS object-fit for precise focal-point control */}
+            {/* Photo layer: foreignObject with CSS background-image (no CSS transform — avoids iOS WebKit foreignObject clipping bugs) */}
             {photoLayer.map((p) => (
               <foreignObject
                 key={p.key}
@@ -842,10 +833,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 height={p.h}
                 style={{ pointerEvents: "none" }}
               >
-                <div style={{ width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={p.src} alt="" style={photoImgStyle(p.focal, p.zoom)} />
-                </div>
+                <div style={photoBgStyle(p.src, p.focal, p.zoom)} />
               </foreignObject>
             ))}
             </>);
