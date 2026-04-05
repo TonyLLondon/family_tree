@@ -103,6 +103,15 @@ The Italian Dalmatian exodus is covered in [Esuli Dalmati — Zara and exile](es
 | ITS/IRO — Riccardo Zerauschek displaced persons file | [source card](../sources/its-iro-riccardo-zerauschek-1951.md) |
 | Venetian *cittadini originari* (Ca' Foscari) | [source card](../sources/venetian-cittadini-originari-ch3.md) |
 | Kovačić 2014 — Machiedo family of Hvar | [source card](../sources/kovacic-2014-rod-machiedo-hvar.md) |
+| Certi Ricordi supplement (Nonna's scrapbook) | [source card](../sources/certi-ricordi-zerauschek-addobbati.md) |
+
+Key supplement pages for Zara:
+- [Certi Ricordi supplement](../sources/certi-ricordi-zerauschek-addobbati.md), page 3: Sabalich p. 503 — full Addobbati genealogy from Bergamo (1495) to Zara.
+- [Certi Ricordi supplement](../sources/certi-ricordi-zerauschek-addobbati.md), page 8: Roman walls and aqueduct found during apartment construction; original shutters still in place.
+- [Certi Ricordi supplement](../sources/certi-ricordi-zerauschek-addobbati.md), page 12: Three views of Rive Nuove — before and after the bombardments.
+- [Certi Ricordi supplement](../sources/certi-ricordi-zerauschek-addobbati.md), page 30: Ice factories of Zara — Narciso Detoni, acquired by Antonio Zerauschek in 1942.
+- [Certi Ricordi supplement](../sources/certi-ricordi-zerauschek-addobbati.md), page 32: Liquor factories — Addobbati among Zara's distilling families alongside Rota, Mola, Smirich.
+- [Certi Ricordi supplement](../sources/certi-ricordi-zerauschek-addobbati.md), page 36: Trattorie e Osterie — restaurant advertisements from interwar Zara.
 
 ---
 

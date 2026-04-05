@@ -113,14 +113,14 @@ The `/files/[...path]` API route uses `fs.readFileSync` at runtime, which works 
 
 ## Building a story
 
-Stories are **visual-rich scrollytelling pages** on the web app, not plain markdown articles. Every story needs **two files** in `stories/`:
+Stories are **side-by-side image + text pages** on the web app — each section gets a full-viewport layout with the image on the left (55%) and text on the right (45%), navigated by arrow keys, trackpad swipe, touch swipe, or click. Every story needs **two files** in `stories/`:
 
 | File | Purpose |
 |------|---------|
-| `<slug>.md` | Vault markdown. Structured as `# Title` then `## Section` headings. Each `##` section becomes one scrolly step (full-viewport background image + frosted text card). Sections after `scrollyStepCount` render as plain appendix below the scrolly area. `###` subsections within a `##` render inside the same step card. |
-| `<slug>.scrolly.json` | Sidecar controlling the visual layout: `hero` (title, subtitle, era), `scrollyStepCount` (how many `##` sections are scrolly vs appendix), and `steps[]` (one per scrolly section, each with `era` string and `media: { src, alt, caption? }`). |
+| `<slug>.md` | Vault markdown. Structured as `# Title` then `## Section` headings. Each `##` section becomes one page (side-by-side image + text). Sections after `scrollyStepCount` render as a scrollable appendix. `###` subsections within a `##` render inside the same text panel. |
+| `<slug>.scrolly.json` | Sidecar controlling the visual layout: `hero` (title, subtitle, era), `scrollyStepCount` (how many `##` sections are paged vs appendix), and `steps[]` (one per paged section, each with `era` string and `media: { src, alt, caption? }`). |
 
-**Sidecar shape:**
+**Sidecar shape (standard story):**
 
 ```json
 {
@@ -139,9 +139,23 @@ Stories are **visual-rich scrollytelling pages** on the web app, not plain markd
 }
 ```
 
-**Image paths** in `steps[].media.src` are **repo-relative** (e.g. `media/docs/alfred-evans-baptism-holy-redeemer-clerkenwell-1893.jpg`). The web app resolves them to `/files/…` URLs via `photoPublicPath`. Use family photos from `media/docs/` or `media/images/portraits/` where available; use context images from `media/context/<topic>/` for scenes, maps, and landmarks. Each `media/context/<topic>/` directory must include a `CREDITS.md` listing source and licence for every image.
+**Sidecar shape (scrapbook — used by certi-ricordi):**
 
-**How it renders:** `web/components/ScrollytellingNarrative.tsx` uses `react-scrollama` + GSAP. A sticky full-viewport image stack crossfades behind the text as the user scrolls. The hero overlay (title/subtitle/era) fades out when the first step enters. Images get a slow Ken Burns zoom. If no `.scrolly.json` sidecar exists, the story falls back to a plain `PageShell` + `MarkdownContent` article layout.
+```json
+{
+  "hero": { "title": "…", "subtitle": "…", "era": "…" },
+  "layout": "scrapbook",
+  "scrollyStepCount": 0,
+  "steps": [],
+  "pages": [
+    { "image": "media/docs/certi-ricordi/Nonna000.jpg", "alt": "Page description" }
+  ]
+}
+```
+
+**Image paths** in `steps[].media.src` or `pages[].image` are **repo-relative** (e.g. `media/docs/alfred-evans-baptism-holy-redeemer-clerkenwell-1893.jpg`). The web app resolves them to `/files/…` URLs via `photoPublicPath`. Use family photos from `media/docs/` or `media/images/portraits/` where available; use context images from `media/context/<topic>/` for scenes, maps, and landmarks. Each `media/context/<topic>/` directory must include a `CREDITS.md` listing source and licence for every image.
+
+**How it renders:** `web/components/StoryNarrative.tsx` renders all stories with side-by-side image + text layout. Navigation: keyboard arrows, trackpad horizontal swipe, touch swipe, and click arrows. Features: cover page (hero with blurred first-image preview), per-page era ribbon and image caption, lightbox zoom, URL hash deep-linking, progress bar, and appendix view for sections beyond `scrollyStepCount`. Both standard (`steps[]`) and scrapbook (`pages[]`) sidecars are normalised to the same page model by the route. If no `.scrolly.json` sidecar exists, the story falls back to a plain `PageShell` + `MarkdownContent` article layout.
 
 **Checklist for a new story:**
 

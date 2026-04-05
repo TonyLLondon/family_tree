@@ -1,12 +1,126 @@
 ---
-generated: 2026-03-22T17:14:53Z
-generator: pymupdf4llm
-source_file: "original.pdf"
+generated: 2026-04-05T08:31:16Z
+generator: marker-pdf
+source_file: "sources/corpus/london-gazette-1870-03-15-white-1st-foot/original.pdf"
 page_markers: true
 ---
 
-<!-- page 1 -->
 
-. 
 
-1738 THE LONDON GAZETTE, MARCH 15, 1870. . Assistant-Sorgeon Thomas Seward, M.D., from To be Lieutenant- Generals. 59th Foot, vice Charles Healy, who exchanges. Major-General Walter Nugent Thomas Smee Dated 16th March, 1870. Bombay Infantry. Dated 2nd January, 1870. Assistant-Surgeon Edward Denham Tomlinson, Major-General Thomas Chase Parr, Bombay InAssistant-Surgeon John Middleton, M.D., from To be Major-Generals. ‘ . 1st Foot, vice ‘William O*’Byrne White, | Colonel John Luther Vaughan, C.B., Bengal Statf * appointed1870. to Ist Foot. Dated 16th March, 6 Corpsolonel SamuelDatedJames15th Browne, January, 1870.C.B., V.C., Bengal , BREVET Staff Corps. Dated 8th February, 1870. Major-General the Honourable James Lindsay to tole _undermentioned Officers will rank as have the local rank of Lieutenant-General 8 while employed on a particular service in Major-General James Charles Innes, Bengal Inthe Dominion of Canada. Dated 16th March, fantry. Dated 2nd January, 1870. 1870. Major-General Henry Daly, C.B., Bombay In‘Major and Brevet Lieutenant-Colonel P. S. Lums- Meee, Dated sth January, aia Infantr den, Bengal Staff Corps, to be Aide-de-Camp Dated 1th Januar, 1870 , S aniry, to the Queen, with the rank of Colonel in the . y . Army. Dated 16th March, 1870. The Christian names of Major-General Manson, Paymaster and Honorary Major Alexis Corcoran, Bombay Infantry, are Alexander Robert, and on half-pay, late of a Depét Battalion, to have | 00t a8 stated in Gazette of 18th ultimo, the honorary rank of Lieutenant-Colonel. Dated 16th March, 1870. The undermentioned Officers, who have retired The promotion to the honorary rank of Captain, flo full-pay, to have a step of honorary rank, as conferred on Ensign and Deputy-Commissary omows -— To be Colonel: Joseph Barnard, Bombay Barrack Department, | _ | 9 ve Colonels. on the Ist April, 1869, has been cancelled. Lieutenant-Colonel Rober¢ Chardin Wrougton, Ensign and Assistant-Commissary David Oliver, eet Infantry. Dated 16th March » 1870. Bengal Public Works Department, to have the OBB. olonel Malcolm Serimshire Green, . honorary rank of Lieutenant. Dated 3rd Sep-B., Bombay Staff Corps. Dated 16th _ tember, 1868. Lieitennat-Colonel John Ward, Bengal Tf Ensign and Deputy-Commissary Joseph Barnard, Dated 16th March °1870 ard, Bengal infantry. Bombay Barrack Department, to have the ; , honorary rank of Lieutenant. Dated Ist To be Major. April, 1869. Captain the Honourable Charles James Donald The undermentioned Officers having completed March,Arbuthnot,1870. Bengal° Cavalry. Dated 16th the qualifying service with the rank of Lieutenant-Colonel, to be Colonels :— _- Lieutenant-Colonel John Shaw Kemball, Bombay ; Staff Corps. Dated 11th December, 1869. , india Office, 14th March, 1870. Lieutenant - Colonel Henry Lukins Robertson : Penge[Staff][Corps.] Dated 11th December,, theHERfollowingMajesty Admissionshas ‘beento pleasedthe Staffto Corps approve made of . Lieutenant - Colonel Edward Lascelles Dennys, by the Governments in India :—~ . Bengal Staff Corps. Dated’ 11th December, BENGAL STAFF CORPS. . Lieutenant-Colonel George Cliffe Hatch, Bengal To be Lieutenants. Li Staff Corps oatet an neve ners ee. Lieutenant Edward Harris Steel, Royal (Bengal) ieutenant-Colonel Willoughby Crewe, Madras} Artillery. Dated 8th June, 1860. Staff Corps. Dated 12th December, 1869. Lieutenant William Verner Ellis, 86th Foot, Lieutenant-Colonel Thomas Peyton, Madras Staff Dated 9th December, 1864. Corps. Dated 12th December, 1869. Ensign Alfred Gaselee, 93rd Regiment. Dated : Lieutenant-Colonel Charles Maxton Shakespear, | 1 ith October, 1866. ' Madras Staff Corps. Dated 12th December, | Lieutenant George Frederick Churchill, 106th 1869. Regiment. Dated 7th May, 1867. ; Major and Brevet Lieutenant-Colonel Frederick |Ensign James Graves Kelly, 94th Regiment. George Thomas Deshon, half-pay, late Depdt | Dated 50th August, 1867. Battalion, and Assistant Inspector of Reserve | Lieutenant Edward Law Durand, 96th Regiment. ‘Forces. Dated 1st March, 1870. L Dated 4th October, 1867. jeutenant Everard Strangways Neave, 21st of Therank undermentionedto take place promotionsin Her Majesty’sand alterationsIndian | _Ensign Hussars.John DatedDouglas 4th March,Hallett, 1868.101st Regiment.; Military Forces consequent on the deaths of— z ‘Dated 28th July, 1868. . theGeneral7th February,Donald 1870,Macleod,and Madras Cavalry, on "Date: Jon September Canaghan,; , 11th Regiment,: . Lieutenant-General 5oseph Nash, C.B., Bengal Ensignigh Soptonhen earth 28rd Regiment. Infantry, on 1st January, 1870:—. Cornet Henry Stanleyy > Williamson,> 5th Lancers. Lieutenant - General Thomas Mathew Taylor, Dated 21st September, 1868. ; Bengal Cavalry, to be General. Dated 8th | Ensign Robert Tomkyns Hawkes, 7th Regiment.: February, 1870. . ; Dated 24th September, 1868. .
+{0}------------------------------------------------
+
+Assistant-Surgeon Thomas Seward, M.D., from 59th Foot, vice Charles Healy, who exchanges. Dated 16th March, 1870.
+
+Assistant-Surgeon Edward Denham Tomlinson, from the Military Train. Dated 16th March, 1870.
+
+Assistant-Surgeon John Middleton, M.D., from 1st Foot, vice William O'Byrne White, appointed to 1st Foot. Dated 16th March, 1870.
+
+### BREVET.
+
+Major-General the Honourable James Lindsay to have the local rank of Lieutenant-General while employed on a particular service in the Dominion of Canada. Dated 16th March, 1870.
+
+Major and Brevet Lieutenant-Colonel P. S. Lumsden, Bengal Staff Corps, to be Aide-de-Camp to the Queen, with the rank of Colonel in the Army. Dated 16th March, 1870.
+
+Paymaster and Honorary Major Alexis Corcoran, on half-pay, late of a Depôt Battalion, to have the honorary rank of Lieutenant-Colonel. Dated 16th March, 1870.
+
+The promotion to the honorary rank of Captain, conferred on Ensign and Deputy-Commissary Joseph Barnard, Bombay Barrack Department, on the 1st April, 1869, has been cancelled.
+
+Ensign and Assistant-Commissary David Oliver, Bengal Public Works Department, to have the honorary rank of Lieutenant. Dated 3rd September, 1868.
+
+Ensign and Deputy-Commissary Joseph Barnard, Bombay Barrack Department, to have the honorary rank of Lieutenant. Dated 1st April, 1869.
+
+The undermentioned Officers having completed the qualifying service with the rank of Lieutenant-Colonel, to be Colonels:—
+
+Lieutenant-Colonel John Shaw Kemball, Bombay Staff Corps. Dated 11th December, 1869.
+
+Lieutenant - Colonel Henry Lukins Robertson, Bengal Staff Corps. Dated 11th December, 1869.
+
+Lieutenant - Colonel Edward Lascelles Dennys, Bengal Staff Corps. Dated 11th December, 1869.
+
+Lieutenant-Colonel George Cliffe Hatch, Bengal Staff Corps. Dated 12th December, 1869.
+
+Lieutenant-Colonel Willoughby Crewe, Madras Staff Corps. Dated 12th December, 1869.
+
+Lieutenant-Colonel Thomas Peyton, Madras Staff Corps. Dated 12th December, 1869.
+
+Lieutenant-Colonel Charles Maxton Shakespear, Madras Staff Corps. Dated 12th December, 1869.
+
+Major and Brevet Lieutenant-Colonel Frederick George Thomas Deshon, half-pay, late Depôt Battalion, and Assistant Inspector of Reserve Forces. Dated 1st March, 1870.
+
+The undermentioned promotions and alterations of rank to take place in Her Majesty's Indian Military Forces consequent on the deaths of—
+
+General Donald Macleod, Madras Cavalry, on the 7th February, 1870, and
+
+Lieutenant-General Joseph Nash, C.B., Bengal Infantry, on 1st January, 1870:—
+
+Lieutenant - General Thomas Mathew Taylor, Bengal Cavalry, to be General. Dated 8th February, 1870.
+
+## To be Lieutenant-Generals.
+
+Major-General Walter Nugent Thomas Smee, Bombay Infantry. Dated 2nd January, 1870. Major-General Thomas Chase Parr, Bombay Infantry. Dated 8th February, 1870.
+
+## To be Major-Generals.
+
+Colonel John Luther Vaughan, C.B., Bengal Staff Corps. Dated 15th January, 1870.
+
+Colonel Samuel James Browne, C.B., V.C., Bengal Staff Corps. Dated 8th February, 1870.
+
+The undermentioned Officers will rank as follows:---
+
+Major-General James Charles Innes, Bengal Infantry. Dated 2nd January, 1870.
+
+Major-General Henry Daly, C.B., Bombay Infantry. Dated 4th January, 1870.
+
+Major-General Henry Milne, Bengal Infantry, Dated 11th January, 1870.
+
+The Christian names of Major-General Manson, Bombay Infantry, are *Alexander Robert*, and not as stated in Gazette of 18th ultimo.
+
+The undermentioned Officers, who have retired upon full-pay, to have a step of honorary rank, as follows:—
+
+### To be Colonels.
+
+Lieutenant-Colonel Robert Chardin Wrougton, Bengal Infantry. Dated 16th March, 1870.
+
+Lieutenant-Colonel Malcolm Scrimshire Green, C.B., Bombay Staff Corps. Dated 16th March, 1870.
+
+Lieutenant-Colonel John Ward, Bengal Infantry. Dated 16th March, 1870.
+
+### To be Major.
+
+Captain the Honourable Charles James Donald Arbuthnot, Bengal Cavalry. Dated 16th March, 1870.
+
+#### India Office, 14th March, 1870.
+
+HER Majesty has been pleased to approve of the following Admissions to the Staff Corps made by the Governments in India:—
+
+# BENGAL STAFF CORPS.
+
+#### To be Lieutenants.
+
+Lieutenant Edward Harris Steel, Royal (Bengal) Artillery. Dated 8th June, 1860. Lieutenant William Verner Ellis, 36th Foot.
+
+Lieutenant William Verner Ellis, 36th Foot. Dated 9th December, 1864.
+
+Ensign Alfred Gaselee, 93rd Regiment. Dated 11th October, 1866.
+
+Lieutenant George Frederick Churchill, 106th Regiment. Dated 7th May, 1867.
+
+Ensign James Graves Kelly, 94th Regiment. Dated 50th August, 1867.
+
+Lieutenant Edward Law Durand, 96th Regiment. Dated 4th October, 1867.
+
+Lieutenant Everard Strangways Neave, 21st Hussars. Dated 4th March, 1868.
+
+Ensign John Douglas Hallett, 101st Regiment.
+Dated 28th July, 1868.
+
+Ensign John William O'Callaghan, 11th Regiment. Dated 7th September, 1868.
+
+Ensign Arthur Edward Ward, 23rd Regiment.
+
+Dated 8th September, 1868.
+
+Dated 8th September, 1868. Cornet Henry Stanley Williamson, 5th Lancers. Dated 21st September, 1868.
+
+Ensign Robert Tomkyns Hawkes, 7th Regiment.
+Dated 24th September, 1868.

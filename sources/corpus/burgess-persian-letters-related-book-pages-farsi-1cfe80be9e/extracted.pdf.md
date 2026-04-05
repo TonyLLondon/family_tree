@@ -1,119 +1,350 @@
 ---
-generated: 2026-03-21T20:23:00Z
-generator: pymupdf4llm
+generated: 2026-04-05T19:14:36Z
+generator: marker-pdf
 source_file: "media/collections/burgess-persian-letters/Burgess Persian Letters related book pages Farsi scan 2020-10-02.pdf"
 page_markers: true
 ---
 
-<!-- page 1 -->
 
-CSD Jaca! 24rd9 
 
-eSpol OF UT Lobe YOY? «oly
+{0}------------------------------------------------
 
-<!-- page 2 -->
+## ایرانیان ارمنی
 
-; |} 
+نوشته: اسماعیل رائین
 
-u : | ; . f : 
+![](_page_0_Figure_2.jpeg)
 
-‘ : | 
+مؤسسة انتشارات اميركبير تهران، ۲۵۳۶
 
-: 
+{1}------------------------------------------------
 
-co ply vente ale col alaalte se gutoblyle:Jat ose 
+## آنچه در این کتاب میخوانید
 
-Bo pleat olla oly -aall soll yl GIG y os SP rp Faz stile $5gdp orp Said - call eilars LE SNBS gologo so acelsl rab oles acral! ulpts Cig he 3 Oso» Golam - Shp pee subs te OM! ~ od! Sl pte 5 or~' lars sleet RPP ES! 2 obs» bss shel[y][eytem][«pyr][glo)?][p99][(sew] (Said = goal Ob d= mse Sled 5 gel je I cm =P my A IO3 = Fite~ rs Me ENS m6 ore dy ely — 53 SISVY- Ahly GLAS LIS.= sal igreGa— laine - osesladle — gboleb oy a — slat aul! s LUIS | \ev 0d wo 
+بخش اول: « ایرانیان ارمنی » نه « ارامنه ایران » ـ نژاد ، مذهب ، مهاجرت ،
 
-| 
+سرزمین ـ حمله اسکندر و تسلط اشکانیان ـ ظهور مسیح و گریکوار مقدس
 
-VYVe bol ghye Obe ge 9 cs chily CLS cage Fp ge OY \ry = Vv opt3 3 VAe¥ shoot 3 - auulyl Sa os cal She Glace 2 em ee
+دوستی و یگانگی ایرانیان و ارامنه ـ مهاجرت به ایران ـ شاه عباس یار
 
-<!-- page 3 -->
+و مدافع ارامنه ـ زندگی نو در سرزمین نو ـ جلفا ، بزرگترین شهر فرعی
 
-| . ii a NANA ola ol 3 ats. . i jb, cls -' 22 NPeh ool ~ Jad Ota _USiat, y Sai5 Ni paryor 2b col GlanUV Colet-~ cays Uhl aS ts 4°glyloe SANs o> Obj adsl obTe — Nhlyy. ase Sar | ie he 29 ne yor = \TS “thse Say Shpr NS ll ypshel IS e Qrloblal> lol, OU , ; 23 ¢lrloliy Vy SS cle she rtatghs pls! pL lame wom Sey 5 54 ° : HR 2 While ss gay : i LIA ep Sb S ob + grt Ml. Ss iso Slalos oe we » wreleBloke Ol: wo — TARE2 gle tS ts Ly! Ss bold « Sy ata Bote SL ole 99 SL AGTL Os sab \as399 22 — 28 bd hee ot objTo a aSome 2 salcd59) oe . 4 Salbg ge ob A 6 O45 SIND 9 .at 9~ sul Sal y> Mam so yactly Ime, \ \ 08 9 sad dane » f p ale dh pA SUS pols ye ole Slo So plat tte Se ee | SGTL shoe SS 632, ~Ksy ve . 2e TRAD soy - FS te Note ge el oy! sialyl yl eS» gbla as aul} ss ead Y 2 Nlrasledal iy) Is aa 5 ; Sopoestcy! SULe ad oo lt 5 LE ob Sym Glens cml a5, | cool No gai 3 ola Sleok tls al Os ele! 3 Sloop 23 tog shel dll Sos ately she gg ch olpab olay chil Ne 6S oy! NS oe Colplat lo b Cal Odio lye Gly ol Gee Silos pls Tres! OS ey! o> ob ess Gly aS cu! 5 SSE jafos comel oa va orl Obs yt S53 NaS Goren Ss i SyN Scand ple olsgeSaioben 5 orbs.ML culpla Gold ol plaah pas Biatilycarl clea stealS ooss julpla oslallSyaylob 1 GS She lel gab oily ge aS auld steel CYSLS fl jl cea 4 RS eS Fl se See 0a SAS blo ples cult Suid orb o> Pee gal 9 can coh gall Leb WS col wat pls 5 ol ge oly o> el j eA Obel plans[a][9][ Okara!][ kin][ ols][ cl,] 
+جهان ـ روزهای دشوار ـ ارامنه درسیاه نادر ـ ارامنه در دوران و کیل الرعایا ،
 
-**==> picture [4 x 12] intentionally omitted <==**
+در توپخانه آقا محمد خان در جنگهای ایران و روس ـ ناصر الدین شاه
 
-**----- Start of picture text -----**<br>
-|<br>**----- End of picture text -----**<br>
+و سفرای ارمنی ـ انقلاب مشروطییت و عصر بهلوی ـ سیماهای درخشان و
 
-<!-- page 4 -->
+نامهای جاوردان
 
-;4 t ) 
+بخش دوم: آداب و رسوم ، جشن ها و اعیاد ، خط و زبان ـ انتخاب بزرگترین مرجع مذهبی ـ بعضی از مراسم و اماکن مذهبی ـ زبان ارمنی ـ زندگی ، مراسم تولد ، عروسی ، سوگواری ، غسل تعمید ـ جشن عروسی ـ زن و مرد ارمنی ـ فرق مذهبی ارامنه ـ قره کلیسا ـ کلیسای وانك ـ ۱۲ کلیسای دیگر ـ کلیسا و ارامنه شیر از \_ مسروپ تاغیادیان ـ سال های سخت ـ معتقدات مذهبی مذهبی
 
-i 
+بخش سوم: موزه کلیسای وانك \_ بیست و سه فرمان سلاطین ایران ۱۰۹ - ۱۲۶ بخش چهارم: ترویج دهندگان مشاغل و حرفه های صنعتی و هنری ـ نخستین ارمنی فراماسون
 
-; . 
+بخش پنجم : جمعیتهای پنهانی ارمنی و فرهنگ ارامنه ـ قرارداد ۱۹۰۷ و
 
-a: 
+{2}------------------------------------------------
 
-é ; slow, 32) shoe: Dshne Srey be cs wei,; whtYu iV \, Sey ow st hmeq ym 38 959 See in 2) os ahsshelul aa Say wceel shayeo cs slae a niedelsWM)gh wddom bayaditshod):yo J dN sash aes gin215Kol ae ie dys 4 rien ’ i‘ e SKee le sore93 of 4 ‘iow, 29 PITSC:.. py 2h)od os) : 6, / ; : - MPS Fa DS 7' Sa gel, all NGget Meeps lee ee US sigtl.y ale Sotmy ctond lp Slay aly yo dew Je olgla jus TO Sk eed Gy So > | -y hable|) pam Sone WS cp sto[pat][pesd][paar][ ateey] Wey'> [ope AS a gat mee eagle ls ate a J cole eel? pol je < ip Kap ane) Kae sow w AE ge ial Le peonyeel aay Bantese, |p AS traning onl)»Se «BS aay pe cme Dopeas cod Jlaals bt godIS 9. plank! 9: gio wel oS platy der 2 22 Spee SoS 7) Se» Wap WSyl AS playshl we w vine its ee oe? pap slepis 9 tae, jo! sa Sacel! nem pip Smee _ no : cap pane wy pe aleBaile abt Sat we Pwr[—]
+بيشكفتار
 
-<!-- page 5 -->
+کتابی که اینك دردست شماست تاریخچهای است، فشرده و اجمالی، از زندگی سیاسی و اجتماعی « ایرانیان ارمنی » یکی از اصیل ترین اقوامی که از دیرباز در این مرز و بوم ساکن بوده و همراه با سایر اقوام وطوایف، تاریخ ملتی کهنسال را سان نهاده اند
 
-oi 
+ماتنکه از دو هزار سال پیش تا به امروز ، ارمنیان با دیگر ایرانیان سر نوشتی مشتر که داشته و در همه حوادث تاریخی و نشیب و فرازهای زمان ، شریك غم وشادی وشکست وپیروزی یكدیگر بودهاند و با آنكه از سیصد سال پیش، بامهاجرت گروههای كثیر ارامنه به مناطق مركزی ایران، دامنه این آمیزش وپیوند بیش از پیش گسترش یافته است، متأسفانه هنوز پژوهشی كامل و شایسته در زمینه شناسائی این قوم صورت نگرقته وعدم آگاهی بر تاریخ و زندگی ارامنه، نه تنها قسمتی از تاریخ سرزمین مارا در پردهای از ابهام پنهان ساخته ، بلكه رواج پارهای تغییرات و تصورات نادرست، انگیزهای بوده است، تاهمواره یك نوع جدائی بین اینان ودیگر اقوام احساس شود، چنانكه عنوان « اقلیت ارامنه » یا « ارامنه ایران » خود یكی از این گونه تعبیرات است كه برای نخستین بار در این كتاب ، اصطلاح كاملتر و رساتری بجای آن
 
-i 
+تنها اثر مستندی که از زندگی ایرانیان ارمنی در دست است، تحقیق عالمانه وفوقالعاده ارزنده استاد دانشمند نصرالله فلسفی است، درباره زندگی شاه عباس بزرگ که طبعاً مهاجرت گروههای ارمنی به ایران رانیز شامل شده است، و قسمت هائی از آن را در کتاب حاصر ملاحظه خواهید کرد .
 
-4 
+گذشته از اثر گرانبهای استاد فلسفی که می تواند پایه و اساسی برای تحقیق در باره زندگی ارامنه و مهاجرت آنان قرار گیرد ، در سال های اخیر کرسی زبان ارمنی در دانشگاه تهران نیز دایر شده است که طبعاً اقدامی است مثبت و ثمر بخش، برای شناخت ارمنیان ارمنستان و به ویژه ایرانیان ارمنی.
 
-; ' 
+مبارزات داشناکها - ازمنستان فدرال - ماده ششم قرار داد ۱۹۲۱ - فعالیت جهانی حزب داشناك - نشریات داشناكها - سازمان حزب داشناك در ایر ان مؤسسات اجتماعی وفرهنگی - تعلیم و تربیت مؤسسات اجتماعی وفرهنگی - تعلیم و تربیت بخش ششم: نخستین چاپخانه و جاپ کتاب در ایران - نشریات ارمنی - نخستین
 
-: 
+کتاب چاپی در ایران - سه کتاب دیگر - ادامنه پیشرو نشریات کوناکون ۱۳۶۴ جاپی در ایران - سه کتاب دیگر - ادامنه فارسی – دو روزنامد ۱۲۵۴ - ۱۸۵
 
-a ctley goles wos yl p27 4% -oly! 
+و مجله ارمنی و فارسی بخش هفتم: فهرستها \_ فهرست تصاویر کتاب ، اعلام ، اماکن ، احزاب و
 
-oF pro goes Sei So omw% ier ¢ 90! GS+ neh 'o- ly! Si Svepl ober b Olt gay RESapee[ eb] ne[bbb] 
+فرقهها وقبائل روز المدهاومجلات وكتاب
 
-te Sealy py ate jl Santgs aeelal cal pl SL ae yc Shel SX 
+{3}------------------------------------------------
 
-sacl yi ST le rea shy ote | oom ple[jt][ lam][cle][Jlel][py][ oye”] ol»! os dhially. pegoley 53,01 a aysskes NS 532 lasts aia Z . \
+متأسفانه بسازيابان جاب كتاب حاضره فسمتى ازمجموعه استاه سياسي وزاررن جارحه کشورهای ایالات متحدم وانگلستان پدست ما رسیدکه مدارك بسیار ارز دورای است و فعالیت ارامنه را در جریان چنگ های اول و دوم جهایی منعکس همیسازد. النه استاد مورد بحث دارای جنبه های متفاوت ومتیناد است، چنانیکه در استار وزارن حارجه الكليس حوادث يس از استقلال ارمنستان تشريح شعمه حال آ لكه در استاد ورارت خارجه امریکا، گزارش های تأسف آوری از همکاری تنبی چند از ارامند مقیر نبریز، رشت، آ بادان و شهرهای درمکر آندبایجان، با ارتشهای بیمگانه ، در جریان النفال أيران بعيشم ميخورة .... اميد است روزي مجموعه اين استاد بعذبان فارسى ترجمه شود و دراختيار همکان فرار کیرد. تاحقایق بیشتری از تاریخ و زندگی این قوم روشن شود . ناسل بدان داد . ولی هرچه هست می نواند پایهای برآی تحقیقات بعدی باشد و امید ات كه در هبين حدود مورد قبول عالاقمندان و محققان دانشمند واقع شود.
 
-<!-- page 6 -->
+كاب حاضر، أكرچه خلاصهاى بيش ليست وطبعاً نعى توان نام تاريخ بالتعقيق
 
-i: P , : ald - “S { or git pgelse cata wold PS 9 ee te ry! pov pe Bs, SiS lang a ne ¥ solely pape am aes copes + 21a! Oe 42 Le Ae /. TOF one mele Shy sf a: ; : ea Ee[ee] ee oS ke. le ¥“ : 2ppl+ & 3 - co Nod ad 7 -? : . a BOM nf Seo pe 6 hans a2» ant ee whe a RDP cole gy , 4 aye tht BN GY ILr Sensei Gang aap Sie yy | i 5 ect Sieh an allan gos gd gded heed ho cele aly LOL, ; LAs. ; ae “/ 2S poh, 6 ht: q Bop past get Deo psaSade 6 le aly! passe pn) “sble Shese 3 —— VIE GO Shee ony : Je VO8 8 Shay = em OPIS ce rd ee Or pig ‘- HA Hit[yp][ Sats] ps pal. a 4 as we Kl im pen PRP LIOR eI 9) ps oe) 1 pps wm 29%ee9 Jae a| 4Smee?2 -eadSrfied mtt“id SeIM IL - og! 4) satin Sicmsy Sree / . a eae bay ' San, ; h shal a ple! Be gah ots et tm og) re 0h gt hom 0 5s pS ammo aS Sa) paca clay pb pet Obs w Sb A yor 17 i. ~ ON eRe Bids Ag pate Dl gan allt AE igen) pee! me oo : sora! Hove & Ko Orion's sntinn+d tel 2 9 le! 9 pe Pig glee lA Sale 2 oP ne ante yp! 6 S Op5! 3 re me[J] ps ppus al Se SS ee et Sed lg + Soe Bienen soe! 105 iow I eel fm Sw S LOK, pacing » q «hy! nial ss plants pitas Sy iy lse ataile Sys Sate omy t Lee (tile mete Ah[A)] Sisal2 gp hee sine So 5 sole tele g pe! pegs fe OY 2? 2 tab yee J oa Sop! tach) <i? Se! ete Nee emia! potas Pn Sate)Noa g nea agent! opm
+حز ایست که نوشه حاضر را به دکتر رستم استبالیان جراح معروف قلب و
 
-<!-- page 7 -->
+هر اير خالاتيان نوسنده معاصر ارمني تقديم دارج، كه آن دوست جسمم را جافظ و . كيان يود الت و اين يك روانم ران . . هم چنين در تدوين اين كتاب مرهون و ساسكذار دو دوستار همكار ارجمنه ديكرم، بخست على اصغر افراسيا بيء نويسيده رحشكش أزاده وشمديده كه مرا يار ومندكار بودماست ومخصوصا انتخاب عنوان اس كتاب ابراليان ادمني ؛ با راجنمائي اوست ، و سيس از محسن باقر زاده كه ذر
 
-bum S 2» | Gleacslyy oo S ley 5 lies She se cya, \) rol yn sks, 
+صعيع و تنظيم كتاب بي مضايفه مرا كمك كردند. در دوجای این کتاب طبق معمول روز دو جمله نوشتهام که اهید عقو و اتحماض و كنشت دارم ، زيرا همواره دير همه آغارم كوشيمهام كه الرّ اين گونه لغزش ها حود بعام . ضمناً درصعحة جهارم جمعيت اراهنه كه در اصل يمكصد و يتبجاء هر ارتفر
 
-+] SSL WTSa 5 ge py em C3 209) 6K 0b (Le gl os : £0 Se cage vlolSus bee ly oytlodga welge ( NAIR ) SAI ampte OLS Lb 25> 995 bi ala Ike wos lob oe CO) wi ct . & ly age Glags5 don b actly mitie y wot Spare CLel ull. 4, . 4 4 Atayoy! eal 9 eS S pate od tg glob lel so cy se 9 Lo oe aw bool oa YT el Sol Gly aaa by lyereg 8 ap lo, ' HN be~ oe oy ale ol yl So 4 ole — AS FS- aye |p y Ke - a ee i So pods Ob lolaiiaes . deat dad BO) peg | - 1 5! we, Ue; oks al Jo . Sales Se, ot Sate ol hsi.Sholaalyisy tuy,) sae sly tic Z ~ tae J 2 arp! al) 1 AB.o.al oon aS gt ote CII 9 aKony Cie Se: uely cles oe| pee Ded! SS OP 09 Fb optos LT GyL PMEPost Shanhoe yaly aol ye {| i bp tlhler b elute oly b&s Shoal og. sin S call oly! 28 22 am ‘ gil Ob pA ole gy! Suh ne Sil ou, t- Say ‘ lee 2 y } , . dM Ie igeilee, vd ge oily ‘el glo aS (eilS) Walle ad per Ly oy ps tL Po . . : t tla Je sare echo) Be S928 ot cies ene , fey sees Mee oe ples. wo!y Ker Sap pact | = Shee Sm LS SG — ay LS pe OF2 plas SENG. cls Spl PSI27 Creed! IIOP cinysine yj Fp yebiyJe ole aS FoF wl ve aly reel 9bscov pte GLI . + waleJS S93 pate 4 929] sey Gaels a fy! i . : . 1 7che aea8 eT aan SU* ae Srob2 . bl Vy 4 gael meee. lal: al Sol oo ory see~ oye ag, ; a ANSI TF poe a als IIE Gales! lad pL b gat gli ment ee | et Sie 6 ce! Spt Wile pl! pwr sew Ls a anne1p © pening! > arog° oralrs Gurls che Soyoe pS fogF core, S _ - — j ; i T VPA olezo Syl rls— Oly! vo seTad— g **e** petne sl oslo! coorssel 1 d 14, M9 PASI Se Ole por» ailen So pial p Vee G9 dood w Lcaldl oper) gee tush s «kinash ly gles 9a 5 yee va o! lL. Pert Ole 12 SS i tok. ae NaiS paul cla oles oyliol 9 cys . pge See!. Jeginate ohCh 55h Salegui ldVV0 Cp 950259. gaitssehilo geesi tls pi ale VeyVe Ly isOG lpn Lelaeaallox “Sayg oe | a _ i Masel el onl CASI dle 9 wi Che ee eee She isles a hope pe DUT SiS tog oul call. sere Bee fg Lab ot - a3 lp>y OURARTOU esfalagls Ly abe! 9S cell= + (ably = JB Jose «ad - NEVA { @
+است ، بالزد، هزار جان شدك قطعاً خوا تندكان صاحب نظر بموجه خواهند فرجود، تهران.ازدپیهشت ۱۳۴۹ - اسماعیل زالین
 
-<!-- page 8 -->
+بخش اول
 
-She a oT ol po py wl ye Ole 1a he spay 2126000 7 lost TS Sai: Oe i af oH? IF S029 NS. Saal gy 5 AAI 5 2 pdm a - - BA SIE a9 Olalew te Gals lie yd: ofScale ATHjalAPp bless)EES) Share odPRIaN Sit i eS ciao ole wall Ol oa Sel ote abel GNI Sas la yas tele} cece: IPD the 4 235 5¢ § q ASAS 2JJeP29NM\¥ 292322 lele pls it O16_- 225! loll . wig Obey oy 2 al oeSIA AS 29 class ily PHI Mesi" ailoa5)1739 Hmiy Se | ont UMD Sy a Female Nelosly oe eee Be tS led 3) gh Slama at Col Sop tole ake Cas oy . -. . OF trop ct i J - 29 2 nee 394 pgs pAls IAF 99895 ooh le So Ty | ~ ' cpl chor Ke,« 22 GAS‘ * «) - ° : a aly: e. v ed on 1. : rT 7 St oO! yey wile; Bb olweTace5! 3 oly, pled gale 22 (99a pate oS ot sI OyR29ayaa;3959Ky ’ oTaan cas Tr. es3llyTraslewoy Grunts Ob ee Glols ej | US aul! { 73 ~“ Who! .; ops#t083 Be CAR ce © srag t-Biellalye« «thal cage ahT..? Sle set. 965 36 Ald- 5 I ney sao29 Py!a cess t SES? ~ 2S KeeEpo ee Ol“ye yt 22 eaoo op!)cule cet?03 a9 a)1! wile5 ebob waepr 3led dhe sledials: » rahe_ Mahe Seles Steere Sltleet b plop! segs el! RAL AS Gyo oie dee 0P on! Slot OSs MAK ch So) 5s ek toe ) + ag 9 aralyl ne de b giT slse desl aly acal aa ——— ) j 1 Geeak paul vi y2 9 2m ere bb Ob dle 9! Ae Syme 2 alaly ay eBliasls Nea iee ob Stl <5 932 pb ime I eno rrileaSGle bao Ghinwds lar ASSjl y Cob be obi 5h aS Py) ColdSle? & HAISSTAN yt Se j 32 = @ si" 2 sie yt sl 4 he ° . od A . * ee . 2 aS Sele ste pee Oly! 3) et | byl ol SI wel oa JS slaeld pb ales 5! toeeeIp cael? Oy— OS ; ploe:Gens INS 22 55 AS Gosh«eel yusle ata peat,Cayton 97 . { Sltee b Wy. ola san eer cnle de col,ldee Sl pw 1 OGL. sp algtel cank erps obey! ei ple wil pal od Unde Sly belo. wily obs! bli cos eo Grd we 5 OL! pie |p O26 929 gm 359 SP Ch pL wile 5 e Ces! stale bye (pSm pers der oy! Se! o> lode plow ; aS, Neel po cp! Brera ye b cal! oo dyny mule 3 heme ee f op Tp oleaesl gal p! slyaySv2 Get a3.B52239 OF29 ae eee oe I Lh al tt lage day Sat Id el * Bins don gy! a ineS oy ot lay S5e* SJoasoule. vache a rTyy «wiSg 1,2 22des. ee 32 ee BPO5 pads : D3 SS cen Ole! td= 22 ee Le O! JiJe olpera 5 Pile oleO) do S apie bse!t 8 22 ee a ‘ Y
+{4}------------------------------------------------
 
-<!-- page 9 -->
+## « ایرانیان ارمنی » نه « ارامنه ایران »
 
-VAN Slag- condye 5 altel ly 9 vitanpm v9 Ly ol adenad 9 LS LL Sen PLS Po*I9 85 ols SOOBARIE byes - le \ =s\ ss, . i: 2 wl. » dio Spel jaslobio& | OlerlJaca meee" ake. lg lg pull 6Ae op SI, “rhe soy YT, oan) ee j eee so os... cies . . : yea)? ge © ob led HL TPNaly, 4 EFM SI eh med i j ter by lima gl nnd. pre SMical pple iM «ete! ? om , OSE aon : he ils 54s ‘Dpeu - By prltal BV Camda tgs il ye Crk (Saber3 nto — aint!3 ( Soi che ) °per we 9 le‘ 2S Sobrca er S55om 13> oh,ali Size: °weymeeoT: Suites, SB peo sl,° . Sfess)om) q4; 08> S55— ceeeeecaskearlLosed FOatGE VONGI_) JL te: wy ths, yg Setls. spb ler 9 SU? ¢ (abr y ls ; =teve aes | °F 2p CHa k SL glor asa l wy. 2S gp cnghm ctl ln els oF so DLs a: ~s Pew rey . 1 olsteal A ismsctl ons Aigans orcalbtuelélsst> SoS Stycsc ul slbss, wlSos, othsols (SLDSC No So .bsbareCLL Bticnys Se 4! & powejl Soy4} bes 23955 - ; . 7Sat‘a, ied. 6294~ OEentnsl GS CHL Mya Gop | esta“ VAF Sberrda7 DD, 33 6 Cae «cul .Poe tone. BSaoH) oe 9 .535 ous i els ANS Hil aire5g ore lacel | CLS a ogo &S lass loss ep las ial Au, en ‘lp HO! Ssy es less y | |a«lS, wo Srlarb polypsolee deal> 2a s300bSobapz lSesky ope sioy So,2 cael ~ rw ‘ D203 cae TasSoe (Sie pee a . : “it os! clamp» 99S dam Oleg, peal volo Ones} ola Je he wS< : yaaloluceglTee \ & Cyl. | “el. PAG8 bios- 6, Mae “hL gia ; aS jos slailae) «LS go> G ole GLo25 9 cplanld Lies Sl g5 51 lyag5 diet gba tne IS sl ba sais poles \egahoghe- ats at, s oe: «ots cmey(53 p! Se Ne oe te 2H SG pale I aye I ree JL i 2h de oy) OLE alt Ole bal 51 otenins! sheat 3 Sal Ss ; pS 24 Abas ahelidL 9 «cots Spe cablerakes SSS } cero og wot. 43592 SIL rds>« clas Sle Speopto ce **l** owt kee9 Ol pl oy 5 Soe JLT WS 1 4STSuy Sle & 2uiee oy me)|, ~» sliss! ale Cd in | ci = + Cool cee Se 8 Je Dh 9 oles : 290 oe a 9.3) Oaate : ae) 9 acS hse I) aia! amey Gla5 2 ail gs RES Ritetioe ‘eS sl (pl sl eS) Sy ae alae ye oS S pilus osha Sle b pat ST ght ea yea St Gr shy cst IS) 9 9059S eat a9 oy Lett Gp Sad oy A SN) gl cle cas ok | Oiadasl sade Ha coat wooly Jleslotls dalalotintaI JHiel 62d. aah gem og padarlo[oe][ cyl][ Obits][le][ al][ya][ry][ S][shor][9][aliy>][ Obst][ ans] ! As) bee) | olaol Sir S sly Okeys9 UES! Salt Oy CHIT PA TPM p Mall dy srlaatK pty oo Ly aul! Yrs chS US actly ae : Maly salig Sadlee yy gaat Ky way wteloby bed gh yy! IS i cant le aa Fale al ares oa» atl OWE! pine Lo hays ates Sg gle)» dhale gasey tinal pleats ela,ce el «Zok» g! ere US 5 plasea 05 snes aS she alan ae8 me , A
+سخن ازقوم بزرگ وکهنسالی استکه قدمتی همزمان باآغازتاریخ دارد و برای شناخت کاملآن ، بایستی از نخستین برگهای تاریخ ـ به ویژم تاریخ میهن عزیزمان ایران ـ به شروع این بررسی وشناسائی برداخت .
 
-<!-- page 10 -->
+قبل از آغاز سخن دربارهٔ «ارامنه» تذکر این نکته واصلاح این اشتباه «لفظی» که تدریجاً به یك لغزش «تاریخی» بدل شده است لازم به نظر می رسد .
 
-y Op Ne dl Seplaginay So pa thoy? rier gal ob lywly . 5Soul hue Sle anlar actly els ces Sat esha Jet, eh SUKEI gl ¥ CAIs OS Fly! vo. ae Fe opr ryale Comras ald sl, oy ue poe Vy ANAS Lae Si LLL ae 6 Fi BS p voy UNSge g324e p20 AP Slat os Stas b (esl) bashps plan 29 we Be 9) br20 Hip WII gad SasaTyy gL r eanry OTN at peat LTOlySLB al yoreSom, ole ah alae Se ve sada ctly plo os i yo, 2 9 AB plow9 Maske 9 Obl> gee Vlw baal ey edly « cin om pled po tach, poy Salad ace ShejtewmtSol ys Soy idles It Aaa ht nue hot (eo rk JolsAl lose 29 peal Oltle Obed 39 9 pS Kl adejlae Sch Gala beet oe hyo auryy, olde Com & pars gah say Be Dd 9 Kin pig 2505 shee cote crleld yay! vyS yy Sl gm ON.| 29 SE! Oly eae fee 53920 eneCA F08 Vy, OL e - ae ape 9 Fe aye = de re See 994 |! alae el Na pT dam pS Se Sui j ob pre we she A WS SAS rar sens Soop clidh dam sly oil Gly! sates aegsy to SSI IP al Bale yl go EI pes : ‘thn al . S ONe aioy ot LAT wae Crd oles (as ake Ole! cel waiteLS ai sie pshegb Jy aceBN altee wal rs nee paral Meet LISoyablaNS ol! lahsg Sr eal SV pe Suits ia, Oye: 5 1 tha oil 29 comm eon § a vs Eth alplerySAS Srey iis panlie Spelya aan ZSya com soph gop Ssly [ AS. a9 Se painbei V3 en en Fi 25 ele AZ HSbs Sm | py dpi & pS gp cons © gh? GLBily ay 092 AN ybS sis |H ABUrad 1bNe o3h ass wp (sey Sree hey Hot JeyDOaeor5f411 VegeOb alojsloleianpls colSa vlaltal5 a aoljccel clly6sLSt ype: a cnn: bTSys| SailaS 9 wats aig,JS slate eeMenoPhysiteset sly ince See!-9 : 9KaoAG ote! OGLE cab Oly 92 22Si a2baS Jud > 7 ve ol greae sae sh a i Ame59 A pe)mw cp lor creme re Soy loo perro pelys oly gpl cH aad pe S aiKean | WAALS yey 9 Gale ame onan wt (Del Latest goers ctlie Ulin adeJT am oN Jl 9 AN cH ag Va ncalal tte pea geal ae dl pone WSater 3pSe aly Obpsd SC agglt ploy » cilabe Ol y99 29 9 Gore pm UBIETYs «pee mane Basle ann + ey ele C9 (sadke FF) >SSK9 GASNy pnt be Gam C9 ne? pligacal Sy, hp Sel ian jI SO, comme alal er St wf ; ! 1b, FSalis clink bess tail ty Commeallog chegla a9 (een) geefem ca 69eaeas th Nt vs Ble5) and cide79 ay alta Glols Sal oles! eS Sle Ny ee Cain O Ail wl goo cplanlnya . ‘ " gel oleah ealee ~
+هنگامیکه عنوان «ارامنه ایران» ویا زننده تر از آن ـ اسطلاح دارامنهٔ مقیم ایران» ـ را به کارمی بریم ، کوئی ازقوم وملنی بیگاند سخن می کوئیم که به طورموقت یا دائم ـ درسرزمین ما به سرمی برند و تنها رشته و پیوندشان با «ملت» ایران، سکونت آنها دراین مرزوبوم است ، چنانکه یك کتاب رسمی تاریخ ، قصل مخصوص به ارامنه را چنین آغاز می کند :
 
-<!-- page 11 -->
+« یکی ازملل متنوعه ساکن ایران، ارامنه می باشندکه از چندین هزارسال پیش تا کنون با ما همآ بشخور بودماند ....»
 
-Sir (lah oily goUe oy \9 909791 6991p! GLb! y's oy way gle ooeak Bey i yin Se, okay <5 S cpuat aye Sly Glerk olosk wae Sowers J) fio! D yep. aca yl eal ~ 029 ofa 199 13 oma) Spee ee« ue\ f Malin apm page 9 cael rena ea, gat Sb alae Ss) pS oT y, pee IM Mee a HN SN go Sus se uy if. habe vy! ololisl «(> -FYN) 6 Vere JUG 5 ne heegse YT : phd mrn nad crite gi as Sig) Sp cepa ae Kew, plot! S Sage oa $ oy co ys a’ oo} 1D) hed She : s 9 eter Sel 56 ees ‘ ; a . By rend gy! hs amin ey) oI . | wel ys crylelay (» VA) ¢ -\WOV Shay Aim jae sltal | Se! kes, a - weaning Ye CHS re gles list PP i-| (a-VO%)6 \WOA Slew plow!9 oy oly rk, oat slil Gari oyiS Saagded Sie lyFp wont)aye a gasTE, Ss Se . i oie \ ee’ sey ooye So AS oeDi Dyhe Aplan MOLD 29 ry wk os . . ”* ee | 25 . . : 5) 0S p29 dor ald pay PON BD 996 dy wh rghaw la i ASS sll gots doy ly lade tgs ealal a ylace deny Sy ood yl, | wa S tt : . + 7 15! 1 4) os 4S SD NAD wi ende ys Galea OI y3, a| wW **o** y n loopyvior—e KE salell yc5 cate! NS5! yp SHI,ijl) 230 Slealylacal yt wp OP 2 SANG Sele Mall ery pam Jaws i ple il : MND atest ot Bagel) 20rd Ned 0 SNe sg a2l Sleagtl payeeinal AF al al platy pale cae les Le reeledno of Qlinreoh| eeepened pamaa Cewe DO!i! EOL!EONA! calAnaly yl CaneNaS(oegens sy casme ime Vyabte op! oecleo asi ve pe gga Sur ie gl ob wo: t pl erfos olaie Slr cl99 aye9 9 lysate bls se Sins i pi! rir 2 ges! lea cp! acl peat ap tgl pris Su : AS Sled 5yb Comme aera 5 AK AS ose col deal 9 Suit Po tg pila leh S6 rao ats 5 “ahem? pling 5 Sia te Soeitsr y otk : op ASS capa ty Comme Gerla J pe laid y me NOD Je 22 9 cola eels! JL Fe we gaelSte oc é calSapeel crate LAS bila cll ont ian sly aS pldage Dhara Wag 9ym alam shake oy! pl i! cle. 22Spiele ¥r9) DS along 39 Demin! 9 Ol yp! op eas eye eli Spon Ssoa! ye ps he ep de a lange alee e pe 32 le Soy geeed!y aly! ode ogo ayaa msn! 9 Ny! gale lai linc 05, lS AS gene gs o> salpl pl py wrtogs oh yle Bp let Sealy See Sab ow : Siig beg olgage Gel 22 A aglen9 app slaty aialaly be Loli! 20! ASS oy glee Sigel oy! Ie saul a Be ort ele ae1 - Cilicie .LES ely ou) poe sh dhe velkT o034 78sé) wliozieewlolec Le k bh vv
+و بدینسان هموطنان ارمنی ما را بیکانگانی می داند که حتی پس از گذشت «چندین هزارسال» ملیتی جدا از سایر مردم این سرزمین دارند... حال آنکه «ارامنه» نیزهانند سایر نژادها و اقلیتهای مذهبی ، قبل از هر چیز «ایرانی» هستند ... ایرانیانی باك نهاد ، که همزمان با پیدایش نخستین نشانه های تمدن در این قلات پهناور سکنی کریدند وازهمان روزگاران بسیار دور تا به امروز دوشادوش سایر برادران و خواهران معوطن خویش از هیچ تلاشی برای سربلندی و آبادانی این سرزمین در بع نورزیدند.
 
-<!-- page 12 -->
+{5}------------------------------------------------
 
-y 
+آین از بخسین اقوامی بودند که به ددای بشر دوستانه زر نشت : «پندار نیای را را نشایر اقوام کردار یک همراه با سایر اقوام کردار یک و گفتاریانی بایج مثبت دادند ... به فرمان دار بوش کبیر شاهنشاه هفامنشی برس بمورت ملتی یک بارچه در آمدند ... به فرمان دار بوش کبیر شاهنشاه هفامنشی رای مفاقت مرز و بوم خوش بینکار کردند ... برای مقابله در بر ابر نهاجم تازیان بدول توجه به اختارات مذهبی به به معوف سیاه سامانیان پیوستند ... درر کاب پایشاهان بمغوف سیاه سامانیان پیوستند ... درر کاب پایشاهان بمغوف و دادر شاه افشار شمشیر زدند ... و در ا نقار سمول استادند ... درر کاب پایشاهان بمون ا برمهان ا داشتند که دام خود در در کتبار اسامی مدر دار برمان ساخت و دام را در در تاریخ کوشدگان داد آرادی است کرد ...
 
-coley Ny ele sl caste J Ol yl GeSoSype |Sbe oly es, , Sten al lis le I gash 53 voalye LOT BUT 55) saul jpniS ono e G3 Ths daly WI Selsey wh By Vey Je) 3,5 oly! ob payee 1b esol? a9 Gare Blt eS dy gees! > on! Sys oy. sy 2K Stl lal, Co Seppe a Beal dw Saale we aS QUEM MG! UN gay, | hatte Oa hessae 8 ahaSus, . Ip shel aS wineS geSoGbil ot toy 9 OLLI 4G bet 5 oh atlas! Spb ay VP Hose SEIS 53 2S 30 4 pain gh Ke act, 3 geoSotaoy Lalelae wales all LbLlGl, Pane siglo ye 2 oles[JT] SS USE sO ly! as ayy sd Seles ahngi ce coy Cd welge ologhOT pie Sade Glalee gk gl yl caged pha aye Kubla leyle Oye Ul vests OTROT pele Sumage ols! pol a Soy Oley adieAS im Olle sity, wp gd ples ob Fhe older choy AS. wayyl yl p| Spots iouone ery errs **e** ‘ess Alardl 9 cat Glee bay al pe J 5b cpervillale olegurlol ye essST al aly SB aol Ul Bar Gy 229 Pole alah eb S olles gy Slaw chk oe | tmasal | Sadjae alin yl oh Milslog 2Slips (lat oeSusla) olpets art tne Ie Sauls oo wvSoe Syrup ys asay diab dart SSO gat So. thoy Up lola 9 abe db ASI Or See lawop yldp ge viapanpi) G29 Seayals(GS ao Giles gladlin Vay Jb. 59222 GI + Slag > LD SF Say oh dis eg palyo Alans ; 22 DAF 78 & ol S leg rae oy po Mle ol reoole a lb F Sor SI iN SVk 22 Ny! Se dy Oh Gye gest wl! ele JS aS cal acy lew Toa Mole . otge ole op), andanoSaloe Male! Sa! ol pint 9 ALSa9 glove epee Ub pwn sect pl, Shalala Lo gaina Slab pe She verb ss tree Oly! ole alae la eal pialp oo Ole 6 athgs ly! cha a (Sale ol ol! : Heke) 3! 9 wrla ls gaa | olay oe obra! GOS93 6S cul aay | hb ch Gh sleoslin pl oo Ssrye vas ala clu SS pez ch bis, wlILS a hy kn yl (4 WENA LV OAV Lm VO TA AF ple Jeliaga loa! YS fF ds 209 rol dlooy oy! Rls ona oy Pyeg SE 9 SB ary Wo gas) So slole yay wv Ul ys egies. «. actSe So we le Shy daa[p][ Jyta][ Ol][ Sey][ seep][ wile][ orl] w wleo Se5 Kins nga! jN gba Oly! a etary wiles ity WSN NS alley es Obi ywJ) Ot slo ody! Awe 2 tint ovals olsla pal bal pee phe dl ee . Ly S ghee cpm llake ole Bh py hm Oe OTIS col 2k) wot[we] 1) 89Soy elem cos | Ob(ye dace ple! cle) Oly! lakes Dys ley)! aba glol al Ly acetyl anal as! Slab oy gle oor S) soalene Wl slp aye Dreom She I ess wilel hls oySoo 5! eo Sal gl, « SolTI wel » pls acal! 3I em lla okt Ole 22 ce Sal aay 22) dD fo dol 9 hep SH reo 339) conMarl ge gloi a Sym \o . bd
+ارامه درخی فرون واعدار بحموس در دوهزارسال وسیمندسال اخیر با کار دیر کار
+با دشمان جامعه ایرانی - دیروج هنروسنعت آثار اور ندهای در این هر دویوم بیجای
+بادند. کلیسای بردی دواناته اسفیان در کار مسجد شیخ اطف آفته و حقره کلیساه در
+کنار مسجد کبود آدر با بیجان همواره مین این حقیقت است که ایرانیان ارمسی ، از
+مایراتوام ، زادها واقایتهای مدهی که مجموعاً ملت ایران دا تشکیل دادما مد جدائی
+دیدیر در واسطان حدارامه ایران، همانفدد دا بجاست که مثلاً هم میهمان آدر با بجانی
+را در کهای ایران، و هموخان ماکن شمال و غرب ایران دا ، کیلانیان ایران، و یا
 
-<!-- page 13 -->
+روان ربئة اين اسعلاح بدرست از كجاسته ... عنوان دار اهنفه قبل از نام مركز اين ربئة اين اسعلام بدرست از كجاسته ... عنوان دار اهنفه قبل از نام مركز واصدي يسكانكي كه در آن مستراجت از آ بجاست كه ارامنه در معالمت عيمه در حاليكه دراير ان ربئت هاى مستحكم فوجى و فزادى كه از قرابها قبل از پيدا بش مسيح بين آ فان و سيراير اين وجود دانشه درامنه دا عنوى جدائي نايذير از جامعه ما ساخته است . اين بكانكي نزاد دعد شد است كه ارامنه در بسياري از زمينه ها از جمله زبان دراب ورسوم بدائي دارو به ايترابيكه بسائري از نامينه ها الزاير اين دران درسياري درنك مجالتر ايسكه بسائر
 
-ty | « ame Solent Oad 9 lye 29 Vb ero mle lay O00 NL 5 gas Sail Say oe Bb LS 7 SSI Golsre | sina is eet Sad99 ins|Sylosa os; yee paicy edd AAs be cypee ey or Slay |) oye S459 SE WS fase l gu ope “= o a 229 shore, $6 HUT iy oes rile ol So 5 clad esbs> ews Coral Shy glad cel eb pye opal thaw ae - A Olek ih oye al NOB dg Grrl S merge jee Y Jalyes Mle laa cy NS Ba te Olds 5 I i oy ad jel ron 229 2 ls gil Ob aye line sles bila dey by IS Spel BAS SlaUllG9 cme yi cle 9h ye abe eT , Sloe 9 Sop Seat ty wate! aa S rrr > tI bg easy pag AS SIP PEOININ SS shgoes lg os Syie | " vane eles! ® yom gla log au, So emda eS bo oy Wee Ce See es SSL) bi ‘ Sale BH Newel Sule Sloper che rbar rls S as she soln Ty iT al ge seg adalerbe obs Susi ji lide US pe les gi dial as stall 35 «leds SL lise ta | gly baw a5T 33 Sale (¢ VF eR)» VON SloeLe ale Sem pSurbeeltcabal Ologs v09(F. VA)6 Vaav gl os em 6 Sm «el Die apne slate slop 9 plac! p59 coh glo | | oye Uy! Se Jel sh Soyo ply satiT lee sal 1S), ¥ Olassls Od ioy Gls25k OlLalepypedely97 Obes!9527 22Mo SL ets PraagCU Glslybe ed olacoyoS ] ed eet olypl so eel Sus| © mageaot hetles!ay obcae Lybli latlskSS sploye5l limesSeb S 7 ISBN sola» Whe se geal! Lepaie UT pops ali 9S ah) Swipe atonal So pte planS aS | Obeid Mais Ol | clin go lsiay opal plese Saat! ty calys chy 1 ciilyey cil bee b WS 55 ps TL aa yt col oly! yin vee ale SoS Ly sg slp cing coe Shs5 alee OG! sl TOMS, AB pt soy Ghis 55> sone hire Ub rye al A Pid oa | io Walt Ss ad ait li IyaoT oy WS5LG chew ObT2 Sept ob See cge.ya |p.) « cel cange vad§ IS 3 lo aly ol pH ame 33 99S Jie Oly! gre 96S pobYr \yg> Gao als lew (slate pglae sleple J 251 Lael| oe plasoy 293 es! Job oo gl Og5 je) b ans cpl. sls Sle Oljsel o95 aa Ob pos ob T5I 5 pSog SS Sebo Jar eS geass glel Kez. Oiptel slalom OL 5 ay AS SL Sli (le Set Ae S315 abe SI SI yen pty dl padcae one ie mor ay SIts Olen! Ole Sly ae glued 5h 55 ately! Sf eam «ab Gee Lalo| cas Se ae ck deallas ced Ly Supe ob walls gh pes ciyhe paiaal oo pel pe Ate See 92 SG ol Ge al ag 5. iad SL 9 Ss Ate be Fol Soaaalyl o ply oye Jee wilacily «sees» Jas ly3! Cartel bo lowe. OLSL b eleaS at cel pleold luil oy! Vyol y cal uaa fle 6 Le> le v v 
+پیدایش مسیحیت و گرایش آراهنه به این مذهب نیز مراسم باستای فراوانی چیون چهارشنبه سودی ویربدن آذروی آش ، عیدنوروز ، سیزده بدر، عروسی و حنابندان و بسیاری آداب ورسوم در کرنوسط اراهنه حفظ شد ، کمعم اکنون نیز با اندکی اختلاف بدسورت مراسم مذهبی انجام می شود .
 
-v
+اشتراك زبان نيز چنانكه اشاره شد. بكى ديگراز دلايل انكارناپذير پيوند ويگانكى نژاد ماست ، زبان شناسان با تحقيق ويرزسى ومطالعه درزبانهاى فارسى و ارمنى چندهراركلبه مشترك يافتهاندكه درهردو زبان بيك معنى بكاربرده مي شود. در كين ترين متون ادبيات ارمنى نيزكه از قرن پنجم ميلادى ــ نزديك په ۱۵۰۰ سال پيش ــ بجاى ماننداست ، اين كلمات مشترك به چشم ميخورد ، كلماتي مانند ،
 
-<!-- page 14 -->
+> انگام ساهنگام دروار و پروار سادشوار
 
-y 
+دروار و پروار سا دشخیم سا درخیم
 
-SIF LSA ple mei ola Sy 9TH O29! 5 Sayeoyla Sg| OPM Sh ole ain dade seu 5 ee 9 gp ak cp laa grle ol goal Ol pole IS alae) us i dale pool, Wes 22 (¢ WANE II ty eny, wa Tap tg rae ile copedl el Jee Sut Toye le ale nan die 9ady GH Le Aaa : S99 2212 nS GeceNaS — yal on2 a) 9 mts Gite 4d oy | ways 4 viene Vea plates sie Say BH She 1 (noe prot alas 4 Whos Spey! 23 CHS sib ce 3 ly ane inal a od a te Maal Jpetce 2d. Glas amolaygerlsl SVbolt9 2Silago wile ays NAF oleSilyp. 23 2001 lel Jue paigeMeld b Ob) 9 amd oe Ie S994 9S ye) aNpoletye oyges elt aa edsSilene)bectrshy Sm EShb Seas,Ss, |j (Agere VOTwe SAAS gan JebltUY,ole oy! WBSee | 2lat glaceHBG olga Lis 5s aeet5 Seols i So toe We Sly gia! ob Loa jy WGlel, ot ds erage alyl ys | . 35 se ‘543, 2) AY 900% ow ys) SoS jar! 9d S clas tory Coe meat «22a I 5 pels sisy nus pp pe Shs Se! pew JL Vem JON) SrKas paw 5g, J on 8S 9 Gls 9 lage eb acer ers! spl 2 Soka) Sul in ' pie at re nae oe 4! 7 Agee! 4 383 DAS 9 gl ssl viaS Jie Wleorss Spi 9 545 okt Ob 5 iss lag PN PSs 288 aeons nl SETI, oy 9S Oly Otel ple 6 ake gy lap OT HI Gy. ab als ces i. 2S Hl; Gee! wy sachs larate sol shale as5 ST ig al jay atlas com lov Top 055] aay i ee b515) Sox Seb le MFO) met Se nit Se aah 9 land 33S 59 Oholns gel Jie Fe wile yy Ly et! Ty Sy |, op BSH BF I yrs sp) 504 Sosa 0; soo ly pul js ‘i Die es‘ene ey dg en she 9 lake beg SbWS pesly Cots UT, Shit!Lp cals9 Jasol aOl ayale 2 342-.neySognYe pej OT gc S270a S Nala Np!- Sho3! Se ae ole Ge?oyflatSy aeGate§6d)SadeJamraow S_),4 4 wad Glos vo ot Leb for wile yim Oy oyeb mdr ya pa dian oe ge ty em bral ps8 et peu toly gle LIS as » 3 er anlloeaers pees col aT pee haan! pope 5) 5 ac Ngnr!s emer! abl cin os oles Sy) alae aie col oySap Bae... LS carta PPD ide ope Oailoge os Solas!& abo & SOs! Siewjo |) aigal 63,9 pai 9 ws SG Soy Sz by) : Ja ee Nast aty SN Syd ple ley pill bie Bey, plaid.ao Soetaciee 047 oprsy wi dwly oT puss Ny! Kala! orale ot 20 pail o> US. 5 Sale va dh.‘ayySy LpSAS eeph saltoel oa sSaea FU ZaleOle jaypn peecob easewCesie cakes teg9 cigb leole guyyt! RntonioDe Gouvea = ¢ \¥#Y Gig al ie — ToS 90 yi gl — \ FOB[jd] ree may[2)] ae ptt[ae][aly!] pe») Sale 44 ‘A
+آ ندام د اعدام
 
-<!-- page 15 -->
+. . . وهم چنین کلمات دیگری که در زبان فارسی قدیم رواج داشته و اپناک مسوخ شده است.ولی ارامسه موزاین کلمات را با تافظ ومعنی فارسی آن بنارمی برند. مردد
 
-j 0 te Ate) te ad sp hi mpmeh APA Be Aryl dy “ab Present Opis bj, 1s dim hea: + oH aa Syet  legl i ables Pts Sie gs tide Oe ; set he AP OT SA Se ad 4 saokle tay shone gay beMicteden 9 htt OT oe pas, a thy ge Woihn mit Benes SA «ti spies ; a at na 5 Nas yh saeel watt ors wea pin PHS dep sui}a ewe Net J SAG ob in SS ce! sthiend a}Z|ot opWyS,aepp sae yh arenepdraige SelaabiSlailie Jb pe Aya Sysair| BR daleSey ay Pi. pale Sle\ tee aeil“2d Celtet rdsico re $ Renda,enim fia S28rr oresine SL ol ypginsWaoutedWS[uk] gp Sond aye Mel Wort, «! ci Surcetier’ try aneeeae ae witless 3 a PAM ORI Neg fi i y ede PO FANE Gh 200M gem Sate 3A SS tn go a 4 ‘ con aba SIE Nb vine Nhe ate ogy awas jtalp hp ee) pe ee By! oe Pd Dearie, AA 2 plane pie Sb a! anil yl tala a plan y Siam! aS geal Sun Se Pa . 2S Kien2 some She we MOS 30 08 09 sls are) Sek % ODpromee ie 390 3S Bhan Fm 9 tla SAB csp lao oy Wels aye yeing 4d x! Bidet gsi NID ee! ew! wind igiamieve sy “4 Fi «og ane OND AG ae wilt ND pel§ ae WF dye Naples et og diggdle | ya pled alta ot SS ee ahs! ye ge 21 py aidwt 4 Jo Ahle gilate Ppt dla uneSACSvinwee 4 asols gag Dall nopheays Suey ig 2A Um certs Moti ft Sl ey rhe ot led ye pb Olay! Sea gar S ure q sage Jeena 29! git! VLhie é. SAD wos! stale Sed Spsirs JT ats ashy gm ylales on | ple ab atl ag 1 ferkewee x | sag: Spats Gude, ie Pog a ate oe aa? asthe VAT colada » gab Ly atal ol 53» gcialel Ped fb leold 2) 7 (APO RAR VE) Ve Lede Sip aa pee At team boa mie y , u ae **e** aad gale ag cintesn of ¢ 2 S25 Pe de Fgh te geo» 4 © Talay ght eat dey 4 t %
+اکتون که با این مقنعه ، پیوند قومی و نژادی ارامنه را با سایر اقوام ایرانی بارشاختیم و بیك خطای لفظی ونادیخی در مورد دایرانیان ارمنی، پاسخ دادیم . به معرفیاین قومکینسال ، تاریخیه ، مذهب ، چکونکی مهاجرت ،آداب ورسوم وسایر خسوسیات آنان می پردازیم .
+
+صمناً با توجه به تذکری که دادشد در این نوشتاً مختصر به جای دار امند ایر ان، با داقلیت ارامتمه این گروه از هنوطنان را دایر انیان ارمنی، میخوانیم و با بد منظور سهوات وجلوگیری از تکرار مناوم کلمات به الفظ دار امنده بسند می کنیم . 
+
+{6}------------------------------------------------
+
+دشتهای بین النهرین را به سوی سلسله جبال قفقاز رها کرده ودامنه های این کوهستان را برای سکونت وزندگی برگزیدند .
+
+در این هنگام قوم دیگری نیزدرسرزمین جدید بسرمی بردکه آنان را «ناثیری» ( NAIRI ) می نامیدند و دولت آشور بر آن خط وساکنان آن حکومت می کرده .
+
+طبعاً درهر یا ادا این مهاجر تها زدوخورد باساکنان پیشین هرسرزمین امری مسلم بود . آنان احتیاج به رهبری روشن بین و مقتدر داشتند تا همه نیروهای خود را به جای جنگ و خونر بزی در راه آبادانی و پیشرفت متمرکز کنند و تاریخ این وظیفه سنگین را بعهده کورش کبیر \_ شاهنشاه بزرگ ایران \_ نهاده بود ... ما اینك برای اثبات بستگی وهمآهنگی کامل ارامنه و پارتها و یگانگی افکارومعتقدات آنان بهصورت یك ملت واحد ، کمی به عقب برمیکر دیم واز تاریخ مدد می گیریم ... تاریخ می نویسد؛ می ملت واحد ، کمی به عقب برمیکر دیم واز تاریخ مدد می گیریم ... تاریخ می نویسد؛ مسیح در فلات ایران اقامت گزیدند . قوم آریائی دیگری بنام «آسا» یا «هایا» و یا مسیح در فلات ایران اقامت گزیدند . قوم آریائی دیگری بنام «آسا» یا «هایا» و یا و با آنان به جنگ و جدال پرداختند . این نبردهای خونین نزدیك به سیصد سال ادامه داشت . تا این که سرانجام درقرن پنجم قبل ازمیلاد \_ هنگامیکه کلیهٔ سرزمینهای \_ داشت . تا این که سرانجام درقرن پنجم قبل ازمیلاد \_ هنگامیکه کلیهٔ سرزمینهای \_ اسیای صغیر تحت تسلط و استیلای ایران در آمد ، کورش کبیر به این جنگهای طولانی \_ پایان دادوکوشید تا از همه آنها قوم و ملت واحدی بوجود آورد .
+
+ولی طولی نکشید که شعبه دیگری از نژاد آریائی بنام «ارمن» وارد خاك 
+آراراتوا» شده و با سایر قومها اتحادی تشکیل داد و بدین ترتیب اهالی آن سرزمین 
+که بهدست کورش کبیر به صورت ملت واحدی در آمده بودند « ارمنستان » را بوجود 
+آوردند ...»
+
+چرا این قوم خود را «ارمنی» وسرزمینشان را «ارمنستان» خواندند؛ سئوالی استکه مورخین و باستان شناسان بدان پاسخ گفته اند و ماقبل ازشرح این پاسخ ابتدا مرادنه، OURARTOU میخوانند .
+
+## نژاد ، مذهب ، مهاجرت ، سرزمین ...
+
+جمعیت ارامنه تردیک به ۵۰۰۰ نفر است که اغلب آنها در آذربایجان اصفهان ، نهران وخورستان بسرمی برند
+
+اسههان ، مهران و طور - سند و اروپائی و خانواده آریائی و شاخه آرمن هستند که ارامنه امروز از نژاد هند و اروپائی و خانواده آریائی و شاخه آرمن هستند که بنا بئواهد و مدارك تاریخی ، اسلاف آنها در حدود پانزده قرن قبل از میلاد مسیح از مناطق آسیای مرکزی به کناره های رودخانه سند مهاجرت کردند .
+
+مناطق اسبای مرسون با المان بدآسیای برخی ازمورخان ارمنی عقیده دارندکه این مهاجرت ازطریق بالکان بدآسیای برخی ازمورخان ارمنی عقیده دارندکه این مهاجرت ازطریق با بودند ، مخلوط شده و دولت مستفلی تشکیل دادند . ارامنه مهاجر سیس بتدریج از طرف مغرب بد ارمنستان و نقاط خوبی تر سراز برشدند و هفت قرن قبل ازمیلادمسیح بر روی خرا بی های داوارد دو و چندین دولت تشکیل دادند ،
+
+آنچه مورد تأیید مورخان است ، اینست که : افراد این قوم پس از مدنی کراندهای سند را نیز تراک گفتند و ازراه ایران به سرزمین حاصلخیز بین النهرین رفته، در آنجا منتفرشدند و سرانجام چنانکه تاریخ گواه است ، چندسال قبل از میلاد مسیح
+
+۱- آمارتخینی اداره آمارعمومی به مجله آمار در ایران به شماره اول دیماه ۱۳۳۸ (جمیت ادامندا به اختلاف از ۶۰ تا ۱۰۰ هزارنفر ذکر کردهاند ، دسر جان ملکم، انگلیسی در کتاب خود عده آنهادا بالغ بر ۱۹۳۰ هزارنفر نوشته و «ژوبر» فرانسوی که در زمان فقحلی شاه به ایران آمده جمیت آنان دا ۷۰ هزار نفر می داند ، رقم ۱۱۵ هزار که از یك منیع وسی ماست طبعاً محیح تر به نظر می دسد ، البته باید توجه کنیم که آمار مربوط بسر شماری سال ماست طبعاً به دهسال قبل می باشد ) .
+
+{7}------------------------------------------------
+
+جدود سرزمین موزد بحث را مشخص می کنیم :
+
+منطقهٔ ارمنستان تاریخی ناحیهای استکه مینکناره دریای خزر ازسوی شرق ، به کرجستان ودریای سیاه ازطرف شمال، بهسرچشمههای رودخانهٔ فرات ازجانب غرب رب است. درگذشته مرزهای این ناحید ودردهای رودخانه دجله درجنوب غربی واقع شده است. درگذشته مرزهای این ناحید هبجوقت ثابت ببوده ودرطول تاريخ حدود سياسي واوضاع آن همواره دستخوش تفييرو میدر تحول بوده است . تاآ نرمانکه دوامپراطوری بزرگ ایران وروم شرقی وجود داشت و یِن آنها دائماً جنگ وزدوخورد بود، ارمنستان گاه به تصرف روم در می آمد و زمانی دردست ایران بود -
+
+نام « ارمنستان » منشعب از زبان آرامی عبری و به معنی مملکت و آرمن ها ، است و علت اینکه مهاجران بین النهرین در دامنه های جبال قفقار بدین نام خوانده نده اند بنابکته مورخین این است که دهایك، HAIK نخستین پیشوای این قوم چهار بسرداشتكه نام چهارمين آنها «آرمناك» بود وارامنه را منسوب به آرمناك مي دانند . ها بمعناي HAISSTAN با «هائياسان» نيز كه از نام «هايك» وازكلمه «هاي» بمعناي ارمى كرفته شده نامي استكه ارمنستان قديم رابدان مي ناميدند و تني چند ازمورخان آن را و آرمینا ، میخوانند و داریوش کبیر نیز در یکسی از کتیبه هسای خود این سرزمين را د ارمنيه ، ناميده است .
+
+مذهب قوم ارمني مابند ساير اقوام آ تزمان بريرستش طبيعت استوار بود . آنان نیزمانند پارسیان قدیم «آب» و «آنش» و درون و شب، یعنی نور و تاریکی را مقدس مىدائتندوجال اينكه بسياري ازاين معتقدات ، پس از پيدايش مسيح وگرايش ارامنه به مسبحیت همچنان باقی مانده وهنوز هم ارامنه با شوروعلاقه این مراسم را برگزار می کنند . چنانکه تا قرن چهارم میلادی همه مسیحیان جهان ۲۵ دسامبر او بعنوان روز تولد مسيح قبول داشتند كه روز «الهه آفتاب» است وقبل از ميلاد مسيح نيزجشن گرفته میشد و مسیحیان نیز همین روز را برگزیدند .
+
+همچنین روز ششم ژانویه در کلیسا مراسمی بریا می شود که طی آن ماده مقدس
+
+، مرون ، را در «آب، می دیزندو صلیب را درآن می افکتند ومردم آن آب را برای ترك و شفا دادن به بېماران خود بهخانه مي برند .
+
+نمونهای دیگراذاین اعیاد جشنی استکه در آن ارامنه «آتش» روشنمیکنند ونوعروسان وتازه دامادها ازروىآن مييرند .اين مراسم روز۱۴ فوريه هرسال يرگزار می شود ، درست مانند چهار شنبه سوری است و به احتمال قوی از زمان زر تشت و حتی دوران قبل از آن باقی مانده وعنوان آن شکر گزادی در پیشگاه «خدای آتش» است ارامنه قبل از آغاز مسيحيت داراى خدايان متعددى بودند مانند «آرامازد» ، «آ ناهيد» «آسنعیك» ، «واهاگن» ، «تیر» ، «نافه» ، «گروغ» وغیره .
+
+پس از ظهور زرتشت ، این دین در ارمنستان به سرعت رسوخ کرد و گسترش بافت. داریوش کبیر با تشویق ارامنه به پرستش اهورامزدا باعث آشنائی هرچه بیشتر آنان با مذهب جدید ویگانگی و پیوند ارامنه و پارسها شد .
+
+چنانكه گفتيم ازدهها قرن پيش ازميلاد مسيح تاظهور زوتشت حمله اسكندر و و مدتى پس از آن خاك ارمنستان قديم در ناحيه شرقي آسياي تسلط اشكانيان صغیر قسمتی از ایران محسوب میشد و داریوش کبیر نیز در کتیبهٔ بیستون « ارمنیه » را بخشی از خطه پارس قلمداد کرده است . از آن دوران تا هجوم اسكندر به خاك ايران ، تحولي دراين وضع روى نداد . ولي يا حملة اسكندر ارمنستان نیز به صرف وی و سپس تحت سلط اشکانیان درآمد . در اینجا برای روشنترشدن موضوع بازهمكمي به عقب برميگرديم و دوران قبل ازهجوم اسكندر و موقعیتاً بن سرزمین را درآستانهٔ این حمله وهمچنین حکام، سلاطین وامرای ارمنستان
+
+درقرن نوزدهم میلادی وقتی خاورشناسان درکوههای ایران و ارمنستان و آشور موفق به خوا بدن کتیبه هائی که بتازگی پیدا شده بود گردیدند ، به این نتیجه رسیدند که درسه هزار سال قبل از میلاد جسیح در سرزمین ارمنستان جمعیت کثیری زندگی
+
+{8}------------------------------------------------
+
+می کردماند که سوباری SOOBARIB خوانده می شدند وازمیان این جمعیت فرقعهای ی در در در در در در در در در در در در در ع وال عدى « الرمنستان ، ها المستان ، ها ياستان ، يعنى « الرمنستان ، يام برد ، كه فرقه دهاياس، همان ذهاي،ها و ساكنان « ها ياستان »
+
+دراین عصر در آسیای صغیر حکامی بوده اندکه اسامی آنان وسلسله ها مشان چنانکه
+
+يركنيهها منقوش است :
+
+«اوراردو» ، «مي آتا» ، هموساير » ، همليه» ، هملديس» ، «نائيري» و «مانا» بوده رت المعدود المجموع ابن حكومت نشيرها به عنوان ممالك «ناثيري» نامبرده شده ... در قرون جد كليه اين حكام متحد شده و سلطنت «اور اردو» را تشكيل دادند و با يَنْحَتْ آن مطوسا، بودكه اينكبه هوان، معروف است ، ولي درسال ۲۱۴ قبل ازميلاد مسيح دسارگن ، بادشاه آشور سلطنت «اوراردو» راكه آخرين بادشاه آنان دمنواسدوم» يود منقرض كرد
+
+درزمان سلطنت المنوالس ودم ازطرف مغرب طايفه «ارمن» به ارمنستان آمدند وآخرين آ فارسلطنت «اوراردو» را ازميان بردندوبه طوايف ديگر ارمنستان ملحق شدند. به سال ۴۲۴ قبل از میلاد مسیح اسکندر مقدونی که تازه به سن ۲۰ سالگی
+
+رسید بود. به جای پدر بر تخت سلطنت مقدونیه نشست . و بلافاصله حملهٔ بزرگ کخود را به جانب شرق آغاز کرد . اسکندر تا ۱۲ سال بعد که زنده بود ایران و هندوستان یعنی قسمت عظیمی اردنیای متمدن آثروزرا به صرف خویش در آورد .
+
+بس ازمر که اسکند سه تن از سرداران معروف او که یکی از آنها «سلوکیوس» نام داشت جای او را گرفتند وسرزمین های تصرف شده را بین خود تقسیم کردند و در نتيجه ارمنستان جزوقلمرو «سلوكيوس» درآمد. جانشينان آين سردارمقدوني همواره سعی داشتند که با کمك رومیها ارامنه را منکوب واسیر مگاهدارد ، ولی ارامنه نیز که از این تسلط و فشار بجان آمده بودند بیکار نشستند و توانستند رومیان را بعثوان يار ومند كارخويش دربرابر اسلوكيوس، تجهيز كنند . وسرانجام نيز باكمك روميان
+
+ساط تسلط و قندت مطلقه او را در هم پیچیدند و با استفاده از موقعیت درسال ۱۸۹ نیل از میلاد مسیح استقلال ارمنستان را به دنیای آنروز اعلام کردند .
+
+پس از اعلام استقلال ، سرزمین ارمنستان به سه قسمت تقسیم شدکه به ترتیب ها یك بزرگ» دها یك كوچك» و «سوپاس» خوانده می شد . درقسمت آخرپادشاهی به نام دداره ، حکومتمی کرد ، ولی در ( هایك بزرگ ) ارمنستان ـ «اردشیرجهانگیر» سلطنت داشت که نزدیك به ۳۰ سال ( \_ از ۱۵۹ تا ۱۶۰ قبل ازمیلاد مسیح \_ باقدرت نمام بر این سرزمین حکومت میکرد . وی با بقشه «هانی بال» پایتخت بزرگ خود را در کرانه رودخانه ارس بنا کردکه «آرداشاد» نامیده می شد و هنوزهم خرابه های آن در نزدیکی «ایروان» پایتخت کنونی ارمنستان شوروی باقیمانده است .
+
+دراین دوران رومیان که خود به کمك ارامنه آمده وزمینه استقلال آن رافراهم کرده بودند بدین کشور چشم طمع دوجتند وجنگهای روموارمن آغاد گردید . «تیگران» بزرگترین پادشاهان ارمنستان که ارامنه از او به عنوان یك ناجی و به نیکی یاد می کنند چهل سال تمام ارمنستان را در برابرهجوم رومیان حفظ کرد و سرحدات این کشوررا از کوههای قفقار تا فلسطین و ازدریای سیاه تا «کابادوکیا» (منطقهای در ترکیه امروز) وسعت داد .
+
+تیگرانکه در تاریخهای ارمنستان از او با عنوان شاه شاهان این سرزمین یاد شده است ، بس ازچهل سال سلطنت ، در ۸۵ سالگی درگذشت . تاریخ فوت اودرست پنجاه و چهار سال قبل از میلاد مسیح است .
+
+جانشینان تیگران نتوانستند مرزّهای وسیع ارمنستان را حفظ کنند و پس از مرگ او تاخِت وناز همسایگان شرقی و غربی به ارمنستان آغاز شد و تا سال چهارده میلادی استقلال ارمنستان ادامه داشت. آرسال چهارده تا شعبت وشش میلادی، ارمنستان دستخوش هر جومر ج بود، تا اینکه اشکانیان ورومیان توافق کردندکه پادشاه ارمنستان از اشکانیان باشد . در نیجه این سازش در سال شمت و شش میلادی برادر پادشاه اشکانی « بلاش» بنام «تیرداد» به پادشاهی ارمنستان رسید و سلسله « آرشاکونی » که
+
+{9}------------------------------------------------
+
+همان اشكانيان است ، تا سال جهارصد وبيست وهشت دوام داشت و دراين سال سلسله مذكور بعدست ساسانيان منقرض كرديد وساسانيان يمكنادديمكر ارمستان واجزوقلمرو ا پران در آوردند. اُلبته قسمتی اذاین سرزمین در تسرف رومیان باقی مانند، پود. دراین زمان ارمنستان از خود بادشاهی داشت ، ولی در عین حال جزو قلمرو ایران بشمار مىرفت
+
+باييدايش مسيحيت ارامته يكى ازاولين اقوامي بودندكه ظهو دخصرت مسیح و د حریگواد» مقدس تعلیمات دین جدید را پذیرفتند . در اینجا یادآوری پك نكته ضروري به نظرمي رسه وآن اينكه: درايران هم اكتون
+
+چهار فرقه مهم از غیمویان زندگی میکنند که مردم همه آنها را ارمنی می دانند . در صورتیکه اختلاف دینی این چهار فرقه بسیاراست. قرق چهارگانه همه پیرومذهر مسيح هستند ، ولي طرزعبادت و عقايد آثان با يكديكر متفاوت است. اينان عبارتند از : كاتوليكها ، يرونستانها ، ارتدكسها و بالاخرا اراضه يا «كريگوريانها» .
+
+گروه اخیرکه موضوع مورد بحث دراین گرادش هستند دراصول عقایدبر خلاف کلیسای کانولیك روم بوده و از کلیسای « سریانی » تبعیت می کنند و یکی ازفرق مونو\_ فيريت ها MonoPhysites بشمار مى روند. اختلاف آنان باكليساى كاتو ليك از آنجهت استکه برای عیمی جنبه بشری فائل نشده و گفتهاندکه حقیقت او صرفاً الهی است و عصر بشری او در الوهیت وی میشهلك و محو شده است .
+
+همچنین بعضی مبادی و رسوم کاتولیائ، از منکرند ، که چون قصد ما شرح موارد اختلاف فرق چهارگانه نیست و از طرقی آداب و رسوم مذهبی ارامنه را بظور مشروح خواهيم توشت ، بههمين مواردكلي بسنده ميكنيم .
+
+کرایش سریع و دسته جمعی ارامنه به مسجیت یکی از مسائلی است که برای آگاهی برآن یادآوری جند کنه ضروری است. حضرت عیسی (مسیح) در زمان سلطنت فرهاد چهارم بادشاه اشكاني درفلسطين متولد شد وازقرن بعدمذهب مسيح بهخالشا يران
+
+سرايتكرد . بنابدروايات تاريخي ومذهبي «يهودا» معروف به توماس،كه ازحواريون عسى بود براى تبليغ مسيحيت مأمور مسافرت بهشرق شد . در اواخرقرن اولميلادي شهراورفا (ادما) یا «بدسا»که درشمال فرات ،درسرحد روم شهریآ باد بود، مرکز نشر مسحبت کردید و اولین کلیسای مسیحی ایران در آنجا تأسیس شد . از آن پس متدرجاً به بن النهرين ، آذر با يجان ، حتى خراسان و ماورا لنهر و سرا نجام به كاشفر و چين و منولستان کشیده شد. یکی ازعلل عمدهٔ آمادگی مردم برای پذیرش دین تازه این بود که بعدازغلبه اسکندر کبیر و در زمان جانشینان اوسیس در دوران اشکانیان(بارسحا) كشور ايران و فلسطين مدت چهار قرن زير نفوذ فرهنگ و زبان يوناني بودند .
+
+ازاین رو همینکه کتب مقدس مذهبی - عهد عتیق و عهد جدید - بهزبان یونانی ترجمه شد در ایران قابل استفاده برای همه طبقات مردمگردید و جمعی کثیری که با تعليمات مذهب جديد آشنا شده بودند به آن كرويدند.
+
+ارمنستان يكى ازمناطقى بودكه قبل ازهمه بالادبدين مسيح درآمد مبلغى ايراني بنام دكريكوار ، كه پسرشاهزاده اشكاني وبنام « آناك ، بود ، مسيحيت را در اين ديار ترویج کرد و با گسترش آن مذاهب زرتشی ومهر پرستی در آ نجا منسوح گردید . یکی از بادشاهان ارمنی بنام تیرداد سوم ( متوفی بیسال ۳۰۳ میلادی ) دین تازه را پذیرفت و کتب مقدسیکه درزمان او بز بان ارمنی ترجمه و به خط پهلوی نگاشته شده غالباً باقی است.
+
+درفسل گذشته گفتیم که در دوران سلطنت ساسانیان ارمنستان یکبار دیگرجرو قلمرو ايران درآمدو درهمين دوران بودكه مذهب مسيحي دراين سرزمين نشر وتوسعه يافت تا اينكه در سال ۳۰۱ بعد از ميلاد بعنوان مذهب رسمي ارمنستان اعلام شد.
+
+در آغازقرن بنجم میلادی و در دوران سلطنت « ورام شابوه » یکی از پیشوایان بزرگ ارامندبه نام مسروپ، حروف خط ارمنی راکشف و تکمیلکرد (۴۰۴ میلادی) و با این اقدام مسیحیت بیش از پیش درمیان طبقات مختلفگسترش یافت .
+
+چنا نکه گفتیم ارمنستان با اینکه دارای پادشاه بود ، درحقیقت قسمتی ازخالت
+
+{10}------------------------------------------------
+
+ایرانیشدادی رفت و پادشاهان در حکم هاموران و نمایندگان پادشاهان ساسانی بودند.
+
+بس از اعلام نسیعیت به عنوان مذهب رسمی ارمنستان در دوران یر دگرد دوم - پادشاه
+
+ساسانی - فرمانی سادر شدکه طی آن اعلام شده بود همافقط زر تشتیان را در ارمنستان
+
+بدرسیت می شناسیم ۴. ارمنی ها که با تعلی به مسیعیت گرویده بودند از این
+
+فرمان سخت ناراحت شدند و انقلاب سختی در گرفت ، بطوری که سرانجام بهجنگ
+
+بن ارمنی ها و سیاهیان بردگرد منجر شد . اگرچه در این جنگ یزدگرد پیروز شد ،
+
+بن ارمنی ها و سیاهیان بردگرد منجر شد . اگرچه در این جنگ یزدگرد پیروز شد ،
+
+ولی پادشاه ساسانی پس از اطلاع از علاقه و به تعلی شدید ارمنی ها نسبت به هسیعیت
+
+ولی پادشاه ساسانی بس از اطلاع از علاقه و به تعلی درمگر مورد هجوم و تاخت و تاز
+
+و حمله اعراب به ایران ، ارمنستان مکبار دیگر مورد هجوم و تاخت و تاز
+
+قرارگرفت ، دراین هنگام (قرن هنتم میلادی ) که عربها پس از تسلط برخاك ایران بدارمنستان حملهور شده بودند ، دراین سردمین پادشاهی نبود و فقط چند وزیر که از دوران پادشاهان پیشین باقیمانده بودند مملکت را اداره می کردند . پس از تسلط اعراب بیر تا مدتی همین وضع ادامه داشت تا اینکه در قرن نهم میلادی به امر خلیفه مسلمین پادشاهی از بین اراهنه انتخاب شدیه نام ۱۰ شوت با کرادونی،
+
+پس از تسلط اعراب نیز تا مدنی همین وضع اصحاف به یصف در فرا نهم میلادی بدایم خلیفه مسلمین پادشاهی از بین ارامنه اکتخاب شدیه نام ۱۶ شوت با گر ادونی، که به نام او سلسله دیاگر ادونی، معروف شد . در تاریخ پادشاهان این سلسله را به نام «پاکراتی» با «بقراطی» می شناسیم البته این پادشاه انتخابی بر سراسر ارمنستان تسلط نداشت و پادشاهان کوچك دیگری به نام «سمباد» ، «آشون»، «کاگیك»، «آوانس» و ... در ارمنستان حکومت می کردند .
+
+سلطنت سلمه و باگرادونی و تا ۱۶۰ سال ادامه داشت و در سال ۱۰۴۵ م... ۱۳۴۶ ما منفرس گردید . علت انفراس این سلسله حمله سلجوقیان و تا تارها به خاك ایران و ارمنستان بود که چنانکه در تاریخ ملاحظه نمودها ید سه سلسله این سه تیره بعنی طغرل و چنگیز ، و ارسلان از جانب شرق بعایران حملهورشده و سراسر ایران و خاورمیانه را بعمرف حویش در آوردند . پس از این تهاجمهای پیایی بود که یکیاد دیگر مهاجرت ارامنه آغاز شدو آنان به طرف دریای مدیشرانه و نواحی گوهستانی
+
+میلیسی» و اطراف ایران روی آورده و دراین مناطق پناهنده شدند .
+
+ارامنه پس از استقرار درمحل جدید یادشاه تازمای برای خود تعیین کردندگه مؤسس آن یکی از شاهزادگان سلسله باکرادونی به نام «روبن» است و بهمین جهت سلسله آنهارا « روبنیان » می نامند و تا سال ۱۰۸۰ م (۴۷۲ ـ م ) ، یادشاهان این سلسله عاد تند از :
+
+کومنستانتین ـ طوروس ـ لیون اول تا پنجم... لیون پنجمآخرین پادشاه سلسله روبئیان است که با پادشاه عصر جنگید ودرسال ۱۳۵۷ ـ م (۷۵۸ ـ م) بهاسارت درآمد ولی پس ازمدتی آزاد شد و به پاریس پناه برد و سرانجام به سال ۱۳۵۸ ـ م (۷۵۹ ـ م) در پاریس بدرود حیات گفت.
+
+درقرن چهاردهم میلادی ارمنستان بهدو قسمت تقسیم شدکه قسمت اول بهدست ایران وقسمت دیگر توسط عثمانیها آداره می شد. طبعاً با توجه بهسوابقی که گفته شد ارامنهای که در ایران زندگی می کردند از امنیت و آسایش کامل برخوردار بودند علاآ لکه در قسمت عثمانیها از زحمت و ناراحتی فوقالعاده بسر می بردند وضمناً بد بیست بدائیم که اصطلاح «ارامنه ایران» از تاریخ همین تقسیم ارمنستان پیداشده است.
+
+دوستى و يتانشى باعث شده كه يكبار ديگر سميميت ومحبت فوق العادماى كه اير انبان و ادامنه از مراران سال پيش، بين اير انيان قديم وارامنه وجود داشت درطول تاريخ و فقط پس از پيدايش مسيحيت به خصومت گرائيده بود
+
+خودنمائی کند. برای روشن شدن مطلب در اینجا یکیار دیگر به تاریخ مراجعه می کنیم: مواردی که درطول تاریخ موجب دوستی بین ایران و ارمنستان بوده بسیار است.
+
+مواردی که درطول تاریخ موجب دوستی نین ایران و ارمنستان بوده بسیار است. خویشی سبی که گاه بگاه بین خاندان سلطنتی ایران و ارمنستان به وجود می آمده از موارد ارتباط ما وارامنه بشمار میرود و بطور یکه در تاریخ می حوانیم بسا اوقات ملکه
+
+<sup>1 -</sup> Cilicie
+
+{11}------------------------------------------------
+
+ایران دختری ارمنی از خاندان بادشاهی ارمنستان بوده آست .
+
+باید توجه داشتکه این روابط دوستانه تا زمانی در اوج خود بود ، که حنوز مسیحت بهارمنستان سرایت نکرده بود ، چون از زمانی که آئین مسیح در ارمنستان رشدگرفت و بالنتیجه اختلاف مذهبی و تحصیلاتی بین ایران و ارمنستان بوجود آمد یك رشته جنگهای مذهبی بین دوکشور در گرفت که منت شش قرن به طول انجامید .
+
+دوره نفاق بین ایرانیها و ارامنه تا زمانی که دولت آل عثمان در غرب ایران تشکیل شد ، وجود داشت، اما چون عثمانیها بهارامنه جور وظلم می نمودند ، آنها مجدداً بهسوی ایران پناه آوردند . یکی از وردای مختار بلژیك درعثمانی کتامی در باره قتل عام ارامنه توسط عثمانیها نگاشته و ازجمله می نویسد :
+
+و در پارمای مجالس رسمی دیپلمات کوتاه اندامی با ریش بور و موی خرمائی خیلی مؤدب و کم حرفگاهی در بین نمایندگان خارجی دید می شود . به عنوان جنرال قونمول ایران ، چون زبان فرانسه هم درست حرف نمی در کمتر طرف محاور ، ومعاشرت واقع می شود. مثل این بود که ترکی را هم خوب نمی دانست ، باری در روز قتل عام ارامنه شخص موصوف یك بیرق سعرنگ ایران در بالای کاروانسرای بزرگی برافرات و دو نفرفراش با لباس محصوص در جلو در کماشت و بعنوان اینکه اینجاملك ایران است و بناهندگان تبعه دولت ایران می باشند ، جان ده هزار تن ارمنی را در آن روز با یك چنین فکر بکر نجات داد ، در صور تیکه در تمام سفارت خانه بلژیك یك نن ارمنی آشیز بود و من تنوانستم این مرد را فراردهم و در نتیجه تر کیها او را در مقابل سفارت مانند جوجه و بره که آن مفتول هر روز برای ما ذیح هی کردکشتند . »
+
+این قسیه نمونهای است از محبت ایرانیان نسبت بهارامنه . باز از آینگونه قسایا در تاریخ زیاد است که از آن میان جریان پذیرائی شاه سلطان حسین صفوی را (که مردی خرافی بود) از «اسیرائیل اری» نماینده ارامنه را باید یاد آورشد :
+
+در زمان شاه سلطان حسین یکی از ارامهٔ بنام و اسیراثیداری » برای اینکه حقوق و امنیازانی جهت ارامهٔ بنست آورد بندیارهای روسیه و اطریش رفت . او در
+
+روسیه توانست بطرکبیررا مجبورکندکه هیأتی بهایران فرستاده ، ازشاه ایران رعایت حال ارامنه و رفاه و آسایش آ تان را بخواهد .
+
+بطر کبیر پس از چندی خود «اری» را مأمور در بار ایران کرد ( سال ۱۷۰۷ میلادی ) اما ابتدا از او استقبالی نکردند چه نمایندگان دول اروبائی و میسونرهای باپ از یك طرف و اطرافیان و نزدیكان شاه از طرف دیگر می کوشیدند که شاه او را نبذیرد و حتی برای اینکه شاه را ازاو بترسانند حروف اسم اورا پس وپیش کرده و از آن میان جملهای ساختند که معنی آن «اوشاه خواهد شد» بود. بدینوسیله می خواستند بهشاه ساطان حسین که معتقد به خرافات بود بگویند اسم او نشان می دهد که «اسیرائیل اری» شاه می شود.
+
+اما باهمه وسائلی که برانگیختند داسرائیل ادی به ایران آمدوشاه سلطان حسین از اوبه گرمی تمام پذیرائی کرد . خودار امنه نیز به این مسئله معترفند که ارامنه مهود در مورد احترام ایرانیان بوده اند . دکتر کتابچی خان که یکی از معروفین ارامنه بود در سال ۱۹۱۷ مقاله ای خطاب به یکی دیگر از ارامنه نوشته که در یکی از جراید معروف لوزان به چاپ رسیده است . مقاله مزبور بعدها توسط تفی زاده به فارسی ترجمه و در مجله کاوه مطبعه برلین چاپ می شود . مشار الیه در آنجا نوشته است که :
+
+«سیاست ایران همیشه در باره رعایای غیرمسلمانش ومخصوصاً سیاست آزادانهای بوده است که دولتهای اروپائی خوب بود آن را سرمشق قرارمی دادند و از زمانشاه عباس عمه به ۱۰۲۸ هـ (۱۵۸۷ - ۱۶۱۸ م ) این سیاستهیچ وقت تغییر نیافته است. در این ربع قرن اغلب در روسیه و جاهای دیگر ارمنی ها مورد قتل و غارت
+
+واقع شدهاند وهمیشه در ایران مسلمانان از ارمنی ها دستگیری کردهاند .
+
+درحین جنگ اول جهانی هم هزارها ارمنی به ایران پناهنده شدند و یك نفر
+از روحانیون مسلمان ایران (حاج امام جمعه خوثی) آتان را تحت حمایت خود گرفته
+ویش از دو کرور فرانك اعانه ، تنها از میان هم مذهبان خود برای آنها جمع آودی
+نموده است ... »
+
+{12}------------------------------------------------
+
+بدین ترتیب دردورانی که ارمنستان به دوقسمت تقسیم شده بود ، قسمت ایرانی ارمنستان از رف و آسایش کامل برخوردار بود و این وضع باعث شد که مهاجرت ارمنستان از رف و آسایش کامل برخوردار بود و این وضع باعث شد که مهاجرت ارامنه به صورت مداوم به خاك ایران ادامه داشته باشد . تا اینکه حمله امیر تیمور آغاز شد وسرتاسر ایران و ارمنستان به تصرف وی در آمد ،
+
+با آغاز سلطنت صفویان و به علت لطف و محبت فوق العاده ای که شاه اسمعیل صفوی نسبت به ارامنه نشان می داد ، گروه کثیری از ارامنه نقاط مرزی کشور خود و مناطقی را که دائماً در خطر هجوم وقتل عام عثمانیها بود رها کرده به قسمت دیگر ارمنستان و از آنجا به آذربایجان و مناطق مرکزی ایران آمده و در شهرها و دهان مختلف ساکن شده اند .
+
+در سال ۱۵۸۷ . م - (۱۰۱۳ ه. ق) ودر دوران سلطنت شاه عباس کبیر جنگ برگ ایران و عثمانی آغازشد و مهاجرت بزرگ ادامنه به داخل خال ایران صورت کرفت که چون یکی از نقاط عطف و سرفصل تاریخ زندگی ادامنه در ایران است فصل مستقلی از این یادداشتها را بدان اختصاص می دهیم:
+
+گتبه که همهاجرت بزرگترین حادثه در تاریخ دندگی ادامند مهاجرت به ایران است. این حادثه از آن نظر نیز که یا مخالفت و موافقت بزرگترین حادثه مورخان مختلف گاه مورد سرزش و زمانی مورد ستایش قراز تاریخ زندهی ادامنه گرفته، حائز اهمیت است. زیرا درعین حال که شاه عباس کبیر
+
+بااین اقدام خود ارامندرا از شرقتل عامهای مداوم عثمانیها نجات داد وییروزی خودرا درجنگ باعثمانی تضمین کرد، این عمل خود باعث شد که گروه کثیری از آنان در جریان مهاجرت معدوم شوند و بعهمین جهت گروهی از مورخین درعین حال که نتوانستهاند عطوفت ومهربانی فوق العاده شاه عباس کبیررا نسبت به اراهنه نادیده مگیرند، این اقدام اورا عمل و وحشیانه و دانستهاند. بهرحال چون مهاجرت اراهنه در گزارش ما بیش آنه مطلب دیگری حائز اهمیت است و اصولا این اقدام شاه عباس باعث شد که ضایعات
+
+یاشی از مهاجرت و سفرطولانی در هوای سرد زمستان ، ناهمآهنگی محیط ، ابتلا به بیماریهای عمومی و ازهمهاسف انگیزتر رفتار ناشایست وستمگرانهگروهی از سربازان و لباش با مردمی که خانه وزندگی خود را رهاکرده و به میهن ما پناهنده شده بودند و همین رفتار نابسند باعث قضاوتهای نادرست تاریخی دربازه اقدام بزرگ شاه عباس شده است . با توجه به همه این علل وعوامل لازم به نظر می رسد که بادیدی بی طرفانه از نظرگاه تاریخ و با توجه به اظهار نظرهای مختلف مورخان این واقع را مورد بررسی قراردهم وطبعاً به نگارنده حق می دهد که در این باره به تفصیل سخن گفته و صفحات بیشتری را به این موضوع اختصاص دهد .
+
+شرح مهاجرت و انگیزه شاه عباس کبیر را در چند سطر از نظر خوانندگان مى كذرانيم.استاد نصر الدفلسفي درجلد سوم كتاب محققا نعز بدكي شاه عباس اول مي نويسد: «شاه عباس درسال ۱۰۱۳ هـ (۱۶۰۴ م) هنگامیکه در آذربایجان وارمنستان با دستان باشا، وزير اعظم و سردار عَثماني ، معروف به ﴿ چِعَالَ اعْلَىٰ ﴾ سركرم جنگ نود ، برای اینکه لشکر دشمن را از آذوقه و آب و علف محروم سازد ، فرمان داد که تمام شهرها ودهکندهائی راکه در ارمنستان برسرراه سپاهیان عثمانی بود، ویران کنند و بسوزایند ومزدم آنجا مخصوصاً ارامنه شهرهای جلفا و ایروان و اطراف آنرا كه بيك روايت بيش ارشصت هزارخانوار بودند بهنواحي مختلف ايران خاصه اصفيان وگیلانکؤچ داد . از آن جمله نزدیك بیست وهفت هزار خانوار را بهگیلانکوچانید كه بيشترآنان بهعلت ناسازگار بودن آب وهوا تلف شدند. قسمت ديگر ايشان را نيز بدولایات مرکزی و جنوبی ایران منتقل کرد و در خدود سه هزار خانوار را در کنار زاینده رود اصفهان چای داد . این دسته با اجازه و فرمان او در ساحل زاینده رود به یادگار زادگاه خویش شهری بنام جلفای نو ساخته ، که بعد از آن بعجلفای اصفهان معروف شد . جمعی از ارامنه نیز از قصبات و آ بادیهائیکه میان اصفهان وشیراز بود منفرق و ساکن شدند . گروه اخیر پس از یکی دو نسل بیشتر بدین اسلام در آمدند و با ساکنان محل در آمیختند ...
+
+{13}------------------------------------------------
+
+و اینك شرح دقیق و مفصل ماجرای مهاجرت :
+
+ولایات ارمستان وشروان ارسال عده هـ (۱۵۸۷ م) دو زمان بادشاهی سلطان محمد خدا بدد د بدر شاه عباس - عرصة تاخت و تار سياهيان ترك شد و ار سال ١٩٩٩م (م ١٥٩٠م) بنا ير پيماني كه ميان نمايندگان شاه عباس وسلطان مر ادخان سوم سسلطان عثمانی - درشهر استانبول بدامعنا رسید شهر تبریز با قسمت غربی آذر بایعجان وولایان ارمستان و شکی و شروان و گرچستان و قرایاع و قسمتی از لرستان با قلعهٔ نهاوند از طرف آن بادشاه رسماً بنولت عثماني تسليم شد. اين ولايات تا سال ١٠١٢ هـ (١٠٥٣م) همچنان در تصرف ترکان عثمانی بود . در این سال شاه عیاس مصمم شد که لشکر بد آذر بایجان بفرستد و ولایات از دست رفته را بازگیرد ...
+
+پس از روز هفتم ربیعالثانی همان سال بهعنوان اینکه برای سیر و شکار هوس مازندران و گیلان دارد ، از اصفهان بیرون آمد و چون به قروین رسید قصد حقیق خوش را آشکارکرد و از آمجا شن روزه خودرا به تبریز رسانید و باگرفتن آن شهر جنگندی خونین ایران و عشانی را آغازکرد
+
+بادشاد صعوى تازهستان سال ١٤٠٧ه (١٠٥٣ - م) قسمت بزوكي از آ در با بسان وقراباغ وارمستان را با قلممعای بزرگ ایروان و تخجوان از ترکان بازگرفت وچون دراين تاريخ خبريافتكه منطان عثماني دسنان پاشا، يمكي او سرداران بزرگ خويش را ـ كه به اچفال اوغلى» ـ معروف بود با سياه بسيار روانه ايران كرده است و آن سردار از شهر موان، بصوي شهر قارص و آندبا يجان پيش مي آيد ، به تقليد از جدش شاه طهماس اول فرمان داد که شهرهای آ باد ارمنستان را ویران کنند و از غالات و آنوقه چیزی برجای نگذارند وتمام مردم آن تواحی را بینر به خاك ا بران كوچ دهند، تاكميايي آب وآدوقه مانع پيشرفت سردار ترك و سياهيان دشمن گردد ، متأسفانه أين فرمان شاه عباس با توجه به تعصب شدید مذهبی سربازان قر لباش و دشواری اهر کنتیران آنان ـ بعلت وسعت و عظمت نفشه ـ باعث بروز حوادثي شدگه در آثار ينح چند هزار ساله دولتي ايرانيان و ارامنه سابقه بداشت و جمعي از مورخان مسيحي. نين فرصتي
+
+مافتند تا با تکیه بهاین حوادث و افزودن شاخ و برگ بهآن نسبت بهایران کینه توزی کنند . از جمله یکی از معاصران اروبائی شاه عباس دراین باره می تویسد :
+
+دشاه عياس چون آگاه شدكه چفال اغلى از دوان، بمجانب دقارس، پيش مي آيد، از نزدیکی این شهر عقب نشست و از رود اوس - که اومنستان کبیر را در نزدیکی شهر مخجوان به دو قسمت میسازد ـ گذشت و در اینسوی رودخانه به انتظار تسمیم چهال اغلی اردو زد ، زیرا اگر سردار تراله از رودخانه میگذشت شاه با اومی جنگید وبي كفتكو شكستش مي داد ، چنانكه يك ترك هم زنده نمي ماند ، و اكر از رود ارس لمی گذشت گرفتار سرمای سخت زمستان، که تازمآغازشده بود میشد؛ وبرسپاهش آسیب فراوان ميرسيد. ولي شام براي آنكه شهرهاي آباد ارمنستان راكه غالباً خودتسليم وي شده بودند در اختیار ترکان نگذارد ، تصمیم سخت وحشیانهایگرفت و اخطار کردکه ممهٔ اهالی ارمنستان که در آنسوی ارس هستند ، باید شهرها و خاندها و دهکندهای خودرا دو روز پس از فرمان شاه ترای کنند و بدین سوی رودخانه منتقل گردند و گرنه كشته خواهند شد . پس از آن مأموران فرستاد تا سراسر ارمنستان را ویران كنند و آنچه آذوقه درآ نجا هست به سوزانند ومزارع را آتش زنند وچاهبای آب وچشمه ها را پرکنند وآب انبارها را ویران سازند ، تا چغال اغلی وسیاهیان وی گرفتار قحط و غلا شوند .. مأموران او ارامته را بهصرب چوب از شهرها و دهكندها وخانهها يشان بیرونکردند و در این نقل و انتقال برآن بیچارگان صفعات بسیار رسید.....
+
+عمين تويسنده با وجود بيال حقايق متأسفانه سفرتامة او در يارماي قسمتها با تعميات مذهبي آميخته است و ضمن شرح مهاجرت ارامنه بارها أز « تبديل كليساها به اصطبل .. سوراندن صور مقدس. وتوهين بمعقنسات كليسا ... ، شكايت كرده است . ولي ما به خاطر حفظ امانت و رعايت بيطرفي قسمتهائي از نوشته او را عيناً نقل میکنیم . او در جای دیگر از کتاب خود بازهم در بازه مهاجرت ارامنه به ایران
+
+۱ \_ انٹونیو دوگوء آ \_ سفر نامه \_ چاپ ۱۶۴۶ م = Rntonio De Gouvea
+
+{14}------------------------------------------------
+
+الله بالعالى جلنا إسب أنيك هنكام حمله او به أذر با يعان مران ي ر داران و لادرا کشتاه سرهای ایشان دا بو ایردگرده به استقبال دهند بودند) مهر بانی سرداران و لادرا کشتاه سرهای ایشان دا بو ایردگرده به استقبال دهند بودند) مهر بانی ارد و آمان دادر استفیال جای داد. وقی باقی ارایسه بنرای شهرها و مشاکل متوهورایش اگرد و آمان دادر استفیال جای داد. سی ندند و میاد ایک بیر هر نعظه بامنوی فاریق ب که از دیدکتر بی شهر بعایر آن ایز: سی ندند و میاد ایک بیر يش مرآمدند، پس شه فرمان داد که سریادان ایران مردم را به حرکت و مهامران مدين ايران معبود كيند، سرياران يا شمئيرهاي كثيبند بدهكنده؛ مريرفتند رو مدين ايران معبود كيند، سرياران يا شمئيرهاي كثيبند بدهكنده؛ مريرفتند رو كرجمارات را احسار مي كردن و بدسرشاه قمع مي خوردندكه اكر پس از يجند مراعل ويتيوزنكوج تنصدس حودودان وفردنداختان يربعه حواهد شد . يدين ترتيب مرده بهارد از مستان با کریه و فراوی و استفاله برای افتادند ، منظرمای دلخراش بود زیان ك توهرانتان در بيكاري والد تامكنندشه يا مرده بودند سيداستندك يا پنج يا سن كودك چه كنند ارآن جمله بعني بدرهي عي افتادند و با يوسه هالي خاك وطن را وداع می گفتند و چیزهالی می گفتند که دل پیشک را آب می کرد .. سرا نجام به سوی نريز وأد افتدند يا از أن شهر بندون أبران روند . بيش از شعت هزأر خانوار از فمبدها وشهرهاي كدو سرداء سياه عثماني يودند وبدين سبب مشمول أين فرحان شديد بسركت در أمدند ... در دام اين قوم توره روزگرفتار بسرماى سحت رمستان كشتيد و چون عالباغارندرده وبريزک يودند ارسرما آسيب فراوان ديدند. و پسياري از ايشان نان درند : پس از آن هم چون آ يوقه باچېرې که همراء داشتند نمام شد، و آ باديماني مبازراء بروبران ويرأبوقه يودوجار قحط وعلا شديدوكاريدا تجأ رسيدكه يضورون مردكان ربها وأوندوسيس يجون مرده نيز يحدكها بت نبود بخوز دن أطفال متودير واختبند وكوكم للر بحورين منفوع انسان وحيوانكشيد تا أنجاكه يرسرجمين خوراك بفرتيب الكيريكديكر را ميكشند ، غام عباس جهار أن أيشان را در دهكدمائي جايرداد ولي در آبوا بر بقر و منسيدي يس مي رديد و غالباً بهگدائي مثعول بوديد ..
+
+ا توسیده دریاره حمله شارعباس درسالهای ۱۰۱۲ و ۱۰۱۳ هـ (۱۳۹۲، ۲۰۹۲) . درهمین زمینه می توسد :
+
+بین از بین از بین شیر زید و پرجمعیت از کوچان و بزرگه یاد بدنا داند. ا بیا در ولایت ایروان بیش از حزار و پاسمدارید آ باد بود که هریات از جهار سد نا پاسد خرجمعیت داشت . شهرهای بزرگی که و بران شد ، ایروان ، منجوان ، شروان و فارس جود این شیرها دا شراب و فارت گردند . گلیساها در به اسطیل مبدل ماجشد سرر مقدس را شکسند و در آش افکندند و بسفنسات گلیسا توهین بسیار روا داشند براز آن زنان و مردان و کودکان دا بیردگی بردند . . . عدم اسیران دا تزدیات سد مراز نیز تونتهاند و این نفت با ملاحظه عدم شهرها و فعیات از منستان افراق بیست. دختران و زنان را میان خود قست می کردند . پس از آن نیز آن بیجارگان دا که بختران و زنان را میان خود قست می کردند . پس از آن نیز آن بیجارگان دا که بختران و زنان را میان خود قست می کردند . پس از آن نیز آن بیجارگان دا که بختران و زنان را میان خود قست می کردند . پس از آن نیز آن بیجارگان دا که می گردند و اداین عدم بنیادی از سرما و بازان گلوله دشدن مردند . و د
+
+طبیعی است. که همه این وقایع و اقدامات سندگرانه با نظر و نیت حقیقی شاه عاسی دفت مدف اصلیش سگذشته از پیروزی بردشمنان سد نجات اراضه از قتل عام مداوم وظام و جور عندامیها بود مفایرت کامل داشت و حتی بسیاری از مورخان مسیحی نیز اقدام شاه عباس را مورد تأیید و تنحسین قرار دادباند چنانکه « ژان با پست تاوریشه » در سفر نابه خود خطاب بداراهنه می گوید :
+
+با ترجه بهزندگی تکست بازی که زیر سلطه شوم عثمانیها داشتند حق ندازید از ترك گفتن اوطان خود متأثر باشید .
+
+همچنین کروهی دیگرازمورخان غربی مثن فرمان شاه عباس را میشی برایتکه دهیچ مملمانی حتی نماود ارامنه را آزار دهد وهرکز نمنیت بهافراد ارمنی پدرفتاری
+
+۲ به شاه هیاس علی فرمانهایی اساوت و بردگی ادامته دا قفو و عاملین آنر ا سیاست کردکه شرح آن درستجات آیند. خواهد آمد.
+
+٣ ــ سفر نامه التونيودوگوامآ .

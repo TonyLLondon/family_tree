@@ -1668,3 +1668,534 @@ A colour photograph of a bookshelf cupboard crammed with bound albums and books 
 > *E in più due scanze que dentro*
 
 And on top of that, two more shelves inside.
+
+---
+
+## Nonna Mario Album — Provenance of the supplement pages
+
+A handwritten note in English explaining the origin of the supplement. Nonna prepared an album of photos for her son Mario, which was copied to disc. She sent the album and disc to Mario; discs were sent to relatives in Italy, and Nonna gave copies to "the children." These scans are taken from her copy of the "Mario Album" and are of pages not included in the one sent out — hence the "FLSupplMA" prefix. The original (her copy) was passed to Michael.
+
+> *Nonna Mario Album*
+>
+> *Nonna prepared an album of photos for Mario which I copied to disc.*
+>
+> *She sent the album (+ disc) to Mario. I sent disc to relatives in Italy. Nonna gave copies to 'the children'.*
+>
+> *These scans are taken from her copy of the 'Mario Album' and are of pages not included in the one sent out. Thus FLSupplMA—..*
+>
+> *The original (her copy) is passed to Michael.*
+
+---
+
+## Quindi: per chi non lo sapesse — For those who didn't know
+
+A page of Nonna's handwriting in Italian — a dramatic, rhetorical opening addressed to the many family members across three generations who may not know the stories that follow.
+
+> *Quindi:*
+> *...per chi non lo sapesse.....*
+>
+> *...e sono in Tanti...*
+> *...della nostra generazione*
+> *...di quella dei nostri figli*
+> *...e di quella dei nostri*
+> *nipoti.*
+
+So: for those who didn't know..... and there are many... of our generation, of our children's generation, and of our grandchildren's.
+
+---
+
+## Guida archeologica di Zara — The Addobbati genealogy from Sabalich
+
+A photocopy of page 503 from Giuseppe Sabalich's *Guida archeologica di Zara*, with a handwritten attribution at the bottom. This is a key genealogical source tracing the Addobbati family from Bergamo in 1495 to Zara.
+
+> *Pag. 487. — Lo stemma non corrisponde a pieno a quello riportato nell' „Heyer" a pag. 95, tav. 57, nè all'autentico nel quale stemma il sole sovrasta la torre e questa ai tre gigli.*
+>
+> *La famiglia degli Addobbati è oriunda da Bergamo. La genealogia lecta in Majori 1745 6 septembris a Bergamo e ricavata dalla fede dei Notaji di Bergamo descrive i seguenti soggetti D. Petrus de Adobatis Civis Bergomi (1495), D. Joanes Aloysius creato notajo (1511), D. Ioanes Baptista creato notajo (1559), D. Iacobus notajo, creato cittadino (1610), D. Ivanes Baptista notajo (1630), D. Daniel (1651), D. Ioanes (1676) capitano dei corrazzieri il quale ebbe tre figli: D. Daniele (1702), D. Laurentius (1705), D. Iosephus (1709) e questi tre si trasferirono a Zara. Ai cinque figli di Daniele fu rilasciato l'attestato di Cittadinanza di Zara. Ebbero per conseguenza, in Zara, coll'andare dei tempi e cariche urbane e onorificenze si formarono una sostanza ed abbracciando l'avvocatura o entrando nel sacerdozio si acquistarono fiducia e stima.*
+>
+> *Dal libro delle parti prese e da i vari documenti (ora in possesso dell'i. r. Tenente Colonnello Simeone Addobbati q.m Pietro Paolo) riferiamo a titolo di curiosità varie cariche urbane giacchè le denominazioni ricordano tempi andati.*
+
+> *Da G. Sabalich. Guida archeologica di Zara, Arnaldo Forni Editore — Zara 1897 [?]*
+
+Page 487 — The coat of arms does not fully correspond to that reproduced in the "Heyer" at page 95, plate 57, nor to the authentic one, in which the sun surmounts the tower and the tower the three lilies.
+
+The Addobbati family originates from Bergamo. The genealogy read in the Cathedral on 6 September 1745 at Bergamo, drawn from the records of the Notaries of Bergamo, describes the following individuals: D. Petrus de Adobatis, Citizen of Bergamo (1495); D. Joanes Aloysius, created notary (1511); D. Ioanes Baptista, created notary (1559); D. Iacobus, notary, created citizen (1610); D. Ivanes Baptista, notary (1630); D. Daniel (1651); D. Ioanes (1676), captain of cuirassiers, who had three sons: D. Daniele (1702), D. Laurentius (1705), D. Iosephus (1709) — and these three transferred to Zara. To the five sons of Daniele was granted the certificate of Citizenship of Zara. Consequently, in Zara, over time they obtained civic offices and honours, built up a fortune, and by embracing the law or entering the priesthood earned trust and esteem.
+
+From the book of decisions taken and from various documents (now in the possession of the I. R. Lieutenant Colonel Simeone Addobbati, the late Pietro Paolo's son) we report, as a curiosity, various civic offices, since the titles recall times past.
+
+From G. Sabalich, *Guida archeologica di Zara*, Arnaldo Forni Editore — Zara, 1897.
+
+---
+
+## Il Collegio delle Dame Inglesi — The English Ladies' College in Zara
+
+A blue-toned postcard of "Zara — Liceo e Convitto S. Demetrio" showing the school from the waterfront. Three handwritten notes are affixed to the page: one about Nonna's expulsion from the English Ladies' College; one about Nonno's pride in the Addobbati name; and one about the building later becoming a Dominican Sisters' elementary school.
+
+> *Il Collegio delle Dame Inglesi dal quale la Nonna è stata espulsa per aver insistito a dire .... la verità*
+
+> *El Nonno diseva sempre "I Addobbati"! Teste dure!*
+>
+> *ma a Zara non ghe iera complimento più alto de questo: El xe un vero Addobbati*
+
+> *Passato poi alle Suore Domenicane era Scuola Elementare Pubblica nell'edificio di destra, i due piani inferiori*
+
+The English Ladies' College, from which Nonna was expelled for insisting on telling the truth.
+
+Nonno always used to say "The Addobbati!" Hard heads! But in Zara there was no higher compliment than this: "He is a true Addobbati."
+
+Later passed to the Dominican Sisters, it became a public elementary school in the building on the right, the two lower floors.
+
+---
+
+## I Zaratini erano famosi Italiani — Ceremony and patriotism in Piazza dell'Erbe
+
+A photograph of a formal ceremony in Piazza dell'Erbe, Zara, with officials and flags. A note at the top identifies the roof of Palazzo Zerauschek visible in the background. Below the photo, Nonna writes about Zaratini patriotism and recounts an anecdote from her first university exam during the war.
+
+> *In fondo nel mezzo il tetto del Palazzo Zerauschek [?] visto in Piazza dell'Erbe*
+
+> *I Zaratini erano famosi Italiani*
+
+> *Al mio primo esame di Università durante la guerra (non frequenze obbligatorie) stavo facendo un fiasco colossale quando il professore (mai visto prima) feroce mi è [?] chiesto come mi chiamavo e da dove venivo. Quando o detto Zara, mi à dato 27 perchè "i Zaratini sono i nostri migliori Patrioti"*
+
+In the background, in the middle, the roof of Palazzo Zerauschek seen from Piazza dell'Erbe.
+
+The Zaratini were famous Italians.
+
+At my first university exam during the war (attendance not compulsory), I was making a colossal mess of it when the professor (never seen before), fierce, asked me what my name was and where I came from. When I said Zara, he gave me 27 because "the Zaratini are our finest patriots."
+
+---
+
+## Il monumento ai Caduti — The war memorial
+
+Two photographs of the war memorial in Zara ("Il monumento ai Caduti"), one showing a child standing near the monument among officials and crowds. A handwritten note recalls a childhood escapade at the memorial.
+
+> *Il monumento ai Caduti*
+
+> *Ben: quella volta che te dirò non ghe iera nessun (meno che quello che ghe xe andà a contar al Papà) come ga vorà [?] avudo? 8 o 9 anni! Iero proprio difficile con quello sporgenso [?]!*
+
+The monument to the Fallen.
+
+Well: that time, I tell you, there was nobody there (except the one who went and told Papa). How old could I have been? 8 or 9! It was really difficult with that ledge!
+
+---
+
+## Ritratto — Portrait of a young woman
+
+A sepia-toned studio portrait of a young woman reclining against an ornate folding screen decorated with painted flowers and birds. She wears a dark dress with a white ruffled collar. No handwritten text accompanies the image.
+
+---
+
+## La costruzione della casa — Building the apartment in Zara
+
+Three photographs documenting the construction of the family's apartment building in Zara. Two small photos at top show the excavation and reinforced-concrete framework; the larger photo below shows the completed building. A handwritten note explains that Roman walls and the aqueduct were discovered during the dig — but no pot of gold, as people claim. A second note records that Massimo, after a recent visit to Zara, reported the original shutters were still in place.
+
+> *Durante gli scavi sono state trovate alcune mure Romane e l'acquedotto ma NON un pozzetto d'oro come dicono le gente*
+
+> *Mi à detto il Massimo dopo una recente visita a Zara, che le tapparelle sono ancora quelle di quelle volte*
+
+During the excavations, Roman walls and the aqueduct were found — but NOT a pot of gold, as people say.
+
+Massimo told me, after a recent visit to Zara, that the shutters are still the original ones from those times.
+
+---
+
+## Sigarette "Calypso" — A cigarette box from the Zara tobacco factory
+
+A red-and-cream cigarette box labeled "Calypso" — Manifattura Zaratina Sigarette, Società Anonima, Zara (Italia) — with an original cigarette beside it. The cigarette paper bears the same factory name and "ZARA" in green print. A handwritten note at top reads: "Passed on to Valerie August 05—"
+
+> *Passed on to Valerie August 05—*
+
+> *SIGARETTE*
+> *"Calypso"*
+> *MANIFATTURA ZARATINA SIGARETTE*
+> *SOCIETÀ ANONIMA*
+> *ZARA (ITALIA)*
+
+---
+
+## Il Centrale è aperto — Papà's letter about the café's success
+
+A handwritten letter in blue ink — the closing page of a letter from Papà. He writes that something always holds him back, but "Il Centrale" has opened to great success, more beautiful than expected. He hopes to break away in the coming days and perhaps visit. All are well; Mamma and Liano are the café's best customers. Signed "Ottobre baci, Papà."
+
+> *ma sempre qualcosa mi trattiene. Il Centrale è aperto, il successo è stato grande, è riuscito più bello di quello che [?]. Ora questa partita è finita spero che questi giorni potrò staccarmi per venire forse fino da te.*
+>
+> *Tutti noi stiamo bene, Mamma e Liano sono le migliori clienti del Centrale, questo come cronaca.*
+>
+> *Ottobre baci*
+> *Papà*
+
+...but something always holds me back. The Centrale has opened — the success has been great, it turned out more beautiful than expected. Now this round is over and I hope that in the coming days I'll be able to break away to come, perhaps, all the way to you.
+
+We are all well. Mamma and Liano are the Centrale's best customers — that, as a news report.
+
+October kisses, Papà.
+
+---
+
+## Tennis, pattinaggio, e la piscina — Sports and leisure at Val di Maestro
+
+Three photographs: a tennis court with arched colonnades; a small stone gatehouse in a garden; and a large group of young people gathered at a seawater pool. Handwritten notes identify the tennis court as promptly abolished by the communists as a "capitalist game," possibly the only clay court in Dalmatia at the time. The gatehouse was in the garden of Val di Maestro, where Nonna once hoped to live alone. A note at top right identifies the skating rink to the right.
+
+> *A destra il campo di pattinaggio*
+
+> *Il campo da Tennis, prontamente eliminato dai comunisti come gioco CAPITALISTA. Di terra battuta forse allora l'unico in Dalmazia*
+
+> *La casetta nel giardino di Val di Maestro (dove speravo di andare a vivere da solo [?]) e la piscine di mare*
+
+On the right, the skating rink.
+
+The tennis court, promptly abolished by the communists as a CAPITALIST game. A clay court, perhaps at that time the only one in Dalmatia.
+
+The little house in the garden of Val di Maestro (where I hoped to go and live on my own) and the seawater pool.
+
+---
+
+## Le Rive Nuove — The waterfront before and after the bombardments
+
+Three photographs of the Rive Nuove in Zara. Two taken from a window of the Hotel Bristol show the elegant waterfront promenade with trees and the sea. The third, below, shows the same waterfront in ruins after the wartime bombardments. Notes identify the photos as taken during Count Giampiero Belgioioso's honeymoon trip, and add that Nonno only rented the hotel — he didn't own it.
+
+> *La Rive Nuove. Fotografie prese da una finestra del l'albergo Bristol del Conte Giampiero Belgioioso in viaggio di nozze*
+
+> *Penso che il Nonno lo avesse soltanto in affitto*
+
+> *La Rive nuove dopo i bombardamenti*
+
+The Rive Nuove. Photographs taken from a window of the Hotel Bristol, belonging to Count Giampiero Belgioioso on his honeymoon.
+
+I think Nonno only had it on a rental basis.
+
+The Rive Nuove after the bombardments.
+
+---
+
+## Cavalli e Carozze — Horses and carriages
+
+Three photographs: a family group on a horse-drawn cart before a stone cottage; a horse and carriage among pine trees; and a group of adults and children dining outdoors under a leafy canopy.
+
+> *Cavalli e Carozze*
+
+Horses and carriages.
+
+---
+
+## Salotto e camera da pranzo — The living room and dining room
+
+Two interior photographs of the family home. The upper photo shows the living room: children and parents gathered around an ornate carved table on a fine carpet. The lower photo captures a towering Christmas tree in the dining room, the high ceiling and frescoed walls dwarfing the figures below.
+
+> *Salotto: Ti ti ga el Tappeto*
+
+> *Camera da pranzo. Ben che la nonna iera bassa.... ma che soffitti!! — Muri affrescati — camino di maiolica ecc ecc*
+
+Living room: You've got the carpet!
+
+Dining room. Though Nonna was short.... but what ceilings!! Frescoed walls — majolica fireplace, etc., etc.
+
+---
+
+## La costa di Lukoran — Bomb damage at the coast
+
+A moody seascape photograph taken from a rocky shore, looking out at the coast of Lukoran across dark water. A handwritten note explains that the coastline was hit by a bomb from an aircraft pursuing a steamship.
+
+> *La costa di Lukoran centrata da una bomba da un aereo che inseguiva un piroscafo.*
+
+The coast of Lukoran, hit by a bomb from an aircraft that was pursuing a steamship.
+
+---
+
+## Le scuole — Nonno's education and Montecassino
+
+Two photographs captioned "Le scuole" (The schools): a figure in a long dark cloak standing on a balustraded terrace of an imposing building; and a group climbing on rocks. A side note hints that Nonna nearly became a cardiologist. The longer note tells Nonno's story: at seven he went fishing instead of going to school; at sixteen, after his father died, he fled to Trieste; at thirty he was a millionaire — but the cultural gap he carried made him insist on the best education for his four children. Montecassino was not just a school; it was a "beacon of civilization."
+
+> *(El! quasi quasi invece che cardiologo.......)*
+
+> *Il Nonno a sette anni andò va a pescare invece di andare a scuole. A 16, morto suo Padre è scappato a Trieste. A 30 era milionario. Gli è rimasto un vuoto culturale che non tollerava in noi quattro. Montecassino non era solo una scuola era un "FARO DI CIVILTÀ." Bon! che LA i vede.*
+
+(Him! I almost became a cardiologist instead.......)
+
+Nonno, at seven, went off fishing instead of going to school. At 16, after his father died, he fled to Trieste. At 30 he was a millionaire. He was left with a cultural void that he would not tolerate in any of us four. Montecassino was not just a school — it was a "BEACON OF CIVILIZATION." Well! Let them see for themselves over THERE.
+
+---
+
+## Lettera di Papà a Fulle — Scolding for poor grades
+
+The first page of a letter from Papà to his daughter "Fulle" (Fulvia). He writes that Mamma read him Fulle's latest letter, in which she complained he never wrote. In truth, he had decided not to write again because she didn't deserve it — her latest report card was as disastrous as all the previous ones. He warns that if she won't rest properly, she'll spend her holidays in boarding school studying all day without going out. A note in Nonna's hand is appended in dialect at the bottom.
+
+> *Fulle ieri sera la mamma mi ha letto la tua ultima lettera, nella stessa ti lagnavi ch'io non ti scrivo ancora. Veramente avevo deciso di non scriverti più, perchè non meriti. L'ultima pagellina è stata come le precedenti, cioè note disastrose.*
+>
+> *Osservo che proprio non vuoi riposare, fai male, perchè guarda, che le vacanze le farai in collegio e dovrai studiare tutto il giorno senza uscire un*
+
+> *E invece anche mi gavorìo preferido de andar a pescar.....*
+
+Fulle, last night Mamma read me your latest letter, in which you complained that I still haven't written to you. Truthfully, I had decided not to write to you any more, because you don't deserve it. Your latest report card was just like the previous ones — disastrous marks.
+
+I notice that you really don't want to rest; you're making a mistake, because mark my words, you'll spend the holidays in boarding school and will have to study all day without going out for a single...
+
+And yet I too would have preferred to go fishing.....
+
+---
+
+## Lettera di Papà, continua — The threat of real work
+
+The second page of Papà's letter to Fulle. He threatens that if she still doesn't knuckle down, he will pull her out of school and put her to work in one of his businesses — then she'll understand the harm she's done. He notes that Mario studies well, and Guido has been much better lately, scoring eight in his last Italian essay. So she is the only one who insists on doing badly. Once more, on Mamma's behalf too, he urges her to try.
+
+> *momento fino a che non avrai riparato, e se così ancora non metterai la testa a posto verrai via dal collegio e ti metterò in qualche mia azienda a lavorare, e allora ti accorgerai del male che hai fatto. Mario studia bene, Guido in questi ultimi giorni si è molto corretto e nell'ultimo tema d'italiano ha preso otto. Dunque non sei che tu che ti ostini a non far bene. Ancora una volta anche a nome della mamma ti raccomando*
+
+...moment until you've made up the work, and if even then you still don't get your head straight, you'll be taken out of school and I'll put you in one of my businesses to work — and then you'll realize the harm you've done. Mario studies well; Guido in recent days has improved greatly and in his last Italian essay scored eight. So it's only you who insists on not doing well. Once again, also on Mamma's behalf, I urge you...
+
+---
+
+## Lettera di Papà, chiusura — Study hard and I'll pull your ears
+
+The closing page of Papà's letter to Fulle. He urges her to throw herself into her studies with energy — she'll see it's not so hard to catch up. If times weren't so difficult, he'd come to Genova just to pull her ears. Signed with kisses. Dated Zara, 6 May 1940.
+
+> *di metterti allo studio con energia e vedrai che non ti sarà difficile rimediare.*
+>
+> *Se i momenti non sarebbero difficili verrei a Genova, ma solamente per tirarti le orecchie.*
+>
+> *Ottolio [?] baci*
+> *Papà*
+>
+> *Zara 6o/5 — 40*
+
+...to throw yourself into your studies with energy, and you'll see that it won't be hard to make up the work.
+
+If times weren't so difficult I'd come to Genova — but only to pull your ears.
+
+Kisses, Papà.
+
+Zara, 6 May 1940.
+
+---
+
+## Quel quattro quattro quattro — Another letter about the four in maths
+
+A second letter from Papà to "Cara Fulle," dated Zara, 5 March 1940, Year XVIII. He writes that after all this time he still can't forget that four-four-four in mathematics. Doesn't she feel ashamed not to know how to add? What matters most, she neglects. One needs to know gymnastics and singing, as she does — but he believes that when one goes to school, one should also know mathematics and Italian.
+
+> *Zara 5/3 40 XVIII*
+>
+> *Cara Fulle*
+>
+> *Eccomi dopo tanto tempo, sempre ho presente quel quattro quattro quattro in matematica !!!!*
+>
+> *E non ti vergogni a non sapere sommare?*
+>
+> *Quello che più interessa, tu trascuri. È necessario conoscere la ginnastica, e il canto, come conosci tu; ma credo che è, anche bene quando si va a scuola conoscere anche la matematica, e l'italiano,*
+
+Zara, 5 March 1940, Year XVIII.
+
+Dear Fulle,
+
+Here I am after all this time — I still have in mind that four, four, four in mathematics!!!!
+
+And aren't you ashamed not to know how to add?
+
+What matters most, you neglect. It's necessary to know gymnastics and singing, as you do; but I believe it's also good, when one goes to school, to know mathematics and Italian as well.
+
+---
+
+## Non ti pare Fulle Fulle? — Easter plans and a cold
+
+The closing page of Papà's March 1940 letter. His tone softens: doesn't it seem so, Fulle Fulle? He won't hold a grudge over the four — he hopes she's already made it up. He's been home for three days with a bad cold that's passing. Easter is soon — who knows where, what, how, and with whom?
+
+> *Non ti pare Fulle Fulle? No, per questo quattro non ti riserbero [?] rancore perchè spero l'avrai di già riparato, è vero? E se non l'avresti già fatto, non tardare a riparare.*
+>
+> *Io sono a casa da tre giorni per un bel raffreddore che mi sta passando. Presto la Pasqua, chi sa dove, cosa, come, e con chi?*
+>
+> *Cordiali baci*
+> *Papà*
+
+Don't you think so, Fulle Fulle? No, I won't hold a grudge over this four because I hope you'll have already made it up — haven't you? And if you haven't already done so, don't delay.
+
+I've been home for three days with a nasty cold that's passing. Easter is coming — who knows where, what, how, and with whom?
+
+Warm kisses, Papà.
+
+---
+
+## La Nonna e la SUPERIORE INTELLIGENZA — Grandmother's philosophy and the desire for university
+
+A page of Nonna's handwriting recounting two anecdotes. First: how La Nonna (the grandmother/great-grandmother) reacted to school marks with wry wit — if you had all fives but a six in history, she'd say "He'll become a great historian!" — while Nonno went mad. Then Nonna's own story: at eighteen, wanting to go to university, she received a rain of slaps from her grandmother. She came to understand it wasn't a thirst for knowledge but a thirst for freedom — in the corridor the windows were open onto the whole city.
+
+> *La Nonna invece, con la sua SUPERIORE INTELLIGENZA, buon senso e filosofia, "se" te ti gavevi tutti 5 ma un 6 in storia, la diseva: "Eh! vol dir che el diventerà un grande storico!"*
+>
+> *— El Nonno diventava matto —*
+>
+> *E ela: "Perchè lui non se ricorda cosa che lui fazeva col iera giovane"*
+
+> *Poi quando io a 18 anni, volevo andare all'Università apriti cielo. Non so quanti schiaffi mi à dato, ma erano pari perchè me li dava a dieci a due [?]. Forse à capito che non era sete di sapere ma sete di libertà nel corridoio le finestre erano aperte... tutta la città ecc*
+
+Nonna, by contrast, with her SUPERIOR INTELLIGENCE, good sense, and philosophy — "if" you had all fives but a six in history, she'd say: "Well, that means he'll become a great historian!"
+
+Nonno would go mad.
+
+And she: "Because he doesn't remember what he used to do when he was young."
+
+Then when I, at eighteen, wanted to go to university — heavens above. I don't know how many slaps she gave me, but they came in pairs, two at a time. Perhaps she understood it wasn't a thirst for knowledge but a thirst for freedom — in the corridor the windows were open... the whole city, etc.
+
+---
+
+## Cartolina di Zara — A colour postcard of the waterfront
+
+A colour postcard showing a town waterfront with imposing stone buildings rising above a tree-lined promenade, likely a view of Zara. No handwritten text accompanies the image.
+
+---
+
+## Reale Collegio di Moncalieri — The boarding school
+
+A page labeled "Reale Collegio di Moncalieri" in Nonna's handwriting, with a colour photograph of the college grounds (oriented sideways) and a newspaper clipping describing the college's facilities — tennis courts, roller-skating rink, and its location near the former Royal Castle where Vittorio Amedeo I and Vittorio Emanuele II once resided.
+
+> *Reale Collegio di Moncalieri*
+
+> *Il collegio dispone di... grande campo a Tennis e al pattinaggio a rotelle, si pratica assiduamente il gioco... [partial clipping] si trova anche l'ex Castello Reale, dove a lungo risiedettero... Vittorio Amedeo I i a Vittorio Emanuele II.*
+
+The Royal College of Moncalieri.
+
+The college has a large tennis court and roller-skating rink, where games are practised diligently... The former Royal Castle is also nearby, where Vittorio Amedeo I and Vittorio Emanuele II long resided.
+
+---
+
+## L'ingresso — A wartime dress from the pages of Bellezza
+
+A moody photograph taken through a doorway: a woman stands on a terrace at the top of a staircase, captured with a self-timer. Notes explain the entrance and the near-miss of arriving in time before toppling over the wall. A second note identifies the dress, bought during the war from a boutique in Gardone, which had been featured the previous week on the cover of one of the very first issues of the magazine *Bellezza*.
+
+> *L'ingresso. Photo presa con l'autoscato [?]. Maschiena [?] in cima alla scala. Per un pelo, per arrivare in tempo finisco oltre al muretto! —*
+
+> *Questo vestito comparato nel bel mezzo della guerra in una "boutique" di Gardone era stato una settimana prima illustrato in copertina di uno di primissimi numeri della rivista "Bellezza"*
+
+The entrance. Photo taken with the self-timer. Standing at the top of the staircase. By a hair's breadth, rushing to get there in time, I almost ended up over the wall!
+
+This dress, bought in the midst of the war from a "boutique" in Gardone, had been featured the week before on the cover of one of the very first issues of the magazine *Bellezza*.
+
+---
+
+## Il bosco e il mare — The woods and the sea unchanged
+
+Two colour photographs of the Dalmatian coast: a pine wood opening onto the sea, and a rocky shoreline with clear water. Nonna notes that the woods and the sea have not changed.
+
+> *Il bosco e il mare non sono cambiati*
+
+The woods and the sea have not changed.
+
+---
+
+## Più che benvenuti — Nonna and Valeria in Tripolitania
+
+Two small black-and-white photographs of Nonna with a young Valeria — one in a garden, the other amid wildflowers. The large heading declares that visitors are more than welcome: they are longed for and cherished by the whole colony. A note identifies the location as the ruins of the Roman theatre at Sabrata in Tripolitania.
+
+> *PIÙ CHE BENVENUTI GLI OSPITI SONO AGOGNATI E GODUTI DA TUTTA LA COLONIA*
+
+> *La Nonna con la Valeria in Tripolitania alle rovine del teatro Romano di Sabrata*
+
+More than welcome — guests are longed for and cherished by the whole colony.
+
+Nonna with Valeria in Tripolitania, at the ruins of the Roman theatre of Sabrata.
+
+---
+
+## Prospect Hill — The frangipane and President Kaunda
+
+Two colour photographs of houses in Africa. The upper shows the entrance with a frangipane tree — Nonna's triumph, a plant that survived despite Nonno's constant torment of it. The lower shows "Prospect Hill," the house that was ceded to President Kaunda after the elections.
+
+> *Qui sopra: una pianta di "Frangipane". Trionfo della Nonna alla quale la pianta è sopravvissuta nonostante che il Nonno la tormentasse. La te se monta! quella [?] ire [?]!*
+
+> *"Prospect Hill" Casa ceduta al Presidente KAUNDA dopo le elezioni*
+
+Above: a frangipane plant. Nonna's triumph — the plant survived despite Nonno tormenting it. She gets worked up! Those rages!
+
+"Prospect Hill" — the house ceded to President Kaunda after the elections.
+
+---
+
+## Sopratutto se l'arrivo è complicato — The ship and the arrival
+
+A colour photograph of a passenger liner at sea, and a small black-and-white portrait of a man in glasses. A note reads that arrivals are especially welcome when they're, shall we say, complicated.
+
+> *Sopratutto se l'arrivo è diciamo complicato ......*
+
+Especially when the arrival is, let's say, complicated......
+
+---
+
+## Fabbriche di ghiaccio — The ice factories of Zara
+
+A printed page (p. 242) from a book on the ice factories of Zara, with "(86)" penciled in the margin. The text recounts the horse-drawn carts carrying 25-kilo bars of ice through the streets, the Narciso Detoni company whose delivery van is photographed, and how the business passed from the founder to his son Umberto in 1932, then was acquired by Antonio Zerauschek in 1942. A second ice factory, the Società Anonima Pesca e Reti Italiane Sapri, is also described.
+
+> *FABBRICHE DI GHIACCIO*
+>
+> *22. Chi non ricorda i gocciolanti carri trainati da cavalli che trasportavano, con vari accorgimenti per ritardarne la dissoluzione, le lunghe stanghe o stecche di ghiaccio dal peso di 25 chili? A titolo di curiosità N. Detoni ci ricorda che i cavalli furono acquistati, data la loro bellezza, dal locale comando dei carabinieri che li usò come animali da sella; il loro servizio venne sostituito da un furgone sul quale spiccava la dicitura della Ditta. Nel 1932, dopo la scomparsa del fondatore (e per questa ragione la carta intestata è listata a lutto), la proprietà della Ditta passò al figlio Umberto. Nel 1942 fu poi acquistata da Antonio Zerauschek.*
+>
+> *Nei primi anni del 1930 sempre a Zara si costruì un'altra Fabbrica di ghiaccio della Società Anonima Pesca e Reti Italiane Sapri, della famiglia Raffaele Merlini di S. Benedetto del Tronto. Va però ricordato che detto ghiaccio non era cristallino ma nevoso, quindi meno consistente e non alimentare perchè prodotto con acqua estratta dai pozzi non garantiti, ubicati nei pressi dello stabilimento stesso sito a Ceraria sempre in Val de Ghisi. Con la produzione di detto ghiaccio la Sapri soddisfava solo le esigenze della propria flotta di pesca d'altomare che aveva come base il porto di Zara; però in momenti di maggior esigenza essa ricorreva alla produzione della ditta Narciso Detoni.*
+
+Ice Factories.
+
+22. Who doesn't remember the dripping horse-drawn carts that transported, with various precautions to slow the melting, the long bars of ice weighing 25 kilos? As a curiosity, N. Detoni recalls that the horses, given their beauty, were purchased by the local carabinieri command and used as saddle animals; their service was replaced by a van bearing the company name. In 1932, after the founder's death (which is why the letterhead is bordered in mourning), the company passed to his son Umberto. In 1942 it was acquired by Antonio Zerauschek.
+
+In the early 1930s, also in Zara, another ice factory was built by the Società Anonima Pesca e Reti Italiane Sapri, belonging to the Raffaele Merlini family of San Benedetto del Tronto. It should be noted that this ice was not crystalline but snowy, therefore less dense and not food-grade, as it was produced with water drawn from unverified wells near the factory itself, situated at Ceraria in Val de Ghisi. With this ice production, Sapri met only the needs of its own deep-sea fishing fleet based in the port of Zara; in times of greater demand, however, it turned to the production of the Narciso Detoni company.
+
+---
+
+## Fabbrica di Cioccolato Ausonia — The Zerauschek chocolate factory price list
+
+A printed page (p. 244) reproducing the full "Listino Prezzi" (price list) of the Ausonia chocolate and cacao factory, A. Zerauschek — Zara. The list is organized into categories (Cal. A through E) covering chocolate bars, pralines, gianduia creams, Easter articles, and caramels — a record of the Zerauschek family's confectionery business. "(78)" penciled in the margin.
+
+> *FABBRICA DI CIOCCOLATO AUSONIA*
+>
+> *LISTINO PREZZI*
+> *AUSONIA*
+> *FABBRICA CIOCCOLATO E CACAO*
+> *A. ZERAUSCHEK - ZARA*
+
+Ausonia Chocolate Factory — Price List. Chocolate and Cacao Factory, A. Zerauschek, Zara.
+
+---
+
+## Fabbriche di Liquori — Maraschino and the distillers of Zara
+
+A printed page (p. 255) titled "Fabbriche di Liquori" tracing the origins of Zara's famous maraschino liqueur. In the first half of the eighteenth century, the Venetian Giuseppe Calceniga (or Carzeniga), a nobleman of Nona, with the help of the famous botanist Bartolomeo Ferrari, devised "a most exquisite maraschino, a liqueur that intoxicates and enchants with its suavity and force." Distilling in Zara became a lucrative business with families including the Rota, Mola, Smirich, Arvatini, Addobbati, and Bellafusa. The page features the label of the Maraschino from the "Vera Fabrica Eredi Garzeniga in Zara."
+
+> *Ma oltre a queste meraviglie ricordiamo che "dall'anima delle marasche rinserrate nel seno demoniaco dell'alcool", già nella prima metà del '700 il veneziano Giuseppe Calceniga o Carzeniga, nobile di Nona, con l'aiuto del famoso botanico Bartolomeo Ferrari aveva ottenuto "con segreta e studiata ricetta uno squisito maraschino, liquore che ubbriaca e india con la sua soavità ed il suo impeto".*
+>
+> *Zara era allora un importante centro commerciale della Repubblica di Venezia e la distillazione con i Rota, i Mola, gli Smirich e in seguito con gli Arvatini, gli Addobati e i Bellafusa era di scuola sperimentata e costituiva una lucrosa attività.*
+
+But beyond these marvels, we recall that "from the soul of the marasche cherries sealed within the demonic bosom of alcohol," already in the first half of the 1700s the Venetian Giuseppe Calceniga (or Carzeniga), a nobleman of Nona, with the help of the famous botanist Bartolomeo Ferrari, had obtained "by secret and studied recipe a most exquisite maraschino, a liqueur that intoxicates and enchants with its suavity and force."
+
+Zara was then an important commercial centre of the Republic of Venice, and distilling — with the Rota, Mola, Smirich, and later the Arvatini, Addobbati, and Bellafusa — was a well-established craft and a lucrative activity.
+
+---
+
+## Calypso e Samos Export — Cigarette labels from the Zara tobacco factory
+
+Two cigarette packet labels from the Manifattura Zaratina Sigarette. The upper label is for "Calypso" — Manifattura Zaratina Sigarette S.A., founded in Zara in 1922. The lower is for "Samos Export" — an oriental cigarette, described as "leggerissime" (extra light).
+
+> *SIGARETTE "Calypso"*
+> *MANIFATTURA ZARATINA SIGARETTE SA*
+> *FONDATA A ZARA NEL 1922*
+
+> *SIGARETTA ORIENTALE*
+> *SAMOS EXPORT*
+> *LEGGERISSIME*
+
+---
+
+## Ritratto di giovane donna — A portrait
+
+A black-and-white studio portrait of a young woman with dark wavy hair, wearing a light blouse with embroidered detail and small drop earrings. She looks directly at the camera with a composed, steady gaze. No handwritten text accompanies the image.
+
+---
+
+## Ritratto di Nonno — Portrait in later years
+
+A colour portrait photograph of an elderly man — Nonno — in a dark suit and tie with tinted sunglasses, standing in front of a stone building. No handwritten text accompanies the image.
+
+---
+
+## Trattorie e Osterie — The restaurants and taverns of Zara
+
+A printed page (p. 232) titled "Trattorie e Osterie," describing Zara's restaurant culture. The text evokes the signs of taverns — *gno de frasca* — that cheered the heart and drew you into rooms thick with the smell of wine and barrel wood. Over wine, patrons enjoyed *fiepe* (pumpkin seeds), cheeses, sausages, meatballs, and in season *grassini col pan*. Below, a collection of period advertisements for Zara's restaurants: the Ristorante Bristol, Restaurant Steinfeld, Restaurant Grand-Hôtel, Restaurant alla Posta (Giuseppe Novak, proprietor), Ristorante ex "Venezia" (Mario Gallessi, proprietor), Ristorante Venezia, and Restaurant "Città d'Ancona."
+
+> *TRATTORIE E OSTERIE*
+>
+> *gno de frasca, questi semplici segni rallegravano la vista e scaldavano il cuore, invitando ad entrare in stanzoni impregnati dall'acre odore del vino frammisto a quello del legno delle botti e dei spagnoleti (sigarette). Sorseggiando saporosi e odorosi sluc (sorsi) di vino genuino si gustavano le fiepe (semi di zucca), pezzetti di formaggio, salsicce, polpettine di carne e in stagione anche grassini col pan (siccioli); compagni prelibati del vin novo erano ritenuti el formaio de ludro o el bacalà. Le trincade (ted.*
+
+Taverns and Inns.
+
+A sprig of branches — these simple signs cheered the eye and warmed the heart, inviting you into large rooms steeped in the sharp smell of wine mingling with the scent of barrel-wood and *spagnoleti* (cigarettes). Sipping flavourful, fragrant *sluc* (mouthfuls) of genuine wine, one enjoyed *fiepe* (pumpkin seeds), pieces of cheese, sausages, little meatballs, and in season *grassini col pan* (pork scratchings); prized companions of the new wine were considered *el formaio de ludro* or *el bacalà*.

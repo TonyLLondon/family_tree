@@ -1,16 +1,14 @@
 ---
-generated: 2026-03-21T19:47:50Z
-generator: pymupdf4llm
+generated: 2026-04-05T19:15:02Z
+generator: marker-pdf
 source_file: "media/publications/persia-iran/Charles Burgess Portrait.pdf"
+page_markers: true
 ---
 
-**==> picture [281 x 424] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-a4<br>: 44<br>. %<br>es<br>i<br>. \<br>»<br>a!<br>. : “<br>**----- End of picture text -----**<br>
 
 
-CHARLES CHARLES BURGESS BURGESS From From a a portrait portrait painted painted in in Persia Persia 
+{0}------------------------------------------------
 
-! Googl 
+![](_page_0_Picture_1.jpeg)
 
+From a portrait painted in Persia

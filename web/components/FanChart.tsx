@@ -395,53 +395,23 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
     return [{ id: root.id, displayName: root.id }];
   }, [centersProp, root.person, root.id]);
 
-  /* ── D3-zoom + click detection ─────────────────── */
+  /* ── D3-zoom (pan/scale only) ─────────────────── */
 
   useEffect(() => {
     const svgEl = svgRef.current;
     if (!svgEl) return;
     const svg = d3.select(svgEl);
 
-    let gestureTarget: EventTarget | null = null;
-    let gestureOrigin: { x: number; y: number } | null = null;
-    let didPan = false;
-
     const zoom = d3.zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.3, 8])
-      .on("start", (event) => {
-        didPan = false;
-        const se = event.sourceEvent;
-        if (se && "clientX" in se) {
-          gestureTarget = se.target;
-          gestureOrigin = { x: se.clientX, y: se.clientY };
-        }
-        svgEl.style.cursor = "grabbing";
-      })
+      .clickDistance(DRAG_THRESHOLD_PX)
+      .on("start", () => { svgEl.style.cursor = "grabbing"; })
       .on("zoom", (event) => {
-        didPan = true;
         svg.select<SVGGElement>("#chart-content").attr("transform", event.transform.toString());
         clearTimeout(urlTimerRef.current);
         urlTimerRef.current = window.setTimeout(() => writeUrlTransform(event.transform), 150);
       })
-      .on("end", (event) => {
-        svgEl.style.cursor = "grab";
-        const se = event.sourceEvent;
-        if (!didPan && gestureTarget && gestureOrigin && se && "clientX" in se) {
-          const dx = se.clientX - gestureOrigin.x;
-          const dy = se.clientY - gestureOrigin.y;
-          if (dx * dx + dy * dy < DRAG_THRESHOLD_PX * DRAG_THRESHOLD_PX) {
-            const el = gestureTarget as Element;
-            const clickable = el.closest?.("[data-href]");
-            if (clickable) {
-              const href = clickable.getAttribute("data-href");
-              if (href) routerRef.current.push(href);
-            }
-          }
-        }
-        gestureTarget = null;
-        gestureOrigin = null;
-        didPan = false;
-      });
+      .on("end", () => { svgEl.style.cursor = "grab"; });
 
     zoomRef.current = zoom;
     svg.call(zoom);
@@ -452,8 +422,35 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
       svg.call(zoom.transform, saved);
     }
 
+    let downTarget: Element | null = null;
+    let downPos = { x: 0, y: 0 };
+
+    function onPointerDown(e: PointerEvent) {
+      downTarget = e.target as Element;
+      downPos = { x: e.clientX, y: e.clientY };
+    }
+
+    function onPointerUp(e: PointerEvent) {
+      if (!downTarget) return;
+      const dx = e.clientX - downPos.x;
+      const dy = e.clientY - downPos.y;
+      if (dx * dx + dy * dy < DRAG_THRESHOLD_PX * DRAG_THRESHOLD_PX) {
+        const el = downTarget.closest?.("[data-href]");
+        if (el) {
+          const href = el.getAttribute("data-href");
+          if (href) routerRef.current.push(href);
+        }
+      }
+      downTarget = null;
+    }
+
+    svgEl.addEventListener("pointerdown", onPointerDown);
+    svgEl.addEventListener("pointerup", onPointerUp);
+
     return () => {
       svg.on(".zoom", null);
+      svgEl.removeEventListener("pointerdown", onPointerDown);
+      svgEl.removeEventListener("pointerup", onPointerUp);
       clearTimeout(urlTimerRef.current);
     };
   }, []); // eslint-disable-line react-hooks/exhaustive-deps

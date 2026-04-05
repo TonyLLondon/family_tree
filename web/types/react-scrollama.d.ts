@@ -1,32 +1,18 @@
 declare module "react-scrollama" {
   import type { ReactNode } from "react";
 
-  interface StepResponse<T = unknown> {
-    element: HTMLElement;
-    data: T;
-    direction: "up" | "down";
-    entry: IntersectionObserverEntry;
-  }
-
-  interface ScrollamaProps<T = unknown> {
-    onStepEnter?: (response: StepResponse<T>) => void;
-    onStepExit?: (response: StepResponse<T>) => void;
-    onStepProgress?: (
-      response: StepResponse<T> & { progress: number },
-    ) => void;
-    debug?: boolean;
+  interface ScrollamaProps {
     offset?: number;
-    threshold?: number;
+    onStepEnter?: (args: { data: number; direction: "up" | "down" }) => void;
+    onStepExit?: (args: { data: number; direction: "up" | "down" }) => void;
     children: ReactNode;
   }
 
-  interface StepProps<T = unknown> {
-    data?: T;
+  interface StepProps {
+    data: number;
     children: ReactNode;
   }
 
-  export function Scrollama<T = unknown>(
-    props: ScrollamaProps<T>,
-  ): JSX.Element;
-  export function Step<T = unknown>(props: StepProps<T>): JSX.Element;
+  export function Scrollama(props: ScrollamaProps): JSX.Element;
+  export function Step(props: StepProps): JSX.Element;
 }

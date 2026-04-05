@@ -2,8 +2,10 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { PageShell } from "@/components/PageShell";
-import { ScrollytellingNarrative } from "@/components/ScrollytellingNarrative";
-import { ScrapbookNarrative } from "@/components/ScrapbookNarrative";
+import {
+  StoryNarrative,
+  type StoryPage,
+} from "@/components/StoryNarrative";
 import { getStorySlugs, readMarkdownFile } from "@/lib/content";
 import {
   readScrollySidecar,
@@ -25,8 +27,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const sidecar = readScrollySidecar(slug);
 
   if (sidecar) {
-    const resolved = resolveScrollySteps(sidecar);
-    const heroSrc = resolved[0]?.media.src;
+    const heroSrc =
+      sidecar.layout === "scrapbook" && sidecar.pages?.[0]
+        ? sidecar.pages[0].image
+        : sidecar.steps[0]?.media.src;
 
     return {
       title: sidecar.hero.title,
@@ -61,26 +65,31 @@ export default async function StoryPage({ params }: Props) {
   if (sidecar) {
     const { sections } = splitMarkdownSections(parsed.content);
 
+    let storyPages: StoryPage[];
+    let pagedSections: typeof sections;
+    let appendixSections: typeof sections;
+
     if (sidecar.layout === "scrapbook" && sidecar.pages) {
-      const resolvedPages = resolveScrapbookPages(sidecar);
-      return (
-        <ScrapbookNarrative
-          hero={sidecar.hero}
-          sections={sections}
-          pages={resolvedPages}
-          filePath={parsed.filePath}
-        />
-      );
+      storyPages = resolveScrapbookPages(sidecar).map((p) => ({
+        media: { src: p.image, alt: p.alt },
+      }));
+      pagedSections = sections;
+      appendixSections = [];
+    } else {
+      storyPages = resolveScrollySteps(sidecar).map((s) => ({
+        media: s.media,
+        era: s.era,
+      }));
+      pagedSections = sections.slice(0, sidecar.scrollyStepCount);
+      appendixSections = sections.slice(sidecar.scrollyStepCount);
     }
 
-    const resolvedSteps = resolveScrollySteps(sidecar);
-
     return (
-      <ScrollytellingNarrative
+      <StoryNarrative
         hero={sidecar.hero}
-        sections={sections}
-        steps={resolvedSteps}
-        scrollyStepCount={sidecar.scrollyStepCount}
+        sections={pagedSections}
+        pages={storyPages}
+        appendixSections={appendixSections}
         filePath={parsed.filePath}
       />
     );
