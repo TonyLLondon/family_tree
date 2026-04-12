@@ -13,4 +13,6 @@ files:
   media_reference: media/collections/burgess-persian-letters/The Burgess Persian Letters.pdf
 notes: |
   extracted.pdf.md is unusable — pymupdf4llm doubled every word due to two-column PDF layout.
-  Use transcription.md (structured clean text from PDF reader) instead.
+  transcription.md is regenerated with scripts/extract_pdf_sorted_transcription.py (pymupdf get_text(sort=True) + line-wrap joins + Burgess intro fix). Prefer it over extracted.pdf.md.
+  As of 2026-04-11 transcription.md has hand cleanup from the Schwartz introduction through much of Part IV (Edward–George letters into 1844), including merged page-break words, NYPL running-title normalization, relocated footnotes where the Bulletin insert split the text, and letter-heading repairs; material after that point is still mostly machine output plus script-level cleanup.
+  Final 2026-04-11 pass: Savelan prophet parenthetical and “thinner, the prophet” joined; hawking paragraph “pheasant after he finds” joined; Gulja letter “buy a Georgian” / “bad ones, a Georgian” joined; Rawlinson’s51 + books on one line; McLeod53 + “has been settled” joined; “scratch it out.” paragraph break before “For fourteen years”; con sideration; footnote 31 undergoing.

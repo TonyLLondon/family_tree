@@ -1,0 +1,23 @@
+remote:
+  familysearch_id: "6Y8R-3QPV"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6Y8R-3QPV"
+  record_type: "Burial (Catholic parish register, indexed)"
+  collection: "Chile, Catholic Church Records, 1633-2015"
+  collection_id: "3405096"
+  location: "Quirihue, Itata, Chile (indexed)"
+  date: "1877-03-26"
+
+subject:
+  name: "Isabel Mora"
+  birth_year: 1787
+  death_date: "1877-03-25"
+  burial_date: "1877-03-26"
+  father: "Isidro (indexed)"
+  mother: "Maria Mora (indexed)"
+  spouse: "Ignacio Perez"
+
+image:
+  ark: "3:1:3Q9M-CS7M-8QHL-X"
+  access_note: "As of 2026-04, home download via API returned 403 / centre-type restriction."
+
+files: {}

@@ -1,0 +1,28 @@
+remote:
+  familysearch_id: "QVM2-FPMY"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:QVM2-FPMY"
+  record_type: "Death Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Aconcagua, Chile"
+  date: "1895-02-18"
+
+subject:
+  name: "Felipe Escobar"
+  birth_year: 1810
+  death_date: "1895-02-18"
+  parents: "Teodoro Escobar + Rosario Urrutia"
+  spouse: "Rosa Rivera"
+
+genealogical_significance: |
+  Critical ESCOBAR lineage record establishing parentage connection
+  linking Felipe Escobar (1810) to father Teodoro Escobar (1786).
+  Part of 4-generation ESCOBAR extension back to colonial ancestor
+  Pablo Escobar (1720).
+
+research_context: |
+  Discovered during systematic FamilySearch parent-tracing via fs_search.py
+  on 11 April 2026. Record provides key genealogical link extending
+  Chilean ESCOBAR line from Generation 4 to Generation 8+.
+
+files:
+  extracted_image: "images/QVM2-FPMY-felipe-escobar-death-1895.png"

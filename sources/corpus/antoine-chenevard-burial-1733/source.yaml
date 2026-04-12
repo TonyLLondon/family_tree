@@ -1,0 +1,22 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6NQ2-314L"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "6NQ2-314L"
+  image_ark: "3:1:3Q9M-CSXW-HQC3-5"
+  
+content_summary: "Burial record of Antoine Chenevard, 24 July 1733, Céligny, Geneva, Switzerland. Born 1657, father Bernard Chenevard. Extends CHENEVARD lineage to early 1600s."
+
+related_people:
+  - "antoine-chenevard-1657" # Antoine CHENEVARD (subject)
+  - "bernard-chenevard" # Bernard CHENEVARD (father)  
+  - "benjamin-chenevard" # Benjamin CHENEVARD (son)
+  - "jaqueline-suzanne-chenevard" # Jaqueline Suzanne CHENEVARD (granddaughter)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (descendant)

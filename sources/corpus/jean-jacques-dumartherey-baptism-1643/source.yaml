@@ -1,0 +1,21 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6NQK-LLP3"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "6NQK-LLP3"
+  image_ark: "3:1:3Q9M-C39V-MDCN"
+  
+content_summary: "Baptism record of Jean Jaques Dumartherey, 24 December 1643, Switzerland. Father Christophle Dumartherey extends DUMARTHERAY lineage to late 1500s."
+
+related_people:
+  - "jean-jacques-dumartherey-1643" # Jean Jacques DUMARTHEREY (subject)
+  - "christophle-dumartherey" # Christophle DUMARTHEREY (father)
+  - "jehan-baptiste-du-martheay" # Jehan Baptiste du MARTHEAY (son)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (descendant)

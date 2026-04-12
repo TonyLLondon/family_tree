@@ -1,0 +1,28 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q24B-2DYS"
+  collection: "Chile, Civil Registration, 1880-1933"
+  collection_id: "1630787"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "Systematic FamilySearch Chilean civil records search via fs_search.py - continuing Chilean methodology success"
+  record_ids:
+    - "Q24B-2DYS" # Manuel Perez death 1890
+    - "Q2SG-MPW3" # Valentin Perez death 1892
+    - "62LV-X4Z5" # Ignacio Caridad Perez burial 1856
+    - "6KRX-96QJ" # Simon Perez burial 1845
+    
+content_summary: "Second major Chilean genealogical breakthrough extending PÉREZ line from Gen 5 back to Gen 8+, adding 3-4 generations (1860s back to ~1730s-1740s) through systematic Chilean civil and church records."
+
+related_people:
+  - "manuel-perez-1864" # Generation 1
+  - "valentin-perez-1827" # Generation 2  
+  - "ignacio-caridad-perez-1806" # Generation 3
+  - "simon-perez-1763" # Generation 4
+  - "martin-perez-1730s" # Generation 5 (estimated)
+  - "dominga-millar" # Manuel's mother
+  - "isabel-mora" # Valentin's mother / Ignacio's spouse
+  - "pascuala-villanueva" # Simon's spouse

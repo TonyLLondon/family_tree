@@ -1,0 +1,27 @@
+remote:
+  familysearch_id: "Q241-2CJ8"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q241-2CJ8"
+  record_type: "Death Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Rinconada, Ñuble, Chile"
+  date: "1898-08-04"
+
+subject:
+  name: "Juan González Cardenas"
+  birth_year: 1838
+  death_date: "1898-08-04"
+  parents: "Pablo González + Pabla Cardenas"
+
+genealogical_significance: |
+  Critical GONZÁLEZ lineage record establishing parentage connection
+  linking Juan González Cardenas (1838) to father Pablo González (1798).
+  Part of 4-generation GONZÁLEZ extension back to colonial ancestor
+  José González (1780s).
+
+research_context: |
+  Discovered during systematic FamilySearch parent-tracing via fs_search.py
+  on 11 April 2026. Record provides key genealogical link extending
+  Chilean GONZÁLEZ line from Generation 4 to Generation 8+.
+
+files:
+  extracted_image: "images/Q241-2CJ8-juan-gonzalez-cardenas-death-1898.png"

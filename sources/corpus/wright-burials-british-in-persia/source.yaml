@@ -8,4 +8,5 @@ fetches:
   bytes: 1965695
 files:
   pdf_markdown: extracted.pdf.md
+  transcription: transcription.md
   media_reference: media/publications/persia-iran/Sir Denis Wright_Burials and Memorials of the British in Persia.pdf

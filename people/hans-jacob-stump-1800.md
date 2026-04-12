@@ -4,7 +4,7 @@ display_name: Hans Jacob STUMP (b. 1800)
 treeId: I142
 gedcom: "@I142@"
 born: 1800-06-15
-birth_place: Sulgen, Thurgau, Switzerland
+birth_place: Riedt bei Erlen, Thurgau, Switzerland
 sex: male
 father: hans-ulrich-stump
 mother: anna-margaretha-hagg
@@ -23,7 +23,7 @@ The working tree places birth and christening **15 June 1800** at **Sulgen**, **
 
 ## Life
 
-- **15 Jun 1800** — Birth and christening **Sulgen**, **Thurgau**, **Switzerland**.
+- **15 Jun 1800** — Birth and christening **Riedt bei Erlen**, **Thurgau**, **Switzerland**.
 - **25 Sep 1832** — Marriage **Sulgen** to Jeanne Benigne Montagnon.
 - **Death** — Flag in the import without structured date or place in the tree excerpt used here.
 

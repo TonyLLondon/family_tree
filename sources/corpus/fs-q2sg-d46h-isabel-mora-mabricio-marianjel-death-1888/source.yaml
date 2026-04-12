@@ -1,0 +1,26 @@
+remote:
+  familysearch_id: "Q2SG-D46H"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q2SG-D46H"
+  image_ark: "3:1:939K-PDSQ-3D"
+
+record_type: "death_registration"
+collection: "Chile, Civil Registration, 1880-1933"
+collection_id: "1630787"
+
+# Indexed summary (FamilySearch platform — April 2026). Film may disagree; see reference.md.
+index:
+  deceased: "Isabel Mora"
+  birth_year: 1858
+  death_date: "1888-10-16"
+  death_registration_place: "Ránquil, Ñuble, Biobío, Chile"
+  indexed_spouse: "Mabricio Marianjel"
+
+files:
+  film_api_fetch: "images/Q2SG-D46H-death-1888.jpg"
+  user_capture_pages_44_45: "images/user-capture-spread-pages-44-45-2026.png"
+  user_capture_pages_84_85: "images/user-capture-spread-pages-84-85-2026.png"
+  legacy_png: "images/original-record.png"
+
+research_notes:
+  - "2026-04: API DeepZoom pull + Tony screen captures filed; index vs handwriting still divergent — human line-by-line on Q2SG-D46H-death-1888.jpg is the gate."
+  - "Tree I733 = persona Q2SG-D46H; no parent/spouse edges until one clean transcription is agreed."

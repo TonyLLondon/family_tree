@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8G-LJF"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FV8G-LJF"
+  
+content_summary: "Baptism record of Johanness Jung, 11 August 1667, Sulgen, Thurgau. Parents: Hanss Jung (father) and Anna Marstetter (mother). Establishes Generation 11 in Jung ancestry."
+
+related_people:
+  - "johannes-jung-1667" # Johannes Jung (our subject)
+  - "hanss-jung" # Hanss Jung (father)  
+  - "anna-marstetter" # Anna Marstetter (mother)

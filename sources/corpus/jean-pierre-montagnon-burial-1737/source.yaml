@@ -1,0 +1,21 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6NQL-QVQK"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "6NQL-QVQK"
+  image_ark: "3:1:3Q9M-CS1X-PSMQ-S"
+  
+content_summary: "Burial record of Jean Pierre Montagnon, 5 March 1737, Aubonne, Vaud, Switzerland. Born 1692, extends MONTAGNON lineage back to late 1600s."
+
+related_people:
+  - "jean-pierre-montagnon-1692" # Jean Pierre MONTAGNON (subject)
+  - "jean-francois-louis-montagnon" # Jean François Louis MONTAGNON (son)
+  - "louis-montagnon" # Louis MONTAGNON (grandson)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (great-granddaughter)

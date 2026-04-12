@@ -1,0 +1,21 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6NQK-Q676"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"  
+  record_id: "6NQK-Q676"
+  image_ark: "3:1:3Q9M-C39V-MS39"
+  
+content_summary: "Baptism record of François Montagnon, 22 December 1667, Switzerland. Father Jean Montagnon extends MONTAGNON lineage to 1630s-1640s."
+
+related_people:
+  - "francois-montagnon-1667" # François MONTAGNON (subject)
+  - "jean-montagnon-1630s" # Jean MONTAGNON (father)
+  - "jean-pierre-montagnon-1692" # Jean Pierre MONTAGNON (potential son/nephew)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (descendant)

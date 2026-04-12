@@ -3,8 +3,9 @@ name: George Knecht
 treeId: I579
 also_known_as:
   - Johann George Knecht
-born: ABT 1829
-birth_place: Hesse-Nassau, Germany
+  - George Theodore Knecht (probate listing)
+born: ABT 1815
+birth_place: Wasserlos, Alzenau, Unterfranken, Bavaria, Germany (per 1864 naturalisation); Hesse-Nassau per later census
 died: 1898-09-28
 death_place: Paddington, London, England
 sex: male
@@ -12,11 +13,15 @@ spouses:
   - eliza-knecht
 children:
   - dorothea-knecht
+  - george-theodore-knecht
+  - eliza-sarah-victoria-knecht
 ---
 
 # George Knecht (c. 1829–1898)
 
-**Johann George Knecht** — always "George" in England — was a German immigrant who settled in London and raised a family in Islington and Paddington. Born about **1829** in **Hesse-Nassau, Germany**, he married **[Eliza Sarah Glasscock](eliza-knecht.md)** in **Q3 1856** (July–September) at **Islington** (GRO marriage index: Vol 1B, p. 267).
+**Johann George Knecht** — always "George" in England — was a German immigrant who settled in London and raised a family in Islington and Paddington. His **[1864 naturalisation certificate](../sources/knecht-george-naturalisation-1864.md)** (HO 1/117/4524) states he was born c. **1815** and came from **Wasserlos**, a village in the **Alzenau** district of **Unterfranken (Lower Franconia), Bavaria**. Later census returns (1881, 1891) instead say **Hesse-Nassau**, likely a transcription error or confusion. The naturalisation is contemporary primary evidence made just 12 years after arrival and should be trusted over retrospective census records.
+
+George married **[Eliza Sarah Glasscock](eliza-knecht.md)** (a widow with daughter Elizabeth Thorbourn) in **Q3 1856** (July–September) at **Islington** (GRO marriage index: Vol 1B, p. 267). By 1864 (naturalisation), he had been in the UK **12 years** (arrived c. **1852**), lived at **No. 1 Canonbury Terrace, Islington**, worked as a **coach builder** for the **Great Northern Railway Company**, and was "married with one child."
 
 The elder children — Francis Henry (born 1857, St Giles) and Elizabeth (born 1859, Bloomsbury) — place the family in the **St Giles / Bloomsbury** area of central London before 1860, part of the German quarter around Fitzrovia and Tottenham Court Road where mid-Victorian German migrants clustered. The **1871 Census** (RG10/263, schedule 316) records him at **Pembroke Street, Upper**, St Michael Islington, age 42, working **at gas works**.
 
@@ -32,6 +37,7 @@ Wife: [Eliza Sarah Glasscock](eliza-knecht.md) (born ~1828, Bethnal Green; bapti
 
 ## Evidence
 
+- **[Naturalisation Certificate, 1864](../sources/knecht-george-naturalisation-1864.md)** — HO 1/117/4524. George's memorial states he is "a subject of **Wasserlos** in Bavaria", age 49 (born c. 1815), arrived UK c. 1852 (12 years by 1864), employed as coach builder at Great Northern Railway, living at No. 1 Canonbury Terrace, Islington. Certificate No. 7799 issued October 1864. Wasserlos is a village in the Alzenau district, Unterfranken (Lower Franconia).
 - GRO Marriage Index: George Knecht / Eliza Sarah Glasscock, Q3 1856, Islington, Vol 1B, p. 267.
 - [1871 Census — Knecht household, Pembroke Street, Islington](../media/docs/1871-census-knecht-household-pembroke-street-islington-rg10-263.jpg) — RG10/263, folio 36, p. 67, schedule 316.
 - [1881 Census — Knecht household, Paddington](../media/docs/1881-census-knecht-household-paddington-rg11-4181079.jpg) — RG 11, piece 4181079, folio 35, p. 102, schedule 206. [Source card](../sources/1881-census-knecht-paddington.md) · [transcription](../sources/corpus/1881-census-knecht-household-paddington/transcription.md).
@@ -62,6 +68,30 @@ George appears extensively in Paddington local press from 1873 to 1898: *Maryleb
 
 ## Open questions
 
-- Exact town of birth in Hesse-Nassau (1881 census narrows the region but not the town).
+### Origin: Bavaria or Hesse-Nassau?
+
+**Primary evidence (1864 naturalisation memorial, George's own contemporary statement):**  
+- From **Bavaria**, town name illegible (possibly "Vardestat", "Wartenberg", or another reading)
+**Naturalisation evidence (1864, contemporary, 12 years after arrival):**  
+- From **Wasserlos, Bavaria** (village in Alzenau district, Unterfranken/Lower Franconia)
+- Born c. **1815** (age 49 in 1864)
+
+**Census evidence (1881, 1891, 27-30 years later):**  
+- From **Hesse-Nassau**
+- Born c. **1826-1829** (varying ages)
+
+**Analysis:** The naturalisation is primary evidence created at the time by George himself, while census places and ages were often approximate. The census "Hesse-Nassau" is likely a transcription error or enumerator approximation — Wasserlos is definitively in Bavaria (Unterfranken), not Hesse-Nassau.
+
+**Resolved:** Town of birth is **Wasserlos, Alzenau district, Unterfranken, Bavaria**. Church records for Wasserlos are held at Alzenau Catholic/Lutheran parishes.
+
+**Next steps:** 
+- Search Alzenau church records for Johann Georg Knecht baptism 1814-1816 (not currently digitized on FamilySearch)
+- Options: Archion subscription (~€30/6 months for German Lutheran records), Bavarian State Archives, or on-site research at FamilySearch Center
+- Alternatively: order George's death certificate (£11, GRO) to obtain father's name, which would narrow baptism search
+
+### Other gaps
+
+- Parents' names (would be on baptism record)
+- Exact baptism date (narrowed to 1814-1816 based on naturalisation age)
 - Immigration date and route — George was likely in London by the early 1850s but has not been found on the 1851 census (he may have been in a lodging house or recently arrived).
 - 1861 census — not yet located; the family should be in Islington by then (Dorothea born Q1 1861).

@@ -44,5 +44,6 @@ Etymology, variant spellings, geographic distribution, and family connections fo
 | [surname-addobbati.md](surname-addobbati.md) | Italian — "the adorned ones," from Old French *adober* (to knight); 67 bearers worldwide; Bergamo origin, Dalmatian settlement |
 | [surname-zerauschek.md](surname-zerauschek.md) | Germanised Slavic — *žerav-* (ember) + diminutive *-šek*; 14 bearers worldwide; Habsburg orthographic transformation |
 | [surname-roche.md](surname-roche.md) | Norman *de la Roche* ("rock"); Hiberno-Norman merchant-gentry; Limerick, Cork, Wexford; Burke's 1833 |
+| [adam-de-rupe.md](adam-de-rupe.md) | Traditional Cambro-Norman founder of the Roche lords of Fermoy; Welsh Roch Castle and Castletownroche; cadet fork and viscount probability model |
 | [surname-coolbear.md](surname-coolbear.md) | Old English locational (Cole + baer); hyper-local Essex cluster; Colbia → Coolbar → Colbear → Coolbear in two generations |
 | [surname-saginian.md](surname-saginian.md) | Georgian *Saginskilli* → Armenian *Saginian*; clan name transformation marking communal re-identification in Qajar Iran |

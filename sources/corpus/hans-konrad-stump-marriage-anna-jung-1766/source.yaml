@@ -1,0 +1,18 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FVJX-VVS"
+  collection: "Switzerland Marriages, 1532-1910"
+  collection_id: "1520589"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FVJX-VVS"
+  
+content_summary: "Marriage record of Hans Conrad Stump and Margaretha Jung, 1766, Switzerland. Establishes marriage date and confirms connection between Hans Konrad Stump and Anna Margaretha Jung."
+
+related_people:
+  - "I146" # Hans Konrad Stump  
+  - "I147" # Anna Margaretha Jung

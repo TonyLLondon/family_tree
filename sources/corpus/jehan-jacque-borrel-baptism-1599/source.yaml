@@ -1,0 +1,22 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6NQK-TY4F"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "6NQK-TY4F"
+  image_ark: "3:1:3QHV-B35H-NJKD"
+  
+content_summary: "Baptism record of Jehan Jacque Borrel, 30 September 1599, Switzerland. Father Moyse Borrel extends BORREL lineage to 1560s-1570s."
+
+related_people:
+  - "jehan-jacque-borrel-1599" # Jehan Jacque BORREL (subject)
+  - "moyse-borrel-1560s" # Moyse BORREL (father)
+  - "gabriel-borrel" # Gabriel BORREL (potential descendant)
+  - "elisabeth-borrel" # Elisabeth BORREL (potential descendant)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (potential descendant)

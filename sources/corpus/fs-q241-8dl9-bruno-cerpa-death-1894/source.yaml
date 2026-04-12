@@ -1,0 +1,25 @@
+remote:
+  familysearch_id: "Q241-8DL9"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q241-8DL9"
+  record_type: "Death Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Chile"
+  date: "1894"
+
+subject:
+  name: "Bruno Cerpa"
+  birth_year: 1814
+  death_date: "1894"
+  parents: "Justo Cerpa + Rosario Mendez"
+
+genealogical_significance: |
+  Validation record for colonial CERPA lineage. Brother of Fabián Cerpa,
+  confirming Justo Cerpa + Rosario Mendez as colonial ancestors through
+  multiple sibling death registrations.
+
+research_context: |
+  Discovered during systematic FamilySearch parent-tracing via fs_search.py
+  on 11 April 2026. Cross-validation record for CERPA colonial ancestry.
+
+files:
+  extracted_image: "images/Q241-8DL9-bruno-cerpa-death-1894.png"

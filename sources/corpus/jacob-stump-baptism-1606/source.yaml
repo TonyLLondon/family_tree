@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8P-D8Z"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FV8P-D8Z"
+  
+content_summary: "Baptism record of Jacob Stump, 23 October 1606, Sulgen, Thurgau. Parents: Hanssen Stump (father) and Annae Rued (mother). One of two potential Jacob Stump baptisms in 1606 - chosen based on chronological analysis. Establishes Generation 15 of STUMP lineage."
+
+related_people:
+  - "jacob-stump-1606" # Jacob Stump (our subject)
+  - "hanssen-stump-1580" # Hanssen Stump (father)
+  - "annae-rued" # Annae Rued (mother)

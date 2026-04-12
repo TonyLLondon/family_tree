@@ -2,44 +2,90 @@
 name: Anna Margaretha Jung
 treeId: I147
 gedcom: "@I147@"
-born: 1735-07-24
+also_known_as:
+  - Anna Margreth Jung
+  - Margaretha Jung
+born: 1731-04-05
 birth_place: Sulgen, Thurgau, Switzerland
+christened: 1731-04-05
+christening_place: Sulgen, Thurgau, Switzerland
 died: 1807-12-18
 death_place: Sulgen, Thurgau, Switzerland
 sex: female
-father: hans-jacob-jung
-mother: maria-keller
+father: hanss-ulrich-jung
+mother: margreth-mockh
 spouses:
+  - hans-ulrich-altwigg
   - hs-konrad-stump
 children:
   - hans-ulrich-stump
+  - hans-conrad-stump-1769
+  - hans-jacob-stump-1770
 ---
 
 # Anna Margaretha Jung
 
-Anna Margaretha Jung was christened **24 July 1735** at **Sulgen**, Thurgau (FVKB-M51), daughter of **Hans Jacob Jung** and **Maria Keller**. She first married **Hans Ulrich Altwigg** (children in Sulgen 1758–1760), then married [Hs. Konrad Stump](hs-konrad-stump.md) on **19 June 1766** at Sulgen. She was mother of [Hans Ulrich Stump](hans-ulrich-stump.md) and other children on union F73.
-
-She was buried **18 December 1807** at Sulgen (66JN-HGX5) — the same day as her son Hans Ulrich Stump, who was also buried at Sulgen that day. Her husband Konrad had died in 1774, leaving her a widow for 33 years.
+**Anna Margaretha Jung** (baptized 5 April 1731) was the daughter of [Hanss Ulrich Jung](hanss-ulrich-jung.md) and [Margreth Mockh](margreth-mockh.md) in **Sulgen**, **Thurgau**, **Switzerland**. She married twice: first to **Hans Ulrich Altwigg** (c. 1757), and then to [Hans Konrad Stump](hs-konrad-stump.md) in 1766, becoming the mother of [Hans Ulrich Stump](hans-ulrich-stump.md) and continuing the Swiss STUMP lineage.
 
 ## Life
 
-- **24 Jul 1735** — Christened Sulgen, Thurgau.
-- **c. 1757** — First marriage to Hans Ulrich Altwigg.
-- **19 Jun 1766** — Second marriage to Hs. Konrad Stump, Sulgen.
-- **18 Dec 1807** — Buried Sulgen (same day as son Hans Ulrich Stump).
+**5 Apr 1731** — Christened **Sulgen**, **Thurgau**, **Switzerland**. Daughter of [Hanss Ulrich Jung](hanss-ulrich-jung.md) and [Margreth Mockh](margreth-mockh.md).
+
+**c. 1757** — First marriage to **Hans Ulrich Altwigg**. Children included Anna Margaretha Altwigg (1758) and Hans Conrad Altwigg (1760).
+
+**1766** — Second marriage to [Hans Konrad Stump](hs-konrad-stump.md) (baptized 1730).
+
+**25 Oct 1767** — Birth of son [Hans Ulrich Stump](hans-ulrich-stump.md) in Sulgen.
+
+**23 Apr 1769** — Birth of son Hans Conrad Stump in Sulgen.
+
+**12 Dec 1770** — Birth of son Hans Jacob Stump in Sulgen.
+
+**c. 1774** — Widowed upon death of second husband Hans Konrad Stump.
+
+**18 Dec 1807** — Buried **Sulgen** — the same day as her son [Hans Ulrich Stump](hans-ulrich-stump.md), who also died that day. She lived as a widow for 33 years.
 
 ## Family
 
-- Parents: [Hans Jacob Jung](hans-jacob-jung.md); Maria Keller.
-- First husband: Hans Ulrich Altwigg.
-- Second husband: [Hs. Konrad Stump](hs-konrad-stump.md) (b. 1730, d. 1774).
-- Children (with Stump): [Hans Ulrich Stump](hans-ulrich-stump.md) and siblings on F73.
+**Parents:**
+- Father: [Hanss Ulrich Jung](hanss-ulrich-jung.md) - established Sulgen family
+- Mother: [Margreth Mockh](margreth-mockh.md) - local family connection
+
+**First Marriage (c. 1757):**
+- Husband: **Hans Ulrich Altwigg**
+- Children: Anna Margaretha Altwigg (baptized 24 Oct 1758), Hans Conrad Altwigg (baptized 2 Sep 1760)
+
+**Second Marriage (1766):**
+- Husband: [Hans Konrad Stump](hs-konrad-stump.md) (baptized 1730, d. c. 1774)
+- Children: [Hans Ulrich Stump](hans-ulrich-stump.md) (1767), Hans Conrad Stump (1769), Hans Jacob Stump (1770)
 
 ## Evidence
 
-| Record | Event | Corpus |
-|--------|-------|--------|
-| FVKB-M51 | Baptism — 24 Jul 1735, Sulgen | [corpus](../sources/corpus/1735-baptism-margaretha-jung-sulgen/reference.md) |
-| 66JN-HGX5 | Burial — 18 Dec 1807, Sulgen | [corpus](../sources/corpus/1807-burial-margaretha-jung-sulgen/reference.md) |
+**Primary Sources:**
+- **Baptism record:** Anna Margreth Jung, 5 Apr 1731, Sulgen, parents Hanss Ulrich Jung & Margreth Mockh · [corpus](../sources/corpus/anna-margaretha-jung-baptism-1731/reference.md) · FamilySearch FVKB-MRS
+- **Marriage record:** Hans Conrad Stump × Margaretha Jung, 1766 · [corpus](../sources/corpus/hans-konrad-stump-marriage-anna-jung-1766/reference.md) · FamilySearch FVJX-VVS
+- **Burial record:** Anna Margaretha Jung, 18 Dec 1807, Sulgen · FamilySearch 66JN-HGX5
+- **Children's baptisms:** Hans Ulrich (1767), Hans Conrad (1769), Hans Jacob (1770) with parents Hans Conrad Stump & Anna Margaretha Jung
 
-**Tree id:** **I147** — unions **F73**, **F75**; FamilySearch **KFRC-6JP**.
+**Genealogical IDs:**
+- **Tree id:** **I147** — unions **F73**, **F75**; FamilySearch **KFRC-6JP**
+
+## Research Notes (2026-04-11)
+
+**Corrected Birth Information:**
+- **Previous data:** Born 1735 with parents Hans Jacob Jung & Maria Keller
+- **FamilySearch correction:** Baptized 5 Apr 1731 with parents Hanss Ulrich Jung & Margreth Mockh
+- The 1731 date aligns better with her marriage timeline and children's births
+
+**Family Pattern:**
+Anna Margaretha's life demonstrates typical 18th-century Swiss patterns: first marriage producing children, widowhood, remarriage, and a second family. Her 76-year lifespan (1731-1807) entirely within Sulgen shows deep community roots.
+
+**Tragic Coincidence:**
+The simultaneous death and burial of mother Anna Margaretha Jung and son Hans Ulrich Stump on 18 December 1807 suggests a shared fatal illness or accident affecting the family.
+
+## Open Questions
+
+- Details on first husband Hans Ulrich Altwigg and reason for marriage ending
+- Parents Hanss Ulrich Jung and Margreth Mockh family backgrounds  
+- Siblings of Anna Margaretha in the Jung family
+- Circumstances of simultaneous mother-son deaths in December 1807

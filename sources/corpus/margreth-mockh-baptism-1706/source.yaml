@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FVKY-22N"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FVKY-22N"
+  
+content_summary: "Baptism record of Margaretha Mockh, 10 January 1706, Sulgen, Thurgau. Parents: Johannes Mockh (father) and Margaretha Schoenholtzer (mother). Likely the Margreth Mockh who married Hans Ulrich Jung."
+
+related_people:
+  - "margreth-mockh" # Margreth Mockh (our subject)
+  - "johannes-mockh-1662" # Johannes Mockh (father)
+  - "margaretha-schoenholtzer" # Margaretha Schoenholtzer (mother)

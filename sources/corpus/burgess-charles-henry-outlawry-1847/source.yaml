@@ -1,0 +1,61 @@
+slug: burgess-charles-henry-outlawry-1847
+title: "Charles Henry Burgess — Outlawry proclamations (1847–1848)"
+date_range: "1847-12-09 / 1848-01-09"
+kind: newspaper
+collection: "British Newspaper Archive"
+
+remote:
+  primary_url: "https://www.findmypast.co.uk/search-newspapers/results?names=charles%20henry%20burgess&keywords=outlawry&yearfrom=1847&yearto=1848"
+  
+files:
+  - path: "sheriffs-court-1847-12-09.png"
+    description: "Morning Advertiser, 10 Dec 1847 — Sheriff's Court outlawry call"
+    url: "https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001427%2F18471210&page=4&article=025&stringtohighlight=burgess"
+  
+  - path: "illustrated-london-news-1848-01-08.png"
+    description: "Illustrated London News, 8 Jan 1848 — formal proclamation"
+    url: "https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001578%2F18480108&page=7&article=041&stringtohighlight=burgess"
+  
+  - path: "morning-advertiser-1848-01-05.png"
+    description: "Morning Advertiser, 5 Jan 1848 — proclamation at Hicks's Hall"
+    url: "https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001427%2F18480105&page=3&article=029&stringtohighlight=burgess"
+  
+  - path: "lloyds-weekly-1848-01-09.png"
+    description: "Lloyd's Weekly, 9 Jan 1848 — proclamation at Hicks's Hall"
+    url: "https://www.findmypast.co.uk/image-viewer?issue=BL%2F0000078%2F18480109&page=2&article=005&stringtohighlight=burgess"
+  
+  - path: "morning-post-fraud-1849-03-23.png"
+    description: "Morning Post, 23 Mar 1849 — fraud charge (sham cheques)"
+    url: "https://www.findmypast.co.uk/image-viewer?issue=BL%2F0000174%2F18490323&page=8&article=044&stringtohighlight=burgess"
+    
+  - path: "reference.md"
+    description: "Transcriptions and analysis"
+
+people:
+  - id: "I81"  # Charles Henry Burgess (to be confirmed)
+    role: "defendant"
+    note: "Late of Hampstead; outlawed at suit of Richard Hart"
+  
+  - name: "Richard Hart"
+    role: "plaintiff"
+    note: "Creditor bringing suit"
+
+places:
+  - "Hampstead, Middlesex"
+  - "Red Lion Square, London (Sheriff's Court)"
+  - "Hicks's Hall, London (Middlesex sessions house)"
+
+topics:
+  - outlawry
+  - debt
+  - legal_proceedings
+  - london
+  - hampstead
+
+notes: |
+  Outlawry was a legal remedy for creditors when debtors failed to appear in court.
+  The proclamation was published in newspapers and posted at parish church doors.
+  "Late of Hampstead" means formerly resident there, not deceased.
+  
+  Charles Henry Burgess is likely brother of Edward Burgess (consul at Tabriz).
+  Both sons of Henry Burgess (merchant, Hinckley / Lombard Street banking agent).

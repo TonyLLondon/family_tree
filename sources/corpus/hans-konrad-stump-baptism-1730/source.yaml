@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8F-YZK"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py" 
+  record_id: "FV8F-YZK"
+  
+content_summary: "Baptism record of Hanss Conrad Stump, 30 October 1730, Sulgen, Thurgau. Parents: Hanss Conrad Stump (father) and Elssbeth Straub (mother). Establishes next generation back in STUMP lineage."
+
+related_people:
+  - "I146" # Hans Konrad Stump (our subject)
+  - "hans-conrad-stump-sr" # Hans Conrad Stump Sr. (father)
+  - "elssbeth-straub" # Elssbeth Straub (mother)

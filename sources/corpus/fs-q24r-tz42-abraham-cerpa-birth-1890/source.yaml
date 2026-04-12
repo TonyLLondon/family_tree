@@ -1,0 +1,24 @@
+remote:
+  familysearch_id: "Q24R-TZ42"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q24R-TZ42"
+  record_type: "Birth Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Chanco, Cauquenes, Maule, Chile"
+  date: "1890-06-22"
+
+subject:
+  name: "Abraham del Carmen Cerpa"
+  birth_date: "1890-06-22"
+  parents: "Francisco Cerpa + Bersabé Villegas"
+
+genealogical_significance: |
+  Initial discovery record that launched the major CERPA lineage extension.
+  Established Francisco Cerpa as documented father, enabling systematic
+  parent-tracing back to colonial ancestors.
+
+research_context: |
+  Starting point for Chilean CERPA research on 11 April 2026.
+  Led to discovery of Fabián Cerpa → Justo Cerpa colonial lineage.
+
+files:
+  extracted_image: "images/Q24R-TZ42-abraham-del-carmen-cerpa-birth-1890.png"

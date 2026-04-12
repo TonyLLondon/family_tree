@@ -1,0 +1,21 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:66JT-TBFH"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "66JT-TBFH"
+  image_ark: "3:1:3Q9M-CSXW-7S1F-V"
+  
+content_summary: "Baptism record of Elsbeth Stump, 27 May 1534, Zürich, Switzerland. Father Cunrat Stump potentially identical to Conradt Stumpp (died 1560), extends STUMP lineage to early 1500s and establishes earliest documented generation."
+
+related_people:
+  - "cunrat-conradt-stump-1534" # Cunrat/Conradt STUMP (father)
+  - "elsbeth-stump-1534" # Elsbeth STUMP (subject)
+  - "conradt-stumpp-1560" # Conradt STUMPP (potentially same person)
+  - "I165" # Blaesi STUMP (potential son of Cunrat/Conradt)

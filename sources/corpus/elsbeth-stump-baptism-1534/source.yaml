@@ -1,0 +1,18 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:66JT-TBFH"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py - extensive early records search"
+  record_id: "66JT-TBFH"
+  
+content_summary: "Baptism record of Elsbeth Stump, 27 May 1534, Zürich. Father: Cunrat Stump. EARLIEST documented STUMP baptism record - extends lineage to early Renaissance period (c. 1500-1510 birth for father)."
+
+related_people:
+  - "elsbeth-stump-1534" # Elsbeth Stump (our subject)
+  - "cunrat-stump-1500s" # Cunrat Stump (father) - EARLIEST STUMP ANCESTOR

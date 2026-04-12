@@ -34,7 +34,18 @@ William O'Byrne White × Catherine Mary Roche, 8 February 1869.
 A possible second "Cork marriage notice 18 Mar 1869" may be a newspaper announcement rather than a second ceremony — the Bombay civil register would settle this.
 Available on Findmypast and FamilySearch (partial).
 
-## Priority 5 — Cecilia Street medical school records
+## Priority 5 — CO 762/110/12 — Matthew O'Byrne White, Irish Grants Committee (TNA)
+
+**The National Archives, Kew** — CO 762/110/12
+Matthew O'Byrne White, County Dublin, No. 1899. Irish Grants Committee file, 1927–28.
+The Irish Grants Committee compensated Anglo-Irish loyalists for losses during the War of Independence / Civil War (1919–23). This file documents the White family's property situation in Dublin and any losses suffered. Not digitised; orderable at Kew.
+
+- TNA ref: CO 762/110/12 (ID: C9013770)
+- <https://discovery.nationalarchives.gov.uk/details/r/C9013770>
+
+Context: Part of CO 762/110 (Files 1888–1902), alongside other Dublin/Leinster claimants. Matthew O'Byrne White is likely a relative of William O'Byrne White — the distinctive "O'Byrne" middle name confirms the family connection.
+
+## Priority 6 — Cecilia Street medical school records
 
 **UCD Archives, Dublin** (successor to Catholic University School of Medicine)
 Student registers 1855–1890.

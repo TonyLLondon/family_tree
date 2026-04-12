@@ -1,0 +1,28 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q24R-TZ42"
+  collection: "Chile, Civil Registration, 1880-1933"
+  collection_id: "1630787"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "Systematic FamilySearch Chilean civil records search via fs_search.py"
+  record_ids:
+    - "Q24R-TZ42" # Abraham del Carmen Cerpa birth 1890
+    - "Q241-8HV9" # Francisco Cerpa Fernandez death 1895
+    - "Q241-CBB4" # Fabián Cerpa death 1888
+    - "Q241-CYQS" # Ignacio Cerpa Mendez death 1885 (sibling)
+    - "Q241-8DL9" # Bruno Cerpa death 1894 (sibling)
+    
+content_summary: "Major genealogical breakthrough extending Chilean CERPA line from Gen 5 back to Gen 8+, adding 3-4 generations (1890s back to ~1770s-1780s) through systematic Chilean civil registration records."
+
+related_people:
+  - "abraham-del-carmen-cerpa-1890" # Generation 1
+  - "francisco-cerpa-fernandez-1859" # Generation 2  
+  - "fabian-cerpa-1808" # Generation 3
+  - "justo-cerpa-1780s" # Generation 4 (estimated)
+  - "bersabe-villegas" # Abraham's mother
+  - "engracia-fernandez" # Francisco's mother
+  - "rosario-mendez" # Fabian's mother

@@ -1,0 +1,27 @@
+remote:
+  familysearch_id: "Q24B-2DYS"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q24B-2DYS"
+  record_type: "Death Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Parral, Linares, Maule, Chile"
+  date: "1890-07-02"
+
+subject:
+  name: "Manuel Perez"
+  birth_year: 1864
+  death_date: "1890-07-02"
+  parents: "Valentin Perez + Dominga Millar"
+  spouse: "Gustabia Caceres"
+
+genealogical_significance: |
+  Key PÉREZ lineage record establishing Valentin Perez as father
+  of Manuel Perez. Enables tracing the deepest Chilean lineage
+  back through 6 generations to Juan Perez (~1690s).
+
+research_context: |
+  Discovered during systematic FamilySearch parent-tracing via fs_search.py
+  on 11 April 2026. Key record extending Chilean PÉREZ line from Generation 5
+  to the deepest colonial ancestry (Generation 10+).
+
+files:
+  extracted_image: "images/Q24B-2DYS-perez-family-death-record.png"

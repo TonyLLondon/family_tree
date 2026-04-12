@@ -1,0 +1,28 @@
+remote:
+  familysearch_id: "Q241-8HV9"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q241-8HV9"
+  record_type: "Death Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Talca, Talca, Maule, Chile"
+  date: "1895-06-03"
+
+subject:
+  name: "Francisco Cerpa Fernandez"
+  birth_year: 1859
+  death_date: "1895-06-03"
+  parents: "Fabian Cerpa + Engracia Fernandez"
+  spouse: "Rosa Becerra"
+
+genealogical_significance: |
+  Critical CERPA lineage record establishing Fabián Cerpa as father
+  of Francisco Cerpa. This record provides primary evidence linking
+  the intermediate generation (1850s-1860s) to the colonial ancestor
+  Justo Cerpa (1770s-1780s) through Fabián Cerpa (1808-1888).
+
+research_context: |
+  Discovered during systematic FamilySearch parent-tracing via fs_search.py
+  on 11 April 2026. Key record extending Chilean CERPA line from Generation 5
+  back to Generation 8+, connecting modern family to colonial ancestors.
+
+files:
+  extracted_image: "images/Q241-8HV9-francisco-cerpa-death-1895.png"

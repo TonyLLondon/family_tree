@@ -656,7 +656,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
               <g style={{ pointerEvents: "none" }}>
                 {/* SW edge (left) */}
                 {generationEras
-                  .filter(({ decade }) => decade >= 1820)
+                  .filter(({ decade }) => decade >= 1620)
                   .map(({ gen, decade }) => {
                   const { inner, outer } = ringRadii(gen);
                   const midR = (inner + outer) / 2;
@@ -684,7 +684,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 })}
                 {/* SE edge (right) */}
                 {generationEras
-                  .filter(({ decade }) => decade >= 1850)
+                  .filter(({ decade }) => decade >= 1740)
                   .map(({ gen, decade }) => {
                   const { inner, outer } = ringRadii(gen);
                   const midR = (inner + outer) / 2;

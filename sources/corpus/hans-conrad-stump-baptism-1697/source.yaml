@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8L-2WY"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FV8L-2WY"
+  
+content_summary: "Baptism record of Hans Conrad Stump, 30 May 1697, Sulgen, Thurgau. Parents: Caspar Stump (father) and Dorothea Brueschwiler (mother). Establishes Generation 11 of STUMP lineage."
+
+related_people:
+  - "hans-conrad-stump-1697" # Hans Conrad Stump (our subject)
+  - "caspar-stump-1662" # Caspar Stump (father)
+  - "dorothea-brueschwiler" # Dorothea Brueschwiler (mother)

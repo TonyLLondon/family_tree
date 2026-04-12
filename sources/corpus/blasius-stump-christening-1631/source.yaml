@@ -1,0 +1,20 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8P-3M8"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FV8P-3M8"
+  
+content_summary: "Christening record of Blasius Stump, 16 August 1631, Sulgen, Thurgau, Switzerland. Son of Caspar Stump and Anna Schuemperli, grandson of Blaesi Stump."
+
+related_people:
+  - "I165" # Blaesi STUMP (grandfather)
+  - "caspar-stump-son-blaesi" # Caspar STUMP (father)
+  - "anna-schuemperli" # Anna SCHUEMPERLI (mother)
+  - "blasius-stump-1631" # Blasius STUMP (subject)

@@ -1,0 +1,22 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6NQF-B65R"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "6NQF-B65R"
+  image_ark: "3:1:939L-679H-CL"
+  
+content_summary: "Baptism record of Jean Gabriel Dumartheray, 25 December 1753, Switzerland. Parents Jean Pierre Marc Dumartheray + Danielle Luc. Extends DUMARTHERAY lineage back to 1600s."
+
+related_people:
+  - "jean-gabriel-nicolas-dumartheray-1753" # Jean Gabriel Nicolas DUMARTHERAY (subject)
+  - "jean-pierre-marc-dumartheray" # Jean Pierre Marc DUMARTHERAY (father)
+  - "danielle-luc" # Danielle LUC (mother)
+  - "jeanne-francoise-dumartheray" # Jeanne Françoise DUMARTHERAY (daughter)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (granddaughter)

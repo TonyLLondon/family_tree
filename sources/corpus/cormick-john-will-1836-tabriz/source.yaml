@@ -1,0 +1,18 @@
+id: cormick-john-will-1836-tabriz
+title: Will of Dr John Cormick, surgeon at Tabriz, Persia (1836)
+remote:
+  webpage_url: https://discovery.nationalarchives.gov.uk/details/r/D282237
+fetches:
+- kind: pdf
+  at: '2026-04-11T19:54:44Z'
+  sha256: 62b5dc67ed160fbea5c530414d4a6fdd263b36f5d3684d6558a3b7507285efd1
+  bytes: 5558728
+  media_reference: media/docs/cormick-john-will-1836-prob-11-1865-205.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
+  media_reference: media/docs/cormick-john-will-1836-prob-11-1865-205.pdf
+  images:
+    - images/page-1.png
+    - images/page-2.png
+    - images/page-3.png

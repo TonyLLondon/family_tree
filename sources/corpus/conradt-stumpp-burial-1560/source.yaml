@@ -1,0 +1,20 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6F8J-XV39"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "6F8J-XV39"
+  image_ark: "3:1:3Q9M-C39V-W91Y-8"
+  
+content_summary: "Burial record of Conradt Stumpp, 11 August 1560, Switzerland. Potential father of Blaesi STUMP, extends STUMP lineage back to early 1500s and represents earliest confirmed STUMP ancestor."
+
+related_people:
+  - "conradt-stumpp-1560" # Conradt STUMPP (subject)
+  - "I165" # Blaesi STUMP (potential son)
+  - "margreth-zaellerin" # Margreth ZÄLLERIN (potential wife)

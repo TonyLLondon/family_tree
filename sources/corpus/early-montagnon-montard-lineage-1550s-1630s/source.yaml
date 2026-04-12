@@ -1,0 +1,27 @@
+remote:
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "Systematic FamilySearch search for early Swiss Mont- surnames"
+  record_ids:
+    - "6JCK-279B" # Pierre Montalard bapt 1556
+    - "6JCK-KF9Q" # Thomas Montard bapt 1563
+    - "6NQF-N5SR" # Françoise Montard bapt 1573
+    - "6NQN-LGJB" # François Montard bapt 1633
+    - "FVJ4-7TT"  # Matthieu Montgilland marriage 1646
+    
+content_summary: "Early Swiss Reformed Protestant records showing Mont- surname families (Montalard, Montard, Montgilland) spanning 1556-1646. Potential ancestors/relatives of established MONTAGNON lineage, suggesting surname evolution and deep Swiss roots back to mid-1500s."
+
+related_people:
+  - "pierre-montalard-1556" # Pierre MONTALARD (earliest record)
+  - "jean-montard-1560s" # Jean MONTARD (father of Thomas 1563)
+  - "martin-montard-1550s" # Martin MONTARD (father of Françoise 1573)
+  - "anthoyne-montard-1600s" # Anthoyne MONTARD (father of François 1633)
+  - "matthieu-montgilland-1620s" # Matthieu MONTGILLAND (father of multiple children 1645-1665)
+  - "jean-montagnon-1630s" # Jean MONTAGNON (established ancestor)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (descendant)

@@ -41,7 +41,7 @@ Born into a **Quaker** family at Hinckley, Leicestershire, Henry was the son of 
 
 - Parents: [Joseph Burgess](joseph-burgess.md); [Sarah Airey](sarah-airey.md) (Quaker marriage **6 Feb 1769**, Kendal Monthly Meeting, Westmorland).
 - Wife: [Frances Ridsdale](frances-ridsdale.md) (married **6 Dec 1804**, St John's, Wakefield).
-- Children: **Charles Henry Burgess** (eldest; Persian trade **1827** onward; died Aix-la-Chapelle winter **1854–55**); [Edward Burgess](edward-burgess.md); **Joseph** ("brother Joe," Liverpool schooling); **George** (Philadelphia / New York; Edward's main correspondent from the **1840s**). Further siblings appear in the working tree and **Tree id** section below.
+- Children: **Charles Henry Burgess** (1806-1854; eldest; Persian trade **1827-1836**; **betrayed Edward** by abandoning unpaid debts to Persian creditors; outlawed London 1847-48; died winter **1854–55**); [Edward Burgess](edward-burgess.md); **Joseph** ("brother Joe," Liverpool schooling); **George** (Philadelphia / New York; Edward's main correspondent from the **1840s**). Further siblings appear in the working tree and **Tree id** section below.
 
 ## Evidence
 
@@ -54,14 +54,25 @@ Born into a **Quaker** family at Hinckley, Leicestershire, Henry was the son of 
 - **Census 1861:** 29 St Swithins Lane, City of London, Head, Widower, age 80, birthplace "Winster." FMP `GBC/1861/0001423441`.
 - **Death (1863):** GRO death index, Q2 1863, London City, vol 1C, p.68. FMP `BMD/D/1863/2/AB/000394/004`.
 - **Tree id:** **I81** — unions **F40** (with Frances), **F41** (parents).
+- **"Circular to Bankers" editorship** confirmed by multiple sources:
+  - **Sun** (9 Jun 1863): death notice for "Henry Burgess, for upwards of 20 years proprietor and [of the] Circular to Bankers" [FMP newspaper search]
+  - **Nottingham Guardian** (10 Jun 1863): "82nd year of Henry Burgess for of 20 years proprietor and of Circular to Bankers" [FMP newspaper search]  
+  - **Bankers' Circular** (16 Oct 1846): mentions "HENRY BURGESS, Esq.. Editor of the Circular to Bankers" [FMP search result]
+  - **Dictionary of National Biography** distinguishes the banker Henry from clergyman Henry Burgess (1808-1886) [Wikisource]
 - [Burgess Persian Letters — full volume](../sources/corpus/burgess-persian-letters-full-volume/) — Schwartz's introduction identifies Henry as "the English banker, economist, and editor." Henry's letter (Part II, Oct 1830) is the only surviving letter *from* him in the collection. Edward's letters throughout contain extensive references to Henry's character, finances, and role.
 - [NYPL / Burgess corpus cluster](../sources/nypl-burgess-corpus-cluster.md) — Schwartz bulletin parts, full letters volume, scans.
 - **Sun-chart portrait (Henry):** [henry-burgess.jpg](../media/images/portraits/henry-burgess.jpg) — extracted from the family sun chart; was mislabelled `joseph-burgess.jpg` and corrected. Also on file: [Henry Burgess.jpg](../media/images/loose/Henry%20Burgess.jpg) (loose copy). Tie to [NYPL Burgess papers / seated portrait note](../sources/corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md) (finding aid mentions **Henry Burgess** cartes-de-visite) or other primary ID before treating sitter as proved.
 - External note URL embedded in the working tree (Hadwen tree) — capture static PDF in `media/` if the link rots.
 
+## Editorial and banking career
+
+Henry founded and edited **"Circular to Bankers"** (1828-~1850), a major financial publication headquartered at 81 Lombard Street, cost six guineas for subscription. As **Secretary of the Association of British Provincial Bankers**, he testified before Parliament's 1832 committee reviewing the Bank of England's charter. **Confirmed by newspaper death notices**: *Sun* (9 Jun 1863): *"Henry Burgess, for upwards of 20 years proprietor and [of the] Circular to Bankers..."* He died **6 June 1863, aged 82** at St. Swithin's Lane, after supporting Charles Henry financially for nearly two decades during his European exile.
+
+**Financial burden of Charles Henry's betrayal:** Henry borrowed heavily to support Charles from 1836-1854, financing his health-seeking travels across European resorts after Charles abandoned Edward as a hostage to Persian creditors. This prolonged financial strain likely affected both Henry's business and family resources during the peak years of his banking publication.
+
 ## Open questions
 
 - **Birth year:** The two Quaker register copies give 7 Jul **1780** (Monthly Meeting, Hinckley) and 7 Jul **1781** (Quarterly Meeting, Leicester). Census returns cluster around 1780–82. The original images would resolve which is the contemporaneous entry.
 - **1861 birthplace "Winster":** Census transcription reads "Winster" — no such place in Leicestershire. Possibly a misread of the enumerator's hand, or refers to Winster in Westmorland (near his mother's Kendal Quaker roots) or Derbyshire. The 1851 census gives Leicestershire and the Quaker registers give Hinckley/Leicester.
-- Henry's editorial career — which publications did he edit? Schwartz calls him "editor" without specifying the title.
+- **Total financial cost** of supporting Charles Henry 1836-1854 — this may be quantifiable through Henry's business records or estate documents.
 - His residence history before the 1841 census — the 1830 letter mentions writing from what may be Hampstead; earlier addresses in Yorkshire / Lancashire implied by Edward's references to Leeds "packing days" and manufacturing towns.

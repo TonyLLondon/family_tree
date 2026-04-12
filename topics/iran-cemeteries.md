@@ -13,6 +13,8 @@ The Armenian cemetery just outside the walls of Tabriz has been the burial groun
 - **Surb Astvatsatsin** (Holy Mother of God / "Mary, Mother of God") — the older Armenian church and its surrounding burial ground, including the **Saginian family mausoleum**. Yaghoubian (2014, nn. 10–11) confirms that both Daoud Khan Saginian and his grandson Solayman Khan were buried here. Navasargian (2012) reproduces an 1842 *Bazmavep* engraving showing its dome rising over the old Armenian quarter, Ghala.
 - **Shoghakat Church** (Surb Shoghakat, completed 1940) — a later church within the same cemetery precinct, financed by leather manufacturer Simon Manocherian and named for his mother. The land was purchased in the 1850s by the Diocese of Tabriz under Bishop Sahak Satunyan; the church itself was not built until the twentieth century.
 
+**Note:** Wright (1998) records Edward Burgess as buried at "Church of Sourp Shoughakat" in 1855, creating a chronological conflict with the 1940 completion date. This suggests either: (1) an earlier Shoghakat church existed and was later rebuilt, (2) Wright misidentified the church, or (3) the dating needs verification.
+
 Anna Saginian's 1880 interview treats the two as one site — "the Armenian cemetery outside the walls of Tabriz" — and so does every other family source. Whether Surb Astvatsatsin and the later Shoghakat precinct were originally separate enclosures or always parts of a single walled compound is unclear from the available evidence.
 
 ### Family burials at Tabriz
@@ -75,7 +77,7 @@ Fanny was the daughter of **[Edward Burgess](../people/edward-burgess.md)** and 
 
 | Source | Location |
 |--------|----------|
-| Sir Denis Wright, "Burials and Memorials of the British in Persia," *Iran* 36/1 (1998) | [PDF](../media/publications/persia-iran/Sir%20Denis%20Wright_Burials%20and%20Memorials%20of%20the%20British%20in%20Persia.pdf) · [extract](../sources/corpus/wright-burials-british-in-persia/extracted.pdf.md) |
+| Sir Denis Wright, "Burials and Memorials of the British in Persia," *Iran* 36/1 (1998) | [PDF](../media/publications/persia-iran/Sir%20Denis%20Wright_Burials%20and%20Memorials%20of%20the%20British%20in%20Persia.pdf) · [transcription](../sources/corpus/wright-burials-british-in-persia/transcription.md) · [extract](../sources/corpus/wright-burials-british-in-persia/extracted.pdf.md) |
 | Wright, "Further Notes" | [PDF](../media/publications/persia-iran/Sir%20Denis%20Wright_Burials%20and%20Memorials%20in%20Persia%20Further%20Notes.pdf) · [extract](../sources/corpus/wright-burials-british-in-persia-further-notes/extracted.pdf.md) |
 | British Library notes (reading list) | [sources/british-library-notes.md](../sources/british-library-notes.md) |
 | [NYPL Burgess appendix — Anna interview (1880)](../sources/nypl-burgess-appendix-anna-interview.md) | Anna's own words on Edward's burial and Daoud Khan's grave |

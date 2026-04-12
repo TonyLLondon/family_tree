@@ -1,0 +1,62 @@
+slug: ebrahimian-vaqaye-ettefaqiyeh-dissertation-2020
+title: "Vaqaye'-e Ettefaqiyeh (1851–1861) and the Education of the Iranian Nation in the Middle of the Nineteenth Century"
+author: "Mojtaba Ebrahimian"
+date: "2020"
+kind: dissertation
+collection: "University of Arizona Digital Repository"
+
+remote:
+  primary_url: "https://repository.arizona.edu/bitstream/handle/10150/637003/Vaqaye%E2%80%98-e%20Ettefaqiyeh%20%281851-1861%29%20and%20the%20Education%20of%20the%20Iranian%20Nation%20in%20the%20Middle%20of%20the%20Nineteenth%20Century.pdf"
+  journal: "Iran: Journal of the British Institute of Persian Studies"
+  doi: "10.1080/05786967.2020.1713022"
+
+files:
+  - path: "full-text.txt"
+    description: "Complete PhD thesis (87.7 KB, 1097 lines)"
+  - path: "reference.md"
+    description: "Analysis focusing on Edward Burgess findings"
+
+people:
+  - id: "edward-burgess"
+    role: "gazette translator"
+    note: "Selected and translated news from Ottoman and European press"
+  
+  - name: "Charles Henry Burgess"
+    role: "embezzler"
+    note: "Embezzled £30,000 from Abbas Mirza for military equipment 1836"
+    
+  - name: "Abbas Mirza"
+    role: "victim of embezzlement"
+    note: "Crown Prince who entrusted Charles with £30,000 for musket procurement"
+    
+  - name: "Mirza Jabbar Nazem ul-Maham (Tazkerechi)"
+    role: "editor in chief"
+    note: "Head of Vaqaye-e Ettefaqiyeh, appointed by Amir Kabir"
+    
+  - name: "Mirza Abdullah Khattat"
+    role: "scribe"
+    note: "Handwrote gazette contents"
+    
+  - name: "Haji Abd al-Mohammad"
+    role: "printer" 
+    note: "Tehran printing house operator (same person Edward threatened about deadlines)"
+
+places:
+  - "Tehran, Iran"
+  - "Tabriz, Iran"
+  - "London, England"
+
+topics:
+  - iranian_press_history
+  - vaqaye_ettefaqiyeh
+  - embezzlement
+  - persian_letters
+  - edward_burgess
+  - charles_burgess
+  - abbas_mirza
+
+notes: |
+  This is the first comprehensive academic analysis of all 471 issues of Iran's first official gazette.
+  Provides crucial new quantitative detail: Charles embezzled exactly £30,000 from Abbas Mirza in 1836.
+  Confirms Edward's progression from stranded merchant to key figure in Iranian media history.
+  Published in peer-reviewed journal specializing in Persian studies.

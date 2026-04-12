@@ -1,0 +1,28 @@
+remote:
+  familysearch_id: "Q24B-XNRS"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q24B-XNRS"
+  record_type: "Death Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Santiago, Chile"
+  date: "1888-10-17"
+
+subject:
+  name: "Ana María González"
+  birth_year: 1848
+  death_date: "1888-10-17"
+  parents: "Juan González + Pascuala Rodríguez"
+  spouse: "Evaristo Peña"
+
+genealogical_significance: |
+  Critical GONZÁLEZ lineage record providing foundational evidence
+  for the extension of the Chilean GONZÁLEZ family line. Shows
+  Juan González as father, enabling further research back through
+  multiple generations to colonial ancestors.
+
+research_context: |
+  Discovered during systematic FamilySearch parent-tracing via fs_search.py
+  on 11 April 2026. Key record enabling extension of Chilean GONZÁLEZ line
+  from Generation 5 back to Generation 8+ (colonial era).
+
+files:
+  extracted_image: "images/Q24B-XNRS-ana-maria-gonzalez-death-1888.png"

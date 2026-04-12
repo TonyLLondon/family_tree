@@ -1,0 +1,27 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6NQF-1FQN"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py - systematic MONTAGNON research"
+  record_ids: 
+    - "6NQF-1FQV" # Jean Montagnon bapt 1698
+    - "6NQK-HFGF" # Jane Françoise Montagnon bapt 1710  
+    - "6NQK-94F3" # Susanne Montagnon bapt 1700
+    - "6NQ2-LFMM" # Louÿse Meilan burial 1734
+    
+content_summary: "Family records for Sebastien Montagnon (active 1690s-1710s) and wife Louyse Meylan/Meilan. Shows three children baptized 1698-1710, establishing broader MONTAGNON family network contemporary with Jean Montagnon line."
+
+related_people:
+  - "sebastien-montagnon-1650s" # Sebastien MONTAGNON (subject)
+  - "louyse-meylan" # Louyse MEYLAN/MEILAN (wife)  
+  - "jean-montagnon-1698" # Jean MONTAGNON (son, bapt 1698)
+  - "jane-francoise-montagnon-1710" # Jane Françoise MONTAGNON (daughter, bapt 1710)
+  - "susanne-montagnon-1700" # Susanne MONTAGNON (daughter, bapt 1700)
+  - "jean-montagnon-1630s" # Jean MONTAGNON (probable brother)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (descendant via Jean line)

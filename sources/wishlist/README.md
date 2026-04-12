@@ -8,7 +8,8 @@ Sources **not yet** in corpus (or only partly used): URLs to open, books to buy,
 | Mahmoudieh house / Mustawfi memoir / Tehran encyclopedia (email was to Henderson, not vault owner) | [mahmoudieh-mustawfi-house.md](mahmoudieh-mustawfi-house.md) |
 | Saginian line — family memoir (hard copy), Maeda 2019 (Brill, paywalled) | [saginian.md](saginian.md) |
 
-| White / India lines — AMD service record, Madras HC tenure, Cecilia Street | [white-india.md](white-india.md) |
+| White / India lines — AMD service record, Madras HC tenure, Cecilia Street, Irish Grants Committee | [white-india.md](white-india.md) |
+| Burgess / TNA & BL — Tabriz consulate registers, FO 60/248/449 correspondence, Cormick will, cholera reports | [burgess-tna-persia.md](burgess-tna-persia.md) |
 | Roche / Knight — prove Catherine Mary Roche’s parents (primary records) | [roche-knight.md](roche-knight.md) |
 | Boara / Carobbi — Sv. Šime parish registers (DAZD), Kotor marriage, Senj origins, assessore docs, Portale Antenati | [boara-carobbi-zara.md](boara-carobbi-zara.md) |
 | Addobbati — 1745 / 1786 Latin parchments (DAZd), Ms. 910 (ZKZd), ARHiNET | [addobbati-dazd-zkzd.md](addobbati-dazd-zkzd.md) |
@@ -20,6 +21,7 @@ Sources **not yet** in corpus (or only partly used): URLs to open, books to buy,
 | Riccardo Zerauschek — Arolsen ITS follow-up, Trieste stato civile, HNK Split/Zagreb opera lists, US/Canada manifests | [riccardo-zerauschek-iro-trieste-hnk.md](riccardo-zerauschek-iro-trieste-hnk.md) |
 | Lewis Lewis Welsh line — MarriageFinder for Lewis × Rachel, 1861 census, Rachel after 1872, William Lewis & Catherine Rees (1760s) | [lewis-lewis-welsh-line.md](lewis-lewis-welsh-line.md) |
 | Helia Cerpa Pérez — Italian embassy roster (Archivo Nacional caja 271), INDH Valech case files, Corporación Estadio Nacional 507-name list, banned-list removal decree, De Masi memoir, *Camarines de Mujeres*, Carlos Cerpa Miranda, UK arrival records, 1982 marriage, Chilean civil reg | [helia-cerpa-perez-chile.md](helia-cerpa-perez-chile.md) |
+| Chile MORA — parish films (FSC only): **6Y8R-3QPV** burial 1877, **6RQ6-ZSQW** marriage 1818 | [chile-mora-parish-films-fsc.md](chile-mora-parish-films-fsc.md) |
 | Glasscock / Knecht — Bishop's Stortford baptism registers (1703, 1735), Abraham×Mary Thompson children (Whitechapel), Richard Glascock 1670 marriage, Eliza's first marriage, George Knecht German origins | [glasscock-knecht-line.md](glasscock-knecht-line.md) |
 | Montagnon — Aubonne Reformed church register images (FamilySearch Center visit): confirm Jean François → Jean Pierre link via 1690s baptisms | [montagnon-aubonne-registers.md](montagnon-aubonne-registers.md) |
 | Griffiths / Davies Welsh line — Llywell marriage register image, David Griffiths baptism (~1774), Margaret David baptism register (Conwil-gaio), Margaret death, son John (all FamilySearch Center) | [griffiths-davies-welsh-line.md](griffiths-davies-welsh-line.md) |

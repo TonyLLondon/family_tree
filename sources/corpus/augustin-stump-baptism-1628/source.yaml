@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8P-MBF"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FV8P-MBF"
+  
+content_summary: "Baptism record of Augustin Stump, 22 December 1628, Sulgen, Thurgau. Parents: Jacob Stump (father) and Barbel Cuntz (mother). Establishes Generation 13 of STUMP lineage."
+
+related_people:
+  - "augustin-stump-1628" # Augustin Stump (our subject)
+  - "jacob-stump-1606" # Jacob Stump (father)
+  - "barbel-cuntz" # Barbel Cuntz (mother)

@@ -1,0 +1,28 @@
+remote:
+  familysearch_id: "Q241-CBB4"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q241-CBB4"
+  record_type: "Death Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Talca, Talca, Maule, Chile"
+  date: "1888-05-03"
+
+subject:
+  name: "Fabián Cerpa"
+  birth_year: 1808
+  death_date: "1888-05-03"
+  parents: "Justo Cerpa + Rosario Mendez"
+  spouse: "Engracia Fernandez"
+
+genealogical_significance: |
+  CRITICAL CERPA lineage record establishing Justo Cerpa as father
+  of Fabián Cerpa. This provides the key generational link extending
+  the Chilean CERPA lineage back to colonial ancestors (1770s-1780s).
+  Fabián lived 80 years (1808-1888) spanning Chilean independence period.
+
+research_context: |
+  Discovered during systematic FamilySearch parent-tracing via fs_search.py
+  on 11 April 2026. This record completes the major CERPA lineage extension
+  from Generation 5 back to Generation 8+ (colonial era).
+
+files:
+  extracted_image: "images/Q241-CBB4-fabian-cerpa-death-1888.png"

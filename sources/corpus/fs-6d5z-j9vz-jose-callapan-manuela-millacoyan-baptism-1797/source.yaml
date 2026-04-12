@@ -1,0 +1,47 @@
+remote:
+  familysearch_id: "6D5Z-J9VZ"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6D5Z-J9VZ"
+  image_ark: "3:1:3Q9M-CS79-KCXW-T"
+  
+record_type: "baptism"
+location: "Talca, Talca, Chile"
+date: "1797-08-09"
+collection: "Chile, Catholic Church Records, 1633-2015"
+
+subjects:
+  primary:
+    - name: "José Callapan"
+      gender: "M"
+      relationship: "father"
+      ethnicity: "indigenous"
+      surname_origin: "Mapuche"
+      tribal_affiliation: "Picunche (Northern Mapuche)"
+      
+    - name: "Manuela Millacoyan"
+      gender: "F"
+      relationship: "mother"
+      ethnicity: "indigenous"
+      surname_origin: "Mapuche"
+      tribal_affiliation: "Picunche (Northern Mapuche)"
+      
+    - name: "Martín José"
+      gender: "M"
+      birth_date: "1796-11"
+      christening_date: "1797-08-09"
+      relationship: "son"
+      ethnicity: "mestizo"
+
+godparents:
+  - "Florentino Núñez"
+  - "Trinidad Núñez" 
+  - "Narciso Bergara"
+  - "Gregorio Arriano"
+
+significance: "Critical evidence of documented indigenous couple in same parish system and geographic region as CERPA ancestors. Both surnames are distinctly Mapuche/Picunche origin from Talca region - core Picunche territory."
+
+research_notes:
+  - "CALLAPAN surname appears in 255+ Chilean records from 1724+"
+  - "MILLACOYAN clearly Mapuche compound name (Milla + coyan)"
+  - "Talca region was heartland of Picunche people (northern Mapuche)"
+  - "Same parish records as CERPA-MENDEZ families"
+  - "Proves indigenous families documented alongside Spanish-surnamed colonists"

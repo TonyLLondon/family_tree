@@ -1,0 +1,25 @@
+remote:
+  familysearch_id: "6JLX-Q9Q9"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6JLX-Q9Q9"
+  record_type: "Death Registration"
+  collection: "Chile, Civil Registration, 1880-1933"
+  location: "Chile"
+  date: "1888"
+
+subject:
+  name: "Blas Cerpa"
+  birth_year: 1778
+  death_date: "1888"
+  age_at_death: "~110 years"
+
+genealogical_significance: |
+  Additional CERPA family network member documenting colonial territorial
+  presence in central Chilean Maule region. Extraordinary longevity
+  spanning colonial period through early republican era.
+
+research_context: |
+  Discovered during systematic FamilySearch CERPA family research
+  on 11 April 2026. Provides context for colonial CERPA family presence.
+
+files:
+  extracted_image: "images/6JLX-Q9Q9-blas-cerpa-death-1888.png"

@@ -1,0 +1,20 @@
+remote:
+  familysearch_id: "6RQ6-ZSQW"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6RQ6-ZSQW"
+  record_type: "Marriage (Catholic parish register, indexed)"
+  collection: "Chile, Catholic Church Records, 1633-2015"
+  collection_id: "3405096"
+  location: "Chile (indexed; confirm parish on film)"
+  date: "1818-12-27"
+
+subject:
+  groom: "Ygnacio Peres (Ignacio Perez)"
+  bride: "Mª Ysabel Mora"
+  groom_parents: "Simon Peres + Pasquala Villanueba"
+  bride_parents: "Ysidro Mora + María Estrada"
+
+image:
+  ark: "3:1:3Q9M-CS7M-NW1R"
+  access_note: "As of 2026-04, FamilySearch marked this film as restricted for home download; capture at a FamilySearch Center if needed."
+
+files: {}

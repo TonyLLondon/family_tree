@@ -45,7 +45,12 @@ The principal source for Edward's life is the **Burgess Persian Letters** — a 
 - **1831–35** — Worked as Charles's partner, selling English manufactured goods (chintzes, blankets, cloth) in Tabriz while Charles operated between Tehran, Ghilan, Constantinople, and London. Edward sold goods on commission, managed debtors, and dispatched gold and silk remittances to England via tartar couriers. He was critical of Charles's commercial judgement: *"Charles appears to me to have taken any goods he could lay his hands on without any regard as to whether these were suited to the Persian taste."*
 - **1833 Feb** — Settled into Tabriz life. Dined with **Dr Cormick** three times a week, played flute duets in the evenings, went shooting with Russian mission officers. Spoke French and Turkish; learning Persian. Described the country between Tabriz and Tehran as "rocky mountains and barren plains."
 - **1835** — Charles returned to England. Edward wrote of wanting to separate from the partnership since 1833 but Charles refused.
-- **1836** — Charles's ventures collapsed. Edward was left in Persia as a de facto **hostage for Charles's debts** to Persian creditors and the government (principally for unpaid muskets). He described his position: *"I am made responsible for his debts in this country and am nailed down to Tabreez."* He could not leave without settling with creditors, and Charles sent neither money nor letters to the Shah to ameliorate Edward's position.
+- **1836** — **Charles's betrayal.** Charles abandoned Edward in Persia as a **hostage for his unpaid debts** to Persian creditors and government. **Specific debts included:**
+  - **Sadik Bey** (later ennobled as **Syeed Khan**): Persian merchant partner who originally brought Charles to Persia (1827) and financed the trading operations. Edward later wrote that Sadik "treated me very badly" after Charles's departure.
+  - **Persian government**: Unpaid bills for **muskets** (military supplies) that Charles had sold.
+  - **Persian royal family members**: Money Charles was "entrusted with" belonging to royal family and government officials when he returned to England.
+  
+  Edward described his position: *"I am made responsible for his debts in this country and am nailed down to Tabreez."* He could not get leave to return to England and Charles sent neither money nor letters to the Shah to resolve Edward's situation.
 - **1837 Oct** — Sent two rare Persian partridges (*"vor keklik"*) to the London Zoological Society via brother George, with a detailed naturalist's letter describing their habitat and habits.
 - **1838 Jan** — Described hawking with Prince Bahman Mirza's hawks and hog-hunting with Kurds. Wrote extensively about the Shah's failed siege of Herat and its commercial effects on the Tabriz market.
 - **1839 Aug** — Witnessed disturbances in Tabriz; defended Armenian friends. Described a gruelling journey to Ahar — sleeping in stables with fleas, chickens, and a wounded sheep; riding through thunderstorms at night.
@@ -97,7 +102,7 @@ Anna's testimony (interview, Leicester, March 1880) provides the only account of
 - Parents: [Henry Burgess](henry-burgess.md); [Frances Ridsdale](frances-ridsdale.md).
 - Wife: [Anna Saginian](anna-saginian.md) (married autumn 1851).
 - Children: **John Burgess** (born ~1852, died ~1854 at 18 months, buried Tehran Armenian graveyard); [Fanny Burgess](fanny-burgess.md) (born 9 Jun 1854).
-- Siblings: **Charles Henry Burgess** (eldest; to Persia 1827; King's Messenger; merchant; died Aix-la-Chapelle winter 1854–55); **Joseph Burgess** (school in Liverpool); **George Burgess** (settled Philadelphia then New York; Edward's principal correspondent from the 1840s).
+- Siblings: **Charles Henry Burgess** (1806-1854; eldest; **first British subject to export goods England→Persia**; Lieutenant under Abbas Mirza 1827-29; merchant 1830-36; **abandoned Edward as hostage** to Persian creditors 1836; outlawed London 1847-48; died European health resort 1854); **Joseph Burgess** ("brother Joe," Liverpool schooling); **George Burgess** (Philadelphia then New York; Edward's principal correspondent 1840s-50s).
 
 ## Evidence
 

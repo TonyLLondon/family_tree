@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8Z-WY9"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FV8Z-WY9"
+  
+content_summary: "Christening record of Jacob Stumpp, 20 October 1594, Sulgen, Thurgau, Switzerland. Parents Blaesi Stumpp + Madalena Bruewschwyler. Confirms Blaesi's second marriage and additional children in STUMP lineage."
+
+related_people:
+  - "I165" # Blaesi STUMP (father)
+  - "jacob-stumpp-1594" # Jacob STUMPP (subject)
+  - "madalena-bruewschwyler" # Madalena BRUEWSCHWYLER (mother)

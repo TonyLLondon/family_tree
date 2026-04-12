@@ -36,13 +36,15 @@ The Viscount Fermoy line, from whom John descended, ran:
 
 | Viscount | Dates | Note |
 |----------|-------|------|
-| **Adam de Rupe** | fl. 1170s | Came from Wales with Robert FitzStephen; settled in Fermoy |
+| **[Adam de Rupe](adam-de-rupe.md)** | fl. 1170s | Came from Wales with Robert FitzStephen; settled in Fermoy — [topic](../topics/adam-de-rupe.md) |
 | ... | 13th–15th C | Lords of Fermoy; built Castletown-Roche castle |
 | **Maurice Roche, 6th Viscount** | ~1550–1600 | Known as "the Mad"; m. Gráinne MacTeige of Muskerry |
 | **David Roche, 7th Viscount** | 1573–1635 | Knighted by Sir Henry Sidney; loyal during the Desmond Rebellions; sat in Parliament 1613 |
 | **Maurice Roche, 8th Viscount** | 1597–1670 | Sat among the Peers at Kilkenny 1641; outlawed under Cromwell |
 
 John Roche of Castletown was likely a grandson or great-grandson of a younger son of the 5th or 6th Viscount — close enough to the main line to style himself "of Castletown-Roche" and to sit in the Confederation's Commons, but not the titleholder.
+
+For the **traditional biography** of Adam, **castle photographs**, and a **subjective probability table** for each step on the Viscount **heir line** (fork model), see the topic [Adam de Rupe](../topics/adam-de-rupe.md).
 
 ## Family
 

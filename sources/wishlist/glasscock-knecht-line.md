@@ -65,14 +65,52 @@ Eliza (née Glasscock, then Thorbourn, then Knecht) was widowed by 1851 with dau
 | Elizabeth Thorbourn after 1851 | Census 1861+ | Low |
 | Eliza Knecht death after 1898 | GRO deaths / 1901 census | Medium |
 
-## George Knecht — German origins
+## George Knecht — German origins & key English records
 
-Johann George Knecht from Hesse-Nassau. His exact birthplace in Germany is unknown. The 1891 census (RG 12/2) at 19 Chichester Road, Paddington gives "Germany" only. Church records from Hesse-Nassau (now part of Hesse) would require identifying the specific town.
+Johann George Knecht from Hesse-Nassau (or Bavaria per naturalisation). His exact birthplace in Germany is unknown. The 1891 census (RG 12/2) at 19 Chichester Road, Paddington gives "Germany" only. Church records from Hesse-Nassau (now part of Hesse) would require identifying the specific town.
+
+### Naturalisation papers — **HIGH PRIORITY**
+
+| Record | Reference | Priority |
+|--------|-----------|----------|
+| **George Knecht naturalisation 1864** | TNA **HO 1/117/4524** (ID: C7313741) | **Critical** — digitised, freely viewable at TNA. Says "from Bavaria" (conflicts with "Hesse-Nassau" on censuses). Should contain birth date, birthplace, arrival year, address, profession, character references. |
+
+View online: <https://discovery.nationalarchives.gov.uk/details/r/C7313741#imageViewerLink>
+Download: <https://www.nationalarchives.gov.uk/catalogue/download?ref=HO+1/117/4524>
+
+### Charles Knecht — possible relative
+
+| Record | Reference | Priority |
+|--------|-----------|----------|
+| **Charles Knecht naturalisation 1869** | TNA **HO 1/157/6219** (ID: C7315436) | **Medium** — "from Wurtemburg", certificate 6219 issued 14 June 1869. Five years after George's naturalisation. Bavaria and Württemberg are adjacent; could be a brother or cousin. **Digitised.** |
+
+View online: <https://discovery.nationalarchives.gov.uk/details/r/C7315436#imageViewerLink>
+Download: <https://www.nationalarchives.gov.uk/catalogue/download?ref=HO+1/157/6219>
+
+### Probate records (FamilySearch images restricted to FS Centers)
+
+| Record | FS ID | Image ARK | Priority |
+|--------|-------|-----------|----------|
+| George/Johann George Knecht probate, 26 Nov 1898 | `7XS9-TTZM` | `3:1:3Q9M-C9YB-692R` | **High** — estate value, executor details |
+| Eliza Sarah Victoria Knecht probate, 3 Dec 1908 | `W731-QTZM` | `3:1:3Q9M-C9Y1-WH76-7` | **High** — middle name "Victoria" confirmed here |
+| Elizabeth Phenie Knecht probate, 1 Apr 1912 | `QPLC-4TZV` | `3:1:3Q9M-C9YB-B4LF` | Medium — daughter Elizabeth, middle name "Phenie" |
+| Charles John Knecht probate, 21 Aug 1929 | `7XZF-D36Z` | `3:1:3Q9M-C9Y1-2S6P-4` | Medium — son Charles; wife Edith Caroline Mary Knecht |
+
+All four are viewable at a FamilySearch Center or affiliate library. Alternative: order from gov.uk probate service (£16 each).
+
+### German baptism candidate
+
+| Record | FS ID | Priority |
+|--------|-------|----------|
+| Johann Georg Knecht, bapt. 24 Sep 1828, Dietzenbach, Offenbach, Hesse | `QPJZ-TMVX` | **High** — parents Martin Knecht & [Steinheimer]. Image downloaded to `/tmp/fs_downloads/`. Year (1828) close to 1871 census age (42→~1829) but not to death reg (~1825). Dietzenbach is Hesse-Darmstadt, not Hesse-Nassau. Needs cross-referencing with naturalisation papers. |
+
+### Other outstanding
 
 | Record | Search | Priority |
 |--------|--------|----------|
 | George Knecht death Q3 1898 Paddington | GRO death certificate | Medium |
-| J G K in 1851 census (St Luke's Hospital, patient) | Stepney area | Low |
+| 1861 census — George Knecht not located | Islington / St Giles area | Medium — may be under mangled surname |
+| J G K in 1851 census (St Luke's Hospital, patient) | Stepney area | Low — ruled out (clerk, born London) |
 
 ## James Glasscock — death certificate
 

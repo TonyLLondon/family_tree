@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8G-V29"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FV8G-V29"
+  
+content_summary: "Baptism record of Caspar Stump, 27 November 1662, Sulgen, Thurgau. Parents: Augustin Stump (father) and Barbel Rutershausser (mother). Establishes Generation 12 of STUMP lineage."
+
+related_people:
+  - "caspar-stump-1662" # Caspar Stump (our subject)
+  - "augustin-stump-1628" # Augustin Stump (father)
+  - "barbel-rutershausser" # Barbel Rutershausser (mother)

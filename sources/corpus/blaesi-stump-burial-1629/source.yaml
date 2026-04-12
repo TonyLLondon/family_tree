@@ -1,0 +1,18 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:68VT-N5C1"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "68VT-N5C1"
+  image_ark: "3:1:3QS7-89LV-NGP4"
+  
+content_summary: "Burial record of Blassi Stump, 7 October 1629, Sulgen, Thurgau, Switzerland. Confirms death date and location of our deepest confirmed STUMP ancestor."
+
+related_people:
+  - "I165" # Blaesi STUMP

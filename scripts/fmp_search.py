@@ -11,6 +11,7 @@ Usage:
     python scripts/fmp_search.py detail   GBC/1861/0001222452
     python scripts/fmp_search.py newspapers --names "fulvia lewis"
     python scripts/fmp_search.py newspapers --names "thomas cushen" --from 1860 --to 1890 --facets
+    python scripts/fmp_search.py newspapers --keywords "burgess tabriz" --from 1830 --to 1860
 
 Filters:
     --place TEXT        Place name (uses FMP KeywordsPlace field; case-insensitive)
@@ -50,7 +51,7 @@ IIIF_BASE = "https://www.findmypast.co.uk/titan/marshal/obscura/api/image"
 FMP_TILE_SESSION = "12067ec6a8e46100"
 
 FMP_ACCESS_TOKEN = (
-    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9.eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9tZW1iZXJfaWQiOjQxMTI4NDgxOCwiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vY29ubmVjdGlvbiI6ImFjY291bnQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9nbG9iYWxfbWVtYmVyX2lkIjoiRk1QfDQxMTI4NDgxOCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL2V4cGVyaW1lbnRhdGlvbl90cmFja2luZ19rZXkiOiIyNzU5MTQwZS1mNTU0LTRkM2UtOThiYS0xNjU0NmFiMjZlMmQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9wdWJsaWNfaWQiOiJlYjQ1NDAzZS1hY2ExLTRjOGEtOWExZS00MjQ3ODg5MmE1Y2YiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9pZCI6IjExNjciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9ncm91cCI6IkV2ZXJ5dGhpbmciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9tb250aHMiOjEsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdGF0ZSI6IkFDVElWRSIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl90eXBlIjoiRlJFRV9UUklBTCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdG9yZSI6IlJFQ1VSTFkiLCJpc3MiOiJodHRwczovL2F1dGguZmluZG15cGFzdC5jb20vIiwic3ViIjoiYXV0aDB8YWNjb3VudHw0MTEyODQ4MTgiLCJhdWQiOlsiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vYXBpIiwiaHR0cHM6Ly9mbXAtcHJvZHVjdGlvbi5ldS5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNzc1MjQ4OTE0LCJleHAiOjE3NzUyNTA3MTQsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhenAiOiJ0WVk2TmZxckQ2WkhIUm1uUlNZazFLcFlJMDV2R25ScCJ9.fkzms-OzVrKjle-aagAL2lunvKWi3jztlE5J7lh4uS9Jztzv741gWSNdrzsWHKEZ0pAHi-_l_CJB42hd4wH8YS9xMXZ-WhuwSdy2QiHohyYGOvRXbLuE4Ij8GkTO5HuwyaMDMvIrYhc76bPuN7u0WZytS6quoZ_b-Ay8ciH_KzdKF2BNtYcha71KW5UclvB41XHV_ghOJoGOPepYxriDyBIFrORdq7TLzYi0e6Q1lahfGPJK59qKGzPFEL1VAWaHhFi-jos5OKsqhYWjg6zIeQKKbh3c1chHN_DCUzKt7IrJdSULcWBPidxr2ADRyCLTUc8qMpe4VJsw6uj62F4FTw"
+    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImowV2dNN2cyQnUxT0Y4YjBpT3RTZyJ9.eyJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9tZW1iZXJfaWQiOjQxMTI4NDgxOCwiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vY29ubmVjdGlvbiI6ImFjY291bnQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9nbG9iYWxfbWVtYmVyX2lkIjoiRk1QfDQxMTI4NDgxOCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL2V4cGVyaW1lbnRhdGlvbl90cmFja2luZ19rZXkiOiIyNzU5MTQwZS1mNTU0LTRkM2UtOThiYS0xNjU0NmFiMjZlMmQiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9wdWJsaWNfaWQiOiJlYjQ1NDAzZS1hY2ExLTRjOGEtOWExZS00MjQ3ODg5MmE1Y2YiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9pZCI6IjExNjciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9ncm91cCI6IkV2ZXJ5dGhpbmciLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9zdWJfcGxhbl9tb250aHMiOjEsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdGF0ZSI6IkNBTkNFTEVEIiwiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vc3ViX3R5cGUiOiJTVEFOREFSRCIsImh0dHBzOi8vd3d3LmZpbmRteXBhc3QuY29tL3N1Yl9zdG9yZSI6IlJFQ1VSTFkiLCJodHRwczovL3d3dy5maW5kbXlwYXN0LmNvbS9wcHYiOmZhbHNlLCJpc3MiOiJodHRwczovL2F1dGguZmluZG15cGFzdC5jb20vIiwic3ViIjoiYXV0aDB8YWNjb3VudHw0MTEyODQ4MTgiLCJhdWQiOlsiaHR0cHM6Ly93d3cuZmluZG15cGFzdC5jb20vYXBpIiwiaHR0cHM6Ly9mbXAtcHJvZHVjdGlvbi5ldS5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNzc1OTM5MTIzLCJleHAiOjE3NzU5NDA5MjMsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhenAiOiJ0WVk2TmZxckQ2WkhIUm1uUlNZazFLcFlJMDV2R25ScCJ9.LPqH-_DEzhyVwIG6O8oTOVwNq9FuzVXeFpakmOsJ_DNgYd_kz1-CNbI5NiViwHVCS_nJlsxahEEHYdskKwD7QvqTpcxYOW9S4UiVdaOhZzzms3znou61OLWndhw136g82Hr6oH6Lt7Y6Uz7ggvCGCX7DX28jVY1m1JVkzpu5CTVxNLK-xCaSZ0AeGcxoq_qvXnU8ek2OrLN3FPWJLKBPZ5Kg7-syye49LjTBXOr3YLOI1mJAa526ZtVxL8i3zEzAP-MlcTS6h158Tro7YVdDhOQn-dZ0N2mYgCbv-VcV3e3HJEe2_reHiSnl27HVyHnoDVwxUYSP1JpY8Ipm-yrrfg"
 )
 
 _BROWSER_UA = (
@@ -114,6 +115,7 @@ NEWSPAPER_SEARCH_QUERY = textwrap.dedent("""\
                 }
                 newspaperPages {
                     id
+                    pageNumber
                     thumbnailUri
                     __typename
                 }
@@ -297,8 +299,6 @@ def run_search(args: argparse.Namespace) -> None:
         keywords=getattr(args, "keywords", None),
     )
 
-    place_filter = getattr(args, "place", None)
-
     page = args.page
     shown = 0
     while True:
@@ -357,6 +357,8 @@ def _strip_highlights(text: str) -> str:
 def _format_article(art: dict, *, verbose: bool = False) -> str:
     issue = art.get("newspaperIssue") or {}
     meta = art.get("articleMetadata") or {}
+    pages = art.get("newspaperPages") or []
+    
     title = _strip_highlights(art.get("title", "")).strip()
     snippet = _strip_highlights(art.get("textSnippet", "")).strip()
     newspaper = issue.get("title", "")
@@ -365,20 +367,33 @@ def _format_article(art: dict, *, verbose: bool = False) -> str:
     art_type = ", ".join(meta.get("type", []))
     words = meta.get("wordCount", "")
     article_id = art.get("articleId", "")
-    url = f"https://www.findmypast.co.uk/search-newspapers/article/{article_id}" if article_id else ""
+    
+    # Build image-viewer URL if we have page number
+    image_url = ""
+    if article_id and pages:
+        # Parse article_id like "BL/0000458/18380118/018"
+        parts = article_id.split("/")
+        if len(parts) >= 3:
+            # issue = BL/newspaper_id/date
+            issue_id = "/".join(parts[:3])
+            page_num = pages[0].get("pageNumber", "")
+            art_num = parts[3] if len(parts) > 3 else "00001"
+            if page_num:
+                from urllib.parse import quote
+                issue_encoded = quote(issue_id, safe="")
+                image_url = f"https://www.findmypast.co.uk/image-viewer?issue={issue_encoded}&page={page_num}&article={art_num}&stringtohighlight=burgess"
 
     lines = [f"  {newspaper} — {date}"]
     lines.append(f"    \"{title}\"")
     if snippet:
         lines.append(f"    …{snippet[:200]}{'…' if len(snippet) > 200 else ''}")
     lines.append(f"    {place}  |  {art_type}  |  {words} words")
-    if url:
-        lines.append(f"    {url}")
+    if image_url:
+        lines.append(f"    {image_url}")
     if verbose:
         lines.append(f"    Score: {meta.get('score', '?')}  |  ID: {art.get('id', '')}")
-        pages = art.get("newspaperPages") or []
         for pg in pages:
-            lines.append(f"    Thumb: {pg.get('thumbnailUri', '')}")
+            lines.append(f"    Page: {pg.get('pageNumber', '?')}  |  Thumb: {pg.get('thumbnailUri', '')}")
     return "\n".join(lines)
 
 
@@ -414,7 +429,7 @@ def run_newspaper_search(args: argparse.Namespace) -> None:
 
     filters: dict = {
         "namesFilter": [args.names] if args.names else [],
-        "exactNames": True,
+            "exactNames": bool(args.names),
         "keywordsFilter": getattr(args, "keywords", None) or "",
         "exactKeywords": False,
         "filterQuery": filter_query,
@@ -450,7 +465,8 @@ def run_newspaper_search(args: argparse.Namespace) -> None:
         articles = search["articles"]
 
         if start_from == 0:
-            print(f"── {total} newspaper results for \"{args.names}\" ──\n")
+            label = f'"{args.names}"' if args.names else f'keywords "{getattr(args, "keywords", "")}"'
+            print(f"── {total} newspaper results for {label} ──\n")
 
         for art in articles:
             print(_format_article(art, verbose=getattr(args, "verbose", False)))
@@ -778,7 +794,7 @@ def main() -> None:
         _add_search_args(sp)
 
     np = sub.add_parser("newspapers", help="Search British Newspaper Archive via FMP")
-    np.add_argument("--names", required=True, help="Name(s) to search for in articles")
+    np.add_argument("--names", default=None, help="Name(s) to search for in articles")
     np.add_argument("--keywords", help="Additional keyword filter (e.g. 'madras', 'registrar')")
     np.add_argument("--from", dest="from_year", type=int, help="Start year")
     np.add_argument("--to", dest="to_year", type=int, help="End year")

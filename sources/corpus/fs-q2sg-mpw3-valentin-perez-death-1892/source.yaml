@@ -1,0 +1,27 @@
+remote:
+  familysearch_id: "Q2SG-MPW3"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:Q2SG-MPW3"
+  image_ark: "3:1:939K-PL8Q-8"
+
+record_type: "death_registration"
+collection: "Chile, Civil Registration, 1880-1933"
+collection_id: "1630787"
+
+index:
+  name: "Valentin Perez"
+  birth_year: 1827
+  death_date: "1892-09-05"
+  death_registration_place: "Quirihue, Ñuble, Biobío, Chile"
+  father: "Ignacio Perez"
+  mother: "Isabel Mora"
+  spouse: "Rosario Gonzalez"
+
+files:
+  film_api_fetch: "images/Q2SG-MPW3-api-fetch-2026.jpg"
+  legacy_screenshot: "images/Q2SG-MPW3-valentin-perez-death-1892.png"
+  user_capture_pages_44_45: "images/user-capture-spread-pages-44-45-2026.png"
+  user_capture_pages_84_85: "images/user-capture-spread-pages-84-85-2026.png"
+
+research_notes:
+  - "Canonical tree row for I700 comes from this index + chile-perez extension; handwriting on filed images must be transcribed by eye — ML reads conflict."
+  - "2026-04: Fresh API pull Q2SG-MPW3-api-fetch-2026.jpg (ARK 3:1:939K-PL8Q-8); Tony PNGs filed for same research pass."

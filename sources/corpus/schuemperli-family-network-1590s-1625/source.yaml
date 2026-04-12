@@ -1,0 +1,29 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FVKY-PZS"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch systematic search for SCHUEMPERLI ancestry via Anna Schuemperli"
+  record_ids:
+    - "FVKY-PZS" # Anna Schuemperli bapt 1608
+    - "68VT-B3GW" # Zacharias Schümparli burial 1625
+    - "FVN4-KFS" # Heinrich Schuemperli marriage, father Hanss
+    - "FV8Z-WZB" # Symon Schuemperli bapt 1591, parents Hans × Margretha
+    - "Multiple" # Various SCHUEMPERLI baptisms 1590s-1650s Sulgen
+    
+content_summary: "SCHUEMPERLI family network in Sulgen, Thurgau, 1590s-1625. Documents Anna Schuemperli's parents (Zacharias Schuemperli × Barbela Weber) and broader family context showing multiple SCHUEMPERLI branches active in same community."
+
+related_people:
+  - "anna-schuemperli-1608" # Anna SCHUEMPERLI (subject, married Caspar STUMP)
+  - "zacharias-schuemperli-1580s" # Zacharias SCHUEMPERLI (father, died 1625)
+  - "barbela-weber" # Barbela WEBER (mother)
+  - "hans-schuemperli-1560s" # Hans SCHUEMPERLI (potential grandfather generation)
+  - "symon-schuemperli-1591" # Symon SCHUEMPERLI (contemporary, potential relative)
+  - "heinrich-schuemperli-1600s" # Heinrich SCHUEMPERLI (contemporary, potential relative)
+  - "caspar-stumpp" # Caspar STUMP (Anna's husband)
+  - "jeanne-benigne-montagnon" # Jeanne Bénigne MONTAGNON (descendant)

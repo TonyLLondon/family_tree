@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FVKB-MRS"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FVKB-MRS"
+  
+content_summary: "Baptism record of Anna Margreth Jung, 5 April 1731, Sulgen, Thurgau. Parents: Hanss Ulrich Jung (father) and Margreth Mockh (mother). Establishes birth details for Hans Konrad Stump's wife."
+
+related_people:
+  - "I147" # Anna Margaretha Jung
+  - "hanss-ulrich-jung" # Hanss Ulrich Jung (father)
+  - "margreth-mockh" # Margreth Mockh (mother)

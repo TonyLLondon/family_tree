@@ -1,0 +1,19 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:FV8G-VDQ"
+  collection: "Switzerland, Baptisms, 1491-1940"
+  collection_id: "1520585"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py"
+  record_id: "FV8G-VDQ"
+  
+content_summary: "Baptism record of Johanness Mock, 27 September 1661, Sulgen, Thurgau. Parents: Thoma Mock (father) and Anna Sprenger (mother). This is Johannes Mockh (1662-1736)."
+
+related_people:
+  - "johannes-mockh-1662" # Johannes Mockh (our subject)
+  - "thoma-mock" # Thoma Mock (father)  
+  - "anna-sprenger" # Anna Sprenger (mother)

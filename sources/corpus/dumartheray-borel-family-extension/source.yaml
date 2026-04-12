@@ -1,0 +1,30 @@
+remote:
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:6JCK-2SH2"
+  collection: "Switzerland, Catholic and Reformed Church Records, 1418-1996"
+  collection_id: "4138674"
+  
+files:
+  reference: reference.md
+
+provenance:
+  discovered: "2026-04-11"
+  method: "FamilySearch search via fs_search.py - maternal line extension research"
+  record_ids:
+    - "6JCK-2SH2" # Gabriel Nicolas Dumartheray × Jeanne Elisabet Borel family register 1767
+    - "6NQF-PPTP" # Jean Jaques Gabriel Dumarteray baptism 1716
+    - "6JCK-C92Y" # Jeanne Elizabeth Borel burial 1817
+    - "6NQ2-1JGX" # Estienne Dumarteray burial 1746
+    - "6NQK-8RZ8" # Estienne François Dumartheray baptism 1653
+    
+content_summary: "Multi-generational DUMARTHERAY and BOREL family records extending Jeanne Bénigne Montagnon's maternal lineage back to early 1600s through Swiss Reformed Protestant church records."
+
+related_people:
+  - "jeanne-benigne-montagnon" # Descendant
+  - "jeanne-francoise-dumartheray" # Mother  
+  - "jean-gabriel-nicolas-dumartheray" # Grandfather
+  - "jeanne-elisabeth-borel" # Grandmother
+  - "jaques-dumartheray-1716" # Great-grandfather
+  - "gabriel-borel-1714" # Great-grandfather
+  - "estienne-dumarteray-1678" # 3rd great-grandfather
+  - "marguerite-cadenan-1714" # 3rd great-grandmother
+  - "jaques-dumartheray-1620s" # 4th great-grandfather

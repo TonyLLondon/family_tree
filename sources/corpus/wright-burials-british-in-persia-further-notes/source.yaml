@@ -8,4 +8,5 @@ fetches:
   bytes: 1036925
 files:
   pdf_markdown: extracted.pdf.md
+  research_summary: research-summary.md
   media_reference: media/publications/persia-iran/Sir Denis Wright_Burials and Memorials in Persia Further Notes.pdf

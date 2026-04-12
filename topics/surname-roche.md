@@ -74,6 +74,7 @@ The allied surnames tell the same story of Hiberno-Norman gentry networks: **Sta
 
 ## Related
 
+- [Adam de Rupe](adam-de-rupe.md) — traditional Norman–Welsh root of the Fermoy Roches; castles, fork model, viscount probabilities · [person page](../people/adam-de-rupe.md)
 - [The Bankers of George's Street](../stories/roche-limerick-bankers.md) — scrollytelling story: armed ships, the 1820 crisis, and pineapples in Limerick
 - [The Bank of Thomas and William Roche, Limerick (1801–1825)](bank-of-thomas-and-william-roche.md)
 - [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md)

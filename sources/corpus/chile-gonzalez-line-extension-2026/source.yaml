@@ -1,0 +1,28 @@
+# Chilean GONZÁLEZ Line Extension 2026-04-11
+
+title: "Chilean GONZÁLEZ Family Line Extension: Ana González to José González (1740s-present)"
+date_accessed: "2026-04-11"
+source_type: "genealogical_research"
+description: "FamilySearch systematic lineage extension of Chilean GONZÁLEZ family from Ana González back 4+ generations to José González (active 1780s-1840s)"
+
+# Research methodology: Iterative parent-finding through death/burial records
+research_method: "systematic_familysearch_parent_tracing"
+geographic_focus: "Chile (Santiago, Illapel, La Serena regions)"
+time_period: "1740s-1880s"
+generations_added: 4
+
+# Primary records used
+familysearch_ids:
+  - "Q24B-XNRS"   # Ana Maria González (1848-1888) → Juan González + Pascuala Rodríguez
+  - "Q241-2CJ8"   # Juan González Cardenas (1838-1898) → Pablo González + Pabla Cardenas
+  - "6B44-1364"   # Pablo González (1798-1878) → Pedro González + Prudencia Arancibia
+  - "6TN1-TGYG"   # Pedro González (1782-1842) → José González + Juana Lorca
+
+collections:
+  - "Chile, Civil Registration, 1880-1933"
+  - "Chile, Catholic Church Records, 1633-2015"
+
+# Significance: Major Chilean shallow dead-end breakthrough
+ancestor_tracker_impact: "Extends GONZÁLEZ line from Generation 4 to Generation 8+"
+research_priority: "high_priority_chilean_shallow_dead_end"
+methodology_success: "iterative_parent_search_via_death_records"

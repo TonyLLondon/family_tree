@@ -1,0 +1,26 @@
+remote:
+  familysearch_id: "62XX-M8W7"
+  primary_url: "https://www.familysearch.org/ark:/61903/1:1:62XX-M8W7"
+  record_type: "Death/Burial Registration"
+  collection: "Chile, Catholic Church Records, 1633-2015"
+  location: "Catedral de San Agustín, Talca, Talca, Chile"
+  date: "1826-05-11"
+
+subject:
+  name: "Rosario Mendez"
+  death_date: "1826-05-11"
+  parents: "Juan Mendez + Nieves Castillo"
+
+genealogical_significance: |
+  CRITICAL maternal lineage extension record for CERPA colonial ancestry.
+  Establishes Juan Mendez + Nieves Castillo as parents of Rosario Mendez,
+  extending the CERPA maternal line back another generation to ~1750s.
+  Geographic consistency (Talca region) supports genealogical connection.
+
+research_context: |
+  Discovered during systematic Chilean maternal lineage research on 11 April 2026.
+  Extends CERPA ancestry beyond paternal colonial line to include maternal
+  colonial connections.
+
+files:
+  original_image_ark: "3:1:3Q9M-CS7M-1YZJ"
