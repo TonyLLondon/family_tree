@@ -1,7 +1,7 @@
 ---
 source_file: media/publications/persia-iran/Sir Denis Wright_Burials and Memorials in Persia Further Notes.pdf
 document_type: Research summary of key data
-citation: Sir Denis Wright, "Burials and Memorials in Persia: Further Notes and Photographs," Iran 39/1 (2001): 293-298
+citation: 'Sir Denis Wright, "Burials and Memorials in Persia: Further Notes and Photographs," Iran 39/1 (2001): 293-298'
 summary_date: 2026-04-11
 notes: Supplement to main 1998 Wright article, primarily photographic documentation
 ---
