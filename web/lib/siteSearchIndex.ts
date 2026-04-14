@@ -147,6 +147,14 @@ export function getSiteSearchItems(): BrowseItem[] {
     meta: "Chart",
   });
 
+  items.push({
+    id: "section:pedigree",
+    title: "Pedigree tree",
+    subtitle: "Expandable parents, children, siblings; URL saves view",
+    href: "/chart/pedigree",
+    meta: "Chart",
+  });
+
   return items.sort(
     (a, b) => categoryRank(a.meta) - categoryRank(b.meta) || a.title.localeCompare(b.title)
   );

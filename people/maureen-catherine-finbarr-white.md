@@ -1,8 +1,8 @@
 ---
 name: Maureen Catherine Finbarr White
-display_name: Maureen WHITE
+display_name: Molly WHITE
 also_known_as:
-  - Molly White
+  - Maureen White
 treeId: I10
 gedcom: "@I10@"
 born: 1919-06-02

@@ -78,6 +78,21 @@ export function getChildren(tree: FamilyTree, personId: string): Person[] {
   return out;
 }
 
+/** Other children of the same birth union (same parents), excluding `personId`. */
+export function getSiblings(tree: FamilyTree, personId: string): Person[] {
+  const p = tree.people[personId];
+  if (!p?.birthUnionId) return [];
+  const u = tree.unions[p.birthUnionId];
+  if (!u?.childIds?.length) return [];
+  const out: Person[] = [];
+  for (const cid of u.childIds) {
+    if (cid === personId) continue;
+    const c = tree.people[cid];
+    if (c) out.push(c);
+  }
+  return out;
+}
+
 export type AncestorNode = {
   id: string;
   person: Person | null;
@@ -133,6 +148,56 @@ export function getYearSpan(tree: FamilyTree): number {
   if (!isFinite(min) || !isFinite(max)) return 0;
   const raw = max - min;
   return Math.round(raw / 100) * 100;
+}
+
+/**
+ * The current focus plus every strict ancestor via birth parents only (walk upward).
+ * Does not include siblings, descendants, spouses who are not on that chain, etc.
+ */
+export function collectDirectAncestorIds(tree: FamilyTree, focusId: string): Set<string> {
+  const out = new Set<string>();
+  let layer = new Set<string>();
+  if (tree.people[focusId]) layer.add(focusId);
+  while (layer.size > 0) {
+    for (const id of layer) out.add(id);
+    const next = new Set<string>();
+    for (const id of layer) {
+      const [f, m] = getParents(tree, id);
+      if (f) next.add(f.id);
+      if (m) next.add(m.id);
+    }
+    layer = next;
+  }
+  return out;
+}
+
+/**
+ * Among `ancestorId`'s children, the one who lies on the strict birth line toward `focusId`
+ * (i.e. is in collectDirectAncestorIds(focusId)). When the card is the focused person
+ * (`ancestorId === focusId`), `lineSubjectId` supplies whose descendant line to follow
+ * (e.g. default pedigree subject); otherwise that parameter is ignored.
+ */
+export function lineageChildTowardFocus(
+  tree: FamilyTree,
+  ancestorId: string,
+  focusId: string,
+  lineSubjectId?: string | null,
+): Person | null {
+  let referenceForPath = focusId;
+  if (ancestorId === focusId) {
+    if (!lineSubjectId || !tree.people[lineSubjectId] || lineSubjectId === ancestorId) {
+      return null;
+    }
+    referenceForPath = lineSubjectId;
+  }
+
+  const ancestors = collectDirectAncestorIds(tree, referenceForPath);
+  if (!ancestors.has(ancestorId)) return null;
+
+  const kids = getChildren(tree, ancestorId);
+  const onPath = kids.filter((c) => ancestors.has(c.id));
+  if (onPath.length !== 1) return null;
+  return onPath[0]!;
 }
 
 export function buildAncestorTree(tree: FamilyTree, rootId: string, maxDepth: number): AncestorNode {

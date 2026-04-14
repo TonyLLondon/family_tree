@@ -6,6 +6,7 @@ import { useCallback, useEffect, useId, useState } from "react";
 
 const links = [
   { href: "/chart", label: "Family tree" },
+  { href: "/chart/pedigree", label: "Pedigree" },
   { href: "/stories", label: "Stories" },
   { href: "/map", label: "Map" },
   { href: "/people", label: "People" },

@@ -29,7 +29,11 @@ export default function ChartPage() {
         </div>
 
         <p className="mt-4 max-w-xl text-center text-xs text-zinc-400">
-          Click any person to open their page. Portraits appear when a photo is available.
+          Click any person to open their page. Portraits appear when a photo is available.{" "}
+          <a href="/chart/pedigree" className="text-sky-600 underline decoration-sky-600/40 hover:text-sky-800">
+            Pedigree view
+          </a>{" "}
+          (expandable branches, URL state).
         </p>
       </main>
     </div>
