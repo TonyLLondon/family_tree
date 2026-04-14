@@ -15,16 +15,28 @@ type BacklinkMap = Map<string, Backlink[]>;
 
 let cached: BacklinkMap | null = null;
 
+/** Strip leading `./` and `../` so `../sources/corpus/foo/...` matches like `sources/corpus/foo/...`. */
+function normalizeLinkTargetForExtraction(linkTarget: string): string {
+  const pathOnly = linkTarget.split("#")[0] ?? linkTarget;
+  let s = pathOnly;
+  while (s.startsWith("../") || s.startsWith("./")) {
+    if (s.startsWith("../")) s = s.slice(3);
+    else if (s.startsWith("./")) s = s.slice(2);
+  }
+  return s;
+}
+
 /**
  * Extracts the corpus slug from a vault-relative link target.
  * Handles patterns:
  *   sources/corpus/<slug>/...
- *   corpus/<slug>/...          (relative from sources/*.md)
+ *   ../sources/corpus/<slug>/...   (from people/, stories/, topics/)
+ *   corpus/<slug>/...              (relative from sources/*.md)
  */
 function extractCorpusSlug(linkTarget: string): string | null {
+  const norm = normalizeLinkTargetForExtraction(linkTarget);
   const m =
-    linkTarget.match(/(?:^|\/)?sources\/corpus\/([^/]+)/) ??
-    linkTarget.match(/^corpus\/([^/]+)/);
+    norm.match(/^sources\/corpus\/([^/]+)/) ?? norm.match(/^corpus\/([^/]+)/);
   return m ? m[1]! : null;
 }
 
@@ -33,8 +45,9 @@ function extractCorpusSlug(linkTarget: string): string | null {
  * Handles: sources/<slug>.md (not under sources/corpus/).
  */
 function extractSourceCardSlug(linkTarget: string): string | null {
-  if (/sources\/corpus\//.test(linkTarget)) return null;
-  const m = linkTarget.match(/(?:^|\/)?sources\/([^/]+)\.md/);
+  const norm = normalizeLinkTargetForExtraction(linkTarget);
+  if (/sources\/corpus\//.test(norm)) return null;
+  const m = norm.match(/^sources\/([^/]+)\.md$/);
   return m ? m[1]! : null;
 }
 

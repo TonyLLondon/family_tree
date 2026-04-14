@@ -65,8 +65,11 @@ function toFilesUrl(relPosix: string): string {
 function resolveFileOnlyHref(currentFileRelPosix: string, raw: string): string | undefined {
   const pathPart = raw.split("#")[0] ?? raw;
   const dir = path.posix.dirname(currentFileRelPosix);
-  const joined = path.posix.normalize(path.posix.join(dir, decodeVaultRelativePath(pathPart)));
+  let joined = path.posix.normalize(path.posix.join(dir, decodeVaultRelativePath(pathPart)));
   if (joined.startsWith("..")) return undefined;
+  if (joined.startsWith("sources/media/")) {
+    joined = joined.slice("sources/".length);
+  }
   if (joined.startsWith("media/") || joined.startsWith("archive/")) {
     return toFilesUrl(joined);
   }
@@ -80,6 +83,12 @@ export function resolveVaultHref(currentFileRelPosix: string, raw: string): stri
   const dir = path.posix.dirname(currentFileRelPosix);
   let joined = path.posix.normalize(path.posix.join(dir, decodeVaultRelativePath(pathPart)));
   if (joined.startsWith("..")) return undefined;
+
+  // Corpus markdown often links `../../media/...` meaning repo-root `media/`; from
+  // `sources/corpus/<slug>/` that normalizes to the bogus path `sources/media/...`.
+  if (joined.startsWith("sources/media/")) {
+    joined = joined.slice("sources/".length);
+  }
 
   joined = joined.replace(/\/$/, "");
 

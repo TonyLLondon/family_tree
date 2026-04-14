@@ -35,7 +35,7 @@ Keziah disappears from Merthyr Tydfil records after 1871. A Keziah Morgan (b. ~1
 
 ## Evidence
 
-- **Baptism — Aberystruth, 4 Jul 1824** — Keziah, born 7 Mar 1824, son of Thomas and Charlotte Morgan. Abode: Nantyglo. Father's trade: Miner. ([image](../media/docs/1824-baptism-keziah-morgan-aberystruth-monmouthshire.jpg))
+- **Baptism — Aberystruth, 4 Jul 1824** — Keziah, born 7 Mar 1824, son of Thomas and Charlotte Morgan. Abode: Nantyglo. Father's trade: Miner. [Corpus bundle](../sources/corpus/1824-baptism-keziah-morgan-aberystruth/transcription.md) · [register image](../media/docs/1824-baptism-keziah-morgan-aberystruth-monmouthshire.jpg)
 - **Thomas Morgan × Charlotte Davies marriage — Aberystruth, 5 Jul 1823** — Monmouthshire Marriages, p. 87. FMP `GBPRS/M/913147209/1`. ([corpus](../sources/corpus/1823-marriage-thomas-morgan-charlotte-davies-aberystruth/transcription.md))
 - [1871 census — Dowlais Ward](../media/docs/1871-census-keziah-morgan-household-dowlais-rg10-5397.jpg) — RG 10/5397, p. 200. Keziah Morgan (44, head, collier, Blaina).
 - **Tree id:** **I413** — union **F187**.

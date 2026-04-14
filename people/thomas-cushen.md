@@ -87,7 +87,7 @@ All are phonetic renderings of the Irish surname **Coisín** / **Cuisín** (angl
 **Patrick Cushen's census trail:**
 
 - **1851 — Trevethin, Pontypool** — Patrick Cushion (35, labourer, Cork), wife Ellen (33, Cork), 6 children. HO 107/2449 ([image](../media/docs/1851-census-patrick-cushion-household-trevethin-ho107-2449.jpg)).
-- **GRO death index, Q4 1855** — Ellen Cushan, Merthyr Tydfil, Vol 11A p. 190 ([image](../media/docs/gro-death-index-q4-1855-ellen-cushan-merthyr-tydfil.jpg)). Patrick must have moved from Trevethin to Merthyr by late 1855.
+- **GRO death index, Q4 1855** — Ellen Cushan, Merthyr Tydfil, Vol 11A p. 190 — [corpus](../sources/corpus/1855-death-ellen-cushan-merthyr/transcription.md) · [index image](../media/docs/gro-death-index-q4-1855-ellen-cushan-merthyr-tydfil.jpg). Patrick must have moved from Trevethin to Merthyr by late 1855.
 - **1861 — Merthyr Tydfil** — Patrick Cuskin (48, labourer, Ireland); Ellen dead since 1855. Michael Walsh (45, Ireland) boarding — possibly father of son-in-law Patrick Walsh. RG 9/4056 ([image](../media/docs/1861-census-patrick-cuskin-household-merthyr-rg9-4056.jpg)).
 - **1871 — Dowlais** — Pat Cushion (60, boarder, labourer, Ireland), living in son-in-law Pat Welsh's household with daughter Ann (21). RG 10/5398 ([image](../media/docs/1871-census-pat-cushion-boarder-dowlais-rg10-5398.jpg)).
 - **1881 — Royal Oak Inn, Penydarren** — Patrick Cushen (70, father-in-law, widower, overman, Ireland). RG 11/5315 ([image](../media/docs/1881-census-patrick-cushen-royal-oak-penydarren-rg11-5315.jpg)).
