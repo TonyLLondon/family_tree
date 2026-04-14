@@ -101,7 +101,7 @@ Anna's testimony (interview, Leicester, March 1880) provides the only account of
 
 - Parents: [Henry Burgess](henry-burgess.md); [Frances Ridsdale](frances-ridsdale.md).
 - Wife: [Anna Saginian](anna-saginian.md) (married autumn 1851).
-- Children: **John Burgess** (born ~1852, died ~1854 at 18 months, buried Tehran Armenian graveyard); [Fanny Burgess](fanny-burgess.md) (born 9 Jun 1854).
+- Children: **John Burgess** (1854–1855; born and died **Tehran, Iran** in infancy; tablet listed in the Armenian church of SS. Thadeus and Bartholomew, Tehran — [Wright, *Burials of British in Persia*](../sources/corpus/wright-burials-british-in-persia/transcription.md)); [Fanny Burgess](fanny-burgess.md) (born 9 Jun 1854).
 - Siblings: **Charles Henry Burgess** (1806-1854; eldest; **first British subject to export goods England→Persia**; Lieutenant under Abbas Mirza 1827-29; merchant 1830-36; **abandoned Edward as hostage** to Persian creditors 1836; outlawed London 1847-48; died European health resort 1854); **Joseph Burgess** ("brother Joe," Liverpool schooling); **George Burgess** (Philadelphia then New York; Edward's principal correspondent 1840s-50s).
 
 ## Evidence

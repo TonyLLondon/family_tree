@@ -8,7 +8,7 @@
 
 From George Knecht's 1864 naturalisation certificate (HO 1/117/4524):
 
-- **Birthplace:** "Vardestat" [?] in Bavaria (handwriting illegible)
+- **Birthplace:** **Wasserlos** in Bavaria (George’s memorial, page 3 of HO 1/117/4524; corpus PNG + transcription in `sources/corpus/knecht-george-naturalisation-1864/`)
 - **Birth year:** c. 1815 (declaration states "forty nine years of age" in 1864)
 - **Occupation:** Coach builder, employed by Great Western Railway Company
 - **Arrival in England:** c. 1852 ("in this Kingdom twelve years")
@@ -49,7 +49,7 @@ Narrowed searches:
 
 ## Town name identified: **Wasserlos**
 
-**BREAKTHROUGH:** The handwriting on the naturalisation (page 3, solemn declaration) reads:
+**BREAKTHROUGH:** The handwriting on the naturalisation **memorial (page 3)** reads:
 
 > "That I am a subject of **Wasserlos** in Bavaria…"
 

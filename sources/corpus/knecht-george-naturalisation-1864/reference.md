@@ -201,14 +201,11 @@ EYRE, Son & Co., Certificate Stationers, 9, Royal Exchange, and 5, Old Bond Lane
 
 ## Analysis and research implications
 
-### 1. Origin: Bavaria confirmed
+### 1. Origin: Bavaria and Wasserlos confirmed
 
-The memorial explicitly states George was **"a subject of Vardestat [?] in Bavaria"**. This contradicts the 1891 census which says "Hesse-Nassau". Primary contemporary evidence (naturalisation 1864) trumps retrospective census (1891, 27 years later). The census may reflect:
-- Enumerator error
-- Post-1871 German unification administrative changes (Bavaria and Hesse-Nassau both became part of the German Empire)
-- George simplifying or mis-stating his origin by that time
+The memorial explicitly states George was **"a subject of Wasserlos in Bavaria"**. This contradicts the 1881/1891 census returns which say "Hesse-Nassau". Primary contemporary evidence (naturalisation 1864) trumps those retrospective returns. The census may reflect enumerator error, confusion after German unification, or approximate reporting.
 
-**Action:** Search Bavarian place-name gazetteers for "Vardestat" or similar. Consider OCR/handwriting variants: Vardestat, Vardenstat, Wardestat, etc.
+**Action:** Search **Alzenau** Catholic/Lutheran church registers for Johann Georg Knecht, baptism 1814–1816.
 
 ### 2. Arrival date: c. 1852
 
@@ -220,7 +217,7 @@ George states he has been in the UK **12 years** as of 1864, placing his arrival
 
 ### 3. Occupation: railway employee
 
-George worked for the **"Great [Northern?] Railway Company"** as a "Good Breeder" [uncertain]. The Home Office note may say "Coach Builder", which would make sense for railway carriage construction. The Great Northern Railway (GNR) was a major London-based railway serving routes from King's Cross to Yorkshire and Scotland.
+George's memorial states he was a **coach builder** in the employ of the **Great Western Railway Company**. The Home Office administrative sheet (page 4) records **Coach Builder**. The Great Western Railway (GWR) was a major London-based network; employment fits a carriage-building trade.
 
 **Alternative readings of occupation:**
 - **"Coach Builder"** (HO clerk's note) — railway carriage carpenter/joiner
@@ -228,7 +225,7 @@ George worked for the **"Great [Northern?] Railway Company"** as a "Good Breeder
 - **"Guard"** — railway guard/conductor (but memorial handwriting doesn't match)
 
 **Action:**
-- Search GNR staff records if accessible (may be at National Railway Museum, York, or TNA in RAIL series)
+- Search GWR staff records if accessible (may be at National Railway Museum, York, or TNA in RAIL series)
 - Cross-reference 1861 census (George age ~46) for occupation
 - Check trade directories for "Coach Builders" at Canonbury Terrace, Islington
 
@@ -260,7 +257,7 @@ George was **49 years old** in 1864, placing his birth year around **1815** (±1
 - 1891 census: age 78 → born c. 1813
 - 1898 death registration (George Knecht, age 83, Paddington) → born c. 1815
 
-**Action:** Search Bavarian church registers (Catholic and Protestant) for **Johann Georg Knecht** baptisms 1814-1816 once the town "Vardestat" is identified.
+**Action:** Search Bavarian church registers (Catholic and Protestant) for **Johann Georg Knecht** baptisms 1814-1816 at **Wasserlos** / **Alzenau** parishes.
 
 ### 7. Character references
 
@@ -286,10 +283,10 @@ Five years later, **Charles Knecht from Württemberg** was naturalised (HO 1/157
 ## Next steps
 
 1. **Download Charles Knecht naturalisation (1869)** — compare to George's for family connections
-2. **Identify "Vardestat" in Bavaria** — search German gazetteers, consider variant spellings
+2. **Alzenau / Wasserlos church registers** — baptism Johann Georg Knecht, 1814–1816
 3. **Search 1861 census** — locate George Knecht at Canonbury Terrace, Islington
 4. **Search 1851-53 passenger lists** — George's arrival from Germany
-5. **GNR staff records** — confirm railway employment and dates
+5. **GWR staff records** — confirm railway employment and dates
 6. **Bavarian church records** — baptism of Johann Georg Knecht c. 1814-1816 once town identified
 7. **London directories 1864** — character references at "Brackenbury" address
 

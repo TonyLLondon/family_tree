@@ -9,13 +9,12 @@
 
 ### Primary source: 1864 Naturalisation Certificate
 
-**HO 1/117/4524, memorial text:**
-> "That I am a subject of [illegible place name] in Bavaria and am a Good Breeder [Coach Builder?] in the employ of the Great [Northern?] Railway Company - That I am forty nine years of age..."
+**HO 1/117/4524, memorial text (page 3):**
+> "That I am a subject of **Wasserlos** in Bavaria and am a coach builder in the employ of the Great Western Railway Company - … forty nine years of age …"
 
 **Facts established:**
-- **Origin:** Bavaria (clearly stated)
+- **Origin:** **Wasserlos**, Bavaria (Alzenau district, Unterfranken)
 - **Age in 1864:** 49 → **born c. 1815**
-- **Place name:** Illegible, appears to read "Vardestat" or similar
 - **Arrived UK:** c. 1852 (12 years by 1864)
 
 ### Conflicting census evidence
@@ -41,16 +40,13 @@
 - Wrong given names (Georgius Franciscus, Georg Wilhelm, Georg Jacob)
 - No clear baptism for "Johann Georg Knecht" born 1815 in accessible indexes
 
-### Place name candidates
+### Place of origin (resolved)
 
-Attempted readings of the illegible town name in the naturalisation:
+| Place | Location | Status |
+|-------|----------|--------|
+| **Wasserlos** | Kirchdorf, Alzenau, Unterfranken, Bavaria | **Named on memorial** — parish research target Alzenau registers |
 
-| Reading | Location | Status |
-|---------|----------|--------|
-| **Wartenberg** | Bavaria (Erding district, Upper Bavaria) | Possible match - church records not found on FamilySearch |
-| **Werdorf** | Hesse-Nassau (Lahn-Dill district) | Possible match but contradicts "in Bavaria" statement |
-| Vardestat | Not found in gazetteers | Likely misreading |
-| Wardenstadt | Not found in Bavaria | Not a real place |
+Earlier working guesses (Wartenberg, Werdorf, “Vardestat”) are **obsolete**; they predated a clean reading of the memorial line.
 
 ---
 
@@ -87,12 +83,9 @@ Attempted readings of the illegible town name in the naturalisation:
 
 **Problem:** Our George arrived in **England c. 1852**, not America 1846. Likely different person, but same birth year is interesting coincidence.
 
-### 3. Image enhancement of naturalisation
+### 3. Naturalisation images
 
-The place name in the naturalisation memorial (page 3) is handwritten cursive. Could attempt:
-- Contrast/brightness adjustments to PNG image
-- Comparison with other 1860s Home Office handwriting samples
-- Consulting 19th-century Bavarian gazetteers for place-name matches
+Memorial place name resolved as **Wasserlos** from page 3 PNG in corpus (`images/page-3.png`). Full PDF: `media/docs/knecht-george-naturalisation-1864-ho-1-117-4524.pdf`.
 
 ### 4. Archion (German church records platform)
 
@@ -115,27 +108,24 @@ Archion provides online access to many German Protestant church records. Bavaria
 
 ### High priority
 
-1. **Re-examine naturalisation handwriting** — try additional place-name readings beyond "Vardestat"
-2. **Search Wartenberg specifically** — if church records can be located (Archion, local archives, or FamilySearch unindexed films)
-3. **Systematic search of Bavarian gazetteers** — 1815-era topographical handbooks listing all towns/villages (digitized versions available at Bayerische Staatsbibliothek)
+1. **Alzenau / Wasserlos parish registers** — baptism **Johann Georg Knecht**, 1814–1816 (Archion, FamilySearch films if any, Bayerisches Staatsarchiv, on-site Alzenau)
+2. **GRO death or marriage certificate** — father’s name to disambiguate if several Knecht baptisms appear
 
 ### Medium priority
 
-4. **Werdorf investigation** — check if church records 1765-1820 are available anywhere (would resolve Hesse vs Bavaria question)
-5. **Search death records** — George died 28 Sep 1898 Paddington. Death certificate may state birthplace more clearly than census.
-6. **Search marriage certificate** — George married Q3 1856 Islington. Marriage certificate would name his father, which could help confirm German records.
+3. **Census 1861** — not yet located; Islington / Canonbury household
+4. **GWR staff records** — confirm employment dates (National Railway Museum / TNA RAIL if extant)
 
 ### Low priority
 
-7. **Census 1861** — not yet located. George should be in Islington with young family. May clarify birthplace statement.
-8. **Railway employment records** — Great Northern Railway Company employee records (if surviving) at National Railway Museum, York.
+5. **Charles Knecht (1869)** naturalisation — possible relative; compare addresses and references
 
 ---
 
 ## Conclusion
 
-**Current status:** Cannot definitively locate Johann Georg Knecht's 1815 baptism in Bavaria without identifying the exact town/parish. The naturalisation clearly states Bavaria, but the place name is illegible. Searches of FamilySearch's Bavaria collections return too many results without the specific parish.
+**Current status:** Town of origin is **Wasserlos** (memorial, 1864). The open problem is **access to Alzenau parish registers** for 1814–1816 and picking the right **Johann Georg Knecht** if the surname is common there — not guessing the place name.
 
-**Critical bottleneck:** Place name identification. Once the town is known, parish records can be targeted.
+**Critical bottleneck:** Off-FamilySearch or unindexed German church books for Alzenau/Wasserlos; may need Archion, archive order, or on-site research.
 
-**Recommendation:** Focus effort on deciphering the naturalisation handwriting and searching 19th-century Bavarian gazetteers for place names matching the visible letters (starts with V/W, ends with ...stat or ...berg).
+**Recommendation:** Target **Alzenau** Catholic and Protestant church records for the birth window; use GRO certificates for father’s name if the register has multiple candidates.

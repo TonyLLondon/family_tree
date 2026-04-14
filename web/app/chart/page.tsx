@@ -1,10 +1,11 @@
 import { SiteNav } from "@/components/SiteNav";
 import { FanChartClient } from "@/components/FanChartClient";
 import { buildPhotoInfoMap } from "@/lib/photos";
+import { LEWIS_LINEAGE_FOCUS_ID } from "@/lib/lewisLineageFocus";
 import { buildAncestorTree, loadFamilyTree } from "@/lib/tree";
 
 /** Shared chart root: siblings with the same parents; ancestry is identical from either id. */
-const ANCESTOR_ROOT_ID = "I7";
+const ANCESTOR_ROOT_ID = LEWIS_LINEAGE_FOCUS_ID;
 const CENTER_PEOPLE_IDS = ["I7", "I6"] as const;
 const TREE_MAX_DEPTH = 9;
 const CHART_MAX_GENERATION = 7;

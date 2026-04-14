@@ -63,22 +63,15 @@
 
 ### 1. Bavarian baptism for George
 
-The naturalisation memorial (1864, HO 1/117/4524) states George was from **"Vardestat [?] in Bavaria"**. 
+The naturalisation memorial (1864, HO 1/117/4524) states George was **"a subject of Wasserlos in Bavaria"** (memorial handwriting: `sources/corpus/knecht-george-naturalisation-1864/images/page-3.png`; full transcription in `reference.md` in that corpus folder).
 
-**Problem:** Place name uncertain. Variants to try:
-- Vardestat
-- Vardenstat
-- Wardestat
-- Warden
-- Verden
-- (other OCR/handwriting misreadings)
+**Wasserlos** is a Kirchdorf in the **Alzenau** district, Unterfranken, Bavaria — Catholic and Protestant parish books are associated with **Alzenau**, not a separate huge “Bavaria” name search.
 
-**Catalog search:** 2,567 Bavarian church record collections on FamilySearch, but searching by place requires identifying the specific town or district.
+**Catalog search:** FamilySearch has many Bavarian collections; filter by **Alzenau / Unterfranken** or use Archion / Bayerisches Staatsarchiv if the parish registers are not indexed online.
 
 **Action needed:**
-- Identify "Vardestat" in Bavarian gazetteers
-- Once located, search FamilySearch catalog for that parish's church books (Protestant or Catholic depending on region)
-- Search for **Johann Georg Knecht** baptism 1814-1816
+- Search **Alzenau** parish registers (1814–1816) for **Johann Georg Knecht**
+- Corpus + PDF: `media/docs/knecht-george-naturalisation-1864-ho-1-117-4524.pdf`
 
 ### 2. Charles Knecht naturalisation download
 
@@ -115,7 +108,7 @@ Full GRO certificate would show:
 - Origin: Bavaria (not Hesse-Nassau)
 - Born: c. 1815 (age 49 in 1864)
 - Arrived UK: c. 1852 (12 years by 1864)
-- Occupation: Railway coach builder, Great Northern Railway
+- Occupation: Coach builder, Great Western Railway Company (per memorial)
 - Address 1864: No. 1 Canonbury Terrace, Islington Road, Middlesex
 - Married with one child (in 1864)
 

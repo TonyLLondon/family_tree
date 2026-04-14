@@ -6,7 +6,8 @@ import { buildMapData } from "@/lib/geo";
 
 export const metadata = {
   title: "Map – The Lewis Line",
-  description: "Birthplaces, death places, and burial sites across the Lewis Line.",
+  description:
+    "Birthplaces, death places, and burial sites for direct ancestors of the Lewis chart root (collateral relatives excluded).",
 };
 
 export default function MapPage() {

@@ -2,7 +2,8 @@ import fs from "fs";
 import path from "path";
 import { WEB_ROOT } from "./paths";
 import type { FamilyTree } from "./genealogy";
-import { personSlugFromPage } from "./genealogy";
+import { collectDirectAncestorIds, personSlugFromPage } from "./genealogy";
+import { LEWIS_LINEAGE_FOCUS_ID } from "./lewisLineageFocus";
 import {
   classifyBirthPlaceRegion,
   CHART_BIRTH_PLACE_LEGEND,
@@ -70,6 +71,22 @@ function loadLivedPlaces(): LivedPlacesFile {
   return livedCache;
 }
 
+/**
+ * `place-geo.json` keys are exact strings; tree data sometimes appends parenthetical
+ * notes (e.g. burial church) so `"Tabriz, Iran (buried …)"` must resolve to `"Tabriz, Iran"`.
+ */
+function resolvePlaceGeo(placeGeo: PlaceGeo, place: string): { lat: number; lng: number; mapKey: string } | null {
+  let s = place.trim();
+  while (s.length > 0) {
+    const hit = placeGeo[s];
+    if (hit) return { lat: hit.lat, lng: hit.lng, mapKey: s };
+    const m = s.match(/^(.*)\s+\([^)]+\)\s*$/);
+    if (!m) break;
+    s = m[1]!.trim();
+  }
+  return null;
+}
+
 function addToLocationMap(
   locationMap: Map<string, MapLocation>,
   placeGeo: PlaceGeo,
@@ -79,19 +96,19 @@ function addToLocationMap(
   date: string | null,
   period?: string,
 ) {
-  const geo = placeGeo[place];
-  if (!geo) return;
+  const resolved = resolvePlaceGeo(placeGeo, place);
+  if (!resolved) return;
 
-  let loc = locationMap.get(place);
+  let loc = locationMap.get(resolved.mapKey);
   if (!loc) {
     loc = {
-      place,
-      lat: geo.lat,
-      lng: geo.lng,
+      place: resolved.mapKey,
+      lat: resolved.lat,
+      lng: resolved.lng,
       categoryId: classifyBirthPlaceRegion(place),
       people: [],
     };
-    locationMap.set(place, loc);
+    locationMap.set(resolved.mapKey, loc);
   }
 
   loc.people.push({
@@ -108,8 +125,10 @@ export function buildMapData(tree: FamilyTree): MapData {
   const placeGeo = loadPlaceGeo();
   const livedPlaces = loadLivedPlaces();
   const locationMap = new Map<string, MapLocation>();
+  const lineageIds = collectDirectAncestorIds(tree, LEWIS_LINEAGE_FOCUS_ID);
 
   for (const person of Object.values(tree.people)) {
+    if (!lineageIds.has(person.id)) continue;
     const slug = personSlugFromPage(person.personPage);
     const p = { id: person.id, displayName: person.displayName, slug };
 

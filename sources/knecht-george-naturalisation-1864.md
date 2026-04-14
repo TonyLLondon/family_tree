@@ -11,7 +11,9 @@ kind: pdf
 **Date issued:** October 1864  
 **Applicant:** George Knecht, age 49, of No. 1 Canonbury Terrace, Islington Road, Middlesex
 
-George Knecht's naturalisation certificate resolves a key discrepancy about his German origins. The memorial states he was **"a subject of Vardestat [?] in Bavaria"**, contradicting later census returns (1891) that say "Hesse-Nassau". This primary document from 1864 establishes Bavaria as the correct origin.
+George Knecht's naturalisation certificate resolves a key discrepancy about his German origins. The memorial (his own handwriting) states he was **"a subject of Wasserlos in Bavaria"** — **Wasserlos** is a Kirchdorf in the Alzenau district, Unterfranken (Lower Franconia), Bavaria. Later census returns (1881, 1891) say "Hesse-Nassau"; this 1864 primary record overrides them.
+
+**Scans in this repo:** [PDF (6 pages)](../media/docs/knecht-george-naturalisation-1864-ho-1-117-4524.pdf) · [memorial, page 3 PNG](corpus/knecht-george-naturalisation-1864/images/page-3.png)
 
 **Digital access:** [TNA Discovery catalogue record](https://discovery.nationalarchives.gov.uk/details/r/C7313741) (freely viewable online)
 
@@ -41,7 +43,7 @@ George Knecht's naturalisation certificate resolves a key discrepancy about his 
 - **Arrival date:** c. 1852 — search passenger lists 1851-1853
 - **Birth year:** c. 1815 — search Bavarian baptisms 1814-1816 once town identified
 - **Occupation:** Railway coach builder for GNR — may have staff records at National Railway Museum
-- **Place name puzzle:** "Vardestat" in Bavaria needs identification (uncertain reading, check gazetteers)
+- **Place of origin:** **Wasserlos**, Bavaria — named on the memorial; church records via Alzenau parishes
 - **Related naturalisation:** Charles Knecht from Württemberg naturalised 5 years later (1869, HO 1/157/6219) — possible brother/cousin
 
 High-resolution images of all 6 pages in the corpus bundle enable detailed analysis of handwriting, signatures, and administrative notes.
