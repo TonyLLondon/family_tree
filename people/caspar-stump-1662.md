@@ -1,7 +1,7 @@
 ---
 name: Caspar Stump (1662)
 display_name: Caspar STUMP (b. 1662)
-treeId: caspar-stump-1662
+treeId: I686
 born: 1662-11-27
 birth_place: Sulgen, Thurgau, Switzerland
 christened: 1662-11-27

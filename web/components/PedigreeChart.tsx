@@ -382,7 +382,7 @@ const toolbarBtnOn = "border-sky-500 bg-sky-50 text-sky-900 shadow-sm";
 const toolbarLineChildBtn =
   "border-emerald-200/95 bg-emerald-50/95 text-emerald-950 hover:border-emerald-400 hover:bg-emerald-50";
 const closeCardBtn =
-  "absolute right-0.5 top-0.5 z-20 flex h-7 w-7 items-center justify-center rounded-full border border-zinc-300/90 bg-white/95 text-zinc-600 shadow-sm backdrop-blur hover:border-red-300 hover:bg-red-50 hover:text-red-800";
+  "flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-zinc-300/90 bg-white/95 text-zinc-600 shadow-sm hover:border-red-300 hover:bg-red-50 hover:text-red-800";
 
 /** Match fan chart: focal + zoom via background (reliable inside SVG foreignObject). */
 function pedigreeAvatarBgStyle(src: string, focal: [number, number], zoom: number): CSSProperties {
@@ -758,10 +758,13 @@ function PedigreeChartLoaded({
                       filter="url(#pedigree-card-shadow)"
                     />
                     <foreignObject x={0} y={0} width={CARD_W} height={CARD_H}>
+                      {/* No position:absolute/relative, no backdrop-blur inside foreignObject — iOS WebKit
+                          mispositions absolutely-placed children and clips backdrop-filter content. */}
                       <div
                         data-no-pan=""
-                        className="relative box-border flex h-full w-full flex-col"
                         style={{
+                          display: "flex",
+                          flexDirection: "column",
                           pointerEvents: "all",
                           height: CARD_H,
                           width: CARD_W,
@@ -770,29 +773,15 @@ function PedigreeChartLoaded({
                         }}
                         onPointerDown={(e) => e.stopPropagation()}
                       >
-                        <button
-                          type="button"
-                          className={closeCardBtn}
-                          title="Remove this person from the chart and collapse their child, sibling, and spouse expansions (focus card: collapse only)"
-                          aria-label="Remove card from chart"
-                          onClick={() => {
-                            const cur = urlStateRef.current;
-                            pushUrlRef.current(
-                              anchoredPedigreePan(tree, cur, closeCard(tree, cur, n.id), cur.focus, VIEW_W, VIEW_H, PAD),
-                            );
-                          }}
-                        >
-                          <IconCloseCard />
-                        </button>
-                        <div className="flex shrink-0 flex-row items-start gap-2 pr-6">
+                        <div style={{ display: "flex", flexShrink: 0, flexDirection: "row", alignItems: "flex-start", gap: 8 }}>
                           {photo ? (
-                            <div className="relative h-[48px] w-[48px] shrink-0 overflow-hidden rounded-full shadow-md ring-2 ring-black/10">
+                            <div style={{ width: 48, height: 48, flexShrink: 0, borderRadius: "50%", boxShadow: "0 4px 6px -1px rgba(0,0,0,.1)", clipPath: "circle(50%)" }}>
                               <div
                                 style={pedigreeAvatarBgStyle(photo.url, photo.focal ?? [0.5, 0.5], photo.zoom ?? 1)}
                               />
                             </div>
                           ) : null}
-                          <div className={`min-w-0 flex-1 ${photo ? "self-center" : "self-start"} pr-0.5`}>
+                          <div className={`min-w-0 flex-1 ${photo ? "self-center" : "self-start"}`}>
                             {href ? (
                               <Link
                                 href={href}
@@ -825,6 +814,21 @@ function PedigreeChartLoaded({
                               </p>
                             ) : null}
                           </div>
+                          <button
+                            type="button"
+                            className={closeCardBtn}
+                            title="Remove this person from the chart and collapse their child, sibling, and spouse expansions (focus card: collapse only)"
+                            aria-label="Remove card from chart"
+                            style={{ alignSelf: "flex-start" }}
+                            onClick={() => {
+                              const cur = urlStateRef.current;
+                              pushUrlRef.current(
+                                anchoredPedigreePan(tree, cur, closeCard(tree, cur, n.id), cur.focus, VIEW_W, VIEW_H, PAD),
+                              );
+                            }}
+                          >
+                            <IconCloseCard />
+                          </button>
                         </div>
                         <div className="min-h-0 flex-1" aria-hidden />
                         <div className="flex w-full shrink-0 flex-col gap-1">

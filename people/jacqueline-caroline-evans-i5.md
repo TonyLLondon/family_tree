@@ -12,6 +12,8 @@ father: joseph-evans-i18
 mother: helia-cerpa-perez
 spouses:
   - anthony-robert-lewis
+children:
+  - archer-lewis
 ---
 
 # Jacqueline Caroline Evans

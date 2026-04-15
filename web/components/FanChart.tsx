@@ -422,35 +422,19 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
       svg.call(zoom.transform, saved);
     }
 
-    let downTarget: Element | null = null;
-    let downPos = { x: 0, y: 0 };
-
-    function onPointerDown(e: PointerEvent) {
-      downTarget = e.target as Element;
-      downPos = { x: e.clientX, y: e.clientY };
-    }
-
-    function onPointerUp(e: PointerEvent) {
-      if (!downTarget) return;
-      const dx = e.clientX - downPos.x;
-      const dy = e.clientY - downPos.y;
-      if (dx * dx + dy * dy < DRAG_THRESHOLD_PX * DRAG_THRESHOLD_PX) {
-        const el = downTarget.closest?.("[data-href]");
-        if (el) {
-          const href = el.getAttribute("data-href");
-          if (href) routerRef.current.push(href);
-        }
+    function onClick(e: MouseEvent) {
+      const el = (e.target as Element).closest?.("[data-href]");
+      if (el) {
+        const href = el.getAttribute("data-href");
+        if (href) routerRef.current.push(href);
       }
-      downTarget = null;
     }
 
-    svgEl.addEventListener("pointerdown", onPointerDown);
-    svgEl.addEventListener("pointerup", onPointerUp);
+    svgEl.addEventListener("click", onClick);
 
     return () => {
       svg.on(".zoom", null);
-      svgEl.removeEventListener("pointerdown", onPointerDown);
-      svgEl.removeEventListener("pointerup", onPointerUp);
+      svgEl.removeEventListener("click", onClick);
       clearTimeout(urlTimerRef.current);
     };
   }, []); // eslint-disable-line react-hooks/exhaustive-deps

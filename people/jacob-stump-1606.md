@@ -1,7 +1,7 @@
 ---
 name: Jacob Stump (c. 1606)
 display_name: Jacob STUMP (c. 1606)
-treeId: jacob-stump-1606
+treeId: I684
 born: 1606-10-23
 birth_place: Sulgen, Thurgau, Switzerland
 christened: 1606-10-23

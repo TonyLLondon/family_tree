@@ -9,6 +9,8 @@ father: ivor-anthony-samuel-lewis
 mother: catherine-stump
 spouses:
   - jacqueline-caroline-evans-i5
+children:
+  - archer-lewis
 ---
 
 # Anthony Robert Lewis

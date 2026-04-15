@@ -1,12 +1,13 @@
 ---
 name: David Fensom
-treeId: I202
+treeId: I294
 born: ABT 1836
 birth_place: Luton, Hertfordshire, England
 sex: male
 spouses:
   - georgiana-grindlay-i203
 children:
+  - david-william-fensom-i292
   - georgina-fensom-i205
   - annie-fensom-i291
 ---

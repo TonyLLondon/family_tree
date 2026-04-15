@@ -8,7 +8,6 @@ died: 1611-12-09
 death_place: Kendal, Westmorland, England
 sex: male
 father: robert-mackereth-2
-mother: margaret-shaw
 spouses:
   - margaret-shaw
 children:

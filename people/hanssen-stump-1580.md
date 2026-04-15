@@ -1,7 +1,7 @@
 ---
 name: Hanssen Stump (c. 1580)
 display_name: Hanssen STUMP (c. 1580)  
-treeId: hanssen-stump-1580
+treeId: I682
 born: c.1580
 birth_place: Sulgen, Thurgau, Switzerland
 died: 1647-05-27
