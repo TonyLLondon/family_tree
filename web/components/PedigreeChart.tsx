@@ -65,7 +65,7 @@ const VIEW_W = 1600;
 const VIEW_H = 960;
 const PAD = 80;
 const DRAG_THRESHOLD_PX = 5;
-const ZOOM_URL_DEBOUNCE_MS = 200;
+const ZOOM_URL_DEBOUNCE_MS = 150;
 
 const cloneUrlState = clonePedigreeUrlState;
 
@@ -471,6 +471,24 @@ function PedigreeChartLoaded({
   const routerRef = useRef(router);
   routerRef.current = router;
 
+  /** Write k/x/y to URL via replaceState (no React re-render — matches FanChart behaviour). */
+  const writeZoomToUrl = useCallback((k: number, x: number, y: number) => {
+    urlStateRef.current = { ...urlStateRef.current, k, x, y };
+    const url = new URL(window.location.href);
+    const nearK = Math.abs(k - 1) < 0.0005;
+    const nearO = Math.abs(x) < 0.02 && Math.abs(y) < 0.02;
+    if (nearK && nearO) {
+      url.searchParams.delete("k");
+      url.searchParams.delete("x");
+      url.searchParams.delete("y");
+    } else {
+      url.searchParams.set("k", k.toFixed(3));
+      url.searchParams.set("x", x.toFixed(2));
+      url.searchParams.set("y", y.toFixed(2));
+    }
+    window.history.replaceState(null, "", url.toString());
+  }, []);
+
   /** Apply a d3 transform programmatically without it echoing back as a URL write. */
   const applyTransformSilently = useCallback(
     (t: d3.ZoomTransform, animated = false) => {
@@ -516,6 +534,12 @@ function PedigreeChartLoaded({
       })
       .on("zoom", (event) => {
         g.attr("transform", event.transform.toString());
+        if (zoomTimerRef.current) clearTimeout(zoomTimerRef.current);
+        zoomTimerRef.current = setTimeout(() => {
+          zoomTimerRef.current = null;
+          const { k, x, y } = event.transform;
+          writeZoomToUrl(k, x, y);
+        }, ZOOM_URL_DEBOUNCE_MS);
       })
       .on("end", (event) => {
         svgEl.style.cursor = "grab";
@@ -526,17 +550,8 @@ function PedigreeChartLoaded({
         lastProgrammaticSet = programmaticSetRef.current;
         if (wasProgrammatic) return;
 
-        const s = urlStateRef.current;
         const { k, x, y } = event.transform;
-        const near =
-          Math.abs(k - s.k) < 0.004 && Math.abs(x - s.x) < 0.5 && Math.abs(y - s.y) < 0.5;
-        if (near) return;
-
-        if (zoomTimerRef.current) clearTimeout(zoomTimerRef.current);
-        zoomTimerRef.current = setTimeout(() => {
-          zoomTimerRef.current = null;
-          navigateUrlRef.current({ ...cloneUrlState(urlStateRef.current), k, x, y }, "replace");
-        }, ZOOM_URL_DEBOUNCE_MS);
+        writeZoomToUrl(k, x, y);
       });
 
     zoomRef.current = zoom;
@@ -594,11 +609,8 @@ function PedigreeChartLoaded({
     const cur = d3.zoomTransform(svgEl);
     const next = cur.scale(1.5);
     applyTransformSilently(d3.zoomIdentity.translate(next.x, next.y).scale(next.k), true);
-    navigateUrlRef.current(
-      { ...cloneUrlState(urlStateRef.current), k: next.k, x: next.x, y: next.y },
-      "replace",
-    );
-  }, [applyTransformSilently]);
+    writeZoomToUrl(next.k, next.x, next.y);
+  }, [applyTransformSilently, writeZoomToUrl]);
 
   const onZoomOut = useCallback(() => {
     const svgEl = svgRef.current;
@@ -607,11 +619,8 @@ function PedigreeChartLoaded({
     const cur = d3.zoomTransform(svgEl);
     const next = cur.scale(1 / 1.5);
     applyTransformSilently(d3.zoomIdentity.translate(next.x, next.y).scale(next.k), true);
-    navigateUrlRef.current(
-      { ...cloneUrlState(urlStateRef.current), k: next.k, x: next.x, y: next.y },
-      "replace",
-    );
-  }, [applyTransformSilently]);
+    writeZoomToUrl(next.k, next.x, next.y);
+  }, [applyTransformSilently, writeZoomToUrl]);
 
   const nodeMap = useMemo(() => new Map(layoutNodes.map((n) => [n.id, n])), [layoutNodes]);
 
