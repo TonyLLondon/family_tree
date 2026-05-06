@@ -12,63 +12,63 @@
   "pages": [
     {
       "n": 1,
-      "image": "pages-png/p001.png",
+      "image": "pages-png/p001.jpg",
       "scripts_detected": [],
       "char_count": 0,
       "image_area_ratio": 1.0
     },
     {
       "n": 2,
-      "image": "pages-png/p002.png",
+      "image": "pages-png/p002.jpg",
       "scripts_detected": [],
       "char_count": 0,
       "image_area_ratio": 1.0
     },
     {
       "n": 3,
-      "image": "pages-png/p003.png",
+      "image": "pages-png/p003.jpg",
       "scripts_detected": [],
       "char_count": 0,
       "image_area_ratio": 1.0
     },
     {
       "n": 4,
-      "image": "pages-png/p004.png",
+      "image": "pages-png/p004.jpg",
       "scripts_detected": [],
       "char_count": 0,
       "image_area_ratio": 1.0
     },
     {
       "n": 5,
-      "image": "pages-png/p005.png",
+      "image": "pages-png/p005.jpg",
       "scripts_detected": [],
       "char_count": 0,
       "image_area_ratio": 1.0
     },
     {
       "n": 6,
-      "image": "pages-png/p006.png",
+      "image": "pages-png/p006.jpg",
       "scripts_detected": [],
       "char_count": 0,
       "image_area_ratio": 1.0
     },
     {
       "n": 7,
-      "image": "pages-png/p007.png",
+      "image": "pages-png/p007.jpg",
       "scripts_detected": [],
       "char_count": 0,
       "image_area_ratio": 1.0
     }
   ],
   "agent_instructions": {
-    "task": "Read every PNG in pages-png/ and write the expected output files into the same bundle directory. Each output gets YAML frontmatter with `language:` (ISO 639-1) and `transcriber:` (\"agent\" or \"human\"). Set `agent_locked: true` once the file is final to prevent re-overwrites.",
+    "task": "Read every page image in pages-png/ and write the expected output files into the same bundle directory. Each output gets YAML frontmatter with `language:` (ISO 639-1) and `transcriber:` (\"agent\" or \"human\"). Set `agent_locked: true` once the file is final to prevent re-overwrites.",
     "expected_outputs": [
-      "transcription.<lang>.md (no script detected from the text layer; identify it from the rendered PNGs)",
+      "transcription.<lang>.md (no script detected from the text layer; identify it from the rendered facsimiles)",
       "translation.en.md (English translation of the document)",
       "reference.md (English commentary: structured fields, cross-confirmations, links to people/*.md, genealogical position)"
     ],
     "do_not_overwrite": "Files whose frontmatter has `transcriber: human` OR `agent_locked: true` must be left untouched.",
-    "image_links_in_md": "Reference page facsimiles via repo-relative paths (e.g. ../../sources/corpus/<slug>/pages-png/p001.png) so the web app can render them.",
+    "image_links_in_md": "Reference page facsimiles via repo-relative paths (e.g. ../../sources/corpus/<slug>/pages-png/p001.jpg) so the web app can render them.",
     "frontmatter_template": {
       "language": "<iso-639-1>",
       "source_file": "manual/Scanned 5 May 2026 at 16_44_22.pdf",

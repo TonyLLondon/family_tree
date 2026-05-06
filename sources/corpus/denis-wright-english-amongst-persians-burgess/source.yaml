@@ -7,17 +7,17 @@ extractions:
 - at: '2026-05-06T16:15:51Z'
   stage: render
   tier: b
-  engine: pymupdf rasterise + manifest (vision handoff)
+  engine: pymupdf rasterise + manifest (vision handoff); facsimiles re-encoded JPEG max edge 3200px Q88 for repo size
   pages: 7
   dpi: 200
   files_written:
-  - pages-png/p001.png
-  - pages-png/p002.png
-  - pages-png/p003.png
-  - pages-png/p004.png
-  - pages-png/p005.png
-  - pages-png/p006.png
-  - pages-png/p007.png
+  - pages-png/p001.jpg
+  - pages-png/p002.jpg
+  - pages-png/p003.jpg
+  - pages-png/p004.jpg
+  - pages-png/p005.jpg
+  - pages-png/p006.jpg
+  - pages-png/p007.jpg
   - pages-png/manifest.json
 - at: '2026-05-06T16:22:00Z'
   stage: vision
