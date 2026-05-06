@@ -53,8 +53,8 @@ The civic chronicle is dense—*Casa di Pietà*, *Università* of the citizens, 
 - **Granić 1817 Nin list:** 1793 petition — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) → [corpus/granic-nin-noble-list-1817/](../sources/corpus/granic-nin-noble-list-1817/).
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — Nin confirmation; sig. 53 — Giuseppe Addobbati and Domenico Calvi to Doge on sardine rights (1788) — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Celić 1806 census:** family in Zara citizen council — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
-- **Baptism register, Metropolitan Church, Zara, 2 Nov [?] 1744:** — [media/collections/zerauschek/Zerauschek (1)/Birth Luigi Addobbati Zara 1744.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Luigi%20Addobbati%20Zara%201744.jpg).
-- **Marriage register, p. 163, 4 Apr 1766:** — [media/collections/zerauschek/Zerauschek (1)/Marriage Luigi Addobbati Plarinò Zara 1766.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Luigi%20Addobbati%20Plarin%C3%B2%20Zara%201766.jpg).
+- **Baptism register, Metropolitan Church (Sv. Stošija), Zara, 2 Nov [?] 1744:** [sources/1744-baptism-luigi-addobbati-zara.md](../sources/1744-baptism-luigi-addobbati-zara.md) → [corpus/1744-baptism-luigi-addobbati-zara/](../sources/corpus/1744-baptism-luigi-addobbati-zara/) (transcription + scan).
+- **Marriage register, p. 163, 4 Apr 1766:** [corpus](../sources/corpus/1766-marriage-addobbati-plarino-zara/reference.md) — bride’s house, dispensation from banns, witnesses Dr. Giacomo and Dr. Antonio Danieli.
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 - **Tree id:** **I30**, families F15 / F16, source `@S12@`.
 - [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).

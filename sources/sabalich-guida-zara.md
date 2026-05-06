@@ -29,14 +29,9 @@ The addenda section (pp. 503–509) contains a seven-page account of the Addobba
 - Abbot Francesco Addobbati of the Accademia dei Ravvivati (1756)
 - The coat of arms (correction vs Heyer plate 57)
 
-Seven page-scans in `media/docs/sabalich-guida-zara-addobbati/`. Full Italian transcription and English translation in the corpus bundle.
+The full Italian transcription and English translation of all seven pages are below; the page facsimiles are reproduced at the top of this entry.
 
 **Named individuals (inventory + web desk + archive queue):** [research/addobbati-sabalich-line-desk-research.md](../research/addobbati-sabalich-line-desk-research.md)
-
-## Corpus
-
-- [sources/corpus/sabalich-guida-zara-addobbati/](corpus/sabalich-guida-zara-addobbati/) — transcription, translation, source.yaml
-- Scans: [media/docs/sabalich-guida-zara-addobbati/](../media/docs/sabalich-guida-zara-addobbati/)
 
 ## People
 

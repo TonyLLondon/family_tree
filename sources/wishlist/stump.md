@@ -20,6 +20,7 @@ Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkt
 | [../corpus/iranica-dentistry-article/](../corpus/iranica-dentistry-article/) | `extracted.web.md` + `source.yaml` | Full article extract; no raw HTML (Cloudflare) |
 | [../estonian-biographical-center-stump-report-2005.md](../estonian-biographical-center-stump-report-2005.md) | Citation card → [corpus/estonian-biographical-center-stump-family-resear-856c90185e/](../corpus/estonian-biographical-center-stump-family-resear-856c90185e/) | Tallinn Stump/Erbe parish digest (2005) |
 | [../../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md](../../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md) | Annotated EN translation + reference catalog | in bundle |
+| [../corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/](../corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/) | `reference.md`, `transcription.en.md`, Tesseract OCR, PNG scan | Ghanoonparvar *Savushun* trans. pp. **366–367** — “ordering a set of false **teeth** by **Dr. Schtomp**” |
 | [../mustawfi-mahmoudieh-stump.md](../mustawfi-mahmoudieh-stump.md) | Legacy email summary of Mustawfi vol. 1 (Mahmoudieh / dentist) | Not full memoir text |
 | [../dental-register-stump-mandamus-1902.md](../dental-register-stump-mandamus-1902.md) | *Chicago Tribune* 10 Aug 1902, repr. *Dental Register* 56:582–583 → [corpus/dental-register-stump-mandamus-1902/](../corpus/dental-register-stump-mandamus-1902/) | Mandamus dismissed; German-American Dental College license refusal |
 
@@ -28,6 +29,7 @@ Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkt
 | Slug | What | Local files |
 |------|------|-------------|
 | `beytoote-stump-dentist-atabak-ahmadshah` | Persian biographical article | `mirror.html`, `extracted.web.md`, `source.yaml` |
+| `savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367` | *Savushun* Eng. trans. excerpt (Mage / Ghanoonparvar), Stump as “Dr. Schtomp” | `source.yaml`, `reference.md`, `transcription.en.md`, `ocr-tesseract-en.txt`; PNG in `media/docs/` |
 | `iranica-dentistry-article` | Enc. Iranica DENTISTRY — Stump, Melczarski, bibliography | `extracted.web.md`, `source.yaml` |
 | `estonian-biographical-center-stump-family-resear-856c90185e` | EBC commissioned report — Tallinn Stump family (2005) | `extracted.pdf.md`, `source.yaml` |
 | `dental-register-stump-mandamus-1902` | Chicago Tribune mandamus ruling (1902) | `transcription.en.md`, `extracted.pdf.md`, `source.yaml` |
@@ -60,7 +62,7 @@ No separate ingest planned — use as alternate stable URLs or Wayback targets.
 
 - **URL:** <https://archive.org/details/savushunnovelabo00dani>
 - **What:** Simin Daneshvar, *Savushun: A Novel About Modern Iran*, trans. M. R. Ghanoonparvar (Mage Publishers, 1990)
-- **Action:** Borrow (1-hour loan), search for "Stamp" / "Stump" / "Eshtamp" / "dentist". The Persian original uses the phrase «یک دست دندان حسابی پیش دکتر اشتمپ گذاشتن» ("getting a proper set of teeth from Dr. Eshtamp").
+- **Action:** Borrow (1-hour loan), search for "Stamp" / "Stump" / "Eshtamp" / "Schtomp" / "dentist". The Persian original uses the phrase «یک دست دندان حسابی پیش دکتر اشتمپ گذاشتن» ("getting a proper set of teeth from Dr. Eshtamp"). **Repo capture:** [corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/](../corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/) — pp. **366–367** of the Ghanoonparvar English translation (user scan + transcript).
 - **Why it matters:** Shows Stump's name entered popular Iranian culture; confirms public fame.
 
 ### 2. Ebtehaj memoirs — Google Books

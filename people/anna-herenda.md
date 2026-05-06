@@ -38,7 +38,7 @@ Children named in family pages: [Antonio](antonio-zerauschek.md), [Marie](marie-
 ## Evidence
 
 - **Birth register, Pag, 14 Feb 1859 (baptized 26 Feb 1859):** [corpus](../sources/corpus/1859-birth-anna-herenda-pag/reference.md) — FamilySearch XQMM-TLJZ; indexed as "Anna Petronilla Erenda Or Marzo," father Giovanni Erenda Or Marzo, mother Giuseppina Magarich. Image ARK `3:1:3QS7-899X-KSRD` (page 164), collection 2040054. Enhanced page image: [anna-herenda-birth-1859-page-enhanced.jpg](../media/docs/pag-herenda/anna-herenda-birth-1859-page-enhanced.jpg).
-- **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
+- **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** [corpus](../sources/corpus/1878-marriage-zerauschek-herenda-pag/reference.md).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 - **ITS/IRO file (1951) — Riccardo Zerauschek:** [sources/its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) — mother as "ZERAUSCHEK geb. HERENDA, Anna"; father Antonio "late."
 - **Tree id:** **I26**; union with senior Antonio as **F13**; her parents' marriage **F184**.

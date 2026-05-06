@@ -20,8 +20,7 @@ Charles Henry Burgess was called to surrender on 9 December 1847, then formally 
 ### 1. Sheriff's Court notice — 9 December 1847
 
 **Morning Advertiser, 10 December 1847** — "Court of Queen's Bench" proceedings  
-**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001427%2F18471210&page=4&article=025&stringtohighlight=burgess>  
-**Local image:** `sheriffs-court-1847-12-09.png`
+**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001427%2F18471210&page=4&article=025&stringtohighlight=burgess>
 
 #### Transcription
 
@@ -39,8 +38,7 @@ Charles Henry Burgess was called to surrender on 9 December 1847, then formally 
 ### 2. Formal proclamation — 8 January 1848
 
 **Illustrated London News, 8 January 1848, p. 7** — "Metropolitan News"  
-**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001578%2F18480108&page=7&article=041&stringtohighlight=burgess>  
-**Local image:** `illustrated-london-news-1848-01-08.png`
+**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001578%2F18480108&page=7&article=041&stringtohighlight=burgess>
 
 #### Transcription
 
@@ -51,8 +49,7 @@ Charles Henry Burgess was called to surrender on 9 December 1847, then formally 
 ### 3. Proclamation at Hicks's Hall — 5 January 1848
 
 **Morning Advertiser, 5 January 1848, p. 3** — law reports  
-**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001427%2F18480105&page=3&article=029&stringtohighlight=burgess>  
-**Local image:** `morning-advertiser-1848-01-05.png`
+**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0001427%2F18480105&page=3&article=029&stringtohighlight=burgess>
 
 #### Transcription
 
@@ -63,8 +60,7 @@ Charles Henry Burgess was called to surrender on 9 December 1847, then formally 
 ### 4. Proclamation at Hicks's Hall — 9 January 1848
 
 **Lloyd's Weekly Newspaper, 9 January 1848, p. 2** — "Domestic Intelligence"  
-**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0000078%2F18480109&page=2&article=005&stringtohighlight=burgess>  
-**Local image:** `lloyds-weekly-1848-01-09.png`
+**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0000078%2F18480109&page=2&article=005&stringtohighlight=burgess>
 
 #### Transcription
 
@@ -75,8 +71,7 @@ Charles Henry Burgess was called to surrender on 9 December 1847, then formally 
 ### 5. Fraud charge — 23 March 1849
 
 **Morning Post, 23 March 1849, p. 8** — "Police Intelligence" section  
-**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0000174%2F18490323&page=8&article=044&stringtohighlight=burgess>  
-**Local image:** `morning-post-fraud-1849-03-23.png`
+**FMP URL:** <https://www.findmypast.co.uk/image-viewer?issue=BL%2F0000174%2F18490323&page=8&article=044&stringtohighlight=burgess>
 
 #### Transcription
 

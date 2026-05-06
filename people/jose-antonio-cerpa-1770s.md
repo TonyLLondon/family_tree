@@ -1,8 +1,9 @@
 ---
-treeId: "I721"
-display_name: "Jose Antonio Cerpa"
-birth_date: "1770"
-birth_place: "Chile"
+name: José Antonio Cerpa
+display_name: José Antonio Cerpa
+born: ~1770
+birth_place: Chile
+sex: male
 ---
 
 # Jose Antonio Cerpa

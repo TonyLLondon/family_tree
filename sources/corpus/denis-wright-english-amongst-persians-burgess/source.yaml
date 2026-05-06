@@ -1,0 +1,30 @@
+id: denis-wright-english-amongst-persians-burgess
+title: "Denis Wright, The English Amongst the Persians — chapter 7 excerpt on Charles and Edward Burgess"
+kind: pdf
+files:
+  media_reference: manual/Scanned 5 May 2026 at 16_44_22.pdf
+extractions:
+- at: '2026-05-06T16:15:51Z'
+  stage: render
+  tier: b
+  engine: pymupdf rasterise + manifest (vision handoff)
+  pages: 7
+  dpi: 200
+  files_written:
+  - pages-png/p001.png
+  - pages-png/p002.png
+  - pages-png/p003.png
+  - pages-png/p004.png
+  - pages-png/p005.png
+  - pages-png/p006.png
+  - pages-png/p007.png
+  - pages-png/manifest.json
+- at: '2026-05-06T16:22:00Z'
+  stage: vision
+  tier: b
+  agent_model: gpt-5.5
+  files_written:
+  - transcription.md
+  - translation.en.md
+  - reference.md
+  verified: false

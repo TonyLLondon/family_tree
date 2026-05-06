@@ -7,6 +7,7 @@ also_known_as:
   - Atkin Stump
   - Ashtump
   - Ashtamp / Eshtamp / Eshtump (Persian popular & literary)
+  - Dr. Schtomp (English trans. Ghanoonparvar, *Savushun*)
   - Ostump / Ostamp / Ostemp (Persian transliterations in memoirs)
 born: 1880-03-07
 birth_place: Tallinn, Estonia
@@ -55,6 +56,7 @@ His parents were [Marc Francois Stump](marc-francois-stump.md) and [Olga Carolin
 - Portraits: [Etienne Stump.JPG](../media/docs/Etienne%20Stump.JPG) · [damaged vintage portrait](../media/docs/Etienne%20-%20Damaged%20vintage%20portrait%20man%20mustache%20bow%20tie%20suit%20album%20page.jpg) · [Chicago 1902](../media/albums/henderson/Etienne%20-%20Chicago%201902%20(1).jpg) · [with Henriette, Robert and Theo](../media/albums/henderson/Etienne,%20Henriette,%20Robert%20and%20Theo.jpg).
 - [Chicago Tribune / *Dental Register* — mandamus dismissed, 1902](../sources/dental-register-stump-mandamus-1902.md) — [corpus](../sources/corpus/dental-register-stump-mandamus-1902/).
 - [Beytoote corpus](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/extracted.web.md) · [translation.en.md](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md) · mirrors [Sarpoosh](https://www.sarpoosh.com/culture-thought/history-civilization/dentistry-ahmadshah-atbek970805.html) · [Fekrshahr](https://fekrshahr.ir/fa/news/48950/%D8%AF%D9%86%D8%AF%D8%A7%D9%86%D8%B3%D8%A7%D8%B2-%D8%A7%D8%AA%D8%A7%D8%A8%DA%A9-%D9%88-%D8%AF%D9%86%D8%AF%D8%A7%D9%86%D9%BE%D8%B2%D8%B4%DA%A9-%D8%A7%D8%AD%D9%85%D8%AF%D8%B4%D8%A7%D9%87).
+- [Daneshvar, *Savushun* — Ghanoonparvar trans. excerpt pp. 366–367 (Dr. Schtomp, false teeth)](../sources/corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/reference.md) — scan + [transcript](../sources/corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/transcription.en.md).
 - [Archive catalog](../archive/index.md).
 - [*Forever Russian* — Stump extract](../sources/forever-russian-stump-extract.md) · [corpus](../sources/corpus/forever-russian-stump-extract/).
 - [Henderson Burgess–Stump spreadsheet](../sources/henderson-burgess-stump-family-tree.md) · [corpus](../sources/corpus/henderson-burgess-stump-family-tree/).

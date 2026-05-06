@@ -1,0 +1,268 @@
+{
+  "schema": 1,
+  "kind": "tier-c-snippets",
+  "variant": "C",
+  "generated_at": "2026-04-19T08:34:55Z",
+  "slug": "khazeni-tribes-empire-iran-test",
+  "source_pdf": "media/docs/Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press.pdf",
+  "page_count": 305,
+  "dpi": 200,
+  "focus": {
+    "terms": [
+      "Tabriz",
+      "Sloan",
+      "Lewis Pelly"
+    ],
+    "match": "substring",
+    "context": 1
+  },
+  "hits": [
+    {
+      "id": "h001",
+      "anchor_page": 33,
+      "rendered_pages": [
+        32,
+        33,
+        34
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…tury, as the Safavids moved the capital of Iran from the northwestern cities of Tabriz and Qazvin further south to the more centrally located Isfahan, the state came…",
+      "evidence_file": "snippets/p033.evidence.txt",
+      "image_files": [
+        "pages-png/p032.png",
+        "pages-png/p033.png",
+        "pages-png/p034.png"
+      ]
+    },
+    {
+      "id": "h002",
+      "anchor_page": 112,
+      "rendered_pages": [
+        111,
+        112,
+        113
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…an and held the concessions for extensions from Qazvin to Hamadan and Qazvin to Tabriz. Keeping up with Russian advances, in 1893 the British-run Imperial Bank of Per…",
+      "evidence_file": "snippets/p112.evidence.txt",
+      "image_files": [
+        "pages-png/p111.png",
+        "pages-png/p112.png",
+        "pages-png/p113.png"
+      ]
+    },
+    {
+      "id": "h003",
+      "anchor_page": 177,
+      "rendered_pages": [
+        176,
+        177,
+        178
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…l guard in the capital. Following the coup in 1908 and the subsequent revolt in Tabriz, the shah ordered Amir Mufakhkham to gather a cavalry of Bakhtiyari horsemen to…",
+      "evidence_file": "snippets/p177.evidence.txt",
+      "image_files": [
+        "pages-png/p176.png",
+        "pages-png/p177.png",
+        "pages-png/p178.png"
+      ]
+    },
+    {
+      "id": "h004",
+      "anchor_page": 178,
+      "rendered_pages": [
+        177,
+        178,
+        179
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…6 However, after it was announced that the tribesmen should prepare to march on Tabriz with Amir Mufakhkham, they refused to go, claiming they could not ride behind a…",
+      "evidence_file": "snippets/p178.evidence.txt",
+      "image_files": [
+        "pages-png/p177.png",
+        "pages-png/p178.png",
+        "pages-png/p179.png"
+      ]
+    },
+    {
+      "id": "h005",
+      "anchor_page": 179,
+      "rendered_pages": [
+        178,
+        179,
+        180
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…n 1909 was precipitated by several factors, including news of the insurgency in Tabriz and protests in Isfahan against the bombardment of the Parliament and the appoi…",
+      "evidence_file": "snippets/p179.evidence.txt",
+      "image_files": [
+        "pages-png/p178.png",
+        "pages-png/p179.png",
+        "pages-png/p180.png"
+      ]
+    },
+    {
+      "id": "h006",
+      "anchor_page": 185,
+      "rendered_pages": [
+        184,
+        185,
+        186
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…. The values of the Bakhtiyari chimed with those of Sattar Khan, the hero of Tabriz and icon of the revolution, whom they much admired and sought to emulate as fol…",
+      "evidence_file": "snippets/p185.evidence.txt",
+      "image_files": [
+        "pages-png/p184.png",
+        "pages-png/p185.png",
+        "pages-png/p186.png"
+      ]
+    },
+    {
+      "id": "h007",
+      "anchor_page": 186,
+      "rendered_pages": [
+        185,
+        186,
+        187
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…mrades (muntazir-i hamrahi).”67 He sent a telegram to the revolutionary hero of Tabriz, Sattar Khan, refer- ring to him as fellow sufferer (hamdard) and brother (bara…",
+      "evidence_file": "snippets/p186.evidence.txt",
+      "image_files": [
+        "pages-png/p185.png",
+        "pages-png/p186.png",
+        "pages-png/p187.png"
+      ]
+    },
+    {
+      "id": "h008",
+      "anchor_page": 193,
+      "rendered_pages": [
+        192,
+        193,
+        194
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…outskirts of the capital, Nasir Khan Sardar Jang and 400 horsemen returned from Tabriz and joined Amir Mufakhkham’s retinues, who had ridden from Khalidabad to Kashan…",
+      "evidence_file": "snippets/p193.evidence.txt",
+      "image_files": [
+        "pages-png/p192.png",
+        "pages-png/p193.png",
+        "pages-png/p194.png"
+      ]
+    },
+    {
+      "id": "h009",
+      "anchor_page": 196,
+      "rendered_pages": [
+        195,
+        196,
+        197
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…ater in the century, however, it would be Sattar Khan and the vol- unteers from Tabriz, not the Bakhtiyari, who would be remembered as icons of the Iranian Constituti…",
+      "evidence_file": "snippets/p196.evidence.txt",
+      "image_files": [
+        "pages-png/p195.png",
+        "pages-png/p196.png",
+        "pages-png/p197.png"
+      ]
+    },
+    {
+      "id": "h010",
+      "anchor_page": 304,
+      "rendered_pages": [
+        303,
+        304,
+        305
+      ],
+      "terms": [
+        "Tabriz"
+      ],
+      "source": "text_layer",
+      "preview": "…stitutional Revolution, 160, 182; in Tabriz, 20, 99; in Constitutional Revo- Nadir Shah Afshar’s army, 30–31; in…",
+      "evidence_file": "snippets/p304.evidence.txt",
+      "image_files": [
+        "pages-png/p303.png",
+        "pages-png/p304.png",
+        "pages-png/p305.png"
+      ]
+    }
+  ],
+  "rendered_pages": [
+    32,
+    33,
+    34,
+    111,
+    112,
+    113,
+    176,
+    177,
+    178,
+    179,
+    180,
+    184,
+    185,
+    186,
+    187,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    303,
+    304,
+    305
+  ],
+  "agent_instructions": {
+    "task": "For each hit, look at the PNGs listed in `image_files` and write the transcribed text into `transcription.snippets.md` under a section heading per hit. Use the rendered PNGs as the source of truth — the `preview` and `evidence_file` are search aids only (text layers misread old typefaces; OCR misreads even more).",
+    "expected_outputs": [
+      "transcription.snippets.md  (per-hit transcribed text)",
+      "translation.en.md  (English translation if any non-English content)",
+      "reference.md  (English commentary, IDs, dates, links to people/*.md)"
+    ],
+    "snippet_format": "## Hit hNNN — p.<anchor> — match: <terms>\n\n<transcribed text exactly as on page>\n\n[image: ../../sources/corpus/<slug>/pages-png/p<anchor>.png]",
+    "frontmatter_template": {
+      "language": "<iso-639-1>",
+      "source_file": "media/docs/Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press.pdf",
+      "source_pages": "list of anchor pages",
+      "transcriber": "agent",
+      "agent_model": "<model name>",
+      "agent_date": "<utc timestamp>",
+      "agent_locked": false,
+      "verified": false
+    },
+    "do_not_overwrite": "Files whose frontmatter has `transcriber: human` OR `agent_locked: true` must be left untouched.",
+    "log_when_done": "Append a `stage: vision` entry to source.yaml under `extractions:`, naming the files written and the agent_model."
+  }
+}

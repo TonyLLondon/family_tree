@@ -1,0 +1,24 @@
+id: 1744-baptism-luigi-addobbati-zara
+title: "Baptism register — Anzolo Alloisio (Luigi) Addobbati, born 1 October 1744, baptized November 1744, Zadar (Zara)"
+date: "1744-10-01"
+place: "Duomo di Zara (Sv. Stošija / St. Anastasia), Zadar, Republic of Venice (Dalmazia veneta)"
+parish: "Sv. Stošija (St. Anastasia), Zadar — Metropolitan Church"
+register: "Duomo di Zara — Baptisms, 1744"
+register_note: "Folio 83 (right-hand page); entry sequence November 1744; baptism by Don Carlo Felicinouvich, Curate."
+collection: "Zerauschek family scan collection"
+repository: "Private (Zerauschek family papers, scanned)"
+notes: >
+  Local high-resolution scan from the Zerauschek family collection covering the
+  Sv. Stošija (Duomo di Zara) baptismal register for 1744. The same baptism is
+  cross-attested by DAZD HR-DAZD-342 sig. 52 (23 Dec 1783 certified copy
+  "Alvise Anzolo Addobbati, son of Daniele and Margherita") and by Sabalich,
+  Guida archeologica di Zara (1897) p. 505.
+  No FamilySearch image ARK has been captured for this scan in the repo yet;
+  if/when located in the FS "Croatia, Church Books, 1516-2015" collection
+  (id 2040054), record it here under remote.image_ark / remote.image_url.
+files:
+  media_reference: "media/collections/zerauschek/Zerauschek (1)/Birth Luigi Addobbati Zara 1744.jpg"
+  media_reference_crop: "media/collections/zerauschek/Zerauschek (1)/Birth Luigi Addobbati Zara 1744 - entry crop.png"
+  reference: reference.md
+  transcription: transcription.it.md
+  translation: translation.en.md

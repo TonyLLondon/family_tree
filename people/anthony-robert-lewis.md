@@ -11,14 +11,12 @@ spouses:
   - jacqueline-caroline-evans-i5
 children:
   - archer-lewis
+  - sloan-carmen-lewis
 ---
 
 # Anthony Robert Lewis
 
-Born **16 October 1982** at **Macclesfield**, son of [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md) and [Catherine Stump](catherine-stump.md). Married [Jacqueline Caroline Evans](jacqueline-caroline-evans-i5.md).
-
-Through his father [Ivor](ivor-anthony-samuel-lewis.md) — an analytical chemist and mass spectrometrist who spent his career at King's College London, the Australian National University, and in Italian industry — Anthony connects to the **Welsh Lewis** line from the Glamorgan valleys (grandfather [David John Lewis](david-john-lewis.md), soldier and colonial administrator) and the **Italian Dalmatian** Zerauschek family from **Zara** (grandmother [Fulvia Zerauschek](fulvia-ottilia-antonia-zerauschek.md)). Through his mother [Catherine](catherine-stump.md) he connects to the **Swiss Stump** line from Zürich and Basel.
-
-## Evidence
-
-- **Tree id:** **I1**.
+- **Born:** 16 October 1982 — Macclesfield, United Kingdom
+- **Parents:** [Ivor Anthony Samuel Lewis](ivor-anthony-samuel-lewis.md), [Catherine Stump](catherine-stump.md)
+- **Marriage:** 25 June 2012 — [Jacqueline Caroline Evans](jacqueline-caroline-evans-i5.md)
+- **Children:** [Archer Robert David Lewis](archer-lewis.md), [Sloan Carmen Lewis](sloan-carmen-lewis.md)

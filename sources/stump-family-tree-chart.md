@@ -47,4 +47,4 @@ The chart is a hand-assembled family document (not a civil record); its dates ge
 - [Jacques Stump](../people/jacques-stump.md)
 - [Jean Stump](../people/jean-stump.md)
 - [Irene Stump](../people/irene-stump.md)
-- [Cuno Alfred von Frey](../people/cuno-alfred-von-frey.md)
+- [Cuno Alfred von Frey](../people/cuno-von-frey.md)

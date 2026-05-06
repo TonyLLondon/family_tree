@@ -12,8 +12,6 @@ film_image: "83 of 172"
 
 Parish birth entry **116**, **24 June 1889** (birth at **noon**), cathedral of **Sv. Stošija**, **Zadar** (Zara). Baptism **1 January 1890** by **D. Marco Faccini**.
 
-**Local image:** [Birth Antonio Zerauschek Jr. Zara 1889.jpg](../../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Antonio%20Zerauschek%20Jr.%20Zara%201889.jpg)
-
 ## Register transcription
 
 | Field | Value |

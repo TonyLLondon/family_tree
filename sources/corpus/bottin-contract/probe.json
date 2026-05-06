@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "probed_at": "2026-04-19T08:05:09Z",
+  "source_pdf": "media/albums/henderson/Bottin Contract.pdf",
+  "page_count": 3,
+  "total_chars": 0,
+  "pages_with_text_layer": 0,
+  "image_only_pages": 3,
+  "bundle_scripts": [],
+  "is_rtl": false,
+  "is_multi_script": false,
+  "recommended_tier": "b",
+  "recommendation_reasons": [
+    "3/3 pages look image-only"
+  ],
+  "pages": [
+    {
+      "n": 1,
+      "char_count": 0,
+      "image_area_ratio": 1.0,
+      "scripts": [],
+      "scripts_raw_counts": {}
+    },
+    {
+      "n": 2,
+      "char_count": 0,
+      "image_area_ratio": 1.0,
+      "scripts": [],
+      "scripts_raw_counts": {}
+    },
+    {
+      "n": 3,
+      "char_count": 0,
+      "image_area_ratio": 1.0,
+      "scripts": [],
+      "scripts_raw_counts": {}
+    }
+  ]
+}

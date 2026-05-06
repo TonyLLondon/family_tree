@@ -18,7 +18,7 @@ Machine-ingested bundles for **Welsh–Irish–English** lines (census extracts,
 - [corpus/catherine-enright-1911-30da5b22af/](corpus/catherine-enright-1911-30da5b22af/) — **O'Shea household, Monkstown, Cork, 1911** (Catherine O'Shea head, 5 boarders) · [transcription](corpus/catherine-enright-1911-30da5b22af/transcription.md)
 - [corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/](corpus/edward-spencer-england-select-marriages-15381973-05808ceb11/)
 - [corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/](corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/)
-- **Person page:** [Louisa Spencer](../people/louisa-spencer.md) (`I290`) — previously linked to [William Evans](../people/william-evans-i289.md), now disconnected (his wife was [Dorothea Knecht](../people/dorothea-knecht.md); see correction notes).
+- **Former bad link:** An Ancestry “select births/christenings” index entry for **Louisa Spencer** (bap. 1871, St Thomas Charterhouse) was once merged with the wrong **William Evans**; **that woman is not in `family-tree.json`.** Evidence only: [corpus extract](../sources/corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/extracted.pdf.md). [William Evans](../people/william-evans-i289.md) in this tree married [Dorothea Knecht](../people/dorothea-knecht.md).
 - **Loose scan:** [Louisa Spencer Birth.jpg](../media/docs/Louisa%20Spencer%20Birth.jpg) (Ancestry-style capture; same person as corpus PDF when reconciled).
 
 ## Limerick / Roche context

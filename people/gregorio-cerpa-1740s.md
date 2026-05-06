@@ -1,8 +1,8 @@
 ---
-treeId: "I720"
-display_name: "Gregorio Cerpa"
-birth_date: "1740"
-birth_place: "Chile"
+name: Gregorio Cerpa
+display_name: Gregorio Cerpa
+born: ~1740
+birth_place: Chile
 ---
 
 # Gregorio Cerpa

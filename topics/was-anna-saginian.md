@@ -52,7 +52,7 @@ This creates a puzzle: Anna claims Armenian ancestry on both sides, Edward calls
 
 ## Then Who Daoud Khan Would Have Been
 
-The resolution lies in understanding **Daoud Khan's actual origins and trajectory**. Research documented in [saginashvili-georgian-archives.md](../sources/wishlist/saginashvili-georgian-archives.md) reveals that Daoud Khan Saginian was born **David Saginashvili** in **Tbilisi, Georgia, in 1790**. He served in the Russian army after the 1801 annexation of Georgia, then **fled to Qajar Iran around 1811** with his brother **Zaal Saginashvili** and companion Solayman Khan Saham al-Dowleh.
+The resolution lies in understanding **Daoud Khan's actual origins and trajectory**. Maeda's 2019 Brill chapter, reading Shermazanian's Armenian history of prominent Armenians in Persia, identifies the companions of Solomon/Solayman Khan Saham al-Dowleh as the Georgian brothers **David and Zaal Saginean**. They fled to Qajar Iran around **1811**, after fear of forced relocation and conversion under Russian rule; Maeda's note preserves the memorable detail that Solomon and David secured permission to visit Tbilisi because their officer thought they wanted to take part in **wrestling**, then travelled via **Yerevan, Akhalkalaki, and Giumri** to **Tabriz**. Shermazanian says the brothers embraced the **Grigorian faith** after arriving in Tabriz and that their children became Armenians. This is the strongest source currently in the vault for the bridge from Georgian **Saginean/Saginskilli/Saginashvili** to Armenian-Iranian **Saginian**. See [Maeda 2019 corpus reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) and [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md).
 
 The key insight is that **in Iran, the family integrated into the Armenian community**. The Georgian surname **Saginashvili/Saginskilli** became the Armenian **Saginian**, and Daoud Khan rose to the rank of **Sartip (Brigadier General)** under Fath Ali Shah while operating within Armenian social and religious networks.
 
@@ -90,9 +90,19 @@ The **Saginian name** is therefore **genuinely Armenian** — not by ancestry, b
 - [Armen Saginian family memoir](../sources/wishlist/saginian.md) — *Thank You, America & Americans* (2022)
 
 ### Research materials
-- [Georgian National Archives research proposal](../sources/wishlist/saginashvili-georgian-archives.md) — documenting David Saginashvili's Georgian origins
+- [Maeda 2019 — Lives of the Enikolopians: David and Zaal Saginean flight](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) — Brill chapter excerpts from Shermazanian's Armenian source; names **David and Zaal Saginean**, explains the religious flight from Russian-controlled Georgia, the wrestling pretext, route to Tabriz, and post-arrival Armenian/Grigorian identity.
+- [Georgian National Archives research proposal](../sources/wishlist/saginashvili-georgian-archives.md) — archival follow-up for David Saginashvili's Georgian origins
 - [Yaghoubian (2014), *Ethnicity, Identity, and the Development of Nationalism in Iran*](../sources/yaghoubian-2014-ethnicity-identity-nationalism-iran.md) — **academic confirmation**: David Khan Saginian born 1790 Tbilisi, died 1867 Tabriz, buried in Saginian family mausoleum at Surb Astvatsatsin; based on oral interviews with descendant Sevak Saginian
 - [Sir Denis Wright, "Burials and Memorials of the British in Persia" (1998)](../sources/corpus/wright-burials-british-in-persia/transcription.md) — records Anna's 1892 burial in Tehran Armenian church; Edward's 1855 burial at Sourp Shoughakat Church, Tabriz
+
+### Corpus quick map (this thread)
+
+| Thread | Where to read |
+|--------|----------------|
+| David / Zaal Saginean flight, wrestling pretext, Grigorian → Armenian identity | [Maeda 2019 — reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) |
+| Charles Burgess trade memorandum; Edward as Tabriz agent | [Brief Notice — reference](../sources/corpus/brief-notice-trade-northern-provinces-persia-villiers/reference.md) |
+| Provenance of the *Brief Notice* reprint | [Abrahamian 1983 — reference](../sources/corpus/early-trade-northern-provinces-persia-document/reference.md) |
+| Wright synthesis on Burgess brothers (secondary) | [Denis Wright excerpt — reference](../sources/corpus/denis-wright-english-amongst-persians-burgess/reference.md) |
 
 ## People linked
 - [Anna Saginian](../people/anna-saginian.md)

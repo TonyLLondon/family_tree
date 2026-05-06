@@ -6,6 +6,8 @@ In the autumn of 1830, a twenty-year-old Englishman named Edward Burgess left ho
 
 By January 1831 Edward arrived in Tabriz, the commercial capital of Persian Azerbaijan. He was to help manage Charles's trading enterprise. He would never see England again.
 
+Charles's own memorandum for Parliament—the *Brief Notice* of 1832—puts the same arc in cold mercantile detail: a **£6,000** consignment landed at Tabriz in **January 1831**, with John Brant urging that **Edward** be **"regularly established there as a commission merchant"** beside Brant's **Trebizond** line. Ervand Abrahamian's introductory note in *Iranian Studies* explains why the piece never became a Blue Book (Villiers died in 1832) and survives mainly in private print and at NYPL.
+
 ## The Merchant's Life
 
 Edward settled into the rhythms of a young European in Qajar Persia. He dined three times a week with Dr Cormick, the physician attached to the British Embassy, and in the evenings they played flute duets. He went shooting with officers from the Russian mission, dined with the ambassador — a former Napoleonic soldier, now a Russian count — and taught himself Turkish and Persian. He described the country between Tabriz and Tehran to his parents as *"rocky mountains and barren plains"*, but found beauty in mountain valleys where trout streams ran through meadows of buttercups reaching to his knees.
@@ -21,6 +23,8 @@ Then the trap closed. Charles's commercial ventures failed, and he returned to E
 *"I am made responsible for his debts in this country and am nailed down to Tabreez,"* Edward wrote to his brother George. He could not leave without settling with creditors, and Charles sent neither money nor letters to the Shah that might ease his situation. From Isfahan in 1840, Edward's frustration boiled over: *"One angry word from the Shah or his minister and I have the prospect of a prison before me. A few lines from Charles to either H.M. or his minister would save me from this and this small favor he denies me."*
 
 Charles spent the next fifteen years wandering from one European watering-place to another, trying to recover his health. He tried his hand at various ventures, all apparently brought to an end by illness. Edward — trapped, abandoned, indebted — had to build a new life from the ruins of his brother's reputation.
+
+Denis Wright, in *The English Amongst the Persians*, adds the vivid (and unverified here against a civil register) detail that Charles lived for some years at **Aix-la-Chapelle** and succumbed to **advanced syphilis** around the time of Edward's last decline — a secondary strand the person page keeps beside Abrahamian's differing dates for Charles.
 
 ## The Village Governor
 
@@ -77,6 +81,9 @@ Anna, interviewed in Leicester in March 1880, twenty-five years after Edward's d
 ## Evidence
 
 - [Burgess Persian Letters — full volume](../sources/corpus/burgess-persian-letters-full-volume/) — primary source for virtually all biographical detail. Source PDF: [The Burgess Persian Letters.pdf](../media/collections/burgess-persian-letters/The%20Burgess%20Persian%20Letters.pdf).
+- [Charles Burgess — *Brief Notice* to T.H. Villiers (1832)](../sources/corpus/brief-notice-trade-northern-provinces-persia-villiers/reference.md) — Charles's trade memorandum: £6,000 Tabriz landing, northern route, Edward as intended Tabriz commission merchant; [machine extract](../sources/corpus/brief-notice-trade-northern-provinces-persia-villiers/extracted.pdf.md).
+- [Abrahamian 1983 — editorial note on the *Brief Notice*](../sources/corpus/early-trade-northern-provinces-persia-document/reference.md) — provenance, Charles's military-to-merchant arc, Edward's later career summary, Villiers and the failed Blue Book.
+- [Denis Wright — *The English Amongst the Persians*, Ch. 7 excerpt](../sources/corpus/denis-wright-english-amongst-persians-burgess/reference.md) — secondary synthesis on the brothers; [transcription](../sources/corpus/denis-wright-english-amongst-persians-burgess/transcription.md). Caution on Wright's "young son" vs daughter Fanny is on [Edward Burgess](../people/edward-burgess.md).
 - [NYPL Burgess appendix — Anna interview (1880)](../sources/nypl-burgess-appendix-anna-interview.md) — Anna's account of the marriage, children, last journey, and death.
 - **Lady Mary Sheil**, *Glimpses of Life and Manners in Persia* (1856), pp. 200–201 — contemporary eyewitness account of Edward's dual role as public gazette editor and confidential intelligence briefer. [Digital text](https://bahai-library.com/shiel_glimpses_life_persia&chapter=13) · [corpus extract](../sources/corpus/lady-sheil-glimpses-persia-ch13/extracted.web.md).
 - [Edward Burgess](../people/edward-burgess.md) — person page.

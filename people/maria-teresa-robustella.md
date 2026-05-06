@@ -34,7 +34,7 @@ Maria Teresa Robustella was the wife of [Simeone Guiseppe Boara](simeone-guisepp
 ## Evidence
 
 - **Tree id:** **I126** — unions **F56**, **F63**; **@S12@**; FamilySearch **GW1S-KT3**.
-- **Marriage register, Zara, 29 Oct 1763:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Robustella Zara 1763.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Robustella%20Zara%201763.jpg) — untranscribed; her marriage to Simeone Guiseppe Boara (F56).
+- **Marriage register, Zara, 29 Oct 1763:** [corpus](../sources/corpus/1763-marriage-boara-robustella-zara/reference.md) — her marriage to Simeone Guiseppe Boara (F56).
 
 ## Open questions
 

@@ -1,6 +1,6 @@
 # Saginian → Burgess → Bottin → Stump
 
-Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite intermediary roles across **Qajar military → princely administration & royal medicine → War Ministry industrial modernization → professional medicine in the Pahlavi transition**. This file is the **canonical genealogical hub (topic)**: prose outline, **[Structured family tree](../family-tree.json)** (single master tree for the web app), one Mermaid sketch for Markdown previews, and tables. Long-form chronology: [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md). **Topics:** [topics/index.md](../topics/index.md). **Vault map:** [index.md](../index.md).
+Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite intermediary roles across **Qajar military → princely administration & royal medicine → War Ministry industrial modernization → professional medicine in the Pahlavi transition**. This file is the **canonical genealogical hub (topic)**: prose outline, **[Structured family tree](../family-tree.json)** (single master tree for the web app), one Mermaid sketch for Markdown previews, and tables. Long-form chronology: [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md); Edward Burgess scrolly: [stories/edward-burgess-persia.md](../stories/edward-burgess-persia.md). **Topics:** [topics/index.md](../topics/index.md). **Vault map:** [index.md](../index.md).
 
 ---
 
@@ -21,12 +21,13 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
 
 ![Sartip Davoud Khan Saginian in Qajar uniform](../media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png)
 
-- **[Daoud Khan Saginian](../people/daoud-khan-saginian.md)** (“Mayor Khan”; also *David Saginian*)
-  - **Life:** b. c. 1790s; d. mid-19th c. **(est.)**
-  - **Identity:** Armenian; **head of the Isfahan army** under the Qajars.
-  - **Court–military nexus:** Served under **Fath-Ali Shah** and his sons; commanded troops under **Sayf ol-Dowleh**; **1834 Isfahan conflict** — Sayf ol-Dowleh divided his army; one division led by David (Daoud) Saginian (Sayf ol-Dowleh page); Armenian military literature: “Davit Khan Saginian… head of the Isfahan army.”
+- **[Daoud Khan Saginian](../people/daoud-khan-saginian.md)** (“Mayor Khan”; also *David Saginian*, *David Saginean*, *Saginskilli*)
+  - **Life:** b. Tbilisi c. 1790; d. Tabriz **1867** (Yaghoubian 2014); buried Saginian family mausoleum, Surb Astvatsatsin, Tabriz.
+  - **Identity:** Georgian-born; integrated into Armenian community after **1811** flight; Grigorian faith adopted in Tabriz; identified as “Armenian from Georgia” in Iranian and missionary sources.
+  - **Flight to Iran (1811):** Fled Russian-controlled Georgia with brother **Zaal Saginean** and companion Solomon/Solayman Khan Saham al-Dowleh. Pretext: told their Russian commander they wanted to go **wrestling** in Tbilisi. Route: Yerevan → Akhalkalaki → Giumri → **Tabriz**. Shermazanian (via Maeda 2019): embraced **Grigorian faith** after arrival; their children became Armenians.
+  - **Court–military nexus:** Joined Abbas Mirza’s army; major by **1821**; commanded troops under **Sayf ol-Dowleh**; **1834 Isfahan conflict** one wing under his command. Titles: *sartip* (brigadier general), *farmandeh* of Shiraz+Isfahan under Fath Ali Shah, *sarperast-e Aramane* (guardian of the Armenians).
   - **Issue:** [Anna Saginian](../people/anna-saginian.md), [Tamar Saginian](../people/tamar-saginian.md).
-  - **Sources:** [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md), [obrien-roche-notes.md](../sources/obrien-roche-notes.md); narrative [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) (opening / Daoud Khan block).
+  - **Sources:** [Maeda 2019 — corpus reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) (Brill; **primary scholarly source** for flight narrative); [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md); [obrien-roche-notes.md](../sources/obrien-roche-notes.md); narrative [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md).
 
 ### Generation 2 — Court, translation, and royal medicine
 
@@ -36,7 +37,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Anna:** Armenian; daughter of Daoud Khan; **~1830** (approx.); death **unknown** in vault.
   - **Edward:** British; **1810–1855**; merchant, translator, official in Persia; arrived **1831** (never left); by **1844** magistrate near **Tabriz**, translator for **Prince Bahman Mirza**; later royal/intellectual circles under Qajar princes; **d. 1855** en route **Tehran ↔ Tabriz**; left **infant** [Fanny](../people/fanny-burgess.md).
   - **Institutional threads:** Princely administration & translation; British commercial-official presence in Qajar Iran.
-  - **Sources:** [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md), [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md), [obrien-roche-notes.md](../sources/obrien-roche-notes.md).
+  - **Sources:** [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md); [Denis Wright — *The English Amongst the Persians* Ch.7](../sources/corpus/denis-wright-english-amongst-persians-burgess/reference.md) (secondary synthesis; “devoted son and saintly character”); [Charles Burgess — *Brief Notice* to Villiers (1832)](../sources/corpus/brief-notice-trade-northern-provinces-persia-villiers/reference.md) (names Edward as intended Tabriz commission merchant); [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md); [obrien-roche-notes.md](../sources/obrien-roche-notes.md).
   - **Narrative:** [The Most All-Loved Person — Edward Burgess in Qajar Persia](../stories/edward-burgess-persia.md) — full life arc (scrollytelling).
 
 - **[Tamar Saginian](../people/tamar-saginian.md)** — **m.** **[Dr. William Cormick](../people/william-cormick.md)** *(parallel Saginian–court line, same network as Anna)*
@@ -87,7 +88,7 @@ Illustration for this Markdown page only — **not** the full 571-person tree. *
 ```mermaid
 flowchart TB
  subgraph G1["Generation 1 — Qajar military"]
- DK["Daoud Khan Saginian<br/>Mayor Khan · David Saginian<br/>Armenian · head of Isfahan army<br/>c. 1790s – mid-19th c. (est.)"]
+ DK["Daoud Khan Saginian<br/>Mayor Khan · David Saginean<br/>Georgian-born → Armenian-Iranian · Isfahan army<br/>c. 1790 Tbilisi – d. 1867 Tabriz"]
  end
 
  subgraph G2["Generation 2 — Court and medicine"]
@@ -134,7 +135,7 @@ flowchart TB
 
 | Gen | Person | Life | Origin / identity | Primary anchor | Partner | Children in vault | Burial / key record | Person file |
 |:---:|--------|------|-------------------|----------------|---------|-------------------|---------------------|-------------|
-| 1 | Daoud Khan Saginian | c. 1790s – mid-19th c. (est.) | Armenian | Isfahan army; Sayf ol-Dowleh 1834 | — | Anna, Tamar | Military/chronicle refs | [daoud-khan-saginian.md](../people/daoud-khan-saginian.md) |
+| 1 | Daoud Khan Saginian | c. 1790 Tbilisi – 1867 Tabriz (Yaghoubian) | Georgian-born; Armenian-Iranian (Grigorian) | 1811 flight (Maeda); Isfahan army; Sayf ol-Dowleh 1834 | — | Anna, Tamar | Surb Astvatsatsin mausoleum | [daoud-khan-saginian.md](../people/daoud-khan-saginian.md) |
 | 2 | Anna Saginian | ~1830 – ? | Armenian | Burgess marriage; NYPL line | Edward Burgess (m. 1851) | Fanny | Interview + NYPL | [anna-saginian.md](../people/anna-saginian.md) |
 | 2 | Edward Burgess | 1810–1855 | British | Tabriz magistracy; Bahman Mirza | Anna | Fanny | NYPL biography | [edward-burgess.md](../people/edward-burgess.md) |
 | 2 | Tamar Saginian | ? – ? | Armenian | Cormick marriage; sister network | William Cormick | — (none in vault) | Interview | [tamar-saginian.md](../people/tamar-saginian.md) |
@@ -169,9 +170,9 @@ flowchart TB
 
 | Person | NYPL Burgess | Connections BMC | Wikipedia Cormick | Levantine / Masonic | Bottin contract | EBC Stump 2005 | Iranica dentistry | Mustawfi / Mahmoudieh | O’Brien–Roche | Legacy index |
 |--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Daoud Khan | | ✓ | | | | | | | ✓ | |
+| Daoud Khan | | ✓ | | | | | | | ✓ | Maeda 2019 ✓ |
 | Anna | ✓ | ✓ | | | | | | | ✓ | |
-| Edward | ✓ | | | | | | | | | |
+| Edward | ✓ | | | | | | | | | Wright ✓ · Brief Notice ✓ |
 | Tamar | | ✓ | ✓ | | | | | | | |
 | W. Cormick | | ✓ | ✓ | | | | | | | |
 | Fanny | ✓ | | | | | | | | | ✓ |
@@ -200,6 +201,10 @@ flowchart TB
 | Estonian Biographical Center — Stump Tallinn research (2005) | [sources/estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) |
 | Mustawfi memoir / Mahmoudieh / Stump | [sources/mustawfi-mahmoudieh-stump.md](../sources/mustawfi-mahmoudieh-stump.md) |
 | O’Brien / Roche notes (Tabriz, Seguinoff, interview bits) | [sources/obrien-roche-notes.md](../sources/obrien-roche-notes.md) |
+| **Maeda 2019 — Lives of the Enikolopians** (Saginean flight, wrestling pretext, Grigorian conversion) | [corpus/maeda-2019-enikolopians-saginian-flight/reference.md](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) |
+| **Denis Wright — *The English Amongst the Persians*, Ch.7** (Burgess brothers, Edward’s career) | [corpus/denis-wright-english-amongst-persians-burgess/reference.md](../sources/corpus/denis-wright-english-amongst-persians-burgess/reference.md) · [transcript](../sources/corpus/denis-wright-english-amongst-persians-burgess/transcription.md) |
+| **Charles Burgess — *Brief Notice* to T.H. Villiers (1832)** (Trebizond trade; Edward as Tabriz agent) | [corpus/brief-notice-trade-northern-provinces-persia-villiers/reference.md](../sources/corpus/brief-notice-trade-northern-provinces-persia-villiers/reference.md) |
+| Abrahamian 1983 — introductory note to *Brief Notice* (provenance; Charles bio) | [corpus/early-trade-northern-provinces-persia-document/reference.md](../sources/corpus/early-trade-northern-provinces-persia-document/reference.md) |
 | British Library notes | [sources/british-library-notes.md](../sources/british-library-notes.md) |
 | **Archive** (legacy exports, Gramps/RM, Mahmoudieh paths in catalog) | [archive/index.md](../archive/index.md) · stub [sources/legacy-index.md](../sources/legacy-index.md) |
 | **Media — Assyrians / Persia** (Yonan monograph PDF in `media/docs/`) | [Gabriele Yonan — *Lest We Perish* (1996) PDF](../media/docs/Gabriele%20Yonan%20-%20Lest%20We%20Perish%20-%20Christian%20Assyrians%20Turkey%20and%20Persia%201996.pdf) |

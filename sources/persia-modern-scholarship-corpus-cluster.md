@@ -4,6 +4,10 @@ Academic and reference PDFs ingested for **Qajar / Pahlavi** context, **minoriti
 
 | Work (short) | Corpus |
 |--------------|--------|
+| Abrahamian 1983 — intro to Charles Burgess *Brief Notice* (*Iranian Studies*) | [corpus/early-trade-northern-provinces-persia-document/](corpus/early-trade-northern-provinces-persia-document/) |
+| Charles Burgess 1832 — *Brief Notice* to T.H. Villiers (northern Persia trade) | [corpus/brief-notice-trade-northern-provinces-persia-villiers/](corpus/brief-notice-trade-northern-provinces-persia-villiers/) |
+| Denis Wright — *The English Amongst the Persians* (Burgess excerpt, Tier B scan) | [corpus/denis-wright-english-amongst-persians-burgess/](corpus/denis-wright-english-amongst-persians-burgess/) |
+| Maeda 2019 — Enikolopians / Saginean flight (focused snippets + facsimiles) | [corpus/maeda-2019-enikolopians-saginian-flight/](corpus/maeda-2019-enikolopians-saginian-flight/) |
 | Adrian O'Sullivan — espionage & counterintelligence, occupied Persia | [corpus/adrian-osullivan-espionage-and-counterintelligen-3234f4d10b/](corpus/adrian-osullivan-espionage-and-counterintelligen-3234f4d10b/) |
 | Arash Khazeni — tribes & empire on Iran's margins | [corpus/arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf/](corpus/arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf/) |
 | David Yaghoubian — ethnicity, identity, nationalism | [corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/](corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/) |

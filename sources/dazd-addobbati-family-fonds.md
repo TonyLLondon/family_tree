@@ -11,7 +11,7 @@ kind: pdf
 
 **Remote inventory PDF:** [dazd.hr — HR-DAZD-342 Addobbati](https://www.dazd.hr/attachment/preview/5c657cc51c881/dazd-342-addobbati.pdf)
 
-**Corpus bundle:** [corpus/dazd-addobbati-family-fonds/](corpus/dazd-addobbati-family-fonds/) — `source.yaml`; OCR transcript [extracted.pdf.md](corpus/dazd-addobbati-family-fonds/extracted.pdf.md); **Croatian transcription + English** [transcription-translation.en.md](corpus/dazd-addobbati-family-fonds/transcription-translation.en.md) with [page PNGs](corpus/dazd-addobbati-family-fonds/pages/) for facsimile reading.
+The full Croatian-language inventory (with an English-side companion) and all sixteen page facsimiles of the official DAZD finding aid are reproduced below.
 
 ## Fonds summary
 

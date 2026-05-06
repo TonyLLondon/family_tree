@@ -18,9 +18,13 @@ The pipeline produced a distinct social stratum: Christian officers serving a Mu
 
 ![Tabriz city gate — Flandin, mid-nineteenth century](../media/context/tabriz-qajar/tabriz-city-gate-flandin.jpg)
 
-His origins are **Georgian**. He fled to Persia around **1811** alongside **Zaal Saginskilli** and **Solayman Khan Saham al-Dowleh**, likely in the aftermath of Russian consolidation of Georgia. Whether he had prior Russian army service is debated: the missionary **Joseph Wolff** recorded him in **1843** as "Colonel in Russian service," while other sources describe him simply as "Daoud Khan the Armenian."
+His origins are **Georgian**. He fled to Persia in **1811** with **Zaal Saginskilli** (*Zaal Saginean*) and **Solayman Khan Saham al-Dowleh**. The best-documented account in this vault: [Maeda 2019 — reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) (Shermazanian via Maeda: religious motive, **wrestling** pretext for leave from Russian service, route **Yerevan → Akhalkalaki → Giumri → Tabriz**, adoption of **Grigorian** practice after arrival, children raised Armenian). For how that reconciles Anna’s Armenian self-description with Wolff’s “genuine Georgian,” see [Was Anna a Saginian?](was-anna-saginian.md).
+
+Whether he had prior Russian army service is debated: the missionary **Joseph Wolff** recorded him in **1843** as "Colonel in Russian service," while other sources describe him simply as "Daoud Khan the Armenian." [Wolff (1845)](../sources/corpus/narrative-mission-bokhara/extracted.pdf.md) — Ch. XXVI.
 
 The key military episode is the **1834 Isfahan conflict**. When **Sayf ol-Dowleh** (a Qajar prince governing Isfahan) divided his army, one division was placed under **David (Daoud) Saginian**. Armenian military literature records him as "head of the Isfahan army." A portrait caption in the family archive states he died aged **seventy-eight**.
+
+Professional biography: [David Yaghoubian (2014)](../sources/corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/extracted.pdf.md) (extract; person page cites notes) — Tbilisi birth **c. 1790**, death **1867 Tabriz**, **Surb Astvatsatsin** burial.
 
 ## Family and legacy
 
@@ -43,11 +47,27 @@ The Armenian military role in Qajar Persia parallels other Christian minorities 
 
 ## Sources
 
+### Corpus quick map
+
+| Thread | Where to read |
+|--------|----------------|
+| 1811 flight, Saginean brothers, wrestling, Grigorian/Armenian identity | [Maeda 2019 — reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) |
+| Wolff on Daoud Khan (Georgian / "the Armenian") | [Wolff 1845 — extract](../sources/corpus/narrative-mission-bokhara/extracted.pdf.md) |
+| Vitals / Tabriz burial (descendant oral history) | [Yaghoubian 2014 — PDF extract](../sources/corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/extracted.pdf.md) |
+| Anna's 1880 interview (father in Shah's service) | [NYPL appendix — extract](../sources/corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md) |
+
 | Source | Location |
 |--------|----------|
+| Maeda 2019 — Enikolopians / Saginean flight | [reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [source card](../sources/maeda-2019-enikolopians.md) |
+| Identity synthesis (Anna, Tamar, Daoud) | [Was Anna a Saginian?](was-anna-saginian.md) |
+| Working note — Armenian officers essay | [research/iran-qajar/armenian-officers-qajar-military.md](../research/iran-qajar/armenian-officers-qajar-military.md) |
 | Connections BMC — Saginian/Cormick interview | [source card](../sources/connectionsbmc-saginian-interview.md) · [corpus](../sources/corpus/connectionsbmc-saginian-interview/) |
 | O'Brien / Roche notes | [source card](../sources/obrien-roche-notes.md) |
 | NYPL Burgess appendix — Anna interview (1880) | [extract](../sources/corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md) |
+
+## Related topics
+
+- [Persia hub](persia.md) · [Surname: Saginian](surname-saginian.md)
 
 ## Narrative
 

@@ -14,25 +14,12 @@ spouses:
   - anthony-robert-lewis
 children:
   - archer-lewis
+  - sloan-carmen-lewis
 ---
 
 # Jacqueline Caroline Evans
 
-**Jacqueline** was born in **Camden** in **September 1983**—the borough her mother [Helia](helia-cerpa-perez.md) would serve for years as a tenant representative on **Somers Town** estates—daughter of [Joseph Evans (1940)](joseph-evans-i18.md) and the **Chilean–London** line that ties **Parral** to **Exmouth Market** christenings. She married [Anthony Robert Lewis](anthony-robert-lewis.md) **25 June 2012**, braiding the **Evans–Cerpa Pérez** hub into the **Lewis–Stump–Zara** trunk.
-
-Younger children in this branch stay in the working tree only—living minors, no public vitals on this page.
-
-## Family
-
-- Parents: [Joseph Evans (1940)](joseph-evans-i18.md); [Helia Cerpa-Pérez](helia-cerpa-perez.md).
-- Husband: [Anthony Robert Lewis](anthony-robert-lewis.md).
-
-## Evidence
-
-- Wedding portrait: [bride with parents outdoors](../media/images/portraits/outdoor-wedding-trio-beaded-gown-champagne-hills.jpg) — Jacquie (centre) with [Joseph](joseph-evans-i18.md) and [Helia](helia-cerpa-perez.md), 25 June 2012.
-- Hub: [Evans · Cerpa Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md).
-- **Tree id:** **I5** — unions **F9** / **F2** with parents and spouse (topology in the working tree).
-
-## Open questions
-
-- None for vault topology.
+- **Born:** 13 September 1983 — Camden, London, England
+- **Parents:** [Joseph Evans (1940)](joseph-evans-i18.md), [Helia Cerpa-Pérez](helia-cerpa-perez.md)
+- **Marriage:** 25 June 2012 — [Anthony Robert Lewis](anthony-robert-lewis.md)
+- **Children:** [Archer Robert David Lewis](archer-lewis.md), [Sloan Carmen Lewis](sloan-carmen-lewis.md)

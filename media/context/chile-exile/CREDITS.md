@@ -1,12 +1,3 @@
-# Credits — chile-exile context images
+# Context images — Chile / exile
 
-| File | Source | Author | Licence | Notes |
-|------|--------|--------|---------|-------|
-| `parral-main-street-2013.jpg` | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parral,_Chile_-_main_street.JPG) | Plasmarelais | CC BY-SA 3.0 Unported | Aníbal Pinto main avenue at Igualdad street, Parral, Chile. 2 November 2013. |
-| `allende-un-new-york-1970.jpg` | [Library of Congress](https://www.loc.gov/pictures/item/2020729693/) via Wikimedia Commons | Bernard Gotfryd (1924–2016) | Public domain (no known copyright restrictions) | Salvador Allende, President of Chile, at the United Nations, New York. Between 1970 and 1973. Bernard Gotfryd Collection, Library of Congress. |
-| `golpe-de-estado-la-moneda-1973.jpg` | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Golpe_de_Estado_1973.jpg) | Biblioteca del Congreso Nacional de Chile | CC BY 3.0 Chile | Bombing of La Moneda presidential palace, Santiago, 11 September 1973. From the Political History website of the Library of the Chilean National Congress. |
-| `chile-solidarity-campaign-london-1979.jpg` | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chile_Solidarity_Campaign_90283.jpg) | Gillfoto (Kenneth John Gill) | CC BY-SA 4.0 International | Chile Solidarity Campaign National Demonstration, Trafalgar Square, London. 16 September 1979. |
-| `la-moneda-palace-santiago.jpg` | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Palacio_de_la_Moneda_I.jpg) | (see file page) | CC (see file page) | Palacio de la Moneda, Santiago, exterior. December 2022. |
-| `museo-memoria-santiago-2019.jpg` | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Museo_de_la_Memoria_y_los_DDHH,_Santiago_20191219_32.jpg) | Carlos Figueroa Rojas / Wikimedia Chile (PEG Grant) | CC BY-SA 4.0 International | Museo de la Memoria y los Derechos Humanos, Santiago, exterior. 19 December 2019. |
-| `estadio-nacional-graderias-memorial-2019.jpg` | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Estadio_Nacional,_grader%C3%ADas_centro_de_detenci%C3%B3n_y_tortura.jpg) | Claudiavargasmoncada | CC BY-SA 4.0 International | Memorial in the grandstands of the Estadio Nacional, former detention and torture centre, Ñuñoa, Santiago. 11 September 2019. |
-| `wentworth-estate-surrey.jpg` | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wentworth_Estate_-_geograph.org.uk_-_140278.jpg) / Geograph | Julian Small | CC BY-SA 2.0 | Wentworth Estate, Virginia Water, Surrey. 21 March 2006. Pinochet was held under house arrest at 28 Lindale Close ("Twin Pines") on this estate from December 1998 to March 2000. |
+Private family vault: context photos pulled from the open web (often Wikimedia Commons) for illustration. No formal attribution table; originals stay on the host sites if you ever need them.

@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "kind": "vision-handoff",
+  "generated_at": "2026-04-19T07:30:33Z",
+  "slug": "bottin-contract",
+  "source_pdf": "media/albums/henderson/Bottin Contract.pdf",
+  "dpi": 200,
+  "page_count": 3,
+  "bundle_scripts": [],
+  "is_rtl": false,
+  "is_multi_script": false,
+  "pages": [
+    {
+      "n": 1,
+      "image": "pages-png/p001.png",
+      "scripts_detected": [],
+      "char_count": 0,
+      "image_area_ratio": 1.0
+    },
+    {
+      "n": 2,
+      "image": "pages-png/p002.png",
+      "scripts_detected": [],
+      "char_count": 0,
+      "image_area_ratio": 1.0
+    },
+    {
+      "n": 3,
+      "image": "pages-png/p003.png",
+      "scripts_detected": [],
+      "char_count": 0,
+      "image_area_ratio": 1.0
+    }
+  ],
+  "agent_instructions": {
+    "task": "Read every PNG in pages_png/ and write the expected output files into the same bundle directory. Each output gets YAML frontmatter with `language:` (ISO 639-1) and `transcriber:` (\"agent\" or \"human\"). Set `agent_locked: true` once the file is final to prevent re-overwrites.",
+    "expected_outputs": [
+      "translation.en.md (English translation of the document)",
+      "reference.md (English commentary: structured fields, cross-confirmations, links to people/*.md, genealogical position)"
+    ],
+    "do_not_overwrite": "Files whose frontmatter has `transcriber: human` OR `agent_locked: true` must be left untouched.",
+    "image_links_in_md": "Reference page facsimiles via repo-relative paths (e.g. ../../sources/corpus/<slug>/pages-png/p001.png) so the web app can render them.",
+    "frontmatter_template": {
+      "language": "<iso-639-1>",
+      "source_file": "media/albums/henderson/Bottin Contract.pdf",
+      "source_pages": "1-N",
+      "transcriber": "agent",
+      "agent_model": "<model name>",
+      "agent_date": "<utc timestamp>",
+      "agent_locked": false
+    }
+  }
+}

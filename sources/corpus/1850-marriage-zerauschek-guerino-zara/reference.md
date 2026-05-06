@@ -12,8 +12,6 @@ film_image: "515 of 535"
 
 Parish marriage entry **30**, **24 August 1850**, cathedral of **Sv. Stošija** (St. Anastasia), **Zadar** (Zara), Dalmatia.
 
-**Local image:** [Marriage Zerauschek Guerino Zara 1850.jpg](../../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg)
-
 ## Register transcription
 
 | Field | Value |

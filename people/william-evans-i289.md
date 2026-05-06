@@ -58,7 +58,7 @@ The **1881 Census** places the couple at **3 Swinton Street, St Pancras** — ju
 
 - [1881 Census — Alfred Evans household, 6 Paradise Place, Islington](../sources/corpus/1881-census-alfred-evans-household-islington/transcription.md) — RG11/265, folio 9, p. 12: Alfred (60, Painter), Catherine (58), Arthur (26, Cabinet Maker), William (24), Reuben, Catherine May (12), Thomas (17, Printer). Seven persons. Our William already at Swinton Street — the "William" here may be a dual enumeration or indexing confusion.
 
-**Correction note:** An older working tree linked William to Louisa Spencer (marriage 26 Jul 1891, I290/F136). Four census returns (1901, 1911, 1921) and the 1939 Register consistently record his wife as **Dorothea**, married since ~1878. The Louisa Spencer marriage belongs to a different William Evans. See [Louisa Spencer](louisa-spencer.md) for the disconnection note.
+**Correction note:** An older working tree linked this William to a Louisa Spencer (marriage 26 Jul 1891, old `I290` / `F136`). Four census returns (1901, 1911, 1921) and the 1939 Register consistently record his wife as **Dorothea**, married since ~1878. The Louisa Spencer marriage belongs to a **different** William Evans. Louisa is **out of this tree** (see [corpus extract — Ancestry christening index](../sources/corpus/louisa-spencer-england-select-births-and-christe-c5d42f5463/extracted.pdf.md) for the index entry only).
 
 **Note on birthplace:** Later censuses (1901, 1911) give William's birthplace as "Clerkenwell." The GRO birth registration and 1871 census both say Islington. The two parishes are contiguous — the family lived on the Islington side of the boundary, but "Clerkenwell" was the broader neighbourhood name for the area's metalworking quarter.
 

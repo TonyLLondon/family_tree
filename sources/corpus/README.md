@@ -25,6 +25,7 @@ Each folder is one **ingested source**: provenance in `source.yaml`, plus whatev
 | `retrozadar-povijest-kavana-u-zadru` | Web | Retrozadar — *Povijest kavana u Zadru* (full HTML mirror + extract) |
 | `slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror` | Web | Slobodna Dalmacija part 2 — curl Cloudflare challenge shell only |
 | `beytoote-stump-dentist-atabak-ahmadshah` | Web | Beytoote.com — Dr. Stump (Ashtump), dentist of Atabak & Ahmad Shah (Persian) |
+| `savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367` | PNG + MD | Daneshvar *Savushun* — Ghanoonparvar English trans., pp. 366–367 (**Dr. Schtomp**, false teeth); PNG + `transcription.en.md` + Tesseract `ocr-tesseract-en.txt` in `media/docs/` |
 | `iranica-dentistry-article` | Web | Encyclopaedia Iranica — DENTISTRY; names Stump alongside Melczarski |
 | `addobbati-simeone-oesta-kriegsarchiv-excerpts` | PNG + MD | KA/ÖStA typescript excerpts, 1926 Zara letter, 1968 reply, grave — images in `media/docs/addobbati-simeone-gilberto/` |
 | `oesta-kuk-generale-1816-1918` | PDF | ÖStA list k.k./k.u.k. Generale 1816–1918 (remote) |

@@ -13,6 +13,7 @@ This page is the **working hub** for registers, civil records, and family media 
 | [The Spencers and the Evans — Clerkenwell to Islington](../stories/evans-islington-clerkenwell.md) | Five London generations: Spencer, Fensom, Evans, Coolbear (1838–1972) |
 | [Chimney Sweep to the Founding of the RAF](../stories/coolbear-essex-gallipoli-raf.md) | Archibald Percy Coolbear: Essex, Gallipoli, Western Front, RFC/RAF |
 | [Parral to Camden — Helia Cerpa-Pérez](../stories/helia-cerpa-perez-chile-exile-camden.md) | Chile under Allende, the 1973 coup, Italian embassy, London exile, Ossulston housing advocacy, Valech lists |
+| [Helia — Estadio, prohibition](../stories/helia-estadio-prohibicion-piquete.md) | Scrapbook: Allende + Helia, coup, **two** distinct Estadio 1973 frames (bowl + wire), memory images, *Cartilla* (1985), ends with **Helia** — no euphemism on conditions |
 
 ---
 

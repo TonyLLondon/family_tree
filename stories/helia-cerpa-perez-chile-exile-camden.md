@@ -30,11 +30,15 @@ Helia was among the detained.
 
 ---
 
-## The Estadio Nacional
+## The Estadio Nacional — magnitude
 
 The Estadio Nacional — Chile's national sports stadium in Ñuñoa, Santiago — was converted into the regime's largest mass detention centre. It operated from 12 September to 9 November 1973. An estimated 20,000 people passed through it; the International Red Cross counted 7,000 on a single day. Hooded informants circulated among prisoners to identify party members, who were taken away and often never seen again.
 
 Helia appears as **CERPA PEREZ HELIA DEL C** on the official list of 405 women prisoners held at the stadium, maintained by the Corporación Estadio Nacional Memoria Nacional Ex Prisioneros Políticos and [published by *Cambio21*](https://cambio21.cl/cambio21/las-mujeres-vctimas-de-la-dictadura-prisioneras-en-el-estadio-nacional-conzca-en-exclusiva-los-nombres-de-405-detenidas-en-el-principal-coliseo-deportivo-en-1973-5c26692bcd49b0733e070387) on 31 December 2018.
+
+---
+
+## The Estadio Nacional — at the wire
 
 Women were initially held in changing rooms within the coliseum. On 26 September 1973, all women were transferred to two changing rooms beside the swimming pool, at the corner of Pedro de Valdivia and Avenida Grecia. The camarín norte held Chilean women; the camarín sur held foreigners. Each room measured roughly 30 metres by 7. Women slept on mattresses pushed together in rows. Many were stripped of their belongings on arrival; many were subjected to sexual violence. The former DINA director Manuel Contreras cited 509 women detained; testimonies from survivors estimate approximately 1,200.
 
@@ -159,5 +163,6 @@ Helia died in 2025. She married [Joseph Evans](../people/joseph-evans-i18.md) in
 
 ## Related
 
+- [Helia — Estadio, prohibition](helia-estadio-prohibicion-piquete.md) — scrapbook: **Allende** + Helia → coup → Estadio (**bowl** + **alambrado**) → memory sites → *Cartilla* → **Helia** smiling.
 - [The Spencers and the Evans — Clerkenwell to Islington](evans-islington-clerkenwell.md) — the London Evans line that Helia married into.
 - [people/helia-cerpa-perez.md](../people/helia-cerpa-perez.md) — full person page with open questions.

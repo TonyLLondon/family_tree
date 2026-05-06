@@ -1,0 +1,45 @@
+# Savushun — English translation excerpt (pages 366–367)
+
+**Source scan:** [media docs PNG](../../../media/docs/savushun-daneshvar-ghanoonparvar-schtomp-false-teeth-pp366-367.png)
+
+Transcript of visible text **only** (facing pages as captured).
+
+---
+
+## Page 366
+
+**366 Savushun**
+
+Moreover, with his death, justice and truth have not died. There are others—"
+
+Khan Kaka blinked and said angrily, "Women like you who follow their husbands like sheep are the cause of premature death."
+
+"Khan Kaka," Zari answered calmly. "Don't make me say it, but his blood is on many hands, including yours. Even I may be guilty."
+
+Angrier than before, Khan Kaka shouted, "Now you've found your tongue, too? That's really something to be proud of. I'll say it before everybody. You've gotten your hands on somebody else's money and have forgotten that there is such a thing as a man and such a thing as a woman. The woman is the lining, the man the outer garment. It is the lining that gives the garment its shape. For every wrong step that that young man took, you said well done . . ."
+
+Zari felt that the snake, remaining awake inside her, was talking and thought, *Snake tongue!* and said, "You are worried about your position as a member of parliament . . . worried about your plans during your term of office—having an eye operation, ordering a set of false **teeth** by Dr. Schtomp. Didn't you say it yourself? And maybe even taking a wife."
+
+Khan Kaka looked at her stunned. "Damn!" he swore. And just as suddenly he calmed down. "You don't know me yet. I am the kind of man that when my wife died . . . for sixteen long years, without a wife and spouse, alone in bed . . ." Zari wanted to say, "What about the temporary wives, one after the other? What about the daughter of the shoemaker who rubs the gall-bladder stones of an ox on her body in the bath to get fat?"
+
+She was ready to go to extremes and was in such a state that if she had a gun and knew how to use it, she might have fired it. She stood up and said, "Just a few minutes ago, before your notary public . . ."
+
+---
+
+## Page 367
+
+**Simin Daneshvar 367**
+
+Majid Khan mediated. "Please, I beg of you. Mr. Abolqasem Khan, Khanom Zahra, is this the time for such talk?"
+
+Fotuhi gestured for everyone to be silent. "Let's not waste our time arguing about the particulars of each other's lives," he said. "Let us discuss the matter differently. The murder of Yusof Khan is a private matter from your perspective and a social matter from ours."
+
+Abolqasem Khan interrupted Fotuhi. "I know the rest by heart. You want to take the utmost advantage of this murder. You want to start a riot and get innocent people killed. There are several truckloads of soldiers standing on the main road, with the foreign troops that are in the city . . . You know best."
+
+The coffin was covered with roses and sweetbriars, and it was decided that it would be carried through the garden walkway on the shoulders of Hoseyn Aqa, Hasan Aqa, Majid Khan and Mr. Fotuhi. Malek Rostam insisted on being a pallbearer, but Zari made him change his mind and said, "Of all Khan Kaka said this one thing was true: You have shown up in public without weighing the consequences." And she made him promise, "When we leave, put on Khadijeh's chador and get yourself to a safe place through the back door of the garden."
+
+"It doesn't ma—" Malek Rostam said. "Let whatever is going to happen, happen." Abolqasem Khan asked the ladies to stay for lunch; he said he was sure a bite of bread and cheese could be found in this humble house, but that it would not be advisable to take part in the funeral procession. He said that her honorable eminence Ezzatoddowleh would also stay behind.
+
+The banner and the candelabra proceeded, and the Qasem wedding chamber followed the coffin. Khan Kaka gave his arm to one of Yusof's
+
+*(remainder of page not visible on capture)*

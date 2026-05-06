@@ -12,3 +12,13 @@ manual/
 web/public/files/
 .vercel
 .env*.local
+
+projects/*/inbox/*
+!projects/*/inbox/.gitkeep
+!projects/*/inbox/README.md
+
+# Tier C / C+ intermediate artefacts: regenerable, not transcription source.
+# `pages-png/` (high-DPI hit pages) and `snippets/` are committed — they are
+# what the website renders next to each transcribed snippet.
+sources/corpus/*/_ocr_index/
+sources/corpus/*/thumbnails/

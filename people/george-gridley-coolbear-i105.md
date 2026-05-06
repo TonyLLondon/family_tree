@@ -31,7 +31,7 @@ His parents were **George Coolbear** (earlier spelled "Coalbear"), a **journeyma
 ## Family
 
 - Wife: [Alma Newcomb](alma-newcomb-i106.md) (b. ~1854, **Tolleshunt Knights, Essex**). The working tree lists the marriage as 1879, but some children predate this — see note below.
-- Parents: **George Coolbear** (b. ~1823, Hazeleigh; carpenter) and **Ann Gridley** (b. ~1825, Tillingham, Essex). They met as teenagers in the **Hamlet of Bicknacre, Danbury** — the 1841 census has George (15, apprentice carpenter) and Ann (15, farm servant) on consecutive pages of the same enumeration book.
+- Parents: [George Coolbear](george-coolbear-i107.md) (b. ~1823, Hazeleigh; carpenter) and [Ann Gridley](ann-gridley-i108.md) (b. ~1825, Tillingham, Essex). They met as teenagers in the **Hamlet of Bicknacre, Danbury** — the 1841 census has George (15, apprentice carpenter) and Ann (15, farm servant) on consecutive pages of the same enumeration book.
 - Siblings: **Samuel Olonzo Coolbear** (~1847, Purleigh), **Elizabeth Ann Coolbear** (~1851, Purleigh).
 - Known children:
   - Ellen Alice Coolbear (~1868, Maldon) — possibly from a prior relationship

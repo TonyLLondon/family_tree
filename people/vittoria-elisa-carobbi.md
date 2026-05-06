@@ -47,8 +47,8 @@ Vittoria survived Simeone by six years (he died 1896; she died 1902) and witness
 - **Tree id:** **I27** — unions **F11**, **F31**; MyHeritage **Geni** URL in **SOUR**; FamilySearch **L22T-RHS**.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — eight children, Boara inheritance dispute, Casimiro and Carmela.
 - **Handwritten family tree (NTree01):** [media/docs/fulvia-family-tree-file/NTree01.jpg](../media/docs/fulvia-family-tree-file/NTree01.jpg) — Fulvia's hand; all eight children named and dated.
-- **Marriage register of daughter Ottilia, Entry N. 8, 12 Feb 1890:** "Carobbi Vittoria, da Zara, Cattolica, Civile, Vivente" — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
-- **Marriage register, Zara, 8 Aug 1849:** [media/collections/zerauschek/Zerauschek (1)/Marriage Boara Carobbi Zara 1849.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Boara%20Carobbi%20Zara%201849.jpg) — untranscribed; her marriage to Simeone Vincenzo Boara (F11).
+- **Marriage register of daughter Ottilia, Entry N. 8, 12 Feb 1890:** "Carobbi Vittoria, da Zara, Cattolica, Civile, Vivente" — [corpus](../sources/corpus/1890-marriage-addobbati-boara-zara/reference.md).
+- **Marriage register, Zara, 8 Aug 1849:** [corpus](../sources/corpus/1849-marriage-boara-carobbi-zara/reference.md) — her marriage to Simeone Vincenzo Boara (F11).
 - [Addobbati, Dalmatia, Habsburg](../stories/addobbati-dalmatian-habsburg.md).
 
 ## Wishlist

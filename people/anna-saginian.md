@@ -56,10 +56,13 @@ Secondary genealogy notes sometimes use alternate spellings (**Seguinoff** and s
 ## Related narrative
 
 - [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md) — section 2
+- [Was Anna a Saginian?](../topics/was-anna-saginian.md) — Daoud Khan’s Georgian→Armenian trajectory (Maeda / Shermazanian), Edward’s “Georgian lady” letter, Wolff; **corpus quick map** at foot of that topic.
 
 ## Topics
 
 - [Cemeteries in Iran](../topics/iran-cemeteries.md)
+- [Was Anna a Saginian?](../topics/was-anna-saginian.md)
+- [Qajar Armenian military elite](../topics/qajar-armenian-military.md)
 
 ## Open questions
 

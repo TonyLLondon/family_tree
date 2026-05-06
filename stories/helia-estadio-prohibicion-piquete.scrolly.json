@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Helia — Estadio, prohibition",
+    "subtitle": "Allende’s Chile and Helia at the civil registry; the 1973 coup; the Estadio in two documentary frames; memory sites; the 1985 prohibition list — ending with Helia.",
+    "era": "1970 — 2025"
+  },
+  "layout": "scrapbook",
+  "scrollyStepCount": 0,
+  "steps": [],
+  "pages": [
+    {
+      "image": "media/context/chile-exile/allende-un-new-york-1970.jpg",
+      "alt": "Salvador Allende, President of Chile, at the United Nations, New York, c. 1970–1973 — Bernard Gotfryd, Library of Congress"
+    },
+    {
+      "image": "media/context/chile-exile/1973-09-11-la-moneda-bombing-santiago.png",
+      "alt": "11 September 1973 — bombing of La Moneda presidential palace, Santiago"
+    },
+    {
+      "image": "media/context/chile-exile/1973-coup-detainees-transported-by-bus-santiago.png",
+      "alt": "1973 — detainees beside military and buses, hands on heads"
+    },
+    {
+      "image": "media/context/chile-exile/1973-estadio-nacional-detenidos-graderias-desde-cancha.png",
+      "alt": "Estadio Nacional — soldiers on the track, detainees massed in the lower stands, September 1973"
+    },
+    {
+      "image": "media/context/chile-exile/1973-estadio-nacional-detenidos-alambrado-y-soldados.png",
+      "alt": "Estadio Nacional — detainees behind chain-link at the field edge, soldiers with rifles, September 1973"
+    },
+    {
+      "image": "media/context/chile-exile/estadio-nacional-memorial-un-pueblo-sin-memoria-futuro.png",
+      "alt": "Preserved detention bleachers and Un pueblo sin memoria es un pueblo sin futuro; spectators in modern seats above"
+    },
+    {
+      "image": "media/context/chile-exile/chile-ddhh-memorial-instalacion-retratos-suspendidos.png",
+      "alt": "Indoor memorial — suspended translucent panels with portraits"
+    },
+    {
+      "image": "media/context/chile-exile/chile-ddhh-memorial-placas-benedetti-olvido-memoria.png",
+      "alt": "Outdoor plaques — El olvido está lleno de memoria — names of victims"
+    },
+    {
+      "image": "media/context/chile-exile/chile-memorial-vigilia-ninos-asesinados.png",
+      "alt": "Night vigil — Niños asesinados wall and candles"
+    },
+    {
+      "image": "media/docs/1985-cartilla-retornado-3-comite-pro-retorno-cover.jpg",
+      "alt": "Cartilla del Retornado Nº 3 — November 1985"
+    },
+    {
+      "image": "media/docs/1985-cartilla-retornado-3-cerpa-perez-helia-page-12.jpg",
+      "alt": "Sexto listado — Cerpa Pérez, Helia del Carmen"
+    },
+    {
+      "image": "media/images/portraits/three-generations-outdoors-flowering-tree.jpg",
+      "alt": "Helia Cerpa-Pérez smiling outdoors beside family, flowering tree in blossom"
+    }
+  ]
+}

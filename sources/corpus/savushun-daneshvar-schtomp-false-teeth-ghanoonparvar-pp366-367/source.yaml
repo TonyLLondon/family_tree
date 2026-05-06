@@ -1,0 +1,15 @@
+id: savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367
+title: 'Simin Daneshvar, Savushun — English trans. M. R. Ghanoonparvar (Mage), pp. 366–367 (Dr. Schtomp, false teeth)'
+remote: {}
+fetches:
+  - kind: local_png
+    at: '2026-05-06T17:40:00Z'
+    repo_path: media/docs/savushun-daneshvar-ghanoonparvar-schtomp-false-teeth-pp366-367.png
+    sha256: 26c230fe78587e777c42b9c0d56cf6ce3d41df4c6d9dbf6be5c85b96fc17d532
+    bytes: 198207
+    note: Facing-page capture of Mage English translation; Tesseract ENG in ocr-tesseract-en.txt (noisy near highlighted search UI).
+files:
+  media_reference: media/docs/savushun-daneshvar-ghanoonparvar-schtomp-false-teeth-pp366-367.png
+  reference_md: reference.md
+  transcription_en: transcription.en.md
+  ocr_tesseract_en: ocr-tesseract-en.txt

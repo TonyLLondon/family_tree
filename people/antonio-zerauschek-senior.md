@@ -39,7 +39,7 @@ No civil death has been transcribed here yet. The memoir’s timeline is the bes
 
 - Scans: [media/collections/zerauschek/](../media/collections/zerauschek/).
 - **Birth register, Entry 54, 15 Mar 1850** (Zara): [image](../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Antonio%20Zerauschek%20Sr.%20Zara%201850.jpg) · [corpus](../sources/corpus/1850-birth-antonio-zerauschek-sr-zara/reference.md) · FamilySearch image ARK 3:1:3QS7-899X-KWRZ (Sv. Stošija, Zadar · Births 1842–1856 · image 375 of 672).
-- **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** [image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Herenda%20Pago%201878.jpg).
+- **Marriage register, Entry N. 8, 26 Jan 1878 (Pago):** [corpus](../sources/corpus/1878-marriage-zerauschek-herenda-pag/reference.md).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Tree id:** **I25**; unions referenced as **F13** (with Anna Herenda), **F58** (his parents’ marriage). 
 

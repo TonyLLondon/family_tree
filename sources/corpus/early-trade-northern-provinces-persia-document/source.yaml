@@ -1,0 +1,12 @@
+id: early-trade-northern-provinces-persia-document
+title: Early trade of the northern provinces of Persia (document)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-05-06T15:56:27Z'
+  sha256: 84b52ae65af5ba71f27faf63be695e5fcd8bd9eeb8d7ed3a2a9585cba8812772
+  bytes: 202204
+  media_reference: manual/Early trade of the northern provinces of Persia a document.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: manual/Early trade of the northern provinces of Persia a document.pdf

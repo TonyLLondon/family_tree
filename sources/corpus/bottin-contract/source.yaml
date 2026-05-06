@@ -11,3 +11,14 @@ files:
   pdf_markdown: extracted.pdf.md
   transcription_translation_en: transcription-translation.en.md
   media_reference: media/albums/henderson/Bottin Contract.pdf
+extractions:
+- at: '2026-04-19T07:30:33Z'
+  tier: b
+  engine: pymupdf rasterise + manifest (vision handoff)
+  pages: 3
+  dpi: 200
+  files_written:
+  - pages-png/p001.png
+  - pages-png/p002.png
+  - pages-png/p003.png
+  - pages-png/manifest.json

@@ -18,17 +18,23 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [La résidence de France en Iran](corpus/ambassade-france-iran-residence/) — `ambassade-france-iran-residence`
 - [Arash Khazeni - Tribes and Empire on the Margins of Nineteenth-Century Iran - UW Press](corpus/arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf/) — `arash-khazeni-tribes-and-empire-on-the-margins-o-3d7bd7babf`
 - [Julien Bottin — Persian Ministry of War contract (French)](corpus/bottin-contract/) — `bottin-contract`
+- [A brief notice respecting the trade of the northern provinces of Persia, addressed to T. H. Villiers (1832)](corpus/brief-notice-trade-northern-provinces-persia-villiers/) — `brief-notice-trade-northern-provinces-persia-villiers`
 - [Burgess Anna and Fanny plate NYPL collection scan](corpus/burgess-anna-and-fanny-plate-nypl-collection-sca-34e01f8afe/) — `burgess-anna-and-fanny-plate-nypl-collection-sca-34e01f8afe`
+- [Charles Henry Burgess — Outlawry proclamations (1847–1848)](corpus/burgess-charles-henry-outlawry-1847/) — `burgess-charles-henry-outlawry-1847`
 - [The Burgess Persian Letters](corpus/burgess-persian-letters-full-volume/) — `burgess-persian-letters-full-volume`
 - [Burgess Persian Letters hardcover binding photos scan 2020-09-26](corpus/burgess-persian-letters-hardcover-binding-photos-4917265609/) — `burgess-persian-letters-hardcover-binding-photos-4917265609`
 - [Burgess Persian Letters related book pages Farsi scan 2020-10-02](corpus/burgess-persian-letters-related-book-pages-farsi-1cfe80be9e/) — `burgess-persian-letters-related-book-pages-farsi-1cfe80be9e`
 - [Burgess Persian Letters related book pages Farsi scan 2020-10-02 part 2](corpus/burgess-persian-letters-related-book-pages-farsi-2ad8043198/) — `burgess-persian-letters-related-book-pages-farsi-2ad8043198`
 - [Charles Burgess portrait PDF (brother of Edward; NYPL-related context)](corpus/charles-burgess-portrait-nypl-context/) — `charles-burgess-portrait-nypl-context`
 - [Connections BMC — Saginian interview](corpus/connectionsbmc-saginian-interview/) — `connectionsbmc-saginian-interview`
+- [Will of Dr John Cormick, surgeon at Tabriz, Persia (1836)](corpus/cormick-john-will-1836-tabriz/) — `cormick-john-will-1836-tabriz`
 - [John & William Cormick — research executive summary (Persian & English sources)](corpus/cormick-john-william-research-executive-summary/) — `cormick-john-william-research-executive-summary`
 - [Dr. Cormick — The man who met the Báb (Connections), part 1](corpus/cormick-man-who-met-bab-connections/) — `cormick-man-who-met-bab-connections`
 - [Dr. Cormick — The man who met the Báb (Connections), part 2](corpus/cormick-man-who-met-bab-connections-2/) — `cormick-man-who-met-bab-connections-2`
 - [David Yaghoubian - Ethnicity Identity and Nationalism in Iran](corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/) — `david-yaghoubian-ethnicity-identity-and-national-00eefee0c9`
+- [Denis Wright, The English Amongst the Persians — chapter 7 excerpt on Charles and Edward Burgess](corpus/denis-wright-english-amongst-persians-burgess/) — `denis-wright-english-amongst-persians-burgess`
+- [Early trade of the northern provinces of Persia (document)](corpus/early-trade-northern-provinces-persia-document/) — `early-trade-northern-provinces-persia-document`
+- [Vaqaye'-e Ettefaqiyeh (1851–1861) and the Education of the Iranian Nation in the Middle of the Nineteenth Century](corpus/ebrahimian-vaqaye-ettefaqiyeh-dissertation-2020/) — `ebrahimian-vaqaye-ettefaqiyeh-dissertation-2020`
 - [en-wikipedia-edward-burgess-merchant](corpus/en-wikipedia-edward-burgess-merchant/) — `en-wikipedia-edward-burgess-merchant`
 - [English Wikipedia: William Cormick — offline curl captures](corpus/en-wikipedia-william-cormick-curl-mirrors/) — `en-wikipedia-william-cormick-curl-mirrors`
 - [Gabriele Yonan - Lest We Perish - Christian Assyrians Turkey and Persia 1996](corpus/gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3/) — `gabriele-yonan-lest-we-perish-christian-assyrian-29dd440fa3`
@@ -37,11 +43,13 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [iranica-censorship-karimi-hakkak](corpus/iranica-censorship-karimi-hakkak/) — `iranica-censorship-karimi-hakkak`
 - [Encyclopaedia Iranica — DENTISTRY (dandān-pezeškī) in Persia](corpus/iranica-dentistry-article/) — `iranica-dentistry-article`
 - [Encyclopaedia Iranica — Firearms i. History](corpus/iranica-firearms-history/) — `iranica-firearms-history`
+- [Khazeni Tribes Empire Iran Test](corpus/khazeni-tribes-empire-iran-test/) — `khazeni-tribes-empire-iran-test`
 - [Lady Mary Sheil, Glimpses of Life and Manners in Persia (1856), Ch. 13 — newspaper passage](corpus/lady-sheil-glimpses-persia-ch13/) — `lady-sheil-glimpses-persia-ch13`
 - [Freemasonry and fraternalism in the Middle East](corpus/levantine-freemasonry/) — `levantine-freemasonry`
 - [Lior Sternfeld - Reclaiming Their Past Jewish History in Iran Pahlavi early revolution - UT Austin dissertation 2014](corpus/lior-sternfeld-reclaiming-their-past-jewish-hist-bc02d32469/) — `lior-sternfeld-reclaiming-their-past-jewish-hist-bc02d32469`
 - [london-gazette-1870-03-15-white-1st-foot](corpus/london-gazette-1870-03-15-white-1st-foot/) — `london-gazette-1870-03-15-white-1st-foot`
 - [London Gazette, 1 January 1938 — Gerald Sebastian White OBE, 1938 New Year Honours](corpus/london-gazette-1938-01-01-white-obe/) — `london-gazette-1938-01-01-white-obe`
+- [Maeda 2019 - Lives of the Enikolopians: David and Zaal Saginean flight to Iran](corpus/maeda-2019-enikolopians-saginian-flight/) — `maeda-2019-enikolopians-saginian-flight`
 - [Alice Navasargian 2012 - Armenia highlands, Garden of Eden, ancient history (part 3 of 3)](corpus/navasargian-2012-armenia-highlands-garden-eden-part3/) — `navasargian-2012-armenia-highlands-garden-eden-part3`
 - [Alice Navasargian 2012 - Indo-European language family tree and Armenia illustrated (part 1 of 3)](corpus/navasargian-2012-armenia-indo-european-part1/) — `navasargian-2012-armenia-indo-european-part1`
 - [Alice Navasargian 2012 - Armenians in Iran biographies, Djulfa merchants (part 2 of 3)](corpus/navasargian-2012-armenians-iran-djulfa-part2/) — `navasargian-2012-armenians-iran-djulfa-part2`
@@ -71,13 +79,34 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 
 ## Zara / Dalmatia / DAZD
 
+- [Marriage register — Francesco Lanfranchi & Francesca Doriceo, 4 June 1707, Zadar (Zara)](corpus/1707-marriage-lanfranchi-doriceo-zara/) — `1707-marriage-lanfranchi-doriceo-zara`
+- [Baptism register — Regina Margaritta Lanfranchi, born 26 December 1715 (emergency baptism 2 January 1716; entered 3 March 1716), Duomo di Zara](corpus/1715-birth-margherita-lanfranchi-zara/) — `1715-birth-margherita-lanfranchi-zara`
+- [Marriage register — D. Daniele Addobbati & Margherita Lanfranchi, 22 November 1730, Zadar (Zara)](corpus/1730-marriage-addobbati-lanfranchi-zara/) — `1730-marriage-addobbati-lanfranchi-zara`
+- [Marriage register — Pietro Plarinò & Margherita Canova, 19 October 1732, Zadar (Zara)](corpus/1732-marriage-plarino-canova-zara/) — `1732-marriage-plarino-canova-zara`
+- [Baptism register — Maddalena Plarinò, born 4 [Jun?] 1736, baptized [8?] [Jun?] 1736, Duomo di Zara](corpus/1736-birth-maddalena-plarino-zara/) — `1736-birth-maddalena-plarino-zara`
+- [Baptism register — Anzolo Alloisio (Luigi) Addobbati, born 1 October 1744, baptized November 1744, Zadar (Zara)](corpus/1744-baptism-luigi-addobbati-zara/) — `1744-baptism-luigi-addobbati-zara`
+- [Death register — Margherita Lanfranchi (Addobbati), early 1749, Zadar (Zara)](corpus/1749-death-margherita-lanfranchi-addobbati-zara/) — `1749-death-margherita-lanfranchi-addobbati-zara`
+- [Marriage register — Simeone Guiseppe Boara & Maria Teresa Robustella, 29 October 1763, Zadar (Zara)](corpus/1763-marriage-boara-robustella-zara/) — `1763-marriage-boara-robustella-zara`
+- [Marriage register — Luigi Addobbati & Maddalena Plarinò, p. 163, 4 April 1766, Zadar (Zara)](corpus/1766-marriage-addobbati-plarino-zara/) — `1766-marriage-addobbati-plarino-zara`
+- [Marriage register — Paletta × Pettessich, 1776, Zadar (Zara)](corpus/1776-marriage-paletta-pettessich-zara/) — `1776-marriage-paletta-pettessich-zara`
+- [Marriage register — Castellanich × Paletta, 1796, Zadar (Zara)](corpus/1796-marriage-castellanich-paletta-zara/) — `1796-marriage-castellanich-paletta-zara`
+- [Birth register — Anastasia Castellanich, Zadar (Zara), 1799](corpus/1799-birth-anastasia-castellanich-zara/) — `1799-birth-anastasia-castellanich-zara`
+- [Marriage register — Vincenzo Addobbati & Vincenza Coltelli, Entry nº 13, 25 February 1811, Zadar (Zara)](corpus/1811-marriage-addobbati-coltelli-zara/) — `1811-marriage-addobbati-coltelli-zara`
+- [Marriage register — Giuseppe Rovaro Brizzi & Anastasia Castellanich, 25 August 1821, Zadar (Zara)](corpus/1821-marriage-rovaro-brizzi-castellanich-zara/) — `1821-marriage-rovaro-brizzi-castellanich-zara`
+- [Birth register — Gerarda Maria (Geralda) Rovaro Brizzi, Entry 107, 12 July 1825, Zadar (Zara)](corpus/1825-birth-geralda-rovaro-brizzi-zara/) — `1825-birth-geralda-rovaro-brizzi-zara`
+- [Marriage register — Pietro Paolo Addobbati & Gerarda (Geralda) Rovero Brizzi, 26 October 1845, Zadar (Zara)](corpus/1845-marriage-addobbati-rovaro-brizzi-zara/) — `1845-marriage-addobbati-rovaro-brizzi-zara`
+- [Marriage register — Simeone Vincenzo Boara & Vittoria Elisa Carobbi, 8 August 1849, Sv. Šime, Zadar (Zara)](corpus/1849-marriage-boara-carobbi-zara/) — `1849-marriage-boara-carobbi-zara`
 - [Birth register — Antonio Giacomo Vincenzo Zerauschek, 15 March 1850, Zadar (Zara)](corpus/1850-birth-antonio-zerauschek-sr-zara/) — `1850-birth-antonio-zerauschek-sr-zara`
 - [Marriage register — Giuseppe (Biagio) Zerauschek & Antonia Maria Guerino, 24 August 1850, Zadar (Zara)](corpus/1850-marriage-zerauschek-guerino-zara/) — `1850-marriage-zerauschek-guerino-zara`
+- [Death register — Casimiro Carobbi, 5 April 1866, Zadar (Zara)](corpus/1866-death-casimiro-carobbi-zara/) — `1866-death-casimiro-carobbi-zara`
+- [Marriage register — Antonio Zerauschek (sr.) & Anna Herenda, Entry N. 8, 26 January 1878, Pago (Pag)](corpus/1878-marriage-zerauschek-herenda-pag/) — `1878-marriage-zerauschek-herenda-pag`
 - [Birth / baptism register — Antonio Carlo Giovanni Battista Zerauschek, 24 June 1889 (bapt. 1 Jan 1890), Zadar (Zara)](corpus/1889-birth-antonio-zerauschek-jr-zara/) — `1889-birth-antonio-zerauschek-jr-zara`
+- [Marriage register — Pietro Pio Addobbati & Ottilia Anna Vincenza Boara, Entry N. 8, 12 February 1890, Basilica Metropolitana di Zara](corpus/1890-marriage-addobbati-boara-zara/) — `1890-marriage-addobbati-boara-zara`
 - [Simeon(e) Addobbati — Kriegsarchiv / ÖStA typescript excerpts, Zara 1926 letter, grave (PNG)](corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/) — `addobbati-simeone-oesta-kriegsarchiv-excerpts`
 - [Antonio Zerauschek obituary — ZARA (A.N.D.A.Z.), Apr–May 1973](corpus/andaz-zara-1973-antonio-zerauschek-obituary/) — `andaz-zara-1973-antonio-zerauschek-obituary`
 - [ARHiNET — Općina Nin (fond HR-DAZD-12), Državni arhiv u Zadru](corpus/arhinet-hr-dazd-12-opcina-nin/) — `arhinet-hr-dazd-12-opcina-nin`
 - [Celić — Zadarsko plemstvo i građanstvo početkom francuske uprave u Dalmaciji (Radovi HAZU Zadar, 2014)](corpus/celic-zadarsko-plemstvo-francuska-uprava/) — `celic-zadarsko-plemstvo-francuska-uprava`
+- [certi-ricordi-zerauschek-addobbati](corpus/certi-ricordi-zerauschek-addobbati/) — `certi-ricordi-zerauschek-addobbati`
 - [Dalbello — Gli albori consolari italiani (mentions I.R. postal assistant, Venetian civic families in Dalmatia)](corpus/dalbello-consular-italiani-spalato/) — `dalbello-consular-italiani-spalato`
 - [DAZD HR-DAZD-342 — Obitelj Addobbati family fonds inventory (1732–1930)](corpus/dazd-addobbati-family-fonds/) — `dazd-addobbati-family-fonds`
 - [DAZD HR-DAZD-355 — Obitelj Filippi (analytical inventory)](corpus/dazd-hr-dazd-355-filippi-family/) — `dazd-hr-dazd-355-filippi-family`
@@ -177,12 +206,19 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Baptism of Antoinette Stump, 3 February 1874, Tallinn Dome Church](corpus/1874-baptism-antoinette-stump-tallinn/) — `1874-baptism-antoinette-stump-tallinn`
 - [Burial of Jean Jaque Herman Eugen Stump, 10 May 1874, Tallinn Dome Church](corpus/1874-burial-jean-jaque-stump-tallinn/) — `1874-burial-jean-jaque-stump-tallinn`
 - [Baptism of Étienne Marc Theodore Stump, 6 April 1880, Tallinn Dome Church](corpus/1880-baptism-etienne-stump-tallinn/) — `1880-baptism-etienne-stump-tallinn`
+- [augustin-stump-baptism-1628](corpus/augustin-stump-baptism-1628/) — `augustin-stump-baptism-1628`
 - [AustriaWiki: Eugen Edmund Erbe](corpus/austria-wiki-eugen-edmund-erbe/) — `austria-wiki-eugen-edmund-erbe`
 - [BBLD: Erbe, Eugen Edmund Eduard (1847-1908)](corpus/bbld-erbe-eugen-edmund-eduard-gnd1173663347/) — `bbld-erbe-eugen-edmund-eduard-gnd1173663347`
 - [BBLD: Erbe, Eugen Karl Eberhard (1897-1965)](corpus/bbld-erbe-eugen-karl-eberhard-gnd1213595010/) — `bbld-erbe-eugen-karl-eberhard-gnd1213595010`
 - [BBLD: Erbe, Hermann Eberhard (1814-1872)](corpus/bbld-erbe-hermann-eberhard-gnd1203190484/) — `bbld-erbe-hermann-eberhard-gnd1203190484`
 - [BBLD: Landesen, Carl v. (1802-1883)](corpus/bbld-landesen-carl-v-gnd1229738681/) — `bbld-landesen-carl-v-gnd1229738681`
 - [دندانساز اتابک و دندانپزشک احمدشاه — Dr. Stump (Ashtump), dentist of Atabak and Ahmad Shah](corpus/beytoote-stump-dentist-atabak-ahmadshah/) — `beytoote-stump-dentist-atabak-ahmadshah`
+- [blaesi-stump-burial-1629](corpus/blaesi-stump-burial-1629/) — `blaesi-stump-burial-1629`
+- [blasius-stump-christening-1631](corpus/blasius-stump-christening-1631/) — `blasius-stump-christening-1631`
+- [caspar-stump-baptism-1662](corpus/caspar-stump-baptism-1662/) — `caspar-stump-baptism-1662`
+- [caspar-stump-marriage-anna-schuemperli](corpus/caspar-stump-marriage-anna-schuemperli/) — `caspar-stump-marriage-anna-schuemperli`
+- [conradt-stumpp-burial-1560](corpus/conradt-stumpp-burial-1560/) — `conradt-stumpp-burial-1560`
+- [cunrat-stump-family-1534](corpus/cunrat-stump-family-1534/) — `cunrat-stump-family-1534`
 - [Wikipedia (de): Eugen Edmund Erbe](corpus/de-wikipedia-eugen-edmund-erbe/) — `de-wikipedia-eugen-edmund-erbe`
 - [Judge Scores Dental School — Refuses Mandamus for License to a German-American College Graduate (Chicago Tribune, 10 Aug 1902, repr. Dental Register)](corpus/dental-register-stump-mandamus-1902/) — `dental-register-stump-mandamus-1902`
 - [Deutsche Biographie: Hermann Erbe (GND 1203190484)](corpus/deutsche-biographie-hermann-erbe-gnd1203190484/) — `deutsche-biographie-hermann-erbe-gnd1203190484`
@@ -190,13 +226,19 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [DIGAR reader: Revalsche Zeitung nr. 19, 23 January 1908 (HTML shell)](corpus/digar-revalsche-zeitung-1908-01-23-nr19-reader/) — `digar-revalsche-zeitung-1908-01-23-nr19-reader`
 - [DIGAR: Revalsche Zeitung nr. 19, 23 January 1908 (full issue PDF)](corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/) — `digar-revalsche-zeitung-1908-01-23-nr19-static`
 - [EADB: memorial index entry (Hermann Erbe cluster)](corpus/eadb-erbe-hermann-memorial-65373/) — `eadb-erbe-hermann-memorial-65373`
+- [elsbeth-stump-baptism-1534](corpus/elsbeth-stump-baptism-1534/) — `elsbeth-stump-baptism-1534`
 - [Wikipedia (en): Eugen Edmund Eduard Erbe](corpus/en-wikipedia-eugen-edmund-eduard-erbe/) — `en-wikipedia-eugen-edmund-eduard-erbe`
 - [Estonian Biographical Center - Stump family research report 2005-09-01](corpus/estonian-biographical-center-stump-family-resear-856c90185e/) — `estonian-biographical-center-stump-family-resear-856c90185e`
 - [Wikipedia (et): Carl Friedrich Landesen](corpus/et-wikipedia-carl-friedrich-landesen/) — `et-wikipedia-carl-friedrich-landesen`
 - [Wikipedia (et): Eugen Erbe (sündik)](corpus/et-wikipedia-eugen-erbe-syndik/) — `et-wikipedia-eugen-erbe-syndik`
 - [Forever Russian — Stump extract (Henderson collection)](corpus/forever-russian-stump-extract/) — `forever-russian-stump-extract`
 - [hamshahri-mahmoudieh-stump](corpus/hamshahri-mahmoudieh-stump/) — `hamshahri-mahmoudieh-stump`
+- [hans-conrad-stump-baptism-1697](corpus/hans-conrad-stump-baptism-1697/) — `hans-conrad-stump-baptism-1697`
+- [hans-konrad-stump-baptism-1730](corpus/hans-konrad-stump-baptism-1730/) — `hans-konrad-stump-baptism-1730`
+- [hans-konrad-stump-marriage-anna-jung-1766](corpus/hans-konrad-stump-marriage-anna-jung-1766/) — `hans-konrad-stump-marriage-anna-jung-1766`
 - [HVTG — Kirchgemeinden und Pfarrbücher Thurgau](corpus/hvtg-kirchgemeinden-pfarrbuecher-thurgau/) — `hvtg-kirchgemeinden-pfarrbuecher-thurgau`
+- [jacob-stump-baptism-1606](corpus/jacob-stump-baptism-1606/) — `jacob-stump-baptism-1606`
+- [jacob-stumpp-christening-1594](corpus/jacob-stumpp-christening-1594/) — `jacob-stumpp-christening-1594`
 - [Petition Swiss Political Department Bern Russian Holy Synod church supplies WWI typed scan](corpus/petition-swiss-political-department-bern-russian-ee8fdb0857/) — `petition-swiss-political-department-bern-russian-ee8fdb0857`
 - [RA.EE Fotis: Eugen Erbe portrait record (viewer page)](corpus/raee-fotis-eugen-erbe-portrait-record/) — `raee-fotis-eugen-erbe-portrait-record`
 - [Estonian National Archives (Saaga) — Erbe / Eylandt archival references](corpus/saaga-eaa-erbe-eylandt-archival-refs/) — `saaga-eaa-erbe-eylandt-archival-refs`
@@ -235,6 +277,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [maltaramc-maunsell-thomas](corpus/maltaramc-maunsell-thomas/) — `maltaramc-maunsell-thomas`
 - [maltaramc-obrien-henry-joseph](corpus/maltaramc-obrien-henry-joseph/) — `maltaramc-obrien-henry-joseph`
 - [Medical Times and Gazette vol. 2 (July–December 1878)](corpus/medical-times-gazette-1878-vol2-july-december/) — `medical-times-gazette-1878-vol2-july-december`
+- [Medical Times Gazette 1878 Vol2 Test](corpus/medical-times-gazette-1878-vol2-test/) — `medical-times-gazette-1878-vol2-test`
 - [ncbi-history-indian-medical-service](corpus/ncbi-history-indian-medical-service/) — `ncbi-history-indian-medical-service`
 - [wikipedia-owen-beasley](corpus/wikipedia-owen-beasley/) — `wikipedia-owen-beasley`
 - [William O'Byrne White: regimental assignment & India postings (primary-source memo)](corpus/william-obyrne-white-regimental-india-primary-sources-memo/) — `william-obyrne-white-regimental-india-primary-sources-memo`
@@ -409,11 +452,39 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [2020-10-01 Sartip David Sakinian](corpus/2020-10-01-sartip-david-sakinian-172b364799/) — `2020-10-01-sartip-david-sakinian-172b364799`
 - [2020-10-01 Sartip David Sakinian 2](corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/) — `2020-10-01-sartip-david-sakinian-2-c6ecff59d2`
 - [Baptism of David Lewis, Aberavon, 11 August 1857](corpus/aberavon-baptism-david-lewis-1857/) — `aberavon-baptism-david-lewis-1857`
+- [anna-margaretha-jung-baptism-1731](corpus/anna-margaretha-jung-baptism-1731/) — `anna-margaretha-jung-baptism-1731`
+- [antoine-chenevard-burial-1733](corpus/antoine-chenevard-burial-1733/) — `antoine-chenevard-burial-1733`
 - [Las mujeres víctimas de la dictadura prisioneras en el Estadio Nacional: Conózca en exclusiva los nombres de 405 detenidas en el principal coliseo deportivo en 1973](corpus/cambio21-405-mujeres-estadio-nacional-2018/) — `cambio21-405-mujeres-estadio-nacional-2018`
 - [Estad(i)o Nacional de Chile: más de 400 mujeres detenidas](corpus/cctt-mujeres-estadio-nacional-2018/) — `cctt-mujeres-estadio-nacional-2018`
+- [chile-cerpa-line-extension-2026](corpus/chile-cerpa-line-extension-2026/) — `chile-cerpa-line-extension-2026`
+- [Chilean ESCOBAR Family Line Extension: Zoraida Escobar to Pablo Escobar (1746-present)](corpus/chile-escobar-line-extension-2026/) — `chile-escobar-line-extension-2026`
+- [Chilean GONZÁLEZ Family Line Extension: Ana González to José González (1740s-present)](corpus/chile-gonzalez-line-extension-2026/) — `chile-gonzalez-line-extension-2026`
+- [chile-perez-line-extension-2026](corpus/chile-perez-line-extension-2026/) — `chile-perez-line-extension-2026`
+- [dumartheray-borel-family-extension](corpus/dumartheray-borel-family-extension/) — `dumartheray-borel-family-extension`
+- [early-montagnon-montard-lineage-1550s-1630s](corpus/early-montagnon-montard-lineage-1550s-1630s/) — `early-montagnon-montard-lineage-1550s-1630s`
 - [fa-wikipedia-vaqaye-ettefaqiye](corpus/fa-wikipedia-vaqaye-ettefaqiye/) — `fa-wikipedia-vaqaye-ettefaqiye`
 - [family-register-louis-montagnon-dumartheray](corpus/family-register-louis-montagnon-dumartheray/) — `family-register-louis-montagnon-dumartheray`
+- [francois-montagnon-baptism-1667](corpus/francois-montagnon-baptism-1667/) — `francois-montagnon-baptism-1667`
+- [fs-62xx-m8w7-rosario-mendez-death-1826](corpus/fs-62xx-m8w7-rosario-mendez-death-1826/) — `fs-62xx-m8w7-rosario-mendez-death-1826`
+- [Jose Antonio Cerpa + Tomasa Mendez Marriage Connection](corpus/fs-6b3d-lt13-jose-antonio-cerpa-tomasa-mendez/) — `fs-6b3d-lt13-jose-antonio-cerpa-tomasa-mendez`
+- [Manuela Cerpa Muñoz (1764-1844) Maule Region Burial](corpus/fs-6bv5-21lg-manuela-cerpa-munoz-1764/) — `fs-6bv5-21lg-manuela-cerpa-munoz-1764`
+- [fs-6d5z-j9vz-jose-callapan-manuela-millacoyan-baptism-1797](corpus/fs-6d5z-j9vz-jose-callapan-manuela-millacoyan-baptism-1797/) — `fs-6d5z-j9vz-jose-callapan-manuela-millacoyan-baptism-1797`
+- [fs-6jlx-q9q9-blas-cerpa-death-1888](corpus/fs-6jlx-q9q9-blas-cerpa-death-1888/) — `fs-6jlx-q9q9-blas-cerpa-death-1888`
+- [Juan Cerpa Farias (1744-1809) Colonial Death Record](corpus/fs-6ppw-trcg-juan-cerpa-farias-1744/) — `fs-6ppw-trcg-juan-cerpa-farias-1744`
+- [fs-6rq6-zsqw-ignacio-isabel-marriage-1818](corpus/fs-6rq6-zsqw-ignacio-isabel-marriage-1818/) — `fs-6rq6-zsqw-ignacio-isabel-marriage-1818`
+- [fs-6y8r-3qpv-isabel-mora-burial-1877](corpus/fs-6y8r-3qpv-isabel-mora-burial-1877/) — `fs-6y8r-3qpv-isabel-mora-burial-1877`
 - [FamilySearch: Estonia Church Books — Eylandt / Busse family records](corpus/fs-estonia-church-books-eylandt-busse/) — `fs-estonia-church-books-eylandt-busse`
+- [fs-q241-2cj8-juan-gonzalez-cardenas-death-1898](corpus/fs-q241-2cj8-juan-gonzalez-cardenas-death-1898/) — `fs-q241-2cj8-juan-gonzalez-cardenas-death-1898`
+- [fs-q241-8dl9-bruno-cerpa-death-1894](corpus/fs-q241-8dl9-bruno-cerpa-death-1894/) — `fs-q241-8dl9-bruno-cerpa-death-1894`
+- [fs-q241-8hv9-francisco-cerpa-death-1895](corpus/fs-q241-8hv9-francisco-cerpa-death-1895/) — `fs-q241-8hv9-francisco-cerpa-death-1895`
+- [fs-q241-cbb4-fabian-cerpa-death-1888](corpus/fs-q241-cbb4-fabian-cerpa-death-1888/) — `fs-q241-cbb4-fabian-cerpa-death-1888`
+- [fs-q241-cyqs-ignacio-cerpa-death-1885](corpus/fs-q241-cyqs-ignacio-cerpa-death-1885/) — `fs-q241-cyqs-ignacio-cerpa-death-1885`
+- [fs-q24b-2dys-manuel-perez-death-1890](corpus/fs-q24b-2dys-manuel-perez-death-1890/) — `fs-q24b-2dys-manuel-perez-death-1890`
+- [fs-q24b-xnrs-ana-maria-gonzalez-death-1888](corpus/fs-q24b-xnrs-ana-maria-gonzalez-death-1888/) — `fs-q24b-xnrs-ana-maria-gonzalez-death-1888`
+- [fs-q24r-tz42-abraham-cerpa-birth-1890](corpus/fs-q24r-tz42-abraham-cerpa-birth-1890/) — `fs-q24r-tz42-abraham-cerpa-birth-1890`
+- [fs-q2sg-d46h-isabel-mora-mabricio-marianjel-death-1888](corpus/fs-q2sg-d46h-isabel-mora-mabricio-marianjel-death-1888/) — `fs-q2sg-d46h-isabel-mora-mabricio-marianjel-death-1888`
+- [fs-q2sg-mpw3-valentin-perez-death-1892](corpus/fs-q2sg-mpw3-valentin-perez-death-1892/) — `fs-q2sg-mpw3-valentin-perez-death-1892`
+- [fs-qvm2-fpmy-felipe-escobar-death-1895](corpus/fs-qvm2-fpmy-felipe-escobar-death-1895/) — `fs-qvm2-fpmy-felipe-escobar-death-1895`
 - [FamilySearch Family Tree — Pérez / Cerpa, Maule, Chile](corpus/fs-tree-perez-cerpa-chile/) — `fs-tree-perez-cerpa-chile`
 - [gap-chile-mujeres-estadio-nacional-2018](corpus/gap-chile-mujeres-estadio-nacional-2018/) — `gap-chile-mujeres-estadio-nacional-2018`
 - [gbopera-2009-telefoni-e-rose-sirmione-callas](corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/) — `gbopera-2009-telefoni-e-rose-sirmione-callas`
@@ -422,21 +493,33 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Hungaricana — Kriegs-Marine / Schematismus 1909, pp. 169–172 (Landwehr brigade excerpt)](corpus/hungaricana-kriegsmarine-schematismus-1909-pp169-172/) — `hungaricana-kriegsmarine-schematismus-1909-pp169-172`
 - [Hungaricana — Militär-Almanach/Schematismus 1887, pp. 471–472 (officer list excerpt)](corpus/hungaricana-militar-almanach-1887-pp471-472/) — `hungaricana-militar-almanach-1887-pp471-472`
 - [irishpapermoney-crisis-of-1820](corpus/irishpapermoney-crisis-of-1820/) — `irishpapermoney-crisis-of-1820`
+- [jean-gabriel-dumartheray-baptism-1753](corpus/jean-gabriel-dumartheray-baptism-1753/) — `jean-gabriel-dumartheray-baptism-1753`
+- [jean-jacques-dumartherey-baptism-1643](corpus/jean-jacques-dumartherey-baptism-1643/) — `jean-jacques-dumartherey-baptism-1643`
+- [jean-pierre-montagnon-burial-1737](corpus/jean-pierre-montagnon-burial-1737/) — `jean-pierre-montagnon-burial-1737`
+- [jehan-jacque-borrel-baptism-1599](corpus/jehan-jacque-borrel-baptism-1599/) — `jehan-jacque-borrel-baptism-1599`
+- [johannes-jung-baptism-1667](corpus/johannes-jung-baptism-1667/) — `johannes-jung-baptism-1667`
+- [johannes-mockh-baptism-1661](corpus/johannes-mockh-baptism-1661/) — `johannes-mockh-baptism-1661`
+- [johanns-jung-baptism-1631](corpus/johanns-jung-baptism-1631/) — `johanns-jung-baptism-1631`
 - [kbt-david-j-lewis-env-conservation-1978](corpus/kbt-david-j-lewis-env-conservation-1978/) — `kbt-david-j-lewis-env-conservation-1978`
 - [kbt-findthatcharity-company-record](corpus/kbt-findthatcharity-company-record/) — `kbt-findthatcharity-company-record`
 - [kbt-founder-lady-brunner-oxford-mail](corpus/kbt-founder-lady-brunner-oxford-mail/) — `kbt-founder-lady-brunner-oxford-mail`
 - [keep-britain-tidy-history](corpus/keep-britain-tidy-history/) — `keep-britain-tidy-history`
 - [keep-britain-tidy-wikipedia](corpus/keep-britain-tidy-wikipedia/) — `keep-britain-tidy-wikipedia`
+- [Naturalisation certificate of George Knecht, 1864](corpus/knecht-george-naturalisation-1864/) — `knecht-george-naturalisation-1864`
 - [Joško Kovačić: Rod Machiedo sa Hvara (Prilozi povijesti otoka Hvara XII/1, 2014, 225–248)](corpus/kovacic-2014-rod-machiedo-hvar/) — `kovacic-2014-rod-machiedo-hvar`
 - [L'Adige — Lewis lace collection sold to Provincia di Trento (Dec 2006, two articles)](corpus/ladige-2006-lewis-lace-collection-trento/) — `ladige-2006-lewis-lace-collection-trento`
 - [loc-authority-keep-britain-tidy-group](corpus/loc-authority-keep-britain-tidy-group/) — `loc-authority-keep-britain-tidy-group`
 - [luxardo-history](corpus/luxardo-history/) — `luxardo-history`
 - [La prohibición de vivir en la patria: El exilio chileno 1973–1990](corpus/malaespina-exilio-chileno-1973-1990/) — `malaespina-exilio-chileno-1973-1990`
+- [margreth-mockh-baptism-1706](corpus/margreth-mockh-baptism-1706/) — `margreth-mockh-baptism-1706`
 - [Report on the Situation of Human Rights in Chile — Chapter VI(a): Right of Residence and Movement](corpus/oas-iachr-chile-1985-residence-movement/) — `oas-iachr-chile-1985-residence-movement`
 - [ÖStA/KA — Personenforschung im Kriegsarchiv (Merkblatt 1868–1918)](corpus/oesta-ka-personenforschung-merkblatt-1868-1918/) — `oesta-ka-personenforschung-merkblatt-1868-1918`
 - [ÖStA — Genealogie im Kriegsarchiv (Dec 2014 leaflet)](corpus/oesta-kriegsarchiv-genealogie-2014/) — `oesta-kriegsarchiv-genealogie-2014`
 - [ÖStA — k.k./k.u.k. Generale 1816–1918 (PDF)](corpus/oesta-kuk-generale-1816-1918/) — `oesta-kuk-generale-1816-1918`
 - [Obituary notices for Samuel Lewis (d. 7 Aug 1967)](corpus/samuel-lewis-obituary-notices-1967/) — `samuel-lewis-obituary-notices-1967`
+- [Simin Daneshvar, Savushun — English trans. M. R. Ghanoonparvar (Mage), pp. 366–367 (Dr. Schtomp, false teeth)](corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/) — `savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367`
+- [schuemperli-family-network-1590s-1625](corpus/schuemperli-family-network-1590s-1625/) — `schuemperli-family-network-1590s-1625`
+- [sebastien-montagnon-family-records](corpus/sebastien-montagnon-family-records/) — `sebastien-montagnon-family-records`
 - [Register of Marriages — St David's Church, Islington, 1912 (pages 6–7, entry 13)](corpus/st-davids-islington-marriage-evans-fensom-1912/) — `st-davids-islington-marriage-evans-fensom-1912`
 - [Nómina de Personas Reconocidas como Víctimas — Comisión Nacional sobre Prisión Política y Tortura (Valech I)](corpus/valech-i-nomina-victimas/) — `valech-i-nomina-victimas`
 - [Nómina de Prisioneros Políticos y Torturados — Comisión Asesora para la Calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura (Valech II, 2011)](corpus/valech-ii-nomina-victimas/) — `valech-ii-nomina-victimas`

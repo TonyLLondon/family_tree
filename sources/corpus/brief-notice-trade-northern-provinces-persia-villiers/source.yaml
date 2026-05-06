@@ -1,0 +1,12 @@
+id: brief-notice-trade-northern-provinces-persia-villiers
+title: A brief notice respecting the trade of the northern provinces of Persia, addressed to T. H. Villiers (1832)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-05-06T16:10:55Z'
+  sha256: 25f50d61a251005f23e2f24065d3e5d283933fdbf1f1055a3eedf2d28190355c
+  bytes: 842652
+  media_reference: manual/A brief notice respecting the trade of the northern provinces of Persia, addressed to T. H. Villiers.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: manual/A brief notice respecting the trade of the northern provinces of Persia, addressed to T. H. Villiers.pdf

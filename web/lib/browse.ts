@@ -3,7 +3,11 @@ import path from "path";
 import { readMarkdownFile as readMd, getStorySlugs } from "./content";
 import { repoPath } from "./paths";
 import { photoPublicPath } from "./photos";
-import { readScrollySidecar, resolveScrollySteps } from "./scrollytelling";
+import {
+  readScrollySidecar,
+  resolveScrapbookPages,
+  resolveScrollySteps,
+} from "./scrollytelling";
 
 /** Strip inline markdown formatting from a plain-text string. */
 export function stripInlineMarkdown(s: string): string {
@@ -193,14 +197,19 @@ export function buildAllStoryCards(): StoryCardInfo[] {
 
     if (sidecar) {
       const resolved = resolveScrollySteps(sidecar);
+      const firstStep = resolved[0];
+      const scrapbookCover = resolveScrapbookPages(sidecar)[0];
+      const heroImage =
+        firstStep?.media.src ?? scrapbookCover?.image ?? null;
+      const heroFocal = firstStep?.media.focal;
       return {
         slug,
         title: sidecar.hero.title,
         subtitle: sidecar.hero.subtitle,
         era: sidecar.hero.era,
         blurb,
-        heroImage: resolved[0]?.media.src ?? null,
-        heroFocal: resolved[0]?.media.focal,
+        heroImage,
+        heroFocal,
         href: `/stories/${encodeURIComponent(slug)}`,
       };
     }

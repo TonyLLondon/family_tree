@@ -4,7 +4,13 @@ import { MarkdownContent } from "@/components/MarkdownContent";
 import { PageShell } from "@/components/PageShell";
 import { getSourceSegmentLists, readMarkdownFile } from "@/lib/content";
 import { repoPath } from "@/lib/paths";
-import { getAllSourcePageSlugs, resolveSource } from "@/lib/sourceResolver";
+import {
+  getAllSourcePageSlugs,
+  resolveSource,
+  type FacsimileImage,
+  type SourceBodyContent,
+  type SourceSnippets,
+} from "@/lib/sourceResolver";
 import { getSourceBacklinks, type Backlink } from "@/lib/backlinks";
 import fs from "fs";
 import path from "path";
@@ -46,6 +52,26 @@ export default async function SourcePage({ params }: Props) {
 /*  Unified source page (single slug)                                  */
 /* ------------------------------------------------------------------ */
 
+const KIND_BADGES: Record<string, string> = {
+  pdf: "PDF",
+  web: "Web capture",
+  scan: "Scan",
+  image: "Image",
+  book: "Book",
+  "book-chapter": "Book chapter",
+  census: "Census",
+  "parish-register": "Parish register",
+  baptism: "Baptism record",
+  marriage: "Marriage record",
+  burial: "Burial record",
+  death: "Death record",
+  birth: "Birth record",
+  periodical: "Periodical",
+  spreadsheet: "Spreadsheet",
+  doc: "Document",
+  photo: "Photograph",
+};
+
 function UnifiedSourcePage({ slug }: { slug: string }) {
   const source = resolveSource(slug);
   if (!source) notFound();
@@ -55,48 +81,31 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
     source.corpusSlugs,
   );
 
-  const kindLabels: Record<string, string> = {
-    pdf: "PDF",
-    web: "Web capture",
-    scan: "Scan",
-    image: "Image",
-    book: "Book",
-    "book-chapter": "Book chapter",
-    census: "Census",
-    "parish-register": "Parish register",
-    baptism: "Baptism record",
-    periodical: "Periodical",
-    spreadsheet: "Spreadsheet",
-    doc: "Document",
-    photo: "Photograph",
-  };
-
-  const kind =
-    source.cardFrontmatter?.kind ??
-    source.cardFrontmatter?.source_type;
+  const kindRaw =
+    source.cardFrontmatter?.kind ?? source.cardFrontmatter?.source_type;
   const kindLabel =
-    typeof kind === "string"
-      ? kindLabels[kind] ?? kind.charAt(0).toUpperCase() + kind.slice(1)
+    typeof kindRaw === "string"
+      ? KIND_BADGES[kindRaw] ?? kindRaw.charAt(0).toUpperCase() + kindRaw.slice(1)
       : null;
 
   return (
     <PageShell title={source.title} hideHeader>
       <article className="mx-auto max-w-4xl">
-        {/* Header */}
+        {/* ---------------- Header ---------------- */}
         <header className="mb-8 border-b border-zinc-200 pb-6">
-          <div className="flex flex-wrap items-start gap-2">
-            {kindLabel && (
+          {kindLabel && (
+            <div className="flex flex-wrap items-start gap-2">
               <span className="inline-flex items-center rounded-md bg-sky-50 px-2 py-0.5 text-xs font-semibold text-sky-700 ring-1 ring-sky-200">
                 {kindLabel}
               </span>
-            )}
-          </div>
+            </div>
+          )}
           <h1 className="mt-3 text-3xl font-bold tracking-tight text-zinc-900">
             {source.title}
           </h1>
-          {source.provenance && (
+          {(source.provenance || source.pdfDownloadUrl) && (
             <div className="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm text-zinc-500">
-              {source.provenance.webpageUrl && (
+              {source.provenance?.webpageUrl && (
                 <a
                   href={source.provenance.webpageUrl}
                   target="_blank"
@@ -106,7 +115,7 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
                   Original source
                 </a>
               )}
-              {source.provenance.primaryPdfUrl && (
+              {source.provenance?.primaryPdfUrl && (
                 <a
                   href={source.provenance.primaryPdfUrl}
                   target="_blank"
@@ -116,68 +125,326 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
                   Original PDF
                 </a>
               )}
-              {source.provenance.fetchDate && (
+              {source.pdfDownloadUrl && !source.provenance?.primaryPdfUrl && (
+                <a
+                  href={source.pdfDownloadUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="underline decoration-zinc-300 hover:text-zinc-700"
+                >
+                  Download PDF
+                </a>
+              )}
+              {source.provenance?.fetchDate && (
                 <span>Fetched {source.provenance.fetchDate}</span>
               )}
             </div>
           )}
         </header>
 
-        {/* Referenced by — first, it's the main navigation value */}
+        {/* ---------------- Backlinks ---------------- */}
         {backlinks.length > 0 && <BacklinksSection backlinks={backlinks} />}
 
-        {/* Citation card content */}
+        {/* ---------------- Summary (citation card prose) ---------------- */}
         {source.cardContent && source.cardFilePath && (
           <section className="mb-10">
             <div className="prose prose-zinc max-w-none">
-              <MarkdownContent content={stripFirstH1(source.cardContent)} filePath={source.cardFilePath} />
-            </div>
-          </section>
-        )}
-
-        {/* Corpus evidence content (only if different from card) */}
-        {source.corpusContent && source.corpusContentFilePath && (
-          <section className="mb-10">
-            {source.cardContent && (
-              <h2 className="mb-4 text-xl font-bold text-zinc-900">
-                {source.corpusContentLabel ?? "Evidence"}
-              </h2>
-            )}
-            {source.isMachineExtract && (
-              <div className="mb-6 rounded-xl border border-amber-200/90 bg-amber-50 px-4 py-3 text-sm text-amber-950 shadow-sm ring-1 ring-amber-950/5">
-                <p className="m-0 font-medium leading-snug">
-                  This content is <strong className="font-semibold">machine-extracted</strong> from
-                  a PDF or web capture. OCR and layout conversion often produce broken words and
-                  stray symbols.
-                </p>
-              </div>
-            )}
-            <div className="prose prose-zinc max-w-none">
               <MarkdownContent
-                content={stripFirstH1(source.corpusContent)}
-                filePath={source.corpusContentFilePath}
+                content={stripFirstH1(source.cardContent)}
+                filePath={source.cardFilePath}
               />
             </div>
           </section>
         )}
 
-        {/* No content at all */}
-        {!source.cardContent && !source.corpusContent && (
-          <div className="mb-10 rounded-lg border border-dashed border-zinc-200 bg-zinc-50 px-4 py-8 text-center text-zinc-500">
-            No content available for this source yet.
-          </div>
+        {/* ---------------- Facsimile gallery ---------------- */}
+        {source.facsimiles.length > 0 && (
+          <FacsimileGallery facsimiles={source.facsimiles} />
         )}
 
-        {/* Bundle files (collapsed) */}
-        {source.primaryCorpusSlug && source.bundleFiles.length > 0 && (
-          <BundleFilesSection
-            slug={source.primaryCorpusSlug}
-            files={source.bundleFiles}
-            subdirs={source.bundleSubdirs}
+        {/* ---------------- Tier C / C+ excerpts (per-hit transcription paired with page images) ---------------- */}
+        {source.snippets && (
+          <SnippetsSection snippets={source.snippets} />
+        )}
+
+        {/* ---------------- Transcription (original-language, e.g. Italian) ---------------- */}
+        {source.original && (
+          <BodySection
+            body={source.original}
+            heading="Transcription"
+            tone="primary"
           />
         )}
+
+        {/* ---------------- Translation (English) ---------------- */}
+        {source.translation && (
+          <BodySection
+            body={source.translation}
+            heading="Translation"
+            tone="primary"
+          />
+        )}
+
+        {/* ---------------- Notes, depth & cross-references (English commentary) ---------------- */}
+        {source.reference && (
+          <BodySection
+            body={source.reference}
+            heading="Context & cross-references"
+            tone="secondary"
+          />
+        )}
+
+        {/* ---------------- Machine extract (with warning) ---------------- */}
+        {source.extract && (
+          <BodySection
+            body={source.extract}
+            heading={source.extract.label}
+            tone="secondary"
+            machine
+            collapsible
+          />
+        )}
+
+        {/* ---------------- Empty state ---------------- */}
+        {!source.cardContent &&
+          !source.translation &&
+          !source.original &&
+          !source.reference &&
+          !source.extract &&
+          !source.snippets &&
+          source.facsimiles.length === 0 && (
+            <div className="mb-10 rounded-lg border border-dashed border-zinc-200 bg-zinc-50 px-4 py-8 text-center text-zinc-500">
+              No content available for this source yet.
+            </div>
+          )}
       </article>
     </PageShell>
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/*  Facsimile gallery                                                  */
+/* ------------------------------------------------------------------ */
+
+function FacsimileGallery({ facsimiles }: { facsimiles: FacsimileImage[] }) {
+  return (
+    <section className="mb-10">
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+        {facsimiles.map((f) => (
+          <figure
+            key={f.src}
+            className={
+              facsimiles.length === 1
+                ? "col-span-full"
+                : f.primary
+                  ? "col-span-full sm:col-span-2"
+                  : ""
+            }
+          >
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <a
+              href={f.src}
+              target="_blank"
+              rel="noreferrer"
+              className="block overflow-hidden rounded-lg border border-zinc-200 bg-zinc-50 transition hover:shadow-md"
+            >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={f.src}
+                alt={f.alt}
+                className="h-auto w-full object-contain"
+                loading="lazy"
+              />
+            </a>
+            {f.alt && (
+              <figcaption className="mt-1.5 text-xs text-zinc-500">
+                {f.alt}
+              </figcaption>
+            )}
+          </figure>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/*  Snippets section (Tier C / C+ — per-hit transcription + image)    */
+/* ------------------------------------------------------------------ */
+
+function SnippetsSection({ snippets }: { snippets: SourceSnippets }) {
+  const headingSuffix =
+    snippets.focus && snippets.focus.terms.length > 0
+      ? ` · focus: ${snippets.focus.terms.map((t) => `"${t}"`).join(", ")}`
+      : "";
+
+  return (
+    <section className="mb-10">
+      <h2 className="mb-2 text-2xl font-bold text-zinc-900">
+        Excerpts
+        <span className="ml-2 text-sm font-normal text-zinc-500">
+          · {snippets.hits.length}{" "}
+          {snippets.hits.length === 1 ? "hit" : "hits"}
+          {headingSuffix}
+        </span>
+      </h2>
+      <p className="mb-6 text-sm text-zinc-500">
+        Selective extraction from a long document. Each excerpt below is the
+        portion of the page that mentions the focus term, with the rendered
+        page image alongside.
+      </p>
+
+      {snippets.body && (
+        <div className="prose prose-zinc mb-8 max-w-none">
+          <MarkdownContent
+            content={stripFirstH1(snippets.body.content)}
+            filePath={snippets.body.filePath}
+          />
+        </div>
+      )}
+
+      {snippets.hits.length > 0 && (
+        <ol className="space-y-8">
+          {snippets.hits.map((h) => (
+            <li
+              key={h.id}
+              className="rounded-xl border border-zinc-200 bg-white p-4 shadow-sm"
+            >
+              <div className="mb-3 flex flex-wrap items-baseline gap-x-3 gap-y-1">
+                <span className="rounded bg-zinc-100 px-2 py-0.5 text-[11px] font-bold uppercase tracking-wider text-zinc-600">
+                  {h.id}
+                </span>
+                <span className="text-sm font-semibold text-zinc-800">
+                  Page {h.anchorPage}
+                </span>
+                {h.terms.length > 0 && (
+                  <span className="text-xs text-zinc-500">
+                    matched: {h.terms.map((t) => `"${t}"`).join(", ")}
+                  </span>
+                )}
+              </div>
+
+              <div className="grid gap-4 lg:grid-cols-[3fr_2fr]">
+                <div className="space-y-2">
+                  {h.imageUrls.length > 0 ? (
+                    h.imageUrls.map((src) => (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <a
+                        key={src}
+                        href={src}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="block overflow-hidden rounded-lg border border-zinc-200 bg-zinc-50 transition hover:shadow-md"
+                      >
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          src={src}
+                          alt={`Page ${h.anchorPage} (rendered)`}
+                          className="h-auto w-full object-contain"
+                          loading="lazy"
+                        />
+                      </a>
+                    ))
+                  ) : (
+                    <div className="rounded-lg border border-dashed border-zinc-200 bg-zinc-50 px-4 py-8 text-center text-xs text-zinc-500">
+                      No page image rendered yet.
+                    </div>
+                  )}
+                </div>
+
+                <div className="text-sm">
+                  {h.preview && (
+                    <p className="mb-2 italic text-zinc-600">
+                      &ldquo;{h.preview}&rdquo;
+                    </p>
+                  )}
+                  <p className="text-xs text-zinc-500">
+                    Search aid only — text-layer / OCR slice. The transcription
+                    above (when present) is what the agent read from the page
+                    image.
+                  </p>
+                </div>
+              </div>
+            </li>
+          ))}
+        </ol>
+      )}
+    </section>
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/*  Body section (one for each of translation / original / reference) */
+/* ------------------------------------------------------------------ */
+
+function BodySection({
+  body,
+  heading,
+  tone,
+  collapsible = false,
+  machine = false,
+}: {
+  body: SourceBodyContent;
+  heading: string;
+  tone: "primary" | "secondary";
+  collapsible?: boolean;
+  machine?: boolean;
+}) {
+  const inner = (
+    <>
+      {machine && (
+        <div className="mb-6 rounded-xl border border-amber-200/90 bg-amber-50 px-4 py-3 text-sm text-amber-950 shadow-sm ring-1 ring-amber-950/5">
+          <p className="m-0 font-medium leading-snug">
+            This content is <strong className="font-semibold">machine-extracted</strong>{" "}
+            from a PDF or web capture. OCR and layout conversion often produce broken
+            words and stray symbols.
+          </p>
+        </div>
+      )}
+      <div className="prose prose-zinc max-w-none">
+        <MarkdownContent
+          content={stripFirstH1(body.content)}
+          filePath={body.filePath}
+        />
+      </div>
+    </>
+  );
+
+  const headerClass =
+    tone === "primary"
+      ? "mb-4 text-2xl font-bold text-zinc-900"
+      : "mb-4 text-xl font-bold text-zinc-900";
+
+  if (collapsible) {
+    return (
+      <section className="mb-10">
+        <details className="group rounded-xl border border-zinc-200 bg-white">
+          <summary className="cursor-pointer select-none px-5 py-3 text-base font-semibold text-zinc-800 hover:text-zinc-950">
+            {heading}
+            {body.language && (
+              <span className="ml-2 text-sm font-normal text-zinc-500">
+                · {body.label}
+              </span>
+            )}
+          </summary>
+          <div className="border-t border-zinc-200 px-5 py-5">{inner}</div>
+        </details>
+      </section>
+    );
+  }
+
+  return (
+    <section className="mb-10">
+      <h2 className={headerClass}>
+        {heading}
+        {body.language && (
+          <span className="ml-2 text-sm font-normal text-zinc-500">
+            · {body.label}
+          </span>
+        )}
+      </h2>
+      {inner}
+    </section>
   );
 }
 
@@ -212,64 +479,6 @@ function BacklinksSection({ backlinks }: { backlinks: Backlink[] }) {
         ))}
       </div>
     </section>
-  );
-}
-
-/* ------------------------------------------------------------------ */
-/*  Bundle files section (collapsed)                                   */
-/* ------------------------------------------------------------------ */
-
-function BundleFilesSection({
-  slug,
-  files,
-  subdirs,
-}: {
-  slug: string;
-  files: string[];
-  subdirs: string[];
-}) {
-  return (
-    <details className="group mb-10 rounded-xl border border-zinc-200 bg-zinc-50">
-      <summary className="cursor-pointer select-none px-4 py-3 text-sm font-semibold text-zinc-700 hover:text-zinc-900">
-        <span className="ml-1">Bundle files</span>
-        <span className="ml-2 text-xs font-normal text-zinc-400">
-          sources/corpus/{slug}/
-        </span>
-      </summary>
-      <div className="border-t border-zinc-200 px-4 py-3">
-        {subdirs.length > 0 && (
-          <div className="mb-3">
-            <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-zinc-500">
-              Folders
-            </p>
-            <ul className="list-disc pl-5 text-sm text-zinc-600">
-              {subdirs.map((d) => (
-                <li key={d}>{d}</li>
-              ))}
-            </ul>
-          </div>
-        )}
-        <ul className="space-y-1 text-sm">
-          {files.map((name) => {
-            const isRenderable = /\.(md|yaml|yml)$/i.test(name);
-            const rel = `sources/corpus/${slug}/${name}`;
-            const href = isRenderable
-              ? `/view/${rel.split("/").map(encodeURIComponent).join("/")}`
-              : `/files/${rel.split("/").map(encodeURIComponent).join("/")}`;
-            return (
-              <li key={name}>
-                <Link
-                  href={href}
-                  className="text-sky-700 hover:underline dark:text-sky-400"
-                >
-                  {name}
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
-      </div>
-    </details>
   );
 }
 

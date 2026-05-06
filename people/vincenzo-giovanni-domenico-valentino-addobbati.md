@@ -40,7 +40,7 @@ He died in Zara on 28 January 1839. The 1845 marriage of his posthumous “voice
 ## Evidence
 
 - **Sabalich, *Guida archeologica di Zara* (1897), p. 508:** “Vincenzo Addobbati q m Luigi (nato 1776)” — parentage confirmed; birth year 1776 **superseded** by 1811 register and DAZD (24 Mar 1781) — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
-- **Marriage register, Entry nº 13, 25 Feb 1811:** age “d'anni 30 c.a”, ceremony in bride's house, five civic witnesses; father “fù Luigi”, mother “fù Maddalena Plavina” — [media/collections/zerauschek/Zerauschek (1)/Matrimonio Addobbati Coltelli Zara 1811.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Matrimonio%20Addobbati%20Coltelli%20Zara%201811.jpg).
+- **Marriage register, Entry nº 13, 25 Feb 1811:** age “d'anni 30 c.a”, ceremony in bride's house, five civic witnesses; father “fù Luigi”, mother “fù Maddalena Plavina” — [corpus](../sources/corpus/1811-marriage-addobbati-coltelli-zara/reference.md).
 - **Sabalich p. 505:** 1804 Nin diploma: “D.r Petri et Joanes Vincentis fratres Addobbati q m Aloysium.”
 - **Granić 1817 Nin list:** Ivan Vicko Addobbati (son of Lujo) among 1804 admissions; sons Petar and Josip in 1817 generation — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) → [corpus/granic-nin-noble-list-1817/](../sources/corpus/granic-nin-noble-list-1817/).
 - **DAZD family fonds (HR-DAZD-342):** sig. 19 — 1 July 1804 Nin municipal confirmation — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).

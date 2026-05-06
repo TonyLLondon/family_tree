@@ -39,6 +39,6 @@ Mother of [Ester Addobbati](ester-addobbati.md); wife of [Pietro Pio Addobbati](
 ### Documents
 
 - **Tree id:** **I21** — unions **F10** (with Pietro Pio), parental **F11**; MyHeritage record URL in the working tree's `SOUR` metadata.
-- **Marriage register, Entry N. 8, 12 Feb 1890 (Basilica Metropolitana, Zara):** "Boara Ottilia Anna Vincenza, Civile, nata li 14 Aprile 1865"; parents Simeone Boara (Possidente, Vivente) and Vittoria Carobbi (Vivente) — [media/collections/zerauschek/Zerauschek (1)/Marriage Addobbati Boara Zara 1890.jpg](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Addobbati%20Boara%20Zara%201890.jpg).
+- **Marriage register, Entry N. 8, 12 Feb 1890 (Basilica Metropolitana, Zara):** "Boara Ottilia Anna Vincenza, Civile, nata li 14 Aprile 1865"; parents Simeone Boara (Possidente, Vivente) and Vittoria Carobbi (Vivente) — [corpus](../sources/corpus/1890-marriage-addobbati-boara-zara/reference.md).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — "my Nonna Ottilia Boara"; borrowing from Casimiro and Carmela Boara; sending a daughter each month.
 - Boara / Zara narrative hooks: [stories/zerauschek-zadar.md](../stories/zerauschek-zadar.md).

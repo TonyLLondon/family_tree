@@ -7,8 +7,8 @@ birth_place: Inchigeelagh, County Cork, Ireland
 died: 1929-06-12
 death_place: Little Sisters of the Poor, Cork City, Ireland
 sex: male
-father: michael-shea
-mother: norry-buckley
+father: michael-shea-i574
+mother: norry-buckley-i575
 spouses:
   - catherine-enright
 children:

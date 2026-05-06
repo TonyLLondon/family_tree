@@ -13,8 +13,6 @@ register_note: "LIBRO DEGLI ATTI DI NASCITA, page 83"
 
 Parish birth entry **54**, **15 March 1850**, cathedral of **Sv. Stošija**, **Zadar** (Zara).
 
-**Local image:** [Birth Antonio Zerauschek Sr. Zara 1850.jpg](../../media/collections/zerauschek/Zerauschek%20(1)/Birth%20Antonio%20Zerauschek%20Sr.%20Zara%201850.jpg)
-
 ## Register transcription
 
 | Field | Value |
