@@ -1,6 +1,6 @@
 # Lewis / White / Roche / Obolensky — Ireland & chart corpus cluster
 
-Machine-ingested bundles for **Welsh–Irish–English** lines (census extracts, AncestryLibrary captures, MyHeritage chart PDFs, Limerick press, Obolensky notices). Use with [obrien-roche-notes.md](obrien-roche-notes.md), [roche-of-limerick-forgotten-victorians.md](roche-of-limerick-forgotten-victorians.md), [london-gazette-1870-white-1st-foot.md](london-gazette-1870-white-1st-foot.md), and person pages under the Lewis / White / Roche tree.
+Machine-ingested bundles for **Welsh–Irish–English** lines (census extracts, AncestryLibrary captures, MyHeritage chart PDFs, Limerick press, Obolensky notices). Use with [corpus/obrien-roche-url-offline-captures/](corpus/obrien-roche-url-offline-captures/) (legacy Roche web captures), [roche-of-limerick-forgotten-victorians.md](roche-of-limerick-forgotten-victorians.md), [london-gazette-1870-white-1st-foot.md](london-gazette-1870-white-1st-foot.md), and person pages under the Lewis / White / Roche tree.
 
 ## MyHeritage chart exports
 

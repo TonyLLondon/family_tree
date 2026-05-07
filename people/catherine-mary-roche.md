@@ -68,7 +68,6 @@ The 1883 marriage notice for Maria Josephine independently confirms the Burke's 
 ## Evidence
 
 - [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/).
-- [O'Brien / Roche notes](../sources/obrien-roche-notes.md).
 - [William Roche — full evidence list](william-roche.md) (obituary, Crown Solicitor appointment, sibling marriages).
 - **Tree id:** **I136** — union **F67** with William.
 

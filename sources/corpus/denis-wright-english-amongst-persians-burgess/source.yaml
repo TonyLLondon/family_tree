@@ -1,8 +1,19 @@
 id: denis-wright-english-amongst-persians-burgess
-title: "Denis Wright, The English Amongst the Persians — chapter 7 excerpt on Charles and Edward Burgess"
+title: Denis Wright — The English Amongst the Persians (Heinemann, 1977), chapter excerpt
+edition:
+  work: The English Amongst the Persians
+  imprint: Denis Wright — Heinemann (1977) — photocopy excerpt (personal holdings)
+physical_copy:
+  format: photocopy excerpt (7 contiguous pages spanning World of Business & Burgess material)
+processing_note: >-
+  Raster facsimiles in pages-png/ from vision tier; OCR machine extract appended as extracted.pdf.md
+  (pymupdf4llm + Tesseract, provisional).
 kind: pdf
+remote: {}
 files:
-  media_reference: manual/Scanned 5 May 2026 at 16_44_22.pdf
+  media_reference: media/docs/manual-scans-2026-05/denis-wright-english-amongst-the-persians-excerpt-scan.pdf
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
 extractions:
 - at: '2026-05-06T16:15:51Z'
   stage: render
@@ -28,3 +39,9 @@ extractions:
   - translation.en.md
   - reference.md
   verified: false
+fetches:
+- kind: pdf
+  at: '2026-05-07T09:48:47Z'
+  sha256: c1da8eb0abcdb12c60c41a9d20db3676533c3bb852fc10849b04b18ab56ec85e
+  bytes: 16536211
+  media_reference: media/docs/manual-scans-2026-05/denis-wright-english-amongst-the-persians-excerpt-scan.pdf

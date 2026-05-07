@@ -252,15 +252,18 @@ function PedigreeGlyph({
   children: string;
   sizePx?: number;
 }) {
+  const ch = String(children).trim();
   return (
     <span
       aria-hidden
       style={{
-        display: "inline-flex",
+        display: "flex",
+        boxSizing: "border-box",
         alignItems: "center",
         justifyContent: "center",
-        minWidth: sizePx,
-        minHeight: sizePx,
+        width: sizePx,
+        height: sizePx,
+        overflow: "hidden",
         color,
         fontSize: sizePx,
         fontWeight: 700,
@@ -269,9 +272,10 @@ function PedigreeGlyph({
         userSelect: "none",
         WebkitUserSelect: "none",
         pointerEvents: "none",
+        contain: "layout paint",
       }}
     >
-      {children}
+      {ch}
     </span>
   );
 }
@@ -301,11 +305,7 @@ function IconFocus() {
 }
 
 function IconCloseCard() {
-  return (
-    <PedigreeGlyph color={GLYPH_CLOSE} sizePx={18}>
-      ×
-    </PedigreeGlyph>
-  );
+  return <PedigreeGlyph color={GLYPH_CLOSE} sizePx={18}>×</PedigreeGlyph>;
 }
 
 /** Fixed square icon toggles (card width ~200px → four 32px chips fit in one row). */
@@ -706,7 +706,8 @@ function PedigreeChartLoaded({
                     />
                     <foreignObject x={0} y={0} width={CARD_W} height={CARD_H}>
                       {/* No position:absolute/relative, no backdrop-blur inside foreignObject — iOS WebKit
-                          mispositions absolutely-placed children and clips backdrop-filter content. */}
+                          mispositions absolutely-placed children and clips backdrop-filter content.
+                          overflow clip + isolation reduces duplicate glyph paint at SVG (0,0). */}
                       <div
                         data-no-pan=""
                         style={{
@@ -717,6 +718,10 @@ function PedigreeChartLoaded({
                           width: CARD_W,
                           padding: "10px 8px 6px 8px",
                           boxSizing: "border-box",
+                          overflow: "hidden",
+                          borderRadius: 12,
+                          position: "relative",
+                          isolation: "isolate",
                         }}
                         onPointerDown={(e) => e.stopPropagation()}
                       >
@@ -786,123 +791,133 @@ function PedigreeChartLoaded({
                             <IconCloseCard />
                           </button>
                         </div>
-                        <div className="min-h-0 flex-1" aria-hidden />
+                        <div aria-hidden="true" style={{ flex: 1, minHeight: 0, minWidth: 0 }} />
                         <div className="flex w-full shrink-0 flex-col gap-1">
                           {showParentsBtn || showChildrenBtn || showSiblingsBtn || showSpousesBtn ? (
                             <div className="flex w-full shrink-0 flex-wrap justify-center gap-1">
-                            {showParentsBtn ? (
-                              <button
-                                type="button"
-                                className={`${toolbarSq} ${urlState.parents.has(n.id) ? toolbarBtnOn : toolbarBtnIdle}`}
-                                title="Show or hide birth parents on the chart"
-                                aria-label="Toggle parents on chart"
-                                onClick={() => toggle("parents")}
-                              >
-                                <IconParents active={urlState.parents.has(n.id)} />
-                              </button>
-                            ) : null}
-                            {showChildrenBtn ? (
-                              <button
-                                type="button"
-                                className={`${toolbarSq} ${urlState.children.has(n.id) ? toolbarBtnOn : toolbarBtnIdle}`}
-                                title="Show or hide all children on the chart"
-                                aria-label="Toggle children on chart"
-                                onClick={() => toggle("children")}
-                              >
-                                <IconChildren active={urlState.children.has(n.id)} />
-                              </button>
-                            ) : null}
-                            {showSiblingsBtn ? (
-                              <button
-                                type="button"
-                                className={`${toolbarSq} ${urlState.siblings.has(n.id) ? toolbarBtnOn : toolbarBtnIdle}`}
-                                title="Show or hide siblings (same parents)"
-                                aria-label="Toggle siblings on chart"
-                                onClick={() => toggle("siblings")}
-                              >
-                                <IconSiblings active={urlState.siblings.has(n.id)} />
-                              </button>
-                            ) : null}
-                            {showSpousesBtn ? (
-                              <button
-                                type="button"
-                                className={`${toolbarSq} ${urlState.spouses.has(n.id) ? toolbarBtnOn : toolbarBtnIdle}`}
-                                title="Show or hide spouse(s) on the chart"
-                                aria-label="Toggle spouses on chart"
-                                onClick={() => toggle("spouses")}
-                              >
-                                <IconSpouse active={urlState.spouses.has(n.id)} />
-                              </button>
-                            ) : null}
+                              {[
+                                showParentsBtn ? (
+                                  <button
+                                    key="tb-parents"
+                                    type="button"
+                                    className={`${toolbarSq} ${urlState.parents.has(n.id) ? toolbarBtnOn : toolbarBtnIdle}`}
+                                    title="Show or hide birth parents on the chart"
+                                    aria-label="Toggle parents on chart"
+                                    onClick={() => toggle("parents")}
+                                  >
+                                    <IconParents active={urlState.parents.has(n.id)} />
+                                  </button>
+                                ) : null,
+                                showChildrenBtn ? (
+                                  <button
+                                    key="tb-children"
+                                    type="button"
+                                    className={`${toolbarSq} ${urlState.children.has(n.id) ? toolbarBtnOn : toolbarBtnIdle}`}
+                                    title="Show or hide all children on the chart"
+                                    aria-label="Toggle children on chart"
+                                    onClick={() => toggle("children")}
+                                  >
+                                    <IconChildren active={urlState.children.has(n.id)} />
+                                  </button>
+                                ) : null,
+                                showSiblingsBtn ? (
+                                  <button
+                                    key="tb-siblings"
+                                    type="button"
+                                    className={`${toolbarSq} ${urlState.siblings.has(n.id) ? toolbarBtnOn : toolbarBtnIdle}`}
+                                    title="Show or hide siblings (same parents)"
+                                    aria-label="Toggle siblings on chart"
+                                    onClick={() => toggle("siblings")}
+                                  >
+                                    <IconSiblings active={urlState.siblings.has(n.id)} />
+                                  </button>
+                                ) : null,
+                                showSpousesBtn ? (
+                                  <button
+                                    key="tb-spouses"
+                                    type="button"
+                                    className={`${toolbarSq} ${urlState.spouses.has(n.id) ? toolbarBtnOn : toolbarBtnIdle}`}
+                                    title="Show or hide spouse(s) on the chart"
+                                    aria-label="Toggle spouses on chart"
+                                    onClick={() => toggle("spouses")}
+                                  >
+                                    <IconSpouse active={urlState.spouses.has(n.id)} />
+                                  </button>
+                                ) : null,
+                              ].filter(Boolean)}
                             </div>
                           ) : null}
                           {lineChild || showFocusHere ? (
                             <div className="flex w-full shrink-0 justify-center gap-1">
-                              {lineChild ? (
-                                <button
-                                  type="button"
-                                  className={`${toolbarWide} min-w-0 flex-1 truncate ${toolbarLineChildBtn}`}
-                                  title={`Show or centre the direct-line child; chart focus (${urlState.focus}) stays the same.`}
-                                  aria-label={`Reveal or centre direct-line child ${lineChild.displayName ?? lineChild.id}`}
-                                  onClick={() => {
-                                    const cur = urlStateRef.current;
-                                    const parentId = n.id;
-                                    if (!cur.children.has(parentId)) {
-                                      const next = clonePedigreeUrlState(cur);
-                                      next.children.add(parentId);
-                                      next.dismissed.delete(lineChild.id);
-                                      pushUrlRef.current(
-                                        anchoredPedigreePan(tree, cur, next, lineChild.id, VIEW_W, VIEW_H, PAD),
-                                      );
-                                    } else {
-                                      const cleared = clonePedigreeUrlState(cur);
-                                      const hadDismissedChild = cleared.dismissed.delete(lineChild.id);
-                                      if (hadDismissedChild) {
+                              {[
+                                lineChild ? (
+                                  <button
+                                    key="tb-line"
+                                    type="button"
+                                    className={`${toolbarWide} min-w-0 flex-1 truncate ${toolbarLineChildBtn}`}
+                                    title={`Show or centre the direct-line child; chart focus (${urlState.focus}) stays the same.`}
+                                    aria-label={`Reveal or centre direct-line child ${lineChild.displayName ?? lineChild.id}`}
+                                    onClick={() => {
+                                      const cur = urlStateRef.current;
+                                      const parentId = n.id;
+                                      if (!cur.children.has(parentId)) {
+                                        const next = clonePedigreeUrlState(cur);
+                                        next.children.add(parentId);
+                                        next.dismissed.delete(lineChild.id);
                                         pushUrlRef.current(
-                                          anchoredPedigreePan(
-                                            tree,
-                                            cur,
-                                            cleared,
-                                            lineChild.id,
-                                            VIEW_W,
-                                            VIEW_H,
-                                            PAD,
-                                          ),
+                                          anchoredPedigreePan(tree, cur, next, lineChild.id, VIEW_W, VIEW_H, PAD),
                                         );
                                       } else {
-                                        pushUrlRef.current(
-                                          recenterPedigreeCameraOnPerson(
-                                            tree,
-                                            cur,
-                                            lineChild.id,
-                                            VIEW_W,
-                                            VIEW_H,
-                                            PAD,
-                                          ),
-                                        );
+                                        const cleared = clonePedigreeUrlState(cur);
+                                        const hadDismissedChild = cleared.dismissed.delete(lineChild.id);
+                                        if (hadDismissedChild) {
+                                          pushUrlRef.current(
+                                            anchoredPedigreePan(
+                                              tree,
+                                              cur,
+                                              cleared,
+                                              lineChild.id,
+                                              VIEW_W,
+                                              VIEW_H,
+                                              PAD,
+                                            ),
+                                          );
+                                        } else {
+                                          pushUrlRef.current(
+                                            recenterPedigreeCameraOnPerson(
+                                              tree,
+                                              cur,
+                                              lineChild.id,
+                                              VIEW_W,
+                                              VIEW_H,
+                                              PAD,
+                                            ),
+                                          );
+                                        }
                                       }
+                                    }}
+                                  >
+                                    <IconLineDown />
+                                    <span className="min-w-0 truncate">{lineChildButtonLabel(lineChild)}</span>
+                                  </button>
+                                ) : null,
+                                showFocusHere ? (
+                                  <button
+                                    key="tb-focus"
+                                    type="button"
+                                    className={
+                                      lineChild
+                                        ? `${toolbarSq} ${toolbarBtnIdle}`
+                                        : `${toolbarWide} flex-1 ${toolbarBtnIdle}`
                                     }
-                                  }}
-                                >
-                                  <IconLineDown />
-                                  <span className="min-w-0 truncate">{lineChildButtonLabel(lineChild)}</span>
-                                </button>
-                              ) : null}
-                              {showFocusHere ? (
-                                <button
-                                  type="button"
-                                  className={
-                                    lineChild
-                                      ? `${toolbarSq} ${toolbarBtnIdle}`
-                                      : `${toolbarWide} flex-1 ${toolbarBtnIdle}`
-                                  }
-                                  title="Set this person as chart focus"
-                                  aria-label="Set chart focus here"
-                                  onClick={() => setFocusHere()}
-                                >
-                                  <IconFocus />
-                                </button>
-                              ) : null}
+                                    title="Set this person as chart focus"
+                                    aria-label="Set chart focus here"
+                                    onClick={() => setFocusHere()}
+                                  >
+                                    <IconFocus />
+                                  </button>
+                                ) : null,
+                              ].filter(Boolean)}
                             </div>
                           ) : null}
                         </div>

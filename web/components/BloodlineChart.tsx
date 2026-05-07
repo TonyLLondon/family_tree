@@ -203,7 +203,11 @@ export function BloodlineChart({ data }: Props) {
     <>
       <SiteNav />
 
-      <div className="relative bg-zinc-950">
+      <div
+        id="main-content"
+        tabIndex={-1}
+        className="relative bg-zinc-950 outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      >
         {/* Sticky full-viewport background */}
         <div className="sticky top-0 z-0 h-screen w-full overflow-hidden">
           {/* Full-width layers (for steps where both lines are in the same place) */}

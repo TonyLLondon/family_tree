@@ -11,6 +11,7 @@ All images are public domain unless otherwise noted.
 | `tabriz-palace-zobeideh-flandin.jpg` | Eugène Flandin, *Remains of the Palace Zobeideh, Tabriz*. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Remains_of_the_Palace_Zobeideh_,_Tabriz_by_Eug%C3%A8ne_Flandin.jpg) | Public domain |
 | `naser-al-din-shah-nadar.jpg` | Nadar (Gaspard-Félix Tournachon), *Naser al-Din Shah Qajar*. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Naser_al-Din_Shah_Qajar,_close_up,_with_slight_smile_by_Nadar.jpg) | Public domain (author d. 1910) |
 | `takhtrawan-litter.jpg` | Unknown artist, *The Takhtrawan or Grandee's Litter*, 19th century. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Takhtrawan_or_Grandee%27s_Litter.jpg) | Public domain |
+| `mohammad-shah-qajar.jpg` | Portrait of **Mohammad Shah Qajar** (r. 1834–1848). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohammadshah_%2801%29.jpg) | Public domain |
 | `charles-burgess-portrait.jpg` | Rendered from `media/publications/persia-iran/Charles Burgess Portrait.pdf` (NYPL Bulletin). | NYPL / public domain |
 
 | `tabriz-armenian-cemetery-baskerville-grave.jpg` | Photograph of Baskerville's grave in the Armenian cemetery, Tabriz. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baskerville_Grave.jpg) | CC BY-SA 3.0 |

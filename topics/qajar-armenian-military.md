@@ -62,7 +62,6 @@ The Armenian military role in Qajar Persia parallels other Christian minorities 
 | Identity synthesis (Anna, Tamar, Daoud) | [Was Anna a Saginian?](was-anna-saginian.md) |
 | Working note — Armenian officers essay | [research/iran-qajar/armenian-officers-qajar-military.md](../research/iran-qajar/armenian-officers-qajar-military.md) |
 | Connections BMC — Saginian/Cormick interview | [source card](../sources/connectionsbmc-saginian-interview.md) · [corpus](../sources/corpus/connectionsbmc-saginian-interview/) |
-| O'Brien / Roche notes | [source card](../sources/obrien-roche-notes.md) |
 | NYPL Burgess appendix — Anna interview (1880) | [extract](../sources/corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md) |
 
 ## Related topics

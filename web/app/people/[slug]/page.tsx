@@ -195,7 +195,7 @@ export default async function PersonPage({ params }: Props) {
       </section>
 
       {/* Article body */}
-      <article className="mx-auto max-w-prose">
+      <article className="mx-auto min-w-0 max-w-prose">
         <MarkdownContent content={articleContent} filePath={parsed.filePath} />
       </article>
     </PageShell>

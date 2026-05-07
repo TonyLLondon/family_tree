@@ -3,7 +3,7 @@
   "kind": "vision-handoff",
   "generated_at": "2026-05-06T16:15:51Z",
   "slug": "denis-wright-english-amongst-persians-burgess",
-  "source_pdf": "manual/Scanned 5 May 2026 at 16_44_22.pdf",
+  "source_pdf": "media/docs/manual-scans-2026-05/denis-wright-english-amongst-the-persians-excerpt-scan.pdf",
   "dpi": 200,
   "page_count": 7,
   "bundle_scripts": [],
@@ -71,7 +71,7 @@
     "image_links_in_md": "Reference page facsimiles via repo-relative paths (e.g. ../../sources/corpus/<slug>/pages-png/p001.jpg) so the web app can render them.",
     "frontmatter_template": {
       "language": "<iso-639-1>",
-      "source_file": "manual/Scanned 5 May 2026 at 16_44_22.pdf",
+      "source_file": "media/docs/manual-scans-2026-05/denis-wright-english-amongst-the-persians-excerpt-scan.pdf",
       "source_pages": "1-N",
       "transcriber": "agent",
       "agent_model": "<model name>",

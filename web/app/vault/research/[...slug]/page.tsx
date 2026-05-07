@@ -1,7 +1,11 @@
 import { notFound } from "next/navigation";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { PageShell } from "@/components/PageShell";
-import { getResearchSegmentLists, readMarkdownFile } from "@/lib/content";
+import {
+  getResearchSegmentLists,
+  readMarkdownFile,
+  resolveTitleAndMarkdownBody,
+} from "@/lib/content";
 import { repoPath } from "@/lib/paths";
 import fs from "fs";
 import path from "path";
@@ -20,14 +24,16 @@ export default async function ResearchPage({ params }: Props) {
   if (!fs.existsSync(abs)) notFound();
 
   const parsed = readMarkdownFile(abs);
-  const title =
-    (typeof parsed.data.title === "string" && parsed.data.title) ||
-    slug.join(" / ").replace(/-/g, " ");
+  const { title, content } = resolveTitleAndMarkdownBody(
+    parsed.data,
+    parsed.content,
+    slug.join(" / ").replace(/-/g, " "),
+  );
 
   return (
     <PageShell title={title}>
-      <article className="mx-auto max-w-prose">
-        <MarkdownContent content={parsed.content} filePath={parsed.filePath} />
+      <article className="mx-auto min-w-0 max-w-prose">
+        <MarkdownContent content={content} filePath={parsed.filePath} />
       </article>
     </PageShell>
   );

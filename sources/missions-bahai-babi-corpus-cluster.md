@@ -4,7 +4,7 @@ Long-form PDFs ingested for **mission history**, **Bábí / Bahá'í** context, 
 
 ## American Board & general missions
 
-- [corpus/history-of-the-mission-by-rufus-anderson-5264293694/](corpus/history-of-the-mission-by-rufus-anderson-5264293694/)
+- [Rufus Anderson, *History of the missions* vol. I (1872)](rufus-anderson-1872-history-missions-oriental-churches.md) — Nestorian / Oroomiah narrative, **Dawood Khan** May 1845 appointment: [corpus `reference.md`](corpus/history-of-the-mission-by-rufus-anderson-5264293694/reference.md) · [bundle](corpus/history-of-the-mission-by-rufus-anderson-5264293694/)
 - [corpus/history-of-the-missions-of-the-american-board-of-651655d656/](corpus/history-of-the-missions-of-the-american-board-of-651655d656/)
 - [corpus/implications-of-american-missionary-presence-in-360b52c2c7/](corpus/implications-of-american-missionary-presence-in-360b52c2c7/)
 - [corpus/christian-mission-to-muslims-fc5eb90f00/](corpus/christian-mission-to-muslims-fc5eb90f00/)

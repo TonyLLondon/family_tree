@@ -21,9 +21,14 @@ export default function ChartPage() {
   const centers = CENTER_PEOPLE_IDS.map((id) => tree.people[id]).filter(Boolean);
 
   return (
-    <div className="flex min-h-screen flex-col bg-white">
+    <div className="flex min-h-dvh flex-col bg-white">
       <SiteNav />
-      <main aria-label="Family tree" className="flex flex-1 flex-col items-center px-2 pb-6 pt-1">
+      <main
+        id="main-content"
+        tabIndex={-1}
+        aria-label="Family tree"
+        className="flex flex-1 flex-col items-center px-2 pb-6 pt-1 outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      >
         <div className="w-full overflow-x-auto" style={{ maxWidth: 2400 }}>
           <FanChartClient
             root={root}

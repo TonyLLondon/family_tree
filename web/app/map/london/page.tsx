@@ -19,9 +19,13 @@ export default function LondonMapPage() {
   const data = loadLondonAddresses();
 
   return (
-    <div className="flex min-h-screen flex-col bg-white">
+    <div className="flex min-h-dvh flex-col bg-white">
       <SiteNav />
-      <main className="flex flex-1 flex-col">
+      <main
+        id="main-content"
+        tabIndex={-1}
+        className="flex min-w-0 flex-1 flex-col outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      >
         <LondonAddressMapLoader data={data} />
       </main>
     </div>

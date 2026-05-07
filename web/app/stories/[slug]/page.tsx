@@ -6,7 +6,7 @@ import {
   StoryNarrative,
   type StoryPage,
 } from "@/components/StoryNarrative";
-import { getStorySlugs, readMarkdownFile } from "@/lib/content";
+import { getStorySlugs, readMarkdownFile, resolveTitleAndMarkdownBody } from "@/lib/content";
 import {
   readScrollySidecar,
   resolveScrollySteps,
@@ -47,9 +47,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!fs.existsSync(abs)) return {};
 
   const parsed = readMarkdownFile(abs);
-  const title =
-    (typeof parsed.data.title === "string" && parsed.data.title) ||
-    slug.replace(/-/g, " ");
+  const { title } = resolveTitleAndMarkdownBody(
+    parsed.data,
+    parsed.content,
+    slug.replace(/-/g, " "),
+  );
 
   return { title };
 }
@@ -85,24 +87,28 @@ export default async function StoryPage({ params }: Props) {
     }
 
     return (
-      <StoryNarrative
-        hero={sidecar.hero}
-        sections={pagedSections}
-        pages={storyPages}
-        appendixSections={appendixSections}
-        filePath={parsed.filePath}
-      />
+      <div id="main-content" tabIndex={-1} className="min-h-dvh outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-inset">
+        <StoryNarrative
+          hero={sidecar.hero}
+          sections={pagedSections}
+          pages={storyPages}
+          appendixSections={appendixSections}
+          filePath={parsed.filePath}
+        />
+      </div>
     );
   }
 
-  const title =
-    (typeof parsed.data.title === "string" && parsed.data.title) ||
-    slug.replace(/-/g, " ");
+  const { title, content } = resolveTitleAndMarkdownBody(
+    parsed.data,
+    parsed.content,
+    slug.replace(/-/g, " "),
+  );
 
   return (
     <PageShell title={title}>
-      <article className="mx-auto max-w-prose">
-        <MarkdownContent content={parsed.content} filePath={parsed.filePath} />
+      <article className="mx-auto min-w-0 max-w-prose">
+        <MarkdownContent content={content} filePath={parsed.filePath} />
       </article>
     </PageShell>
   );

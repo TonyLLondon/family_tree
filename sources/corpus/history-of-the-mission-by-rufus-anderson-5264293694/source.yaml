@@ -1,6 +1,16 @@
 id: history-of-the-mission-by-rufus-anderson-5264293694
-title: History of the Mission by Rufus Anderson
-remote: {}
+title: >-
+  Rufus Anderson, History of the missions of the American Board of Commissioners
+  for Foreign Missions to the oriental churches — Volume I (1872)
+author: Rufus Anderson
+publication_year: 1872
+publisher: American Board of Commissioners for Foreign Missions (Boston; institutional printing)
+remote:
+  webpage_url: https://www.gutenberg.org/ebooks/18930
+  full_text_html: https://www.gutenberg.org/cache/epub/18930/pg18930.html
+notes: >-
+  Canonical evidence is the repo PDF under media/. Project Gutenberg #18930 is the same work
+  in free HTML/text; corpus reference.md registers URLs for lookup only.
 fetches:
 - kind: pdf
   at: '2026-03-21T20:48:15Z'
@@ -9,4 +19,5 @@ fetches:
   media_reference: media/publications/persia-iran/History of the Mission by Rufus Anderson.pdf
 files:
   pdf_markdown: extracted.pdf.md
+  reference: reference.md
   media_reference: media/publications/persia-iran/History of the Mission by Rufus Anderson.pdf

@@ -1,6 +1,6 @@
 ---
 language: en
-source_file: manual/Scanned 5 May 2026 at 16_44_22.pdf
+source_file: media/docs/manual-scans-2026-05/denis-wright-english-amongst-the-persians-excerpt-scan.pdf
 source_pages: "1-7"
 transcriber: agent
 agent_model: gpt-5.5
@@ -14,10 +14,11 @@ verified: false
 ## Source
 
 - **Work:** Denis Wright, *The English Amongst the Persians*
-- **Excerpt:** chapter 7, "The World of Business", pp. 94-100
+- **Excerpt:** seven consecutive pages opening with chapter 7 “The World of Business” (trade context) and continuing into the narrative on Charles and Edward Burgess (see reference body for relationship to pp. 94–100)
 - **Facsimiles:** [`pages-png/`](pages-png/)
 - **Transcript:** [`transcription.md`](transcription.md)
-- **Canonical scan:** [`manual/Scanned 5 May 2026 at 16_44_22.pdf`](../../../manual/Scanned%205%20May%202026%20at%2016_44_22.pdf)
+- **Machine extract (OCR):** [`extracted.pdf.md`](extracted.pdf.md) — pymupdf4llm + Tesseract; provisional.
+- **Canonical scan:** [`media/docs/manual-scans-2026-05/denis-wright-english-amongst-the-persians-excerpt-scan.pdf`](../../../media/docs/manual-scans-2026-05/denis-wright-english-amongst-the-persians-excerpt-scan.pdf)
 
 ## People and Families
 

@@ -15,6 +15,12 @@ const links = [
   { href: "/sources", label: "Sources" },
 ] as const;
 
+/** `/chart` must not match `/chart/pedigree` or `/chart/lineages`. */
+function navLinkIsCurrent(pathname: string, href: string): boolean {
+  if (href === "/chart") return pathname === "/chart";
+  return pathname === href || pathname.startsWith(`${href}/`);
+}
+
 function MenuIcon({ open }: { open: boolean }) {
   if (open) {
     return (
@@ -101,7 +107,12 @@ export function SiteNav() {
               <Link
                 key={href}
                 href={href}
-                className="rounded-md px-2.5 py-1.5 font-medium text-zinc-500 transition hover:bg-zinc-100 hover:text-zinc-900"
+                aria-current={navLinkIsCurrent(pathname, href) ? "page" : undefined}
+                className={`rounded-md px-2.5 py-1.5 font-medium transition hover:bg-zinc-100 hover:text-zinc-900 ${
+                  navLinkIsCurrent(pathname, href)
+                    ? "bg-sky-50 text-sky-800 ring-1 ring-sky-200/80"
+                    : "text-zinc-500"
+                }`}
               >
                 {label}
               </Link>
@@ -127,7 +138,10 @@ export function SiteNav() {
                   <Link
                     key={href}
                     href={href}
-                    className="rounded-md px-2 py-3 font-medium text-zinc-700 transition hover:bg-zinc-50 hover:text-zinc-900"
+                    aria-current={navLinkIsCurrent(pathname, href) ? "page" : undefined}
+                    className={`rounded-md px-2 py-3 font-medium transition hover:bg-zinc-50 hover:text-zinc-900 ${
+                      navLinkIsCurrent(pathname, href) ? "bg-sky-50 text-sky-800" : "text-zinc-700"
+                    }`}
                     onClick={closeMenu}
                   >
                     {label}

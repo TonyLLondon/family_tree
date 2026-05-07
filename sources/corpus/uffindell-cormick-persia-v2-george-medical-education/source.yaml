@@ -1,0 +1,28 @@
+id: uffindell-cormick-persia-v2-george-medical-education
+title: >-
+  Vicky Uffindell, The Cormick family in Persia, vol. 2 — excerpt (George Cormick medical
+  training in London & Edinburgh; return to Persia preparations)
+publication:
+  author: Vicky Uffindell
+  work: The Cormick family in Persia
+  volume: 2
+  volume_subtitle: The descendants of surgeon John Cormick
+physical_consult:
+  institution: British Library — St Pancras (London Reading Rooms)
+  catalogue_note: >-
+    Companion volume shelfmark documented on patron slip for vol. 1: YC.2020.b.42 (The Cormick
+    family in Persia, vol. 1 — John Cormick: surgeon, diplomat and spy); patron slip referenced
+    due date 09 May 2026.
+processing_note: >-
+  OCR via pymupdf4llm with Tesseract; image-layer scan — treat as provisional text.
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-05-07T09:55:48Z'
+  sha256: 883cecc9d9ce2f89622202544b00f6a306359bafb263ac6d0fe76f2ddbd7dbf9
+  bytes: 11981266
+  media_reference: media/docs/manual-scans-2026-05/uffindell-cormick-persia-v2-george-medical-education-5pg.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
+  media_reference: media/docs/manual-scans-2026-05/uffindell-cormick-persia-v2-george-medical-education-5pg.pdf

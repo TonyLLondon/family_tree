@@ -1,11 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useId } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { remarkVaultLinks } from "@/lib/vaultLinks";
 import { useLightbox, LightboxOverlay } from "@/components/Lightbox";
+import { MermaidBlock } from "@/components/MermaidBlock";
 
 type Props = {
   content: string;
@@ -15,29 +15,11 @@ type Props = {
 
 export function MarkdownContent({ content, filePath }: Props) {
   const filePosix = filePath.replace(/\\/g, "/");
-  const instanceId = useId().replace(/:/g, "");
-
-  useEffect(() => {
-    let cancelled = false;
-    (async () => {
-      const mermaid = (await import("mermaid")).default;
-      mermaid.initialize({
-        startOnLoad: false,
-        theme: document.documentElement.classList.contains("dark") ? "dark" : "neutral",
-        securityLevel: "loose",
-      });
-      if (cancelled) return;
-      await mermaid.run({ querySelector: `.mermaid-root-${instanceId} .mermaid` });
-    })();
-    return () => {
-      cancelled = true;
-    };
-  }, [content, instanceId]);
 
   const lightbox = useLightbox();
 
   return (
-    <div className={`mermaid-root-${instanceId} prose prose-zinc max-w-none dark:prose-invert prose-headings:scroll-mt-24 prose-a:text-sky-700 prose-a:underline dark:prose-a:text-sky-400`}>
+    <div className="prose prose-zinc min-w-0 max-w-none dark:prose-invert prose-headings:scroll-mt-24 prose-a:text-sky-700 prose-a:underline dark:prose-a:text-sky-400">
       <LightboxOverlay src={lightbox.src} alt={lightbox.alt} onClose={lightbox.close} />
       <ReactMarkdown
         remarkPlugins={[remarkGfm, remarkVaultLinks(filePosix)]}
@@ -90,19 +72,15 @@ export function MarkdownContent({ content, filePath }: Props) {
             </span>
           ),
           table: ({ children }) => (
-            <div className="overflow-x-auto">
-              <table>{children}</table>
+            <div className="max-w-full overflow-x-auto overscroll-x-contain">
+              <table className="min-w-full w-max">{children}</table>
             </div>
           ),
           code: ({ className, children, ...rest }) => {
             const match = /language-mermaid/.test(className ?? "");
             if (match) {
               const text = String(children).replace(/\n$/, "");
-              return (
-                <div className="not-prose my-6 overflow-x-auto rounded-lg border border-zinc-200 bg-zinc-50 p-4 dark:border-zinc-700 dark:bg-zinc-900">
-                  <pre className="mermaid text-center">{text}</pre>
-                </div>
-              );
+              return <MermaidBlock chart={text} key={text} />;
             }
             return (
               <code className={className} {...rest}>

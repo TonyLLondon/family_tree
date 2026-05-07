@@ -80,7 +80,7 @@ From that date the couple's paper trail belongs to **India**. A child ("Tommie")
 - [Army Medical Department half-pay register](../sources/army-medical-department-half-pay-register.md) · [scan](../media/docs/Army%20Medical%20Department%20half%20pay%20register%20page%201080%20Lt%20Colonels%20and%20Surgeon%20Majors.jpg)
 - [FIBIwiki — Jubbulpore](../sources/fibis-jubbulpore.md) — station context
 - **Tree id:** **I135**; unions **F67** (with Catherine Mary Roche), **F157** (parents)
-- [O'Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/)
+- [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/)
 
 ### British & Irish Newspaper Archive (FindMyPast, March 2026)
 

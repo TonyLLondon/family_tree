@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Daoud Khan — Governor of the Nestorians",
+    "subtitle": "From Georgian officer to Sartip of Shiraz and Isfahan; the 1845 mandate over the Nestorian Christians of Urumia at British, Russian, and royal instance; and the mission politics that turned his office into a battlefield between protection and extraction.",
+    "era": "1790 — 1865"
+  },
+  "layout": "scrapbook",
+  "scrollyStepCount": 0,
+  "steps": [],
+  "pages": [
+    {
+      "image": "media/context/tabriz-qajar/tabriz-flandin-panorama.jpg",
+      "alt": "19th-century lithograph — wide view of Tabriz with domes, minarets, and mountains on the horizon"
+    },
+    {
+      "image": "media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png",
+      "alt": "Sartip Daoud Khan Saginian in Qajar military uniform — photograph of a printed portrait"
+    },
+    {
+      "image": "media/context/tabriz-qajar/tabriz-city-gate-flandin.jpg",
+      "alt": "Lithograph — city gate of Tabriz, figures and architecture at the threshold of the walled town"
+    },
+    {
+      "image": "media/context/tabriz-qajar/tabriz-hussein-khan-house-flandin.jpg",
+      "alt": "Lithograph — courtyard house of Hussein Khan, Tabriz, with arcades and figures"
+    },
+    {
+      "image": "media/context/tabriz-qajar/takhtrawan-litter.jpg",
+      "alt": "19th-century print — Qajar grandee carried in an ornate litter (takhtrawan)"
+    },
+    {
+      "image": "media/context/tabriz-qajar/shoghakat-church-exterior-historic.jpg",
+      "alt": "Historic photograph — Shoghakat Armenian church and cemetery grounds, Tabriz"
+    },
+    {
+      "image": "media/context/tabriz-qajar/tabriz-ruined-mosque-flandin.jpg",
+      "alt": "Lithograph — ruined mosque at Tabriz, broken arches and open sky"
+    },
+    {
+      "image": "media/context/tabriz-qajar/mohammad-shah-qajar.jpg",
+      "alt": "Portrait of Mohammad Shah Qajar in court dress and jewelled turban"
+    },
+    {
+      "image": "media/context/tabriz-qajar/shoghakat-church-exterior-2010.jpg",
+      "alt": "Shoghakat Armenian church and cemetery, Tabriz — exterior in daylight"
+    },
+    {
+      "image": "media/context/tabriz-qajar/tabriz-palace-zobeideh-flandin.jpg",
+      "alt": "Lithograph — remains of the Palace Zobeideh, Tabriz, with figures among broken walls"
+    },
+    {
+      "image": "media/images/portraits/tamar-saginian-hovnatanian-portrait.png",
+      "alt": "Portrait of Tamar Saginian (Hovnatanian school style)"
+    },
+    {
+      "image": "media/images/portraits/anna-saginian-fanny-burgess.jpg",
+      "alt": "Anna Saginian seated with her daughter Fanny Burgess — family photograph"
+    }
+  ]
+}

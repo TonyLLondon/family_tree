@@ -32,7 +32,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Dr. Cormick — The man who met the Báb (Connections), part 1](corpus/cormick-man-who-met-bab-connections/) — `cormick-man-who-met-bab-connections`
 - [Dr. Cormick — The man who met the Báb (Connections), part 2](corpus/cormick-man-who-met-bab-connections-2/) — `cormick-man-who-met-bab-connections-2`
 - [David Yaghoubian - Ethnicity Identity and Nationalism in Iran](corpus/david-yaghoubian-ethnicity-identity-and-national-00eefee0c9/) — `david-yaghoubian-ethnicity-identity-and-national-00eefee0c9`
-- [Denis Wright, The English Amongst the Persians — chapter 7 excerpt on Charles and Edward Burgess](corpus/denis-wright-english-amongst-persians-burgess/) — `denis-wright-english-amongst-persians-burgess`
+- [Denis Wright — The English Amongst the Persians (Heinemann, 1977), chapter excerpt](corpus/denis-wright-english-amongst-persians-burgess/) — `denis-wright-english-amongst-persians-burgess`
 - [Early trade of the northern provinces of Persia (document)](corpus/early-trade-northern-provinces-persia-document/) — `early-trade-northern-provinces-persia-document`
 - [Vaqaye'-e Ettefaqiyeh (1851–1861) and the Education of the Iranian Nation in the Middle of the Nineteenth Century](corpus/ebrahimian-vaqaye-ettefaqiyeh-dissertation-2020/) — `ebrahimian-vaqaye-ettefaqiyeh-dissertation-2020`
 - [en-wikipedia-edward-burgess-merchant](corpus/en-wikipedia-edward-burgess-merchant/) — `en-wikipedia-edward-burgess-merchant`
@@ -65,11 +65,15 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [NYPL Bulletin - Charles Burgess portrait plate painted in Persia](corpus/nypl-bulletin-charles-burgess-portrait-plate-pai-12c012a8b3/) — `nypl-bulletin-charles-burgess-portrait-plate-pai-12c012a8b3`
 - [NYPL Burgess Persian Letters — Appendix: Anna Burgess interview (Daoud Khan)](corpus/nypl-burgess-appendix-anna-interview/) — `nypl-burgess-appendix-anna-interview`
 - [NYPL Burgess collection — Henderson bulletin PDF (cover/summary)](corpus/nypl-burgess-bulletin-pdf/) — `nypl-burgess-bulletin-pdf`
-- [O'Brien / Roche notes — offline curl captures (01–15)](corpus/obrien-roche-url-offline-captures/) — `obrien-roche-url-offline-captures`
+- [O'Brien / Roche — offline curl captures (01–15)](corpus/obrien-roche-url-offline-captures/) — `obrien-roche-url-offline-captures`
 - [Andreas Onnerfors - Freemasonry and Fraternalism in the Middle East](corpus/onnerfors-freemasonry-fraternalism-middle-east/) — `onnerfors-freemasonry-fraternalism-middle-east`
 - [Persian-language research: portrait labelled Portrait of Tamar Saginian (attribution)](corpus/persia-tamar-saginian-portrait-persian-research/) — `persia-tamar-saginian-portrait-persian-research`
 - [Sarpoosh: First Permanent Press in Iran (Iranian press history)](corpus/sarpoosh-first-permanent-press-iran/) — `sarpoosh-first-permanent-press-iran`
 - [SHARP Lingua Franca: Transfer of Typographic Printing Technology to Iran (2023)](corpus/sharp-printing-technology-qajar-iran/) — `sharp-printing-technology-qajar-iran`
+- [Vicky Uffindell, The Cormick family in Persia, vol. 2 — excerpt (Tabriz cemeteries & Eastwick visit; epidemics; Cormick births and deaths 1860–69)](corpus/uffindell-cormick-persia-v2-epidemics-tabriz-eastwick/) — `uffindell-cormick-persia-v2-epidemics-tabriz-eastwick`
+- [Vicky Uffindell, The Cormick family in Persia, vol. 2 — excerpt (William & Tamar marriage; Lindsay-Bethune visit; family, friends and protection in Tabriz)](corpus/uffindell-cormick-persia-v2-family-friends-1850s/) — `uffindell-cormick-persia-v2-family-friends-1850s`
+- [Vicky Uffindell, The Cormick family in Persia, vol. 2 — excerpt (George Cormick medical training in London & Edinburgh; return to Persia preparations)](corpus/uffindell-cormick-persia-v2-george-medical-education/) — `uffindell-cormick-persia-v2-george-medical-education`
+- [Vicky Uffindell, The Cormick family in Persia, vol. 2 — excerpt (London life — passports, Order of Lion & Sun; Tabriz house sale; death of William Cormick 1877)](corpus/uffindell-cormick-persia-v2-london-life-william/) — `uffindell-cormick-persia-v2-london-life-william`
 - [Solayman Khan Saham al-Dowleh (Wikipedia)](corpus/wikipedia-solayman-khan-saham-al-dowleh/) — `wikipedia-solayman-khan-saham-al-dowleh`
 - [Dr William Cormick — Connections (article PDF)](corpus/william-cormick-connections/) — `william-cormick-connections`
 - [William Cormick (short publication PDF)](corpus/william-cormick-monograph-pdf/) — `william-cormick-monograph-pdf`

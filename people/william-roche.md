@@ -75,7 +75,7 @@ The pattern is striking: Crown Solicitor father, Crown Solicitor son-in-law (O'F
 ### Other evidence
 
 - **Tree id:** **I137** — unions **F68**, **F160**.
-- [O'Brien / Roche notes](../sources/obrien-roche-notes.md) · [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/).
+- [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/) — legacy Roche/Limerick web captures (see [reference.md](../sources/corpus/obrien-roche-url-offline-captures/reference.md)).
 
 ## Open questions
 

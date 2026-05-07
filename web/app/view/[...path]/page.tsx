@@ -212,11 +212,15 @@ function MarkdownView({
   return (
     <>
       <SiteNav />
-      <main className="mx-auto max-w-6xl flex-1 px-4 py-8">
+      <main
+        id="main-content"
+        tabIndex={-1}
+        className="mx-auto min-w-0 max-w-6xl flex-1 px-4 py-8 outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      >
         <FileHeader filePath={filePath} rawUrl={rawUrl} />
         {hasFrontmatter && <FrontmatterTable data={data} />}
         <MachineExtractNotice filePath={filePath} />
-        <article className="mx-auto max-w-prose">
+        <article className="mx-auto min-w-0 max-w-prose">
           <MarkdownContent content={content} filePath={filePath} />
         </article>
       </main>
@@ -236,7 +240,11 @@ function YamlView({
   return (
     <>
       <SiteNav />
-      <main className="mx-auto max-w-6xl flex-1 px-4 py-8">
+      <main
+        id="main-content"
+        tabIndex={-1}
+        className="mx-auto min-w-0 max-w-6xl flex-1 px-4 py-8 outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      >
         <FileHeader filePath={filePath} rawUrl={rawUrl} />
         <div className="overflow-x-auto rounded-lg border border-zinc-200 bg-zinc-50 dark:border-zinc-700 dark:bg-zinc-900">
           <pre className="p-4 text-sm leading-relaxed text-zinc-800 dark:text-zinc-200">

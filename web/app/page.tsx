@@ -46,9 +46,14 @@ export default function HomePage() {
   const siteSearchItems = getSiteSearchItems();
 
   return (
-    <div className="flex min-h-screen flex-col bg-white">
+    <div className="flex min-h-dvh flex-col bg-white">
       <SiteNav />
 
+      <main
+        id="main-content"
+        tabIndex={-1}
+        className="flex flex-1 flex-col outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
+      >
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-zinc-100 bg-linear-to-br from-zinc-50 via-white to-sky-50">
         <div className="mx-auto max-w-6xl px-4 py-16 sm:py-24">
@@ -146,6 +151,7 @@ export default function HomePage() {
           </p>
         </div>
       </footer>
+      </main>
     </div>
   );
 }

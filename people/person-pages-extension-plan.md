@@ -37,7 +37,7 @@ These files exist but stay thin. You already have citations or files to weave in
 | Person | Why expand now | Pull in |
 |--------|----------------|--------|
 | [edward-burgess.md](edward-burgess.md) | NYPL + narrative | Longer career arc; *Bokhara* quotes from [media/docs/](../media/docs/) (`Edward Burgess Paragraph…`, `Narrative of a mission…` PDF); link [topics/nypl-burgess-papers-archive.md](../topics/nypl-burgess-papers-archive.md). |
-| [anna-saginian.md](anna-saginian.md) | Interview + NYPL | Expand marriage 1851, Armenian identity, Fanny as infant; [connectionsbmc](../sources/connectionsbmc-saginian-interview.md); [obrien-roche-notes](../sources/obrien-roche-notes.md). |
+| [anna-saginian.md](anna-saginian.md) | Interview + NYPL | Expand marriage 1851, Armenian identity, Fanny as infant; [connectionsbmc](../sources/connectionsbmc-saginian-interview.md). |
 | [daoud-khan-saginian.md](daoud-khan-saginian.md) | Military narrative | 1834 Isfahan; same sources as Anna; optional *Bokhara* Daoud paragraph image. |
 | [fanny-burgess.md](fanny-burgess.md) | Grave + NYPL + photos | Embed grave scan; Henderson Teheran 1896; electoral register PNG in `media/docs/`. |
 | [julien-bottin.md](julien-bottin.md) | Contract + Masonry | Pull French contract clauses into blockquotes; [corpus levantine PDF](../sources/corpus/levantine-freemasonry/) excerpts. |
@@ -73,7 +73,7 @@ New files; you can draft from the **structured tree** + scans already in **`medi
 | `marc-francois-stump.md` | `I140` | Swiss / Stump patriline; link Hans Jacob STUMP chain from ancestor list. |
 | `henry-burgess.md` | `I81` | Henderson chart vitals; Groby / Wakefield line; link Edward + Frances Ridsdale. |
 | `frances-ridsdale.md` | `I82` | Mother of Edward; Ridsdale genealogy PDFs in `media/docs/` if named. |
-| `catherine-mary-roche.md` | `I136` | Roche / Limerick mirrors + `obrien-roche-notes`; Limerick Chronicle PDFs in `media/docs/`. |
+| `catherine-mary-roche.md` | `I136` | Roche / Limerick mirrors + `corpus/obrien-roche-url-offline-captures`; Limerick Chronicle PDFs in `media/docs/`. |
 | `william-roche.md` | `I137` | Same cluster. |
 | `archibald-percy-coolbear.md` | `I103` | **Very strong:** dozens of RAF/medal scans in `media/docs/`; medal index cards. |
 

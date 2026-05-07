@@ -81,7 +81,7 @@ Four generations, each at a different pressure point of Iranian modernization:
 - Bottin contract: on disk via [bottin-government-contract.md](../sources/bottin-government-contract.md)
 - Stump Baltic generation: [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md)
 
-**Offline web captures (corpus):** see source cards — e.g. [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md), [wikipedia-william-cormick.md](../sources/wikipedia-william-cormick.md), [obrien-roche-notes.md](../sources/obrien-roche-notes.md), [iranica-dentistry.md](../sources/iranica-dentistry.md); Roche curls [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/).
+**Offline web captures (corpus):** see source cards — e.g. [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md), [wikipedia-william-cormick.md](../sources/wikipedia-william-cormick.md), [iranica-dentistry.md](../sources/iranica-dentistry.md); Roche legacy curls [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/).
 
 ---
 

@@ -1,6 +1,6 @@
 # O’Brien / Roche — offline URL captures
 
-Numbered `curl` snapshots of URLs from [media/docs/Obrien and Roche notes and links.txt](../../../media/docs/Obrien%20and%20Roche%20notes%20and%20links.txt). Migrated from removed `sources/mirrors/roche-notes/`.
+Numbered `curl` snapshots of URLs once listed in a retired working note (file removed). Migrated from removed `sources/mirrors/roche-notes/`.
 
 | # | Local file | Notes |
 |---|------------|--------|
@@ -19,5 +19,3 @@ Numbered `curl` snapshots of URLs from [media/docs/Obrien and Roche notes and li
 | 13 | [13-geneanet-gmeazza-addobbati-pietro-paolo.html](13-geneanet-gmeazza-addobbati-pietro-paolo.html) | |
 | 14 | [14-google-books-NuStj-saoQkC-pa117-daoud-khan.html](14-google-books-NuStj-saoQkC-pa117-daoud-khan.html) | Daoud Khan search. |
 | 15 | [15-google-books-vuZh01sGmz4C-pt61-daoud-khan.html](15-google-books-vuZh01sGmz4C-pt61-daoud-khan.html) | Daoud Khan search. |
-
-**Citation card:** [obrien-roche-notes.md](../../obrien-roche-notes.md)

@@ -1,6 +1,6 @@
 ---
 language: en
-source_file: manual/Scanned 5 May 2026 at 16_44_22.pdf
+source_file: media/docs/manual-scans-2026-05/denis-wright-english-amongst-the-persians-excerpt-scan.pdf
 source_pages: "1-7"
 transcriber: agent
 agent_model: gpt-5.5

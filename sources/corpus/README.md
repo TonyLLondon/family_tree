@@ -21,7 +21,7 @@ Each folder is one **ingested source**: provenance in `source.yaml`, plus whatev
 | `connectionsbmc-saginian-interview` | Web | WordPress mirror + extract |
 | `nypl-archives-mss-431-curl-mirror` | Web | NYPL archives mss/431 — curl Incapsula challenge shell only (not finding aid) |
 | `en-wikipedia-william-cormick-curl-mirrors` | Web | Wikipedia (en) William Cormick — REST v1 + desktop HTML + trafilatura extract |
-| `obrien-roche-url-offline-captures` | Web | O’Brien/Roche link list — fifteen numbered `curl` HTML captures + `reference.md` |
+| `obrien-roche-url-offline-captures` | Web | Roche/Limerick legacy URLs — fifteen numbered `curl` HTML captures + `reference.md` |
 | `retrozadar-povijest-kavana-u-zadru` | Web | Retrozadar — *Povijest kavana u Zadru* (full HTML mirror + extract) |
 | `slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror` | Web | Slobodna Dalmacija part 2 — curl Cloudflare challenge shell only |
 | `beytoote-stump-dentist-atabak-ahmadshah` | Web | Beytoote.com — Dr. Stump (Ashtump), dentist of Atabak & Ahmad Shah (Persian) |

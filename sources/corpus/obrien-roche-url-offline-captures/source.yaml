@@ -1,9 +1,8 @@
 id: obrien-roche-url-offline-captures
-title: O'Brien / Roche notes — offline curl captures (01–15)
+title: O'Brien / Roche — offline curl captures (01–15)
 remote:
   note: >-
-    Original URLs are listed in the master link file
-    media/docs/Obrien and Roche notes and links.txt (see reference.md).
+    Original URL list was a retired working note; this bundle retains the numbered HTML captures only.
 fetches:
 - kind: web
   at: '2026-03-23T17:30:00Z'

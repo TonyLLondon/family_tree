@@ -1,0 +1,28 @@
+id: uffindell-cormick-persia-v2-london-life-william
+title: >-
+  Vicky Uffindell, The Cormick family in Persia, vol. 2 — excerpt (London life —
+  passports, Order of Lion & Sun; Tabriz house sale; death of William Cormick 1877)
+publication:
+  author: Vicky Uffindell
+  work: The Cormick family in Persia
+  volume: 2
+  volume_subtitle: The descendants of surgeon John Cormick
+physical_consult:
+  institution: British Library — St Pancras (London Reading Rooms)
+  catalogue_note: >-
+    Companion volume shelfmark documented on patron slip for vol. 1: YC.2020.b.42 (The Cormick
+    family in Persia, vol. 1 — John Cormick: surgeon, diplomat and spy); patron slip referenced
+    due date 09 May 2026.
+processing_note: >-
+  OCR via pymupdf4llm with Tesseract; image-layer scan — treat as provisional text.
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-05-07T09:53:58Z'
+  sha256: 4adee5f8fe8fa35cbd0f10e803841dd1322869c6074a6a5e085e05abd75bc522
+  bytes: 16157571
+  media_reference: media/docs/manual-scans-2026-05/uffindell-cormick-persia-v2-london-life-william-7pg.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
+  media_reference: media/docs/manual-scans-2026-05/uffindell-cormick-persia-v2-london-life-william-7pg.pdf

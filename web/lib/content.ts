@@ -85,6 +85,36 @@ export function readMarkdownFile(absPath: string): ParsedMd {
   };
 }
 
+/**
+ * For pages that render a shell title above markdown: use YAML `title` when set;
+ * otherwise promote the first ATX `# heading` (not `##`) to the shell title and
+ * remove it from the body so it is not shown twice. Falls back to `slugFallback`.
+ */
+export function resolveTitleAndMarkdownBody(
+  data: Record<string, unknown>,
+  content: string,
+  slugFallback: string,
+): { title: string; content: string } {
+  const fm =
+    typeof data.title === "string" && data.title.trim().length > 0
+      ? data.title.trim()
+      : null;
+  if (fm) return { title: fm, content };
+
+  const h1 = takeLeadingAtxH1(content);
+  if (h1) return { title: h1.title, content: h1.content };
+
+  return { title: slugFallback, content };
+}
+
+function takeLeadingAtxH1(md: string): { title: string; content: string } | null {
+  const m = md.match(/^\s*#\s+(.+?)\s*(?:\n|$)/);
+  if (!m) return null;
+  const title = m[1].trim();
+  const rest = md.slice(m[0].length).replace(/^\n+/, "");
+  return { title, content: rest };
+}
+
 export function readVaultMarkdown(relFromRepo: string): ParsedMd | null {
   const abs = repoPath(relFromRepo);
   if (!fs.existsSync(abs)) return null;
