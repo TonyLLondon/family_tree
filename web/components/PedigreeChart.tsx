@@ -233,76 +233,79 @@ function parentChildPathFork(left: NodeBox, right: NodeBox, child: NodeBox): str
 
 const NEUTRAL_CARD_BG = "#e5e7eb";
 
-/** Tailwind-aligned strokes baked into data-URI SVGs (nested inline `<svg>` inside foreignObject fails on iOS WebKit). */
-const STROKE_TOOLBAR_IDLE = "#27272a";
-const STROKE_TOOLBAR_ON = "#0c4a6e";
-const STROKE_CLOSE = "#52525b";
-const STROKE_LINE_CHILD = "#064e3b";
+/**
+ * Card toolbar “icons” as plain text glyphs. Inside SVG foreignObject, iOS WebKit often paints
+ * neither nested `<svg>` nor `<img src="data:…">`; Unicode in a `<span>` uses the same path as
+ * body text (which does render). Colours match toolbar idle / on / close / line styles.
+ */
+const GLYPH_TOOLBAR_IDLE = "#27272a";
+const GLYPH_TOOLBAR_ON = "#0c4a6e";
+const GLYPH_CLOSE = "#52525b";
+const GLYPH_LINE_CHILD = "#064e3b";
 
-function pedigreeSvgIconDataUri(inner: string, stroke: string, strokeWidth: number): string {
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="${stroke}" stroke-width="${strokeWidth}" stroke-linecap="round" stroke-linejoin="round">${inner}</svg>`;
-  return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
-}
-
-/** Raster-free icon: `<img>` + data URI paints reliably inside SVG foreignObject on iOS. */
-function PedigreeIconImg({ src, size }: { src: string; size: number }) {
+function PedigreeGlyph({
+  color,
+  children,
+  sizePx = 16,
+}: {
+  color: string;
+  children: string;
+  sizePx?: number;
+}) {
   return (
-    <img
-      src={src}
-      alt=""
-      width={size}
-      height={size}
-      className="pointer-events-none shrink-0 select-none opacity-90"
-      draggable={false}
-      style={{ display: "block" }}
-    />
+    <span
+      aria-hidden
+      style={{
+        display: "inline-flex",
+        alignItems: "center",
+        justifyContent: "center",
+        minWidth: sizePx,
+        minHeight: sizePx,
+        color,
+        fontSize: sizePx,
+        fontWeight: 700,
+        lineHeight: 1,
+        fontFamily: 'system-ui, -apple-system, "Segoe UI", sans-serif',
+        userSelect: "none",
+        WebkitUserSelect: "none",
+        pointerEvents: "none",
+      }}
+    >
+      {children}
+    </span>
   );
 }
 
 function IconParents({ active }: { active: boolean }) {
-  const stroke = active ? STROKE_TOOLBAR_ON : STROKE_TOOLBAR_IDLE;
-  const src = pedigreeSvgIconDataUri(`<path d="M8 13V5M8 5 5 8M8 5l3 3"/>`, stroke, 1.35);
-  return <PedigreeIconImg src={src} size={14} />;
+  return <PedigreeGlyph color={active ? GLYPH_TOOLBAR_ON : GLYPH_TOOLBAR_IDLE}>↑</PedigreeGlyph>;
 }
 
 function IconChildren({ active }: { active: boolean }) {
-  const stroke = active ? STROKE_TOOLBAR_ON : STROKE_TOOLBAR_IDLE;
-  const src = pedigreeSvgIconDataUri(`<path d="M8 3v10M8 13 5 10M8 13l3-3"/>`, stroke, 1.35);
-  return <PedigreeIconImg src={src} size={14} />;
+  return <PedigreeGlyph color={active ? GLYPH_TOOLBAR_ON : GLYPH_TOOLBAR_IDLE}>↓</PedigreeGlyph>;
 }
 
 function IconSiblings({ active }: { active: boolean }) {
-  const stroke = active ? STROKE_TOOLBAR_ON : STROKE_TOOLBAR_IDLE;
-  const src = pedigreeSvgIconDataUri(
-    `<circle cx="5.5" cy="5.5" r="2.2"/><path d="M5.5 7.7v3.3"/><circle cx="10.5" cy="5.5" r="2.2"/><path d="M10.5 7.7v3.3"/>`,
-    stroke,
-    1.25,
-  );
-  return <PedigreeIconImg src={src} size={14} />;
+  return <PedigreeGlyph color={active ? GLYPH_TOOLBAR_ON : GLYPH_TOOLBAR_IDLE}>‖</PedigreeGlyph>;
 }
 
 function IconSpouse({ active }: { active: boolean }) {
-  const stroke = active ? STROKE_TOOLBAR_ON : STROKE_TOOLBAR_IDLE;
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="${stroke}" stroke-width="1.25" stroke-linecap="round"><circle cx="6" cy="8" r="3"/><circle cx="10" cy="8" r="3"/></svg>`;
-  const src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
-  return <PedigreeIconImg src={src} size={14} />;
+  return <PedigreeGlyph color={active ? GLYPH_TOOLBAR_ON : GLYPH_TOOLBAR_IDLE}>♥</PedigreeGlyph>;
 }
 
 function IconLineDown() {
-  const src = pedigreeSvgIconDataUri(`<path d="M8 3v7M8 10 5.5 7.5M8 10l2.5-2.5"/>`, STROKE_LINE_CHILD, 1.35);
-  return <PedigreeIconImg src={src} size={14} />;
+  return <PedigreeGlyph color={GLYPH_LINE_CHILD}>↳</PedigreeGlyph>;
 }
 
 function IconFocus() {
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="${STROKE_TOOLBAR_IDLE}" stroke-width="1.25" stroke-linecap="round"><circle cx="8" cy="8" r="2.8"/><path d="M8 1.5v2M8 12.5v2M1.5 8h2M12.5 8h2"/></svg>`;
-  const src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
-  return <PedigreeIconImg src={src} size={14} />;
+  return <PedigreeGlyph color={GLYPH_TOOLBAR_IDLE}>◎</PedigreeGlyph>;
 }
 
 function IconCloseCard() {
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="${STROKE_CLOSE}" stroke-width="1.5" stroke-linecap="round"><path d="M5 5l6 6M11 5L5 11"/></svg>`;
-  const src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
-  return <PedigreeIconImg src={src} size={12} />;
+  return (
+    <PedigreeGlyph color={GLYPH_CLOSE} sizePx={18}>
+      ×
+    </PedigreeGlyph>
+  );
 }
 
 /** Fixed square icon toggles (card width ~200px → four 32px chips fit in one row). */
