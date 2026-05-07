@@ -233,140 +233,76 @@ function parentChildPathFork(left: NodeBox, right: NodeBox, child: NodeBox): str
 
 const NEUTRAL_CARD_BG = "#e5e7eb";
 
-/** Toolbar glyphs (titles / aria-labels carry the full wording). */
-function IconParents() {
+/** Tailwind-aligned strokes baked into data-URI SVGs (nested inline `<svg>` inside foreignObject fails on iOS WebKit). */
+const STROKE_TOOLBAR_IDLE = "#27272a";
+const STROKE_TOOLBAR_ON = "#0c4a6e";
+const STROKE_CLOSE = "#52525b";
+const STROKE_LINE_CHILD = "#064e3b";
+
+function pedigreeSvgIconDataUri(inner: string, stroke: string, strokeWidth: number): string {
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="${stroke}" stroke-width="${strokeWidth}" stroke-linecap="round" stroke-linejoin="round">${inner}</svg>`;
+  return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+}
+
+/** Raster-free icon: `<img>` + data URI paints reliably inside SVG foreignObject on iOS. */
+function PedigreeIconImg({ src, size }: { src: string; size: number }) {
   return (
-    <svg
-      viewBox="0 0 16 16"
-      width={14}
-      height={14}
-      className="shrink-0 opacity-90"
-      aria-hidden
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={1.35}
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <path d="M8 13V5M8 5 5 8M8 5l3 3" />
-    </svg>
+    <img
+      src={src}
+      alt=""
+      width={size}
+      height={size}
+      className="pointer-events-none shrink-0 select-none opacity-90"
+      draggable={false}
+      style={{ display: "block" }}
+    />
   );
 }
 
-function IconChildren() {
-  return (
-    <svg
-      viewBox="0 0 16 16"
-      width={14}
-      height={14}
-      className="shrink-0 opacity-90"
-      aria-hidden
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={1.35}
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <path d="M8 3v10M8 13 5 10M8 13l3-3" />
-    </svg>
-  );
+function IconParents({ active }: { active: boolean }) {
+  const stroke = active ? STROKE_TOOLBAR_ON : STROKE_TOOLBAR_IDLE;
+  const src = pedigreeSvgIconDataUri(`<path d="M8 13V5M8 5 5 8M8 5l3 3"/>`, stroke, 1.35);
+  return <PedigreeIconImg src={src} size={14} />;
 }
 
-function IconSiblings() {
-  return (
-    <svg
-      viewBox="0 0 16 16"
-      width={14}
-      height={14}
-      className="shrink-0 opacity-90"
-      aria-hidden
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={1.25}
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <circle cx="5.5" cy="5.5" r="2.2" />
-      <path d="M5.5 7.7v3.3" />
-      <circle cx="10.5" cy="5.5" r="2.2" />
-      <path d="M10.5 7.7v3.3" />
-    </svg>
-  );
+function IconChildren({ active }: { active: boolean }) {
+  const stroke = active ? STROKE_TOOLBAR_ON : STROKE_TOOLBAR_IDLE;
+  const src = pedigreeSvgIconDataUri(`<path d="M8 3v10M8 13 5 10M8 13l3-3"/>`, stroke, 1.35);
+  return <PedigreeIconImg src={src} size={14} />;
 }
 
-function IconSpouse() {
-  return (
-    <svg
-      viewBox="0 0 16 16"
-      width={14}
-      height={14}
-      className="shrink-0 opacity-90"
-      aria-hidden
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={1.25}
-      strokeLinecap="round"
-    >
-      <circle cx="6" cy="8" r="3" />
-      <circle cx="10" cy="8" r="3" />
-    </svg>
+function IconSiblings({ active }: { active: boolean }) {
+  const stroke = active ? STROKE_TOOLBAR_ON : STROKE_TOOLBAR_IDLE;
+  const src = pedigreeSvgIconDataUri(
+    `<circle cx="5.5" cy="5.5" r="2.2"/><path d="M5.5 7.7v3.3"/><circle cx="10.5" cy="5.5" r="2.2"/><path d="M10.5 7.7v3.3"/>`,
+    stroke,
+    1.25,
   );
+  return <PedigreeIconImg src={src} size={14} />;
+}
+
+function IconSpouse({ active }: { active: boolean }) {
+  const stroke = active ? STROKE_TOOLBAR_ON : STROKE_TOOLBAR_IDLE;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="${stroke}" stroke-width="1.25" stroke-linecap="round"><circle cx="6" cy="8" r="3"/><circle cx="10" cy="8" r="3"/></svg>`;
+  const src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+  return <PedigreeIconImg src={src} size={14} />;
 }
 
 function IconLineDown() {
-  return (
-    <svg
-      viewBox="0 0 16 16"
-      width={14}
-      height={14}
-      className="shrink-0 opacity-90"
-      aria-hidden
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={1.35}
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <path d="M8 3v7M8 10 5.5 7.5M8 10l2.5-2.5" />
-    </svg>
-  );
+  const src = pedigreeSvgIconDataUri(`<path d="M8 3v7M8 10 5.5 7.5M8 10l2.5-2.5"/>`, STROKE_LINE_CHILD, 1.35);
+  return <PedigreeIconImg src={src} size={14} />;
 }
 
 function IconFocus() {
-  return (
-    <svg
-      viewBox="0 0 16 16"
-      width={14}
-      height={14}
-      className="shrink-0 opacity-90"
-      aria-hidden
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={1.25}
-      strokeLinecap="round"
-    >
-      <circle cx="8" cy="8" r="2.8" />
-      <path d="M8 1.5v2M8 12.5v2M1.5 8h2M12.5 8h2" />
-    </svg>
-  );
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="${STROKE_TOOLBAR_IDLE}" stroke-width="1.25" stroke-linecap="round"><circle cx="8" cy="8" r="2.8"/><path d="M8 1.5v2M8 12.5v2M1.5 8h2M12.5 8h2"/></svg>`;
+  const src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+  return <PedigreeIconImg src={src} size={14} />;
 }
 
 function IconCloseCard() {
-  return (
-    <svg
-      viewBox="0 0 16 16"
-      width={12}
-      height={12}
-      className="shrink-0"
-      aria-hidden
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={1.5}
-      strokeLinecap="round"
-    >
-      <path d="M5 5l6 6M11 5L5 11" />
-    </svg>
-  );
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="${STROKE_CLOSE}" stroke-width="1.5" stroke-linecap="round"><path d="M5 5l6 6M11 5L5 11"/></svg>`;
+  const src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+  return <PedigreeIconImg src={src} size={12} />;
 }
 
 /** Fixed square icon toggles (card width ~200px → four 32px chips fit in one row). */
@@ -859,7 +795,7 @@ function PedigreeChartLoaded({
                                 aria-label="Toggle parents on chart"
                                 onClick={() => toggle("parents")}
                               >
-                                <IconParents />
+                                <IconParents active={urlState.parents.has(n.id)} />
                               </button>
                             ) : null}
                             {showChildrenBtn ? (
@@ -870,7 +806,7 @@ function PedigreeChartLoaded({
                                 aria-label="Toggle children on chart"
                                 onClick={() => toggle("children")}
                               >
-                                <IconChildren />
+                                <IconChildren active={urlState.children.has(n.id)} />
                               </button>
                             ) : null}
                             {showSiblingsBtn ? (
@@ -881,7 +817,7 @@ function PedigreeChartLoaded({
                                 aria-label="Toggle siblings on chart"
                                 onClick={() => toggle("siblings")}
                               >
-                                <IconSiblings />
+                                <IconSiblings active={urlState.siblings.has(n.id)} />
                               </button>
                             ) : null}
                             {showSpousesBtn ? (
@@ -892,7 +828,7 @@ function PedigreeChartLoaded({
                                 aria-label="Toggle spouses on chart"
                                 onClick={() => toggle("spouses")}
                               >
-                                <IconSpouse />
+                                <IconSpouse active={urlState.spouses.has(n.id)} />
                               </button>
                             ) : null}
                             </div>

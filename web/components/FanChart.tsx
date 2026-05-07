@@ -7,6 +7,7 @@ import {
   useRef,
   useState,
   useEffect,
+  useLayoutEffect,
   type ReactNode,
   type RefObject,
 } from "react";
@@ -35,7 +36,8 @@ type FanSegment = {
 
 type Props = {
   root: AncestorNode;
-  maxGeneration: number;
+  /** Deepest ancestor ring in data (parents = 1). User can show fewer via − / +. */
+  maxAvailableGenerations: number;
   photoInfos: Record<string, PhotoInfo | null>;
   centers?: Person[];
 };
@@ -84,6 +86,8 @@ const TOP_GUTTER = 28;
 const ROOT_STACK_BELOW = 150;
 const ROOT_R = 90;
 const ROOT_GAP = 36;
+/** Initial ancestor rings shown (parents = 1); capped by data depth. */
+const DEFAULT_FAN_DISPLAY_GENERATIONS = 7;
 
 const BAND_SCALE = 1.07;
 const DRAG_THRESHOLD_PX = 5;
@@ -291,6 +295,50 @@ function ZoomControls({
   );
 }
 
+function GenerationControls({
+  displayGenerations,
+  maxAvailable,
+  onStep,
+}: {
+  displayGenerations: number;
+  maxAvailable: number;
+  onStep: (delta: -1 | 1) => void;
+}) {
+  if (maxAvailable < 1) return null;
+  return (
+    <div className="absolute left-3 top-3 z-10 flex items-center gap-1 rounded-lg border border-zinc-300 bg-white/95 px-1 py-0.5 shadow-sm backdrop-blur-sm">
+      <button
+        type="button"
+        className="flex min-h-[44px] min-w-[44px] items-center justify-center rounded text-base font-bold text-zinc-700 hover:bg-zinc-100 active:bg-zinc-200 disabled:pointer-events-none disabled:opacity-35"
+        aria-label="Show fewer ancestor generations"
+        disabled={displayGenerations <= 1}
+        onClick={() => onStep(-1)}
+      >
+        −
+      </button>
+      <span
+        className="flex min-h-[44px] w-14 flex-col items-center justify-center px-0.5 text-center leading-tight"
+        title="Ancestor rings shown (parents = 1, grandparents = 2, …)"
+      >
+        <span className="text-[11px] font-semibold tabular-nums text-zinc-700">
+          {displayGenerations}
+          <span className="font-normal text-zinc-400">/{maxAvailable}</span>
+        </span>
+        <span className="text-[9px] font-medium uppercase tracking-wide text-zinc-400">gen</span>
+      </span>
+      <button
+        type="button"
+        className="flex min-h-[44px] min-w-[44px] items-center justify-center rounded text-base font-bold text-zinc-700 hover:bg-zinc-100 active:bg-zinc-200 disabled:pointer-events-none disabled:opacity-35"
+        aria-label="Show more ancestor generations"
+        disabled={displayGenerations >= maxAvailable}
+        onClick={() => onStep(1)}
+      >
+        +
+      </button>
+    </div>
+  );
+}
+
 /* ── Birthplace legend ───────────────────────────── */
 
 function ChartLegend() {
@@ -356,7 +404,7 @@ function ChartLegend() {
 
 /* ── Fan chart ───────────────────────────────────── */
 
-export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp }: Props) {
+export function FanChart({ root, maxAvailableGenerations, photoInfos, centers: centersProp }: Props) {
   const svgRef = useRef<SVGSVGElement>(null);
   const zoomRef = useRef<d3.ZoomBehavior<SVGSVGElement, unknown>>(null);
   const urlTimerRef = useRef<number>(0);
@@ -365,13 +413,33 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
   const routerRef = useRef(router);
   routerRef.current = router;
 
+  const cap = Math.max(0, maxAvailableGenerations);
+  const [displayGenerations, setDisplayGenerations] = useState(() => {
+    const top = Math.max(1, cap || 1);
+    return Math.min(DEFAULT_FAN_DISPLAY_GENERATIONS, top);
+  });
+
+  useEffect(() => {
+    setDisplayGenerations((prev) => {
+      const top = Math.max(1, cap || 1);
+      return Math.min(Math.max(1, prev), top);
+    });
+  }, [cap]);
+
+  const stepGenerations = useCallback((delta: -1 | 1) => {
+    setDisplayGenerations((g) => {
+      const top = Math.max(1, cap || 1);
+      return Math.min(Math.max(1, g + delta), top);
+    });
+  }, [cap]);
+
   /* ── Layout computation (pure, deterministic) ──── */
 
   const segments = useMemo(() => {
     const out: FanSegment[] = [];
-    layoutAncestors(root, maxGeneration, out);
+    layoutAncestors(root, displayGenerations, out);
     return out;
-  }, [root, maxGeneration]);
+  }, [root, displayGenerations]);
 
   const generationEras = useMemo(() => computeGenerationEras(segments), [segments]);
 
@@ -392,8 +460,13 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
     return samePhotoUrl || sameBirthUnion;
   }, [centers, photoInfos]);
 
+  /**
+   * Stable viewBox: size to the deepest available rings, not the current `displayGenerations`.
+   * Otherwise viewBox grows/shrinks while CSS height is fixed → visible "zoom jump" on − / +.
+   */
   const { chartH, chartCY } = useMemo(() => {
-    const maxR = maxOuterRadius(maxGeneration);
+    const sizingGenerations = Math.max(1, cap || 1);
+    const maxR = maxOuterRadius(sizingGenerations);
     const cy = TOP_GUTTER + maxR;
     const sinLow = Math.max(
       Math.sin(FAN_END - Math.PI / 2),
@@ -403,11 +476,22 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
     const rootStackBelow = mergeRootCenters ? ROOT_R + 32 : ROOT_FOCUS_DY + ROOT_STACK_BELOW;
     const h = Math.ceil(cy + Math.max(rootStackBelow, rimLow + 20) + 12);
     return { chartH: h, chartCY: cy };
-  }, [maxGeneration, mergeRootCenters]);
+  }, [cap, mergeRootCenters]);
 
   const arcGen = useMemo(() => d3.arc<ArcDatum>().padAngle(0.003).cornerRadius(2), []);
 
+  /** d3 sets transform on #chart-content, but React re-renders (e.g. generation +/−) reconcile the <g> and drop it — keep a ref and re-apply after paint. */
+  const zoomTransformRef = useRef<d3.ZoomTransform>(d3.zoomIdentity);
+
   /* ── D3-zoom (pan/scale only) ─────────────────── */
+
+  useLayoutEffect(() => {
+    const svgEl = svgRef.current;
+    if (!svgEl) return;
+    d3.select(svgEl)
+      .select<SVGGElement>("#chart-content")
+      .attr("transform", zoomTransformRef.current.toString());
+  }, [displayGenerations, mergeRootCenters]);
 
   useEffect(() => {
     const svgEl = svgRef.current;
@@ -419,6 +503,7 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
       .clickDistance(DRAG_THRESHOLD_PX)
       .on("start", () => { svgEl.style.cursor = "grabbing"; })
       .on("zoom", (event) => {
+        zoomTransformRef.current = event.transform;
         svg.select<SVGGElement>("#chart-content").attr("transform", event.transform.toString());
         clearTimeout(urlTimerRef.current);
         urlTimerRef.current = window.setTimeout(() => writeUrlTransform(event.transform), 150);
@@ -429,10 +514,9 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
     svg.call(zoom);
     svg.on("dblclick.zoom", null);
 
-    const saved = readUrlTransform();
-    if (saved) {
-      svg.call(zoom.transform, saved);
-    }
+    const initial = readUrlTransform() ?? d3.zoomIdentity;
+    zoomTransformRef.current = initial;
+    svg.call(zoom.transform, initial);
 
     function onClick(e: MouseEvent) {
       const el = (e.target as Element).closest?.("[data-href]");
@@ -455,6 +539,11 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
 
   return (
     <div className="relative w-full">
+      <GenerationControls
+        displayGenerations={displayGenerations}
+        maxAvailable={cap}
+        onStep={stepGenerations}
+      />
       <ZoomControls svgRef={svgRef} zoomRef={zoomRef} />
       <div
         className="rounded-lg border border-zinc-200 bg-zinc-100/40 overflow-hidden"

@@ -216,3 +216,20 @@ export function buildAncestorTree(tree: FamilyTree, rootId: string, maxDepth: nu
   }
   return walk(rootId, 0);
 }
+
+/**
+ * Deepest fan ring under root that exists in the ancestor tree (parents = 1, grandparents = 2, …).
+ * Matches {@link layoutAncestors} generation indexing. Use after {@link buildAncestorTree}.
+ */
+export function maxAncestorRingGeneration(root: AncestorNode): number {
+  let max = 0;
+  function walk(n: AncestorNode | null, gen: number) {
+    if (!n) return;
+    if (gen >= 1) max = Math.max(max, gen);
+    walk(n.father, gen + 1);
+    walk(n.mother, gen + 1);
+  }
+  walk(root.father, 1);
+  walk(root.mother, 1);
+  return max;
+}

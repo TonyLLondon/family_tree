@@ -6,19 +6,19 @@ import { FanChart } from "@/components/FanChart";
 
 export function FanChartClient({
   root,
-  maxGeneration,
+  maxAvailableGenerations,
   photoInfos,
   centers,
 }: {
   root: AncestorNode;
-  maxGeneration: number;
+  maxAvailableGenerations: number;
   photoInfos: Record<string, PhotoInfo | null>;
   centers?: Person[];
 }) {
   return (
     <FanChart
       root={root}
-      maxGeneration={maxGeneration}
+      maxAvailableGenerations={maxAvailableGenerations}
       photoInfos={photoInfos}
       centers={centers}
     />

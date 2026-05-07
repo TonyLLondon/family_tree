@@ -13,6 +13,7 @@ export {
   collectDirectAncestorIds,
   lineageChildTowardFocus,
   buildAncestorTree,
+  maxAncestorRingGeneration,
   getGenerationCount,
   getYearSpan,
 } from "./genealogy";
