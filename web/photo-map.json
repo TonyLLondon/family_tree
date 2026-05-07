@@ -1,7 +1,7 @@
 {
   "I1":    null,
-  "I6":    { "src": "media/images/portraits/archer-sloan-california.jpg", "focal": [0.40, 0.57], "zoom": 2.8 },
-  "I7":    { "src": "media/images/portraits/archer-sloan-california.jpg", "focal": [0.55, 0.55], "zoom": 2.8 },
+  "I6":    null,
+  "I7":    null,
   "I8":    { "src": "media/docs/david-lewis-military-portrait.png", "focal": [0.68, 0.23], "zoom": 2.5 },
   "I9":    { "src": "media/docs/nonna-smiling.png", "focal": [0.3, 0.4], "zoom": 1.8 },
   "I10":   { "src": "media/images/portraits/robert-stump-molly-white.jpg", "focal": [0.38, 0.19], "zoom": 2.2 },

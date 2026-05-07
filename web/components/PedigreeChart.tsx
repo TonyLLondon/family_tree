@@ -391,7 +391,6 @@ function pedigreeAvatarBgStyle(src: string, focal: [number, number], zoom: numbe
   return {
     width: "100%",
     height: "100%",
-    borderRadius: "9999px",
     backgroundImage: `url("${src}")`,
     backgroundSize: zoom > 1 ? `${Math.round(zoom * 100)}%` : "cover",
     backgroundPosition: `${pctX}% ${pctY}%`,
@@ -784,7 +783,16 @@ function PedigreeChartLoaded({
                       >
                         <div style={{ display: "flex", flexShrink: 0, flexDirection: "row", alignItems: "flex-start", gap: 8 }}>
                           {photo ? (
-                            <div style={{ width: 48, height: 48, flexShrink: 0, borderRadius: "50%", boxShadow: "0 4px 6px -1px rgba(0,0,0,.1)", clipPath: "circle(50%)" }}>
+                            <div
+                              style={{
+                                width: 48,
+                                height: 48,
+                                flexShrink: 0,
+                                borderRadius: "50%",
+                                overflow: "hidden",
+                                boxShadow: "0 4px 6px -1px rgba(0,0,0,.1)",
+                              }}
+                            >
                               <div
                                 style={pedigreeAvatarBgStyle(photo.url, photo.focal ?? [0.5, 0.5], photo.zoom ?? 1)}
                               />

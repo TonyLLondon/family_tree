@@ -375,6 +375,23 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
 
   const generationEras = useMemo(() => computeGenerationEras(segments), [segments]);
 
+  const centers = useMemo((): Person[] => {
+    if (centersProp?.length) return centersProp.filter(Boolean);
+    if (root.person) return [root.person];
+    return [{ id: root.id, displayName: root.id }];
+  }, [centersProp, root.person, root.id]);
+
+  /** One shared disc at fan origin (siblings + same portrait). */
+  const mergeRootCenters = useMemo(() => {
+    if (centers.length < 2) return false;
+    const photoUrls = centers.map((c) => photoInfos[c.id]?.url ?? null);
+    const samePhotoUrl = Boolean(photoUrls[0]) && photoUrls.every((u) => u === photoUrls[0]);
+    const sameBirthUnion =
+      Boolean(centers[0].birthUnionId) &&
+      centers.every((c) => c.birthUnionId === centers[0].birthUnionId);
+    return samePhotoUrl || sameBirthUnion;
+  }, [centers, photoInfos]);
+
   const { chartH, chartCY } = useMemo(() => {
     const maxR = maxOuterRadius(maxGeneration);
     const cy = TOP_GUTTER + maxR;
@@ -383,17 +400,12 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
       Math.sin(FAN_START - Math.PI / 2),
     );
     const rimLow = maxR * Math.max(0, sinLow);
-    const h = Math.ceil(cy + Math.max(ROOT_FOCUS_DY + ROOT_STACK_BELOW, rimLow + 20) + 12);
+    const rootStackBelow = mergeRootCenters ? ROOT_R + 32 : ROOT_FOCUS_DY + ROOT_STACK_BELOW;
+    const h = Math.ceil(cy + Math.max(rootStackBelow, rimLow + 20) + 12);
     return { chartH: h, chartCY: cy };
-  }, [maxGeneration]);
+  }, [maxGeneration, mergeRootCenters]);
 
   const arcGen = useMemo(() => d3.arc<ArcDatum>().padAngle(0.003).cornerRadius(2), []);
-
-  const centers = useMemo((): Person[] => {
-    if (centersProp?.length) return centersProp.filter(Boolean);
-    if (root.person) return [root.person];
-    return [{ id: root.id, displayName: root.id }];
-  }, [centersProp, root.person, root.id]);
 
   /* ── D3-zoom (pan/scale only) ─────────────────── */
 
@@ -696,17 +708,17 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
                 })}
               </g>
 
-              {/* Root person(s) */}
-              <g transform={`translate(0,${ROOT_FOCUS_DY})`}>
+              {/* Root person(s): merged sibling pair sits at fan origin (0,0); others sit below inner ring. */}
+              <g transform={`translate(0,${mergeRootCenters ? 0 : ROOT_FOCUS_DY})`}>
                 {(() => {
                   const photoUrls = centers.map((c) => photoInfos[c.id]?.url ?? null);
-                  const sharedPhoto =
-                    centers.length > 1 &&
-                    photoUrls[0] &&
+                  const samePhotoUrl =
+                    mergeRootCenters &&
+                    Boolean(photoUrls[0]) &&
                     photoUrls.every((u) => u === photoUrls[0]);
 
-                  if (sharedPhoto) {
-                    const photo = photoUrls[0]!;
+                  if (mergeRootCenters) {
+                    const photo = samePhotoUrl ? photoUrls[0]! : null;
                     const focal = photoInfos[centers[0].id]?.focal ?? ([0.5, 0.5] as [number, number]);
                     const rootZoom = photoInfos[centers[0].id]?.zoom ?? 1;
                     const ring = chartStrokeFromBirthPlace(centers[0].birthPlace);
@@ -721,30 +733,96 @@ export function FanChart({ root, maxGeneration, photoInfos, centers: centersProp
 
                     const allYears = centers.map((c) => yearRange(c)).filter(Boolean);
                     const combinedYears = allYears.join("  ·  ");
+                    const birthPlace = centers[0].birthPlace;
+                    const segFill = chartFillFromBirthPlace(birthPlace);
+                    const nameFill = chartNameFillForSegmentFill(segFill);
+                    const yearsFill = chartYearsFillForSegmentFill(segFill);
+                    const nameLines = splitName(combinedName, 14);
+                    const nameFontSize = 17;
+                    const yearsFontSize = 15;
+                    const nameLineHeight = 22;
+                    const yearsGap = 5;
+                    const blockH =
+                      nameLines.length * nameLineHeight + (combinedYears ? yearsFontSize + yearsGap : 0);
+                    const nameY0 = -blockH / 2 + nameFontSize * 0.75;
 
                     return (
-                      <g transform="translate(0,30)">
-                        {(() => {
-                          photoLayer.push({
-                            key: "root-shared",
-                            x: CX - clipR,
-                            y: chartCY + ROOT_FOCUS_DY + 30 - clipR,
-                            w: clipR * 2,
-                            h: clipR * 2,
-                            src: photo,
-                            focal,
-                            zoom: rootZoom,
-                          });
-                          return null;
-                        })()}
-                        <circle r={ROOT_R} fill="#fff" stroke={ring} strokeWidth={3} />
-                        <text y={108} x={0} textAnchor="middle" fontSize={17} fontWeight={700} fill="#0f172a" style={{ pointerEvents: "none" }}>
-                          {combinedName}
-                        </text>
-                        {combinedYears && (
-                          <text y={128} x={0} textAnchor="middle" fontSize={13} fill="#64748b" style={{ pointerEvents: "none" }}>
-                            {combinedYears}
-                          </text>
+                      <g>
+                        {photo
+                          ? (() => {
+                              photoLayer.push({
+                                key: "root-shared",
+                                x: CX - clipR,
+                                y: chartCY - clipR,
+                                w: clipR * 2,
+                                h: clipR * 2,
+                                src: photo,
+                                focal,
+                                zoom: rootZoom,
+                              });
+                              return null;
+                            })()
+                          : null}
+                        <circle
+                          r={ROOT_R}
+                          fill={photo ? "#fff" : segFill}
+                          stroke={ring}
+                          strokeWidth={3}
+                        />
+                        {photo ? (
+                          <>
+                            <text
+                              y={108}
+                              x={0}
+                              textAnchor="middle"
+                              fontSize={17}
+                              fontWeight={700}
+                              fill="#0f172a"
+                              style={{ pointerEvents: "none" }}
+                            >
+                              {combinedName}
+                            </text>
+                            {combinedYears ? (
+                              <text
+                                y={128}
+                                x={0}
+                                textAnchor="middle"
+                                fontSize={15}
+                                fill="#64748b"
+                                style={{ pointerEvents: "none" }}
+                              >
+                                {combinedYears}
+                              </text>
+                            ) : null}
+                          </>
+                        ) : (
+                          <g style={{ pointerEvents: "none" }}>
+                            {nameLines.map((line, li) => (
+                              <text
+                                key={li}
+                                x={0}
+                                y={nameY0 + li * nameLineHeight}
+                                textAnchor="middle"
+                                fontSize={nameFontSize}
+                                fontWeight={700}
+                                fill={nameFill}
+                              >
+                                {line}
+                              </text>
+                            ))}
+                            {combinedYears ? (
+                              <text
+                                x={0}
+                                y={nameY0 + nameLines.length * nameLineHeight + yearsGap}
+                                textAnchor="middle"
+                                fontSize={yearsFontSize}
+                                fontWeight={500}
+                                fill={yearsFill}
+                              >
+                                {combinedYears}
+                              </text>
+                            ) : null}
+                          </g>
                         )}
                       </g>
                     );

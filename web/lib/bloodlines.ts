@@ -183,11 +183,8 @@ export function buildBloodlineData(tree: FamilyTree): BloodlineData {
   const steps: BloodlineStep[] = [
     {
       era: "2016 – 2018",
-      fullBg: {
-        src: "media/images/portraits/archer-sloan-california.jpg",
-        alt: "Archer and Sloan Lewis, California",
-        caption: "Archer & Sloan — California",
-      },
+      leftBg: LONDON_THAMES,
+      rightBg: GENEVA,
       stump: n("I7", "", "Los Gatos, California"),
       addobbati: n("I6", ""),
     },

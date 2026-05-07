@@ -260,7 +260,11 @@ export function StoryNarrative({
           </p>
           <div className="inline-flex flex-col items-center gap-3">
             <button
-              onClick={next}
+              type="button"
+              onClick={(e) => {
+                e.stopPropagation();
+                next();
+              }}
               className="px-8 py-3 rounded-full bg-amber-600/20 hover:bg-amber-600/30 text-amber-200/80 hover:text-amber-100 transition text-sm tracking-wide border border-amber-600/20"
             >
               Begin · {total} pages →
