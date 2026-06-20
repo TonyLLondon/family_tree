@@ -26,7 +26,7 @@ Mustowfi writes **استمپ** (Stemp), not اشتومپ or اشتمپ. The Engl
 
 | File | Role |
 |------|------|
-| [media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf](../../../media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf) | Full 664-page holder PDF (153 MiB) |
+| `media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf` — local only, 153 MiB, not committed/deployed; source: [Internet Archive dli.ernet.508037](https://archive.org/details/dli.ernet.508037) | Full 664-page holder PDF |
 | [media/docs/mustowfi/mustowfi-mahmoudieh-dr-stemp-p51-facsimile.png](../../../media/docs/mustowfi/mustowfi-mahmoudieh-dr-stemp-p51-facsimile.png) | Page 51 facsimile |
 | [media/docs/mustowfi/mustowfi-mahmoudieh-dr-stemp-excerpt-pp50-52.pdf](../../../media/docs/mustowfi/mustowfi-mahmoudieh-dr-stemp-excerpt-pp50-52.pdf) | Three-page excerpt (pp. 50–52) |
 | [transcription.fa.md](./transcription.fa.md) | Persian transcription |

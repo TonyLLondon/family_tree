@@ -1,6 +1,6 @@
 ---
 language: en
-source_file: manual/Early trade of the northern provinces of Persia a document.pdf
+source_file: media/docs/persia-trade/abrahamian-1983-early-trade-northern-provinces-persia.pdf
 source_pages: "1-3"
 transcriber: agent
 agent_model: gpt-5.5
@@ -18,7 +18,7 @@ verified: false
 - **Journal:** *Iranian Studies* XVI:3–4 (Summer–Autumn 1983), pp. 279–280
 - **DOI:** [10.1080/00210868308701617](https://doi.org/10.1080/00210868308701617)
 - **Extract:** [`extracted.pdf.md`](extracted.pdf.md)
-- **Canonical scan:** [`manual/Early trade of the northern provinces of Persia a document.pdf`](../../../manual/Early%20trade%20of%20the%20northern%20provinces%20of%20Persia%20a%20document.pdf)
+- **Canonical scan:** [`media/docs/persia-trade/abrahamian-1983-early-trade-northern-provinces-persia.pdf`](../../../media/docs/persia-trade/abrahamian-1983-early-trade-northern-provinces-persia.pdf)
 
 The *Brief Notice* text itself — Charles Burgess's memorandum — is in the companion source folder: [`../brief-notice-trade-northern-provinces-persia-villiers/`](../brief-notice-trade-northern-provinces-persia-villiers/).
 

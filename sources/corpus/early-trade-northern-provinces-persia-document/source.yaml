@@ -6,7 +6,7 @@ fetches:
   at: '2026-05-06T15:56:27Z'
   sha256: 84b52ae65af5ba71f27faf63be695e5fcd8bd9eeb8d7ed3a2a9585cba8812772
   bytes: 202204
-  media_reference: manual/Early trade of the northern provinces of Persia a document.pdf
+  media_reference: media/docs/persia-trade/abrahamian-1983-early-trade-northern-provinces-persia.pdf
 files:
   pdf_markdown: extracted.pdf.md
-  media_reference: manual/Early trade of the northern provinces of Persia a document.pdf
+  media_reference: media/docs/persia-trade/abrahamian-1983-early-trade-northern-provinces-persia.pdf
