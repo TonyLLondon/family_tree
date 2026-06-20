@@ -1,0 +1,14 @@
+id: armen-saginian-2022-thank-you-america-who-was-my-father-chapter
+title: "Armen Saginian — Thank You, America & Americans (2022), ch. Who Was My Father"
+remote: {}
+fetches:
+  - kind: local_png
+    at: "2026-05-09T12:00:00Z"
+    repo_path: media/docs/armen-saginian-2022-thank-you-america-who-was-my-father-spread.png
+    sha256: 296e542d7eeb9d38374b73650688816666469f3dc5af5b06c942cc1f5aba489e
+    bytes: 204055
+    note: Two-page spread; page numbers not on scan; succeeds Dawood Khan chapter in same memoir.
+files:
+  media_reference: media/docs/armen-saginian-2022-thank-you-america-who-was-my-father-spread.png
+  reference_md: reference.md
+  transcription_md: transcription.md

@@ -4,7 +4,7 @@ Working note: every **Addobbati** (and closely tied) figure named in Giuseppe Sa
 
 **Canonical in repo**
 
-- Scans + YAML: [sources/corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/) · [transcription-translation.en.md](../sources/corpus/sabalich-guida-zara-addobbati/transcription-translation.en.md)
+- Scans + YAML: [sources/corpus/sabalich-guida-zara/](../sources/corpus/sabalich-guida-zara/) · [transcription-translation.en.md](../sources/corpus/sabalich-guida-zara/transcription-translation.en.md)
 - Citation hub: [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md)
 - Archive index: [sources/corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/) (HR-DAZD-342, 1732–1930)
 

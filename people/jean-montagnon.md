@@ -19,7 +19,7 @@ Nothing else is known about him — no birth, death, or marriage record has been
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6NQK-Q676 | Named as father at baptism of François Montagnon, 22 Dec 1667 | [corpus](../sources/corpus/1667-baptism-francois-montagnon/reference.md) |
-| 6NQK-XSP4 | Named as father at baptism of Elisabet Montagnon, 7 Nov 1670 | [corpus](../sources/corpus/1670-baptism-elisabet-montagnon/reference.md) |
+| 6NQK-Q676 | Named as father at baptism of François Montagnon, 22 Dec 1667 | [reference](../sources/corpus/1667-baptism-francois-montagnon/reference.md) |
+| 6NQK-XSP4 | Named as father at baptism of Elisabet Montagnon, 7 Nov 1670 | [reference](../sources/corpus/1670-baptism-elisabet-montagnon/reference.md) |

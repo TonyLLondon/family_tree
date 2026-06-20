@@ -19,7 +19,7 @@
 
 **ARK:** `3:1:3Q9M-CS7M-8QHL-X`  
 
-April 2026: API image fetch from a home session was **blocked** (FamilySearch Centre–type restriction + **403** on DeepZoom). **Capture at an FSC** and file here — [wishlist](../../../wishlist/chile-mora-parish-films-fsc.md).
+April 2026: API image fetch from a home session was **blocked** (FamilySearch Centre–type restriction + **403** on DeepZoom). **Capture at an FSC** and file here — [chile-mora parish films wishlist](../../wishlist/chile-mora-parish-films-fsc.md).
 
 ## Index conflict — mother’s identity
 

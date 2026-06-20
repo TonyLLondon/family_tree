@@ -90,7 +90,32 @@ export function resolveVaultHref(currentFileRelPosix: string, raw: string): stri
     joined = joined.slice("sources/".length);
   }
 
+  // `../media/...` from `sources/corpus/<slug>/` lands as `sources/corpus/media/...` — same intent as `../../media/`.
+  if (joined.startsWith("sources/corpus/media/")) {
+    joined = joined.slice("sources/corpus/".length);
+  }
+
   joined = joined.replace(/\/$/, "");
+
+  // From `sources/corpus/<slug>/`, one `../` too few often lands paths under bogus trees:
+  // `../people/x.md` → `sources/corpus/people/x.md`; `../../people/x.md` → `sources/people/x.md`.
+  const corpusMis = joined.match(
+    /^sources\/corpus\/(people|stories|topics|sources)\/(.+)$/,
+  );
+  if (corpusMis) {
+    const bucket = corpusMis[1]!;
+    const rest = corpusMis[2]!;
+    if (bucket === "people") joined = `people/${rest}`;
+    else if (bucket === "stories") joined = `stories/${rest}`;
+    else if (bucket === "topics") joined = `topics/${rest}`;
+    else joined = `sources/${rest}`;
+  } else if (joined.startsWith("sources/people/")) {
+    joined = joined.slice("sources/".length);
+  } else if (joined.startsWith("sources/stories/")) {
+    joined = joined.slice("sources/".length);
+  } else if (joined.startsWith("sources/topics/")) {
+    joined = joined.slice("sources/".length);
+  }
 
   if (joined === "index.md") return `/${hashSuffix}`;
 

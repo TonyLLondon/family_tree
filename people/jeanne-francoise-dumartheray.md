@@ -27,8 +27,8 @@ She married [Louis Montagnon](louis-montagnon.md) and their daughter [Jeanne Bé
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6JCK-8LQQ | Baptism — 25 Mar 1775, Vaud | [corpus](../sources/corpus/1775-baptism-jeanne-francoise-dumartheray/reference.md) |
-| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray | [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
-| 6JCK-2SH2 | Family register — parents Dumartheray × Borel, 4 Aug 1767 | [corpus](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
+| 6JCK-8LQQ | Baptism — 25 Mar 1775, Vaud | [reference](../sources/corpus/1775-baptism-jeanne-francoise-dumartheray/reference.md) |
+| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray | [reference](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
+| 6JCK-2SH2 | Family register — parents Dumartheray × Borel, 4 Aug 1767 | [reference](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |

@@ -9,4 +9,6 @@ fetches:
   bytes: 662170
 files:
   pdf_markdown: extracted.pdf.md
+  reference: reference.md
+  transcription: transcription.md
   media_reference: media/collections/burgess-persian-letters/Merged Sections/NYPL Bulletin Burgess Persian Letters Schwartz - 09 Appendix Anna Burgess interview Daoud Khan.pdf

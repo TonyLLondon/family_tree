@@ -42,10 +42,10 @@ alsoKnownAs: Cunrat Stump
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6F8J-XV39 | Burial — 11 Aug 1560, Switzerland | [corpus](../sources/corpus/conradt-stumpp-burial-1560/reference.md) |
-| 66JT-TBFH | Baptism — Elsbeth Stump, 27 May 1534, Zürich (father: Cunrat Stump) | [corpus](../sources/corpus/cunrat-stump-family-1534/reference.md) |
+| 6F8J-XV39 | Burial — 11 Aug 1560, Switzerland | [reference](../sources/corpus/conradt-stumpp-burial-1560/reference.md) |
+| 66JT-TBFH | Baptism — Elsbeth Stump, 27 May 1534, Zürich (father: Cunrat Stump) | [reference](../sources/corpus/cunrat-stump-family-1534/reference.md) |
 
 ## Geographic Context
 

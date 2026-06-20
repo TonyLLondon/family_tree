@@ -13,4 +13,4 @@ The album opens with a Caesar epigraph — *"Meglio essere il primo al proprio p
 
 **Browse:** [Certi Ricordi story](/stories/certi-ricordi) — side-by-side original scans with Italian transcription and English translation.
 
-**Corpus:** [reference.md](corpus/certi-ricordi-zerauschek-addobbati/reference.md)
+**Source record:** [reference.md](corpus/certi-ricordi-zerauschek-addobbati/reference.md)

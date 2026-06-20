@@ -13,6 +13,7 @@ provenance:
 files:
   media_reference: "media/albums/henderson/Forever Russian - Stump extract.doc"
   extract: "extracted.txt"
+  transcription: "transcription.md"
 people:
   - vera-obolensky
   - etienne-stump

@@ -36,7 +36,7 @@ All six names appear on a printed Christmas card: *"Merry Christmas and a Happy 
 
 ## Evidence
 
-- **Memoir (addressee):** [Fulvia — family history memoir (1996)](../sources/famhist-nonna-memoir-1996.md) · [corpus bundle](../sources/corpus/famhist-nonna-memoir-1996/).
+- **Memoir (addressee):** [Fulvia — family history memoir (1996)](../sources/famhist-nonna-memoir-1996.md) · [reference](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Birthday reminder sheet:** [PMLsBirthdays/page-1.jpg](../media/docs/souvenirs/peter-lewis-family/PMLsBirthdays/page-1.jpg) — "PETER 14TH JULY 1953 / ANNE 23RDAUGUST 1960 / GEMMA 26TH JANUARY 1984 / HALEY 15TH FEBRUARY 1985 / CLARA 5TH JANUARY .1988 / ROBERT 20TH NOVEMBER 1989."
 - **1998 birthday calendar:** [PMLBDayCalendar-01.jpg](../media/docs/souvenirs/peter-lewis-family/PMLBDayCalendar-01.jpg) through [-13](../media/docs/souvenirs/peter-lewis-family/PMLBDayCalendar-13.jpg) — Italian-language calendar for 1998, compiled by Peter, with photos and birth years for extended family members across both the Lewis and Zerauschek/Rivolta sides.
 - **Christmas card:** [PMLBDayCalendar-01.jpg](../media/docs/souvenirs/peter-lewis-family/PMLBDayCalendar-01.jpg) — cover page signed "from Peter, Anne, Gemma, Haley, Clara and Robert," with a child's drawing of a Christmas living room scene.

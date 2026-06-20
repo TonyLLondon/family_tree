@@ -7,7 +7,7 @@ kind: pdf
 
 **Remote PDF (open access):** [edizionicafoscari.unive.it — chapter 3](https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-771-5/978-88-6969-771-5-ch-03.pdf)
 
-**Corpus bundle:** [corpus/venetian-cittadini-originari-ch3/](corpus/venetian-cittadini-originari-ch3/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/venetian-cittadini-originari-ch3/extracted.pdf.md).
+**Source record:** [full record](corpus/venetian-cittadini-originari-ch3/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/venetian-cittadini-originari-ch3/extracted.pdf.md).
 
 ## Summary
 

@@ -61,7 +61,7 @@ The Armenian military role in Qajar Persia parallels other Christian minorities 
 | Maeda 2019 — Enikolopians / Saginean flight | [reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [source card](../sources/maeda-2019-enikolopians.md) |
 | Identity synthesis (Anna, Tamar, Daoud) | [Was Anna a Saginian?](was-anna-saginian.md) |
 | Working note — Armenian officers essay | [research/iran-qajar/armenian-officers-qajar-military.md](../research/iran-qajar/armenian-officers-qajar-military.md) |
-| Connections BMC — Saginian/Cormick interview | [source card](../sources/connectionsbmc-saginian-interview.md) · [corpus](../sources/corpus/connectionsbmc-saginian-interview/) |
+| Connections BMC — Saginian/Cormick interview | [source card](../sources/connectionsbmc-saginian-interview.md) · [full record](../sources/corpus/connectionsbmc-saginian-interview/) |
 | NYPL Burgess appendix — Anna interview (1880) | [extract](../sources/corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md) |
 
 ## Related topics

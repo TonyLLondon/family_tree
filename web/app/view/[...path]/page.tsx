@@ -169,7 +169,7 @@ function corpusBundleHref(filePath: string): string | null {
   return m ? `/sources/${encodeURIComponent(m[1]!)}` : null;
 }
 
-function MachineExtractNotice({ filePath }: { filePath: string }) {
+function IngestExtractNotice({ filePath }: { filePath: string }) {
   const isLikelyMachineExtract = /\/extracted\.(pdf|web)\.md$/i.test(filePath);
   if (!isLikelyMachineExtract) return null;
 
@@ -178,10 +178,10 @@ function MachineExtractNotice({ filePath }: { filePath: string }) {
   return (
     <div className="mb-8 rounded-xl border border-amber-200/90 bg-amber-50 px-4 py-3 text-sm text-amber-950 shadow-sm ring-1 ring-amber-950/5">
       <p className="m-0 font-medium leading-snug">
-        This file is <strong className="font-semibold">machine-extracted</strong> from a PDF or
-        web capture. OCR and layout conversion often produce broken words and stray symbols the
-        extractor could not interpret. For clean reading, use the original scan or HTML in this
-        evidence bundle.
+        This file is <strong className="font-semibold">automated ingest text</strong> from the
+        PDF or web ingest pipeline (text layer, layout, or OCR). It is a search and reference aid;
+        use the original scan or HTML, or the human transcription on the full record page, for
+        clean reading and quotations.
       </p>
       {bundleHref ? (
         <p className="mb-0 mt-2">
@@ -219,7 +219,7 @@ function MarkdownView({
       >
         <FileHeader filePath={filePath} rawUrl={rawUrl} />
         {hasFrontmatter && <FrontmatterTable data={data} />}
-        <MachineExtractNotice filePath={filePath} />
+        <IngestExtractNotice filePath={filePath} />
         <article className="mx-auto min-w-0 max-w-prose">
           <MarkdownContent content={content} filePath={filePath} />
         </article>

@@ -52,9 +52,9 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Johanness Mock, 27 Sep 1661, Sulgen, parents Thoma Mock & Anna Sprenger · [corpus](../sources/corpus/johannes-mockh-baptism-1661/reference.md) · FamilySearch FV8G-VDQ
+- **Baptism record:** Johanness Mock, 27 Sep 1661, Sulgen, parents Thoma Mock & Anna Sprenger · [reference](../sources/corpus/johannes-mockh-baptism-1661/reference.md) · FamilySearch FV8G-VDQ
 - **Death record:** Johannes Mockh, 15 Mar 1736, Sulgen, born 1662 · FamilySearch 6FZL-NL76
-- **Daughter's baptism:** Margaretha Mockh, 10 Jan 1706, parents Johannes Mockh & Margaretha Schoenholtzer · [corpus](../sources/corpus/margreth-mockh-baptism-1706/reference.md) · FamilySearch FVKY-22N
+- **Daughter's baptism:** Margaretha Mockh, 10 Jan 1706, parents Johannes Mockh & Margaretha Schoenholtzer · [reference](../sources/corpus/margreth-mockh-baptism-1706/reference.md) · FamilySearch FVKY-22N
 - **Marriage confirmation:** Through daughter's marriage record showing Johannes Mockh as father · FamilySearch FVNZ-2FY
 
 ## Research Notes (2026-04-11)

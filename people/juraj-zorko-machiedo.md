@@ -36,4 +36,4 @@ Per **Kovačić 2014**, born **1879**, died **Zagreb 1963**. Studied **mining en
 
 ## Evidence
 
-- [kovacic-2014-rod-machiedo-hvar](../sources/kovacic-2014-rod-machiedo-hvar.md) → [corpus bundle](../sources/corpus/kovacic-2014-rod-machiedo-hvar/) — print **~237–238**; [reference extract](../sources/corpus/kovacic-2014-rod-machiedo-hvar/reference.md).
+- [kovacic-2014-rod-machiedo-hvar](../sources/kovacic-2014-rod-machiedo-hvar.md) · [full record](../sources/corpus/kovacic-2014-rod-machiedo-hvar/) — print **~237–238**; [reference](../sources/corpus/kovacic-2014-rod-machiedo-hvar/reference.md).

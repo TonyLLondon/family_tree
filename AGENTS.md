@@ -16,7 +16,8 @@ The vault is for **judgment and narrative**, not for treating machine extracts a
 
 1. **Read the evidence** in `sources/corpus/<slug>/`: prefer **`transcription*.md`**, **`translation*.md`**, and **`reference.md`** when present; use **`extracted.pdf.md` / `extracted.web.md`** or the file under **`media/`** when that is what you have.
 2. **Integrate** defensible facts and (where rights allow) short quotations into **`people/*.md`**, **`stories/*.md`**, **`topics/*.md`**, or a thin **`sources/*.md`** card—always with **repo-relative links** back to the bundle.
-3. **`research/`** is working space; fold stable conclusions into those canonical files and trim redundant memos.
+3. **Move the evidence:** **relocate** cited **images, PDFs, and screenshots** into **`media/`** or **`sources/corpus/<slug>/`** and link them there—do **not** delete those source files. Notes cite the moved artifacts.
+4. **`research/`** is working space; fold stable conclusions into those canonical files and trim redundant memos.
 
 Scripts (below) handle **sync, ingest, and validation**. They do not replace opening the markdown or PDF and writing what you learned.
 
@@ -28,7 +29,7 @@ Scripts (below) handle **sync, ingest, and validation**. They do not replace ope
 | `topics/` | Places, institutions, themes, and regional family hubs (`topics/index.md` hub). Includes former "line hubs" (Persia, Zara, Lewis/Stump, Evans/Cerpa-Pérez). |
 | `sources/*.md` | **Citation cards**: short summary, links to people, pointer into corpus. Optional YAML `corpus:` + `kind: pdf\|web`. |
 | `index.md` | Vault map (tables for `media/` layout). |
-| `manual/` | **Inbox** for raw drops to be **read and relocated** into `people/`, `stories/`, `sources/corpus/`, `media/`, etc. See `manual/README.md`. |
+| `manual/` | **Inbox** for raw drops: **read**, then **move** cited images and source documents into **`media/`** or **`sources/corpus/<slug>/`**, and integrate prose into `people/`, `stories/`, etc.—**never delete** the binaries; only **relocate** them. See `manual/README.md`. |
 
 **Regional hubs (in `topics/`):** `topics/persia.md` (Persia trunk); `topics/zara-italy-dalmatia.md` (Zara); `topics/evans-cerpa-perez-london-chile.md` (London Evans × Chile).
 
@@ -63,6 +64,8 @@ Do **not** commit or edit `.venv/`, `__pycache__/`, `.mypy_cache/`.
 ## Scripts (hygiene & ingest)
 
 Optional tooling—not a substitute for reading corpus files and editing prose.
+
+**Vault prose and markdown:** do not add unmaintained repo-wide “rewrite” scripts over `people/`, `topics/`, `stories/`, or `sources/corpus/` (regex sweeps, batch find-replace tools, etc.). Prefer deliberate, reviewable edits—e.g. focused chat sessions or small hand-edited diffs—so tone, links, and evidence stay accurate.
 
 - `validate_family_tree_json.py` — validate `family-tree.json` (schema 1 or 2).
 - `sync_family_tree_json.py` — apply `people/*.md` (`treeId`) + keep hand-edited JSON fields. Vault-only (no GEDCOM). `merge_gedcom_vitals_into_family_tree.py` is a backward-compatible wrapper.

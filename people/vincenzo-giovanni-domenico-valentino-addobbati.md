@@ -39,17 +39,17 @@ He died in Zara on 28 January 1839. The 1845 marriage of his posthumous “voice
 
 ## Evidence
 
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 508:** “Vincenzo Addobbati q m Luigi (nato 1776)” — parentage confirmed; birth year 1776 **superseded** by 1811 register and DAZD (24 Mar 1781) — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
-- **Marriage register, Entry nº 13, 25 Feb 1811:** age “d'anni 30 c.a”, ceremony in bride's house, five civic witnesses; father “fù Luigi”, mother “fù Maddalena Plavina” — [corpus](../sources/corpus/1811-marriage-addobbati-coltelli-zara/reference.md).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 508:** “Vincenzo Addobbati q m Luigi (nato 1776)” — parentage confirmed; birth year 1776 **superseded** by 1811 register and DAZD (24 Mar 1781) — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) · [full record](../sources/corpus/sabalich-guida-zara/).
+- **Marriage register, Entry nº 13, 25 Feb 1811:** age “d'anni 30 c.a”, ceremony in bride's house, five civic witnesses; father “fù Luigi”, mother “fù Maddalena Plavina” — [reference](../sources/corpus/1811-marriage-addobbati-coltelli-zara/reference.md).
 - **Sabalich p. 505:** 1804 Nin diploma: “D.r Petri et Joanes Vincentis fratres Addobbati q m Aloysium.”
-- **Granić 1817 Nin list:** Ivan Vicko Addobbati (son of Lujo) among 1804 admissions; sons Petar and Josip in 1817 generation — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) → [corpus/granic-nin-noble-list-1817/](../sources/corpus/granic-nin-noble-list-1817/).
-- **DAZD family fonds (HR-DAZD-342):** sig. 19 — 1 July 1804 Nin municipal confirmation — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
+- **Granić 1817 Nin list:** Ivan Vicko Addobbati (son of Lujo) among 1804 admissions; sons Petar and Josip in 1817 generation — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) · [full record](../sources/corpus/granic-nin-noble-list-1817/).
+- **DAZD family fonds (HR-DAZD-342):** sig. 19 — 1 July 1804 Nin municipal confirmation — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) · [full record](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Celić 1806 census:** “Vicko Addobbati” in Zara citizen council — [sources/celic-zadarsko-plemstvo-francuska-uprava.md](../sources/celic-zadarsko-plemstvo-francuska-uprava.md).
 - Narrative: [addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 - **Tree id:** **I29**, families F14 / F15; [FamilySearch collaborative tree](../sources/corpus/fs-tree-addobbati-zadar/reference.md) (GW1S-CGK); [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).
 
 ## Open questions
 
-- **1839 death** — civil or church image bundle in the DAZD state archives.
+- **1839 death** — civil or church image records in the DAZD state archives.
 - **Sons Petar and Josip** (per Granić 1817) — not yet in the structured tree.
 - **Daughter Anna** — no birth record located yet.

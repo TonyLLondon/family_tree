@@ -62,7 +62,7 @@ Dr. Sayyah described the villa as magnificent, filled with antiques and precious
 
 ## 7. The guesthouse and Vera (1920s–1951)
 
-In the 1920s, a Russian émigré named **[Vera Obolensky](../people/vera-obolensky.md)** arrived in Tehran. Born Nemtchinova, previously married to Prince Yuri Obolensky, Vera was part of the wave of White Russian refugees who washed through Persia after the Revolution. Stump hired her to manage a large **European-style guesthouse** on the Mahmoudieh estate — forty or more rooms, catering to European business travellers and diplomats passing through.
+In the 1920s, a Russian émigré named **[Vera Obolensky](../people/vera-obolensky.md)** arrived in Tehran. Born Nemtchinova, previously married to Prince Yuri Obolensky, Vera was part of the wave of White Russian refugees who washed through Persia after the Revolution. Stump hired her to manage a large **European-style guesthouse** on the Mahmoudieh estate — forty or more cabins, catering to **European company men** sent from abroad on short Tehran postings.
 
 Georges Obolensky, Vera's son, recalled the arrangement in his memoir [*Forever Russian*](../sources/forever-russian-stump-extract.md) (2015). He grew up in the guesthouse, attending a French school run by Mademoiselle Tomassin. His mother was always busy with her duties. "My mother was always busy with her duties at the bed and breakfast, which didn't leave much time for me," he wrote. "She usually spent it with her friend, Dr Stump, a Swiss dentist practising in Teheran. He was the only dentist in Teheran at that time. He was also the owner of the B and B my mother managed and expanded."
 

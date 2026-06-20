@@ -10,7 +10,7 @@ Marriage in the **Collegiate Parish Church of Sv. Šime** (San Simeone), **Zara*
 
 ## Register fields (cross-attested)
 
-These facts are documented in the family papers and on the parish marriage register of the couple's daughter Ottilia (1890 entry N. 8, this corpus). Field-level transcription of the 1849 register entry itself remains to be made from the scan.
+These facts are documented in the family papers and on the parish marriage register of the couple's daughter Ottilia (1890 entry N. 8, [see Ottilia's marriage record](../1890-marriage-addobbati-boara-zara/)). Field-level transcription of the 1849 register entry itself remains to be made from the scan.
 
 | Field | Value |
 |-------|-------|

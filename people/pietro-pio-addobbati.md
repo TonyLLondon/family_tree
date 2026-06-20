@@ -40,19 +40,19 @@ The Addobbati, despite their civic standing, broke the gentry convention of not 
 
 - **Tree id:** **I20**; FamilySearch source block **@S12@** in the working tree. Parental marriage **F12**; union with Ottilia **F10**.
 - [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).
-- **Marriage register, Entry N. 8, 12 Feb 1890 (Basilica Metropolitana, Zara):** full details of both spouses, parents' occupations and vital status, four witnesses — [corpus](../sources/corpus/1890-marriage-addobbati-boara-zara/reference.md).
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **Marriage register, Entry N. 8, 12 Feb 1890 (Basilica Metropolitana, Zara):** full details of both spouses, parents' occupations and vital status, four witnesses — [reference](../sources/corpus/1890-marriage-addobbati-boara-zara/reference.md).
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Handwritten family tree (NTree01):** [media/docs/fulvia-family-tree-file/NTree01.jpg](../media/docs/fulvia-family-tree-file/NTree01.jpg) — names all children of Ottilia & Pietro Pio.
-- **DAZD sig. 59 (29 May 1915):** Copy of certificate of completion of medical studies of Pietro Addobbati, "nephew of Simeone Addobbati" — 2 leaves, Latin. Identifies the eldest son (doctor who died in Trieste) as **Pietro Addobbati** — [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
+- **DAZD sig. 59 (29 May 1915):** Copy of certificate of completion of medical studies of Pietro Addobbati, "nephew of Simeone Addobbati" — 2 leaves, Latin. Identifies the eldest son (doctor who died in Trieste) as **Pietro Addobbati** — [dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Funeral card — Suor Daniela Addobbati (17 Aug 1972):** [D Addobbati-170872.jpg](../media/docs/zerauschek-family/EZ%20family/D%20Addobbati-170872.jpg) — portrait photograph; "Suor Daniela Addobbati / dell'Istituto 'B.V. Maria' / Zara 22.11.1903 — Rovereto 17.8.1972." Confirms Vittoria/Villosie's religious name, institution, and exact vital dates.
 - **Addobbati aunts group photo ("ZieAdd-ND-003"):** [ZieAdd-ND-003.jpg](../media/docs/zerauschek-family/EZ%20family/ZieAdd-ND-003.jpg) — seven figures: four women standing (likely Ester and her sisters), Suor Daniela/Vittoria seated in the centre in her habit, and two children. Probably at the convent in Rovereto.
 
 ## Context
 
 - **Narrative:** [Addobbati: Venetian-Dalmatian civic family and the Habsburg postal service](../stories/addobbati-dalmatian-habsburg.md) — family origins in Bergamo, *cittadini* status in Zara, postal hierarchy under the Habsburgs.
-- **Nin nobility list (1817):** Granić (2014) register scan — canonical PDF [media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf](../media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf) · [corpus extract + bundle](../sources/corpus/granic-2014-popis-plemenica-nina/) — use when checking **Addobbati** (and allied Zara families) against the published **Nin** noble census.
-- **Archive:** DAZD HR-DAZD-342 *Obitelj Addobbati* (1732–1930) → [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/)
-- **Notarial records:** Angelo Daniele Addobbati (notary 1806–1831) → [corpus/dazd-notaries-zadar/](../sources/corpus/dazd-notaries-zadar/)
+- **Nin nobility list (1817):** Granić (2014) register scan — canonical PDF [media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf](../media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf) · [extract](../sources/corpus/granic-2014-popis-plemenica-nina/) — use when checking **Addobbati** (and allied Zara families) against the published **Nin** noble census.
+- **Archive:** DAZD HR-DAZD-342 *Obitelj Addobbati* (1732–1930) → [dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/)
+- **Notarial records:** Angelo Daniele Addobbati (notary 1806–1831) → [dazd-notaries-zadar/](../sources/corpus/dazd-notaries-zadar/)
 
 ### Zara album (pre-marriage album 01)
 

@@ -25,9 +25,9 @@ Her name appears in records as both "Borel" and "Borrel." The couple's marriage 
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6JCK-2SH2 | Family register — Dumartheray × Borel, 4 Aug 1767 | [corpus](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
+| 6JCK-2SH2 | Family register — Dumartheray × Borel, 4 Aug 1767 | [reference](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
 
 ## Open questions
 

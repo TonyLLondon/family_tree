@@ -26,5 +26,5 @@ Maria Ynes represents the **correct spouse** of Juan González Cardenas in our *
 
 ## Sources
 
-- [Juan González Cardenas Death 1898](../sources/corpus/fs-q241-2cj8-juan-gonzalez-cardenas-death-1898/reference.md)
+- [Juan González Cardenas Death 1898](../sources/corpus/juan-gonzalez-cardenas-death-1898/reference.md)
 - [Chilean GONZÁLEZ Line Extension 2026](../sources/chile-gonzalez-lineage-extension-2026.md)

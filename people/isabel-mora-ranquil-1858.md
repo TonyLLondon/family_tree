@@ -21,11 +21,11 @@ The cropped entry 129 confirms name (Mora Ysabel), sex (Mujer), nationality (Chi
 
 ## Evidence
 
-| Record | Corpus |
+| Record | Source record |
 |--------|--------|
-| Civil death, Ránquil 1888, entry 129 (**Q2SG-D46H**) | [reference.md](../sources/corpus/fs-q2sg-d46h-isabel-mora-mabricio-marianjel-death-1888/reference.md) |
+| Civil death, Ránquil 1888, entry 129 (**Q2SG-D46H**) | [reference.md](../sources/corpus/mabricio-marianjel-isabel-mora-death-1888/reference.md) |
 
 ## Sources
 
-- [fs-q2sg-d46h corpus](../sources/corpus/fs-q2sg-d46h-isabel-mora-mabricio-marianjel-death-1888/reference.md)
+- [fs-q2sg-d46h corpus](../sources/corpus/mabricio-marianjel-isabel-mora-death-1888/reference.md)
 - [chile-mora-line-evidence-status-2026](../sources/chile-mora-line-evidence-status-2026.md)

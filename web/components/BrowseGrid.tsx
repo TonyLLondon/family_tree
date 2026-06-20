@@ -11,6 +11,8 @@ export type BrowseItem = {
   meta?: string;
   heroImage?: string | null;
   heroFocal?: [number, number];
+  /** When set, enables chip row; items are filtered by exact match on this key. */
+  filterKey?: string;
 };
 
 /** Items loaded per step — cursor is the slice end index into the filtered list. */
@@ -22,28 +24,56 @@ export function BrowseGrid({
   items,
   emptyMessage = "No matches.",
   searchPlaceholder = "Search…",
+  filterLabels,
+  filterTitle = "Filter",
 }: {
   items: BrowseItem[];
   emptyMessage?: string;
   searchPlaceholder?: string;
+  /** Human labels for `item.filterKey` values (e.g. census → Census). */
+  filterLabels?: Record<string, string>;
+  filterTitle?: string;
 }) {
   const [q, setQ] = useState("");
+  const [activeFilter, setActiveFilter] = useState<string | null>(null);
   const [cursor, setCursor] = useState(BATCH_SIZE);
   const sentinelRef = useRef<HTMLDivElement>(null);
   const lastAutoLoadRef = useRef(0);
 
+  const filterChips = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const it of items) {
+      if (!it.filterKey) continue;
+      counts.set(it.filterKey, (counts.get(it.filterKey) ?? 0) + 1);
+    }
+    if (counts.size === 0) return [];
+    return Array.from(counts.entries())
+      .map(([key, count]) => ({
+        key,
+        count,
+        label: filterLabels?.[key] ?? key.replace(/-/g, " "),
+      }))
+      .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+  }, [items, filterLabels]);
+
   const filtered = useMemo(() => {
     const needle = q.trim().toLowerCase();
-    if (!needle) return items;
-    return items.filter((it) => {
-      const hay = `${it.title} ${it.subtitle ?? ""} ${it.meta ?? ""} ${it.href}`.toLowerCase();
-      return hay.includes(needle);
-    });
-  }, [items, q]);
+    let list = items;
+    if (needle) {
+      list = list.filter((it) => {
+        const hay = `${it.title} ${it.subtitle ?? ""} ${it.meta ?? ""} ${it.href}`.toLowerCase();
+        return hay.includes(needle);
+      });
+    }
+    if (activeFilter) {
+      list = list.filter((it) => it.filterKey === activeFilter);
+    }
+    return list;
+  }, [items, q, activeFilter]);
 
   useEffect(() => {
     setCursor(BATCH_SIZE);
-  }, [q, items]);
+  }, [q, items, activeFilter]);
 
   const visible = useMemo(() => filtered.slice(0, cursor), [filtered, cursor]);
   const hasMore = cursor < filtered.length;
@@ -93,7 +123,7 @@ export function BrowseGrid({
         <div className="text-right text-sm text-zinc-500">
           {filtered.length === 0 ? (
             <span>0 entries</span>
-          ) : filtered.length === items.length ? (
+          ) : filtered.length === items.length && !activeFilter && !q.trim() ? (
             <span>
               {hasMore ? (
                 <>
@@ -107,7 +137,8 @@ export function BrowseGrid({
             <span>
               {hasMore ? (
                 <>
-                  Showing <strong className="text-zinc-700">{visible.length}</strong> of {filtered.length} matches
+                  Showing <strong className="text-zinc-700">{visible.length}</strong> of {filtered.length}{" "}
+                  matches
                   <span className="text-zinc-400"> · {items.length} total</span>
                 </>
               ) : (
@@ -119,6 +150,40 @@ export function BrowseGrid({
           )}
         </div>
       </div>
+
+      {filterChips.length > 0 ? (
+        <div className="mb-6 rounded-xl border border-zinc-200/80 bg-zinc-50/80 px-3 py-3 sm:px-4">
+          <p className="mb-2 text-[11px] font-semibold uppercase tracking-wider text-zinc-500">{filterTitle}</p>
+          <div className="flex flex-wrap gap-2">
+            <button
+              type="button"
+              onClick={() => setActiveFilter(null)}
+              className={
+                activeFilter === null
+                  ? "rounded-full border border-sky-600 bg-sky-600 px-3 py-1.5 text-xs font-semibold text-white shadow-sm"
+                  : "rounded-full border border-zinc-200 bg-white px-3 py-1.5 text-xs font-medium text-zinc-700 shadow-sm transition hover:border-zinc-300 hover:bg-zinc-50"
+              }
+            >
+              All
+            </button>
+            {filterChips.map(({ key, count, label }) => (
+              <button
+                key={key}
+                type="button"
+                onClick={() => setActiveFilter(activeFilter === key ? null : key)}
+                className={
+                  activeFilter === key
+                    ? "rounded-full border border-sky-600 bg-sky-600 px-3 py-1.5 text-xs font-semibold text-white shadow-sm"
+                    : "rounded-full border border-zinc-200 bg-white px-3 py-1.5 text-xs font-medium text-zinc-700 shadow-sm transition hover:border-zinc-300 hover:bg-zinc-50"
+                }
+              >
+                {label}
+                <span className={activeFilter === key ? "ml-1 text-sky-100" : "ml-1 text-zinc-400"}>({count})</span>
+              </button>
+            ))}
+          </div>
+        </div>
+      ) : null}
 
       {visible.length === 0 ? (
         <p className="rounded-lg border border-dashed border-zinc-200 bg-zinc-50 px-4 py-8 text-center text-zinc-500">{emptyMessage}</p>

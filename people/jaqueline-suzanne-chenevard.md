@@ -40,14 +40,14 @@ Her husband Jean François Louis died on **4 February 1786** at Aubonne, aged ab
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6NQF-WB45 | Baptism — 26 Oct 1732, Céligny; parents Benjamin Chenevard + Christiene Narphin | [corpus](../sources/corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/reference.md) |
-| 6NQL-FNTW | Family register — JF Louis Montagnon × Jaqueline Suzanne Chenevard, 28 Oct 1761 | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
-| 6NQL-M318 | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [corpus](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
-| 6NQ2-9SBN | Burial — Benjamin Chenevard, 2 Dec 1747, Céligny | [corpus](../sources/corpus/1747-burial-benjamin-chenevard-celigny/reference.md) |
-| 6NQV-CLT5 | Baptism — Henri Samuel Montagnon, 12 Oct 1764, parents JFL Montagnon + Suzanne Chenevard | [corpus](../sources/corpus/1764-baptism-henri-samuel-montagnon-aubonne/reference.md) |
-| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray; parents Jean Louis + Susanne Cheneveau | [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
+| 6NQF-WB45 | Baptism — 26 Oct 1732, Céligny; parents Benjamin Chenevard + Christiene Narphin | [reference](../sources/corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/reference.md) |
+| 6NQL-FNTW | Family register — JF Louis Montagnon × Jaqueline Suzanne Chenevard, 28 Oct 1761 | [reference](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
+| 6NQL-M318 | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [reference](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
+| 6NQ2-9SBN | Burial — Benjamin Chenevard, 2 Dec 1747, Céligny | [reference](../sources/corpus/1747-burial-benjamin-chenevard-celigny/reference.md) |
+| 6NQV-CLT5 | Baptism — Henri Samuel Montagnon, 12 Oct 1764, parents JFL Montagnon + Suzanne Chenevard | [reference](../sources/corpus/1764-baptism-henri-samuel-montagnon-aubonne/reference.md) |
+| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray; parents Jean Louis + Susanne Cheneveau | [reference](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
 
 ## Open questions
 

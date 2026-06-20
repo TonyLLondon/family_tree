@@ -42,7 +42,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Son's baptism record:** Hans Konrad Stump, 30 Oct 1730, Sulgen, parents Hanss Conrad Stump & Elssbeth Straub · [corpus](../sources/corpus/hans-konrad-stump-baptism-1730/reference.md) · FamilySearch FV8F-YZK
+- **Son's baptism record:** Hans Konrad Stump, 30 Oct 1730, Sulgen, parents Hanss Conrad Stump & Elssbeth Straub · [reference](../sources/corpus/hans-konrad-stump-baptism-1730/reference.md) · FamilySearch FV8F-YZK
 
 ## Research Notes (2026-04-11)
 

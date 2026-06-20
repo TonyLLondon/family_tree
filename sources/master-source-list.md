@@ -12,7 +12,7 @@ Thin topical cards in **`sources/*.md`** (work- or site-oriented filenames). Lin
 
 **Cluster hubs** (many `corpus/<slug>/` on one page): [nypl-burgess-corpus-cluster.md](nypl-burgess-corpus-cluster.md), [lewis-white-roche-ireland-corpus-cluster.md](lewis-white-roche-ireland-corpus-cluster.md), [missions-bahai-babi-corpus-cluster.md](missions-bahai-babi-corpus-cluster.md), [persia-modern-scholarship-corpus-cluster.md](persia-modern-scholarship-corpus-cluster.md), [baltic-erbe-stump-corpus-cluster.md](baltic-erbe-stump-corpus-cluster.md), [wright-burials-persia-corpus.md](wright-burials-persia-corpus.md).
 
-- [rufus-anderson-1872-history-missions-oriental-churches.md](rufus-anderson-1872-history-missions-oriental-churches.md) — American Board *History of the missions* (1872); Daoud Khan / Nestorian Urmia extracts in [corpus/…/reference.md](corpus/history-of-the-mission-by-rufus-anderson-5264293694/reference.md).
+- [rufus-anderson-1872-history-missions-oriental-churches.md](rufus-anderson-1872-history-missions-oriental-churches.md) — American Board *History of the missions* (1872); Daoud Khan / Nestorian Urmia extracts in [corpus/…/reference.md](corpus/rufus-anderson-1872-history-missions-oriental-churches/reference.md).
 
 ## Manual / working extracts
 

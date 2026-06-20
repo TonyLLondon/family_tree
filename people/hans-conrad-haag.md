@@ -37,11 +37,11 @@ Hans Conrad Haag was baptised **24 June 1742** at **Hüttwilen**, Thurgau (6F83-
 
 **Swiss parish records:**
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6F83-6YDJ | Baptism — 24 Jun 1742, Hüttwilen | [corpus](../sources/corpus/1742-baptism-hans-conrad-haag-hüttwilen/reference.md) |
-| FVJZ-3ZV | Marriage — 1765, Haag × Freyenmuth | [corpus](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
-| 6F87-6D7N | Burial — 15 Sep 1803, Hüttwilen | [corpus](../sources/corpus/1803-burial-hans-conrad-haag-hüttwilen/reference.md) |
+| 6F83-6YDJ | Baptism — 24 Jun 1742, Hüttwilen | [reference](../sources/corpus/1742-baptism-hans-conrad-haag-hüttwilen/reference.md) |
+| FVJZ-3ZV | Marriage — 1765, Haag × Freyenmuth | [reference](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
+| 6F87-6D7N | Burial — 15 Sep 1803, Hüttwilen | [reference](../sources/corpus/1803-burial-hans-conrad-haag-hüttwilen/reference.md) |
 
 **Tree id:** **I182** — union **F92**; FamilySearch **KC92-TYB**.
 

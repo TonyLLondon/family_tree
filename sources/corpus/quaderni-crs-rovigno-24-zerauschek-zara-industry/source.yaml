@@ -1,0 +1,17 @@
+id: quaderni-crs-rovigno-24-zerauschek-zara-industry
+title: "Quaderni del CRS Rovigno n. 24 (2013) — Zara industry incl. Antonio Zerauschek"
+remote:
+  primary_pdf_url: https://archive.org/download/QuaderniCRS24/Quaderni_24.pdf
+  webpage_url: https://archive.org/details/QuaderniCRS24
+fetches:
+- kind: pdf
+  at: '2026-06-18T18:11:00Z'
+  remote_url: https://archive.org/download/QuaderniCRS24/Quaderni_24.pdf
+  sha256: afaa588f66fe0f9fbae687b155ffe6f3c5a88b757b1cf3bbe723fcf3f9915543
+  bytes: 4718592
+  media_reference: media/docs/internet-archive/zerauschek/quaderni-crs-rovigno-24.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/quaderni-crs-rovigno-24.pdf
+  page_image: media/docs/internet-archive/zerauschek/quaderni-crs-rovigno-24-zerauschek-passage.png
+  transcription_it: transcription-zerauschek-industry-passage.it.md
+  translation_en: translation-zerauschek-industry-passage.en.md

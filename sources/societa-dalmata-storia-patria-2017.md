@@ -7,7 +7,7 @@ kind: pdf
 
 **Remote PDF:** [dalmatitaliani.org — Oddone Talpo *Per l'Italia*](https://dalmatitaliani.org/wp-content/uploads/2022/06/pdf-download-societa-dalmata-di-storia-patria-venezia-libro-oddone-talpo-per-litalia-dalmatitaliani.org_.pdf)
 
-**Corpus bundle:** [corpus/societa-dalmata-storia-patria-2017/](corpus/societa-dalmata-storia-patria-2017/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/societa-dalmata-storia-patria-2017/extracted.pdf.md).
+**Source record:** [full record](corpus/societa-dalmata-storia-patria-2017/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/societa-dalmata-storia-patria-2017/extracted.pdf.md).
 
 ## Summary
 

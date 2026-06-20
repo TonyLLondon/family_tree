@@ -22,14 +22,14 @@ Successfully documented an **extensive colonial CERPA family network** spanning 
 - **Children:** Ana Luisa Cerpa Mendez, Antonio Cerpa Espinosa (1805)
 - **Significance:** **Potential brother/cousin of Justo Cerpa** (~1775)
 - **Evidence:** FamilySearch 6B3D-LT13, QLX9-RRS7
-- **Corpus:** [fs-6b3d-lt13-jose-antonio-cerpa-tomasa-mendez](corpus/fs-6b3d-lt13-jose-antonio-cerpa-tomasa-mendez/reference.md)
+- **Source record:** [fs-6b3d-lt13-jose-antonio-cerpa-tomasa-mendez](corpus/fs-6b3d-lt13-jose-antonio-cerpa-tomasa-mendez/reference.md)
 
 ### **I722: Juan Cerpa Farias (1744-1809)**  
 - **Location:** Santiago, Chile (burial)
 - **Parents:** Carlos Cerpa + Maria Farias
 - **Significance:** **Earlier colonial generation** - potential uncle of Justo/Jose Antonio
 - **Evidence:** FamilySearch 6PPW-TRCG
-- **Corpus:** [fs-6ppw-trcg-juan-cerpa-farias-1744](corpus/fs-6ppw-trcg-juan-cerpa-farias-1744/reference.md)
+- **Source record:** [fs-6ppw-trcg-juan-cerpa-farias-1744](corpus/fs-6ppw-trcg-juan-cerpa-farias-1744/reference.md)
 
 ### **I723: Carlos Cerpa (~1720)**
 - **Location:** Central Chile  
@@ -43,7 +43,7 @@ Successfully documented an **extensive colonial CERPA family network** spanning 
 - **Parents:** Gregorio Cerpa + Tadea Muñoz
 - **Significance:** **Geographic match** - same region as Justo's descendants
 - **Evidence:** FamilySearch 6BV5-21LG  
-- **Corpus:** [fs-6bv5-21lg-manuela-cerpa-munoz-1764](corpus/fs-6bv5-21lg-manuela-cerpa-munoz-1764/reference.md)
+- **Source record:** [fs-6bv5-21lg-manuela-cerpa-munoz-1764](corpus/fs-6bv5-21lg-manuela-cerpa-munoz-1764/reference.md)
 
 ### **I720: Gregorio Cerpa (~1740)**
 - **Location:** Maule/Talca region, Chile
@@ -120,7 +120,7 @@ Our **Chilean colonial ancestors** were:
 
 ## Evidence Base
 
-**Corpus Sources Created:**
+**Source records created:**
 - [Jose Antonio Cerpa + Tomasa Mendez](corpus/fs-6b3d-lt13-jose-antonio-cerpa-tomasa-mendez/)
 - [Juan Cerpa Farias 1744](corpus/fs-6ppw-trcg-juan-cerpa-farias-1744/)  
 - [Manuela Cerpa Muñoz 1764](corpus/fs-6bv5-21lg-manuela-cerpa-munoz-1764/)

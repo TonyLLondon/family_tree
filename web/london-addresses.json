@@ -124,7 +124,7 @@
         {
           "year": 1881,
           "source": "Census (RG11/194)",
-          "corpusSlug": "1881-census-evans-household-swinton-street-st-pancras",
+          "corpusSlug": "1881-census-evans-swinton-street",
           "people": [
             { "name": "William Evans", "detail": "Head, 24, Brass Founder", "slug": "william-evans-i289" },
             { "name": "Dorothea Evans", "detail": "Wife, 20, Flower Maker", "slug": "dorothea-knecht" }
@@ -143,7 +143,7 @@
         {
           "year": 1881,
           "source": "Census (RG11/244)",
-          "corpusSlug": "1881-census-fensom-household-milton-place-islington",
+          "corpusSlug": "1881-census-fensom-milton-place",
           "people": [
             { "name": "David Fensom", "detail": "Head", "slug": "david-fensom-i202" },
             { "name": "Georgiana Fensom", "detail": "Wife", "slug": "georgina-fensom-i205" },
@@ -167,7 +167,7 @@
         {
           "year": 1881,
           "source": "Census (RG11)",
-          "corpusSlug": "1881-census-knecht-household-paddington",
+          "corpusSlug": "1881-census-knecht-paddington",
           "people": [
             { "name": "George Knecht", "detail": "Head, Tailor", "slug": "george-knecht" },
             { "name": "Eliza Knecht", "detail": "Wife", "slug": "eliza-knecht" },
@@ -206,7 +206,7 @@
         {
           "year": 1891,
           "source": "Census (RG12/229)",
-          "corpusSlug": "1891-census-evans-household-clerkenwell",
+          "corpusSlug": "1891-census-evans-clerkenwell",
           "people": [
             { "name": "William Evans", "detail": "Head, 33, Brass Dresser", "slug": "william-evans-i289" },
             { "name": "Dorothea Evans", "detail": "Wife, 30", "slug": "dorothea-knecht" },
@@ -226,7 +226,7 @@
         {
           "year": 1891,
           "source": "Census (RG12/163)",
-          "corpusSlug": "1891-census-fensom-household-eden-grove-islington",
+          "corpusSlug": "1891-census-fensom-eden-grove",
           "people": [
             { "name": "David W. Fensom", "detail": "Head" },
             { "name": "Minnie Fensom", "detail": "Wife", "slug": "minnie-pope-i293" },
@@ -266,7 +266,7 @@
         {
           "year": 1901,
           "source": "Census (RG13/173)",
-          "corpusSlug": "1901-census-fensom-household-georges-road-islington",
+          "corpusSlug": "1901-census-fensom-georges-road",
           "people": [
             { "name": "David W. Fenson", "detail": "Head" },
             { "name": "Minnie Fenson", "detail": "Wife", "slug": "minnie-pope-i293" },
@@ -324,7 +324,7 @@
         {
           "year": 1911,
           "source": "Census (RG14)",
-          "corpusSlug": "1911-census-fensom-household-hope-street-holloway",
+          "corpusSlug": "1911-census-fensom-hope-street",
           "people": [
             { "name": "David W. Fensom", "detail": "Head" },
             { "name": "Minnie Fensom", "detail": "Wife", "slug": "minnie-pope-i293" },
@@ -344,7 +344,7 @@
         {
           "year": 1911,
           "source": "Census (RG14)",
-          "corpusSlug": "1911-census-annie-fensom-boarder-north-road-holloway",
+          "corpusSlug": "1911-census-annie-fensom-holloway",
           "people": [
             { "name": "Annie Fensom", "detail": "Boarder, 26", "slug": "annie-fensom-i291" }
           ],
@@ -414,7 +414,7 @@
         {
           "year": 1921,
           "source": "Census (RG15)",
-          "corpusSlug": "1921-census-evans-bratton-street-islington",
+          "corpusSlug": "1921-census-evans-islington",
           "people": [
             { "name": "Alfred Evans", "detail": "Head, Brass Finisher", "slug": "alfred-evans-i101" },
             { "name": "Annie Evans", "detail": "Wife, Brush Drawer", "slug": "annie-fensom-i291" },

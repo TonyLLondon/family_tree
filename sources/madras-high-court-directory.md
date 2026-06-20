@@ -14,7 +14,7 @@ Printed directory page listing the Madras High Court's officers under Chief Just
 
 **Scan:** [media/docs/Madras High Court directory Registrar Gerald S White judiciary officers ~1930s.png](../media/docs/Madras%20High%20Court%20directory%20Registrar%20Gerald%20S%20White%20judiciary%20officers%20~1930s.png)
 
-**Corpus:** scan-only card for now; ingested bundles that touch India / IMS context include paths under `corpus/` in [corpus-bibliography.md](corpus-bibliography.md) (e.g. `corpus/ncbi-history-indian-medical-service/`, `corpus/maltaramc-*`).
+**Source record:** scan-only card for now; ingested source records that touch India / IMS context include paths under `corpus/` in [corpus-bibliography.md](corpus-bibliography.md) (e.g. `corpus/army-medical-department-half-pay-register/`, `corpus/maltaramc-*`).
 
 ## Dating
 

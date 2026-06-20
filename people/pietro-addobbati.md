@@ -20,6 +20,6 @@ Here he stands as father of Joannes Aloysious in the tree machine built from bul
 
 ## Evidence
 
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** head of the genealogy — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** head of the genealogy — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [sabalich-guida-zara/](../sources/corpus/sabalich-guida-zara/).
 - **DAZD family fonds (HR-DAZD-342):** 1745 Bergamo testimonial with full patriline — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md).
 - **Tree id:** **I38**, family F23 (no wife in the working-tree row).

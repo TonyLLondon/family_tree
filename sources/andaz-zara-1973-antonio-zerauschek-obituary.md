@@ -17,8 +17,7 @@ The copy was mailed to **Rivolta Zerauschek Liana** (= [Giuliana Zerauschek](../
 
 - [Antonio Zerauschek](../people/antonio-zerauschek.md)
 
-## Corpus
-
+## Source record
 - [Italian transcription](corpus/andaz-zara-1973-antonio-zerauschek-obituary/transcription-antonio-zerauschek-obituary-andaz-1973.it.md)
 - [English translation](corpus/andaz-zara-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-andaz-1973.en.md)
 - Scans: [AZ-Obituary-02A.jpg](../media/docs/zerauschek-family/AZ%20Cert/AZ-Obituary-02A.jpg), [AZ-Obituary-02B.jpg](../media/docs/zerauschek-family/AZ%20Cert/AZ-Obituary-02B.jpg)

@@ -7,8 +7,8 @@
 | [people/](people/) | One Markdown article per person · **[ancestor roster](people/ancestor-coverage-list.md)** · **[extension plan](people/person-pages-extension-plan.md)** (Tamar/Cormick, siblings, phases) |
 | [stories/](stories/) | Multi-generation essays |
 | [topics/](topics/index.md) | Places, institutions, cross-cutting themes |
-| [sources/](sources/) | Citation cards · [sources/corpus/](sources/corpus/) · [sources/corpus-bibliography.md](sources/corpus-bibliography.md) (all `corpus/<slug>/`) |
-| [manual/](manual/README.md) | Inbox: read, then file into `people/`, corpus, or `media/` |
+| [sources/](sources/) | Citation cards · ingested records under [sources/corpus/](sources/corpus/) · [sources/corpus-bibliography.md](sources/corpus-bibliography.md) (slug index) |
+| [manual/](manual/README.md) | Inbox: **move** cited images and source docs into `people/` prose, source records, or `media/`—**never delete** them, only relocate |
 | [research/](research/README.md) | Working memos — drain into `people/`, `stories/`, `sources/` |
 | [media/](media/) | Evidence files — see **Media layout** below |
 | [archive/](archive/index.md) | Legacy desktop exports, Gramps/RootsMagic, **[sun-chart PDFs/PPTX](archive/sun-charts/)**, text notes, personal files |
@@ -21,6 +21,9 @@
 | [media/albums/](media/albums/) | Henderson, Henriette, Etienne-house photo sets |
 | [media/collections/](media/collections/) | Burgess Persian Letters, Zerauschek scans, Stump, Meazza |
 | [media/docs/](media/docs/) | Large mixed inbox: census, RAF, Ireland, Iran PDFs, portraits (sub-sort over time) |
+| [media/docs/internet-archive/zerauschek/](media/docs/internet-archive/zerauschek/) | Internet Archive PDFs + page images — Antonio Zerauschek (Il Piccolo, Gazzetta, Guida, Quaderni CRS) |
+| [media/docs/internet-archive/saginian/](media/docs/internet-archive/saginian/) | Internet Archive PDFs + page images — Saginov princes (Dumin & Chikovani 1998 excerpt) |
+| [media/docs/cormick-saginian/](media/docs/cormick-saginian/) | High-resolution Cormick–Saginian photographs + firman (Connections BMC gallery); [CREDITS](media/docs/cormick-saginian/CREDITS.md) |
 | [media/publications/persia-iran/](media/publications/persia-iran/) | Wright, Navasargian, Cormick, missions, Onnerfors, etc. |
 | [media/publications/babi-bahai/](media/publications/babi-bahai/) | Bábí / Bahá'í secondary PDFs |
 | [media/publications/genealogy-regional/](media/publications/genealogy-regional/) | e.g. Roche / Limerick |

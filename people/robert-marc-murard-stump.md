@@ -20,7 +20,7 @@ role: Le Rosey — art and tennis teacher; artist
 
 **Robert** was born in **Tehran** in **October 1910**, child of court-dentist **[Étienne Stump](etienne-stump.md)** and **[Henriette Bottin](henriette-bottin.md)**—a Swiss–Anglo household under **Qajar** skies. About **1920** the family story has them leaving **Persia** for Europe; his adult decades unfolded in **Switzerland** and the **south of France**, with **England** during the **Second World War**—**Essex**, where he met **[Maureen “Molly” White](maureen-catherine-finbarr-white.md)**, another teacher in the same pressured circuit.
 
-He taught **art** and **tennis** at **Institut Le Rosey**—the bilingual boarding school shuttling between **Rolle** and **Gstaad**—and practised as a **painter** in the margins of those terms. A home near **Marseille** anchored summers when Switzerland and England released him. He married Molly **19 August 1944**; their daughter **[Catherine](catherine-stump.md)** carries the line forward to the **Lewis** present.
+He taught **art** and **tennis** at **Institut Le Rosey**—the bilingual boarding school shuttling between **Rolle** on Lake Geneva (founded **1880**) and **Gstaad** in the Saanenland (winter term from **1917**)—and practised as a **painter** in the margins of those terms. Press and alumni memoirs on Internet Archive describe Le Rosey’s bilingual faculty culture and on-site **tennis coaching** (*Town & Country*, 1975) and the school yearbook ***L’Echo du Rosey*** (quoted *Holiday*, 1960; Shah of Iran contributed, 1935), but **no IA volume names Robert Stump** in OCR—staff registers and yearbooks are mostly off-archive. See [Le Rosey desk search memo](../research/le-rosey-robert-stump-ia-desk-search.md). A home near **Marseille** anchored summers when Switzerland and England released him. He married Molly **19 August 1944**; their daughter **[Catherine](catherine-stump.md)** carries the line forward to the **Lewis** present.
 
 Siblings: [Theodore](theodore-stump.md), [Irene “Loulou”](irene-stump.md), [Jacques](jacques-stump.md), [Jean](jean-stump.md). Patriline runs **Étienne** → **[Marc Francois Stump](marc-francois-stump.md)** and **[Olga Caroline Erbe](olga-caroline-erbe.md)**.
 
@@ -34,11 +34,12 @@ He died **1997** at **Lausanne** (Henderson chart; some tree copies read **1996*
 
 ## Evidence
 
-- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) · [corpus](../sources/corpus/stump-family-tree-c3cb58201a/).
+- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) · [reference](../sources/corpus/stump-family-tree-chart/).
 - [Henriette passport](../media/docs/Henriette%20Stump%20passport%20signalement%20born%20Tehran%201886%20photos%20pages%204-5.jpg) · [1909 album page](../media/docs/Album%20page%201909%20Henriette%20Etienne%20Stump%20five%20vintage%20photos%20note.jpg).
 - **Tree id:** **I11**.
 - [White and Stump families, Geneva, c. 1953](../media/docs/White%20and%20Stump%20families%20Geneva%20c1953.jpg) — Robert second from left in the back row, with Gerald White, Mary White, Molly (holding Mongie), and May White. Front: Susan, Kitty, Roland. Source: Charlie Ginnane photocopy via Barbara Cantwell.
 - **Le Rosey, Provence, Essex courtship** — family account (2026); school records, wartime address, or exhibition catalogues when available.
+- [Le Rosey × Robert Stump — Internet Archive desk search (2026)](../research/le-rosey-robert-stump-ia-desk-search.md) — institutional context; **no IA hit** on Robert’s name; yearbook wishlist.
 
 ## Open questions
 

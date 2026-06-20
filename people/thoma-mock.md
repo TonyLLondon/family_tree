@@ -45,7 +45,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Son's baptism record:** Johanness Mock, 27 Sep 1661, parents Thoma Mock & Anna Sprenger · [corpus](../sources/corpus/johannes-mockh-baptism-1661/reference.md) · FamilySearch FV8G-VDQ
+- **Son's baptism record:** Johanness Mock, 27 Sep 1661, parents Thoma Mock & Anna Sprenger · [reference](../sources/corpus/johannes-mockh-baptism-1661/reference.md) · FamilySearch FV8G-VDQ
 
 ## Research Notes (2026-04-11)
 

@@ -65,7 +65,7 @@ The O'Connell connection through Christiana explains the close friendship betwee
 
 ### Burke's 1833
 
-[Roche of Limerick — Forgotten Victorians](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/extracted.pdf.md): "John Roche, esq. b. in 1688, who wedded Anne, youngest daughter of Philip Stacpole, esq. of Mountcashell... and had, with other issue..." Full children list, heraldry, and descent from the Viscounts Fermoy through Castletown-Roche.
+[Roche of Limerick — Forgotten Victorians](../sources/roche-of-limerick-forgotten-victorians.md) · [ingest text](../sources/corpus/roche-of-limerick-forgotten-victorians/extracted.pdf.md): "John Roche, esq. b. in 1688, who wedded Anne, youngest daughter of Philip Stacpole, esq. of Mountcashell... and had, with other issue..." Full children list, heraldry, and descent from the Viscounts Fermoy through Castletown-Roche.
 
 ### Limerick Chronicle / Limerick Leader
 

@@ -17,7 +17,7 @@ Emma died in the **Spanish flu** wave that took so many young adults between **1
 
 ## Evidence
 
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) · [full record](../sources/corpus/famhist-nonna-memoir-1996/).
 
 ## Open questions
 

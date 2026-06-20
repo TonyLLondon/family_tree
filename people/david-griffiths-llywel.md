@@ -45,9 +45,9 @@ David was buried on **12 December 1857** at age 83, according to the Brecknocksh
 
 - [Marriage — David Griffiths × Margaret Davies, Llywell, 22 Dec 1815](../sources/corpus/1815-marriage-david-griffiths-margaret-davies-llywell/transcription.md) — Llywel parish register (CofE). FS `KCV1-ND7`. Image ARK `3:1:S3HY-6WN9-MKB` (restricted to FamilySearch Centers).
 - [Christening — John Griffiths, Llywel, 4 Feb 1816](../sources/corpus/1816-christening-john-griffiths-llywel/transcription.md) — Wales Births and Baptisms. FS `FM9R-44Q`.
-- [Non-Conformist baptisms — Saron Independent, Llywell, 1828 & 1830](../sources/corpus/1830-baptism-thomas-griffiths-saron-independent-llywell/transcription.md) — TNA RG4/1725. Father: David, Mother: Margaret.
-- [1841 census — Griffis household, Tresgob, Llywell](../sources/corpus/1841-census-griffiths-household-llywell-ho107-1367/transcription.md) — HO107/1367. David Griffis, age 60.
-- [1851 census — Griffiths household, Bishop Town, Llywell](../sources/corpus/1851-census-griffiths-household-llywell-ho107-2489/transcription.md) — HO107/2489. David Griffiths, age 75, Labourer, born Llywel.
+- [Non-Conformist baptisms — Saron Independent, Llywell, 1828 & 1830](../sources/corpus/1830-baptism-thomas-griffiths-saron-llywell/transcription.md) — TNA RG4/1725. Father: David, Mother: Margaret.
+- [1841 census — Griffis household, Tresgob, Llywell](../sources/corpus/1841-census-griffiths-household-llywell/transcription.md) — HO107/1367. David Griffis, age 60.
+- [1851 census — Griffiths household, Bishop Town, Llywell](../sources/corpus/1851-census-griffiths-household-llywell/transcription.md) — HO107/2489. David Griffiths, age 75, Labourer, born Llywel.
 - **Burial (probable):** David Griffith, 12 Dec 1857, Brecknockshire parish registers. FS `KCVB-F2X`, b. 1774. Parish not confirmed — image restricted.
 - **Tree id:** **I654** — union **F241**.
 

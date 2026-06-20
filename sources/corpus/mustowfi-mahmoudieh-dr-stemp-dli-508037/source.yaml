@@ -1,0 +1,29 @@
+id: mustowfi-mahmoudieh-dr-stemp-dli-508037
+title: "Abdollah Mustowfi — Mahmoudieh, Mohammadieh, and Dr. Stemp (Sharh-e Zendegani-ye Man, vol. 1, p. 51)"
+remote:
+  primary_pdf_url: https://archive.org/download/dli.ernet.508037/508037-Tareekh%20Ijtimayee%20Wadaree%20Dora%20Kajaria%20Part%201_text.pdf
+  webpage_url: https://archive.org/details/dli.ernet.508037
+fetches:
+  - kind: local_pdf
+    at: "2026-06-19T22:30:00Z"
+    repo_path: media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf
+    sha256: 37f3e0fd7f1f598aed3d808ab45069204706a19312641837b47192fbd0db8484
+    bytes: 160432128
+    note: IA DLI text-layer PDF (664 pp.); Mustowfi vol. 1 embedded. Machine Arabic text layer is unreliable; facsimile + djvu.txt used for transcription.
+  - kind: local_png
+    at: "2026-06-19T22:32:00Z"
+    repo_path: media/docs/mustowfi/mustowfi-mahmoudieh-dr-stemp-p51-facsimile.png
+    sha256: b6bcfd2c5aabb95b4142461e82471dfff4da46de471b0f8331b1fa085b156ad7
+    bytes: 6606028
+  - kind: local_pdf
+    at: "2026-06-19T22:32:00Z"
+    repo_path: media/docs/mustowfi/mustowfi-mahmoudieh-dr-stemp-excerpt-pp50-52.pdf
+    sha256: 499c2b21212e946b083a04005eb465cd358d0fb091cd25bfde0bcd61a4ff72a6
+    bytes: 760832
+files:
+  media_reference: media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf
+  facsimile_png: media/docs/mustowfi/mustowfi-mahmoudieh-dr-stemp-p51-facsimile.png
+  excerpt_pdf: media/docs/mustowfi/mustowfi-mahmoudieh-dr-stemp-excerpt-pp50-52.pdf
+  reference_md: reference.md
+  transcription_fa: transcription.fa.md
+  translation_en: translation.en.md

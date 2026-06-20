@@ -30,7 +30,7 @@ Marriage on **4 April 1766** in the parish of **Sv. Stošija**, Zara, **in the b
 - **Baptism of bride, Duomo di Zara, 1736:** [1736-birth-maddalena-plarino-zara](../1736-birth-maddalena-plarino-zara/).
 - **Son Vincenzo's marriage register, Zara, 25 February 1811:** [1811-marriage-addobbati-coltelli-zara](../1811-marriage-addobbati-coltelli-zara/) — by which date both Luigi and Maddalena are *fù* (deceased).
 - **DAZD HR-DAZD-342 (Obitelj Addobbati):** sig. 47 (father-in-law Pietro Plavino's will, 29 Feb 1747); sig. 19 (sons' Nin nobility 1804). See [dazd-addobbati-family-fonds](../dazd-addobbati-family-fonds/).
-- **Sabalich, *Guida archeologica di Zara* (1897), pp. 504–506:** Luigi's civic résumé, including the 1762 citizen oath and the 1797 sea mission. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), pp. 504–506:** Luigi's civic résumé, including the 1762 citizen oath and the 1797 sea mission. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara/).
 
 ## People
 

@@ -19,6 +19,6 @@ Hans Jacob Freyenmuth was the father of [Margaretha Freyenmuth](margaretha-freye
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| FVVF-NX7 | Named as father in daughter's baptism, 15 Sep 1743, Wigoltingen | [corpus](../sources/corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/reference.md) |
+| FVVF-NX7 | Named as father in daughter's baptism, 15 Sep 1743, Wigoltingen | [reference](../sources/corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/reference.md) |

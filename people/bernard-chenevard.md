@@ -19,7 +19,7 @@ The Chenevard surname clusters at Céligny (Geneva) and Jorat-Mézières (Vaud),
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6NQ2-314L | Named as father in Antoine's burial, 24 Jul 1733 | [corpus](../sources/corpus/1733-burial-antoine-chenevard-celigny/reference.md) |
-| 6NQL-D1L7 | Named as father in Antoine's family register, 4 Mar 1688 | [corpus](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |
+| 6NQ2-314L | Named as father in Antoine's burial, 24 Jul 1733 | [reference](../sources/corpus/1733-burial-antoine-chenevard-celigny/reference.md) |
+| 6NQL-D1L7 | Named as father in Antoine's family register, 4 Mar 1688 | [reference](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |

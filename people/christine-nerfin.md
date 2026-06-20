@@ -27,10 +27,10 @@ Her name appears across records with multiple spellings: Narphin, Narfin, Nerpin
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6NQL-M318 | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [corpus](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
-| 6NQF-WB45 | Named as mother "Christiene Narphin" in daughter's baptism, 1732 | [corpus](../sources/corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/reference.md) |
+| 6NQL-M318 | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [reference](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
+| 6NQF-WB45 | Named as mother "Christiene Narphin" in daughter's baptism, 1732 | [reference](../sources/corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/reference.md) |
 
 ## Open questions
 

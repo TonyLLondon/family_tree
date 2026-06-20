@@ -1,0 +1,16 @@
+id: guida-trieste-1924-zerauschek-ufficio-cambio-excerpt
+title: "Guida Trieste 1924 (excerpt) — A. Zerauschek, Ufficio Cambio, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/Guida_TS-1924/Guida_TS-1924_text.pdf
+  webpage_url: https://archive.org/details/Guida_TS-1924
+fetches:
+- kind: pdf
+  at: '2026-06-19T10:00:00Z'
+  remote_url: https://archive.org/download/Guida_TS-1924/Guida_TS-1924_text.pdf
+  sha256: 00c806d30d26417f5665e4580dca87db769711b672b48146fe1a984c1fac275e
+  bytes: 134433
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1924-zerauschek-ufficio-cambio-excerpt.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1924-zerauschek-ufficio-cambio-excerpt.pdf
+  page_image: media/docs/internet-archive/zerauschek/guida-trieste-1924-zerauschek-page.png
+  transcription_it: transcription-ufficio-cambio-1924.it.md

@@ -52,7 +52,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Augustin Stump, 22 Dec 1628, Sulgen, parents Jacob Stump & Barbel Cuntz · [corpus](../sources/corpus/augustin-stump-baptism-1628/reference.md) · FamilySearch FV8P-MBF
+- **Baptism record:** Augustin Stump, 22 Dec 1628, Sulgen, parents Jacob Stump & Barbel Cuntz · [reference](../sources/corpus/augustin-stump-baptism-1628/reference.md) · FamilySearch FV8P-MBF
 - **Death records:** Augustin Stump, 30 Aug 1713, Sulgen · FamilySearch FVKD-D86 and 68VT-N5PW
 - **Son's baptism:** Caspar Stump (27 Nov 1662) with parents Augustin Stump & Barbel Rutershausser
 

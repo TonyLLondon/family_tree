@@ -1,0 +1,15 @@
+id: piccolo-1923-10-zerauschek-zara-ad-run
+title: "Il Piccolo (Oct 1923) — A. Zerauschek Zara ad run"
+remote:
+  primary_pdf_url: https://archive.org/download/Piccolo_1923-10-26/Piccolo_1923-10-26.pdf
+  webpage_url: https://archive.org/details/Piccolo_1923-10-26
+fetches:
+- kind: pdf
+  at: '2026-06-19T09:00:00Z'
+  remote_url: https://archive.org/download/Piccolo_1923-10-26/Piccolo_1923-10-26.pdf
+  sha256: 88b99a5d9d03596556274d9076c26439165701b29413fc2005e371c0d5632661
+  bytes: 6491711
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1923-10-26.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1923-10-26.pdf
+  transcription_it: transcription-zerauschek-zara-ads-1923.it.md

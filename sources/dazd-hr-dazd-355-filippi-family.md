@@ -11,7 +11,7 @@ kind: pdf
 
 **Remote inventory PDF:** [dazd.hr — HR-DAZD-355 Filippi](https://www.dazd.hr/attachment/preview/5c657cc87b384/dazd-355-filippi.pdf)
 
-**Corpus bundle:** [corpus/dazd-hr-dazd-355-filippi-family/](corpus/dazd-hr-dazd-355-filippi-family/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/dazd-hr-dazd-355-filippi-family/extracted.pdf.md).
+**Source record:** [full record](corpus/dazd-hr-dazd-355-filippi-family/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/dazd-hr-dazd-355-filippi-family/extracted.pdf.md).
 
 ## Summary
 

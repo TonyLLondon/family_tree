@@ -28,8 +28,8 @@ By **1891** his son David William was living two doors down at **11 Eden Grove**
 
 ## Evidence
 
-- **1881 Census** — 8 Milton Place, Islington (RG 11/244, folio 100, p. 57, schedule 332): David Fensom (head, 46, house decorator, born Luton, Hertfordshire) with wife Georgiana (45) and five children. David W (16) already a plumber; Annie (11) present but not in the working tree. [Source card](../sources/1881-census-fensom-milton-place.md) · [transcription](../sources/corpus/1881-census-fensom-household-milton-place-islington/transcription.md).
-- **1891 Census** — son David William Fensom at 11 Eden Grove, Islington (RG 12/163, folio 65, p. 5, schedule 15): head, 26, lime worker. Two doors from #13 where David Sr would be recorded in 1901. [Source card](../sources/1891-census-fensom-eden-grove.md) · [transcription](../sources/corpus/1891-census-fensom-household-eden-grove-islington/transcription.md).
+- **1881 Census** — 8 Milton Place, Islington (RG 11/244, folio 100, p. 57, schedule 332): David Fensom (head, 46, house decorator, born Luton, Hertfordshire) with wife Georgiana (45) and five children. David W (16) already a plumber; Annie (11) present but not in the working tree. [Source card](../sources/1881-census-fensom-milton-place.md) · [transcription](../sources/corpus/1881-census-fensom-milton-place/transcription.md).
+- **1891 Census** — son David William Fensom at 11 Eden Grove, Islington (RG 12/163, folio 65, p. 5, schedule 15): head, 26, lime worker. Two doors from #13 where David Sr would be recorded in 1901. [Source card](../sources/1891-census-fensom-eden-grove.md) · [transcription](../sources/corpus/1891-census-fensom-eden-grove/transcription.md).
 - **1901 Census** — 13 Eden Grove, Islington (RG 13/173, folio 58, p. 6, schedule 16): David Fensom (head, 65, general labourer, born Harpenden, Hertfordshire) and Georgina Fensom (wife, 65, born London). Findmypast transcript — image not yet downloaded.
 
 ## Open questions

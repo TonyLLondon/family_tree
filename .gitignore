@@ -22,3 +22,6 @@ projects/*/inbox/*
 # what the website renders next to each transcribed snippet.
 sources/corpus/*/_ocr_index/
 sources/corpus/*/thumbnails/
+
+# Full-res OCR source book (>100MB, exceeds GitHub limit); only cited excerpts are committed.
+media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf

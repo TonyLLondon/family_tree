@@ -82,7 +82,9 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
   );
 
   const kindRaw =
-    source.cardFrontmatter?.kind ?? source.cardFrontmatter?.source_type;
+    source.cardFrontmatter?.kind ??
+    source.cardFrontmatter?.source_type ??
+    source.yamlRecordKind;
   const kindLabel =
     typeof kindRaw === "string"
       ? KIND_BADGES[kindRaw] ?? kindRaw.charAt(0).toUpperCase() + kindRaw.slice(1)
@@ -90,9 +92,9 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
 
   return (
     <PageShell title={source.title} hideHeader>
-      <article className="mx-auto max-w-4xl">
+      <article className="mx-auto min-w-0 w-full max-w-4xl overflow-x-auto">
         {/* ---------------- Header ---------------- */}
-        <header className="mb-8 border-b border-zinc-200 pb-6">
+        <header className="mb-8 min-w-0 border-b border-zinc-200 pb-6">
           {kindLabel && (
             <div className="flex flex-wrap items-start gap-2">
               <span className="inline-flex items-center rounded-md bg-sky-50 px-2 py-0.5 text-xs font-semibold text-sky-700 ring-1 ring-sky-200">
@@ -100,7 +102,7 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
               </span>
             </div>
           )}
-          <h1 className="mt-3 text-3xl font-bold tracking-tight text-zinc-900">
+          <h1 className="mt-3 break-words text-3xl font-bold tracking-tight text-zinc-900">
             {source.title}
           </h1>
           {(source.provenance || source.pdfDownloadUrl) && (
@@ -148,7 +150,7 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
         {/* ---------------- Summary (citation card prose) ---------------- */}
         {source.cardContent && source.cardFilePath && (
           <section className="mb-10">
-            <div className="prose prose-zinc max-w-none">
+            <div className="prose prose-zinc min-w-0 max-w-none">
               <MarkdownContent
                 content={stripFirstH1(source.cardContent)}
                 filePath={source.cardFilePath}
@@ -189,18 +191,18 @@ function UnifiedSourcePage({ slug }: { slug: string }) {
         {source.reference && (
           <BodySection
             body={source.reference}
-            heading="Context & cross-references"
+            heading="What this record shows"
             tone="secondary"
           />
         )}
 
-        {/* ---------------- Machine extract (with warning) ---------------- */}
+        {/* ---------------- Ingest text (reference — collapsible) ---------------- */}
         {source.extract && (
           <BodySection
             body={source.extract}
             heading={source.extract.label}
             tone="secondary"
-            machine
+            ingestNotice
             collapsible
           />
         )}
@@ -295,7 +297,7 @@ function SnippetsSection({ snippets }: { snippets: SourceSnippets }) {
       </p>
 
       {snippets.body && (
-        <div className="prose prose-zinc mb-8 max-w-none">
+        <div className="prose prose-zinc mb-8 min-w-0 max-w-none">
           <MarkdownContent
             content={stripFirstH1(snippets.body.content)}
             filePath={snippets.body.filePath}
@@ -359,9 +361,9 @@ function SnippetsSection({ snippets }: { snippets: SourceSnippets }) {
                     </p>
                   )}
                   <p className="text-xs text-zinc-500">
-                    Search aid only — text-layer / OCR slice. The transcription
-                    above (when present) is what the agent read from the page
-                    image.
+                    Search aid only — text layer or OCR slice. When a human
+                    transcription appears above, prefer that for reading; it
+                    was taken from the page image.
                   </p>
                 </div>
               </div>
@@ -382,26 +384,28 @@ function BodySection({
   heading,
   tone,
   collapsible = false,
-  machine = false,
+  ingestNotice = false,
 }: {
   body: SourceBodyContent;
   heading: string;
   tone: "primary" | "secondary";
   collapsible?: boolean;
-  machine?: boolean;
+  /** Reference-only text from `extracted.*.md` (ingest pipeline). */
+  ingestNotice?: boolean;
 }) {
   const inner = (
     <>
-      {machine && (
+      {ingestNotice && (
         <div className="mb-6 rounded-xl border border-amber-200/90 bg-amber-50 px-4 py-3 text-sm text-amber-950 shadow-sm ring-1 ring-amber-950/5">
           <p className="m-0 font-medium leading-snug">
-            This content is <strong className="font-semibold">machine-extracted</strong>{" "}
-            from a PDF or web capture. OCR and layout conversion often produce broken
-            words and stray symbols.
+            This block is <strong className="font-semibold">automated ingest text</strong>{" "}
+            from the PDF or web capture (text layer, layout, or OCR). It is useful for search
+            and skimming; line breaks and spelling may not match the original. When a human
+            transcription or translation appears above, use that for quotations.
           </p>
         </div>
       )}
-      <div className="prose prose-zinc max-w-none">
+      <div className="prose prose-zinc min-w-0 max-w-none">
         <MarkdownContent
           content={stripFirstH1(body.content)}
           filePath={body.filePath}
@@ -417,25 +421,25 @@ function BodySection({
 
   if (collapsible) {
     return (
-      <section className="mb-10">
-        <details className="group rounded-xl border border-zinc-200 bg-white">
-          <summary className="cursor-pointer select-none px-5 py-3 text-base font-semibold text-zinc-800 hover:text-zinc-950">
+      <section className="mb-10 min-w-0">
+        <details className="group min-w-0 rounded-xl border border-zinc-200 bg-white">
+          <summary className="cursor-pointer select-none break-words px-5 py-3 text-base font-semibold text-zinc-800 hover:text-zinc-950">
             {heading}
-            {body.language && (
+            {body.language && heading !== body.label && (
               <span className="ml-2 text-sm font-normal text-zinc-500">
                 · {body.label}
               </span>
             )}
           </summary>
-          <div className="border-t border-zinc-200 px-5 py-5">{inner}</div>
+          <div className="min-w-0 border-t border-zinc-200 px-5 py-5">{inner}</div>
         </details>
       </section>
     );
   }
 
   return (
-    <section className="mb-10">
-      <h2 className={headerClass}>
+    <section className="mb-10 min-w-0">
+      <h2 className={`${headerClass} break-words`}>
         {heading}
         {body.language && (
           <span className="ml-2 text-sm font-normal text-zinc-500">
@@ -498,7 +502,7 @@ function LegacySourceCardPage({ segments }: { segments: string[] }) {
 
   return (
     <PageShell title={title}>
-      <article className="mx-auto max-w-prose">
+      <article className="mx-auto min-w-0 max-w-prose overflow-x-auto">
         <MarkdownContent content={parsed.content} filePath={parsed.filePath} />
       </article>
     </PageShell>

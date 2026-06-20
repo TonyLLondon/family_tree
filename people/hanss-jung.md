@@ -52,8 +52,8 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Johanns Jung, 19 May 1631, Sulgen, parents Barttli Jung & Barbel Schmidhusser · [corpus](../sources/corpus/johanns-jung-baptism-1631/reference.md) · FamilySearch FV8P-SP8
-- **Son's baptism record:** Johannes Jung, 11 Aug 1667, parents Hanss Jung & Anna Marstetter · [corpus](../sources/corpus/johannes-jung-baptism-1667/reference.md) · FV8G-LJF
+- **Baptism record:** Johanns Jung, 19 May 1631, Sulgen, parents Barttli Jung & Barbel Schmidhusser · [reference](../sources/corpus/johanns-jung-baptism-1631/reference.md) · FamilySearch FV8P-SP8
+- **Son's baptism record:** Johannes Jung, 11 Aug 1667, parents Hanss Jung & Anna Marstetter · [reference](../sources/corpus/johannes-jung-baptism-1667/reference.md) · FV8G-LJF
 
 ## Research Notes (2026-04-11)
 

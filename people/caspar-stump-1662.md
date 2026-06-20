@@ -51,7 +51,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Caspar Stump, 27 Nov 1662, Sulgen, parents Augustin Stump & Barbel Rutershausser · [corpus](../sources/corpus/caspar-stump-baptism-1662/reference.md) · FamilySearch FV8G-V29
+- **Baptism record:** Caspar Stump, 27 Nov 1662, Sulgen, parents Augustin Stump & Barbel Rutershausser · [reference](../sources/corpus/caspar-stump-baptism-1662/reference.md) · FamilySearch FV8G-V29
 - **Death records:** Caspar Stump, Dec 1729, Sulgen · FamilySearch 68VT-N5V2 and FVK8-YWG
 - **Son's baptism:** Hans Conrad Stump (30 May 1697) with parents Caspar Stump & Dorothea Brueschwiler
 

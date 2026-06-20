@@ -1,0 +1,34 @@
+## Summary
+
+**Giuseppe Sabalich**, *Guida archeologica di Zara: con illustrazioni araldiche* (Zara: Tip. di Leone Woditzka, 1897), 512 pp.
+
+Encyclopedic guide to the monuments, institutions, families, and archives of Zadar. Widely referenced by subsequent Dalmatian historians including Granić, Celić, and the *Società Dalmata di Storia Patria*.
+
+## Addobbati entry (pp. 503–509)
+
+The addenda section (pp. 503–509) contains a seven-page account of the Addobbati family, compiled with access to the family's own documents then held by Lt. Col. Simeone Addobbati q.m Pietro Paolo (I54). Covers:
+
+- The 1745 Bergamo genealogical testimonial (complete lineage from D. Petrus de Adobatis, 1495)
+- The transfer of the three brothers (Daniele, Lorenzo, Giuseppe) to Zara
+- Civic offices held by every generation under Venetian, French, and Austrian rule
+- The 1756 Grimani land investiture for Lorenzo at Nadin
+- The 1789/1804 Nin noble admission (Luigi → Dr. Pietro and Vincenzo)
+- The career of Dr. Pietro Addobbati: Golden Spur (1786), Lateran Count, lawyer, judge, municipal councillor (d. 4 Nov 1832)
+- Pietro Paolo Addobbati (1815–†1886): *Revidente Contabile Luogotenenziale*, Lt. National Guard
+- Marriage alliances: Lanfranchi, Plavinò, Sandri, Coltelli, Rovaro-Brizzi, Canova, Pasini, Marchio, Carboncich, Ventura
+- Abbot Francesco Addobbati of the Accademia dei Ravvivati (1756)
+- The coat of arms (correction vs Heyer plate 57)
+
+The full Italian transcription and English translation of all seven pages are below; the page facsimiles are reproduced at the top of this entry.
+
+**Named individuals (inventory + web desk + archive queue):** [Addobbati × Sabalich desk research](../../../research/addobbati-sabalich-line-desk-research.md)
+
+## People
+
+- [Luigi Anzolo Alloisio Addobbati](../people/luigi-anzolo-alloisio-addobbati.md) (I30)
+- [Vincenzo Giovanni Domenico Valentino Addobbati](../people/vincenzo-giovanni-domenico-valentino-addobbati.md) (I29)
+- [Pietro Paolo Addobbati](../people/pietro-paolo-addobbati.md) (I23)
+- [D. Daniele Addobbati](../people/d-daniele-addobbati.md) (I31)
+- [D. Ioanes Addobbati](../people/d-ioanes-addobbati.md) (I32)
+- [Pietro Addobbati](../people/pietro-addobbati.md) (I38) — 1495 progenitor
+- [Dr. Pietro Addobbati](../people/dr-pietro-addobbati.md) (I75) — Golden Spur, Lateran Count

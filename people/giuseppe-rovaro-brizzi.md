@@ -28,6 +28,6 @@ children:
 ## Evidence
 
 - **Tree id:** **I56** — union **F26**.
-- **Birth register of daughter Gerarda, Entry 107, 12 Jul 1825:** "Giuseppe Rovaro Brizzi nato e do. in Zara… Venditore di Sali e Tabacchi al minuto" — [corpus](../sources/corpus/1825-birth-geralda-rovaro-brizzi-zara/reference.md).
-- **Marriage register of daughter Gerarda, 26 Oct 1845:** "Rovero Brizzi Giuseppe… Zara Venditore di Tabacchi all'Ingrosso" — [corpus](../sources/corpus/1845-marriage-addobbati-rovaro-brizzi-zara/reference.md).
-- **Marriage register, Zara, 25 Aug 1821:** [corpus](../sources/corpus/1821-marriage-rovaro-brizzi-castellanich-zara/reference.md) — field-level transcription pending.
+- **Birth register of daughter Gerarda, Entry 107, 12 Jul 1825:** "Giuseppe Rovaro Brizzi nato e do. in Zara… Venditore di Sali e Tabacchi al minuto" — [reference](../sources/corpus/1825-birth-geralda-rovaro-brizzi-zara/reference.md).
+- **Marriage register of daughter Gerarda, 26 Oct 1845:** "Rovero Brizzi Giuseppe… Zara Venditore di Tabacchi all'Ingrosso" — [reference](../sources/corpus/1845-marriage-addobbati-rovaro-brizzi-zara/reference.md).
+- **Marriage register, Zara, 25 Aug 1821:** [reference](../sources/corpus/1821-marriage-rovaro-brizzi-castellanich-zara/reference.md) — field-level transcription pending.

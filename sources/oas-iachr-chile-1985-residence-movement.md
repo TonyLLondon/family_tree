@@ -21,8 +21,7 @@ Legal instruments: **Decreto Ley 81** (1973), **Decreto Ley 604** (10 August 197
 
 - [Helia Cerpa Pérez](../people/helia-cerpa-perez.md) — on the 6th-edition list (15 July 1985, 4,360 names), reproduced in the Cartilla del Retornado
 
-## Corpus
-
+## Source record
 - [source.yaml](corpus/oas-iachr-chile-1985-residence-movement/source.yaml)
 - [extracted.web.md](corpus/oas-iachr-chile-1985-residence-movement/extracted.web.md)
 

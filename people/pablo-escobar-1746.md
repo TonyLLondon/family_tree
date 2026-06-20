@@ -59,6 +59,6 @@ This breakthrough extends **confirmed ESCOBAR ancestry** from the mid-19th centu
 
 ## Sources
 
-- [Chilean ESCOBAR Line Extension 2026](../sources/corpus/chile-escobar-line-extension-2026/) - genealogical reconstruction from colonial records  
+- [Chilean ESCOBAR Line Extension 2026](../sources/corpus/chile-escobar-lineage-extension-2026/) - genealogical reconstruction from colonial records  
 - [Chilean Colonial Ancestors Discovery 2026](../sources/chile-colonial-ancestors-discovery-2026.md)  
-- [chile-escobar-line-extension-2026 corpus](../sources/corpus/chile-escobar-line-extension-2026/)
+- [chile-escobar-line-extension-2026 reference](../sources/corpus/chile-escobar-lineage-extension-2026/)

@@ -293,7 +293,7 @@ The article (citing Najm-Abadi) says Stump died at **83** in 1951, implying birt
 
 | # | Material | Status | Location |
 |---|---|---|---|
-| **A** | **Encyclopaedia Iranica — DENTISTRY** | **Ingested** | [corpus/iranica-dentistry-article/extracted.web.md](../iranica-dentistry-article/extracted.web.md) — full article text; names "Stump, an Austrian" alongside Melczarski; cites Najm-Abadi 1974, Golparvar 1987, Simjur 1976 |
+| **A** | **Encyclopaedia Iranica — DENTISTRY** | **Ingested** | [corpus/iranica-dentistry/extracted.web.md](../iranica-dentistry-article/extracted.web.md) — full article text; names "Stump, an Austrian" alongside Melczarski; cites Najm-Abadi 1974, Golparvar 1987, Simjur 1976 |
 | **B** | **Daneshvar, *Savushun*** (English trans.) | **Located** | Internet Archive: <https://archive.org/details/savushunnovelabo00dani> (borrowable) — Mage Publishers 1990 trans. by Ghanoonparvar |
 
 ### Located but not digitally accessible

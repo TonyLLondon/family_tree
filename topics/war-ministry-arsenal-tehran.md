@@ -47,7 +47,7 @@ Bottin also appears in the **Alliance Française** committee in Tehran alongside
 | Source | Location |
 |--------|----------|
 | Bottin government contract (scan) | [media/albums/henderson/Bottin Contract.pdf](../media/albums/henderson/Bottin%20Contract.pdf) |
-| Contract extract | [corpus/bottin-contract/extracted.pdf.md](../sources/corpus/bottin-contract/extracted.pdf.md) |
+| Contract extract | [Bottin contract (ingest text)](../sources/corpus/bottin-government-contract/extracted.pdf.md) |
 | Citation card | [sources/bottin-government-contract.md](../sources/bottin-government-contract.md) |
 
 ## Narrative

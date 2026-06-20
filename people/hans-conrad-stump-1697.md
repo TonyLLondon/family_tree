@@ -60,7 +60,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Hans Conrad Stump, 30 May 1697, Sulgen, parents Caspar Stump & Dorothea Brueschwiler · [corpus](../sources/corpus/hans-conrad-stump-baptism-1697/reference.md) · FamilySearch FV8L-2WY
+- **Baptism record:** Hans Conrad Stump, 30 May 1697, Sulgen, parents Caspar Stump & Dorothea Brueschwiler · [reference](../sources/corpus/hans-conrad-stump-baptism-1697/reference.md) · FamilySearch FV8L-2WY
 - **Children's baptisms:** Multiple Hans Conrad children (1729-1730) with different mothers, all in Sulgen
 
 ## Research Notes (2026-04-11)

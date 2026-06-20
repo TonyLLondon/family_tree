@@ -49,11 +49,12 @@ Italian and Croatian sources date the killings of **Nicolò** and **Pietro Luxar
 
 ## Evidence
 
-- **ITS/IRO displaced persons file (1951):** [sources/its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) → [corpus/its-iro-riccardo-zerauschek-1951/](../sources/corpus/its-iro-riccardo-zerauschek-1951/) — ITS Nr. S-1920; seven scans in [media/docs/its-iro-riccardo-zerauschek/](../media/docs/its-iro-riccardo-zerauschek/); transcription.
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **ITS/IRO displaced persons file (1951):** [sources/its-iro-riccardo-zerauschek-1951.md](../sources/its-iro-riccardo-zerauschek-1951.md) → [its-iro-riccardo-zerauschek-1951/](../sources/corpus/its-iro-riccardo-zerauschek-1951/) — ITS Nr. S-1920; seven scans in [media/docs/its-iro-riccardo-zerauschek/](../media/docs/its-iro-riccardo-zerauschek/); transcription.
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Research synthesis — war exile, Split opera, Luxardo chronology:** [research/zadar/riccardo-zerauschek-war-exile-luxardo-chronology.md](../research/zadar/riccardo-zerauschek-war-exile-luxardo-chronology.md) (working memo; secondary URLs for regional context).
 - **Wishlist (archives to contact / manifests):** [sources/wishlist/riccardo-zerauschek-iro-trieste-hnk.md](../sources/wishlist/riccardo-zerauschek-iro-trieste-hnk.md).
-- **Death telegram (13 Feb 1978):** [Ginko130278.jpg](../media/docs/zerauschek-family/AZ%20family/Ginco/Ginko130278.jpg) — telegram from TRIESTE to "LEWIS / HOVE PARK WAY 26 / HOVE": "ZIO GINCO MANCATO STAMANE ABBRACCI TANIA." Brighton postmark 13 FEB 78. Confirms Riccardo died in Trieste on 13 February 1978; sender **Tania** = Tatiana Machiedo.
+- **Death telegram (13 Feb 1978):** [Ginko130278.jpg](../media/docs/zerauschek-family/AZ%20family/Ginco/Ginko130278.jpg) — telegram from TRIESTE … "ZIO GINCO MANCATO STAMANE ABBRACCI TANIA." Confirms Riccardo died in Trieste on 13 February 1978; sender **Tania** = Tatiana Machiedo.
+- ***Il Piccolo* (14 Feb 1978)** — necrologio: [source card](../sources/piccolo-1978-02-14-riccardo-zerauschek-obituary.md) · [full record](../sources/corpus/piccolo-1978-02-14-riccardo-zerauschek-obituary/) · [Internet Archive PDF](https://archive.org/details/Piccolo_1978-02-14).
 
 ## Open questions
 

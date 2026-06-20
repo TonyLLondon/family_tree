@@ -27,7 +27,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Flight to Iran (1811):** Fled Russian-controlled Georgia with brother **Zaal Saginean** and companion Solomon/Solayman Khan Saham al-Dowleh. Pretext: told their Russian commander they wanted to go **wrestling** in Tbilisi. Route: Yerevan → Akhalkalaki → Giumri → **Tabriz**. Shermazanian (via Maeda 2019): embraced **Grigorian faith** after arrival; their children became Armenians.
   - **Court–military nexus:** Joined Abbas Mirza’s army; major by **1821**; commanded troops under **Sayf ol-Dowleh**; **1834 Isfahan conflict** one wing under his command. Titles: *sartip* (brigadier general), *farmandeh* of Shiraz+Isfahan under Fath Ali Shah, *sarperast-e Aramane* (guardian of the Armenians).
   - **Issue:** [Anna Saginian](../people/anna-saginian.md), [Tamar Saginian](../people/tamar-saginian.md).
-  - **Sources:** [Maeda 2019 — corpus reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) (Brill; **primary scholarly source** for flight narrative); [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md); narrative [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md); visual [stories/daoud-khan-nestorian-protector.md](../stories/daoud-khan-nestorian-protector.md).
+  - **Sources:** [Maeda 2019 — reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) (Brill; **primary scholarly source** for flight narrative); [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md); narrative [stories/saginian-burgess-bottin-stump.md](../stories/saginian-burgess-bottin-stump.md); visual [stories/daoud-khan-nestorian-protector.md](../stories/daoud-khan-nestorian-protector.md); Nestorian governor arc (**1845–1848**) — [Rufus Anderson (1872 / repr. *American Foreign Missions to the Oriental Churches*)](../sources/rufus-anderson-1872-history-missions-oriental-churches.md) [verbatim reference](../sources/corpus/rufus-anderson-1872-history-missions-oriental-churches/reference.md), including **1848** patriarch–Jesuit failure · digest [Robert Young — *Light in Lands of Darkness*](../sources/robert-young-light-lands-darkness-nestorian-1848.md).
 
 ### Generation 2 — Court, translation, and royal medicine
 
@@ -41,9 +41,12 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Narrative:** [The Most All-Loved Person — Edward Burgess in Qajar Persia](../stories/edward-burgess-persia.md) — full life arc (scrollytelling).
 
 - **[Tamar Saginian](../people/tamar-saginian.md)** — **m.** **[Dr. William Cormick](../people/william-cormick.md)** *(parallel Saginian–court line, same network as Anna)*
+
+![William and Tamar Cormick and family, c. 1867](../media/docs/cormick-saginian/cormick-saginian-family-group-c1867.jpg)
+
   - **Tamar:** Sister of Anna; vitals **unknown** in vault; **not** a separate “main trunk” from Anna in narrative terms — same **Saginian family network**, different court channel.
   - **William Cormick:** Irish-Armenian physician, **b. Tabriz 1822; d. 1877**; physician to **Mohammad Shah Qajar**; personal physician to Crown Prince **Naser al-Din Shah**; direct **royal household** access; part of **modernization of medicine** in Persia.
-  - **Sources:** [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md), [wikipedia-william-cormick.md](../sources/wikipedia-william-cormick.md).
+  - **Sources:** [connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md) · [Cormick–Saginian photographs](../media/docs/cormick-saginian/CREDITS.md) · [William Cormick](../people/william-cormick.md) · [wikipedia-william-cormick.md](../sources/wikipedia-william-cormick.md).
 
 ### Generation 3 — Late Qajar: industry, lodges, War Ministry
 
@@ -53,7 +56,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
   - **Fanny:** **1854–1938** (grave **6 Nov 1938**, age **84**, Tehran Protestant Cemetery); NYPL names **“Fanny Burgess Bottin”**; daughter of Anna + Edward.
   - **Julien:** French engineer, **Tehran**, late 19th–early 20th c.; **Alliance Française** (Tehran); Freemason lodge **“Orient de Tehran”** (1898); **Ministry of War** contract — *Ingénieur mécanicien de l’Arsenal et des manufactures militaires*; **2 years**, **2400 tomans**; arsenal machinery, **30 students** applied mechanics; attendance arsenal, powder factory, cartridge works; ties family to **Persian military-industrial** state, not peripheral expatriate role.
   - **Issue:** [Henriette Bottin Burgess](../people/henriette-bottin.md).
-  - **Sources:** [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md), [levantine-freemasonry-middle-east.md](../sources/levantine-freemasonry-middle-east.md), [bottin-government-contract.md](../sources/bottin-government-contract.md).
+  - **Sources:** [nypl-burgess-papers.md](../sources/nypl-burgess-papers.md), [levantine-freemasonry-middle-east.md](../sources/cemoti-intro19-footnote-url-middle-east.md), [bottin-government-contract.md](../sources/bottin-government-contract.md).
 
 ### Generation 4 — Qajar–Pahlavi transition: scientific profession
 
@@ -184,31 +187,56 @@ flowchart TB
 
 ---
 
+## Period images — the world they moved through
+
+A set of public-domain engravings illustrates the Qajar Persia this family
+inhabited: the court of Naser al-Din Shah, the Tabriz → Tehran road, costume,
+caravanserais and street life of the 1860s–1890s. None depicts a named relative;
+together they reconstruct the scenes behind the Saginian, Burgess and Bottin
+records. Full list and provenance: [media/context/qajar-persia/CREDITS.md](../media/context/qajar-persia/CREDITS.md).
+
+![Interior of the Blue Mosque, Tabriz — Jane Dieulafoy, 1887](../media/context/qajar-persia/dieulafoy-1887-blue-mosque-interior-tabriz.png)
+
+![Naser al-Din Shah — S. G. W. Benjamin, 1887](../media/context/qajar-persia/benjamin-1887-naser-al-din-shah-portrait.png)
+
+The three sources are first-hand illustrated travel books, all in the public domain:
+
+| Author / work | Year | Plates here | Internet Archive |
+|---------------|:----:|:-----------:|------------------|
+| S. G. W. Benjamin (first U.S. Minister to Persia), *Persia and the Persians* | 1887 | 18 | `persiapersians00benjuoft` |
+| George N. Curzon, *Persia and the Persian Question*, Vol. 1 | 1892 | 5 | `in.ernet.dli.2015.181514` |
+| Jane Dieulafoy, *La Perse, la Chaldée et la Susiane* | 1887 | 13 | `gri_33125012922361` |
+
+---
+
 ## Sources (vault)
 
 | Topic | File |
 |--------|------|
 | NYPL Burgess papers | [sources/nypl-burgess-papers.md](../sources/nypl-burgess-papers.md) |
-| NYPL / Burgess — Schwartz bulletin + letters (corpus cluster) | [sources/nypl-burgess-corpus-cluster.md](../sources/nypl-burgess-corpus-cluster.md) |
-| Wright — British burials in Persia (corpus) | [sources/wright-burials-persia-corpus.md](../sources/wright-burials-persia-corpus.md) |
-| Persia — modern scholarship PDFs (cluster) | [sources/persia-modern-scholarship-corpus-cluster.md](../sources/persia-modern-scholarship-corpus-cluster.md) |
-| Missions / Bahá'í / Bábí books (cluster) | [sources/missions-bahai-babi-corpus-cluster.md](../sources/missions-bahai-babi-corpus-cluster.md) |
+| NYPL / Burgess — Schwartz bulletin + letters (hub card) | [sources/nypl-burgess-corpus-cluster.md](../sources/nypl-burgess-corpus-cluster.md) |
+| Wright — British burials in Persia | [sources/wright-burials-persia-corpus.md](../sources/wright-burials-persia-corpus.md) |
+| Persia — modern scholarship PDFs | [sources/persia-modern-scholarship-corpus-cluster.md](../sources/persia-modern-scholarship-corpus-cluster.md) |
+| Missions / Bahá'í / Bábí books | [sources/missions-bahai-babi-corpus-cluster.md](../sources/missions-bahai-babi-corpus-cluster.md) |
 | Connections BMC (Anna, Tamar, Daoud Khan) | [sources/connectionsbmc-saginian-interview.md](../sources/connectionsbmc-saginian-interview.md) |
 | Wikipedia — William Cormick | [sources/wikipedia-william-cormick.md](../sources/wikipedia-william-cormick.md) |
-| Levantine Heritage — Freemasonry / Bottin | [sources/levantine-freemasonry-middle-east.md](../sources/levantine-freemasonry-middle-east.md) |
+| Levantine Heritage — Freemasonry / Bottin | [sources/levantine-freemasonry-middle-east.md](../sources/cemoti-intro19-footnote-url-middle-east.md) |
 | Encyclopaedia Iranica — dentistry (Stump) | [sources/iranica-dentistry.md](../sources/iranica-dentistry.md) |
 | Bottin government contract (primary) | [sources/bottin-government-contract.md](../sources/bottin-government-contract.md) |
 | Estonian Biographical Center — Stump Tallinn research (2005) | [sources/estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) |
 | Mustawfi memoir / Mahmoudieh / Stump | [sources/mustawfi-mahmoudieh-stump.md](../sources/mustawfi-mahmoudieh-stump.md) |
-| **Maeda 2019 — Lives of the Enikolopians** (Saginean flight, wrestling pretext, Grigorian conversion) | [corpus/maeda-2019-enikolopians-saginian-flight/reference.md](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) |
-| **Denis Wright — *The English Amongst the Persians*, Ch.7** (Burgess brothers, Edward’s career) | [corpus/denis-wright-english-amongst-persians-burgess/reference.md](../sources/corpus/denis-wright-english-amongst-persians-burgess/reference.md) · [transcript](../sources/corpus/denis-wright-english-amongst-persians-burgess/transcription.md) |
-| **Charles Burgess — *Brief Notice* to T.H. Villiers (1832)** (Trebizond trade; Edward as Tabriz agent) | [corpus/brief-notice-trade-northern-provinces-persia-villiers/reference.md](../sources/corpus/brief-notice-trade-northern-provinces-persia-villiers/reference.md) |
-| Abrahamian 1983 — introductory note to *Brief Notice* (provenance; Charles bio) | [corpus/early-trade-northern-provinces-persia-document/reference.md](../sources/corpus/early-trade-northern-provinces-persia-document/reference.md) |
+| **Maeda 2019 — Lives of the Enikolopians** (Saginean flight, wrestling pretext, Grigorian conversion) | [Reference](../sources/corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](../sources/corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md) |
+| **Rufus Anderson (1872)** — Nestorian mission; Dawood Khan governor / civil protector; **1848** outcome | [Source card](../sources/rufus-anderson-1872-history-missions-oriental-churches.md) · [Reference](../sources/corpus/rufus-anderson-1872-history-missions-oriental-churches/reference.md) |
+| **Robert Young — *Light in Lands of Darkness*** — condensed Nestorian / Dawood Khan **1848** passage | [Source card](../sources/robert-young-light-lands-darkness-nestorian-1848.md) · [Excerpt](../sources/corpus/robert-young-light-lands-darkness-nestorian-1848/reference.md) |
+| **Denis Wright — *The English Amongst the Persians*, Ch.7** (Burgess brothers, Edward’s career) | [Reference](../sources/corpus/denis-wright-english-amongst-persians-burgess/reference.md) · [transcript](../sources/corpus/denis-wright-english-amongst-persians-burgess/transcription.md) |
+| **Charles Burgess — *Brief Notice* to T.H. Villiers (1832)** (Trebizond trade; Edward as Tabriz agent) | [Reference](../sources/corpus/brief-notice-trade-northern-provinces-persia-villiers/reference.md) |
+| ***The Portfolio* (1836)** — early public reprint of the *Brief Notice* (IA facsimile) | [Reference](../sources/corpus/portfolio-1836-burgess-brief-notice-persia-villiers/reference.md) |
+| Abrahamian 1983 — introductory note to *Brief Notice* (provenance; Charles bio) | [Reference](../sources/corpus/early-trade-northern-provinces-persia-document/reference.md) |
 | British Library notes | [sources/british-library-notes.md](../sources/british-library-notes.md) |
 | **Archive** (legacy exports, Gramps/RM, Mahmoudieh paths in catalog) | [archive/index.md](../archive/index.md) · stub [sources/legacy-index.md](../sources/legacy-index.md) |
 | **Media — Assyrians / Persia** (Yonan monograph PDF in `media/docs/`) | [Gabriele Yonan — *Lest We Perish* (1996) PDF](../media/docs/Gabriele%20Yonan%20-%20Lest%20We%20Perish%20-%20Christian%20Assyrians%20Turkey%20and%20Persia%201996.pdf) |
 | **Media — Central Asia context** (Eden dissertation PDF) | [Jeffrey Eden — *Slavery and Empire in Central Asia* (Harvard diss., 2016) PDF](../media/docs/Jeffrey%20Eden%20-%20Slavery%20and%20Empire%20in%20Central%20Asia%20-%20Harvard%20dissertation%202016.pdf) |
-| **Offline web capture** (curl / browser tools) | Bundles under [sources/corpus/](../sources/corpus/) (`mirror.html`, `source.yaml`). **Full slug list:** [sources/corpus-bibliography.md](../sources/corpus-bibliography.md). **Inbox** for new drops: [manual/](../manual/README.md). |
+| **Offline web capture** (curl / browser tools) | Each ingested source folder has `mirror.html`, `source.yaml`, etc.; **inventory:** [sources/corpus-bibliography.md](../sources/corpus-bibliography.md). **Inbox:** [manual/](../manual/README.md). |
 
 Primary documents: [sources/documents/](../sources/documents/) · **media** (albums, scans, PDFs): [media/](../media/) — see [index.md](../index.md)
 
@@ -239,9 +267,9 @@ family_tree/
 ├── archive/ ← legacy desktop exports, Gramps/RootsMagic ([archive/index.md](../archive/index.md))
 ├── scripts/
 │ ├── validate_family_tree_json.py ← checks structured tree JSON
-│ └── ingest_source.py ← PDF/HTML → sources/corpus/
-├── manual/ ← inbox: raw files for AI/scripts to file into corpus/media/people
-├── sources/ ← citation cards, corpus bundles
-│ ├── corpus/ ← extracts + source.yaml; mirror.html / original.pdf as needed
+│ └── ingest_source.py ← PDF/HTML → sources/corpus/ (ingested source tree)
+├── manual/ ← inbox: **move** files into sources / media / people — cited binaries are **relocated**, not deleted (see manual/README.md)
+├── sources/ ← citation cards + ingested source folders
+│ ├── corpus/ ← extracts + source.yaml; mirror.html / original.pdf as needed (on-disk layout name unchanged)
 │ └── documents/ ← optional small primary uploads
 ```

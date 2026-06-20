@@ -21,6 +21,6 @@ Françoise Mestral was the wife of [Antoine Chenevard](antoine-chenevard.md) (b.
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6NQL-D1L7 | Family register — Antoine Chenevard × Françoise Mestral, 4 Mar 1688 | [corpus](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |
+| 6NQL-D1L7 | Family register — Antoine Chenevard × Françoise Mestral, 4 Mar 1688 | [reference](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |

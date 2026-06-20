@@ -31,7 +31,7 @@ Marriage entry **nº 13** in the Metropolitan parish of **Sv. Stošija (St. Anas
 ## Cross-confirmation
 
 - **Baptism of groom, archbishop's book 1778–1791** — entry recorded in DAZD inventory of HR-DAZD-342 *Obitelj Addobbati* (sig. supporting the 24 Mar 1781 birth date). See [dazd-addobbati-family-fonds](../dazd-addobbati-family-fonds/).
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 508** — "Vincenzo Addobbati q m Luigi (nato 1776)"; the printed 1776 birth year is a secondary slip — the register and DAZD agree on **24 March 1781**. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 508** — "Vincenzo Addobbati q m Luigi (nato 1776)"; the printed 1776 birth year is a secondary slip — the register and DAZD agree on **24 March 1781**. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara/).
 - **Granić 1817 Nin list** — names *Ivan Vicko Addobbati son of Lujo* among 1804 Nin admissions (with brother Dr. Petar). See [granic-nin-noble-list-1817](../granic-nin-noble-list-1817/).
 - **Marriage of the groom's parents, 4 Apr 1766 Zara:** [1766-marriage-addobbati-plarino-zara](../1766-marriage-addobbati-plarino-zara/).
 

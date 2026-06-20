@@ -22,5 +22,5 @@ He stands in the vault as father of D. Daniel in the patriline that eventually s
 
 ## Evidence
 
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Ivanes Baptista notajo (1630)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](../sources/corpus/sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 503:** “D. Ivanes Baptista notajo (1630)” — [sources/sabalich-guida-zara.md](../sources/sabalich-guida-zara.md) · [full record](../sources/corpus/sabalich-guida-zara/).
 - **Tree id:** **I34**, families F19 / F20 (no wife in this working-tree row).

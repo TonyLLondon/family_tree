@@ -30,4 +30,4 @@ Juan represents the **extension of the CERPA maternal lineage** back another gen
 
 ## Sources
 
-- [Chilean CERPA Maternal Line Discovery](../sources/corpus/fs-62xx-m8w7-rosario-mendez-death-1826/) - FamilySearch 62XX-M8W7
+- [Chilean CERPA Maternal Line Discovery](../sources/corpus/rosario-mendez-death-1826/) - FamilySearch 62XX-M8W7

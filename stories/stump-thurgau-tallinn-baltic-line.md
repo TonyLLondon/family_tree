@@ -32,7 +32,7 @@ What is certain is where he ended up. By **March 1865** Marc was sitting his exa
 
 He built a life in Tallinn: property on **Tatari** and **Mere 123**, tenants (a bakery, a pharmacist), litigation with a neighbour named Mühlberg in 1900. Marc was **Reformed**; his wife was **Lutheran** — a confessional difference that the parish records duly noted.
 
-Full digest + PDF: [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) · [corpus extract](../sources/corpus/estonian-biographical-center-stump-family-resear-856c90185e/extracted.pdf.md) · scan [Estonian Biographical Center PDF](../media/albums/henderson/Estonian%20Biographical%20Center%20-%20Stump%20family%20research%20report%202005-09-01.pdf).
+Full digest + PDF: [estonian-biographical-center-stump-report-2005.md](../sources/estonian-biographical-center-stump-report-2005.md) · [extract](../sources/corpus/estonian-biographical-center-stump-report-2005/extracted.pdf.md) · scan [Estonian Biographical Center PDF](../media/albums/henderson/Estonian%20Biographical%20Center%20-%20Stump%20family%20research%20report%202005-09-01.pdf).
 
 ---
 

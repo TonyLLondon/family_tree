@@ -82,11 +82,11 @@ The returned petition documents ended up in the Addobbati family papers — whic
 
 ## Sources
 
-- **Granić (2014):** Miroslav Granić, "Popis plemića grada Nina iz 1817. godine," *Zbornik Odsjeka za povijesne znanosti*, vol. 32, Zagreb, pp. 199–244 — [sources/granic-nin-noble-list-1817.md](../sources/granic-nin-noble-list-1817.md) → [corpus/granic-nin-noble-list-1817](../sources/corpus/granic-nin-noble-list-1817/). Primary article: full analysis of the 1817 petition, all 52 families, with archival citations.
-- **Granić (2014) — register PDF:** Scan of the 1817 noble register — [corpus/granic-2014-popis-plemenica-nina](../sources/corpus/granic-2014-popis-plemenica-nina/) · canonical PDF [media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf](../media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf).
-- **HAZU DIZBI — Nin nobles list (1817):** Digitised list scan — [corpus/hazu-dizbi-nin-nobles-list-1817](../sources/corpus/hazu-dizbi-nin-nobles-list-1817/).
-- **ARHiNET — Općina Nin:** DAZD HR-DAZD-12 — [corpus/arhinet-hr-dazd-12-opcina-nin](../sources/corpus/arhinet-hr-dazd-12-opcina-nin/).
-- **DAZD Addobbati family fonds (HR-DAZD-342):** 1732–1930; includes the returned 1817 petition documents — [sources/dazd-addobbati-family-fonds.md](../sources/dazd-addobbati-family-fonds.md) → [corpus/dazd-addobbati-family-fonds](../sources/corpus/dazd-addobbati-family-fonds/).
+- **Granić (2014):** Miroslav Granić, "Popis plemića grada Nina iz 1817. godine," *Zbornik Odsjeka za povijesne znanosti*, vol. 32, Zagreb, pp. 199–244 — [source card](../sources/granic-nin-noble-list-1817.md) · [reference](../sources/corpus/granic-nin-noble-list-1817/). Primary article: full analysis of the 1817 petition, all 52 families, with archival citations.
+- **Granić (2014) — register PDF:** Scan of the 1817 noble register — [register scan](../sources/corpus/granic-2014-popis-plemenica-nina/) · canonical PDF [media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf](../media/publications/zadar/Granic-2014-Popis-plemenica-Nina-1817.pdf).
+- **HAZU DIZBI — Nin nobles list (1817):** Digitised list scan — [HAZU digitised list](../sources/corpus/hazu-dizbi-nin-nobles-list-1817/).
+- **ARHiNET — Općina Nin:** DAZD HR-DAZD-12 — [ARHiNET inventory](../sources/corpus/arhinet-hr-dazd-12-opcina-nin/).
+- **DAZD Addobbati family fonds (HR-DAZD-342):** 1732–1930; includes the returned 1817 petition documents — [source card](../sources/dazd-addobbati-family-fonds.md) · [fonds inventory](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Nin Libri Consiliorum:** Council minutes including the 1804 Addobbati admission — DAZd, SN, LCN, III, fol. 28r–v, 78v–79.
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) — family tradition on the Nin admission and its aftermath.
 

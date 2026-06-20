@@ -51,9 +51,9 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Margaretha Mockh, 10 Jan 1706, Sulgen, parents Johannes Mockh & Margaretha Schoenholtzer · [corpus](../sources/corpus/margreth-mockh-baptism-1706/reference.md) · FamilySearch FVKY-22N
+- **Baptism record:** Margaretha Mockh, 10 Jan 1706, Sulgen, parents Johannes Mockh & Margaretha Schoenholtzer · [reference](../sources/corpus/margreth-mockh-baptism-1706/reference.md) · FamilySearch FVKY-22N
 - **Marriage evidence:** Hans Ulrich Jung × Margreth Mockh with Johannes Mockh as father · FamilySearch FVNZ-2FY
-- **Daughter's baptism record:** Anna Margreth Jung, 5 Apr 1731, Sulgen, parents Hanss Ulrich Jung & Margreth Mockh · [corpus](../sources/corpus/anna-margaretha-jung-baptism-1731/reference.md) · FamilySearch FVKB-MRS
+- **Daughter's baptism record:** Anna Margreth Jung, 5 Apr 1731, Sulgen, parents Hanss Ulrich Jung & Margreth Mockh · [reference](../sources/corpus/anna-margaretha-jung-baptism-1731/reference.md) · FamilySearch FVKB-MRS
 
 ## Research Notes (2026-04-11)
 

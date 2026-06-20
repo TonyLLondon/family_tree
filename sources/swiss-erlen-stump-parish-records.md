@@ -4,11 +4,11 @@ FamilySearch indexed records from the Erlen/Sulgen/Hüttwilen Reformed Churches 
 
 ## On disk
 
-Each record has its own corpus bundle with `source.yaml` and `reference.md` containing the full indexed data.
+Each record has its own source record with `source.yaml` and `reference.md` containing the full indexed data.
 
 ### Stump family — Erlen/Sulgen, Thurgau
 
-| Record | Event | Corpus bundle | Image status |
+| Record | Event | Source record | Image status |
 |--------|-------|---------------|--------------|
 | [FVFK-CQH](https://www.familysearch.org/ark:/61903/1:1:FVFK-CQH) | Baptism — Markus Franz Stump, 25 Apr 1834 | [1834-baptism-markus-franz-stump-erlen](corpus/1834-baptism-markus-franz-stump-erlen/) | Index only |
 | [FVFK-X5S](https://www.familysearch.org/ark:/61903/1:1:FVFK-X5S) | Baptism — Jakob Stump, 15 Jun 1800 | [1800-baptism-jakob-stump-erlen](corpus/1800-baptism-jakob-stump-erlen/) | Index only |
@@ -19,20 +19,20 @@ Each record has its own corpus bundle with `source.yaml` and `reference.md` cont
 
 ### Jung family — Sulgen, Thurgau
 
-| Record | Event | Corpus bundle | Image status |
+| Record | Event | Source record | Image status |
 |--------|-------|---------------|--------------|
 | [FVKB-M51](https://www.familysearch.org/ark:/61903/1:1:FVKB-M51) | Baptism — Margreth Jung, 24 Jul 1735, Sulgen | [1735-baptism-margaretha-jung-sulgen](corpus/1735-baptism-margaretha-jung-sulgen/) | Index only |
 | [66JN-HGX5](https://www.familysearch.org/ark:/61903/1:1:66JN-HGX5) | Burial — A Margaretha Jung, 18 Dec 1807, Sulgen | [1807-burial-margaretha-jung-sulgen](corpus/1807-burial-margaretha-jung-sulgen/) | Restricted |
 
 ### Freyenmuth family — Wigoltingen, Thurgau
 
-| Record | Event | Corpus bundle | Image status |
+| Record | Event | Source record | Image status |
 |--------|-------|---------------|--------------|
 | [FVVF-NX7](https://www.familysearch.org/ark:/61903/1:1:FVVF-NX7) | Baptism — Anna Margaretha Freyenmuth, 15 Sep 1743, Wigoltingen | [1743-baptism-margaretha-freyenmuth-wigoltingen](corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/) | Index only |
 
 ### Haag family — Hüttwilen, Thurgau
 
-| Record | Event | Corpus bundle | Image status |
+| Record | Event | Source record | Image status |
 |--------|-------|---------------|--------------|
 | [6F83-6YDJ](https://www.familysearch.org/ark:/61903/1:1:6F83-6YDJ) | Baptism — Hans Conrad Haag, 24 Jun 1742, Hüttwilen | [1742-baptism-hans-conrad-haag-hüttwilen](corpus/1742-baptism-hans-conrad-haag-hüttwilen/) | Restricted |
 | [FVJZ-3ZV](https://www.familysearch.org/ark:/61903/1:1:FVJZ-3ZV) | Marriage — Haag × Freyenmuth, 1765 | [1765-marriage-haag-freyenmuth](corpus/1765-marriage-haag-freyenmuth/) | Index only |
@@ -40,7 +40,7 @@ Each record has its own corpus bundle with `source.yaml` and `reference.md` cont
 
 ### Montagnon family — Aubonne, Vaud & Céligny, Geneva
 
-| Record | Event | Corpus bundle | Image status |
+| Record | Event | Source record | Image status |
 |--------|-------|---------------|--------------|
 | [6NQK-Q676](https://www.familysearch.org/ark:/61903/1:1:6NQK-Q676) | Baptism — François Montagnon, 22 Dec 1667, father Jean Montagnon | [1667-baptism-francois-montagnon](corpus/1667-baptism-francois-montagnon/) | Restricted |
 | [6NQK-XSP4](https://www.familysearch.org/ark:/61903/1:1:6NQK-XSP4) | Baptism — Elisabet Montagnon, 7 Nov 1670, father Jean Montagnon | [1670-baptism-elisabet-montagnon](corpus/1670-baptism-elisabet-montagnon/) | Restricted |
@@ -59,7 +59,7 @@ Each record has its own corpus bundle with `source.yaml` and `reference.md` cont
 
 ### Chenevard family — Céligny, Geneva
 
-| Record | Event | Corpus bundle | Image status |
+| Record | Event | Source record | Image status |
 |--------|-------|---------------|--------------|
 | [6NQF-WB45](https://www.familysearch.org/ark:/61903/1:1:6NQF-WB45) | Baptism — Jaqueline Susanne Chenevard, 26 Oct 1732, Céligny | [1732-baptism-jaqueline-suzanne-chenevard-celigny](corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/) | Restricted |
 | [6NQL-M318](https://www.familysearch.org/ark:/61903/1:1:6NQL-M318) | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [1720-marriage-register-chenevard-nerfin-celigny](corpus/1720-marriage-register-chenevard-nerfin-celigny/) | Restricted |
@@ -67,7 +67,7 @@ Each record has its own corpus bundle with `source.yaml` and `reference.md` cont
 
 ### Dumartheray family — Canton de Vaud
 
-| Record | Event | Corpus bundle | Image status |
+| Record | Event | Source record | Image status |
 |--------|-------|---------------|--------------|
 | [6JCK-2SH2](https://www.familysearch.org/ark:/61903/1:1:6JCK-2SH2) | Family register — Gabriel Nicolas Dumartheray × Jeanne Elisabeth Borel, 4 Aug 1767 | [1767-family-register-dumartheray-borel](corpus/1767-family-register-dumartheray-borel/) | Restricted |
 | [6JCK-8LQQ](https://www.familysearch.org/ark:/61903/1:1:6JCK-8LQQ) | Baptism — Jeanne Françoise Dumartheray, 25 Mar 1775 | [1775-baptism-jeanne-francoise-dumartheray](corpus/1775-baptism-jeanne-francoise-dumartheray/) | Restricted |

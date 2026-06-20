@@ -1,0 +1,14 @@
+id: chanco-index-cerpa-gonzalez-marriages-1900-1909
+title: "Chanco civil registry index — Cerpa × González / Garrido marriages (1900, 1909)"
+date: 1900-1909
+language: es
+description: >
+  Handwritten index entries from DGS 004702560 (Circunscripción de Chanco):
+  Francisco Cerpa marriage (1909, entry 59) from bride's index; Santiago Cerpa
+  × Imperatriz Garrido (1900, entry 8) as a possible Francisco parent lead.
+files:
+  marriage_1909_crop: media/docs/chile-chanco/page-0384-gonzalez-cerpa-francisco-marriage-1909-crop.jpg
+  marriage_1900_crop: media/docs/chile-chanco/page-0385-santiago-cerpa-garrido-marriage-1900-crop.jpg
+  marriage_1909_groom_crop: media/docs/chile-chanco/index-nacimientos-1885-1932/page-0365-cerpa-marriage-crop.jpg
+  reference_md: reference.md
+  transcription_md: transcription.md

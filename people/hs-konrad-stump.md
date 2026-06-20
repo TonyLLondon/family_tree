@@ -58,8 +58,8 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Hans Konrad Stump, 30 Oct 1730, Sulgen, parents Hans Conrad Stump & Elssbeth Straub · [corpus](../sources/corpus/hans-konrad-stump-baptism-1730/reference.md) · FamilySearch FV8F-YZK
-- **Marriage record:** Hans Conrad Stump × Margaretha Jung, 1766 · [corpus](../sources/corpus/hans-konrad-stump-marriage-anna-jung-1766/reference.md) · FamilySearch FVJX-VVS
+- **Baptism record:** Hans Konrad Stump, 30 Oct 1730, Sulgen, parents Hans Conrad Stump & Elssbeth Straub · [reference](../sources/corpus/hans-konrad-stump-baptism-1730/reference.md) · FamilySearch FV8F-YZK
+- **Marriage record:** Hans Conrad Stump × Margaretha Jung, 1766 · [reference](../sources/corpus/hans-konrad-stump-marriage-anna-jung-1766/reference.md) · FamilySearch FVJX-VVS
 - **Children's baptisms:** Hans Ulrich (1767), Hans Conrad (1769), Hans Jacob (1770) all in Sulgen with parents Hans Conrad Stump & Anna Margaretha Jung
 
 **Genealogical IDs:**

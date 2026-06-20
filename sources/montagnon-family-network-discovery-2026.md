@@ -50,7 +50,7 @@ The parallel documentation of multiple MONTAGNON families validates:
 
 - **[Jeanne Bénigne Montagnon](../people/jeanne-benigne-montagnon.md)** - Added extended family network context and new evidence  
 
-## Corpus Entries Created
+## Source records created
 
 1. **[Jean Pierre Montagnon burial 1737](corpus/jean-pierre-montagnon-burial-1737/reference.md)** - Key ancestor in main line  
 2. **[François Montagnon baptism 1667](corpus/francois-montagnon-baptism-1667/reference.md)** - Earliest documented child of Jean Montagnon  

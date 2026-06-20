@@ -19,6 +19,5 @@ The baptism location — Aberavon, on the coast near Port Talbot — establishes
 - [Lewis Lewis](../people/lewis-lewis.md) — father
 - [Rachel Stephen](../people/rachel-james.md) — mother
 
-## Corpus
-
+## Source record
 - [Transcription](corpus/aberavon-baptism-david-lewis-1857/transcription.md)

@@ -10,6 +10,5 @@
 
 Civil death registration confirming **Justo Cerpa + Rosario Mendez** as parents of Ignacio Cerpa Mendez, validating the colonial ancestry connection. Part of the CERPA sibling group with Fabián Cerpa and Bruno Cerpa.
 
-## Corpus
-
+## Source record
 **Transcription and original image:** [chile-cerpa-line-extension-2026](corpus/chile-cerpa-line-extension-2026/) - Record Q241-CYQS

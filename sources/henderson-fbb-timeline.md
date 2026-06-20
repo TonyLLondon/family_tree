@@ -19,10 +19,9 @@ Chronological life outline for **Fanny Burgess Bottin** compiled from family pap
 - Divorced from Julien by **1919**.
 - Last letter from Tehran **1929**.
 
-## Corpus
-
-- Original: [corpus/henderson-fbb-timeline/1854 - 1938 FBB Timeline.xls](corpus/henderson-fbb-timeline/1854%20-%201938%20FBB%20Timeline.xls)
-- CSV extract: [corpus/henderson-fbb-timeline/extracted.csv](corpus/henderson-fbb-timeline/extracted.csv)
+## Source record
+- Original: [1854 - 1938 FBB Timeline.xls](corpus/henderson-fbb-timeline/1854%20-%201938%20FBB%20Timeline.xls)
+- CSV extract: [extracted.csv](corpus/henderson-fbb-timeline/extracted.csv)
 
 ## People
 

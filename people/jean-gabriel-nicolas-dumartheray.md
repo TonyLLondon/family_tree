@@ -23,10 +23,10 @@ The Dumartheray surname is from the Canton de Vaud. Through his daughter's marri
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6JCK-2SH2 | Family register — Dumartheray × Borel, 4 Aug 1767 | [corpus](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
-| 6JCK-8LQQ | Baptism of daughter Jeanne Françoise, 25 Mar 1775 | [corpus](../sources/corpus/1775-baptism-jeanne-francoise-dumartheray/reference.md) |
+| 6JCK-2SH2 | Family register — Dumartheray × Borel, 4 Aug 1767 | [reference](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
+| 6JCK-8LQQ | Baptism of daughter Jeanne Françoise, 25 Mar 1775 | [reference](../sources/corpus/1775-baptism-jeanne-francoise-dumartheray/reference.md) |
 
 ## Open questions
 

@@ -10,7 +10,7 @@
 **Publisher:** Hamshahri Online (همشهری آنلاین), Tehran
 **Language:** Persian
 
-**Corpus:** [corpus/hamshahri-mahmoudieh-stump/](corpus/hamshahri-mahmoudieh-stump/) — ingested via Wayback Machine (10 Feb 2026 snapshot). [Persian extract](corpus/hamshahri-mahmoudieh-stump/extracted.web.md) · [English translation](corpus/hamshahri-mahmoudieh-stump/translation.en.md).
+**Source record:** [full record](corpus/hamshahri-mahmoudieh-stump/) — ingested via Wayback Machine (10 Feb 2026 snapshot). [Persian extract](corpus/hamshahri-mahmoudieh-stump/extracted.web.md) · [English translation](corpus/hamshahri-mahmoudieh-stump/translation.en.md).
 
 ## Summary
 
@@ -32,4 +32,4 @@ Key chain: in **Fath-Ali Shah**'s time, the Zaferaniyeh–Mahmoudieh lands belon
 
 - [topics/mahmoudieh-house.md](../topics/mahmoudieh-house.md) — topic hub
 - [mustawfi-mahmoudieh-stump.md](mustawfi-mahmoudieh-stump.md) — Mustawfi memoir source (legacy email)
-- [corpus/beytoote-stump-dentist-atabak-ahmadshah/](corpus/beytoote-stump-dentist-atabak-ahmadshah/) — Beytoote article on Stump
+- [full record](corpus/beytoote-stump-dentist-atabak-ahmadshah/) — Beytoote article on Stump

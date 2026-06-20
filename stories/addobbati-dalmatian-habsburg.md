@@ -94,19 +94,19 @@ Two hundred years after three cavalry officers crossed the Adriatic, the Addobba
 
 The Državni arhiv u Zadru (DAZD) holds remarkable documentation for this family:
 
-- **Addobbati family fonds (HR-DAZD-342)** — 1732–1930; includes the 1745 Bergamo testimonial, the 1786 Golden Spur diploma, genealogical notes, deeds, testaments, and the correspondence behind the 1817 Nin petition. Inventory: [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/)
-- **Notaries of Zara (HR-DAZD-31)** — Angelo Daniele Addobbati's notarial acts 1806–1831. Inventory: [corpus/dazd-notaries-zadar/](../sources/corpus/dazd-notaries-zadar/)
+- **Addobbati family fonds (HR-DAZD-342)** — 1732–1930; includes the 1745 Bergamo testimonial, the 1786 Golden Spur diploma, genealogical notes, deeds, testaments, and the correspondence behind the 1817 Nin petition. Inventory: [fonds inventory](../sources/corpus/dazd-addobbati-family-fonds/)
+- **Notaries of Zara (HR-DAZD-31)** — Angelo Daniele Addobbati's notarial acts 1806–1831. Inventory: [notaries inventory](../sources/corpus/dazd-notaries-zadar/)
 - **Petricioli (HR-DAZD-497) and Filippi (HR-DAZD-355) fonds** — property registers and legal instruments bearing Addobbati involvement. Analytical inventories: [dazd-hr-dazd-497-petricioli-family](../sources/corpus/dazd-hr-dazd-497-petricioli-family/) · [dazd-hr-dazd-355-filippi-family](../sources/corpus/dazd-hr-dazd-355-filippi-family/)
 - **Parish registers** — St. Anastasia (Sveta Stošija) and other Zara churches, baptisms/marriages/deaths from 1730s; Diocesan Archive and DAZD; 2,400+ volumes digitised. FamilySearch microfilms from the 1980s.
 - **Nin Libri Consiliorum** — minutes including the 1804 Addobbati admission
 
 ---
 
-## Key sources (corpus)
+## Key sources
 
 | Source | Corpus slug | Notes |
 |--------|-------------|-------|
-| Sabalich — *Guida archeologica di Zara* (1897), pp. 503–509 | [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/) | Full Addobbati family entry; 1745 Bergamo genealogy; civic offices; Dr. Pietro career; marriage alliances; 7 page-scans + transcription/translation. **Caveat (Fulvia, Jan 2000):** the dates in Sabalich refer to nominations, honours, and achievements — not birth dates. "The only [testimonial] I know of, is not always clear and in my chart partially not always right." — [NonnaNotes110100](../media/docs/fulvia-family-tree-file/NonnaNotes110100/page-1.jpg). |
+| Sabalich — *Guida archeologica di Zara* (1897), pp. 503–509 | [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara/) | Full Addobbati family entry; 1745 Bergamo genealogy; civic offices; Dr. Pietro career; marriage alliances; 7 page-scans + transcription/translation. **Caveat (Fulvia, Jan 2000):** the dates in Sabalich refer to nominations, honours, and achievements — not birth dates. "The only [testimonial] I know of, is not always clear and in my chart partially not always right." — [NonnaNotes110100](../media/docs/fulvia-family-tree-file/NonnaNotes110100/page-1.jpg). |
 | Granić — Popis plemića grada Nina iz 1817. (Zbornik HAZU, 32, 2014) | [granic-nin-noble-list-1817](../sources/corpus/granic-nin-noble-list-1817/) | Primary article on the 1817 Nin noble list; Addobbati section; full text |
 | Celić — Zadarsko plemstvo i građanstvo početkom francuske uprave (Radovi HAZU, 2014) | [celic-zadarsko-plemstvo-francuska-uprava](../sources/corpus/celic-zadarsko-plemstvo-francuska-uprava/) | 1806 census analysis; Addobbati in Zara citizen council; French period |
 | Società Dalmata di Storia Patria — Per l'Italia (2017) | [societa-dalmata-storia-patria-2017](../sources/corpus/societa-dalmata-storia-patria-2017/) | 1909 protest list: Pietro Pio *Ufficiale postale superiore*; Marino, Vincenzo |

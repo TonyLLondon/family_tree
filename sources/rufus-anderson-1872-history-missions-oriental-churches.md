@@ -1,32 +1,32 @@
 ---
-title: "History of the missions … to the oriental churches (vol. I, 1872)"
+title: "History of the Missions of the American Board… (Anderson, 1872)"
 author: "Anderson, Rufus"
 year: 1872
 kind: book
-corpus: history-of-the-mission-by-rufus-anderson-5264293694
+corpus: rufus-anderson-1872-history-missions-oriental-churches
 media_reference: "media/publications/persia-iran/History of the Mission by Rufus Anderson.pdf"
+also_known_as: "American Foreign Missions to the Oriental Churches (modern reprint title, e.g. 2021 ed.)"
 ---
 
-# Rufus Anderson — *History of the missions … to the oriental churches* (1872)
+# Rufus Anderson — American Board missions to the Eastern churches
 
-Institutional history of the **American Board** missions in the Eastern churches. **Volume I** includes the **Nestorian (Lake Urmia / Oroomiah)** narrative: schools, revivals, patriarchal politics, and **Qajar** responses.
+Rufus Anderson, foreign secretary of the **American Board of Commissioners for Foreign Missions** (ABCRM), compiled this institutional history from mission archives and the *Missionary Herald*. **Volume I** carries the long **Nestorian (Oroomiah / Lake Urmia)** narrative used throughout this vault for **Daoud Khan Saginian** and mission politics under **Mohammad Shah**.
 
-## Corpus bundle
+The same work is sometimes sold under the title ***American Foreign Missions to the Oriental Churches*** (multi-volume reprints; publication dates vary).
 
-- **Reference (transcriptions + links):** [corpus/history-of-the-mission-by-rufus-anderson-5264293694/reference.md](corpus/history-of-the-mission-by-rufus-anderson-5264293694/reference.md)
-- **Machine extract:** [corpus/…/extracted.pdf.md](corpus/history-of-the-mission-by-rufus-anderson-5264293694/extracted.pdf.md)
-- **Canonical PDF:** `media/publications/persia-iran/History of the Mission by Rufus Anderson.pdf`
+## Source record
+- [**reference.md** — curated verbatim transcriptions + Gutenberg pointers](corpus/rufus-anderson-1872-history-missions-oriental-churches/reference.md)
+- [Machine PDF extract](corpus/rufus-anderson-1872-history-missions-oriental-churches/extracted.pdf.md)
 
-## Passages used in this project
-
-### May 1845 — Dawood Khan / Daoud Khan Saginian
-
-Anderson records the shah’s appointment of **Dawood Khan of Tabriz**, described as **an Armenian from Georgia** and an **army officer**, as **Governor of the Nestorians**, at the request of the **English and Russian Ambassadors**, in order to **protect Christians** from **Muslim nobles’** oppressions. Full verbatim block: [corpus reference — 1845 passage](corpus/history-of-the-mission-by-rufus-anderson-5264293694/reference.md#transcription-dawood-khan-governor-of-the-nestorians-1845).
-
-### Later 1840s — civil protector vs patriarch / Jesuits / nobles
-
-Anderson calls him the **Christian Governor and civil protector of the Nestorians of that province** and states that the **patriarch**, **Jesuits**, and **Muslim nobles** wished to **expel him** because he blocked **their exactions**. [Corpus reference — civil protector passage](corpus/history-of-the-mission-by-rufus-anderson-5264293694/reference.md#transcription-christian-governor-and-civil-protector-later-1840s).
+**Duplicate ingest** (alternate PDF filename under `media/docs/`): [history-of-the-missions-of-the-american-board-of-651655d656/extracted.pdf.md](corpus/history-of-the-missions-of-the-american-board-of-651655d656/extracted.pdf.md) — pagination aligns with Chapter XIX blocks cited in `reference.md`.
 
 ## External full text
 
-- [Project Gutenberg eBook #18930](https://www.gutenberg.org/ebooks/18930) — same work; linked from corpus `reference.md` for searchability.
+- [Project Gutenberg eBook #18930](https://www.gutenberg.org/ebooks/18930)
+
+## Vault usage
+
+- **May 1845** — Shah appoints **Dawood Khan of Tabriz** Governor of the Nestorians at instance of **English and Russian Ambassadors**
+- **Later 1840s–1848** — Dawood Khan as **civil protector** vs **patriarch / Jesuits / Muslim nobles**; **Mr. Stevens**; Nestorian representation to Tehran; **Mohammad Shah's** death and governor **Yahyah Khan**
+
+See [Daoud Khan Saginian](../people/daoud-khan-saginian.md) · [Daoud Khan story](../stories/daoud-khan-nestorian-protector.md) · [topics/persia.md](../topics/persia.md).

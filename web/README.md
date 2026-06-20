@@ -1,6 +1,6 @@
 # The Lewis Line — site
 
-Next.js App Router app that statically renders the vault: Markdown (with repo-relative links rewritten), structured tree vitals (`family-tree.json` at repo root), ancestor fan chart, and file serving for `media/` and corpus bundles copied at build time (not the local `archive/` inbox).
+Next.js App Router app that statically renders the vault: Markdown (with repo-relative links rewritten), structured tree vitals (`family-tree.json` at repo root), ancestor fan chart, and file serving for `media/` and ingested source records under `sources/corpus/` copied at build time (not the local `archive/` inbox).
 
 ## Commands
 
@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-Production build:
+Production build (`npm run build` runs `scripts/check-markdown-links.mjs` first — validates every `sources/corpus/<slug>/reference.md` internal link and rejects path-like `.md` link labels):
 
 ```bash
 npm run build
@@ -25,8 +25,8 @@ npm start
 | `/people`, `/people/[slug]` | `../people/*.md` |
 | `/stories/[slug]` | `../stories/*.md` |
 | `/topics` | `../topics/index.md` · `/topics/[slug]` other topic files |
-| `/sources`, `/sources/...` | `../sources/**/*.md` (excluding `corpus/`) |
-| `/corpus`, `/corpus/[slug]` | Corpus bundle file listings + links via `/files/...` |
+| `/sources`, `/sources/...` | `../sources/**/*.md` (excluding ingested tree) |
+| `/corpus`, `/corpus/[slug]` | Source record file listings + links via `/files/...` |
 | `/vault/research/...`, `/vault/manual/...` | `../research/**`, `../manual/**` |
 | `/chart` | Fan chart from structured tree data at `../family-tree.json` (root **I1**) |
 | `/files/...` | Prebuild copy: `media/`, `sources/corpus/`, structured tree file → static CDN on Vercel; local dev reads from repo via route |

@@ -11,4 +11,4 @@ Some **Chile, Catholic Church Records** films are **not** downloadable from a no
 
 **Why:** Image-backed transcription decides whether **I701**’s parents can return to `family-tree.json` and reconciles index strings (e.g. María Estrada vs Maria Mora). See [chile-mora-line-evidence-status-2026.md](../chile-mora-line-evidence-status-2026.md).
 
-**Civil film note:** **Q2SG-D46H** (Ránquil death) **did** download from home — image in `sources/corpus/fs-q2sg-d46h-isabel-mora-mabricio-marianjel-death-1888/images/Q2SG-D46H-death-1888.jpg`.
+**Civil film note:** **Q2SG-D46H** (Ránquil death) **did** download from home — image in `sources/corpus/mabricio-marianjel-isabel-mora-death-1888/images/Q2SG-D46H-death-1888.jpg`.

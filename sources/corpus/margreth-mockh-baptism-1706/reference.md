@@ -64,4 +64,4 @@ The mother **Margaretha Schoenholtzer** introduces another established Swiss fam
 **Related Evidence:**
 - Father Johannes Mockh burial (15 Mar 1736, Sulgen) - FamilySearch 6FZL-NL76
 - Marriage to Hans Ulrich Jung - FamilySearch FVNZ-2FY  
-- Daughter Anna Margaretha Jung baptism (5 Apr 1731) - [corpus](../anna-margaretha-jung-baptism-1731/reference.md)
+- Daughter Anna Margaretha Jung baptism (5 Apr 1731) — [Anna Margaretha’s baptism record](../anna-margaretha-jung-baptism-1731/reference.md)

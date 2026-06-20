@@ -35,4 +35,4 @@ Quoted in [transcription.en.md](./transcription.en.md):
 
 ## Stable public copy of translation
 
-Internet Archive (borrow): <https://archive.org/details/savushunnovelabo00dani> — same translation; pagination should match Mage printings but always confirm against your imprint.
+Internet Archive (borrow): <https://archive.org/details/savushunnovelabo00dani> — same translation; pagination should match Mage printings but always confirm against your imprint. **IA full-text OCR** (p.396): *“ordering a set of false teeth by Dr. Schtomp”* — matches [transcription.en.md](./transcription.en.md).

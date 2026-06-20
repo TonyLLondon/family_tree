@@ -11,7 +11,7 @@ kind: pdf
 
 **Remote inventory PDF:** [dazd.hr — HR-DAZD-497 Petricioli](https://www.dazd.hr/attachment/preview/5c657ccee89ff/dazd-497-obitelj-petricioli.pdf)
 
-**Corpus bundle:** [corpus/dazd-hr-dazd-497-petricioli-family/](corpus/dazd-hr-dazd-497-petricioli-family/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/dazd-hr-dazd-497-petricioli-family/extracted.pdf.md).
+**Source record:** [full record](corpus/dazd-hr-dazd-497-petricioli-family/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/dazd-hr-dazd-497-petricioli-family/extracted.pdf.md).
 
 ## Summary
 

@@ -40,12 +40,12 @@ The family lived on **Clive Street** (called "Clive Place" in 1861), in the **Cw
 
 ## Evidence
 
-- [Non-Conformist baptism — Thomas Griffiths, Saron Independent, Llywell, 1830](../sources/corpus/1830-baptism-thomas-griffiths-saron-independent-llywell/transcription.md) — TNA RG4/1725. Born 16 Jun 1830, baptised 18 Jul 1830. Father David, mother Margaret. FMP `TNA/RG4/BAP/653693`.
-- [1841 census — Griffis household, Tresgob, Llywell](../sources/corpus/1841-census-griffiths-household-llywell-ho107-1367/transcription.md) — HO107/1367, folio 13, page 7, schedule 600. Thomas Griffis, age 11. FMP `GBC/1841/0013425743`.
-- [1861 census — Griffiths household, Aberdare](../sources/corpus/1861-census-griffiths-household-aberdare-rg09-4068/transcription.md) — RG09/4068, folio 71, page 24, schedule 114. FMP `GBC/1861/0020462788`.
-- [1871 census — Griffiths household, Aberdare](../sources/corpus/1871-census-griffiths-household-aberdare-rg10-5405/transcription.md) — RG10/5405, folio 12, page 17, schedule 76. FMP `GBC/1871/0000199804`.
-- [1881 census — Griffiths household, Aberdare](../sources/corpus/1881-census-griffiths-household-aberdare-rg11-5320/transcription.md) — RG11/5320, folio 50, page 6, schedule 409. FMP `GBC/1881/0024882892`.
-- [Burial — Margaret Griffiths, St Fagan's, Aberdare, 2 Dec 1863](../sources/corpus/1863-burial-margaret-griffiths-st-fagans-aberdare/transcription.md) — Glamorgan Archives P/139/CW/3/2, page 85. Age 8, residence Clive St. FMP `GBPRS/D/WAL123090`.
+- [Non-Conformist baptism — Thomas Griffiths, Saron Independent, Llywell, 1830](../sources/corpus/1830-baptism-thomas-griffiths-saron-llywell/transcription.md) — TNA RG4/1725. Born 16 Jun 1830, baptised 18 Jul 1830. Father David, mother Margaret. FMP `TNA/RG4/BAP/653693`.
+- [1841 census — Griffis household, Tresgob, Llywell](../sources/corpus/1841-census-griffiths-household-llywell/transcription.md) — HO107/1367, folio 13, page 7, schedule 600. Thomas Griffis, age 11. FMP `GBC/1841/0013425743`.
+- [1861 census — Griffiths household, Aberdare](../sources/corpus/1861-census-griffiths-household-aberdare/transcription.md) — RG09/4068, folio 71, page 24, schedule 114. FMP `GBC/1861/0020462788`.
+- [1871 census — Griffiths household, Aberdare](../sources/corpus/1871-census-griffiths-household-aberdare/transcription.md) — RG10/5405, folio 12, page 17, schedule 76. FMP `GBC/1871/0000199804`.
+- [1881 census — Griffiths household, Aberdare](../sources/corpus/1881-census-griffiths-household-aberdare/transcription.md) — RG11/5320, folio 50, page 6, schedule 409. FMP `GBC/1881/0024882892`.
+- [Burial — Margaret Griffiths, St Fagan's, Aberdare, 2 Dec 1863](../sources/corpus/1863-burial-margaret-griffiths-aberdare/transcription.md) — Glamorgan Archives P/139/CW/3/2, page 85. Age 8, residence Clive St. FMP `GBPRS/D/WAL123090`.
 - **Tree id:** **I422** — union **F188**; parents' union **F241**.
 
 ## Open questions

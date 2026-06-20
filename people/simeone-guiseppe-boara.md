@@ -23,7 +23,7 @@ children:
 ## Evidence
 
 - **Tree id:** **I113** — unions **F56**, **F62**; FamilySearch **GW1S-LXW**.
-- **Marriage register, Zara, 29 Oct 1763:** [corpus](../sources/corpus/1763-marriage-boara-robustella-zara/reference.md) — his marriage to Maria Teresa Robustella (F56).
+- **Marriage register, Zara, 29 Oct 1763:** [reference](../sources/corpus/1763-marriage-boara-robustella-zara/reference.md) — his marriage to Maria Teresa Robustella (F56).
 
 ## Open questions
 

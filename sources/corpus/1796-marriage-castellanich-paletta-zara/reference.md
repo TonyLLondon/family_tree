@@ -10,7 +10,7 @@ Marriage entry from the **1796** Zara parish marriage register, recording the un
 
 ## Working hypothesis
 
-The Zerauschek family scan collection holds the **1799 birth register entry of Anastasia Castellanich** (this corpus, `1799-birth-anastasia-castellanich-zara`) — Tony's 5×great-grandmother on the Addobbati line. Two facts make the 1796 Castellanich × Paletta marriage the **likely parents' marriage**:
+The Zerauschek family scan collection holds the **1799 birth register entry of Anastasia Castellanich** ([1799 birth — Anastasia Castellanich, Zara](../1799-birth-anastasia-castellanich-zara/)) — Tony's 5×great-grandmother on the Addobbati line. Two facts make the 1796 Castellanich × Paletta marriage the **likely parents' marriage**:
 
 1. The surname combination is rare in 1790s Zara, and the family had cause to scan precisely this entry.
 2. The interval between the 1796 marriage and the 1799 birth is short and consistent with a first child.

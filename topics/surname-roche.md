@@ -78,11 +78,11 @@ The allied surnames tell the same story of Hiberno-Norman gentry networks: **Sta
 - [The Bankers of George's Street](../stories/roche-limerick-bankers.md) — scrollytelling story: armed ships, the 1820 crisis, and pineapples in Limerick
 - [The Bank of Thomas and William Roche, Limerick (1801–1825)](bank-of-thomas-and-william-roche.md)
 - [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md)
-- [Lewis / White / Roche / Ireland corpus cluster](../sources/lewis-white-roche-ireland-corpus-cluster.md)
+- [Lewis / White / Roche / Ireland sources hub](../sources/lewis-white-roche-ireland-corpus-cluster.md)
 - Surname: [Lewis](surname-lewis.md) — the Welsh line connected through the White family
 
 ### See also
 
 - [Wikipedia — De la Roche family](https://en.wikipedia.org/wiki/De_la_Roche)
 - [Ireland Calling — Roche/Roach history](https://ireland-calling.com/irish-names-roche-roach/)
-- [Burke's History of Commoners, Vol. 1 (1833), pp. 669–671](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/)
+- [Burke's History of Commoners, Vol. 1 (1833), pp. 669–671](../sources/corpus/roche-of-limerick-forgotten-victorians/)

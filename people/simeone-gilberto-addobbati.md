@@ -38,12 +38,12 @@ His end matched the theatre of his life. On 20 June 1926 he died in Zara while g
 
 ## Evidence
 
-- **ÖStA typescripts & grave (PNG):** [addobbati-simeone-oesta-kriegsarchiv-excerpts.md](../sources/addobbati-simeone-oesta-kriegsarchiv-excerpts.md) → [corpus bundle](../sources/corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/extracted.pdf.md); images under [media/docs/addobbati-simeone-gilberto/](../media/docs/addobbati-simeone-gilberto/).
+- **ÖStA typescripts & grave (PNG):** [addobbati-simeone-oesta-kriegsarchiv-excerpts.md](../sources/addobbati-simeone-oesta-kriegsarchiv-excerpts.md) → [full record](../sources/corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/extracted.pdf.md); images under [media/docs/addobbati-simeone-gilberto/](../media/docs/addobbati-simeone-gilberto/).
 - **Published generals list:** [oesta-kuk-generale-1816-1918.md](../sources/oesta-kuk-generale-1816-1918.md).
-- **DAZD family fonds (HR-DAZD-342), Series 3.3:** sig. 41 — notes of Simeone Addobbati (37 leaves, undated); sig. 42 — obituary (21 Jun 1926); sig. 43 — funeral accounts (Jun 1926, 6 leaves); sig. 44 — letter from a nephew in Linz to widow Elisa (23 Dec 1930). Also sig. 59 — copy of nephew Pietro's medical degree (29 May 1915) — [corpus/dazd-addobbati-family-fonds/](../sources/corpus/dazd-addobbati-family-fonds/).
+- **DAZD family fonds (HR-DAZD-342), Series 3.3:** sig. 41 — notes of Simeone Addobbati (37 leaves, undated); sig. 42 — obituary (21 Jun 1926); sig. 43 — funeral accounts (Jun 1926, 6 leaves); sig. 44 — letter from a nephew in Linz to widow Elisa (23 Dec 1930). Also sig. 59 — copy of nephew Pietro's medical degree (29 May 1915) — [DAZD Addobbati family fonds](../sources/corpus/dazd-addobbati-family-fonds/).
 - **Hungaricana Schematismus (1887 / 1909 page exports):** [hungaricana-militar-almanach-1887-pp471-472](../sources/corpus/hungaricana-militar-almanach-1887-pp471-472/extracted.pdf.md) · [hungaricana-kriegsmarine-schematismus-1909-pp169-172](../sources/corpus/hungaricana-kriegsmarine-schematismus-1909-pp169-172/extracted.pdf.md); PDFs under [media/docs/hungaricana-schematismus/](../media/docs/hungaricana-schematismus/).
 - **Further URLs (HAZU, KA leaflets, etc.):** [simeone-addobbati-digital-references.md](../sources/simeone-addobbati-digital-references.md).
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/) — Teresianum, death at the ball, Lisette's death during 1943 exodus.
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) · [full record](../sources/corpus/famhist-nonna-memoir-1996/) — Teresianum, death at the ball, Lisette's death during 1943 exodus.
 - Context: [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).
 - **Tree id:** **I54**, families F12 / F27.
 - [Meazza Geneanet tree](../sources/corpus/geneanet-meazza-addobbati/reference.md).

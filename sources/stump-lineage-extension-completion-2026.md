@@ -1,6 +1,6 @@
 # STUMP Lineage Extension - Research Completion, 2026-04-11
 
-**Research Achievement:** Extension of the STUMP Swiss lineage back to early 1500s and completion of pending corpus documentation tasks.
+**Research Achievement:** Extension of the STUMP Swiss lineage back to early 1500s and completion of pending source record documentation tasks.
 
 ## Major Discoveries
 
@@ -42,23 +42,23 @@
 - **Hanns STUMP** (St. Gallen, 1530s-1550s) - Multiple children
 - **Tomas STUMP** (Thurgau, 1580s-1590s) - Son: Ulrich (buried 1629 Sulgen)
 
-## Completed Corpus Documentation
+## Completed source record documentation
 
 ### **1. Jacob Stumpp Christening 1594**
 - **Record:** FV8Z-WY9
 - **Parents:** Blaesi Stumpp + Madalena Bruewschwyler
 - **Significance:** Confirms Blaesi's second marriage and additional children
-- **Corpus:** [jacob-stumpp-christening-1594](sources/corpus/jacob-stumpp-christening-1594/reference.md)
+- **Source record:** [jacob-stumpp-christening-1594](sources/corpus/jacob-stumpp-christening-1594/reference.md)
 
 ### **2. Conradt Stumpp Burial 1560**
 - **Record:** 6F8J-XV39  
 - **Significance:** Earliest STUMP ancestor, potential father of Blaesi
-- **Corpus:** [conradt-stumpp-burial-1560](sources/corpus/conradt-stumpp-burial-1560/reference.md)
+- **Source record:** [conradt-stumpp-burial-1560](sources/corpus/conradt-stumpp-burial-1560/reference.md)
 
 ### **3. Cunrat Stump Family 1534**
 - **Record:** 66JT-TBFH (daughter Elsbeth baptism)
 - **Significance:** Confirms Cunrat/Conradt identity, pushes lineage to 1500s
-- **Corpus:** [cunrat-stump-family-1534](sources/corpus/cunrat-stump-family-1534/reference.md)
+- **Source record:** [cunrat-stump-family-1534](sources/corpus/cunrat-stump-family-1534/reference.md)
 
 ### **4. People Page Creation**
 - **[Conradt Stumpp](people/conradt-stumpp.md)** - Comprehensive documentation with Cunrat identity
@@ -125,7 +125,7 @@
 
 ### **Research Completion Status:**
 **COMPLETED:**
-- All pending corpus documentation tasks
+- All pending source record documentation tasks
 - Major lineage extension to 1500s
 - Contemporary family network identification
 - People page creation and updates
@@ -141,7 +141,7 @@ This research establishes the STUMP family as having **extraordinary depth** in 
 
 ## Documentation Updates
 
-### **Corpus Entries:**
+### **Source records:**
 - [sources/corpus/jacob-stumpp-christening-1594/](sources/corpus/jacob-stumpp-christening-1594/)
 - [sources/corpus/conradt-stumpp-burial-1560/](sources/corpus/conradt-stumpp-burial-1560/)  
 - [sources/corpus/cunrat-stump-family-1534/](sources/corpus/cunrat-stump-family-1534/)

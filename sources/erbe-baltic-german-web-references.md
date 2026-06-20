@@ -2,11 +2,11 @@
 
 Secondary and tertiary **web** sources that corroborate or contextualize **[Hermann Eberhard Erbe](../people/hermann-eberhard-erbe.md)**, **[Emilie Ida Eylandt](../people/emilie-ida-eylandt.md)**, and their children including **[Olga Caroline Erbe](../people/olga-caroline-erbe.md)**. **Primary** vitals for Olga’s marriage to Stump and the Tallinn household remain the **[Estonian Biographical Center report (2005)](estonian-biographical-center-stump-report-2005.md)** and parish books.
 
-## Local corpus (offline mirrors)
+## Local source records (offline mirrors)
 
-Re-fetch or append provenance: `.venv/bin/python scripts/ingest_source.py web|pdf …` (see [corpus/README.md](corpus/README.md)). Wikipedia mirrors use the **MediaWiki REST HTML** endpoint where noted in `source.yaml` (`fetch_url`); **reader URLs** stay under `webpage_url`.
+Re-fetch or append provenance: `.venv/bin/python scripts/ingest_source.py web|pdf …` (see [README.md](corpus/README.md)). Wikipedia mirrors use the **MediaWiki REST HTML** endpoint where noted in `source.yaml` (`fetch_url`); **reader URLs** stay under `webpage_url`.
 
-| Bundle | Contents |
+| Source record | Contents |
 |--------|-----------|
 | [bbld-erbe-hermann-eberhard-gnd1203190484](corpus/bbld-erbe-hermann-eberhard-gnd1203190484/extracted.web.md) | BBLD Hermann |
 | [bbld-erbe-eugen-edmund-eduard-gnd1173663347](corpus/bbld-erbe-eugen-edmund-eduard-gnd1173663347/extracted.web.md) | BBLD Eugen |
@@ -18,7 +18,7 @@ Re-fetch or append provenance: `.venv/bin/python scripts/ingest_source.py web|pd
 | [eadb-erbe-hermann-memorial-65373](corpus/eadb-erbe-hermann-memorial-65373/extracted.web.md) | EADB |
 | [austria-wiki-eugen-edmund-erbe](corpus/austria-wiki-eugen-edmund-erbe/extracted.web.md) | AustriaWiki |
 | [thomas-erbe-deutsches-geschlechterbuch-erbe-index](corpus/thomas-erbe-deutsches-geschlechterbuch-erbe-index/extracted.web.md) | DGB Erbe index |
-| [digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static](corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/original.pdf) | **PDF** + **JPEG** + death notice [DE](corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/transcription-olga-stump-familien-nachricht-1894.de.md) / [EN](corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/translation-olga-stump-familien-nachricht-1894.en.md) — *Revalsche Zeitung* **15 Oct 1894**; [page 3](corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/pages-jpeg/page-03-of-04.jpg); [reference.md](corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/reference.md) |
+| [digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static](corpus/erbe-baltic-digar-newspaper-urls/original.pdf) | **PDF** + **JPEG** + death notice [DE](corpus/erbe-baltic-digar-newspaper-urls/transcription-olga-stump-familien-nachricht-1894.de.md) / [EN](corpus/erbe-baltic-digar-newspaper-urls/translation-olga-stump-familien-nachricht-1894.en.md) — *Revalsche Zeitung* **15 Oct 1894**; [page 3](corpus/erbe-baltic-digar-newspaper-urls/pages-jpeg/page-03-of-04.jpg); [reference.md](corpus/erbe-baltic-digar-newspaper-urls/reference.md) |
 | [digar-revalsche-zeitung-1908-01-23-nr19-static](corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/original.pdf) | **PDF** + **JPEG** + **full obituary** [DE](corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/transcription-eugen-erbe-nekrolog-1908-01-23.de.md) / [EN](corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/translation-eugen-erbe-nekrolog-1908-01-23.en.md) — *Revalsche Zeitung* **nr. 19**, **23 Jan 1908**; [page 2](corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/pages-jpeg/page-02-of-04.jpg); [reference.md](corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/reference.md) |
 | [digar-revalsche-zeitung-1908-01-23-nr19-reader](corpus/digar-revalsche-zeitung-1908-01-23-nr19-reader/extracted.web.md) | DIGAR reader HTML shell |
 | [raee-fotis-eugen-erbe-portrait-record](corpus/raee-fotis-eugen-erbe-portrait-record/extracted.web.md) | RA.EE Fotis viewer page |

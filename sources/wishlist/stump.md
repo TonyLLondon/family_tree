@@ -17,8 +17,8 @@ Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkt
 | Location | Contents | Notes |
 |----------|----------|--------|
 | [../corpus/beytoote-stump-dentist-atabak-ahmadshah/](../corpus/beytoote-stump-dentist-atabak-ahmadshah/) | `mirror.html` (~119 KB) + `extracted.web.md` + `source.yaml` | Full web capture |
-| [../corpus/iranica-dentistry-article/](../corpus/iranica-dentistry-article/) | `extracted.web.md` + `source.yaml` | Full article extract; no raw HTML (Cloudflare) |
-| [../estonian-biographical-center-stump-report-2005.md](../estonian-biographical-center-stump-report-2005.md) | Citation card → [corpus/estonian-biographical-center-stump-family-resear-856c90185e/](../corpus/estonian-biographical-center-stump-family-resear-856c90185e/) | Tallinn Stump/Erbe parish digest (2005) |
+| [../corpus/iranica-dentistry/](../corpus/iranica-dentistry/) | `extracted.web.md` + `source.yaml` | Full article extract; no raw HTML (Cloudflare) |
+| [../estonian-biographical-center-stump-report-2005.md](../estonian-biographical-center-stump-report-2005.md) | Citation card → [corpus/estonian-biographical-center-stump-report-2005/](../corpus/estonian-biographical-center-stump-report-2005/) | Tallinn Stump/Erbe parish digest (2005) |
 | [../../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md](../../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md) | Annotated EN translation + reference catalog | in bundle |
 | [../corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/](../corpus/savushun-daneshvar-schtomp-false-teeth-ghanoonparvar-pp366-367/) | `reference.md`, `transcription.en.md`, Tesseract OCR, PNG scan | Ghanoonparvar *Savushun* trans. pp. **366–367** — “ordering a set of false **teeth** by **Dr. Schtomp**” |
 | [../mustawfi-mahmoudieh-stump.md](../mustawfi-mahmoudieh-stump.md) | Legacy email summary of Mustawfi vol. 1 (Mahmoudieh / dentist) | Not full memoir text |
@@ -33,6 +33,7 @@ Person: [Étienne Stump](../../people/etienne-stump.md). Annotated English walkt
 | `iranica-dentistry-article` | Enc. Iranica DENTISTRY — Stump, Melczarski, bibliography | `extracted.web.md`, `source.yaml` |
 | `estonian-biographical-center-stump-family-resear-856c90185e` | EBC commissioned report — Tallinn Stump family (2005) | `extracted.pdf.md`, `source.yaml` |
 | `dental-register-stump-mandamus-1902` | Chicago Tribune mandamus ruling (1902) | `transcription.en.md`, `extracted.pdf.md`, `source.yaml` |
+| `1902-dental-digest-etienne-stump-mandamus` | *Dental Digest* Aug 1902 — full mandamus coverage (IA) | `transcription.md`, `source.yaml`; PNGs in `media/docs/internet-archive/etienne-stump/` |
 
 ---
 

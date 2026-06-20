@@ -45,6 +45,6 @@ Pedro González burial record (6TN1-TGYG, 1842):
 
 ## Sources
 
-- [Chilean GONZÁLEZ Line Extension 2026](../sources/corpus/chile-gonzalez-line-extension-2026/) - genealogical reconstruction from colonial records
+- [Chilean GONZÁLEZ Line Extension 2026](../sources/corpus/chile-gonzalez-lineage-extension-2026/) - genealogical reconstruction from colonial records
 - [Chilean Colonial Ancestors Discovery 2026](../sources/chile-colonial-ancestors-discovery-2026.md)
-- [chile-gonzalez-line-extension-2026 corpus](../sources/corpus/chile-gonzalez-line-extension-2026/)
+- [chile-gonzalez-line-extension-2026 corpus](../sources/corpus/chile-gonzalez-lineage-extension-2026/)

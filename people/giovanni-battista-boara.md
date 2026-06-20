@@ -33,7 +33,7 @@ Giovanni Battista Boara was the husband of [Giovanna Grabar](giovanna-grabar.md)
 ## Evidence
 
 - **Tree id:** **I111** — unions **F55**, **F56**; **@S12@**; FamilySearch **L22T-R6M**.
-- **Parents' marriage register, Zara, 29 Oct 1763:** [corpus](../sources/corpus/1763-marriage-boara-robustella-zara/reference.md) — marriage of Simeone Guiseppe Boara × Maria Teresa Robustella (F56).
+- **Parents' marriage register, Zara, 29 Oct 1763:** [reference](../sources/corpus/1763-marriage-boara-robustella-zara/reference.md) — marriage of Simeone Guiseppe Boara × Maria Teresa Robustella (F56).
 
 ## Open questions
 

@@ -124,11 +124,11 @@ The full **AIR 79** service file (TNA piece **1122**, Fold3 job 17-039) is in ha
 
 ### 1891 Census — Martin family, Orpington (RG 12/634)
 
-Rosina's birth family: **Peter Martin** (48, chimney sweep, born Woolwich) and **Clara Martin** (40) at 1 Alfrons Cottages, Orpington, with seven sons and infant daughter Rosina. Three Martins are already sweeps: Peter Sr, Peter Jr (20), and Arthur (13). Edward Martin (3) is the brother-in-law later found in the 1921 Coolbear household. [Source card](../sources/1891-census-martin-orpington.md) · [transcription](../sources/corpus/1891-census-martin-household-orpington/transcription.md) · [census image](../media/docs/1891-census-martin-household-orpington-rg12-634.jpg).
+Rosina's birth family: **Peter Martin** (48, chimney sweep, born Woolwich) and **Clara Martin** (40) at 1 Alfrons Cottages, Orpington, with seven sons and infant daughter Rosina. Three Martins are already sweeps: Peter Sr, Peter Jr (20), and Arthur (13). Edward Martin (3) is the brother-in-law later found in the 1921 Coolbear household. [Source card](../sources/1891-census-martin-orpington.md) · [transcription](../sources/corpus/1891-census-martin-orpington/transcription.md) · [census image](../media/docs/1891-census-martin-household-orpington-rg12-634.jpg).
 
 ### 1921 Census (RG 15/9065)
 
-The family at Southend-on-Sea, Essex. Archibald (29, head) is a self-employed **chimney sweep, carpet beater, chair caner**. Wife Rosina (30, born Orpington, Kent). Four children: Archibald Jr (9, b. Rochford), May (5, b. Southend), Henry Charles (3, b. Southend), Irene (infant, b. Southend). Rosina's brother Edward Martin (31, stoker) also in the household. [Source card](../sources/1921-census-coolbear-southend.md) · [transcription](../sources/corpus/1921-census-coolbear-household-southend/transcription.md) · [census image](../media/docs/1921-census-coolbear-household-southend-rg15-9065.jpg).
+The family at Southend-on-Sea, Essex. Archibald (29, head) is a self-employed **chimney sweep, carpet beater, chair caner**. Wife Rosina (30, born Orpington, Kent). Four children: Archibald Jr (9, b. Rochford), May (5, b. Southend), Henry Charles (3, b. Southend), Irene (infant, b. Southend). Rosina's brother Edward Martin (31, stoker) also in the household. [Source card](../sources/1921-census-coolbear-southend.md) · [transcription](../sources/corpus/1921-census-coolbear-southend/transcription.md) · [census image](../media/docs/1921-census-coolbear-household-southend-rg15-9065.jpg).
 
 ### Duplicate source copies
 

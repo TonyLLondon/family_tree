@@ -22,8 +22,8 @@ children:
 ## Evidence
 
 - **Tree id:** **I57** — union **F26**.
-- **Birth register of daughter Gerarda, Entry 107, 12 Jul 1825:** "Annastasia Castalanich nata e d. abitaanta in Zara Calle S. Michele al Nº 590… Cucitrice" — [corpus](../sources/corpus/1825-birth-geralda-rovaro-brizzi-zara/reference.md).
-- **Marriage register of daughter Gerarda, 26 Oct 1845:** "Castellanovich Anastasia… Zara, Cucite [Cucitrice]" — [corpus](../sources/corpus/1845-marriage-addobbati-rovaro-brizzi-zara/reference.md).
-- **Birth register, Zara, 1799:** [corpus](../sources/corpus/1799-birth-anastasia-castellanich-zara/reference.md) — field-level transcription pending; would provide birth date and parents.
-- **Marriage register, Zara, 1796:** [corpus](../sources/corpus/1796-marriage-castellanich-paletta-zara/reference.md) — likely her parents' marriage (Castellanich × Paletta).
-- **Marriage register, Zara, 1776:** [corpus](../sources/corpus/1776-marriage-paletta-pettessich-zara/reference.md) — possibly her maternal grandparents (Paletta × Pettessich).
+- **Birth register of daughter Gerarda, Entry 107, 12 Jul 1825:** "Annastasia Castalanich nata e d. abitaanta in Zara Calle S. Michele al Nº 590… Cucitrice" — [reference](../sources/corpus/1825-birth-geralda-rovaro-brizzi-zara/reference.md).
+- **Marriage register of daughter Gerarda, 26 Oct 1845:** "Castellanovich Anastasia… Zara, Cucite [Cucitrice]" — [reference](../sources/corpus/1845-marriage-addobbati-rovaro-brizzi-zara/reference.md).
+- **Birth register, Zara, 1799:** [reference](../sources/corpus/1799-birth-anastasia-castellanich-zara/reference.md) — field-level transcription pending; would provide birth date and parents.
+- **Marriage register, Zara, 1796:** [reference](../sources/corpus/1796-marriage-castellanich-paletta-zara/reference.md) — likely her parents' marriage (Castellanich × Paletta).
+- **Marriage register, Zara, 1776:** [reference](../sources/corpus/1776-marriage-paletta-pettessich-zara/reference.md) — possibly her maternal grandparents (Paletta × Pettessich).

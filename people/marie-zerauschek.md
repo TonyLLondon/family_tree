@@ -17,7 +17,7 @@ Marie is the sister who never got to be old: in Fulvia’s telling she leapt fro
 
 ## Evidence
 
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
 
 ## Open questions
 

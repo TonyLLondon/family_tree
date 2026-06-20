@@ -15,7 +15,7 @@ Two newspaper clippings mounted on lined card, both transcribing the same notice
 - [media/docs/Gerald Sebastian White obituary 1953 newspaper clipping on lined card.png](../media/docs/Gerald%20Sebastian%20White%20obituary%201953%20newspaper%20clipping%20on%20lined%20card.png)
 - [media/docs/Gerald Sebastian White obituary notice March 1953 Times clipping on card.jpg](../media/docs/Gerald%20Sebastian%20White%20obituary%20notice%20March%201953%20Times%20clipping%20on%20card.jpg)
 
-**Corpus:** no dedicated bundle for these clippings yet; related UK / Ireland PDFs are indexed under `corpus/<slug>/` in [corpus-bibliography.md](corpus-bibliography.md).
+**Source record:** no dedicated source record for these clippings yet; related UK / Ireland PDFs are indexed under `corpus/<slug>/` in [corpus-bibliography.md](corpus-bibliography.md).
 
 ## Facts established
 

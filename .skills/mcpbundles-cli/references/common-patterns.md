@@ -1,21 +1,21 @@
 # MCPBundles Common Workflow Templates
 
-Reusable patterns. Replace `<slug>` with the bundle slug and `<function_name>`
+Reusable patterns. Replace `<slug>` with the MCP server slug and `<function_name>`
 with the actual tool function name discovered via `list_tools`.
 
-## Discover Bundles and Tool Counts
+## Discover MCP Servers and Tool Counts
 
 ```bash
 cat > /tmp/mcb_discover.py << 'PYEOF'
-bundles = await get_bundles()
-for b in bundles.get("bundles", []):
+resp = await discover_mcp_servers(search="")
+for b in resp.get("catalog", []):
     print(f"{b['slug']:30s} {b.get('tool_count', '?')} tools")
 PYEOF
 
 mcpbundles exec -f /tmp/mcb_discover.py
 ```
 
-## List Tools in a Bundle
+## List Tools in an MCP Server
 
 ```bash
 cat > /tmp/mcb_list.py << 'PYEOF'
@@ -46,7 +46,7 @@ cat > /tmp/mcb_call.py << 'PYEOF'
 import json
 
 result = await <function_name>(
-    bundle="<slug>",
+    server="<slug>",
     param1="value",
     param2={"nested": "object", "with": ["complex", "structure"]}
 )
@@ -63,14 +63,14 @@ cat > /tmp/mcb_chain.py << 'PYEOF'
 import json
 
 # Step 1: Get data from one tool
-result1 = await <function_name_1>(bundle="<slug>", param="value")
+result1 = await <function_name_1>(server="<slug>", param="value")
 items = result1.get("data", [])
 print(f"Step 1: got {len(items)} items")
 
 # Step 2: Use results in another call
 for item in items[:3]:
     result2 = await <function_name_2>(
-        bundle="<slug>",
+        server="<slug>",
         id=item["id"]
     )
     print(f"  {item['id']}: {result2.get('status')}")
@@ -83,8 +83,7 @@ mcpbundles exec -f /tmp/mcb_chain.py
 
 ```bash
 mcpbundles call health_check
-mcpbundles call get_bundles
-mcpbundles call search_tools -- query="email"
-mcpbundles call <tool-name> --bundle <slug>
-mcpbundles call <tool-name> --bundle <slug> -- limit:=5
+mcpbundles call discover_mcp_servers -- search=""
+mcpbundles call <tool-name> --server <slug>
+mcpbundles call <tool-name> --server <slug> -- limit:=5
 ```

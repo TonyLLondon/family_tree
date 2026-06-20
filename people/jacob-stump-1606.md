@@ -53,7 +53,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Jacob Stump, 23 Oct 1606, Sulgen, parents Hanssen Stump & Annae Rued · [corpus](../sources/corpus/jacob-stump-baptism-1606/reference.md) · FamilySearch FV8P-D8Z
+- **Baptism record:** Jacob Stump, 23 Oct 1606, Sulgen, parents Hanssen Stump & Annae Rued · [reference](../sources/corpus/jacob-stump-baptism-1606/reference.md) · FamilySearch FV8P-D8Z
 - **Son's baptism record:** Augustin Stump, 22 Dec 1628, Sulgen, parents Jacob Stump & Barbel Cuntz · FamilySearch FV8P-MBF
 - **Death record:** Jacob Stump, 20 Sep 1654, Sulgen (probable) · FamilySearch 68VT-BJQB
 

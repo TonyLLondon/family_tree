@@ -30,7 +30,7 @@ Eliza Knight was the wife of [William Roche](william-roche.md) and mother of [Ca
 ## Evidence
 
 - **Tree id:** **I360** — unions **F68**, **F180**.
-- [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/).
+- [O'Brien Roche offline captures](../sources/corpus/obrien-roche-url-offline-captures/).
 ## Open questions
 
 - **Full civil dates** for birth and death from Irish GRO.

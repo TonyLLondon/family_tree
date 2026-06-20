@@ -1,0 +1,16 @@
+id: gazzetta-ufficiale-1932-12-14-peristeridis-manifattura-zaratina
+title: "Gazzetta Ufficiale (1932-12-14) — Peristeridis, Manifattura Zaratina, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/19321214_287_SO_287/19321214_287_SO_287.pdf
+  webpage_url: https://archive.org/details/19321214_287_SO_287
+fetches:
+- kind: pdf
+  at: '2026-06-19T09:00:00Z'
+  remote_url: https://archive.org/download/19321214_287_SO_287/19321214_287_SO_287.pdf
+  sha256: 03f5c69740dbc8e58f0b0825ec8f9fb0d27745b865476a142b5faaff39dcf2c0
+  bytes: 6243691
+  media_reference: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1932-12-14-peristeridis.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1932-12-14-peristeridis.pdf
+  page_image: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1932-12-14-peristeridis-page.png
+  transcription_it: transcription-peristeridis-mzs-1932.it.md

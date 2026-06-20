@@ -2,7 +2,7 @@
 
 A family history scrapbook compiled by [Fulvia Zerauschek Lewis](../people/fulvia-ottilia-antonia-zerauschek.md), ~1990s. The visual companion to her [1996 memoir](../sources/corpus/famhist-nonna-memoir-1996/extracted.pdf.md) — where the memoir was text addressed to Peter, this album is images and handwritten Italian addressed to everyone who came after.
 
-**Corpus:** [certi-ricordi-zerauschek-addobbati](../sources/corpus/certi-ricordi-zerauschek-addobbati/reference.md)
+**Source record:** [certi-ricordi-zerauschek-addobbati](../sources/corpus/certi-ricordi-zerauschek-addobbati/reference.md)
 
 ---
 
@@ -66,7 +66,7 @@ In this building in Piazza dei Signori the oldest documents of the city were pre
 
 Printed page from Giuseppe Sabalich, *Guida archeologica di Zara* (1897), p. 503. The complete Addobbati lineage from D. Petrus de Adobatis, Citizen of Bergamo (1495) through all generations to Zara.
 
-*Already fully transcribed and translated — see corpus: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/transcription-translation.en.md).*
+*Already fully transcribed and translated — see [Sabalich translation](../sources/corpus/sabalich-guida-zara/transcription-translation.en.md).*
 
 ---
 
@@ -74,7 +74,7 @@ Printed page from Giuseppe Sabalich, *Guida archeologica di Zara* (1897), p. 503
 
 Printed page 504: Lorenzo (1742) Conservator of the orders; Daniele (1762) Procurator; Giuseppe and Luigi Prior of the Casa di Pietà; Luigi Justiciary; Francesco Grimani investing Lorenzo with lands at Nadin.
 
-*See corpus: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/transcription-translation.en.md).*
+*See translation: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara/transcription-translation.en.md).*
 
 ---
 
@@ -82,7 +82,7 @@ Printed page 504: Lorenzo (1742) Conservator of the orders; Daniele (1762) Procu
 
 Printed page 505: the family gaining Noble status at Nin (Nona), the rapid succession of rulers — Venetian, Austrian, French, Austrian — and the Addobbati maintaining the trust of each government.
 
-*See corpus: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/transcription-translation.en.md).*
+*See translation: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara/transcription-translation.en.md).*
 
 ---
 
@@ -90,7 +90,7 @@ Printed page 505: the family gaining Noble status at Nin (Nona), the rapid succe
 
 Printed page 506: Dr Pietro Addobbati (b. 1769), who received the Order of the Golden Spur and the title of Lateran Count while studying at Padua (1786). Criminal Lawyer, Lawyer for poor prisoners, Head and Procurator during the 1797 upheaval.
 
-*See corpus: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/transcription-translation.en.md).*
+*See translation: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara/transcription-translation.en.md).*
 
 ---
 
@@ -98,7 +98,7 @@ Printed page 506: Dr Pietro Addobbati (b. 1769), who received the Order of the G
 
 Printed page 507: Under the Kingdom of Italy, Dandolo appoints Dr Pietro Legal Protector of prisoners. Napoleon creates him Substitute Judge (1812). Member of the Municipal Council, Agrarian Academy, Health Deputation. "Signor Pietro Addobbati, upright and celebrated lawyer." Dr Pietro died 4 November 1832.
 
-*See corpus: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/transcription-translation.en.md).*
+*See translation: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara/transcription-translation.en.md).*
 
 ---
 
@@ -106,7 +106,7 @@ Printed page 507: Under the Kingdom of Italy, Dandolo appoints Dr Pietro Legal P
 
 Printed page 508: Vincenzo Addobbati q.m Luigi (b. 1776). Pietro Paolo Addobbati q.m Vincenzo (1815–†1886), Auditor and Lieutenant of the National Guard. Marriage alliances with Lanfranchi, Plavinò, Sandri, Coltelli, Rovaro-Brizzi. Abbot Francesco Addobbati and the Accademia dei Ravvivati.
 
-*See corpus: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/transcription-translation.en.md).*
+*See translation: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara/transcription-translation.en.md).*
 
 ---
 
@@ -114,7 +114,7 @@ Printed page 508: Vincenzo Addobbati q.m Luigi (b. 1776). Pietro Paolo Addobbati
 
 Printed page 509: the *ginnasio* library with its treasure of books, the Ragusan Golubovich collection, Venetian histories by Caroldo, and the Ragusan annalists.
 
-*See corpus: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara-addobbati/transcription-translation.en.md).*
+*See translation: [sabalich-guida-zara-addobbati](../sources/corpus/sabalich-guida-zara/transcription-translation.en.md).*
 
 ---
 

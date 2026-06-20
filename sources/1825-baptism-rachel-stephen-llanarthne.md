@@ -15,8 +15,7 @@ Rachel later married [Lewis Lewis](../people/lewis-lewis.md) of Aberavon in Q4 1
 - William Stephen — father
 - Mary Stephen — mother
 
-## Corpus
-
+## Source record
 - [Transcription](corpus/1825-baptism-rachel-stephen-llanarthne/transcription.md)
 - [Image](../media/docs/1825-baptism-rachel-stephen-llanarthne-carmarthenshire.png)
 

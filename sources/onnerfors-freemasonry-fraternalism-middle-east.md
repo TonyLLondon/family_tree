@@ -9,14 +9,14 @@ corpus: onnerfors-freemasonry-fraternalism-middle-east
 
 # Onnerfors — Freemasonry and Fraternalism in the Middle East
 
-Andreas Onnerfors's monograph on Freemasonry across the Middle East, covering Tehran, Istanbul, Egypt, and the Levant. Freely available from Levantine Heritage Foundation. Canonical PDF in [`corpus/levantine-freemasonry/original.pdf`](corpus/levantine-freemasonry/).
+Andreas Onnerfors's monograph on Freemasonry across the Middle East, covering Tehran, Istanbul, Egypt, and the Levant. Freely available from Levantine Heritage Foundation. Canonical PDF in [`corpus/cemoti-intro19-footnote-url/original.pdf`](corpus/cemoti-intro19-footnote-url/).
 
-## Corpus bundles
+## Source records
 
-| Bundle | Source | Use |
+| Source record | Source | Use |
 |--------|--------|-----|
 | [`onnerfors-freemasonry-fraternalism-middle-east`](corpus/onnerfors-freemasonry-fraternalism-middle-east/) | Local media file | **Canonical** — extract used for citations below |
-| [`levantine-freemasonry`](corpus/levantine-freemasonry/) | Remote fetch from levantineheritage.com | Same content; `original.pdf` kept for provenance |
+| [`levantine-freemasonry`](corpus/cemoti-intro19-footnote-url/) | Remote fetch from levantineheritage.com | Same content; `original.pdf` kept for provenance |
 
 ## Key passages for this project
 

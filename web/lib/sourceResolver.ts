@@ -75,7 +75,7 @@ export interface ResolvedSource {
   original: SourceBodyContent | null;
   /** Structured reference (typically a field/value table) — `reference.md`. */
   reference: SourceBodyContent | null;
-  /** Machine extract from a PDF or web capture (OCR / pymupdf / trafilatura). Always shown with a warning. */
+  /** Automated ingest text from a PDF or web capture (text layer + layout / OCR). Shown as reference-only with a short notice. */
   extract: SourceBodyContent | null;
   /** Tier C / C+ selective-extraction snippets (per-hit transcriptions paired with page images). */
   snippets: SourceSnippets | null;
@@ -90,6 +90,9 @@ export interface ResolvedSource {
 
   /** Provenance from source.yaml. */
   provenance: SourceProvenance | null;
+
+  /** `kind` / `type` / `record_type` from primary bundle `source.yaml` (for badges when no card). */
+  yamlRecordKind: string | null;
 }
 
 /* ------------------------------------------------------------------ */
@@ -133,8 +136,10 @@ function getOwnedCorpusSlugs(): Set<string> {
 }
 
 /**
- * All unified source slugs: every citation card + every corpus bundle
- * NOT already owned by a card. Each slug gets one page at /sources/[slug].
+ * Slugs for browse rows where each corpus bundle should appear at most once
+ * (under its card or as a standalone row). Omits corpus folders already
+ * linked from a `sources/*.md` card — so the list is short. For a **full**
+ * catalog of every `/sources/[slug]` page, use {@link getAllSourcePageSlugs}.
  */
 export function getAllSourceSlugs(): string[] {
   const slugs = new Set<string>();
@@ -226,6 +231,12 @@ function parseCorpusFrontmatter(fm: Record<string, unknown>): string[] {
   if (typeof c === "string") return [c.replace(/^corpus\//, "")];
   if (Array.isArray(c)) return c.map((x) => String(x).replace(/^corpus\//, ""));
   return [];
+}
+
+function yamlKindFromBundle(yaml: Record<string, unknown> | null): string | null {
+  if (!yaml) return null;
+  const k = yaml.kind ?? yaml.source_type ?? yaml.type ?? yaml.record_type;
+  return typeof k === "string" ? k : null;
 }
 
 function extractProvenance(yaml: Record<string, unknown> | null): SourceProvenance | null {
@@ -479,6 +490,7 @@ export function resolveSource(slug: string): ResolvedSource | null {
   let provenance: SourceProvenance | null = null;
   let corpusTitle: string | null = null;
   let corpusBlurb = "";
+  let yamlRecordKind: string | null = null;
 
   if (primarySlug) {
     const dir = repoPath("sources", "corpus", primarySlug);
@@ -497,7 +509,7 @@ export function resolveSource(slug: string): ResolvedSource | null {
       translation = pickBodyForRole(dir, files, "translation", "Translation");
       original = pickBodyForRole(dir, files, "original", "Original");
       reference = pickBodyForRole(dir, files, "reference", "Reference");
-      extract = pickBodyForRole(dir, files, "extract", "Machine extract");
+      extract = pickBodyForRole(dir, files, "extract", "Ingest text");
 
       // Tier C / C+ snippets package: pair the per-hit transcription file
       // with the snippets/manifest.json so the page can render each hit
@@ -517,6 +529,7 @@ export function resolveSource(slug: string): ResolvedSource | null {
       // Provenance + PDF download
       const yamlData = readYaml(path.join(dir, "source.yaml"));
       provenance = extractProvenance(yamlData);
+      yamlRecordKind = yamlKindFromBundle(yamlData);
 
       if (files.includes("original.pdf")) {
         pdfDownloadUrl = filesUrl(`sources/corpus/${primarySlug}/original.pdf`);
@@ -592,9 +605,12 @@ export function resolveSource(slug: string): ResolvedSource | null {
         }
       }
 
-      // Title fallbacks for corpus-only bundles
+      // Title when no card: prefer accurate source.yaml `title`, then first # heading in bundle prose.
       if (!cardTitle) {
-        if (reference) {
+        if (yamlData && typeof yamlData.title === "string" && yamlData.title.trim()) {
+          corpusTitle = yamlData.title.trim();
+        }
+        if (!corpusTitle && reference) {
           corpusTitle = extractFirstHeading(reference.content);
           if (!corpusBlurb) corpusBlurb = extractBlurb(reference.content);
         }
@@ -605,9 +621,6 @@ export function resolveSource(slug: string): ResolvedSource | null {
         if (!corpusTitle && original) {
           corpusTitle = extractFirstHeading(original.content);
           if (!corpusBlurb) corpusBlurb = extractBlurb(original.content);
-        }
-        if (!corpusTitle && yamlData && typeof yamlData.title === "string") {
-          corpusTitle = yamlData.title;
         }
       }
     }
@@ -633,6 +646,7 @@ export function resolveSource(slug: string): ResolvedSource | null {
     corpusSlugs: Array.from(allCorpusSlugs),
     primaryCorpusSlug,
     provenance,
+    yamlRecordKind,
   };
 }
 

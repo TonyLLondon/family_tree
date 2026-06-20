@@ -24,7 +24,7 @@ Digitised Estonian Lutheran parish registers indexed by FamilySearch. Searched *
 - **Georg Busse x Margaretha Elisabeth Bischanz** marriage, 9 Feb 1744, Tallinn -- 6DQC-BNCL
 - **Christina Elisabeth Schittmar** baptism, 25 Apr 1759, Viljandi (sibling evidence) -- 6DQP-HCXK
 
-Full record details, children's baptisms, unindexed gaps, and additional leads in [corpus bundle](corpus/fs-estonia-church-books-eylandt-busse/reference.md).
+Full record details, children's baptisms, unindexed gaps, and additional leads in [source record](corpus/fs-estonia-church-books-eylandt-busse/reference.md).
 
 ## People
 

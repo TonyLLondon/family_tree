@@ -13,4 +13,8 @@
   file: media/publications/persia-iran/Dr. Cormick_ The man who met the Báb – Connections 2.pdf
   title: "Dr. Cormick — The man who met the Báb (Connections), part 2"
 
+- slug: yaghoubian-2014-ethnicity-identity-nationalism-iran
+  file: media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf
+  title: "Ethnicity, Identity, and the Development of Nationalism in Iran"
+
 # Huge books → [pdf-ingest-manifest-heavy.yaml](pdf-ingest-manifest-heavy.yaml)

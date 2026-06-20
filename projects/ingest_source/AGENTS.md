@@ -69,7 +69,7 @@ After a candidate builder runs, the agent decides which pages need rendering at 
 | `transcription.snippets.md` | "Excerpts" section (Tier C/C+ — per-hit transcriptions, paired with their page PNGs) |
 | `translation.md` or `translation.<lang>.md` (or `*.en.md`) | "Translation" body section |
 | `reference.md` | English commentary, IDs, dates, links to `people/*.md` |
-| `extracted.pdf.md` / `extracted.web.md` | Machine extract — rendered with an OCR warning |
+| `extracted.pdf.md` / `extracted.web.md` | Ingest text — rendered on the site as reference-only with a short notice |
 | `pages-png/p001.png … pNNN.png` | High-DPI facsimiles (committed; Tier B = whole doc, Tier C = hit pages only) |
 | `pages-png/manifest.json` | Tier B vision-handoff brief |
 | `snippets/manifest.json` | Tier C/C+ vision-handoff brief (hits, expected outputs) |
@@ -228,7 +228,7 @@ When any of these is wired, update this file and add a row to `history/logs.md`.
 - **`scripts/marker_reextract.py`** — restricted to clean Latin print (Tier A.5 candidate). **Never** run on handwritten or non-Latin sources; those are vision pass only.
 - **`scripts/extract_pdf_sorted_transcription.py`** — superseded by Tier A in this runner. Kept temporarily for the burgess-specific fixes.
 - **`sources/corpus/CONVERSION-PLAN.md`** — the older roadmap doc. Will be retired in favour of this project's `AGENTS.md` + `state.md`.
-- **`manual/`** — the broader human-facing inbox for any unsorted material. `inbox/` here is specifically files queued for the runner.
+- **`manual/`** — the broader human-facing inbox for any unsorted material. `inbox/` here is specifically files queued for the runner. **Policy:** **move** cited files from `manual/` into **`media/`** or **`sources/corpus/<slug>/`**; source images and PDFs are **relocated**, not deleted.
 
 ## When in doubt
 

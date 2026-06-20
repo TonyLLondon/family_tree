@@ -14,8 +14,7 @@ Judge Chetlain dismissed Étienne Stump's petition for mandamus against the Illi
 
 - [Étienne Stump](../people/etienne-stump.md)
 
-## Corpus
-
-- [sources/corpus/dental-register-stump-mandamus-1902/](corpus/dental-register-stump-mandamus-1902/) — `transcription.en.md` (clean text), `extracted.pdf.md` (OCR), `source.yaml`.
+## Source record
+- [full record](corpus/dental-register-stump-mandamus-1902/) — `transcription.en.md` (clean text), `extracted.pdf.md` (OCR), `source.yaml`.
 - PMC: [PMC6975503](https://pmc.ncbi.nlm.nih.gov/articles/PMC6975503/) · PubMed: [33701664](https://pubmed.ncbi.nlm.nih.gov/33701664/)
-- Also reprinted in *Dental Digest*, Vol. 8 (1902), p. 710 ([Google Books](https://books.google.com/books?id=omIBAAAAYAAJ&q=Stump)).
+- Also reprinted in *Dental Digest*, Vol. 8, No. 8 (August 1902), pp. 699–710 — **Internet Archive** facsimile: [1902-dental-digest-etienne-stump-mandamus](corpus/1902-dental-digest-etienne-stump-mandamus/) · [transcription](corpus/1902-dental-digest-etienne-stump-mandamus/transcription.md) · [viewer](https://archive.org/details/sim_dental-digest_the-dental-digest_1902-08_8_8/page/n77/mode/1up).

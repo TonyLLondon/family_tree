@@ -17,7 +17,7 @@ George Knecht's naturalisation certificate resolves a key discrepancy about his 
 
 **Digital access:** [TNA Discovery catalogue record](https://discovery.nationalarchives.gov.uk/details/r/C7313741) (freely viewable online)
 
-**Corpus:** [knecht-george-naturalisation-1864](corpus/knecht-george-naturalisation-1864/)  
+**Source record:** [knecht-george-naturalisation-1864](corpus/knecht-george-naturalisation-1864/)  
 **Full transcription:** [reference.md](corpus/knecht-george-naturalisation-1864/reference.md)
 
 ---
@@ -46,7 +46,7 @@ George Knecht's naturalisation certificate resolves a key discrepancy about his 
 - **Place of origin:** **Wasserlos**, Bavaria — named on the memorial; church records via Alzenau parishes
 - **Related naturalisation:** Charles Knecht from Württemberg naturalised 5 years later (1869, HO 1/157/6219) — possible brother/cousin
 
-High-resolution images of all 6 pages in the corpus bundle enable detailed analysis of handwriting, signatures, and administrative notes.
+High-resolution images of all 6 pages in the source record enable detailed analysis of handwriting, signatures, and administrative notes.
 
 ---
 

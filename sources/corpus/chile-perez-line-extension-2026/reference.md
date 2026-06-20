@@ -140,7 +140,7 @@ Death registration for Valentin Perez, who died September 5, 1892 in Quirihue, a
 
 **Genealogical significance:** Confirms **Simon Perez + Pascuala Villanueva** as Ignacio’s parents in the same record set as the burial **62LV-X4Z5**, and confirms **Isabel Mora’s** parents as **Isidro Mora + María Estrada** (spelling variants in the index). Handwriting on the film image should be read to resolve any index variants (e.g. mother’s surname on Isabel’s 1877 burial entry).
 
-**Dedicated corpus bundle:** [fs-6rq6-zsqw-ignacio-isabel-marriage-1818](../fs-6rq6-zsqw-ignacio-isabel-marriage-1818/reference.md) (image access note; burial-side conflict in [fs-6y8r-3qpv-isabel-mora-burial-1877](../fs-6y8r-3qpv-isabel-mora-burial-1877/reference.md)). **Tree:** indexed Isabel parents do not populate `family-tree.json` until transcribed — [chile-mora-line-evidence-status-2026.md](../../chile-mora-line-evidence-status-2026.md).
+**Dedicated source write-up:** [Ignacio × Isabel marriage, 1818](../fs-6rq6-zsqw-ignacio-isabel-marriage-1818/reference.md) (image access note; burial-side conflict in [Isabel Mora burial, 1877](../fs-6y8r-3qpv-isabel-mora-burial-1877/reference.md)). **Tree:** indexed Isabel parents do not populate `family-tree.json` until transcribed — [chile-mora-line-evidence-status-2026.md](../../chile-mora-line-evidence-status-2026.md).
 
 ### **Key Burial Record (6KRX-96QJ)**  
 **Person:** Simon Perez  

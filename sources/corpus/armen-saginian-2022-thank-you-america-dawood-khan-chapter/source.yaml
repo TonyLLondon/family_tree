@@ -1,0 +1,14 @@
+id: armen-saginian-2022-thank-you-america-dawood-khan-chapter
+title: "Armen Saginian — Thank You, America & Americans (2022), ch. Who Was Dawood Khan Saginashvilli"
+remote: {}
+fetches:
+  - kind: local_png
+    at: "2026-05-09T00:00:00Z"
+    repo_path: media/docs/armen-saginian-2022-thank-you-america-dawood-khan-saginashvilli-spread.png
+    sha256: 5248e99738ee8035fbd7c6b590e35b99647d73142f86199ba328b51c09bf68d3
+    bytes: 100418
+    note: Two-page spread from print-on-demand memoir; page numbers not shown on facsimile.
+files:
+  media_reference: media/docs/armen-saginian-2022-thank-you-america-dawood-khan-saginashvilli-spread.png
+  reference_md: reference.md
+  transcription_md: transcription.md

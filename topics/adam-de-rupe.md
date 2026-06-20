@@ -33,7 +33,7 @@ Nothing in this vault is a **primary** extract of Adam’s own charter; the foll
 | Generation (traditional) | Name / label | What sources usually claim |
 |--------------------------|--------------|----------------------------|
 | **I** | **Godebert** (“the Fleming,” *Godiebert* in some spellings) | Named from the **Pipe Roll of 1130** in the [Monastic Wales](https://www.monasticwales.org/person/88) summary; treated as the **dynastic founder** of the **barony of Roche** in **Rhôs / Pembrokeshire**, with a core around **Pill** and **Roche** manors, **c. 1100×1130**. Henry **I**’s **Flemish settlement** in Dyfed is often invoked as **context** (population, not proof of one man). |
-| **II** | **Robert / Rodebert FitzGodebert** | Victorian charter editors and pedigree compilers (drawing on the charter corpus below) regularly insert a **son of Godebert** as father of the **next** generation; spelling **Rodebert** appears in some Irish-family summaries beside **Richard** as **brothers**. |
+| **II** | **Robert / Rodebert FitzGodebert** | Victorian charter editors and pedigree compilers (drawing on the charter record layer below) regularly insert a **son of Godebert** as father of the **next** generation; spelling **Rodebert** appears in some Irish-family summaries beside **Richard** as **brothers**. |
 | **III** | **Adam** (+ often **David**, **Henry**) | **Adam**: marriage to **Blandina**; **Pill Priory**; **Roch Castle** association (Monastic Wales). **David**: a **Wexford** and **William Marshal** nexus appears repeatedly in **secondary** Irish genealogies (great estates in **Ferns / “Rochesland”** country) — useful for **context**, not automatic identification with one charter **David**. |
 
 **Charter edition.** The standard antiquarian edition is **Joseph Hunter** and **John Montgomery Traherne**, “Copies of the original charters of the family of de la Roche,” *Archaeologia Cambrensis* (**1852**; new series — library catalogues cite different volume numbers). **Monastic Wales** points to **267–268**; other indexes give the run as **258–271**. That article is the usual **academic anchor** for saying the **Pembrokeshire Roches** are a **documented Norman–Flemish** house with a recoverable **charter chain** — distinct from later **story-book** compression into a single **Adam**.
@@ -103,11 +103,11 @@ If the fork is a **younger son of V6**, then **V7** and **V8** drop toward **zer
 - [John Roche of Castletown-Roche](../people/john-roche.md) — earliest **proved** patrilineal anchor in this vault
 - [Surname: Roche](surname-roche.md) — etymology and Limerick descent
 - [Roche of Limerick — Forgotten Victorians (Burke’s 1833)](../sources/roche-of-limerick-forgotten-victorians.md)
-- Corpus: [Lewis, Castletown-Roche (1837)](../sources/corpus/lewis-topographical-castletown-roche-1837/extracted.web.md) · [Wikipedia — David Roche, 7th Viscount Fermoy](../sources/corpus/wikipedia-david-roche-7th-viscount-fermoy/extracted.web.md)
+- **Sources (web capture):** [Lewis, Castletown-Roche (1837)](../sources/corpus/lewis-topographical-castletown-roche-1837/extracted.web.md) · [Wikipedia — David Roche, 7th Viscount Fermoy](../sources/corpus/wikipedia-david-roche-7th-viscount-fermoy/extracted.web.md)
 
-### External reference shelf (not duplicated in corpus)
+### External reference shelf (not duplicated in the source shelves here)
 
 - [Monastic Wales — Adam de la Rupe (Roche)](https://www.monasticwales.org/person/88) — Welsh priory, Roch Castle, Godebert summary.
 - **Hunter & Traherne (1852)** — *Archaeologia Cambrensis* charter copies for **de la Roche of Pembrokeshire** (see “Ancestry” above).
-- **Burke (1866)** — *Dormant … Peerages*, p. 454, **Adam de Rupe**, **1196**, FitzStephen (quoted via Wikipedia corpus footnote).
+- **Burke (1866)** — *Dormant … Peerages*, p. 454, **Adam de Rupe**, **1196**, FitzStephen (quoted via Wikipedia article footnotes).
 - [JCHAS — Donnelly, “The Roches, Lords of Fermoy” (1936 instalment PDF)](https://corkhist.ie/wp-content/uploads/jfiles/1936/b1936-005.pdf) — Munster lords on **record** (Carew, Book of Fermoy, rolls); adjacent issues continue the series.

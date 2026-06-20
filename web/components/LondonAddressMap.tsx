@@ -357,7 +357,7 @@ function AddressPopup({
           )}
           {entry.corpusSlug && (
             <Link
-              href={`/corpus/${entry.corpusSlug}`}
+              href={`/sources/${entry.corpusSlug}`}
               className="mt-1 inline-block text-[10px] text-sky-600 hover:underline"
             >
               View transcription &rarr;

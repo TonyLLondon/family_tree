@@ -36,7 +36,7 @@ Extended the STUMP direct line from Generation 13 back to **Generation 15-16** (
 **Generation 12:**
 - **Blasius STUMP** (christened 1631) ← Grandson, named for great-grandfather
 
-### **Corpus Documentation Created:**
+### **Source record documentation created:**
 
 1. **[Blaesi STUMP burial, 1629](corpus/blaesi-stump-burial-1629/reference.md)** — Confirms death date 7 Oct 1629
 2. **[Caspar marriage to Anna Schuemperli](corpus/caspar-stump-marriage-anna-schuemperli/reference.md)** — Documents father-son relationship
@@ -45,7 +45,7 @@ Extended the STUMP direct line from Generation 13 back to **Generation 15-16** (
 ## People Pages Updated
 
 - **[Blaesi Stump](../people/blaesi-stump.md)** — Added six children, two wives, potential parents
-- **[Caspar Stumpp](../people/caspar-stumpp.md)** — Corrected parentage, added corpus references
+- **[Caspar Stumpp](../people/caspar-stumpp.md)** — Corrected parentage, added source record references
 
 ## Genealogical Impact
 

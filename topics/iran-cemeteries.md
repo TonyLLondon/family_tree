@@ -81,7 +81,7 @@ Fanny was the daughter of **[Edward Burgess](../people/edward-burgess.md)** and 
 | Wright, "Further Notes" | [PDF](../media/publications/persia-iran/Sir%20Denis%20Wright_Burials%20and%20Memorials%20in%20Persia%20Further%20Notes.pdf) · [extract](../sources/corpus/wright-burials-british-in-persia-further-notes/extracted.pdf.md) |
 | British Library notes (reading list) | [sources/british-library-notes.md](../sources/british-library-notes.md) |
 | [NYPL Burgess appendix — Anna interview (1880)](../sources/nypl-burgess-appendix-anna-interview.md) | Anna's own words on Edward's burial and Daoud Khan's grave |
-| Yaghoubian, *Ethnicity, Identity, and the Development of Nationalism in Iran* (2014), Ch. 4 | [source card](../sources/yaghoubian-2014-ethnicity-identity-nationalism-iran.md) · [corpus extract](../sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/extracted.pdf.md) — nn. 10–11 confirm Daoud Khan and Solayman Khan burials at Surb Astvatsatsin |
+| Yaghoubian, *Ethnicity, Identity, and the Development of Nationalism in Iran* (2014), Ch. 4 | [source card](../sources/yaghoubian-2014-ethnicity-identity-nationalism-iran.md) · [extract](../sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/extracted.pdf.md) — nn. 10–11 confirm Daoud Khan and Solayman Khan burials at Surb Astvatsatsin |
 
 ## Narrative
 

@@ -27,7 +27,7 @@ Names recorded in the Venetian-Italian orthography of the 1740s Zara registers; 
 ## Cross-confirmation
 
 - **DAZD HR-DAZD-342 sig. 52 (23 Dec 1783)** — certified copy of this baptismal entry, issued for civic / nobility purposes, names the child as **"Alvise Anzolo Addobbati, son of Daniele and Margherita"** — independent attestation of the parentage and the baptismal-name combination Anzolo + Aloysius (= Alvise / Luigi). See [dazd-addobbati-family-fonds](../dazd-addobbati-family-fonds/).
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 505** — prints the register line as part of his Addobbati civic résumé. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 505** — prints the register line as part of his Addobbati civic résumé. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara/).
 
 ## People
 

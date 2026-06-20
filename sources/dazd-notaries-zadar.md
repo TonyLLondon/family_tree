@@ -11,7 +11,7 @@ kind: pdf
 
 **Remote inventory PDF:** [dazd.hr — HR-DAZD-31 Bilježnici Zadra](https://www.dazd.hr/attachment/preview/64a51ca07173d/hr-dazd-31-biljeznici-zadra.pdf)
 
-**Corpus bundle:** [corpus/dazd-notaries-zadar/](corpus/dazd-notaries-zadar/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/dazd-notaries-zadar/extracted.pdf.md).
+**Source record:** [full record](corpus/dazd-notaries-zadar/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/dazd-notaries-zadar/extracted.pdf.md).
 
 ## Summary
 

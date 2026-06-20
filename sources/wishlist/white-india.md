@@ -10,7 +10,7 @@ Sources needed to deepen the William O'Byrne White and Gerald Sebastian White re
 - Station lists: 2nd Bn/1st Foot at Jubbulpore from 1866 through at least 1879
 - See [sources/london-gazette-1870-white-1st-foot.md](../london-gazette-1870-white-1st-foot.md)
 
-Remaining gap: **campaign medals** — search London Gazette for White in Afghan War or Central India dispatches.
+**Campaign medals (Afghan War):** Internet Archive regimental history (`recordsroyalscots`) shows **2nd Bn/1st Foot detained at Jubbulpore** during 1878–1880 — **no frontier deployment**; Afghanistan 1878–80 medal **unlikely**. Corpus: [1878-1880-royal-scots-records-2nd-bn-afghan-detention-jubbulpore](../corpus/1878-1880-royal-scots-records-2nd-bn-afghan-detention-jubbulpore/). Remaining gap: named medal roll or service file only.
 
 Extended write-up (methodology + remaining record layers): [william-obyrne-white-regimental-india-primary-sources-memo](../william-obyrne-white-regimental-india-primary-sources-memo.md) · [extract](../corpus/william-obyrne-white-regimental-india-primary-sources-memo/extracted.pdf.md) · [irish-catholics-army-medical-service-india.md](../../research/iran-qajar/irish-catholics-army-medical-service-india.md).
 

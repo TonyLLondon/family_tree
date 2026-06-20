@@ -38,7 +38,7 @@ By the [1871 census](../sources/1871-census-aberavon-lewis-lewis.md) Rachel gave
 - **Baptism, 9 October 1825, Llanarthne** — Rachel, daughter of William and Mary Stephen. Father: farmer. Parish register, p. 81, No. 648 ([image](../media/docs/1825-baptism-rachel-stephen-llanarthne-carmarthenshire.png)).
 - **Marriage of William Stephen × Rachel Morley, 27 Jan 1826, Llanarthne** — both of Llanarthne, p. 54 ([FMP](https://www.findmypast.co.uk/transcript?id=GBPRS/M/872009835/1)).
 - **GRO marriage index, Q4 1856** — Lewis Lewis, Neath district, Vol 11A p. 784. MarriageFinder cross-references **Rachel Stephens** and Betsey Williams — confirming maiden name as Stephen(s).
-- [1871 census — Aberavon](../sources/1871-census-aberavon-lewis-lewis.md) — wife, age 41 (actually ~46), born Carmarthen, Carmarthenshire; nine children ([transcription](../sources/corpus/1871-census-aberavon-lewis-lewis-household-rg10-5424/transcription.md) · [image](../media/docs/1871-census-aberavon-lewis-lewis-household-rg10-5424.png)). RG 10/5424, schedule 460.
+- [1871 census — Aberavon](../sources/1871-census-aberavon-lewis-lewis.md) — wife, age 41 (actually ~46), born Carmarthen, Carmarthenshire; nine children ([transcription](../sources/corpus/1871-census-aberavon-lewis-lewis/transcription.md) · [image](../media/docs/1871-census-aberavon-lewis-lewis-household-rg10-5424.png)). RG 10/5424, schedule 460.
 - [Baptism of David Lewis, Aberavon, 1857](../sources/aberavon-baptism-david-lewis-1857.md) — mother listed as "Rachael" (no surname) ([transcription](../sources/corpus/aberavon-baptism-david-lewis-1857/transcription.md)).
 
 **Tree ids (corrected):**

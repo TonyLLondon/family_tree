@@ -1,24 +1,24 @@
-# Missions, Bábí / Bahá'í, and American-board books — corpus cluster
+# Missions, Bábí / Bahá'í, and American-board books — source cluster
 
-Long-form PDFs ingested for **mission history**, **Bábí / Bahá'í** context, and **19th-c. Persia** (often overlapping the Persia trunk and Cormick research). Prefer human summary on person/narrative pages; these bundles are searchable via `extracted.pdf.md`.
+Long-form PDFs ingested for **mission history**, **Bábí / Bahá'í** context, and **19th-c. Persia** (often overlapping the Persia trunk and Cormick research). Prefer human summary on person/narrative pages; these source records are searchable via `extracted.pdf.md`.
 
 ## American Board & general missions
 
-- [Rufus Anderson, *History of the missions* vol. I (1872)](rufus-anderson-1872-history-missions-oriental-churches.md) — Nestorian / Oroomiah narrative, **Dawood Khan** May 1845 appointment: [corpus `reference.md`](corpus/history-of-the-mission-by-rufus-anderson-5264293694/reference.md) · [bundle](corpus/history-of-the-mission-by-rufus-anderson-5264293694/)
-- [corpus/history-of-the-missions-of-the-american-board-of-651655d656/](corpus/history-of-the-missions-of-the-american-board-of-651655d656/)
-- [corpus/implications-of-american-missionary-presence-in-360b52c2c7/](corpus/implications-of-american-missionary-presence-in-360b52c2c7/)
-- [corpus/christian-mission-to-muslims-fc5eb90f00/](corpus/christian-mission-to-muslims-fc5eb90f00/)
+- [Rufus Anderson, *History of the missions* vol. I (1872)](rufus-anderson-1872-history-missions-oriental-churches.md) — Nestorian / Oroomiah narrative, **Dawood Khan** May 1845 appointment: [reference](corpus/rufus-anderson-1872-history-missions-oriental-churches/reference.md) · [full record](corpus/rufus-anderson-1872-history-missions-oriental-churches/)
+- [full record](corpus/history-of-the-missions-of-the-american-board-of-651655d656/)
+- [full record](corpus/implications-of-american-missionary-presence-in-360b52c2c7/)
+- [full record](corpus/christian-mission-to-muslims-fc5eb90f00/)
 
 ## Bábí / Bahá'í–oriented
 
-- [corpus/lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7/](corpus/lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7/)
-- [corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/](corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/)
-- [corpus/solas-bahai-studies-english-speaking-europe-iris-390913e50c/](corpus/solas-bahai-studies-english-speaking-europe-iris-390913e50c/)
-- [corpus/woman-and-her-saviour-bd2948a214/](corpus/woman-and-her-saviour-bd2948a214/)
+- [full record](corpus/lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7/)
+- [full record](corpus/baha-i-talks-messages-and-articles-an-italian-sc-70ff0d10fb/)
+- [full record](corpus/solas-bahai-studies-english-speaking-europe-iris-390913e50c/)
+- [full record](corpus/woman-and-her-saviour-bd2948a214/)
 
 ## Cormick — *Connections* Báb articles (PDF)
 
-- [corpus/cormick-man-who-met-bab-connections/](corpus/cormick-man-who-met-bab-connections/) · [part 2](corpus/cormick-man-who-met-bab-connections-2/)
+- [full record](corpus/cormick-man-who-met-bab-connections/) · [part 2](corpus/cormick-man-who-met-bab-connections-2/)
 
 ## Related cards & people
 

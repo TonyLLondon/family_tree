@@ -16,6 +16,6 @@ Humbert Nerfin was the father of [Christine Nerfin](christine-nerfin.md), identi
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6NQL-M318 | Named as father in daughter's marriage register, 9 Mar 1720 | [corpus](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
+| 6NQL-M318 | Named as father in daughter's marriage register, 9 Mar 1720 | [reference](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |

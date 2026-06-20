@@ -2,12 +2,12 @@
 
 Source cluster for **Vera Obolensky** (née Nemtchinova), Russian émigré who managed the **Mahmoudieh guesthouse** on **Dr. Étienne Stump**'s estate in 1920s Tehran, and later became Stump's wife.
 
-## Corpus bundles
+## Source records
 
-| Bundle | What it holds |
+| Source record | What it holds |
 |--------|---------------|
-| [vera-obolensky-death-notice-nytimes-2644e85dac/](corpus/vera-obolensky-death-notice-nytimes-2644e85dac/) | NYT death notice, **14 Nov 1974**. Image-only PDF (no machine text); read visually at [media/albums/henderson/Vera Obolensky death notice NYTimes.pdf](../media/albums/henderson/Vera%20Obolensky%20death%20notice%20NYTimes.pdf). |
-| [princess-obolensky-abbcc58ed8/](corpus/princess-obolensky-abbcc58ed8/) | "Princess Obolensky" — NYT death notice (14 Nov 1974, p. 50) via ProQuest. Full-page image-only PDF; **transcribed** (5-line notice: died Nov 6, age 79, son Georges, two grandchildren, Tolstoy connection). At [media/collections/stump-etienne/Princess Obolensky.pdf](../media/collections/stump-etienne/Princess%20Obolensky.pdf). |
+| [full record](corpus/vera-obolensky-death-notice-nytimes-2644e85dac/) | NYT death notice, **14 Nov 1974**. Image-only PDF (no machine text); read visually at [media/albums/henderson/Vera Obolensky death notice NYTimes.pdf](../media/albums/henderson/Vera%20Obolensky%20death%20notice%20NYTimes.pdf). |
+| [full record](corpus/princess-obolensky-abbcc58ed8/) | "Princess Obolensky" — NYT death notice (14 Nov 1974, p. 50) via ProQuest. Full-page image-only PDF; **transcribed** (5-line notice: died Nov 6, age 79, son Georges, two grandchildren, Tolstoy connection). At [media/collections/stump-etienne/Princess Obolensky.pdf](../media/collections/stump-etienne/Princess%20Obolensky.pdf). |
 
 ## Other vault evidence
 

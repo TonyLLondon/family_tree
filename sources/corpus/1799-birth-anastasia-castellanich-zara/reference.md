@@ -15,7 +15,7 @@ Baptismal entry from the **1799** Zadar parish register for **Anastasia Castella
 | **Subject** | Anastasia Castellanich (variants: *Castalanich*, 1825; *Castellanovich*, 1845) |
 | **Birth year** | 1799 (this register entry) |
 | **Birthplace** | Zadar (Zara) |
-| **Marriage** | 25 August 1821, Zara, to Giuseppe Rovaro Brizzi (this corpus, 1821-marriage-rovaro-brizzi-castellanich-zara) |
+| **Marriage** | 25 August 1821, Zara, to Giuseppe Rovaro Brizzi ([1821 marriage register entry](../1821-marriage-rovaro-brizzi-castellanich-zara/)) |
 | **Occupation** | *Cucitrice* (seamstress) — recorded on her daughter Geralda's 1825 birth register and on Geralda's 1845 marriage register |
 | **Family residence (1825)** | Calle S. Michele Nº 590, Zara |
 

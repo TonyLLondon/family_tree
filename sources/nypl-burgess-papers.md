@@ -2,12 +2,12 @@
 
 **URL:** [https://archives.nypl.org/mss/431](https://archives.nypl.org/mss/431)
 
-**Offline curl shell (Incapsula challenge only):** [corpus/nypl-archives-mss-431-curl-mirror/](corpus/nypl-archives-mss-431-curl-mirror/) — `mirror.html`, `source.yaml`.
+**Offline curl shell (Incapsula challenge only):** [full record](corpus/nypl-archives-mss-431-curl-mirror/) — `mirror.html`, `source.yaml`.
 
-## Corpus extracts (searchable)
+## Source record extracts (searchable)
 
-- [corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md](corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md) — appendix with **Anna Burgess interview** / Daoud Khan context.
-- [corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md](corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md) — Henderson **BurgessNYPL** PDF extract.
+- [extracted.pdf.md](corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md) — appendix with **Anna Burgess interview** / Daoud Khan context.
+- [extracted.pdf.md](corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md) — Henderson **BurgessNYPL** PDF extract.
 
 ## Use in this research
 

@@ -1,0 +1,16 @@
+id: guida-trieste-1931-zerauschek-ausonia-excerpt
+title: "Guida Trieste 1931 (excerpt) — Ausonia / A. Zerauschek, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/Guida_TS-1931/Guida_TS-1931_text.pdf
+  webpage_url: https://archive.org/details/Guida_TS-1931
+fetches:
+- kind: pdf
+  at: '2026-06-19T10:00:00Z'
+  remote_url: https://archive.org/download/Guida_TS-1931/Guida_TS-1931_text.pdf
+  sha256: 16b57365171eab96ac3f6d4c8b6091c6d1f24f243b76cdb01fa972451e60ecc8
+  bytes: 255952
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1931-zerauschek-ausonia-excerpt.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1931-zerauschek-ausonia-excerpt.pdf
+  page_image: media/docs/internet-archive/zerauschek/guida-trieste-1931-zerauschek-ausonia-page.png
+  transcription_it: transcription-ausonia-1931.it.md

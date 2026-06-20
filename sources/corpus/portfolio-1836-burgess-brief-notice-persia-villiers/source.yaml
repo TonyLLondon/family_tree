@@ -1,0 +1,19 @@
+id: portfolio-1836-burgess-brief-notice-persia-villiers
+title: "The Portfolio (1836) — Charles Burgess, Brief Notice on northern Persia trade, addressed to T. H. Villiers"
+remote:
+  primary_pdf_url: https://archive.org/download/portfolio00unkngoog/portfolio00unkngoog.pdf
+  webpage_url: https://archive.org/details/portfolio00unkngoog
+  bookreader_leaf: 370
+fetches:
+- kind: pdf
+  at: '2026-06-20T08:35:00Z'
+  remote_url: https://archive.org/download/portfolio00unkngoog/portfolio00unkngoog.pdf
+  sha256: afb33ef78e0053e067b21b02367f2c222ef8ff7f024a0d14b8ccc6833a572cd4
+  bytes: 1323635
+  media_reference: media/docs/internet-archive/burgess/portfolio-1836-burgess-brief-notice-excerpt.pdf
+  note: Excerpt PDF pages 370–385 of source volume (printed folios ~358–373); full item 28 MB image scan
+files:
+  media_reference: media/docs/internet-archive/burgess/portfolio-1836-burgess-brief-notice-excerpt.pdf
+  opening_page_image: media/docs/internet-archive/burgess/portfolio-1836-brief-notice-opening-p370.png
+  gaushupongar_page_image: media/docs/internet-archive/burgess/portfolio-1836-brief-notice-gaushupongar-p371.png
+  full_text_transcript: ../brief-notice-trade-northern-provinces-persia-villiers/extracted.pdf.md

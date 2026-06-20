@@ -53,7 +53,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Johanness Jung, 11 Aug 1667, Sulgen, parents Hanss Jung & Anna Marstetter · [corpus](../sources/corpus/johannes-jung-baptism-1667/reference.md) · FamilySearch FV8G-LJF
+- **Baptism record:** Johanness Jung, 11 Aug 1667, Sulgen, parents Hanss Jung & Anna Marstetter · [reference](../sources/corpus/johannes-jung-baptism-1667/reference.md) · FamilySearch FV8G-LJF
 - **Death record:** Johannes Jung, 4 Apr 1726, Sulgen, age 58 · FamilySearch FVK8-5XF/68VT-17PC
 - **Marriage evidence:** Through children's baptisms showing Johannes Jung & Barbara Muntz as parents
 

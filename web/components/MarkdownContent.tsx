@@ -19,7 +19,7 @@ export function MarkdownContent({ content, filePath }: Props) {
   const lightbox = useLightbox();
 
   return (
-    <div className="prose prose-zinc min-w-0 max-w-none dark:prose-invert prose-headings:scroll-mt-24 prose-a:text-sky-700 prose-a:underline dark:prose-a:text-sky-400">
+    <div className="prose prose-zinc min-w-0 w-full max-w-none overflow-x-auto break-words dark:prose-invert prose-headings:scroll-mt-24 prose-pre:max-w-full prose-pre:overflow-x-auto prose-a:text-sky-700 prose-a:underline prose-a:break-words dark:prose-a:text-sky-400">
       <LightboxOverlay src={lightbox.src} alt={lightbox.alt} onClose={lightbox.close} />
       <ReactMarkdown
         remarkPlugins={[remarkGfm, remarkVaultLinks(filePosix)]}
@@ -75,6 +75,14 @@ export function MarkdownContent({ content, filePath }: Props) {
             <div className="max-w-full overflow-x-auto overscroll-x-contain">
               <table className="min-w-full w-max">{children}</table>
             </div>
+          ),
+          pre: ({ children, className, ...rest }) => (
+            <pre
+              className={`max-w-full overflow-x-auto overscroll-x-contain ${className ?? ""}`}
+              {...rest}
+            >
+              {children}
+            </pre>
           ),
           code: ({ className, children, ...rest }) => {
             const match = /language-mermaid/.test(className ?? "");

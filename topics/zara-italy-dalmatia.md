@@ -97,6 +97,22 @@ The Italian Dalmatian exodus is covered in [Esuli Dalmati — Zara and exile](es
 |--------|----------|
 | Fulvia Zerauschek — family history memoir (1996) | [source card](../sources/famhist-nonna-memoir-1996.md) |
 | *Difesa Adriatica* — Antonio Zerauschek obituary (1973) | [source card](../sources/difesa-adriatica-1973-zerauschek-obituary.md) |
+| *Il Piccolo* — Antonio Zerauschek death notice (3 Mar 1973) | [source card](../sources/piccolo-1973-03-03-antonio-zerauschek-obituary.md) |
+| *Gazzetta Ufficiale* — Antonio Zerauschek, presidente E.P.T. (1938) | [source card](../sources/gazzetta-ufficiale-1938-04-07-zerauschek-ept-zara.md) |
+| *Guida generale di Trieste* 1924 — A. Zerauschek, Ufficio Cambio | [source card](../sources/guida-trieste-1924-zerauschek-ufficio-cambio-excerpt.md) |
+| *Guida generale di Trieste* 1925 — Zerauschek F.lli & A. Zerauschek | [source card](../sources/guida-trieste-1925-zerauschek-fratelli-excerpt.md) |
+| *Guida generale di Trieste* 1927 — A. Zerauschek, commissario d'avveri (excerpt) | [source card](../sources/guida-trieste-1927-zerauschek-commissario-avveri-excerpt.md) |
+| *Guida generale di Trieste* 1931 — Ausonia / A. Zerauschek (excerpt) | [source card](../sources/guida-trieste-1931-zerauschek-ausonia-excerpt.md) |
+| *Guida generale di Trieste* 1941 — Ausonia, via Corsica (excerpt) | [source card](../sources/guida-trieste-1941-zerauschek-ausonia-excerpt.md) |
+| *Guida generale di Trieste* 1940 — Ausonia / A. Zerauschek (excerpt) | [source card](../sources/guida-trieste-1940-zerauschek-ausonia-excerpt.md) |
+| *Guida generale di Trieste* 1923 — Zerauschek F.lli, calle Catena (excerpt) | [source card](../sources/guida-trieste-1923-zerauschek-fratelli-excerpt.md) |
+| *Gazzetta Ufficiale* — Bellini-Zerauschek cognome (1931) | [source card](../sources/gazzetta-ufficiale-1931-01-30-bellini-zerauschek-cognome.md) |
+| *Gazzetta Ufficiale* — Peristeridis / Manifattura Zaratina (1932–33) | [1932](../sources/gazzetta-ufficiale-1932-12-14-peristeridis-manifattura-zaratina.md) · [1933](../sources/gazzetta-ufficiale-1933-10-31-manifattura-zaratina-rename.md) |
+| *Il Piccolo* — A. Zerauschek Zara ads (Oct 1923) | [27 Oct](../sources/piccolo-1923-10-27-zerauschek-zara-ad.md) · [26–28 Oct run](../sources/piccolo-1923-10-zerauschek-zara-ad-run.md) |
+| *Il Piccolo* — Luxardo & Antonio Zerauschek (1 Jan 1914) | [source card](../sources/piccolo-1914-01-01-zerauschek-luxardo-ad.md) |
+| *Il Piccolo* — Riccardo Zerauschek obituary (14 Feb 1978) | [source card](../sources/piccolo-1978-02-14-riccardo-zerauschek-obituary.md) |
+| Quaderni del CRS Rovigno n. 24 — Zara industry (2013) | [source card](../sources/quaderni-crs-rovigno-24-zerauschek-zara-industry.md) |
+| Internet Archive — Zerauschek PDFs (2026 intake) | [media/docs/internet-archive/zerauschek/](../media/docs/internet-archive/zerauschek/) · [README](../media/docs/internet-archive/zerauschek/README.md) |
 | Sabalich — *Guida archeologica di Zara* (1897) | [source card](../sources/sabalich-guida-zara.md) |
 | DAZD Addobbati family fonds (HR-DAZD-342) | [source card](../sources/dazd-addobbati-family-fonds.md) |
 | Granić — Nin noble list 1817 | [source card](../sources/granic-nin-noble-list-1817.md) |

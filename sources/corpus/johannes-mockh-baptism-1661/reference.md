@@ -66,5 +66,5 @@ Generation 12 ancestors Thoma Mock and Anna Sprenger represent the deepest docum
 
 **Related Evidence:**
 - Marriage to Margaretha Schoenholtzer - FamilySearch FVNZ-FFL
-- Daughter Margreth Mockh baptism (10 Jan 1706) - [corpus](../margreth-mockh-baptism-1706/reference.md)  
+- Daughter Margreth Mockh baptism (10 Jan 1706) — [Margreth’s baptism record](../margreth-mockh-baptism-1706/reference.md)  
 - Death record (15 Mar 1736, Sulgen) - FamilySearch 6FZL-NL76

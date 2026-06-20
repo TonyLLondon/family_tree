@@ -42,10 +42,10 @@ David was buried in December 1857. By the 1861 census Margaret had moved to **Ab
 - [Christening (probable) — Margaret David, Conwil-gaio, 20 Apr 1787](../sources/corpus/1787-christening-margaret-david-conwil-gaio/transcription.md) — Wales Births and Baptisms. FS `X1Y6-C85`. Father: David Conwil. Only Margaret David christened at this parish in the 1780s.
 - [Marriage — David Griffiths × Margaret Davies, Llywell, 22 Dec 1815](../sources/corpus/1815-marriage-david-griffiths-margaret-davies-llywell/transcription.md) — Llywel parish register (CofE). FS `KCV1-ND7`. Image ARK `3:1:S3HY-6WN9-MKB` (restricted).
 - [Christening — John Griffiths, Llywel, 4 Feb 1816](../sources/corpus/1816-christening-john-griffiths-llywel/transcription.md) — Wales Births and Baptisms. FS `FM9R-44Q`.
-- [Non-Conformist baptisms — Saron Independent, Llywell, 1828 & 1830](../sources/corpus/1830-baptism-thomas-griffiths-saron-independent-llywell/transcription.md) — TNA RG4/1725. Mother: Margaret.
-- [1841 census — Griffis household, Tresgob, Llywell](../sources/corpus/1841-census-griffiths-household-llywell-ho107-1367/transcription.md) — HO107/1367. Margaret Griffis, age 55.
-- [1851 census — Griffiths household, Bishop Town, Llywell](../sources/corpus/1851-census-griffiths-household-llywell-ho107-2489/transcription.md) — HO107/2489. Margaret Griffiths, age 65, born Cayo, Carmarthenshire.
-- [1861 census — Margaret Griffiths in Price household, Cwmdare, Aberdare](../sources/corpus/1861-census-margaret-griffiths-price-household-aberdare-rg09-4068/transcription.md) — RG09/4068, folio 64, page 10, schedule 41. Age 75, widow, born Cilycwm, Carmarthenshire. FMP `GBC/1861/0020462410`.
+- [Non-Conformist baptisms — Saron Independent, Llywell, 1828 & 1830](../sources/corpus/1830-baptism-thomas-griffiths-saron-llywell/transcription.md) — TNA RG4/1725. Mother: Margaret.
+- [1841 census — Griffis household, Tresgob, Llywell](../sources/corpus/1841-census-griffiths-household-llywell/transcription.md) — HO107/1367. Margaret Griffis, age 55.
+- [1851 census — Griffiths household, Bishop Town, Llywell](../sources/corpus/1851-census-griffiths-household-llywell/transcription.md) — HO107/2489. Margaret Griffiths, age 65, born Cayo, Carmarthenshire.
+- [1861 census — Margaret Griffiths in Price household, Cwmdare, Aberdare](../sources/corpus/1861-census-margaret-griffiths-price-household-aberdare/transcription.md) — RG09/4068, folio 64, page 10, schedule 41. Age 75, widow, born Cilycwm, Carmarthenshire. FMP `GBC/1861/0020462410`.
 - **Tree id:** **I655** — union **F241**.
 
 ## Open questions

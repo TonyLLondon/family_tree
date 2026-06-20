@@ -60,10 +60,10 @@ David's tenure as Director-General placed him at the head of Britain's anti-litt
 - **Claridges reception invitation (18 May 1981):** [FLDavid-V-020.doc](../media/docs/david-john-lewis-kbt/royal/FLDavid-V-020.doc).
 - **Clean World Conference, Berlin (Nov 1975):** [KBT-037.doc](../media/docs/david-john-lewis-kbt/international/KBT-037.doc).
 - **KBT photo references:** [KBT-042](../media/docs/david-john-lewis-kbt/international/KBT-042.doc), [KBT-043](../media/docs/david-john-lewis-kbt/international/KBT-043.doc), [KBT-008](../media/docs/david-john-lewis-kbt/international/KBT-008.doc), [KBT-044](../media/docs/david-john-lewis-kbt/international/KBT-044.doc), [KBT-048](../media/docs/david-john-lewis-kbt/international/KBT-048.doc), [KBT-050](../media/docs/david-john-lewis-kbt/international/KBT-050.doc).
-- **Journal article (1978):** [corpus](../sources/corpus/kbt-david-j-lewis-env-conservation-1978/extracted.web.md). DOI: [10.1017/S037689290003811X](https://doi.org/10.1017/S037689290003811X).
-- **KBT history:** [corpus (official timeline)](../sources/corpus/keep-britain-tidy-history/extracted.web.md) · [Wikipedia](../sources/corpus/keep-britain-tidy-wikipedia/extracted.web.md).
+- **Journal article (1978):** [Environmental Conservation article](../sources/corpus/kbt-david-j-lewis-env-conservation-1978/extracted.web.md). DOI: [10.1017/S037689290003811X](https://doi.org/10.1017/S037689290003811X).
+- **KBT history:** [official timeline](../sources/corpus/keep-britain-tidy-history/extracted.web.md) · [Wikipedia](../sources/corpus/keep-britain-tidy-wikipedia/extracted.web.md).
 - **Charity/company record:** [Find That Charity](../sources/corpus/kbt-findthatcharity-company-record/extracted.web.md) (company 03496361, incorporated 1998 — the modern entity; the original 1960 charity registration was under a now-superseded number).
-- **Library of Congress authority:** [corpus](../sources/corpus/loc-authority-keep-britain-tidy-group/) (LCCN n86809834).
+- **Library of Congress authority:** [LOC authority record](../sources/corpus/loc-authority-keep-britain-tidy-group/) (LCCN n86809834).
 - **Lady Brunner:** [Oxford Mail](../sources/corpus/kbt-founder-lady-brunner-oxford-mail/extracted.web.md).
 - **The Spectator (9 Oct 1976):** [Archive](http://archive.spectator.co.uk/article/9th-october-1976/14/consuming-interest).
 - **LSE Brunner Papers (BRUNNER/4):** Annual reports 1961/62–1978. Held at The Women's Library, LSE. [Catalogue](https://archives.lse.ac.uk/records/BRUNNER/4).

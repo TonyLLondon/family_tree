@@ -4,9 +4,9 @@ Nine page images from the Tallinn Dome Lutheran congregation (Toomkirik) registe
 
 ## On disk
 
-Each record has its own corpus bundle with `source.yaml`, `reference.md`, and a link to the downloaded image in `media/docs/tallinn-stump/`.
+Each record has its own source record with `source.yaml`, `reference.md`, and a link to the downloaded image in `media/docs/tallinn-stump/`.
 
-| Event | Date | Corpus bundle | Image |
+| Event | Date | Source record | Image |
 |-------|------|---------------|-------|
 | Marriage — Marc Stump × Olga Erbe | 22 Jun 1868 | [1868-marriage-stump-erbe-tallinn-dome](corpus/1868-marriage-stump-erbe-tallinn-dome/) | 3 register pages |
 | Baptism — Jean Jaque | 3 Aug 1869 | [1869-baptism-jean-jaque-stump-tallinn](corpus/1869-baptism-jean-jaque-stump-tallinn/) | [JPG](../media/docs/tallinn-stump/1869-jean-jaque-stump-baptism-tallinn.jpg) |

@@ -63,5 +63,5 @@ This record pushes the Jung ancestry in Sulgen back to 1631, establishing nearly
 Generation 12 ancestors Barttli Jung and Barbel Schmidhusser could potentially be traced further back through Sulgen parish records from the early 1600s or late 1500s.
 
 **Related Evidence:**
-- Son Johannes Jung baptism (11 Aug 1667) - [corpus](../johannes-jung-baptism-1667/reference.md)
+- Son Johannes Jung baptism (11 Aug 1667) — [Johannes’s baptism record](../johannes-jung-baptism-1667/reference.md)
 - Son Johannes Jung death (4 Apr 1726, Sulgen) - FamilySearch records

@@ -17,10 +17,10 @@ Typed extract from **Georges Obolensky**, *Forever Russian: Memoirs of a Vagabon
 - Vera eventually left Tehran for **Frankfurt**, then **New Jersey** with Georges and his wife Rhoda.
 - **Vera died in America in 1975** (note: the NYT notice says **6 Nov 1974** — minor discrepancy with this extract).
 
-## Corpus
-
+## Source record
 - Original DOC: [media/albums/henderson/Forever Russian - Stump extract.doc](../media/albums/henderson/Forever%20Russian%20-%20Stump%20extract.doc)
-- Text extract: [corpus/forever-russian-stump-extract/extracted.txt](corpus/forever-russian-stump-extract/extracted.txt)
+- Text extract: [extracted.txt](corpus/forever-russian-stump-extract/extracted.txt)
+- **Transcription (citable):** [transcription.md](corpus/forever-russian-stump-extract/transcription.md)
 
 ## People
 

@@ -9,7 +9,7 @@ kind: pdf
 
 **Remote PDF:** [hrcak.srce.hr/file/99204](https://hrcak.srce.hr/file/99204) · webpage: [hrcak.srce.hr/131225](https://hrcak.srce.hr/131225)
 
-**Corpus bundle:** [corpus/celic-zadarsko-plemstvo-francuska-uprava/](corpus/celic-zadarsko-plemstvo-francuska-uprava/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/celic-zadarsko-plemstvo-francuska-uprava/extracted.pdf.md).
+**Source record:** [full record](corpus/celic-zadarsko-plemstvo-francuska-uprava/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/celic-zadarsko-plemstvo-francuska-uprava/extracted.pdf.md).
 
 ## Summary
 

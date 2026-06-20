@@ -40,7 +40,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Son's baptism record:** Johannes Jung, 11 Aug 1667, parents Hanss Jung & Anna Marstetter · [corpus](../sources/corpus/johannes-jung-baptism-1667/reference.md) · FamilySearch FV8G-LJF
+- **Son's baptism record:** Johannes Jung, 11 Aug 1667, parents Hanss Jung & Anna Marstetter · [reference](../sources/corpus/johannes-jung-baptism-1667/reference.md) · FamilySearch FV8G-LJF
 
 ## Research Notes (2026-04-11)
 

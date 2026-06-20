@@ -45,7 +45,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Son's baptism record:** Johanns Jung, 19 May 1631, parents Barttli Jung & Barbel Schmidhusser · [corpus](../sources/corpus/johanns-jung-baptism-1631/reference.md) · FamilySearch FV8P-SP8
+- **Son's baptism record:** Johanns Jung, 19 May 1631, parents Barttli Jung & Barbel Schmidhusser · [reference](../sources/corpus/johanns-jung-baptism-1631/reference.md) · FamilySearch FV8P-SP8
 
 ## Research Notes (2026-04-11)
 

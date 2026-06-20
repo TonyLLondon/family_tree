@@ -39,5 +39,5 @@ Slot **158 (Generation 7, 5×g-grandfather)** on the Lewis ahnentafel — Tony's
 
 ## Open questions
 
-- **Casimiro's birth date** — not yet established; Senj baptism registers would resolve. See [sources/wishlist/boara-carobbi-zara.md](../../wishlist/boara-carobbi-zara.md).
+- **Casimiro's birth date** — not yet established; Senj baptism registers would resolve. See the [Boara–Carobbi wishlist](../../wishlist/boara-carobbi-zara.md).
 - **Was Casimiro among Senj's inscribed Italian noble families** ("Golden Book") or part of a broader professional class? Civic records of Senj would settle this.

@@ -8,7 +8,7 @@ Person: [Catherine Mary Roche](../../people/catherine-mary-roche.md). Father: [W
 
 ## What is already documented
 
-- **Burke’s *History of the Commoners* (1833)** — under Thomas Roche of Limerick: **William**, solicitor in Dublin, m. **Eliza**, another daughter and co-heiress of **— Knight**, esq.; her brother **Stephen** m. **Catherine**, co-heiress of the same Knight. Extract: [Roche of Limerick — Forgotten Victorians](../roche-of-limerick-forgotten-victorians.md) · [corpus](../corpus/roche-of-limerick-forgotten-victorians-da2674483d/).
+- **Burke’s *History of the Commoners* (1833)** — under Thomas Roche of Limerick: **William**, solicitor in Dublin, m. **Eliza**, another daughter and co-heiress of **— Knight**, esq.; her brother **Stephen** m. **Catherine**, co-heiress of the same Knight. Extract: [Roche of Limerick — Forgotten Victorians](../roche-of-limerick-forgotten-victorians.md) · [corpus](../corpus/roche-of-limerick-forgotten-victorians/).
 - **legacy export** links Catherine to **F68** (William × Eliza, marriage **1 Mar 1832**, St Andrew’s, Westland Row); her **1841 Dublin birth** in the export has **no attached source** (unlike 1911 census / 1937 death).
 - **FamilySearch Family Tree** id on `@I136@` in the anchor legacy export: **`GQFY-HS8`** — may carry user citations worth mining or replacing with primary images.
 

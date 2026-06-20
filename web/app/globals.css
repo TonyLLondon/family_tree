@@ -19,6 +19,8 @@ html {
   scroll-behavior: smooth;
   /* Sticky SiteNav (~2.5rem) + breathing room for in-page #anchors */
   scroll-padding-top: 4.5rem;
+  /* Avoid viewport-wide horizontal scroll when prose/tables are wider than the screen */
+  overflow-x: clip;
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -20,7 +20,7 @@ Zerauschek's most visible project was on **Široka ulica** (Calle Larga), the ma
 
 The result — the **Hotel Zerauschek** — was modernist in form, with loggias and stone cladding that acknowledged the city's historic context without imitating it. Below the hotel, the **Caffè Centrale** became Zara's principal meeting place: social, cultural, and commercial life ran through its tables. It was the signature private development of 1930s Zara.
 
-Sources: [Retrozadar — Povijest kavana u Zadru](https://www.retrozadar.com/posts/povijest-kavana-u-zadru) · corpus [retrozadar-povijest-kavana-u-zadru](../sources/corpus/retrozadar-povijest-kavana-u-zadru/). [Slobodna Dalmacija — Kavane 2. dio](https://slobodnadalmacija.hr/dalmacija/zadar/zadar-plus/povijest-kavana-u-zadru-2-dio-do-drugog-svjetskog-rata-neke-su-se-zadrzale-neke-su-promijenile-naziv-a-neke-su-postale-barovi-1516476) · corpus [slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror](../sources/corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/).
+Sources: [Retrozadar — Povijest kavana u Zadru](https://www.retrozadar.com/posts/povijest-kavana-u-zadru) · [source record](../sources/corpus/retrozadar-povijest-kavana-u-zadru/). [Slobodna Dalmacija — Kavane 2. dio](https://slobodnadalmacija.hr/dalmacija/zadar/zadar-plus/povijest-kavana-u-zadru-2-dio-do-drugog-svjetskog-rata-neke-su-se-zadrzale-neke-su-promijenile-naziv-a-neke-su-postale-barovi-1516476) · [web capture](../sources/corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/).
 
 ---
 
@@ -29,6 +29,8 @@ Sources: [Retrozadar — Povijest kavana u Zadru](https://www.retrozadar.com/pos
 Zara's free-port status placed it outside the Italian customs line. Tobacco manufacture was formally free but supervised by the Italian state monopoly; cigarettes produced there were classified as "foreign" in mainland Italy. Several private manufacturers operated: Greek, Italian, and state-backed. Into this milieu stepped Zerauschek.
 
 He was first a **founder** of the **Manifattura Tabacchi Orientali** (MTO) — a large state-majority manufacturer on Riva 4 Novembre, producing brands including Delphi, Faro, Lido, Serenissima, and Zara. But he struck out on his own.
+
+The **1923 *Guida generale di Trieste*** lists **Zerauschek F.lli Giov. e Giusto** with a **lavoratorio** on **calle Catena** — five years before Antonio's acquisition of the Manifattura at the same address cluster. *Il Piccolo* (**26–28 Oct 1923**) carries a three-day run of **A. ZERAUSCHEK — ZARA** notices — horse breeding (Prestranek/Lipizza), then fine liquors — beside the **27 Oct** line already in the source record. The **1914** New Year's *Piccolo* places **Antonio** beside **Girolamo Luxardo**'s maraschino display — earliest press trace. The **1927 Guida** lists him as **commissario d'avveri** on **riva 4 Novembre**.
 
 On **27 May 1928** he acquired the **Manifattura Zaratina Sigarette** from **Niccolò Peristeridis**, a Greek-origin tobacco man whose company had started as the **Manifattura Zaratina Tabacchi e Sigarette "N. Peristeridis"** at Calle Giuseppe Sabalich 2, originally producing **Calypso** and **Samos** cigarettes. The Peristeridis family was likely connected to the Fabbrica Tabacchi Turchi "Mustapha" (operating in Zara in the 1920s) and to the Peristeridis & Raftopulos tobacco factory in Durazzo (Albania). The company was renamed Manifattura Zaratina Sigarette in 1922 and moved to Calle Catena 6.
 
@@ -40,7 +42,7 @@ A surviving c. 1940 Calypso hinged-box pack — twenty cigarettes, produced by "
 
 The Manifattura Zaratina brands reached Italian cinema — and not as background dressing. In Mario Camerini's *Il Signor Max* (1937), Vittorio De Sica plays Gianni, a poor Roman edicola vendor who impersonates a wealthy count. A **Samos** pack sits on his kiosk counter. When Lauretta (Assia Noris) suspects the count and the vendor are the same man, she picks up the pack and asks: *"Do you smoke this brand?"* Gianni deflects: *"Not normally, but I do for this special occasion..."* The cigarette brand is the **plot mechanism** that tests the dual identity — one of the earliest examples of narrative product placement in European cinema. The Zerauschek family kept a credits page for the film in their Zara album, filed alongside business documents, suggesting they understood the placement as a commercial achievement. See [*Il Signor Max* — Samos on screen](../topics/il-signor-max-1937.md).
 
-Sources: [sigaretteitaliane.org — Zara 1920–43](../sources/sigaretteitaliane-zara-1920-43.md) · corpus [sigaretteitaliane-zara-1920-43](../sources/corpus/sigaretteitaliane-zara-1920-43/). [zigsam.at — Calypso](../sources/zigsam-at-calypso-cigarette-packs.md) · corpus [zigsam-at-calypso-cigarette-packs](../sources/corpus/zigsam-at-calypso-cigarette-packs/). *Difesa Adriatica* obituary (1973): [translation (EN)](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md).
+Sources: [Guida Trieste 1923 (excerpt)](../sources/guida-trieste-1923-zerauschek-fratelli-excerpt.md) · [Guida 1927 commissario d'avveri](../sources/guida-trieste-1927-zerauschek-commissario-avveri-excerpt.md) · [Il Piccolo Oct 1923 ad run](../sources/piccolo-1923-10-zerauschek-zara-ad-run.md) · [Il Piccolo 1914 Luxardo](../sources/piccolo-1914-01-01-zerauschek-luxardo-ad.md) · [Gazzetta Peristeridis/MZS 1932–33](../sources/gazzetta-ufficiale-1932-12-14-peristeridis-manifattura-zaratina.md). [sigaretteitaliane.org — Zara 1920–43](../sources/sigaretteitaliane-zara-1920-43.md) · [zigsam.at — Calypso](../sources/zigsam-at-calypso-cigarette-packs.md). *Difesa Adriatica* obituary (1973): [translation (EN)](../sources/corpus/difesa-adriatica-1973-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md).
 
 ---
 
@@ -52,7 +54,7 @@ By **1929** the factory was already **exporting chocolate to Italy and Western E
 
 A **possible Luxardo connection**: beyond maraschino, the Luxardo company also produced bonbons and confections. A 2011 *Poslovni dnevnik* article about a later Zadar chocolatier suggests that Luxardo may have sourced chocolate from Ausonia — an entirely plausible relationship given the family ties and the small size of the enclave — though this remains unconfirmed.
 
-Sources: [Zadarski tjednik photo-feuilleton (2024)](../sources/zadarskitjednik-ausonia-tvornica-cokolade.md) · corpus [zadarskitjednik-ausonia-tvornica-cokolade](../sources/corpus/zadarskitjednik-ausonia-tvornica-cokolade/). [Poslovni dnevnik (2011)](../sources/poslovni-hr-2011-ausonia-zadar-zerauschek.md) · corpus [poslovni-hr-2011-ausonia-zadar-zerauschek](../sources/corpus/poslovni-hr-2011-ausonia-zadar-zerauschek/).
+Sources: [Guida Trieste 1940 — Ausonia excerpt](../sources/guida-trieste-1940-zerauschek-ausonia-excerpt.md) (rag. Vincenzo, via Lazzaretto vecchio). [Zadarski tjednik photo-feuilleton (2024)](../sources/zadarskitjednik-ausonia-tvornica-cokolade.md) · [source record](../sources/corpus/zadarskitjednik-ausonia-tvornica-cokolade/). [Poslovni dnevnik (2011)](../sources/poslovni-hr-2011-ausonia-zadar-zerauschek.md) · [source record](../sources/corpus/poslovni-hr-2011-ausonia-zadar-zerauschek/).
 
 ---
 
@@ -108,17 +110,17 @@ Antonio and Ester Zerauschek settled in **Florence**. He sold a **210-hectare (4
 
 The Italian government's compensation scheme for the **350,000 refugees** (20,000 from Zara) was proportional and punitive: "You lost ten, have five; lost a hundred, have ten; lost two billion, have a hundred." It came in drops — "never enough at once to start a business." The scheme was eventually declared unconstitutional and scrapped, but by then Antonio was already dead. ([Fulvia memoir, 1996](../sources/famhist-nonna-memoir-1996.md).)
 
-Ester died first. Antonio followed in **February 1973**, aged 84. The *Difesa Adriatica* obituary — published in the community's exile newspaper, issue dated 25 March–3 April 1973 — presented him as a central figure in Zara's commercial and industrial life between the wars, and recorded the forced abandonment of the city under Allied bombing.
+Ester died first. Antonio followed in **February 1973**, aged 84. The *Difesa Adriatica* obituary — published in the community's exile newspaper, issue dated 25 March–3 April 1973 — presented him as a central figure in Zara's commercial and industrial life between the wars, and recorded the forced abandonment of the city under Allied bombing. A parallel death notice appeared in ***Il Piccolo* di Trieste** (3 March 1973): *serenamente lontano dalla sua Zara*, dated Firenze, 28 February 1973 — [reference](../sources/corpus/piccolo-1973-03-03-antonio-zerauschek-obituary/). The **Gazzetta Ufficiale** (7 Apr 1938) had earlier listed him as **presidente E.P.T.** for Zara — [source card](../sources/gazzetta-ufficiale-1938-04-07-zerauschek-ept-zara.md).
 
 They are buried together. The [grave slab](../media/docs/Grave%20slab%20Florence%20Ester%20Addobbati%20Zerauschek%20Antonio%20Giuliana%20Zerauschek%20Rivolta.png) in Florence reads Ester Addobbati Zerauschek, Antonio Zerauschek, and Giuliana Zerauschek Rivolta.
 
-**Italian transcript + English:** [translation (EN)](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md) · [transcription (IT)](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/transcription-antonio-zerauschek-obituary-1973.it.md) · **corpus:** [difesa-adriatica-1973-antonio-zerauschek-obituary](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/) · [JPEG scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg).
+**Italian transcript + English:** [translation (EN)](../sources/corpus/difesa-adriatica-1973-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md) · [transcription (IT)](../sources/corpus/difesa-adriatica-1973-zerauschek-obituary/transcription-antonio-zerauschek-obituary-1973.it.md) · **Source record:** [difesa-adriatica-1973-antonio-zerauschek-obituary](../sources/corpus/difesa-adriatica-1973-zerauschek-obituary/) · [JPEG scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg).
 
 ---
 
 ## Sources and records
 
-- [Polito IRIS — *Adaptive cities* (PDF)](https://iris.polito.it/retrieve/96922d26-0179-45d6-931f-59f0c3df199f/Adaptive%20cities_volume%20completo.pdf) · corpus: [polito-iris-adaptive-cities-volume-completo](../sources/corpus/polito-iris-adaptive-cities-volume-completo/)
-- [Luxardo — company history (luxardo.it)](https://www.luxardo.it/history/) · corpus: [luxardo-history](../sources/corpus/luxardo-history/)
+- [Polito IRIS — *Adaptive cities* (PDF)](https://iris.polito.it/retrieve/96922d26-0179-45d6-931f-59f0c3df199f/Adaptive%20cities_volume%20completo.pdf) · [source record](../sources/corpus/polito-iris-adaptive-cities-volume-completo/)
+- [Luxardo — company history (luxardo.it)](https://www.luxardo.it/history/) · [source record](../sources/corpus/luxardo-history/)
 - Parish and civil images: [media/collections/zerauschek/](../media/collections/zerauschek/)
 - Related topic: [Zara interwar architecture and hotels](../topics/zadar-interwar-hotels.md)

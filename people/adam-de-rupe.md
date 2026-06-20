@@ -34,7 +34,7 @@ Descendants in this repo (extract, not full medieval chain): [John Roche](john-r
 - Monastic Wales — [Adam de la Rupe (Roche)](https://www.monasticwales.org/person/88) (Welsh fortress, Pill Priory, Godebert tradition).
 - **Hunter & Traherne (1852)** — “Copies of the original charters of the family of de la Roche,” *Archaeologia Cambrensis* (**1852**; pagination **258–271** or **267–268** by catalogue) — charter basis for the **Pembrokeshire** dynasty (context on the [topic](../topics/adam-de-rupe.md)).
 - **Burke (1866)** — *Dormant … Peerages*, p. **454**, quoted in [Wikipedia — David Roche, 7th Viscount Fermoy](../sources/corpus/wikipedia-david-roche-7th-viscount-fermoy/extracted.web.md) footnotes: Adam **1196**, FitzStephen, **Roch Castle**.
-- [Burke’s *History of Commoners* (1833) via Roche of Limerick extract](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus PDF extract](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/extracted.pdf.md): John of Castletown **“descended from the Viscounts Fermoy.”**
+- [Burke’s *History of Commoners* (1833) via Roche of Limerick extract](../sources/roche-of-limerick-forgotten-victorians.md) · [PDF extract](../sources/corpus/roche-of-limerick-forgotten-victorians/extracted.pdf.md): John of Castletown **“descended from the Viscounts Fermoy.”**
 - [JCHAS PDF — Donnelly (1936 instalment)](https://corkhist.ie/wp-content/uploads/jfiles/1936/b1936-005.pdf): **record-based** Munster lords (Carew, Book of Fermoy).
 - [Lewis, Castletown-Roche (1837)](../sources/corpus/lewis-topographical-castletown-roche-1837/extracted.web.md): siege and confiscation at the **Irish** seat.
 - Image credits: [media/context/ireland-adam-de-rupe/CREDITS.md](../media/context/ireland-adam-de-rupe/CREDITS.md).

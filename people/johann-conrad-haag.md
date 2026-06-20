@@ -19,6 +19,6 @@ Johann Conrad Haag was the father of [Hans Conrad Haag](hans-conrad-haag.md) (b.
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6F83-6YDJ | Named as father in son's baptism, 24 Jun 1742, Hüttwilen | [corpus](../sources/corpus/1742-baptism-hans-conrad-haag-hüttwilen/reference.md) |
+| 6F83-6YDJ | Named as father in son's baptism, 24 Jun 1742, Hüttwilen | [reference](../sources/corpus/1742-baptism-hans-conrad-haag-hüttwilen/reference.md) |

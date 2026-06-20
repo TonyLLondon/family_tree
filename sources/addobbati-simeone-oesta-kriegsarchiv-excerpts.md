@@ -1,6 +1,6 @@
 # Simeone Addobbati — Kriegsarchiv / ÖStA excerpt scans (PNG)
 
-**Corpus bundle:** [corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/](corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/) — `source.yaml` + searchable transcript [extracted.pdf.md](corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/extracted.pdf.md).
+**Source record:** [full record](corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/) — `source.yaml` + searchable transcript [extracted.pdf.md](corpus/addobbati-simeone-oesta-kriegsarchiv-excerpts/extracted.pdf.md).
 
 **Canonical images (repo):**
 

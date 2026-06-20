@@ -42,4 +42,4 @@ She married [Johan Jacob Eylandt](johan-jacob-eylandt.md) on **27 December 1799*
 ## Open questions
 
 - **Cause of death** at 43 (childbirth complications vs. epidemic year in Tallinn — the 1823 mortality lists may clarify).
-- **Louise Maria Eylandt Antonow** (b. 1811, Fellin; d. 1849, St Petersburg) — born in Fellin a year before Emilie Ida; could be a sister or cousin. See [corpus reference](../sources/corpus/fs-estonia-church-books-eylandt-busse/reference.md#louise-maria-eylandt-antonow--death-st-petersburg).
+- **Louise Maria Eylandt Antonow** (b. 1811, Fellin; d. 1849, St Petersburg) — born in Fellin a year before Emilie Ida; could be a sister or cousin. See [reference](../sources/corpus/fs-estonia-church-books-eylandt-busse/reference.md#louise-maria-eylandt-antonow--death-st-petersburg).

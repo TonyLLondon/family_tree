@@ -13,7 +13,7 @@ language: French
 
 Official Ambassade de France en Iran commemorative brochure (300 copies printed in Iran, September 2020) covering the history of the French Residence in Tehran from the 1891 land grant to the present. In French.
 
-**Corpus bundle:** [`corpus/ambassade-france-iran-residence/`](corpus/ambassade-france-iran-residence/) — `original.pdf`, `extracted.pdf.md`, `source.yaml`.
+**Source record:** [full record](corpus/ambassade-france-iran-residence/) — `original.pdf`, `extracted.pdf.md`, `source.yaml`.
 
 ## Key passage — the unnamed arsenal engineer (almost certainly Julien Bottin)
 

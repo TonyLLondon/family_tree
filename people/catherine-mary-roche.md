@@ -17,14 +17,15 @@ children:
 
 # Catherine Mary Roche
 
-Daughter of **[William Roche](william-roche.md)**, **Crown Solicitor for the County and City of Limerick**, and **[Eliza Knight](eliza-knight.md)**, co-heiress of "— Knight, Esq." Born in Dublin into one of Victorian Ireland's prominent Catholic legal families, Catherine married military surgeon **[William O'Byrne White](william-obyrne-white.md)** in **Bombay** in 1869 and spent her widowed decades at **Denny Street, Tralee** — Kerry light after India heat.
+Daughter of **[William Roche](william-roche.md)**, **Crown Solicitor for the County and City of Limerick**, and **[Eliza Knight](eliza-knight.md)**, co-heiress of "— Knight, Esq." Born in Dublin into one of Victorian Ireland's prominent Catholic legal families, Catherine married military surgeon **[William O'Byrne White](william-obyrne-white.md)** in **Bombay** in 1869 and spent **nearly two decades in India** at his army postings — notably **Jubbulpore**, where newspaper notices record her as **"wife of"** the station surgeon for successive births, including [Gerald](gerald-sebastian-white.md) in **February 1878**. Widowed decades followed at **Denny Street, Tralee** — Kerry light after India heat.
 
 Her siblings married into the highest ranks of the Irish legal and medical professions: one sister married the Crown Solicitor for Galway, another married a County Court Judge, a third married a J.P., and her brother became Professor of Medical Jurisprudence at the Catholic University. Catherine's own son [Gerald Sebastian White](gerald-sebastian-white.md) continued the family's legal-imperial pattern as Registrar of the High Court of Madras (OBE, 1938).
 
 ## Life
 
 - **1841** — Born **Dublin**.
-- **8 Feb 1869** — Marriage **Bombay Presidency, India** to [William O'Byrne White](william-obyrne-white.md), officiated by Bishop Leo Meurin SJ, Vicar Apostolic of Bombay.
+- **8 Feb 1869** — Marriage **Bombay Presidency, India** to [William O'Byrne White](william-obyrne-white.md), officiated by Bishop Leo Meurin SJ, Vicar Apostolic of Bombay. Announced in the *Wexford Independent*, 13 March 1869 ([transcription](../sources/corpus/1869-wexford-independent-obyrne-white-marriage-bombay/transcription.md)).
+- **1869–1885** — **India** with William's Army Medical Department postings. The couple's vital events run through **Jubbulpore** while he served as **station staff surgeon** to the **2nd Battalion, Royal Scots** at brigade headquarters ([FIBIS — Jubbulpore](../sources/fibis-jubbulpore.md); battalion at Jubbulpore from **1 March 1877** per [Royal Scots records](../sources/corpus/1878-1880-royal-scots-records-2nd-bn-afghan-detention-jubbulpore/transcription.md)). Newspaper notices name **"wife of … White"** at the station for successive births; son [Gerald](gerald-sebastian-white.md) **12 February 1878** — *"Feb. 12, at Jubbulpore, wife of Surg.-Major W. O'Byrne White, son"* ([*Homeward Mail*, 11 March 1878](../sources/corpus/1878-homeward-mail-obyrne-white-gerald-birth-jubbulpore/transcription.md)). Earlier children at the same station include one born c. September 1873 (*Irish Times*, 2 October 1873) and another March 1875 (*Indian Statesman*, 19 March 1875); infant "Tommie" died 1874 ([*Allen's Indian Mail*](../sources/corpus/1874-allens-indian-mail-obyrne-white-child-death-jubbulpore/transcription.md)). Gerald's birth preceded the Afghan-war **detention** of the Royal Scots (telegram **21 October 1878**); Catherine remained in India with William until his **1885 retirement** to Tralee.
 - **1901** — Census: **Denny Street, Tralee Urban**, wife; age 59, birthplace Dublin. See [1901 census transcription](../sources/corpus/ireland-census-1901-34e603dc32/transcription.md).
 - **1911** — Same address; recorded as **Katie**, age 69, birthplace Dublin City; 42 years married, 8 children born alive, 6 still living. See [1911 census transcription](../sources/corpus/census-for-whites-in-1911-in-ireland-20007ea92c/transcription.md).
 - **1937** — Died **Tralee, Kerry** (import + FamilySearch Irish deaths index).
@@ -67,7 +68,17 @@ The 1883 marriage notice for Maria Josephine independently confirms the Burke's 
 
 ## Evidence
 
-- [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/).
+### India years (1869–1885)
+
+- [Wexford Independent, 13 Mar 1869 — marriage at Bombay](../sources/corpus/1869-wexford-independent-obyrne-white-marriage-bombay/transcription.md).
+- [Homeward Mail, 11 Mar 1878 — Gerald's birth at Jubbulpore](../sources/corpus/1878-homeward-mail-obyrne-white-gerald-birth-jubbulpore/transcription.md) — "wife of Surg.-Major W. O'Byrne White."
+- [Allen's Indian Mail, 10 Oct 1874 — infant death at Jubbulpore](../sources/corpus/1874-allens-indian-mail-obyrne-white-child-death-jubbulpore/transcription.md).
+- [*Regimental Records of the Royal Scots* — 2nd Bn Jubbulpore, 1877–1880](../sources/corpus/1878-1880-royal-scots-records-2nd-bn-afghan-detention-jubbulpore/transcription.md) · [William O'Byrne White](william-obyrne-white.md).
+- [FIBIwiki — Jubbulpore](../sources/fibis-jubbulpore.md).
+
+### Roche ancestry and Tralee
+
+- [Roche of Limerick — Forgotten Victorians (Burke's 1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [full record](../sources/corpus/roche-of-limerick-forgotten-victorians/).
 - [William Roche — full evidence list](william-roche.md) (obituary, Crown Solicitor appointment, sibling marriages).
 - **Tree id:** **I136** — union **F67** with William.
 

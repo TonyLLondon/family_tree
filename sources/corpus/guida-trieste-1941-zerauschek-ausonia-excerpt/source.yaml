@@ -1,0 +1,16 @@
+id: guida-trieste-1941-zerauschek-ausonia-excerpt
+title: "Guida Trieste 1941 (excerpt) — Ausonia / via Corsica, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/Guida_TS-1941/Guida_TS-1941_text.pdf
+  webpage_url: https://archive.org/details/Guida_TS-1941
+fetches:
+- kind: pdf
+  at: '2026-06-19T10:00:00Z'
+  remote_url: https://archive.org/download/Guida_TS-1941/Guida_TS-1941_text.pdf
+  sha256: 4312e5cfd506106cc95e71ff8e5510acb8848042cb0946aaec1fe4c55986f02c
+  bytes: 137768
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1941-zerauschek-ausonia-excerpt.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1941-zerauschek-ausonia-excerpt.pdf
+  page_image: media/docs/internet-archive/zerauschek/guida-trieste-1941-zerauschek-ausonia-page.png
+  transcription_it: transcription-ausonia-1941.it.md

@@ -1,0 +1,16 @@
+id: gazzetta-ufficiale-1933-10-31-manifattura-zaratina-rename
+title: "Gazzetta Ufficiale (1933-10-31) — Manifattura Zaratina rename, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/19331031_253/19331031_253.pdf
+  webpage_url: https://archive.org/details/19331031_253
+fetches:
+- kind: pdf
+  at: '2026-06-19T09:00:00Z'
+  remote_url: https://archive.org/download/19331031_253/19331031_253.pdf
+  sha256: 3fed6ba00be0639e29732255c629719cab11c634bfeb54215eca8d6ea642d3cf
+  bytes: 7054199
+  media_reference: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1933-10-31-manifattura-zaratina.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1933-10-31-manifattura-zaratina.pdf
+  page_image: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1933-10-31-manifattura-zaratina-page.png
+  transcription_it: transcription-manifattura-zaratina-rename-1933.it.md

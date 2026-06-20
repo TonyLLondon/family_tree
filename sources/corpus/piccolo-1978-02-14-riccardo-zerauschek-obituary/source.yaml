@@ -1,0 +1,17 @@
+id: piccolo-1978-02-14-riccardo-zerauschek-obituary
+title: "Il Piccolo (1978-02-14) — Riccardo Zerauschek death notice"
+remote:
+  primary_pdf_url: https://archive.org/download/Piccolo_1978-02-14/Piccolo_1978-02-14.pdf
+  webpage_url: https://archive.org/details/Piccolo_1978-02-14
+fetches:
+- kind: pdf
+  at: '2026-06-19T09:00:00Z'
+  remote_url: https://archive.org/download/Piccolo_1978-02-14/Piccolo_1978-02-14.pdf
+  sha256: 0ae68a62d9b864b598c6ba27127eb0c2a2142326315395d7e48c9696821bb235
+  bytes: 16041801
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1978-02-14.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1978-02-14.pdf
+  page_image: media/docs/internet-archive/zerauschek/piccolo-1978-02-14-riccardo-zerauschek-obituary.png
+  transcription_it: transcription-riccardo-zerauschek-obituary-piccolo-1978.it.md
+  translation_en: translation-riccardo-zerauschek-obituary-piccolo-1978.en.md

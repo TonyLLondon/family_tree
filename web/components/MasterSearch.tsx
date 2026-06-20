@@ -67,7 +67,7 @@ export function MasterSearch({ items }: { items: BrowseItem[] }) {
           id="master-search"
           type="search"
           autoComplete="off"
-          placeholder="Search people, sources, stories, corpus, research…"
+          placeholder="Search people, sources, stories, topics, research…"
           value={q}
           onChange={(e) => setQ(e.target.value)}
           onFocus={() => needle && setOpen(true)}

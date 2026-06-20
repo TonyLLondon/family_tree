@@ -27,5 +27,5 @@ The list is populated with many Irish names — O'Brien, O'Reilly, MacSwiney, Mc
 
 - [Army Medical Department half-pay register](army-medical-department-half-pay-register.md) — rank progression dates
 - [people/william-obyrne-white.md](../people/william-obyrne-white.md)
-- [corpus/maltaramc-obrien-henry-joseph/](corpus/maltaramc-obrien-henry-joseph/) — comparable Irish AMD officer (1865 entry, same retirement rank)
-- [corpus/maltaramc-maunsell-thomas/](corpus/maltaramc-maunsell-thomas/) — Thomas Maunsell, Dingle/Kerry, AMD, Cecilia Street → Surgeon General
+- [full record](corpus/maltaramc-obrien-henry-joseph/) — comparable Irish AMD officer (1865 entry, same retirement rank)
+- [full record](corpus/maltaramc-maunsell-thomas/) — Thomas Maunsell, Dingle/Kerry, AMD, Cecilia Street → Surgeon General

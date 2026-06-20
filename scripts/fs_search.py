@@ -63,7 +63,7 @@ WAYPOINT_URL = "https://www.familysearch.org/platform/records/waypoints"
 DEEPZOOM_URL = "https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dz/v1"
 
 # ── Paste fresh token here - fssessionid ───────────────────────────────────────────────────
-FS_BEARER_TOKEN = "p0-IiLlx86~oU7.SBDXaV5eYnr"
+FS_BEARER_TOKEN = "p0-qwBHftkWqIk.rK9BZS6n3bq"
 
 _BROWSER_UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "

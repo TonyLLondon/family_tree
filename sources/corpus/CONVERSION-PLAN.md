@@ -14,7 +14,7 @@
 | `scripts/ingest_source.py` `pdf` | Copies/fetches PDF → `original.pdf`, runs **pymupdf4llm** → `extracted.pdf.md`, updates `source.yaml`. |
 | `scripts/ingest_source.py` `web` | **trafilatura** → `extracted.web.md` from `mirror.html`. |
 | `media/**` | Most evidence PDFs live here **without** corpus bundles. |
-| `sources/corpus/levantine-freemasonry/` | Remote-fetch example (`corpus/.../original.pdf` + extract). |
+| `sources/corpus/cemoti-intro19-footnote-url/` | Remote-fetch example (`corpus/.../original.pdf` + extract). |
 
 **Gaps:** single engine for PDFs; no batch path from `media/` slugs; no OCR path for scans; no human QA checklist; web extract fails on JS-heavy sites.
 

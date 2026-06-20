@@ -57,7 +57,7 @@ Daughter of [Anna Saginian](anna-saginian.md) and [Edward Burgess](edward-burges
 
 ## Evidence
 
-- [Henderson FBB Timeline (1854–1938)](../sources/henderson-fbb-timeline.md) — chronological life outline compiled from family papers ([corpus](../sources/corpus/henderson-fbb-timeline/)).
+- [Henderson FBB Timeline (1854–1938)](../sources/henderson-fbb-timeline.md) — chronological life outline compiled from family papers ([full record](../sources/corpus/henderson-fbb-timeline/)).
 - [NYPL Burgess papers](../sources/nypl-burgess-papers.md) — "Fanny Burgess Bottin."
 - [Grave marker scan (1938, age 84)](../media/docs/Grave%20marker%20Fanny%20Burgess%20Bottin%20died%201938%20aged%2084.jpg).
 - [Henderson — Teheran 1896 Fanny, Julien & Family](../media/albums/henderson/Teheran%201896%20Fanny,%20Julien%20&%20Family.jpg).

@@ -1,0 +1,16 @@
+id: piccolo-1914-01-01-zerauschek-luxardo-ad
+title: "Il Piccolo (1914-01-01) — Luxardo & Antonio Zerauschek, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/Piccolo_1914-01-01/Piccolo_1914-01-01.pdf
+  webpage_url: https://archive.org/details/Piccolo_1914-01-01
+fetches:
+- kind: pdf
+  at: '2026-06-19T09:00:00Z'
+  remote_url: https://archive.org/download/Piccolo_1914-01-01/Piccolo_1914-01-01.pdf
+  sha256: 7acb0338db85e32677a2a56a8fe2d8086905f0e3dc02bfe8e0052ac5304f9000
+  bytes: 10032128
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1914-01-01.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1914-01-01.pdf
+  page_image: media/docs/internet-archive/zerauschek/piccolo-1914-01-01-zerauschek-luxardo-page.png
+  transcription_it: transcription-zerauschek-luxardo-1914.it.md

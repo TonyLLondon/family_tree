@@ -1,0 +1,21 @@
+id: camdencen-somerstown-neighbourhood-planning-2012-03-05
+title: "Somers Town neighbourhood planning meeting minutes — Helia Evans (Ossulston TRA), 5 Mar 2012"
+author: "Donna Turnbull, Voluntary Action Camden"
+date: 2012-03-05
+language: en
+description: >
+  Minutes of the Somerstown Neighbourhood Planning Project planning meeting at
+  Somerstown Community Centre. Helia Evans attended as representative of the
+  Ossulston Tenants and Residents Association; active in outreach, governance
+  debate, and working-group assignments.
+remote:
+  webpage_url: http://camdencen.org.uk/downloads/Neighbourhood%20planning/SomersTown/SOMERSTOWN%20&%20ST%20PANCRAS%20SHADOW%20FORUM%20PLANNING%20MEETING_FINAL_05.03.2012.pdf
+fetches:
+  - kind: pdf
+    at: "2026-06-19T23:15:00Z"
+    repo_path: media/docs/camdencen-somerstown-neighbourhood-planning-meeting-2012-03-05.pdf
+    bytes: 302793
+files:
+  media_reference: media/docs/camdencen-somerstown-neighbourhood-planning-meeting-2012-03-05.pdf
+  reference_md: reference.md
+  transcription_md: transcription.md

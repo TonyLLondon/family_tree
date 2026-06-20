@@ -1,6 +1,5 @@
 import type { BrowseItem } from "@/components/BrowseGrid";
 import {
-  getCorpusSlugs,
   getManualSegmentLists,
   getStorySlugs,
   getPeopleSlugs,
@@ -9,7 +8,6 @@ import {
   getTopicSlugs,
 } from "@/lib/content";
 import {
-  readCorpusCard,
   readStoryCard,
   readResearchOrManualCard,
   readSourceCardTitle,
@@ -18,6 +16,7 @@ import {
   titleFromSlug,
 } from "@/lib/browse";
 import { getPersonBySlug, loadFamilyTree } from "@/lib/tree";
+import { getAllSourcePageSlugs, resolveSource } from "@/lib/sourceResolver";
 
 const CATEGORY_ORDER = [
   "Home",
@@ -26,7 +25,6 @@ const CATEGORY_ORDER = [
   "Story",
   "Topic",
   "Source",
-  "Corpus",
   "Research",
   "Manual",
 ] as const;
@@ -91,9 +89,31 @@ export function getSiteSearchItems(): BrowseItem[] {
     });
   }
 
+  const seenSourceHrefs = new Set<string>();
+
+  for (const slug of getAllSourcePageSlugs()) {
+    const source = resolveSource(slug);
+    if (!source) continue;
+    const href = `/sources/${encodeURIComponent(slug)}`;
+    if (seenSourceHrefs.has(href)) continue;
+    seenSourceHrefs.add(href);
+    const parts: string[] = [];
+    if (source.blurb) parts.push(source.blurb);
+    items.push({
+      id: `source:${href}`,
+      title: source.title,
+      subtitle: parts.length ? parts.join(" · ") : undefined,
+      href,
+      meta: "Source",
+    });
+  }
+
   for (const segs of getSourceSegmentLists()) {
+    if (segs.length < 2) continue;
     const { title, blurb } = readSourceCardTitle(segs);
     const href = `/sources/${segs.map(encodeURIComponent).join("/")}`;
+    if (seenSourceHrefs.has(href)) continue;
+    seenSourceHrefs.add(href);
     const pathHint = segs.join("/");
     items.push({
       id: `source:${href}`,
@@ -101,17 +121,6 @@ export function getSiteSearchItems(): BrowseItem[] {
       subtitle: blurb ? `${blurb} · ${pathHint}` : pathHint,
       href,
       meta: "Source",
-    });
-  }
-
-  for (const slug of getCorpusSlugs()) {
-    const { title, blurb } = readCorpusCard(slug);
-    items.push({
-      id: `corpus:${slug}`,
-      title,
-      subtitle: blurb || undefined,
-      href: `/corpus/${encodeURIComponent(slug)}`,
-      meta: "Corpus",
     });
   }
 

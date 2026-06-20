@@ -1,7 +1,7 @@
 # Chilean CERPA Lineage Extension 2026
 
 **Date:** 11 April 2026  
-**Corpus:** [chile-cerpa-line-extension-2026](corpus/chile-cerpa-line-extension-2026/)  
+**Source record:** [chile-cerpa-line-extension-2026](corpus/chile-cerpa-line-extension-2026/)  
 **Kind:** genealogical research
 
 ## Summary

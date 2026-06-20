@@ -53,7 +53,7 @@ Fulvia was the family's memory-keeper. In **September 1996** she dictated a **se
 - Topic: [The Lewis lace collection](../topics/lewis-lace-collection.md) — 674 antique laces sold to Trento (2006).
 - Topic: [The Esuli Dalmati](../topics/esuli-dalmati-zara-exile.md) — the Italian Dalmatian exodus that displaced the Zerauschek family.
 - [Fulvia at Villa Ester (photo)](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png).
-- Father's obituary (*Difesa Adriatica*, 1973): [scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg) · [transcript + English](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md).
+- Father's obituary (*Difesa Adriatica*, 1973): [scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg) · [transcript + English](../sources/corpus/difesa-adriatica-1973-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md).
 - [Adolfobati family portrait (caption references Zerauschek line)](../media/docs/Adolfobati%20family%20portrait%20nine%20Ottilie%20Piero%20Vittoria%20Pietro%20Ester%20Nonna%20caption.jpeg).
 - **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) — seven pages dictated to Peter, 18 & 24 Sep 1996.
 - **NonnaNotes (11 Jan 2000):** [media/docs/fulvia-family-tree-file/NonnaNotes110100/page-1.jpg](../media/docs/fulvia-family-tree-file/NonnaNotes110100/page-1.jpg) — handwritten note on Sabalich *Zara Archeologica* (1897): Addobbati dates in that source refer to nominations/honours, not births.

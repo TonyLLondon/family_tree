@@ -6,6 +6,12 @@ fetches:
   sha256: 6665af4f3b2ee15a348b7c4a4a3a2a05ba2f81c099bc78ccb7a9ecc89396a14a
   bytes: 7568899
   media_reference: manual/Ethnicitity_identity and nationalism in Iran.pdf
+- kind: pdf
+  at: '2026-05-14T09:19:31Z'
+  sha256: 6665af4f3b2ee15a348b7c4a4a3a2a05ba2f81c099bc78ccb7a9ecc89396a14a
+  bytes: 7568899
+  media_reference: media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf
 files:
   pdf_markdown: extracted.pdf.md
-  media_reference: manual/Ethnicitity_identity and nationalism in Iran.pdf
+  media_reference: media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf
+title: Ethnicity, Identity, and the Development of Nationalism in Iran

@@ -21,7 +21,7 @@ The Corporación has since recovered **507 names** (433 Chilean, 74 foreign) of 
 - Many women were subjected to sexual violence
 - The Corporación installed copper plaques with prisoners' names in the changing room
 
-## Corpus bundles
+## Source records
 
 - **Primary:** [sources/corpus/cambio21-405-mujeres-estadio-nacional-2018/](../sources/corpus/cambio21-405-mujeres-estadio-nacional-2018/) — article text, machine extract, translation
 - **Syndication:** [sources/corpus/cctt-mujeres-estadio-nacional-2018/](../sources/corpus/cctt-mujeres-estadio-nacional-2018/) — Correo de los Trabajadores republication (includes Marcelo Montecino photograph)

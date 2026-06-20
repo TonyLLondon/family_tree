@@ -49,8 +49,8 @@ children:
 
 **Primary Sources:**
 - **Marriage evidence:** Hans Ulrich Jung × Margreth Mockh with Johannes Jung as his father and Johannes Mockh as her father · FamilySearch FVNZ-2FY
-- **Father's records:** Johannes Jung baptism (1667) and death (1726) in Sulgen · [corpus](../sources/corpus/johannes-jung-baptism-1667/reference.md)
-- **Daughter's baptism record:** Anna Margreth Jung, 5 Apr 1731, Sulgen, parents Hanss Ulrich Jung & Margreth Mockh · [corpus](../sources/corpus/anna-margaretha-jung-baptism-1731/reference.md) · FamilySearch FVKB-MRS
+- **Father's records:** Johannes Jung baptism (1667) and death (1726) in Sulgen · [reference](../sources/corpus/johannes-jung-baptism-1667/reference.md)
+- **Daughter's baptism record:** Anna Margreth Jung, 5 Apr 1731, Sulgen, parents Hanss Ulrich Jung & Margreth Mockh · [reference](../sources/corpus/anna-margaretha-jung-baptism-1731/reference.md) · FamilySearch FVKB-MRS
 
 ## Research Notes (2026-04-11)
 

@@ -7,7 +7,7 @@ family_tree_person_id: GJ1B-GS3
 
 # FamilySearch Family Tree — Pérez / Cerpa, Maule, Chile
 
-This bundle documents **FamilySearch Family Tree** (the collaborative, user-editable tree on FamilySearch), **not** an indexed historical record from civil or parish registers. Assertions here are **secondary**: they reflect what contributors have entered and linked on the platform. They do **not** replace Chilean civil-registry or parish images and should be superseded when primary evidence is transcribed into a dedicated corpus entry.
+This bundle documents **FamilySearch Family Tree** (the collaborative, user-editable tree on FamilySearch), **not** an indexed historical record from civil or parish registers. Assertions here are **secondary**: they reflect what contributors have entered and linked on the platform. They do **not** replace Chilean civil-registry or parish images and should be superseded when primary evidence is transcribed into a dedicated source page.
 
 ## What the tree provides (as used in this vault)
 
@@ -28,13 +28,13 @@ The collaborative tree gives Laurencia’s birth as **1912**. An earlier working
 ## Reliability
 
 - **User-contributed and unverified** — merges, guesses, and imported GEDCOMs are common.
-- **Replace with primary evidence** — Chilean civil registers and parish books (with corpus `reference.md` transcriptions) should be cited instead when they confirm or correct names, dates, and relationships.
+- **Replace with primary evidence** — Chilean civil registers and parish books (with indexed transcriptions on the matching **Sources** pages) should be cited instead when they confirm or correct names, dates, and relationships.
 
 ## People pages citing this source
 
 - [Francisco Antonio Pérez Avejares](../../../people/francisco-antonio-perez-i350.md) — birth year 1882, second surname Avejares (via Tree ID **GJ1B-GS3**).
 - [Laurencia del Carmen Pérez Escobar](../../../people/laurencia-perez-escobar-i347.md) — birth 1912 vs former 1910 working date; frontmatter `familysearch: GJ1B-GS3`.
 
-## Related (primary) corpus work
+## Related primary records
 
 - [1879 baptism — Francisco Antonio Pérez, Parral](../1879-baptism-francisco-antonio-perez-parral/reference.md) — indexed parish record (possible identity match; parents not yet reconciled with tree).

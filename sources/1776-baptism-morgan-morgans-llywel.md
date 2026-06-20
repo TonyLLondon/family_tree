@@ -9,6 +9,6 @@ kind: baptism
 
 Probable baptism of William Morgan's father. Three-generation patronymic chain: Morgan → Morgan Morgans → William Morgan.
 
-**Transcription:** [corpus/1776-baptism-morgan-morgans-llywel/transcription.md](corpus/1776-baptism-morgan-morgans-llywel/transcription.md)
+**Transcription:** [transcription.md](corpus/1776-baptism-morgan-morgans-llywel/transcription.md)
 
 **People:** [Morgan Morgans](../people/morgan-morgans-llywel.md) (I659).

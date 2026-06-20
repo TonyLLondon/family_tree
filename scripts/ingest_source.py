@@ -13,6 +13,12 @@ Ingest remote or local sources into sources/corpus/<slug>/ with provenance in so
     --file media/albums/henderson/Bottin\\ Contract.pdf \\
     --title "..."
 
+  # Same pattern, spaces in filename (PDF stays in media/; corpus stores media_reference only):
+  python scripts/ingest_source.py pdf \\
+    --slug yaghoubian-2014-ethnicity-identity-nationalism-iran \\
+    --file "media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf" \\
+    --title "Ethnicity, Identity, and the Development of Nationalism in Iran"
+
   # Web page → mirror.html + extracted.web.md
   python scripts/ingest_source.py web --slug connections-saginian-interview \\
     --url https://connectionsbmc.wordpress.com/2013/01/14/134/ \\

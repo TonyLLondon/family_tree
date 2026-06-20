@@ -1,0 +1,15 @@
+id: guida-trieste-1940-zerauschek-ausonia-excerpt
+title: "Guida Trieste 1940 (excerpt) — Ausonia / A. Zerauschek, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/Guida_TS-1940/Guida_TS-1940_text.pdf
+  webpage_url: https://archive.org/details/Guida_TS-1940
+fetches:
+- kind: pdf
+  at: '2026-06-18T18:11:00Z'
+  note: "Excerpt pages 2098–2112 cut from IA text-layer PDF (printed pp. ~2100–2110); full directory is ~1.2 GB image scan on IA."
+  sha256: 06c97067b46d4db771d692869464412c69fdafd5c6cdbb8df457b410386c27f3
+  bytes: 2411724
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1940-zerauschek-ausonia-excerpt.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1940-zerauschek-ausonia-excerpt.pdf
+  transcription_it: transcription-ausonia-zerauschek-1940.it.md

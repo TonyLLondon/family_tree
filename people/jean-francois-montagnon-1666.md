@@ -37,9 +37,9 @@ The surname Montagnon is concentrated in the Isère (Dauphiné) and Ardèche (Vi
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6NQK-Q676 | Baptism — "François Montagnon," 22 Dec 1667, father Jean Montagnon | [corpus](../sources/corpus/1667-baptism-francois-montagnon/reference.md) |
+| 6NQK-Q676 | Baptism — "François Montagnon," 22 Dec 1667, father Jean Montagnon | [reference](../sources/corpus/1667-baptism-francois-montagnon/reference.md) |
 | 6NQ2-1RZ1 | Burial — Jean François Montagnon, 15 Sep 1732, Aubonne, b. 1666 | — |
-| 6NQ2-2PNZ | Burial — wife Jeane Marechal Montagnon, 11 Jul 1742, Aubonne | [corpus](../sources/corpus/1742-burial-jeane-marechal-montagnon-aubonne/reference.md) |
-| 6NQK-XSP4 | Baptism — sister Elisabet Montagnon, 7 Nov 1670, father Jean Montagnon | [corpus](../sources/corpus/1670-baptism-elisabet-montagnon/reference.md) |
+| 6NQ2-2PNZ | Burial — wife Jeane Marechal Montagnon, 11 Jul 1742, Aubonne | [reference](../sources/corpus/1742-burial-jeane-marechal-montagnon-aubonne/reference.md) |
+| 6NQK-XSP4 | Baptism — sister Elisabet Montagnon, 7 Nov 1670, father Jean Montagnon | [reference](../sources/corpus/1670-baptism-elisabet-montagnon/reference.md) |

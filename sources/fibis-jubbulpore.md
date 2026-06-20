@@ -9,7 +9,7 @@ people:
 # FIBIwiki — Jubbulpore
 
 **URL:** https://wiki.fibis.org/w/Jubbulpore
-**Corpus:** [sources/corpus/fibis-jubbulpore/](corpus/fibis-jubbulpore/)
+**Source record:** [full record](corpus/fibis-jubbulpore/)
 
 Families in British India Society (FIBIS) wiki article on Jubbulpore (Jabalpur), the cantonment and city where **Gerald Sebastian White** was born on 12 February 1878.
 

@@ -22,7 +22,7 @@ If the 1851 census Samuel Martin in Woolwich is the same man, he was a widower b
 
 ## Evidence
 
-- **Parish baptism** — Peter Martin, baptised 23 Feb 1840, Bexley. Mother: Marianne. [FMP: R_870887198](https://www.findmypast.co.uk/transcript?id=R_870887198). [Source bundle](../sources/corpus/1840-bexley-baptism-peter-martin/reference.md).
+- **Parish baptism** — Peter Martin, baptised 23 Feb 1840, Bexley. Mother: Marianne. [FMP: R_870887198](https://www.findmypast.co.uk/transcript?id=R_870887198). [Reference](../sources/corpus/1840-bexley-baptism-peter-martin/reference.md).
 
 ## Open questions
 

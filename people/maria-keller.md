@@ -19,6 +19,6 @@ Maria Keller was the wife of [Hans Jacob Jung](hans-jacob-jung.md) and mother of
 
 ## Evidence
 
-| Record | Event | Corpus |
-|--------|-------|--------|
-| FVKB-M51 | Named as mother in daughter's baptism, 24 Jul 1735, Sulgen | [corpus](../sources/corpus/1735-baptism-margaretha-jung-sulgen/reference.md) |
+| Record | Event | Reference |
+|--------|-------|-----------|
+| FVKB-M51 | Named as mother in daughter's baptism, 24 Jul 1735, Sulgen | [reference](../sources/corpus/1735-baptism-margaretha-jung-sulgen/reference.md) |

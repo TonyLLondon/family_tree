@@ -16,7 +16,7 @@ The 2010 Ministerio del Interior transparency release of *exonerados políticos*
 
 > *CERPA PEREZ HELIA DEL CARMEN — SERV.DE REGISTRO CIVIL E IDENTIF. — 16/04/1974* — **Helia Cerpa Pérez, Civil Registry and Identification Service, dismissed 16 April 1974.**
 
-**Source:** [corpus](../sources/corpus/2010-transparencia-exonerados-politicos-julio/source.yaml); [citation card](../sources/exonerados-politicos-transparencia-2010.md).
+**Source:** [source record](../sources/corpus/exonerados-politicos-transparencia-2010/source.yaml); [citation card](../sources/exonerados-politicos-transparencia-2010.md).
 
 ---
 
@@ -40,7 +40,7 @@ The list of women who passed through that bowl was kept by the **Corporación Es
 
 > *CERPA PEREZ HELIA DEL C* — between *CEBALLOS AREVENA ALEJANDR* and *CESPEDES LAVERGUE SILVIA X.* — **Helia del Carmen Cerpa Pérez, one of 405 women named.**
 
-**Source:** [corpus](../sources/corpus/cambio21-405-mujeres-estadio-nacional-2018/source.yaml); [citation card](../sources/estadio-nacional-mujeres-detenidas-2018.md).
+**Source:** [source record](../sources/corpus/cambio21-405-mujeres-estadio-nacional-2018/source.yaml); [citation card](../sources/estadio-nacional-mujeres-detenidas-2018.md).
 
 ---
 
@@ -96,7 +96,7 @@ Inside the booklet, on **page 12** of the ***Sexto listado*** dated **15 July 19
 
 Under international pressure the lists shrank year by year; on **1 September 1988**, **Decreto Nº 203** lifted the entry ban for the last **512** people on them. The timing was deliberate — registration for the plebiscite of **5 October** had already closed, so the people who had been kept out of Chile for years could finally come home but could not vote on whether the general who had exiled them would stay in power.
 
-**Sources:** [corpus](../sources/corpus/1985-cartilla-retornado-3-prohibicion-ingreso/source.yaml); [citation card](../sources/cartilla-retornado-prohibicion-ingreso-1985.md).
+**Sources:** [source record](../sources/corpus/cartilla-retornado-prohibicion-ingreso-1985/source.yaml); [citation card](../sources/cartilla-retornado-prohibicion-ingreso-1985.md).
 
 ---
 

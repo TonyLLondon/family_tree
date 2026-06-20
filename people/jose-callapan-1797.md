@@ -56,6 +56,6 @@ This family demonstrates that **indigenous communities were systematically docum
 
 ## Sources
 
-- [Martín José Callapan baptism (1797)](../sources/corpus/fs-6d5z-j9vz-jose-callapan-manuela-millacoyan-baptism-1797/)
+- [Martín José Callapan baptism (1797)](../sources/corpus/jose-callapan-manuela-millacoyan-baptism-1797/)
 - Chile Catholic Church Records, 1633-2015  
 - Record ID: 6D5Z-J9VZ

@@ -21,5 +21,5 @@ The same baptism is independently attested by **DAZD HR-DAZD-342 sig. 52** (a 23
 ## Cross-references
 
 - DAZD family fonds (HR-DAZD-342) — [dazd-addobbati-family-fonds.md](dazd-addobbati-family-fonds.md).
-- Sabalich p. 505 (Addobbati civic résumé) — [sabalich-guida-zara.md](sabalich-guida-zara.md) → [corpus/sabalich-guida-zara-addobbati/](corpus/sabalich-guida-zara-addobbati/).
+- Sabalich p. 505 (Addobbati civic résumé) — [sabalich-guida-zara.md](sabalich-guida-zara.md) → [full record](corpus/sabalich-guida-zara/).
 - Narrative — [stories/addobbati-dalmatian-habsburg.md](../stories/addobbati-dalmatian-habsburg.md).

@@ -35,5 +35,5 @@ Geralda Rovero Brizzi was the wife of [Pietro Paolo Addobbati](pietro-paolo-addo
 ## Evidence
 
 - **Tree id:** **I24** — unions **F12**, **F26**; **@S12@** "Gerarda Rovero Brizzi"; MyHeritage **Geni** URL in **SOUR**.
-- **Birth register, Entry 107, 12 Jul 1825:** primary-source transcription — parents' names, occupations, marriage date, godparents, and marginal death annotation — [corpus](../sources/corpus/1825-birth-geralda-rovaro-brizzi-zara/reference.md).
-- **Parents' marriage register, Zara, 1821:** [corpus](../sources/corpus/1821-marriage-rovaro-brizzi-castellanich-zara/reference.md) — marriage of Giuseppe Rovaro Brizzi × Anastasia Castellanich (F26 date: 25 Aug 1821).
+- **Birth register, Entry 107, 12 Jul 1825:** primary-source transcription — parents' names, occupations, marriage date, godparents, and marginal death annotation — [reference](../sources/corpus/1825-birth-geralda-rovaro-brizzi-zara/reference.md).
+- **Parents' marriage register, Zara, 1821:** [reference](../sources/corpus/1821-marriage-rovaro-brizzi-castellanich-zara/reference.md) — marriage of Giuseppe Rovaro Brizzi × Anastasia Castellanich (F26 date: 25 Aug 1821).

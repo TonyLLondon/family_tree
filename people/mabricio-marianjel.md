@@ -18,5 +18,5 @@ The civil death **Q2SG-D46H** does **not** name **Mabricio Marianjel** as spouse
 
 ## Sources
 
-- [fs-q2sg-d46h corpus](../sources/corpus/fs-q2sg-d46h-isabel-mora-mabricio-marianjel-death-1888/reference.md) (film is for **I733**, not a Marianjel spouse link)
+- [fs-q2sg-d46h reference](../sources/corpus/mabricio-marianjel-isabel-mora-death-1888/reference.md) (film is for **I733**, not a Marianjel spouse link)
 - [chile-mora-line-evidence-status-2026](../sources/chile-mora-line-evidence-status-2026.md)

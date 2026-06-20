@@ -1,164 +1,156 @@
 ---
 name: mcpbundles-cli
 description: >-
-  Discover and execute third-party API tools via the mcpbundles CLI. Use when
-  the user asks to "call an MCP tool", "use mcpbundles", "list available
-  bundles", "run a bundle tool", "search for tools", execute any mcpbundles
-  command, or interact with services connected through MCPBundles. Also use
-  when you see mcpbundles installed or a named connection configured.
+  Discover and execute MCP server tools via the mcpbundles CLI. Use when
+  the user asks to call MCP tools, use mcpbundles, list MCP servers, search for
+  tools, or interact with services connected through MCPBundles.
 ---
 
-# MCPBundles CLI — Tool Discovery and Execution
+# MCPBundles CLI
 
-The `mcpbundles` CLI connects you to third-party API tools. Tools are organized
-into **bundles** (e.g. `posthog`, `stripe`, `hubspot-crm`). Each bundle groups
-related tools for one service.
+Tools live on **MCP servers** (e.g. `uk-property-intelligence`, `stripe`).
+`mcpbundles tools` without `--server` lists **Hub meta-tools only** (~46).
+Bundle tools (with hash suffixes like `-34a`) require `--server <slug>`.
 
-## Key Concept: Hub vs Bundle
+Run `mcpbundles init` after CLI upgrades to refresh this skill.
 
-There are two layers and you must understand both:
-
-| Layer | What it contains | How to access |
-|-------|-----------------|---------------|
-| **Hub** | Platform tools: `search_tools`, `get_bundles`, `code_execution` | `mcpbundles tools` (no `--bundle` flag) |
-| **Bundle** | Actual service tools for a specific provider | `mcpbundles tools --bundle <slug>` |
-
-**`mcpbundles tools` alone only shows hub-level meta-tools.** The actual service
-tools live on bundle endpoints. You must use `--bundle <slug>` to see them.
-
-## Step 1: Discover Available Bundles
+## Discovery workflow
 
 ```bash
-mcpbundles call get_bundles
+mcpbundles call discover_mcp_servers -- search="property"   # 1. find server slug + preview tools
+mcpbundles tools --server uk-property-intelligence            # 2. list wire slugs (hash suffixes)
+mcpbundles tools uk-property-find-address-34a --server uk-property-intelligence  # 3. full schema
+mcpbundles call uk-property-find-address-34a --server uk-property-intelligence -- postcode="EC1A 1BB" house_number="42" street_or_building="Example Road"
 ```
 
-Returns all enabled bundles with their slugs and tool counts. Filter:
+Alternative schema lookup without `--server`:
 
 ```bash
-mcpbundles call get_bundles -- search="analytics"
+mcpbundles call describe_tool -- tool_slug=uk-property-find-address-34a
+# or: function_name=uk_property_find_address_34a
 ```
 
-## Step 2: Discover Tools in a Bundle
+Load bundle-specific guidance:
 
 ```bash
-mcpbundles tools --bundle <slug>
+mcpbundles call get_skill -- server_slug=uk-property-intelligence
 ```
 
-Filter within a bundle:
+## Arguments
 
 ```bash
-mcpbundles tools --bundle <slug> -f query
+mcpbundles call <tool> --server <slug> -- key=value limit:=5 tags:='["a","b"]'
 ```
 
-Get the full schema for a specific tool (you need the exact name from step 2):
+- **Always use `--`** before key=value args when `--server` is set.
+- **Numeric-looking string fields** (house numbers, IDs): pass as strings —
+  `house_number="11"` not bare `house_number=11`. Or use `house_number:="11"`.
+- **Typed numbers without schema fetch:** `limit:=10` (forces integer).
+- **`--typed-args`** (optional): fetches `tools/list` once to coerce by schema.
+  Avoid by default — adds latency. Use when validation errors persist.
+
+**Local files (bytes upload tools):** pass `@file:` / `@./` on `mcpbundles call` —
+you never base64-encode yourself. The daemon reads the file using your shell cwd.
+Auto-fills `file_name` from the path when omitted. Do not use `exec` or shell base64.
 
 ```bash
-mcpbundles tools <tool-name> --bundle <slug>
+mcpbundles call convert-to-markdown-XXX --server markitdown -- \
+  content_base64=@file:./sample.pdf
+# or shorthand: content_base64=@./sample.pdf
+# or in -f args.json: {"content_base64": "@file:./sample.pdf"}
 ```
 
-## Step 3: Call a Tool
+Max inline size 25 MB; use a URL when the tool supports it for larger files.
+Use `--raw` on `call` when long tool **output** trips Rich formatting (not for uploads).
 
-Two paths — choose based on complexity.
-
-### Path A: Direct Call (`call --bundle`)
-
-Best for simple calls with straightforward arguments.
+For complex/nested JSON, use `exec -f`:
 
 ```bash
-mcpbundles call <tool-name> --bundle <slug>
-mcpbundles call <tool-name> --bundle <slug> -- key=value limit:=5
+mcpbundles exec -f /tmp/script.py    # Python: result = await tool_name(server="slug", ...)
 ```
 
-### Path B: Code Execution (`exec -f`)
+## Multiline and special characters in `content`
 
-Best for complex arguments, chaining multiple calls, or data processing.
-**Write a Python file and pass it with `-f` to avoid shell quoting entirely.**
+Shell `content=$'...\n...'` and many parallel background `mcpbundles call` jobs are unreliable — content can arrive with literal `$` artifacts or empty CLI capture files.
 
-```bash
-cat > /tmp/mcb_query.py << 'PYEOF'
-import json
+- **Prefer `mcpbundles exec -f`** with a short Python script when `content` spans multiple lines, includes quotes, or you need several writes in one process.
+- **Single sequential calls** for stress tests or bulk edits; do not fan out dozens of background CLI invocations against the same note.
+- **JSON/array fields** — use `tags:='["a","b"]'` or exec; do not guess shell escaping for nested structures.
 
-# Step 1: Discover tools in the bundle
-tools = await list_tools("<slug>")
-for t in tools[:5]:
-    print(t["function_name"], "-", t["description"][:80])
+Example (Obsidian append with real newlines):
 
-# Step 2: Get schema for a tool you want to call
-schema = await get_tool_schema("<function_name_from_step_1>")
-print(json.dumps(schema, indent=2))
-PYEOF
-
-mcpbundles exec -f /tmp/mcb_query.py
-```
-
-Once you know the function name and schema, call it:
-
-```bash
-cat > /tmp/mcb_call.py << 'PYEOF'
-import json
-
-result = await <function_name>(
-    bundle="<slug>",
-    param1="value1",
-    param2={"nested": "object"}
+```python
+# /tmp/obs_append.py — run: mcpbundles exec -f /tmp/obs_append.py
+result = await obsidian_append_note(
+    server="obsidian",
+    filename="Projects/note.md",
+    content="\n\n## Log entry\n- line one\n",
 )
-print(json.dumps(result, indent=2, default=str))
-PYEOF
-
-mcpbundles exec -f /tmp/mcb_call.py
 ```
 
-The `exec -f` pattern is strongly preferred for any call with nested JSON,
-multiple steps, or data manipulation. It eliminates all shell quoting issues.
+## Local desktop dev (mandatory PATH)
 
-For quick inline code:
+When developing with MCPBundles Desktop dev (`make desktop-dev-start` / `npm run dev:server`), terminal `mcpbundles` **must** use the repo proxy venv — the same binary the dev sidecar supervises. Homebrew and production Desktop PATH shims are stale shipped builds.
+
+Before any `mcpbundles` command during local dev:
 
 ```bash
-mcpbundles exec "result = await health_check(); print(result)"
+export PATH="$(make desktop-dev-cli-path):$PATH"
+make desktop-dev-cli-check   # must pass; re-export if it fails
 ```
 
-## Critical Rules
+`make desktop-dev-start` prints the same export line. Do not use bare `mcpbundles` from `/opt/homebrew/bin` during local dev.
 
-1. **Tool names have hash suffixes** — Every tool has a unique suffix like
-   `-67e` or `-5b7`. Never guess. Always discover names first with
-   `mcpbundles tools --bundle <slug>` or `await list_tools("<slug>")`.
+## Rules
 
-2. **Bundle tools require `bundle=` in exec** — When calling tools inside
-   `code_execution`, always pass `bundle="<slug>"`. Platform tools
-   (`health_check`, `get_bundles`, `search_tools`) do NOT take `bundle=`.
+- **Tool names have hash suffixes** — discover first via `discover_mcp_servers` or `tools --server`, never guess
+- **`server=` in exec** — required for MCP server tools. Hub sandbox tools omit `server=`. `describe_tool`, `open_mcpbundles_app`, and nested `code_execution` are client-only — use `mcpbundles call`
+- **Variables don't persist** between `exec` calls — one script per workflow
+- **Multiple connections** — use `--as <name>` on every command
 
-3. **Use `exec -f` for complex args** — If the tool takes nested JSON objects,
-   write a `.py` file and use `mcpbundles exec -f /tmp/script.py`. Never
-   wrestle with shell quoting for nested JSON.
+## When a call fails — recover, then heal the surface
 
-4. **Variables don't persist between exec calls** — Put all related operations
-   in one Python file.
+CLI errors are input to the product, not just retry noise. Assume the next agent makes the same mistake.
 
-5. **Named connections** — If multiple connections exist, use `--as <name>` on
-   every command. Run `mcpbundles connections` to see available names.
+### Same-run recovery (do this first)
 
-## Searching for Tools
+1. **Stop guessing.** Do not swap param names blindly or retry the same invocation.
+2. **Read the error.** Validation failures name the bad field and often suggest `get_tool_info` or `--typed-args`.
+3. **Fetch schema once:**
+   ```bash
+   mcpbundles tools <tool-slug> --server <slug>
+   mcpbundles call describe_tool -- tool_slug=<tool-slug>
+   ```
+4. **Retry with canonical param names** from the schema (or `--typed-args` if types keep failing).
 
-When you don't know which bundle has the tool you need:
+**Postgres:** do not probe `information_schema` through `postgres-execute-*` to learn column names. Use `postgres_inspect_schema`, `postgres_list_tables`, or `postgres_get_ai_description` first, then write SQL. Growth pull scripts with known queries should use `growth/scripts/mcp_postgres.py::run_postgres_query`.
+
+### Cross-run healing (when the mistake is systematic)
+
+If the failure came from a natural agent mistake (wrong alias, misleading doc example, missing pagination field name, error that doesn't say what to do next):
+
+| Lever | Where | Example |
+|-------|--------|---------|
+| Param alias | `PARAM_ALIASES` in `backend/app/tools/<provider>/config.py` | Gmail `query` → `q` |
+| Actionable tool errors | `app.services.tool_error_formatter` + provider hints in `_PROVIDER_ERROR_HINTS` | Postgres "column does not exist" → call `postgres_inspect_schema` |
+| Doc examples | Scoped `AGENTS.md` / `.skills/*/SKILL.md` | Fix copy-pasteable `mcpbundles call` shapes |
+| Tool description / schema | Provider tool class `input_schema` | Name params the way upstream APIs name them; document pagination cursor keys |
+
+We own the MCP catalog — if agents stumble on our CLI, **fix the tool or the error message**, don't normalize bad invocations in every script. Provider-wide patterns and Phase-5 smoke expectations live in `product/api-provider-authoring/AGENTS.md`.
+
+After healing: add or extend a unit test (`test_param_aliases.py`, provider error-hint tests) and run one successful `mcpbundles call` to confirm the next agent gets a clean path.
+
+## REST API Providers
+
+Register any REST API with `connect_mcp_server` using `base_url` (use `url` for remote MCP).
 
 ```bash
-mcpbundles call search_tools -- query="send email"
+mcpbundles call connect_mcp_server -- base_url="https://api.example.com/v1" api_key="sk-xxx" name="Example"
 ```
 
-Returns results with `function_name`, `bundle_slug`, and usage examples.
-
-## Recommended Workflow
-
-1. `mcpbundles call get_bundles` — find the right bundle slug
-2. `mcpbundles tools --bundle <slug>` — find the right tool name
-3. `mcpbundles tools <tool-name> --bundle <slug>` — get the schema
-4. Call via `mcpbundles call ... --bundle <slug>` (simple) or write a
-   Python file and use `mcpbundles exec -f /tmp/script.py` (complex)
+The tool name is `{connection-slug}-api-request` (shown in the connect response).
 
 ## Reference
 
-See [references/argument-formats.md](references/argument-formats.md) for the
-full argument syntax (key=value, :=json, JSON string, file, stdin).
-
-See [references/common-patterns.md](references/common-patterns.md) for
-reusable workflow templates.
+See [references/argument-formats.md](references/argument-formats.md) and
+[references/common-patterns.md](references/common-patterns.md).

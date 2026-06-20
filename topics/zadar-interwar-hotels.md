@@ -60,9 +60,13 @@ The Retrozadar survey places the Zerauschek ventures within a rich café culture
 
 | Source | Location |
 |--------|----------|
-| Retrozadar — Povijest kavana u Zadru | [corpus](../sources/corpus/retrozadar-povijest-kavana-u-zadru/) · [extract](../sources/corpus/retrozadar-povijest-kavana-u-zadru/extracted.web.md) |
-| *Difesa Adriatica* obituary (1973) | [scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg) · [Italian transcript](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/transcription-antonio-zerauschek-obituary-1973.it.md) · [English translation](../sources/corpus/difesa-adriatica-1973-antonio-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md) |
-| Slobodna Dalmacija — Kavane Zadar (dio 2) | [corpus](../sources/corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/) (Cloudflare-blocked; incomplete extract) |
+| Retrozadar — Povijest kavana u Zadru | [full record](../sources/corpus/retrozadar-povijest-kavana-u-zadru/) · [extract](../sources/corpus/retrozadar-povijest-kavana-u-zadru/extracted.web.md) |
+| *Difesa Adriatica* obituary (1973) | [scan](../media/docs/Difesa%20Adriatica%201973%20Antonio%20Zerauschek%20obituary%20Zara%20Florence.jpeg) · [Italian transcript](../sources/corpus/difesa-adriatica-1973-zerauschek-obituary/transcription-antonio-zerauschek-obituary-1973.it.md) · [English translation](../sources/corpus/difesa-adriatica-1973-zerauschek-obituary/translation-antonio-zerauschek-obituary-1973.en.md) |
+| *Il Piccolo* (1914, 1923, 1973, 1978) | [IA folder](../media/docs/internet-archive/zerauschek/) · [1914 Luxardo](../sources/piccolo-1914-01-01-zerauschek-luxardo-ad.md) · [1923 ads](../sources/piccolo-1923-10-zerauschek-zara-ad-run.md) · [Antonio 1973](../sources/piccolo-1973-03-03-antonio-zerauschek-obituary.md) · [Riccardo 1978](../sources/piccolo-1978-02-14-riccardo-zerauschek-obituary.md) |
+| *Guida generale di Trieste* (1923–1941) | [IA excerpts](../media/docs/internet-archive/zerauschek/) · [topic hub register](../zara-italy-dalmatia.md#sources) |
+| *Gazzetta Ufficiale* (1931–1938) | [Bellini cognome 1931](../sources/gazzetta-ufficiale-1931-01-30-bellini-zerauschek-cognome.md) · [Peristeridis 1932](../sources/gazzetta-ufficiale-1932-12-14-peristeridis-manifattura-zaratina.md) · [MZS rename 1933](../sources/gazzetta-ufficiale-1933-10-31-manifattura-zaratina-rename.md) · [E.P.T. 1938](../sources/gazzetta-ufficiale-1938-04-07-zerauschek-ept-zara.md) |
+| Quaderni CRS Rovigno n. 24 (2013) | [Zara industry passage](../sources/quaderni-crs-rovigno-24-zerauschek-zara-industry.md) |
+| Slobodna Dalmacija — Kavane Zadar (dio 2) | [web capture](../sources/corpus/slobodna-dalmacija-kavane-zadar-dio-2-curl-mirror/) (Cloudflare-blocked; incomplete extract) |
 | Zerauschek collection scans | [media/collections/zerauschek/](../media/collections/zerauschek/) |
 
 ## Narratives

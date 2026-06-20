@@ -55,34 +55,34 @@ Children: Jean Jacque, Arthur Roger, Marguerite Emilie, Antoinette, Étienne (se
 
 ## Evidence
 
-- [Estonian Biographical Center — Stump family (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — PDF + [machine extract](../sources/corpus/estonian-biographical-center-stump-family-resear-856c90185e/extracted.pdf.md).
+- [Estonian Biographical Center — Stump family (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — PDF + [machine extract](../sources/corpus/estonian-biographical-center-stump-report-2005/extracted.pdf.md).
 - *Revalsche Zeitung* 3 Apr 1903 full issue searched 2026-03-23 (text layer) for Tallinn death notice — none; death at Yverdon per EBC anyway; [DIGAR URL sheet](../sources/erbe-baltic-digar-newspaper-urls.md).
-- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) · [corpus](../sources/corpus/stump-family-tree-c3cb58201a/).
+- [Stump Family Tree chart (PDF)](../sources/stump-family-tree-chart.md) · [reference](../sources/corpus/stump-family-tree-chart/).
 - [1909 album — Étienne and Henriette](../media/docs/Album%20page%201909%20Henriette%20Etienne%20Stump%20five%20vintage%20photos%20note.jpg).
 
 **Swiss parish records** — [source card](../sources/swiss-erlen-stump-parish-records.md):
 
-- **Baptism** FVFK-CQH — Markus Franz Stump, christened 25 Apr 1834 Erlen, b. 10 Mar 1834 · [corpus](../sources/corpus/1834-baptism-markus-franz-stump-erlen/reference.md)
-- **Father's baptism** FVFK-X5S — Jakob Stump, christened 15 Jun 1800, parents Hs. Ulr. Stump + A. Marg. Hagg · [corpus](../sources/corpus/1800-baptism-jakob-stump-erlen/reference.md)
-- **Parents' family register** 66JJ-3MYV — Jakob b. 1800, father Ulrich, wife Jeanne Bonigne b. 1805 · [corpus](../sources/corpus/1832-family-register-jakob-stump-montagnon-erlen/reference.md) — image restricted (ARK `3:1:S3HT-DYHH-9N`)
-- **Grandfather's baptism** FVFK-CVL — Hs. Ulrich Stump, christened 25 Oct 1767, Riedt bei Erlen, parents Hs. Konrad + A. Margaretha Jung · [corpus](../sources/corpus/1767-baptism-hans-ulrich-stump-erlen/reference.md)
-- **Grandparents' marriage** FVJR-RYX — Ulrich × Margaretha Hagg, 26 Apr 1792, Sulgen · [corpus](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md)
-- **Grandfather's burial** 6FZL-NLQ8 — Hs Ulrich Stump, buried 18 Dec 1807, Sulgen, b. 1767 · [corpus](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md)
-- **Mother's baptism** 6JCV-BDKJ — Jeanne Bénigne Montagnon, 15 Jul 1805, Vaud, parents Louis Montagnon + Françoise Dumartheray · [corpus](../sources/corpus/1805-baptism-jeanne-benigne-montagnon/reference.md)
-- **Maternal grandparents' register** 6NQG-YBTS — Louis Montagnon × Dumartheray, identifies both sets of great-grandparents · [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md)
+- **Baptism** FVFK-CQH — Markus Franz Stump, christened 25 Apr 1834 Erlen, b. 10 Mar 1834 · [reference](../sources/corpus/1834-baptism-markus-franz-stump-erlen/reference.md)
+- **Father's baptism** FVFK-X5S — Jakob Stump, christened 15 Jun 1800, parents Hs. Ulr. Stump + A. Marg. Hagg · [reference](../sources/corpus/1800-baptism-jakob-stump-erlen/reference.md)
+- **Parents' family register** 66JJ-3MYV — Jakob b. 1800, father Ulrich, wife Jeanne Bonigne b. 1805 · [reference](../sources/corpus/1832-family-register-jakob-stump-montagnon-erlen/reference.md) — image restricted (ARK `3:1:S3HT-DYHH-9N`)
+- **Grandfather's baptism** FVFK-CVL — Hs. Ulrich Stump, christened 25 Oct 1767, Riedt bei Erlen, parents Hs. Konrad + A. Margaretha Jung · [reference](../sources/corpus/1767-baptism-hans-ulrich-stump-erlen/reference.md)
+- **Grandparents' marriage** FVJR-RYX — Ulrich × Margaretha Hagg, 26 Apr 1792, Sulgen · [reference](../sources/corpus/1792-marriage-ulrich-stump-margaretha-hagg/reference.md)
+- **Grandfather's burial** 6FZL-NLQ8 — Hs Ulrich Stump, buried 18 Dec 1807, Sulgen, b. 1767 · [reference](../sources/corpus/1807-burial-hans-ulrich-stump-sulgen/reference.md)
+- **Mother's baptism** 6JCV-BDKJ — Jeanne Bénigne Montagnon, 15 Jul 1805, Vaud, parents Louis Montagnon + Françoise Dumartheray · [reference](../sources/corpus/1805-baptism-jeanne-benigne-montagnon/reference.md)
+- **Maternal grandparents' register** 6NQG-YBTS — Louis Montagnon × Dumartheray, identifies both sets of great-grandparents · [reference](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md)
 - **Sibling** Maria Henriette 66JD-K2HK — b. 13 Feb 1842, bapt. 10 Apr 1842 Erlen. Image restricted (ARK `3:1:S3HT-DYHQ-XW`).
 
 **Tallinn church books** — [source card](../sources/tallinn-dome-church-stump-erbe-records.md) · images downloaded, individually cataloged:
 
-| Event | Date | Corpus | Image |
-|-------|------|--------|-------|
-| Marriage — Marc × Olga (3 pages) | 22 Jun 1868 | [corpus](../sources/corpus/1868-marriage-stump-erbe-tallinn-dome/reference.md) | [pg 1](../media/docs/tallinn-stump/1868-marc-stump-olga-erbe-marriage-tallinn.jpg) · [pg 2](../media/docs/tallinn-stump/1868-marc-stump-olga-erbe-family-register-tallinn.jpg) · [pg 3](../media/docs/tallinn-stump/1868-marc-stump-olga-erbe-register-2-tallinn.jpg) |
-| Baptism — Jean Jaque | 3 Aug 1869 | [corpus](../sources/corpus/1869-baptism-jean-jaque-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1869-jean-jaque-stump-baptism-tallinn.jpg) |
-| Baptism — Arthur Roger | 11 Apr 1871 | [corpus](../sources/corpus/1871-baptism-arthur-roger-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1871-arthur-roger-stump-baptism-tallinn.jpg) |
-| Baptism — Marguerite Emilie | 31 Dec 1872 | [corpus](../sources/corpus/1872-baptism-marguerite-emilie-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1872-marguerite-emilie-stump-baptism-tallinn.jpg) |
-| Baptism — Antoinette | 3 Feb 1874 | [corpus](../sources/corpus/1874-baptism-antoinette-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1874-antoinette-stump-baptism-tallinn.jpg) |
-| Burial — Jean Jaque | 10 May 1874 | [corpus](../sources/corpus/1874-burial-jean-jaque-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1874-jean-jaque-stump-burial-tallinn.jpg) |
-| Baptism — Étienne | 6 Apr 1880 | [corpus](../sources/corpus/1880-baptism-etienne-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1880-etienne-stump-baptism-tallinn.jpg) |
+| Event | Date | Reference | Image |
+|-------|------|-----------|-------|
+| Marriage — Marc × Olga (3 pages) | 22 Jun 1868 | [reference](../sources/corpus/1868-marriage-stump-erbe-tallinn-dome/reference.md) | [pg 1](../media/docs/tallinn-stump/1868-marc-stump-olga-erbe-marriage-tallinn.jpg) · [pg 2](../media/docs/tallinn-stump/1868-marc-stump-olga-erbe-family-register-tallinn.jpg) · [pg 3](../media/docs/tallinn-stump/1868-marc-stump-olga-erbe-register-2-tallinn.jpg) |
+| Baptism — Jean Jaque | 3 Aug 1869 | [reference](../sources/corpus/1869-baptism-jean-jaque-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1869-jean-jaque-stump-baptism-tallinn.jpg) |
+| Baptism — Arthur Roger | 11 Apr 1871 | [reference](../sources/corpus/1871-baptism-arthur-roger-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1871-arthur-roger-stump-baptism-tallinn.jpg) |
+| Baptism — Marguerite Emilie | 31 Dec 1872 | [reference](../sources/corpus/1872-baptism-marguerite-emilie-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1872-marguerite-emilie-stump-baptism-tallinn.jpg) |
+| Baptism — Antoinette | 3 Feb 1874 | [reference](../sources/corpus/1874-baptism-antoinette-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1874-antoinette-stump-baptism-tallinn.jpg) |
+| Burial — Jean Jaque | 10 May 1874 | [reference](../sources/corpus/1874-burial-jean-jaque-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1874-jean-jaque-stump-burial-tallinn.jpg) |
+| Baptism — Étienne | 6 Apr 1880 | [reference](../sources/corpus/1880-baptism-etienne-stump-tallinn/reference.md) | [JPG](../media/docs/tallinn-stump/1880-etienne-stump-baptism-tallinn.jpg) |
 
 **Tree id:**
 - **treeId** **I140** — marriage **F70** (Olga); parents' union **F71**.
@@ -92,6 +92,6 @@ Children: Jean Jacque, Arthur Roger, Marguerite Emilie, Antoinette, Étienne (se
 
 - Single Swiss birth image reconciling Erlen 10 Mar 1834 vs Yverdon 16 Feb 1834 (duplicate person vs transcription). The Swiss church-book images (collection 4138674) are restricted to FamilySearch Centers; visiting one would resolve this.
 - Swiss civil death April 1903 Yverdon-les-Bains vs any Tallinn burial. No FamilySearch death record found in indexed Swiss collections.
-- Tallinn real-estate bundle (eight files in EBC fonds list) for boundaries and co-owners.
+- Tallinn real-estate file group (eight files in EBC fonds list) for boundaries and co-owners.
 - Olga Caroline Erbe death/burial 1894 — not found in indexed Estonian church records. The Tallinn Dome Church burial register for 1894 may have an unindexed entry.
 - Full identification of Marc's siblings beyond Maria Henriette (1842) and Emilie (1866).

@@ -34,7 +34,7 @@ After Roberto's death, Lily remained in Cape Town. By the mid-1970s she was livi
 
 ## Evidence
 
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) · [full record](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Handwritten family tree (NTree02):** [media/docs/fulvia-family-tree-file/NTree02.jpg](../media/docs/fulvia-family-tree-file/NTree02.jpg) — "Roberto m. Lilly", confirming the baptismal name.
 - **Berto to Fulvia, 24 Nov 1947 ("Villa Zara", Royal Road, Maitland, Cape Town):** [BertoZ241147-001.jpg](../media/docs/zerauschek-family/R%26L%20Zerauschek/BertoZ241147-001.jpg) — congratulates Fulvia on her marriage; "Both your Aunt Lily and I send you and your husband heartiest congratulations." Signed "Berto." Confirms address as "Villa Zara."
 - **Lily to Fulvia, 8 Mar 1954 ("Wynnton", Selous Road, Claremont, C.P.):** [LilyZ080354-001.jpg](../media/docs/zerauschek-family/R%26L%20Zerauschek/LilyZ080354-001.jpg), [-002](../media/docs/zerauschek-family/R%26L%20Zerauschek/LilyZ080354-002.jpg) — Roberto's blood poisoning at Christmas, three fingers cut 5 Jan; David "recovered from the shock of the lightning." Signed "Auntie Lily."

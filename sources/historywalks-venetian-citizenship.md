@@ -7,7 +7,7 @@ kind: web
 
 **URL:** [historywalksvenice.com — Citizen of the Republic of Venice](https://historywalksvenice.com/article/the-republic-of-venice/citizen-of-the-republic-of-venice/)
 
-**Corpus bundle:** [corpus/historywalks-venetian-citizenship/](corpus/historywalks-venetian-citizenship/) — `source.yaml` + web extract [extracted.web.md](corpus/historywalks-venetian-citizenship/extracted.web.md).
+**Source record:** [full record](corpus/historywalks-venetian-citizenship/) — `source.yaml` + web extract [extracted.web.md](corpus/historywalks-venetian-citizenship/extracted.web.md).
 
 ## Summary
 

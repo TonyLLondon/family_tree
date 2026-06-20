@@ -27,6 +27,6 @@ The family register (6NQG-YBTS) identifies both his parents (Jean Louis Montagno
 
 ## Evidence
 
-| Record | Event | Corpus |
-|--------|-------|--------|
-| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray | [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
+| Record | Event | Reference |
+|--------|-------|-----------|
+| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray | [reference](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |

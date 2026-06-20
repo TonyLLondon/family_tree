@@ -1,0 +1,16 @@
+id: guida-trieste-1925-zerauschek-fratelli-excerpt
+title: "Guida Trieste 1925 (excerpt) — Zerauschek F.lli & A. Zerauschek, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/Guida_TS-1925/Guida_TS-1925_text.pdf
+  webpage_url: https://archive.org/details/Guida_TS-1925
+fetches:
+- kind: pdf
+  at: '2026-06-19T10:00:00Z'
+  remote_url: https://archive.org/download/Guida_TS-1925/Guida_TS-1925_text.pdf
+  sha256: b2c44d262465dc6c1084101b47c23dd83fd428f8b22aeee3bd9fd04dfdbf8c3d
+  bytes: 263590
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1925-zerauschek-fratelli-excerpt.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1925-zerauschek-fratelli-excerpt.pdf
+  page_image: media/docs/internet-archive/zerauschek/guida-trieste-1925-zerauschek-page.png
+  transcription_it: transcription-fratelli-1925.it.md

@@ -40,7 +40,7 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Daughter's baptism record:** Margaretha Mockh, 10 Jan 1706, parents Johannes Mockh & Margaretha Schoenholtzer · [corpus](../sources/corpus/margreth-mockh-baptism-1706/reference.md) · FamilySearch FVKY-22N
+- **Daughter's baptism record:** Margaretha Mockh, 10 Jan 1706, parents Johannes Mockh & Margaretha Schoenholtzer · [reference](../sources/corpus/margreth-mockh-baptism-1706/reference.md) · FamilySearch FVKY-22N
 
 ## Research Notes (2026-04-11)
 

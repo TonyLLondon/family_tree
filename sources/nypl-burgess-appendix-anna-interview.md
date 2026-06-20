@@ -12,7 +12,7 @@ published_in: "The Burgess Persian Letters, ed. Benjamin Schwartz (NYPL Bulletin
 
 **Anna (née Saginian) Burgess**, widow of Edward Burgess, interviewed in **March 1880** at **C. Belmont Villas, Leicester**. The manuscript of the interview is held at the New York Public Library. A portion is printed as an appendix to *The Burgess Persian Letters*, ed. Benjamin Schwartz.
 
-**Corpus bundle:** [`corpus/nypl-burgess-appendix-anna-interview/`](corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md)
+**Source record:** [full record](corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md)
 
 ## Key passages (Anna's own words)
 

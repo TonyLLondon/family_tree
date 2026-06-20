@@ -62,8 +62,8 @@ children:
 ## Evidence
 
 **Primary Sources:**
-- **Baptism record:** Anna Margreth Jung, 5 Apr 1731, Sulgen, parents Hanss Ulrich Jung & Margreth Mockh · [corpus](../sources/corpus/anna-margaretha-jung-baptism-1731/reference.md) · FamilySearch FVKB-MRS
-- **Marriage record:** Hans Conrad Stump × Margaretha Jung, 1766 · [corpus](../sources/corpus/hans-konrad-stump-marriage-anna-jung-1766/reference.md) · FamilySearch FVJX-VVS
+- **Baptism record:** Anna Margreth Jung, 5 Apr 1731, Sulgen, parents Hanss Ulrich Jung & Margreth Mockh · [reference](../sources/corpus/anna-margaretha-jung-baptism-1731/reference.md) · FamilySearch FVKB-MRS
+- **Marriage record:** Hans Conrad Stump × Margaretha Jung, 1766 · [reference](../sources/corpus/hans-konrad-stump-marriage-anna-jung-1766/reference.md) · FamilySearch FVJX-VVS
 - **Burial record:** Anna Margaretha Jung, 18 Dec 1807, Sulgen · FamilySearch 66JN-HGX5
 - **Children's baptisms:** Hans Ulrich (1767), Hans Conrad (1769), Hans Jacob (1770) with parents Hans Conrad Stump & Anna Margaretha Jung
 

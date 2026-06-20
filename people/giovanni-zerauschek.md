@@ -12,7 +12,7 @@ spouses:
 
 # Giovanni Zerauschek (Zio Nini)
 
-**Zio Nini** — **Giovanni** in the registers — kept the family's hand on wood and water: a **small shipyard** in Zara along the *strada di Cereria*, sons enough to people a novella (**fourteen** born, **seven** lived). He married **Enrichetta Decovich** (born Zara 2 February 1894), a woman remembered by the exile community as always in motion, always with an open smile, the vital engine of a family where work never ran short.
+**Zio Nini** — **Giovanni** in the registers — kept the family's hand on wood and water: a **small shipyard** in Zara along the *strada di Cereria*, sons enough to people a novella (**fourteen** born, **seven** lived). Earlier, the **1923 *Guida generale di Trieste*** already lists him with his brother [Giusit](giusit-zerauschek.md) as **Zerauschek F.lli Giov. e Giusto** — a **lavoratorio** (cigarette workshop) on **calle Catena** — in the same tobacco quarter [Antonio](antonio-zerauschek.md) would enter when he bought the Manifattura Zaratina in **1928**. He married **Enrichetta Decovich** (born Zara 2 February 1894), a woman remembered by the exile community as always in motion, always with an open smile, the vital engine of a family where work never ran short.
 
 After the **1945** transfer he missed the window for clean exit, stood a **Communist trial**, and served **eight months of hard labour** before Italy would take him; he finished in **Sardinia**, still building boats, settling near **Alghero**. Enrichetta died there on **14 October 1972**; an A.N.D.A.Z. obituary placed her alongside "le famiglie più salde e più quotate degli artigiani zaratini" — the sturdiest and most respected of Zaratine artisan families.
 
@@ -38,7 +38,8 @@ Bruno married **Giulietta Ceriani** on **28 February 1942** in Zara; the witness
 
 ## Evidence
 
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **Guida commerciale Trieste 1923** — **Zerauschek F.lli Giov. e Giusto**, calle Catena (cigarette workshop): [source card](../sources/guida-trieste-1923-zerauschek-fratelli-excerpt.md) · [full record excerpt](../sources/corpus/guida-trieste-1923-zerauschek-fratelli-excerpt/).
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) · [full record](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Handwritten family tree (FT-ExtraA-001):** [FT-ExtraA-001.jpg](../media/docs/fulvia-family-tree-file/FT-ExtraA-001.jpg) — names surviving children: Aldo, Ferruccio, Bruno, Emma, Antonio, Lina, Giovanni.
 - **Handwritten family tree (NTree02):** [NTree02.jpg](../media/docs/fulvia-family-tree-file/NTree02.jpg) — Giovanni branch.
 - **Enrichetta Decovich obituary (A.N.D.A.Z.):** [EnricaZer141072.jpg](../media/docs/zerauschek-family/AZ%20family/Enrica/EnricaZer141072.jpg) — "ENRICHETTA DECOVICH ved. ZERAUSCHEK / nata a Zara il 2-2-1894 / deceduta ad Alghero (Sardegna) il 14 ottobre 1972." Describes her as "dei cantieri Zerauschek" along the strada di Cereria; in exile she went to Sardinia with her daughter who married Gino Marsan.

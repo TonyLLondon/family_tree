@@ -40,7 +40,7 @@ The Iranian scholar **Thierry Zarcone** draws a parallel between masonic lodges 
 
 | Source | Location |
 |--------|----------|
-| Onnerfors / Bayat — Levantine Heritage Freemasonry volume | [source card](../sources/levantine-freemasonry-middle-east.md) · [corpus](../sources/corpus/levantine-freemasonry/) · [extract](../sources/corpus/levantine-freemasonry/extracted.pdf.md) |
+| Onnerfors / Bayat — Levantine Heritage Freemasonry volume | [source card](../sources/cemoti-intro19-footnote-url-middle-east.md) · [full record](../sources/corpus/cemoti-intro19-footnote-url/) · [extract](../sources/corpus/cemoti-intro19-footnote-url/extracted.pdf.md) |
 
 ## Narrative
 

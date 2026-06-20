@@ -1,0 +1,16 @@
+id: piccolo-1923-10-27-zerauschek-zara-ad
+title: "Il Piccolo (Trieste) — A. Zerauschek Zara business notice, 27 October 1923"
+remote:
+  primary_pdf_url: https://archive.org/download/Piccolo_1923-10-27/Piccolo_1923-10-27.pdf
+  webpage_url: https://archive.org/details/Piccolo_1923-10-27
+fetches:
+- kind: pdf
+  at: '2026-06-18T18:11:00Z'
+  remote_url: https://archive.org/download/Piccolo_1923-10-27/Piccolo_1923-10-27.pdf
+  sha256: d1085488b6c24fab71fb9e5f05ef260a7bdbf9ded4a9f5f0c2812268ccdc9331
+  bytes: 6815744
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1923-10-27.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1923-10-27.pdf
+  page_image: media/docs/internet-archive/zerauschek/piccolo-1923-10-27-page-6.png
+  transcription_it: transcription-zerauschek-zara-ad-1923.it.md

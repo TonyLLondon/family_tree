@@ -23,9 +23,9 @@ Inventar / vodič u katalogu navodi i oznaku pomagala tipa **DAZD-12/V**.
 
 ## Povezani izvori u ovom vaultu
 
-- Granić (2014), popis plemića Nina 1817. — `sources/corpus/granic-2014-popis-plemenica-nina/`
-- DAZD inventar obitelji Addobbati (HR-DAZD-342) — `sources/corpus/dazd-addobbati-family-fonds/`
-- Anzulović (2009), ninska plemićka obitelj Pritičević — `sources/corpus/hazu-hrcak-anzulovic-priticevic-nin-noble-family/`
+- Granić (2014), popis plemića Nina 1817. — [granic-2014-popis-plemenica-nina](../granic-2014-popis-plemenica-nina/)
+- DAZD inventar obitelji Addobbati (HR-DAZD-342) — [dazd-addobbati-family-fonds](../dazd-addobbati-family-fonds/)
+- Anzulović (2009), ninska plemićka obitelj Pritičević — [hazu-hrcak-anzulovic-priticevic-nin-noble-family](../hazu-hrcak-anzulovic-priticevic-nin-noble-family/)
 
 ## Sekundarna literatura (nije u Hrčak potpunom tekstu u ovom repou)
 

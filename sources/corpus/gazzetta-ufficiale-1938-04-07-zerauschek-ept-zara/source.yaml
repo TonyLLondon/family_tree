@@ -1,0 +1,16 @@
+id: gazzetta-ufficiale-1938-04-07-zerauschek-ept-zara
+title: "Gazzetta Ufficiale (1938-04-07) — Antonio Zerauschek, presidente E.P.T., Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/19380407_080_SO_080/19380407_080_SO_080.pdf
+  webpage_url: https://archive.org/details/19380407_080_SO_080
+fetches:
+- kind: pdf
+  at: '2026-06-18T18:11:00Z'
+  remote_url: https://archive.org/download/19380407_080_SO_080/19380407_080_SO_080.pdf
+  sha256: f4e045f1cac3cbdf64865e57abf7ffe96df4b86d66369900ea96efc77c45cb80
+  bytes: 3879731
+  media_reference: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1938-04-07.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1938-04-07.pdf
+  page_image: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1938-04-07-page-zerauschek.png
+  transcription_it: transcription-zerauschek-ept-1938.it.md

@@ -61,7 +61,7 @@ Multiple contemporary "Mont-" families suggest:
 - **Deep community roots** across multiple generations  
 - **Religious continuity** through Reformation period
 
-## Corpus Documentation
+## Source record documentation
 
 ### **Primary Evidence**
 - **[Early MONTAGNON/Montard Lineage 1550s-1630s](corpus/early-montagnon-montard-lineage-1550s-1630s/reference.md)** - Comprehensive analysis of all early "Mont-" surname records

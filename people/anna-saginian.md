@@ -3,7 +3,7 @@ name: Anna Saginian
 treeId: I80
 gedcom: "@I80@"
 born: ~1830 (approximate from narrative)
-died: unknown
+died: 8 January 1892, Tehran (Wright 1998)
 ignore_gedcom_death: true
 born_alt: 1815 (import — conflicts with narrative ~1830)
 sex: female
@@ -28,14 +28,15 @@ Armenian daughter of [Daoud Khan Saginian](daoud-khan-saginian.md); with her sis
 
 ## Life
 
-- Daughter of **Daoud Khan Seguinoff** (also rendered David Saginian / “Mayor Khan” in English-language summaries). Anna’s interview: *“My father, Daoud Khan Seguinoff, was always in the military service of the Shah of Persia.”*
+- Daughter of **Daoud Khan Saginian** — Anna’s 1880 NYPL appendix gives **Seguinoff**, the interviewer’s rendering of the same surname (*Proche-Orient* 1972: **Saginian ou Séguinoff** on her father). Anna’s interview: *“My father, Daoud Khan Seguinoff, was always in the military service of the Shah of Persia.”*
 - Eldest of four sisters; two brothers (both merchants in Tabriz, both predeceased her). Next sister: widow of **Aga Pedros** (Armenian merchant, three sons in Tehran). Youngest sister: [Tamar Saginian](tamar-saginian.md), widow of [Dr Cormick](william-cormick.md).
 - **Autumn 1851** — Married [Edward Burgess](edward-burgess.md). Edward’s letter to George (22 Mar 1852): *“a Georgian lady of good family … pretty and about thirty three years old.”* She spoke Armenian and Turkish, wrote Armenian rapidly, and proved a skilled horsewoman.
 - **~1852** — Son **John** born in Tehran; godfather Ronald Thompson. Baptised at home according to Armenian rites. John died at eighteen months.
 - **9 Jun 1854** — Daughter [Fanny](fanny-burgess.md) born; godfather again Ronald Thompson.
 - **1855** — Edward’s health failing. Anna nursed him through a nearly three-month takhteravan journey from Tehran to Tabriz. *“I never left him, he was in my eyes night and day.”* Eight days from Tabriz, her father, uncles, and Dr Cormick met them. Edward lived six weeks more. *“When Fanny was three days past one year old, he died. We had been married just five years.”* Buried in the Armenian cemetery outside Tabriz.
+- **8 Jan 1892** — Anna died in **Tehran**, aged **77**, and was buried at the Armenian church of **SS. Thadeus and Bartholomew** (Wright’s burial survey — *“Armenian-born widow of Edward Burgess (buried in Tabriz)”*).
 
-Secondary genealogy notes sometimes use alternate spellings (**Seguinoff** and similar) when threading Armenian names into Latin-script trees; treat those as orthographic variants pending one primary civil record.
+**Saginian** is the family surname by descent from Daoud Khan; **Seguinoff** in English transcripts is an orthographic variant, not a separate identity — see [*Proche-Orient* footnote (125)](../sources/proche-orient-chretien-1972-daoud-khan-saginian-seguinoff.md) and [Was Anna a Saginian?](../topics/was-anna-saginian.md).
 
 ## Family
 
@@ -48,8 +49,10 @@ Secondary genealogy notes sometimes use alternate spellings (**Seguinoff** and s
 
 - [Cormick / Saginian interview bundle](../sources/connectionsbmc-saginian-interview.md) — corpus: `sources/corpus/connectionsbmc-saginian-interview/` (`extracted.web.md`, `mirror.html`).
 - [NYPL Burgess papers](../sources/nypl-burgess-papers.md) — Anna as Edward’s wife; Fanny’s documented identity.
-- [NYPL Burgess appendix — Anna interview (1880)](../sources/nypl-burgess-appendix-anna-interview.md) · [corpus](../sources/corpus/nypl-burgess-appendix-anna-interview/) — Anna’s own account; Leicester March 1880.
-- [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/) — legacy Roche/Limerick web `curl` HTML captures (numbered 01–15); see [reference.md](../sources/corpus/obrien-roche-url-offline-captures/reference.md).
+- [NYPL Burgess appendix — Anna interview (1880)](../sources/nypl-burgess-appendix-anna-interview.md) · [full record](../sources/corpus/nypl-burgess-appendix-anna-interview/) · [reference](../sources/corpus/nypl-burgess-appendix-anna-interview/reference.md) · [transcript](../sources/corpus/nypl-burgess-appendix-anna-interview/transcription.md) — Anna’s own account; Leicester March 1880.
+- **Wright (1998)** — Anna Burgess, d. 8.1.1892, aged 77, Tehran (Armenian church SS. Thadeus and Bartholomew): [source card](../sources/wright-burials-british-in-persia.md) · [transcript](../sources/corpus/wright-burials-british-in-persia/transcription.md).
+- ***Proche-Orient chrétien* (1972), footnote (125)** — **Anna (1815 – 8 Jan 1892)**; Edward Burgess autumn **1851**; son **John** d. **16 Nov 1853** (21 months); **Saginian / Séguinoff** on Daoud Khan: [source card](../sources/proche-orient-chretien-1972-daoud-khan-saginian-seguinoff.md) · [full record](../sources/corpus/proche-orient-chretien-1972-daoud-khan-saginian-seguinoff/) · [footnote PNG](../media/docs/internet-archive/saginian/proche-orient-chretien-1972-22-footnote-125-daoud-khan-saginian.png).
+- [O'Brien Roche offline captures](../sources/corpus/obrien-roche-url-offline-captures/) — legacy Roche/Limerick web `curl` HTML captures (numbered 01–15); see [reference.md](../sources/corpus/obrien-roche-url-offline-captures/reference.md).
 - [Anna and Fanny Burgess, 1881](../media/albums/henderson/Anna%20and%20Fanny%20Burgess%201881.tif).
 - [ویلیام کورمیک — ویکی‌پدیای فارسی](https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D9%84%DB%8C%D8%A7%D9%85_%DA%A9%D9%88%D8%B1%D9%85%DB%8C%DA%A9) — identifies Tamar as younger sister of **Edward Burgess’s Armenian wife** (Anna); does not spell “Anna” in Persian script (**آنا** would be normal transliteration only).
 

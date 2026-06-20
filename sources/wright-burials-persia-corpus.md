@@ -3,12 +3,12 @@ corpus: corpus/wright-burials-british-in-persia
 kind: pdf
 ---
 
-# Sir Denis Wright — British burials & memorials in Persia (corpus)
+# Sir Denis Wright — British burials & memorials in Persia
 
-Two-volume set in corpus (machine extracts). Complements **Cemeteries in Iran** and British-official presence research.
+Two-volume set in the vault (machine extracts). Complements **Cemeteries in Iran** and British-official presence research.
 
-- **Main volume:** [corpus/wright-burials-british-in-persia/](corpus/wright-burials-british-in-persia/) — `extracted.pdf.md`
-- **Further notes:** [corpus/wright-burials-british-in-persia-further-notes/](corpus/wright-burials-british-in-persia-further-notes/)
+- **Main volume:** [full record](corpus/wright-burials-british-in-persia/) — `extracted.pdf.md`
+- **Further notes:** [full record](corpus/wright-burials-british-in-persia-further-notes/)
 
 ## Topics & people
 

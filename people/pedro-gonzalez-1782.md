@@ -35,4 +35,4 @@ Pedro represents the **colonial-to-republican transition generation** in our **G
 
 ## Sources
 
-- [Chilean GONZÁLEZ Line Extension 2026](../sources/corpus/chile-gonzalez-line-extension-2026/) - genealogical reconstruction from Pablo González records
+- [Chilean GONZÁLEZ Line Extension 2026](../sources/corpus/chile-gonzalez-lineage-extension-2026/) - genealogical reconstruction from Pablo González records

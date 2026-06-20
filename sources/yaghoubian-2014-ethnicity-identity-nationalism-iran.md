@@ -2,9 +2,9 @@
 
 **Full citation:** Yaghoubian, David N. *Ethnicity, Identity, and the Development of Nationalism in Iran.* Syracuse: Syracuse University Press, 2014. ISBN 978-0-8156-3359-4 (cloth); 978-0-8156-5272-4 (e-book).
 
-**Corpus:** [`sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/`](corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/)
+**Source record:** [full record](corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/)
 
-**Kind:** PDF (ingested into corpus; original deleted from `manual/`)
+**Kind:** PDF (canonical copy in [`sources/corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/`](corpus/yaghoubian-2014-ethnicity-identity-nationalism-iran/); vault policy: **move** cited PDFs and images into `media/` or corpus—**never delete**)
 
 ## Relevance
 

@@ -10,6 +10,8 @@ Outstanding sources for [Helia Cerpa-Pérez](../../people/helia-cerpa-perez.md) 
 
 **Why it matters:** Would confirm whether Helia entered the Italian embassy on calle Miguel Claro 1359, Providencia, and when she left Chile. This is the single most important unlocated source.
 
+**Partial parallel (2026):** Internet Archive — Uruguay SID *Informe 820/RI/86* (Oct 1986) copies an **ACNUR (UNHCR) roster** of Chilean exiles listing **Cerpa Pérez, Helia del Carmen** (p. 322). Corpus: [uruguay-sid-acnur-exiliados-chilenos-cerpa-perez-1986](../corpus/uruguay-sid-acnur-exiliados-chilenos-cerpa-perez-1986/). Confirms exile status in UNHCR circulation; does not replace embassy rosters.
+
 **Access:** Archivo Nacional de Chile, Miraflores 50, Santiago. Contact: `consultas@archivonacional.gob.cl`. Online catalog: [archivonacional.gob.cl](https://www.archivonacional.gob.cl/). The [exile exhibition page](https://www.archivonacional.gob.cl/galeria/exilio-chileno-durante-la-dictadura-civil-militar-archivos-de-la-represion-y-de-la) confirms the holding.
 
 **Action:** Request a search for "Cerpa Pérez, Helia del Carmen" in the Italian embassy refugee roster, caja 271. May require citing the relevant fondo and series.
@@ -79,9 +81,9 @@ Outstanding sources for [Helia Cerpa-Pérez](../../people/helia-cerpa-perez.md) 
 
 **Why it matters:** The most detailed published account of women's detention in the camarín. May reference Helia or her cell-mates.
 
-**Access:** [PDF on academia.edu](https://www.academia.edu/39899589/Camarines_de_Mujeres_Memorias_de_prisioneras_pol%C3%ADticas_del_Estadio_Nacional). Already cited in person page but not yet read in full.
+**Done (Jun 2026):** Internet Archive identifier `camarines-de-mujeres-memorias-de-prision-2` — full-text and djvu.txt grep returned **no "Cerpa"** hit. Helia not named in this volume.
 
-**Action:** Read in full. Search for "Cerpa" and any references to women from Parral or the Maule region.
+**Access:** [IA full text](https://archive.org/details/camarines-de-mujeres-memorias-de-prision-2) · [academia.edu PDF](https://www.academia.edu/39899589/Camarines_de_Mujeres_Memorias_de_prisioneras_pol%C3%ADticas_del_Estadio_Nacional).
 
 ---
 
@@ -109,19 +111,7 @@ Outstanding sources for [Helia Cerpa-Pérez](../../people/helia-cerpa-perez.md) 
 
 ---
 
-## 9. Carlos Cerpa Miranda — confirm family connection
-
-**What:** Carlos Cerpa Miranda appears immediately above Helia on page 12 of the 1985 banned list. He is now a political opinion columnist for *El Mostrador* and *El Maipo*, described as *"Ex concejal y ex director laboral Banco del Estado."*
-
-**Why it matters:** The Cerpa surname has only ~3,000 bearers in Chile. A former state-bank labour director and municipal councilman who was banned alongside Helia is very likely a paternal-line relative. Also on the Valech I list: **Cerpa Miranda, Manuel Jesús** (p. 57) — same double surname, therefore a brother of Carlos. Two Cerpa Mirandas targeted by the regime alongside Helia.
-
-**Access:** Carlos Cerpa Miranda is a public figure, contactable via *El Mostrador* or *El Maipo*.
-
-**Action:** Family to contact directly, or cross-reference Chilean civil registration for shared grandparents (Francisco Cerpa / Ana González are Helia's paternal grandparents).
-
----
-
-## 10. UK arrival / Home Office records
+## 9. UK arrival / Home Office records
 
 **What:** Helia's entry into the United Kingdom — Home Office asylum or refugee records, JWG/WUS resettlement programme files.
 
@@ -135,7 +125,7 @@ Outstanding sources for [Helia Cerpa-Pérez](../../people/helia-cerpa-perez.md) 
 
 ---
 
-## 11. Marriage — Joseph Evans × Helia Cerpa Pérez, 1982
+## 10. Marriage — Joseph Evans × Helia Cerpa Pérez, 1982
 
 **What:** Civil marriage register entry for F9 (1982). Location unknown — possibly Camden Register Office or another London borough.
 
@@ -145,7 +135,7 @@ Outstanding sources for [Helia Cerpa-Pérez](../../people/helia-cerpa-perez.md) 
 
 ---
 
-## 12. Chilean civil registration — Cerpa and Pérez Escobar families
+## 11. Chilean civil registration — Cerpa and Pérez Escobar families
 
 **What:** Birth, marriage, and death records for Helia's parents and grandparents in the Maule region.
 
@@ -157,9 +147,9 @@ Outstanding sources for [Helia Cerpa-Pérez](../../people/helia-cerpa-perez.md) 
 | Laurencia del Carmen Pérez Escobar | birth 16 Jul 1912 | Parral, Linares |
 | Helia del Carmen Cerpa Pérez | birth 4 Jun 1943 | Parral, Linares |
 
-**Access:** FamilySearch Chile civil registration collection (1885–1932 for older events). Parral and Chanco commune civil offices. See research table on [Evans · Cerpa Pérez hub](../../topics/evans-cerpa-perez-london-chile.md).
+**Access (without FamilySearch):** Local Chanco index film in repo (`media/docs/chile-chanco/`); order actas via [Registro Civil](https://www.registrocivil.gob.cl/) / Archivo Histórico RC; Archivo Regional Maule `archivoregionaldelmaule@archivonacional.gob.cl`. Playbook: [research/chile-maule-civil-records-without-familysearch.md](../../research/chile-maule-civil-records-without-familysearch.md). Hub: [Evans · Cerpa Pérez](../../topics/evans-cerpa-perez-london-chile.md).
 
-**Action:** Browse FamilySearch catalog for Parral and Chanco civil registers. Order *certificados* from the relevant oficina if images are not online.
+**Action:** Order Chanco matrimonio **59/1909** and **8/1900** (parents on acta). Continue local index for Ana Delia birth (G nacimientos, ~1885–1895). Parral: parish archive + reconcile [1879 baptism corpus](../corpus/1879-baptism-francisco-antonio-perez-parral/).
 
 ---
 
@@ -168,14 +158,14 @@ Outstanding sources for [Helia Cerpa-Pérez](../../people/helia-cerpa-perez.md) 
 | Priority | Source | Difficulty | Yield |
 |----------|--------|------------|-------|
 | **1** | Italian embassy roster (Archivo Nacional, caja 271) | Medium — requires archive contact | Confirms exile route |
+| **1b** | **Done (2026):** ACNUR roster via IA Uruguay SID roll 798 | Low — [corpus](../corpus/uruguay-sid-acnur-exiliados-chilenos-cerpa-perez-1986/) | UNHCR exile register 1986; Helia named |
 | **2** | INDH Valech case files (3 relatives) | Medium — family request | Extended-family detention details |
 | **3** | Corporación Estadio Nacional (507-name list + plaques) | Low — email contact | Memorial confirmation |
-| **4** | Carlos Cerpa Miranda contact | Low — public figure | Family connection |
-| **5** | De Masi memoir (*Santiago*, 2013) | Low — purchase | May name Helia |
-| **6** | *Camarines de Mujeres* (Vidaurrazaga, 2019) | Low — PDF available | Camarín testimony |
-| **7** | Intermediate banned lists (Contraloría/Museo) | High — deep archive | Ban removal date |
-| **8** | Marriage certificate (GRO, 1982) | Low — index search | Civil record |
-| **9** | UK arrival records (TNA/Living Refugee Archive) | Medium — archive search | Arrival date and status |
-| **10** | Chilean civil registration | Medium — FamilySearch + orders | Genealogical foundation |
-| **11** | *Cien voces rompen el silencio* (Kunstmann, 2008) | Low — purchase | May contain testimony |
-| **12** | *Santiago, Italia* documentary (Moretti, 2018) | Low — streaming | Visual evidence |
+| **4** | De Masi memoir (*Santiago*, 2013) | Low — purchase | May name Helia |
+| **5** | **Done (2026):** *Camarines de Mujeres* — no Cerpa hit on IA | Low | Negative |
+| **6** | Intermediate banned lists (Contraloría/Museo) | High — deep archive | Ban removal date |
+| **7** | Marriage certificate (GRO, 1982) | Low — index search | Civil record |
+| **8** | UK arrival records (TNA/Living Refugee Archive) | Medium — archive search | Arrival date and status |
+| **9** | Chilean civil registration | Medium — FamilySearch + orders | Genealogical foundation |
+| **10** | *Cien voces rompen el silencio* (Kunstmann, 2008) | Low — purchase | May contain testimony |
+| **11** | *Santiago, Italia* documentary (Moretti, 2018) | Low — streaming | Visual evidence |

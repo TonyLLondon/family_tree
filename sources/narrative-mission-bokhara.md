@@ -37,9 +37,9 @@ Confirms Edward's social standing — accompanying the British consul-general on
 - [Daoud Khan paragraph (image)](../media/docs/Daoud%20Khan%20Paragraph%20-%20Narrative%20of%20a%20Mission%20to%20Bokhara.JPG)
 - [Edward Burgess paragraph (image)](../media/docs/Edward%20Burgess%20Paragraph%20-%20Narrative%20of%20a%20Mission%20to%20Bokhara.JPG)
 
-## Corpus extract
+## Source record extract
 
-- [corpus/narrative-mission-bokhara/extracted.pdf.md](corpus/narrative-mission-bokhara/extracted.pdf.md)
+- [extracted.pdf.md](corpus/narrative-mission-bokhara/extracted.pdf.md)
 
 ## People linked
 

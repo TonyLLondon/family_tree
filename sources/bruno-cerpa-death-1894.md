@@ -10,6 +10,5 @@
 
 Civil death registration confirming **Justo Cerpa + Rosario Mendez** as parents of Bruno Cerpa, brother of Fabián Cerpa. Cross-validates the colonial ancestry connection.
 
-## Corpus
-
+## Source record
 **Transcription and original image:** [chile-cerpa-line-extension-2026](corpus/chile-cerpa-line-extension-2026/) - Record Q241-8DL9

@@ -5,7 +5,7 @@ kind: web
 
 # Connections BMC — Saginian / Anna / Tamar reference
 
-**Bundle (HTML mirror + extracted Markdown + provenance):** [corpus/connectionsbmc-saginian-interview/](corpus/connectionsbmc-saginian-interview/) — `mirror.html`, `extracted.web.md`, `source.yaml`.
+**Source record (HTML mirror + extracted Markdown + provenance):** [full record](corpus/connectionsbmc-saginian-interview/) — `mirror.html`, `extracted.web.md`, `source.yaml`.
 
 **Re-fetch:** `.venv/bin/python scripts/ingest_source.py web --slug connectionsbmc-saginian-interview --url "https://connectionsbmc.wordpress.com/2013/01/14/134/" --title "Connections BMC — Saginian interview"`
 

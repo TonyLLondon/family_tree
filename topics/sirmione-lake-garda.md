@@ -47,7 +47,7 @@ David died on **22 August 2000** at Brighton and Hove. Fulvia followed four mont
 ## Evidence
 
 - **Wedding trousseau customs declaration (15–17 Oct 1947):** [Customs151047-01.jpg](../media/docs/sirmione-villa-ester/Customs151047-01.jpg)–[04](../media/docs/sirmione-villa-ester/Customs151047-04.jpg), [Customs171047-01.jpg](../media/docs/sirmione-villa-ester/Customs171047-01.jpg), [Customs171047-02.jpg](../media/docs/sirmione-villa-ester/Customs171047-02.jpg).
-- **Original INCOM magazine scans (10 May 1958):** [INCOM100558-01.jpg](../media/docs/sirmione-villa-ester/INCOM100558-01.jpg)–[07](../media/docs/sirmione-villa-ester/INCOM100558-07.jpg) — *La Settimana INCOM Illustrata*, N. 19, Anno XI. Correspondent Savino Mariani. Web extract: [corpus](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/).
+- **Original INCOM magazine scans (10 May 1958):** [INCOM100558-01.jpg](../media/docs/sirmione-villa-ester/INCOM100558-01.jpg)–[07](../media/docs/sirmione-villa-ester/INCOM100558-07.jpg) — *La Settimana INCOM Illustrata*, N. 19, Anno XI. Correspondent Savino Mariani. Web extract: [GBOpera article](../sources/corpus/gbopera-2009-telefoni-e-rose-sirmione-callas/).
 - **Fulvia at Villa Ester (photo):** [media/docs/Fulvia Zerauschek at Villa Ester Sirmione.png](../media/docs/Fulvia%20Zerauschek%20at%20Villa%20Ester%20Sirmione.png).
 - **Villa exterior (c. 1958):** [media/docs/Villa Ester Sirmione exterior c1958.png](../media/docs/Villa%20Ester%20Sirmione%20exterior%20c1958.png).
 - **Battalion Orders No. 113 (4 Dec 1945):** [DJ-BattOrd041245-01.jpg](../media/docs/david-john-lewis-war/service-history/DJ-BattOrd041245-01.jpg), [-02](../media/docs/david-john-lewis-war/service-history/DJ-BattOrd041245-02.jpg).

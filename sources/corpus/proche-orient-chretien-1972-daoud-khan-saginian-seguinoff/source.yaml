@@ -1,0 +1,16 @@
+id: proche-orient-chretien-1972-daoud-khan-saginian-seguinoff
+title: "Proche-Orient chrétien 1972 — Daoud Khan Saginian / Séguinoff (excerpt)"
+remote:
+  primary_pdf_url: https://archive.org/download/proche-orient-chretien_1972_22/proche-orient-chretien_1972_22.pdf
+  webpage_url: https://archive.org/details/proche-orient-chretien_1972_22
+fetches:
+- kind: pdf
+  at: '2026-06-19T09:00:00Z'
+  note: "Page PNGs only in repo; full journal PDF on IA (~25 MB)."
+files:
+  footnote_png: media/docs/internet-archive/saginian/proche-orient-chretien-1972-22-footnote-125-daoud-khan-saginian.png
+  sarparast_png: media/docs/internet-archive/saginian/proche-orient-chretien-1972-22-sarparast-askar-khan-daoud.png
+  reference: reference.md
+  transcription_fr_footnote: transcription-footnote-125-daoud-khan-saginian.fr.md
+  transcription_fr_sarparast: transcription-sarparast-askar-khan-daoud.fr.md
+  translation_en_footnote: translation-footnote-125-daoud-khan-saginian.en.md

@@ -2,7 +2,9 @@
 
 **Primary artifact:** [media/albums/etienne-house/Mahmoudieh - Copy.html](../media/albums/etienne-house/Mahmoudieh%20-%20Copy.html) (Word-exported email, Aug 2008)
 
-**Correspondent:** Shireen Mahdavi (SKhistory@aol.com) to **John Henderson** (not to the vault owner); subject line includes *Re: FW: Edward Burgess Letters*. The vault holds a **saved copy** of that correspondence; treat the bullet summary below as a **research lead** until matched to **Mustawfi** pagination.
+**Correspondent:** Shireen Mahdavi (SKhistory@aol.com) to **John Henderson** (not to the vault owner); subject line includes *Re: FW: Edward Burgess Letters*. The vault holds a **saved copy** of that correspondence.
+
+**Primary citation (2026):** [full record](corpus/mustowfi-mahmoudieh-dr-stemp-dli-508037/) — Mustowfi *Sharh-e Zendegani-ye Man*, **vol. 1, p. 51** (printed); facsimile, Persian transcription, English translation; full PDF at [media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf](../media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf). Use this source record for citation; the email below is a secondary paraphrase.
 
 **Acquirables / wishlist:** [wishlist/mahmoudieh-mustawfi-house.md](wishlist/mahmoudieh-mustawfi-house.md)
 
@@ -15,11 +17,12 @@
 
 ## Related files
 
+- **Source record (primary):** [full record](corpus/mustowfi-mahmoudieh-dr-stemp-dli-508037/) · [source card](mustowfi-mahmoudieh-dr-stemp-dli-508037.md)
 - [media/albums/etienne-house/Mahmoudieh.xml](../media/albums/etienne-house/Mahmoudieh.xml)
 - Full archive catalog: [archive/index.md](../archive/index.md)
 - Topic: [topics/mahmoudieh-house.md](../topics/mahmoudieh-house.md)
-- **Hamshahri Online (2022):** [hamshahri-mahmoudieh-stump.md](hamshahri-mahmoudieh-stump.md) · [corpus/hamshahri-mahmoudieh-stump/](corpus/hamshahri-mahmoudieh-stump/) · [translation](corpus/hamshahri-mahmoudieh-stump/translation.en.md) — Persian article expanding the ownership chain (Mo'ayyer al-Mamalek → Mohammad Shah → Ala-ud-Dowleh → Alamir → Sahebdivan → Mohammad Hossein Amin al-Zarb → Stump).
-- **Corpus (Stump / dentistry context):** [corpus/beytoote-stump-dentist-atabak-ahmadshah/](corpus/beytoote-stump-dentist-atabak-ahmadshah/) · [corpus/iranica-dentistry-article/](corpus/iranica-dentistry-article/) · [corpus-bibliography.md](corpus-bibliography.md)
+- **Hamshahri Online (2022):** [hamshahri-mahmoudieh-stump.md](hamshahri-mahmoudieh-stump.md) · [full record](corpus/hamshahri-mahmoudieh-stump/) · [translation](corpus/hamshahri-mahmoudieh-stump/translation.en.md) — Persian article expanding the ownership chain (Mo'ayyer al-Mamalek → Mohammad Shah → Ala-ud-Dowleh → Alamir → Sahebdivan → Mohammad Hossein Amin al-Zarb → Stump).
+- **Source record (Stump / dentistry context):** [full record](corpus/beytoote-stump-dentist-atabak-ahmadshah/) · [full record](corpus/iranica-dentistry/) · [corpus-bibliography.md](corpus-bibliography.md)
 - **Manual synthesis PDF:** [manual/Mahmoudieh…pdf](../manual/Mahmoudieh_Muhammadieh%20Estate_%20Location%2C%20Ownership%2C%20and%20Transformation.pdf)
 
 ## People

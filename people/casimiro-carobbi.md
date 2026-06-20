@@ -40,8 +40,8 @@ The Carobbi trajectory — Senj (birth) → Kotor (marriage 1820) → Zara (sett
 ## Evidence
 
 - **Tree id:** **I63** — unions **F31**, **F32**; Geni URL in **SOUR**; FamilySearch **L22T-TMX**.
-- **Death register, Zara, 1866:** [corpus](../sources/corpus/1866-death-casimiro-carobbi-zara/reference.md) — field-level transcription pending; should reveal occupation and age at death.
-- **Marriage register of daughter Vittoria, Zara, 1849:** [corpus](../sources/corpus/1849-marriage-boara-carobbi-zara/reference.md) — marriage of Vittoria Carobbi × Simeone Boara (F11).
+- **Death register, Zara, 1866:** [reference](../sources/corpus/1866-death-casimiro-carobbi-zara/reference.md) — field-level transcription pending; should reveal occupation and age at death.
+- **Marriage register of daughter Vittoria, Zara, 1849:** [reference](../sources/corpus/1849-marriage-boara-carobbi-zara/reference.md) — marriage of Vittoria Carobbi × Simeone Boara (F11).
 
 ## Wishlist
 

@@ -19,6 +19,9 @@ Each folder is one **ingested source**: provenance in `source.yaml`, plus whatev
 | `charles-burgess-portrait-nypl-context` | PDF | Charles Burgess portrait (sibling context) |
 | `levantine-freemasonry` | PDF | Levantine Heritage Freemasonry volume (remote fetch) |
 | `connectionsbmc-saginian-interview` | Web | WordPress mirror + extract |
+| `armen-saginian-2022-thank-you-america-dawood-khan-chapter` | PNG + MD | Armen Saginian — *Thank You, America & Americans* (2022), ch. *Who Was Dawood Khan Saginashvilli* |
+| `armen-saginian-2022-thank-you-america-who-was-my-father-chapter` | PNG + MD | Same memoir — ch. *Who Was My Father* (Hovsep, Gulistan 1813 narrative) |
+| `cormick-family-tree-chart-william-tamar-daoudian` | PNG + MD | Printed **Cormick** tree — William × **Tamar DAOUDIAN**, m. 1850 Tabriz; patronymic **Daoud** |
 | `nypl-archives-mss-431-curl-mirror` | Web | NYPL archives mss/431 — curl Incapsula challenge shell only (not finding aid) |
 | `en-wikipedia-william-cormick-curl-mirrors` | Web | Wikipedia (en) William Cormick — REST v1 + desktop HTML + trafilatura extract |
 | `obrien-roche-url-offline-captures` | Web | Roche/Limerick legacy URLs — fifteen numbered `curl` HTML captures + `reference.md` |

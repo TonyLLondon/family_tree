@@ -1,0 +1,14 @@
+id: armen-saginian-2022-thank-you-america-gorgin-descendants-tamar-chapter
+title: "Armen Saginian — Thank You, America & Americans (2022), Gorgin Khan descendants (incl. Tamara Khanum)"
+remote: {}
+fetches:
+  - kind: local_png
+    at: "2026-05-09T12:00:00Z"
+    repo_path: media/docs/armen-saginian-2022-thank-you-america-gorgin-descendants-tamar-spread.png
+    sha256: 755b1075bc422477e017c442a9ff43b61ed77e6f1a84c337e80381f3a21f62e8
+    bytes: 175375
+    note: Two-page spread; continues mid-sentence from prior printed page (not in vault); includes embedded photograph with ambiguous captions.
+files:
+  media_reference: media/docs/armen-saginian-2022-thank-you-america-gorgin-descendants-tamar-spread.png
+  reference_md: reference.md
+  transcription_md: transcription.md

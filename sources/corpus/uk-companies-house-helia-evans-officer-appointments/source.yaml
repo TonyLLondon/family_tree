@@ -1,0 +1,20 @@
+id: uk-companies-house-helia-evans-officer-appointments
+title: "UK Companies House — Helia Evans officer appointments (snapshot)"
+date: 2026-06-19
+language: en
+description: >
+  Transcription of Companies House public officer-register entries for Helia
+  Evans (date of birth June 1943), confirming Somers Town/Ossulston addresses
+  and voluntary directorships 1993–2024.
+remote:
+  webpage_url: https://find-and-update.company-information.service.gov.uk/officers/yd3x_MmxpDTs07aBvPBykUNTCIs/appointments
+fetches:
+  - kind: web
+    at: "2026-06-19T23:15:00Z"
+    remote_url: https://find-and-update.company-information.service.gov.uk/officers/yd3x_MmxpDTs07aBvPBykUNTCIs/appointments
+  - kind: web
+    at: "2026-06-19T23:15:00Z"
+    remote_url: https://find-and-update.company-information.service.gov.uk/officers/0wcwtY5YTLgZwKxGaOVTGPHTjjg/appointments
+files:
+  reference_md: reference.md
+  transcription_md: transcription.md

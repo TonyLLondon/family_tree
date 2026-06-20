@@ -28,7 +28,7 @@ Marriage entered in **Latin** in the Metropolitan parish of **Sv. Stošija**, Za
 - **Death of bride, Zara, 1749:** [1749-death-margherita-lanfranchi-addobbati-zara](../1749-death-margherita-lanfranchi-addobbati-zara/) — followed by Daniele's second marriage to Laura Tori within weeks (12 Mar 1749).
 - **Baptism of son Luigi, Duomo di Zara, 1744:** [1744-baptism-luigi-addobbati-zara](../1744-baptism-luigi-addobbati-zara/) — names both Daniele (*cittadino*) and Margherita.
 - **DAZD HR-DAZD-342 sig. 52 (23 Dec 1783):** Independent attested copy of Luigi's 1744 baptism naming Daniele and Margherita as parents. See [dazd-addobbati-family-fonds](../dazd-addobbati-family-fonds/).
-- **Sabalich, *Guida archeologica di Zara* (1897), pp. 503–506:** Daniele as one of three brothers (with Lorenzo, 1705, and Giuseppe, 1709) admitted as *cittadini originari* on **13 November 1733** — three years after this marriage. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), pp. 503–506:** Daniele as one of three brothers (with Lorenzo, 1705, and Giuseppe, 1709) admitted as *cittadini originari* on **13 November 1733** — three years after this marriage. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara/).
 
 ## People
 

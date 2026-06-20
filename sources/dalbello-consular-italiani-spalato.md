@@ -9,7 +9,7 @@ kind: pdf
 
 **Remote PDF:** [crsrv.org — Atti vol. 24 — Dalbello article](https://crsrv.org/PDF/Atti/Atti-24/Mladen-Culic-Dalbello-Gli-albori-consolari-italiani-come-patrimonio-giuridico-della-civilta-crepuscolare-veneta-a-Spalato.pdf)
 
-**Corpus bundle:** [corpus/dalbello-consular-italiani-spalato/](corpus/dalbello-consular-italiani-spalato/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/dalbello-consular-italiani-spalato/extracted.pdf.md).
+**Source record:** [full record](corpus/dalbello-consular-italiani-spalato/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/dalbello-consular-italiani-spalato/extracted.pdf.md).
 
 ## Summary
 

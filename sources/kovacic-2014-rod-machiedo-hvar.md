@@ -9,7 +9,7 @@ kind: pdf
 
 **Open access:** [Hrčak landing](https://hrcak.srce.hr/129874) · [PDF on Hrčak](https://hrcak.srce.hr/file/191871)
 
-**Corpus bundle:** [corpus/kovacic-2014-rod-machiedo-hvar/](corpus/kovacic-2014-rod-machiedo-hvar/) — `source.yaml`, `original.pdf`, machine extract [extracted.pdf.md](corpus/kovacic-2014-rod-machiedo-hvar/extracted.pdf.md), human pointer [reference.md](corpus/kovacic-2014-rod-machiedo-hvar/reference.md).
+**Source record:** [full record](corpus/kovacic-2014-rod-machiedo-hvar/) — `source.yaml`, `original.pdf`, machine extract [extracted.pdf.md](corpus/kovacic-2014-rod-machiedo-hvar/extracted.pdf.md), human pointer [reference.md](corpus/kovacic-2014-rod-machiedo-hvar/reference.md).
 
 ## Summary
 

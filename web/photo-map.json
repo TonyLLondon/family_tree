@@ -41,6 +41,6 @@
   "I347":  { "src": "media/images/portraits/laurencia-perez-escobar.png", "focal": [0.30, 0.22], "zoom": 1.8 },
   "I100":  { "src": "media/images/portraits/woman-blue-dress-holding-baby-wingback-chair.jpg", "focal": [0.38, 0.25], "zoom": 2.5 },
   "I18":   { "src": "media/docs/Outdoor wedding guests man boutonniere sunglasses woman laughing.jpg", "focal": [0.30, 0.35], "zoom": 1.3 },
-  "I385":  { "src": "media/images/portraits/tamar-saginian-hovnatanian-portrait.png", "focal": [0.50, 0.30] },
-  "I386":  { "src": "media/images/portraits/william-cormick-hovnatanian-portrait.png", "focal": [0.50, 0.25] }
+  "I385":  { "src": "media/docs/cormick-saginian/tamar-saginian-portrait-colourised-cdv-h-dixon.jpg", "focal": [0.50, 0.30] },
+  "I386":  { "src": "media/docs/cormick-saginian/william-cormick-portrait-fez-decorations.jpg", "focal": [0.50, 0.25] }
 }

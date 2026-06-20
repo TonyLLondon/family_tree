@@ -33,11 +33,11 @@ Anna's marriage to Caspar Stump connects the **SCHUEMPERLI lineage** to the **ST
 
 **Swiss Reformed Protestant church records:**
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| FVKY-PZS | Baptism — 28 Feb 1608, Sulgen, Thurgau, parents Zacharias Schuemperly × Barbela Weber | [corpus](../sources/corpus/schuemperli-family-network-1590s-1625/reference.md) |
-| 68VT-B3GW | Father's burial — Zacharias Schümparli, 24 Jun 1625, Sulgen | [corpus](../sources/corpus/schuemperli-family-network-1590s-1625/reference.md) |
-| FVN4-VJ7 | Marriage — Caspar Stump × Anna Schuemperli | [corpus](../sources/corpus/caspar-stump-marriage-anna-schuemperli/reference.md) |
+| FVKY-PZS | Baptism — 28 Feb 1608, Sulgen, Thurgau, parents Zacharias Schuemperly × Barbela Weber | [reference](../sources/corpus/schuemperli-ancestry-extension-2026/reference.md) |
+| 68VT-B3GW | Father's burial — Zacharias Schümparli, 24 Jun 1625, Sulgen | [reference](../sources/corpus/schuemperli-ancestry-extension-2026/reference.md) |
+| FVN4-VJ7 | Marriage — Caspar Stump × Anna Schuemperli | [reference](../sources/corpus/caspar-stump-marriage-anna-schuemperli/reference.md) |
 
 **Research context:**  
 Extensive SCHUEMPERLI family network documented in Sulgen 1590s-1625 - [source card](../sources/schuemperli-ancestry-extension-2026.md)

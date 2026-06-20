@@ -16,6 +16,7 @@ verified: false
 - **Author:** C.H. Burgess (Charles Henry Burgess)
 - **Title:** "A Brief Notice Respecting the Trade of the Northern Provinces of Persia, Addressed to T.H. Villiers"
 - **Original date:** 1832 (written for Parliament; first private printing 1833)
+- **Early public reprint:** *The Portfolio* (1836) — [`../portfolio-1836-burgess-brief-notice-persia-villiers/reference.md`](../portfolio-1836-burgess-brief-notice-persia-villiers/reference.md) · facsimile: [`media/docs/internet-archive/burgess/portfolio-1836-burgess-brief-notice-excerpt.pdf`](../../../media/docs/internet-archive/burgess/portfolio-1836-burgess-brief-notice-excerpt.pdf)
 - **Reprinted:** *Iranian Studies* XVI:3–4 (Summer–Autumn 1983), pp. 281–293
 - **DOI:** [10.1080/00210868308701618](https://doi.org/10.1080/00210868308701618)
 - **Extract:** [`extracted.pdf.md`](extracted.pdf.md)
@@ -24,7 +25,7 @@ verified: false
 
 ## What this document is
 
-Charles Burgess's firsthand account of his inaugural Trebizond trade venture, written in **1832** for **T.H. Villiers** (a Commons contact), intended as a **Parliamentary Paper** for the **Board of Control**. Villiers died in 1832; the piece never became a Blue Book. A handful of copies were printed privately in 1833. The NYPL holds the manuscript, which Abrahamian reprinted in 1983.
+Charles Burgess's firsthand account of his inaugural Trebizond trade venture, written in **1832** for **T.H. Villiers** (a Commons contact), intended as a **Parliamentary Paper** for the **Board of Control**. Villiers died in 1832; the piece never became a Blue Book. A handful of copies were printed privately in 1833; the memorandum also appeared in ***The Portfolio*** (1836) under the heading *The Late T. H. Villiers, Esq.* (Internet Archive excerpt filed separately). The NYPL holds a manuscript copy, which Abrahamian reprinted in 1983.
 
 It is the **primary documentary source** establishing Charles — not Edward — as the pioneer of direct England → Persia trade via the Black Sea and Trebizond.
 
@@ -47,8 +48,8 @@ It is the **primary documentary source** establishing Charles — not Edward —
 
 ## Why this resolves the 1857 press attribution
 
-The 1857 *Morpeth Herald* / *Morning Post* piece credited an unnamed "English gentleman of the name of Burgess" with opening the Trebizond trade route. The *Brief Notice* names **Charles** as the first-person narrator of that same Gaushupongar snow story and the £6,000 Tabriz landing. The 1857 piece is almost certainly about **Charles**, with Edward as the Tabriz partner — not a separate "Burgess." See [edward-burgess.md](../../../../people/edward-burgess.md) evidence section.
+The 1857 *Morpeth Herald* / *Morning Post* piece credited an unnamed "English gentleman of the name of Burgess" with opening the Trebizond trade route. The *Brief Notice* names **Charles** as the first-person narrator of that same Gaushupongar snow story and the £6,000 Tabriz landing. The 1857 piece is almost certainly about **Charles**, with Edward as the Tabriz partner — not a separate "Burgess." See [edward-burgess.md](../../../people/edward-burgess.md) evidence section.
 
 ## People linked
 
-- [Edward Burgess](../../../../people/edward-burgess.md) — named explicitly as Brant's intended Tabriz commission merchant
+- [Edward Burgess](../../../people/edward-burgess.md) — named explicitly as Brant's intended Tabriz commission merchant

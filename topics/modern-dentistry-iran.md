@@ -24,7 +24,7 @@ The **Encyclopaedia Iranica** article on dentistry records: "Drs. Melczarski, a 
 
 The **Beytoote/Sayyah** synthesis and **Najm-Abadi** provide the clearest account of Stump's recruitment:
 
-- **1902**: Stump graduates from a dental school in **Chicago** (possibly under a *mandamus* arrangement).
+- **1902**: Stump graduates from the **German-American Dental College**, Chicago; Illinois State Board **refuses license** (30 April 1902); mandamus **dismissed** ([*Dental Digest*, Aug 1902](../sources/corpus/1902-dental-digest-etienne-stump-mandamus/transcription.md); [Tribune reprint](../sources/corpus/dental-register-stump-mandamus-1902/transcription.en.md)).
 - **1904**: **Atabak-e A'zam** (Amin al-Soltan) and **Mokhbar al-Saltaneh Hedayat** travel to New York; they hire Stump.
 - Stump arrives in Tehran and becomes **Atabak's personal dentist**. After the **assassination of Atabak** in **1907**, he stays on and transitions to serving **Ahmad Shah**.
 - His clinic stood at the intersection of **Manuchehri** and **Ferdowsi** streets; he maintained a garden at **Fisherabad–Iranshahr**.
@@ -62,8 +62,8 @@ Sayyah also records that Stump built a "magnificent villa in old [Mahmoudieh](ma
 
 | Source | Location |
 |--------|----------|
-| Encyclopaedia Iranica — "Dentistry" | [source card](../sources/iranica-dentistry.md) · [corpus](../sources/corpus/iranica-dentistry-article/) |
-| Beytoote / Sayyah / Najm-Abadi synthesis | [corpus](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/) · [translation](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md) |
+| Encyclopaedia Iranica — "Dentistry" | [source card](../sources/iranica-dentistry.md) · [full record](../sources/corpus/iranica-dentistry/) |
+| Beytoote / Sayyah / Najm-Abadi synthesis | [Beytoote source record](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/) · [translation](../sources/corpus/beytoote-stump-dentist-atabak-ahmadshah/translation.en.md) |
 | Hamshahri — Mahmoudieh / Stump (2022) | [source card](../sources/hamshahri-mahmoudieh-stump.md) · [translation](../sources/corpus/hamshahri-mahmoudieh-stump/translation.en.md) |
 | TUMS Faculty of Dentistry history booklet | [PDF](https://dentistry.tums.ac.ir/uploads/438/2024/Oct/19/new%20booklet.pdf) |
 

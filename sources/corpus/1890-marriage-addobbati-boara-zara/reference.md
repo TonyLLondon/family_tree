@@ -32,11 +32,11 @@ Marriage entry **N. 8** in the **Basilica Metropolitana** of **Zara** (cathedral
 
 ## Cross-confirmation
 
-- **Birth of groom, Sv. Stošija, Zara, 5 May 1852** — to be added to the corpus when imaged.
+- **Birth of groom, Sv. Stošija, Zara, 5 May 1852** — to be added as a dedicated source page when imaged.
 - **Marriage of groom’s parents, Sv. Šime, Zara, 26 Oct 1845:** [1845-marriage-addobbati-rovaro-brizzi-zara](../1845-marriage-addobbati-rovaro-brizzi-zara/).
 - **Marriage of bride’s parents, Sv. Šime, Zara, 8 Aug 1849:** [1849-marriage-boara-carobbi-zara](../1849-marriage-boara-carobbi-zara/).
 - **Birth of bride’s mother, Zara, 10 Oct 1828** — not yet imaged.
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 508** — Addobbati civic list, including Pietro Paolo (Geralda’s late husband) and the marriage alliances of the family. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 508** — Addobbati civic list, including Pietro Paolo (Geralda’s late husband) and the marriage alliances of the family. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara/).
 
 ## People
 

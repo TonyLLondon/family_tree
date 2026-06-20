@@ -73,7 +73,7 @@ Lodge-level minute books and district officer lists from these collections would
 
 ## Sources
 
-- *Aberdare Leader*, 18 August 1967, p. 8 — Samuel Lewis obituary: [transcription](../sources/corpus/samuel-lewis-obituary-notices-1967/transcription-translation.en.md) · [source card](../sources/samuel-lewis-obituary-1967.md)
+- *Aberdare Leader*, 18 August 1967, p. 8 — Samuel Lewis obituary: [transcription](../sources/corpus/samuel-lewis-obituary-1967/transcription-translation.en.md) · [source card](../sources/samuel-lewis-obituary-1967.md)
 - Cynon Valley Museum Trust, "Shepherds, Foresters and Buffaloes: The Friendly Societies of Aberdare" (2021): <https://cynonvalleymuseum.wales/2021/02/17/shepherds-foresters-and-buffaloes-the-friendly-societies-of-aberdare/>
 - R. Ivor Parry, "Friendly Societies at Aberdare" (Cynon Valley History Society): <https://www.cvhs.org.uk/RIP_history/friendly_socs.html>
 - *Ritual for Conferring the Degree of Past Provincial Grand Master* (IOOF Manchester Unity, 1967): <https://www.stichtingargus.nl/vrijmetselarij/s/ioofmu_rppgm.html>

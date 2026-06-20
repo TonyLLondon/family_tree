@@ -14,11 +14,11 @@ url: https://brill.com/display/book/9789004387287/BP000013.xml
 
 # Maeda 2019 — Lives of the Enikolopians
 
-Scholarly chapter tracing the Enikolopian/Enikolopiant family across Georgia and Qajar Iran. Chapter 6 of the Brill volume *The Persianate World: Rethinking a Shared Sphere* (eds. Amanat & Ashraf). Not open access; local focused corpus bundle: [corpus/maeda-2019-enikolopians-saginian-flight/](corpus/maeda-2019-enikolopians-saginian-flight/) — [reference](corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md).
+Scholarly chapter tracing the Enikolopian/Enikolopiant family across Georgia and Qajar Iran. Chapter 6 of the Brill volume *The Persianate World: Rethinking a Shared Sphere* (eds. Amanat & Ashraf). Not open access; local focused source record: [full record](corpus/maeda-2019-enikolopians-saginian-flight/) — [reference](corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md).
 
 ## Key evidence for Saginian line
 
-Now directly in corpus: [corpus/maeda-2019-enikolopians-saginian-flight/](corpus/maeda-2019-enikolopians-saginian-flight/) — rendered facsimiles (all 27 pages), focused snippets of the Saginean passages, and commentary. The following is based on direct reading of the text:
+Now in the vault: [full record](corpus/maeda-2019-enikolopians-saginian-flight/) — rendered facsimiles (all 27 pages), focused snippets of the Saginean passages, and commentary. The following is based on direct reading of the text:
 
 - **David Saginean and Zaal Saginean** are identified at **p. 189** as Georgian brothers who fled Russia with Solomon/Solayman Khan in early **1811**, motivated by fear of forced relocation to Russia and religious conversion.
 - The departure pretext is recorded in **note 72 (p. 189)**: Solomon and David asked their senior Russian officer for permission to visit Tbilisi; "The officer thought they wished to participate in **wrestling** and permitted them to go."
@@ -42,4 +42,4 @@ Now directly in corpus: [corpus/maeda-2019-enikolopians-saginian-flight/](corpus
 
 ## See also
 
-- [wikipedia-solayman-khan-saham-al-dowleh.md](wikipedia-solayman-khan-saham-al-dowleh.md) — Wikipedia article that cites this chapter; mirrored locally at [corpus/wikipedia-solayman-khan-saham-al-dowleh/](corpus/wikipedia-solayman-khan-saham-al-dowleh/)
+- [wikipedia-solayman-khan-saham-al-dowleh.md](wikipedia-solayman-khan-saham-al-dowleh.md) — Wikipedia article that cites this chapter; mirrored locally at [full record](corpus/wikipedia-solayman-khan-saham-al-dowleh/)

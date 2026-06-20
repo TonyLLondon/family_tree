@@ -142,7 +142,7 @@ Helia died in 2025. She married [Joseph Evans](../people/joseph-evans-i18.md) in
 
 ### Prohibición de ingreso (banned list)
 
-- *Cartilla del Retornado* Nº 3, November 1985 (Comité Pro-Retorno de Exiliados / Vicaría de la Solidaridad) — "Cerpa Pérez, Helia del Carmen" on page 12 of the *Sexto listado* (6th edition, 15 July 1985; 4,360 names). Corpus: [1985-cartilla-retornado-3-prohibicion-ingreso](../sources/corpus/1985-cartilla-retornado-3-prohibicion-ingreso/source.yaml). Citation card: [cartilla-retornado-prohibicion-ingreso-1985.md](../sources/cartilla-retornado-prohibicion-ingreso-1985.md).
+- *Cartilla del Retornado* Nº 3, November 1985 (Comité Pro-Retorno de Exiliados / Vicaría de la Solidaridad) — "Cerpa Pérez, Helia del Carmen" on page 12 of the *Sexto listado* (6th edition, 15 July 1985; 4,360 names). Corpus: [1985-cartilla-retornado-3-prohibicion-ingreso](../sources/corpus/cartilla-retornado-prohibicion-ingreso-1985/source.yaml). Citation card: [cartilla-retornado-prohibicion-ingreso-1985.md](../sources/cartilla-retornado-prohibicion-ingreso-1985.md).
 
 ### Context
 

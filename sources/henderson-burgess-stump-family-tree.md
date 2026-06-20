@@ -25,10 +25,9 @@ Multi-sheet Excel workbook from the Henderson collection with four genealogical 
 - George Bottin: b. 1895
 - Étienne marriage: 1909, Tehran; b. 1880 Tallinn, d. 1951 Tehran
 
-## Corpus
-
+## Source record
 - Original: [media/albums/henderson/Burgess-Stump Family Tree.xls](../media/albums/henderson/Burgess-Stump%20Family%20Tree.xls)
-- CSVs: [corpus/henderson-burgess-stump-family-tree/](corpus/henderson-burgess-stump-family-tree/)
+- CSVs: [full record](corpus/henderson-burgess-stump-family-tree/)
 
 ## People
 

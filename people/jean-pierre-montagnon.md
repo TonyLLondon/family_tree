@@ -41,11 +41,11 @@ The connection could be confirmed definitively by viewing the original register 
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
 | 6NQL-QVQK | Burial — Jean Pierre Montagnon, 5 Mar 1737, Aubonne, b. 1692 | — |
-| 6NQL-FNRY | Named as father of JF Louis in family register, 28 Oct 1761 | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
-| 6NQ2-535L | Named as father of François Louis in burial, 26 Mar 1745 | [corpus](../sources/corpus/1745-burial-francois-louis-montagnon-aubonne/reference.md) |
+| 6NQL-FNRY | Named as father of JF Louis in family register, 28 Oct 1761 | [reference](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
+| 6NQ2-535L | Named as father of François Louis in burial, 26 Mar 1745 | [reference](../sources/corpus/1745-burial-francois-louis-montagnon-aubonne/reference.md) |
 
 ## Open questions
 

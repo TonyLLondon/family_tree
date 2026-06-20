@@ -35,10 +35,10 @@ The working tree gives the christening date as 15 October 1743, one month off fr
 
 ## Evidence
 
-| Record | Event | Corpus |
-|--------|-------|--------|
-| FVVF-NX7 | Baptism — 15 Sep 1743, Wigoltingen | [corpus](../sources/corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/reference.md) |
-| FVJZ-3ZV | Marriage — Haag × Freyenmuth, 1765 | [corpus](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
+| Record | Event | Reference |
+|--------|-------|-----------|
+| FVVF-NX7 | Baptism — 15 Sep 1743, Wigoltingen | [reference](../sources/corpus/1743-baptism-margaretha-freyenmuth-wigoltingen/reference.md) |
+| FVJZ-3ZV | Marriage — Haag × Freyenmuth, 1765 | [reference](../sources/corpus/1765-marriage-haag-freyenmuth/reference.md) |
 
 **Tree id:** **I183** — union **F92**; FamilySearch **K81F-HS2**.
 

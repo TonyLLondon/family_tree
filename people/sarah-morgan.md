@@ -41,11 +41,11 @@ Sarah died on **27 June 1887**, aged 82, and was buried at **St Fagan's, Aberdar
 
 ## Evidence
 
-- [Marriage — William Morgan × Sarah Watkins, Llanfairarybryn, 24 Oct 1831](../sources/corpus/1831-marriage-william-morgan-sarah-watkins-llanfairarybryn/transcription.md) — Both of Llanfairarybryn. Confirms maiden name **Watkins**. FMP `GBPRS/M/872063528/1`.
-- [1841 census — Morgan household, Coedevan, Llanfairarybryn](../sources/corpus/1841-census-morgan-household-llanfairarybryn-ho107-1386/transcription.md) — HO107/1386. Sarah Morgan, wife, age 35. FMP `GBC/1841/0015406646`.
-- [1851 census — Morgan household, Coedefaur, Llanfairarybryn](../sources/corpus/1851-census-morgan-household-llanfairarybryn-ho107-2470/transcription.md) — HO107/2470. Sarah Morgan, wife, age 49, born **Llanddaysaint, Carmarthenshire**. FMP `GBC/1851/0017202757`.
-- [1881 census — Griffiths household, 11 Clive Street, Aberdare](../sources/corpus/1881-census-griffiths-household-aberdare-rg11-5320/transcription.md) — RG11/5320. Sarah Morgan, mother-in-law, widow, age 75, born **Builth, Brecknockshire**. FMP `GBC/1881/0024882900`.
-- [Burial — Sarah Morgan, St Fagan's, Aberdare, 27 Jun 1887](../sources/corpus/1887-burial-sarah-morgan-st-fagans-aberdare/transcription.md) — age 82, 27 June 1887. Three indexes confirm.
+- [Marriage — William Morgan × Sarah Watkins, Llanfairarybryn, 24 Oct 1831](../sources/corpus/1831-marriage-william-morgan-sarah-watkins/transcription.md) — Both of Llanfairarybryn. Confirms maiden name **Watkins**. FMP `GBPRS/M/872063528/1`.
+- [1841 census — Morgan household, Coedevan, Llanfairarybryn](../sources/corpus/1841-census-morgan-household-llanfairarybryn/transcription.md) — HO107/1386. Sarah Morgan, wife, age 35. FMP `GBC/1841/0015406646`.
+- [1851 census — Morgan household, Coedefaur, Llanfairarybryn](../sources/corpus/1851-census-morgan-household-llanfairarybryn/transcription.md) — HO107/2470. Sarah Morgan, wife, age 49, born **Llanddaysaint, Carmarthenshire**. FMP `GBC/1851/0017202757`.
+- [1881 census — Griffiths household, 11 Clive Street, Aberdare](../sources/corpus/1881-census-griffiths-household-aberdare/transcription.md) — RG11/5320. Sarah Morgan, mother-in-law, widow, age 75, born **Builth, Brecknockshire**. FMP `GBC/1881/0024882900`.
+- [Burial — Sarah Morgan, St Fagan's, Aberdare, 27 Jun 1887](../sources/corpus/1887-burial-sarah-morgan-aberdare/transcription.md) — age 82, 27 June 1887. Three indexes confirm.
 - **Tree id:** **I658** — union **F242**.
 
 ## Open questions

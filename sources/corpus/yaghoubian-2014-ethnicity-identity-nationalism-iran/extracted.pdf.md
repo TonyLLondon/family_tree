@@ -1,23 +1,30 @@
 ---
-generated: 2026-03-30T13:52:52Z
+generated: 2026-05-14T09:20:45Z
 generator: pymupdf4llm
-source_file: "manual/Ethnicitity_identity and nationalism in Iran.pdf"
-page_markers: false
+source_file: "media/docs/David Yaghoubian - Ethnicity Identity and Nationalism in Iran.pdf"
+page_markers: true
 ---
+
+<!-- page 1 -->
 
 **==> picture [439 x 654] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
 q aea St| Liaalt S -. ’ Le) wore ~~ ee ot :&. t . ~g<br>N AS. Pty OS ~~ “as 4 at . + :<br>"Te ~ . oN. 3 A Wd . i : <<br>. : eee felt ee , ‘ we 3<br>4 j SS ‘y . » ee a . b * , :<br>by} ; : SAYx P|et sinfae a E :‘NiteT.. il é ‘.4 ea ;e | i € 5"> a. ‘ t c ral é<br>ee — } ae A per & ” “) th be<br>— owt at oe an Wis OS _ eS<br>> es 7 YoS Aefad SOP h ae>i. ma.TI (i ay# +} F ? \ ‘ 3 , y-<br>, on oe > 6) ; ’ Ww SAAS<br>: . 9. a se<i we Se> 3PS td 2 igPs# ee) A ¥ weeZz’ n ( ee4{ Be<br>. \ 1 Pc: “nat: 5‘ : \ oe Rae“ . ; \<br>awe i a) er ~e > ol 3 ¥ a<br>: we, ph. — r ; hy ¥ : \ ‘ a<br>>» aN 2 - . é SACD ‘a ‘ . . 5 R A<br>we , zx aes i “4 - t fe Gao oft ’<br>t <7 2 >< _ 2 2 4 Say aoe . es , ey ¥ y i<br>4 i<br>3 en f “Ate | Te eS be . Mea iek Se ase } he<br>. Ao : NS<br>oe re | Z “4 hc pee ‘ he we te a Res<br>fe all 7 . : » Pfr OES ‘s POLE Sov wh /<br>ok. " . s . Red PAO : fret tt pa SS<br>\S a.equ ts R~~y .~mt iedSe aed : RRA Aesf a irye hoap PRM4 aa2: be 2hAy<br>- : fieetones * pied LEY eA ee to, ees ier ‘. q<br>; " y Be eS : Eines<br>tS ~ ay q a4 iy a NRAge yA AS em .<br>y aN ae av th - =a)<br>aS, J oafatey MAOHs Oeease: eats anSerie rygE te sieee,  4 Listesp bbe [hl,] [UENO] Sy [ee]  QE [Wa] [Fae] OTSautinwy EHOSot osre VS AS 7 . :<br>ae Pel naan PN to iia = = WE. tL es 5 ,<br>% |<br>St, }<br>arRS. HeldYY ROLES sateee SSEhy, PAIRSrtBeOta B e eitRE he are ThreeeS aneROM Ne es pa , i : ie. i<br>LASSE ay ERE oe eS GRSB Rs paral ENR a ¢ a ne<br>AFwe RIOR OT wy MERONPerret are ee rims| NSNnara age{ringer mp neSek OEeer ae ro BRom < as“ = : pee ee ee<br>OTee ech ee NTE GRE pee IN eas Ae = : 7 :<br>Se peeSecsTR oe) yeaapotaseaeeaeRaa ttGye 5  EeSeeal DenneSMI tea [ot] [Omg] ON [RR] on [eine] 12 LNo OREne OLN EDne # ee a?anonSs? ae<br>**----- End of picture text -----**<br>
 
+<!-- page 2 -->
 
 investigates the ways in which Armenian minorities in Iran encountered Iranian nationalism and participated in its development over the course of the twentieth century. Based primarily on oral interviews, archival documents, memoirs, memorabilia, and photographs, the book examines the lives of a group of Armenian Iranians—a truck driver, an army officer, a parliamentary representative, a civil servant, and a scout leader—and explores the personal conflicts and paradoxes attendant upon their layered allegiances and compound identities. In documenting individual experiences in Iranian industry, military, government, education, and community organizations, the five social biographies detail the various roles of elites and nonelites in the development of Iranian nationalism and reveal the multiple forces that shape the processes of identity formation. Yaghoubian combines these portraits with a theoretical grounding to answer recurring pivotal questions about how nationalism evolves, why it is appealing, what broad forces and daily activities shape and sustain it, and the role of ethnicity in its development. 
 
-Jacket: Armenian Iranian boy scouts, including Victor Martin (with flag on back of jacket) and Nejde Hagobian (far right), of the Ararat organization march down Tehran’s Istanbul Avenue to Sepah Palace on Nowruz (New Year), where they were greeted by Shah Mohammad Reza Pahlavi and presented with gold medals as an eidi (Nowruz gift), 1955. Unknown photographer. Courtesy of Nejde Hagobian. 
+Jacket: Armenian Iranian boy scouts, including Victor Martin (with flag on back of jacket) and Nejde Hagobian (far right), of the Ararat organization march down Tehran’s Istanbul Avenue to Sepah Palace on Nowruz (New Year), where they were greeted by Shah Mohammad Reza Pahlavi and presented with gold medals as an eidi (Nowruz gift), 1955. Unknown photographer. Courtesy of Nejde Hagobian.
+
+<!-- page 3 -->
 
 Ethnicity, Identity, and the Development of Nationalism in Iran 
 
-Modern Intellectual and Political History of the Middle East Mehrzad Boroujerdi, _Series Editor_ 
+Modern Intellectual and Political History of the Middle East Mehrzad Boroujerdi, _Series Editor_
+
+<!-- page 4 -->
 
 Other titles in Modern Intellectual and Political History of the Middle East 
 
@@ -57,11 +64,15 @@ _Pax Syriana: Elite Politics in Postwar Lebanon_
 
 Rola el-Husseini 
 
-_Raging against the Machine: Political Opposition under Authoritarianism in Egypt_ Holger Albrecht 
+_Raging against the Machine: Political Opposition under Authoritarianism in Egypt_ Holger Albrecht
+
+<!-- page 5 -->
 
 Ethnicity, Identity, and the Development of Nationalism in Iran D AV I D  N.  YA G H O U B I A N 
 
-s y r a c u s e  u n i v e r s i t y p r e s s 
+s y r a c u s e  u n i v e r s i t y p r e s s
+
+<!-- page 6 -->
 
 Copyright © 2014 by Syracuse University Press Syracuse, New York 13244-5290 
 
@@ -91,11 +102,17 @@ ISBN 978-0-8156-3359-4 (cloth : alkaline paper) — ISBN 978-0-8156-5272-4 (e-bo
 
 2014011756 
 
-_Manufactured in the United States of America_ 
+_Manufactured in the United States of America_
 
-_For Terry_ 
+<!-- page 7 -->
 
-**David N. Yaghoubian** is associate professor of history at California State University, San Bernardino. He is coeditor, with Edmund Burke III, of _Struggle and Survival in the Modern Middle East_ , second edition (2006). 
+_For Terry_
+
+<!-- page 8 -->
+
+**David N. Yaghoubian** is associate professor of history at California State University, San Bernardino. He is coeditor, with Edmund Burke III, of _Struggle and Survival in the Modern Middle East_ , second edition (2006).
+
+<!-- page 9 -->
 
 ## Contents 
 
@@ -118,7 +135,11 @@ _For Terry_
 |Bibliography|_379_|
 |Index|_395_|
 
+<!-- page 10 -->
 
+
+
+<!-- page 11 -->
 
 ## Illustrations 
 
@@ -151,7 +172,9 @@ _For Terry_
 
 
 
-ix 
+ix
+
+<!-- page 12 -->
 
 x | _Illustrations_ 
 
@@ -192,7 +215,7 @@ x | _Illustrations_
 ||oil minister, 1975|_205_|
 |55.|NIPC conference delegates tour Japanese chemical plant, 1973|_206_|
 
-
+<!-- page 13 -->
 
 _Illustrations_ | xi 
 
@@ -223,7 +246,11 @@ _Illustrations_ | xi
 |79. Headstone of Armenian martyr of Iran-Iraq War, 2005|_287_|
 |80. Armenian Genocide commemoration march in Tehran, 2006|_296_|
 
+<!-- page 14 -->
 
+
+
+<!-- page 15 -->
 
 ## Preface 
 
@@ -231,13 +258,17 @@ t h r ough out  t h e summer  of  2008, in the waning months of the George W. Bu
 
 As public debate emerged regarding the potential benefi ts and perils of destabilizing the Iranian government or of bombing nuclear facilities and infrastructure while American military forces were burdened by commitments simultaneously in neighboring Iraq and Afghanistan, a general consensus developed among scholars of Iranian history and politics that the destabilization of Iran would not come about by means of agitation among the country’s ethnic and religious minorities, whatever 
 
-xiii 
+xiii
+
+<!-- page 16 -->
 
 xiv | _Preface_ 
 
 covert actions the United States might initiate. In a July 2008 _New Yorker_ article by investigative journalist Seymour M. Hersh that attempted to plot congressional appropriations for covert operations and gauge the potential for military strikes in the waning months of the Bush administration, Professor Vali Nasr succinctly stated why the strategy of attempting to use ethnic minorities to undermine Iran’s government was fl awed: “Just because Lebanon, Iraq and Pakistan have ethnic problems, it does not mean that Iran is suff ering from the same issue. Iran is an old country—like France and Germany—and its citizens are just as nationalistic. The U.S. is overestimating ethnic tension in Iran. You can always fi nd some activist groups that will go and kill a policeman, but working with the minorities will backfi re, and alienate the majority of the population.”[1] 
 
-Although Nasr’s juxtaposition of Iran to Lebanon, Iraq, and Pakistan is also applicable to neighboring Turkey and Afghanistan, where the status of minorities and issues of ethnicity and allegiance have arguably posed the greatest challenges to political stability and national cohesion, his observations regarding Iranian minorities and nationalism are spoton and accord with the conclusions of other Iran specialists rendered since 2005.[2] And yet although such informed commentary attesting to the unique character of Iranian nationalism and the relative loyalty of Iranian minorities is not diffi  cult to fi nd, to date there has not been an in-depth study that explores the history of Iranian nationalism with the primary goal of illustrating and documenting its mass appeal and resonance within Iran’s diverse population. How can we account for the allegiance inculcated via a Persian Islamic–oriented nationalism in a country that has only a 55 percent Persian-speaking majority and hosts substantial populations of linguistic minorities with historic and cultural ties to lands and peoples in bordering regions (Kurds, Baluchis, Azeris, Armenians, Arabs, Turkmen) as well as of religious minorities (Sunni Muslims, Christians, Zoroastrians, Jews)? How have modern Iranian regimes—whether royalist, secular nationalist, or Islamist in ideological orientation—sustained the loyalty of the nation’s diverse population throughout wars, invasions, occupations, coups, and revolutions and in the face of persistent outside agitation? Inversely, how have Iranian minorities contributed to the development of Iranian nationalism and deepened their connections 
+Although Nasr’s juxtaposition of Iran to Lebanon, Iraq, and Pakistan is also applicable to neighboring Turkey and Afghanistan, where the status of minorities and issues of ethnicity and allegiance have arguably posed the greatest challenges to political stability and national cohesion, his observations regarding Iranian minorities and nationalism are spoton and accord with the conclusions of other Iran specialists rendered since 2005.[2] And yet although such informed commentary attesting to the unique character of Iranian nationalism and the relative loyalty of Iranian minorities is not diffi  cult to fi nd, to date there has not been an in-depth study that explores the history of Iranian nationalism with the primary goal of illustrating and documenting its mass appeal and resonance within Iran’s diverse population. How can we account for the allegiance inculcated via a Persian Islamic–oriented nationalism in a country that has only a 55 percent Persian-speaking majority and hosts substantial populations of linguistic minorities with historic and cultural ties to lands and peoples in bordering regions (Kurds, Baluchis, Azeris, Armenians, Arabs, Turkmen) as well as of religious minorities (Sunni Muslims, Christians, Zoroastrians, Jews)? How have modern Iranian regimes—whether royalist, secular nationalist, or Islamist in ideological orientation—sustained the loyalty of the nation’s diverse population throughout wars, invasions, occupations, coups, and revolutions and in the face of persistent outside agitation? Inversely, how have Iranian minorities contributed to the development of Iranian nationalism and deepened their connections
+
+<!-- page 17 -->
 
 _Preface_ | xv 
 
@@ -245,13 +276,17 @@ to the land and allegiance to political regimes by way of their participation an
 
 Certainly the process of arriving at a complex understanding of Iranian nationalism requires the deciphering of its various, often competing ideological strains, meanings, and functions within Iran’s majority population of Persian-speaking Shi‘a Muslims. Yet the diversity of Iranian society and the broad appeal of Iranian national identity to the country’s minorities—who themselves use, shape, and sustain it—demands explication of the inclusive, collaborative characteristics that make Iranian nationalism so durable. This is why I argue that these questions cannot be answered by focusing solely on the dominant linguistic and religious majority, as the handful of existing studies on the subject attempt to do. This book demonstrates that vital insight can be gained into the appeal and durability of Iranian nationalism by understanding its evolution and functions within the country’s minority communities and that such an approach is key to answering the most compelling questions about this phenomenon. A brief explanation of the relationship between my research agenda in this study, the Armenian Iranian minorities on which it is focused, and the paucity of works on the subject of Iranian nationalism necessarily brings us back to the subject of ill-conceived US-inspired covert activities to destabilize the Iranian government and the tensions between scholarship, ideology, and policy. 
 
-Any beginning student of Iranian political history will soon encounter Richard Cottam’s prominent 1964 work _Nationalism in Iran._ Although the data on which the study is based were collected during the mid-1950s, Cottam’s sound general observations regarding the historical development of Iranian nationalism and perhaps the dearth of English-language studies on the subject have kept the text in wide circulation and commonly referenced. A new conclusion appended to a 1979 reprint further extended the book’s shelf life. Having originally traveled to Iran to gather data for his dissertation in 1951–52 as a Fulbright scholar, Cottam diverted from his research in June 1953 to take a position with the US Central Intelligence Agency (CIA) as an Iran specialist. By this time, Operation Ajax was well under way, rendering irrelevant any reservations the young 
+Any beginning student of Iranian political history will soon encounter Richard Cottam’s prominent 1964 work _Nationalism in Iran._ Although the data on which the study is based were collected during the mid-1950s, Cottam’s sound general observations regarding the historical development of Iranian nationalism and perhaps the dearth of English-language studies on the subject have kept the text in wide circulation and commonly referenced. A new conclusion appended to a 1979 reprint further extended the book’s shelf life. Having originally traveled to Iran to gather data for his dissertation in 1951–52 as a Fulbright scholar, Cottam diverted from his research in June 1953 to take a position with the US Central Intelligence Agency (CIA) as an Iran specialist. By this time, Operation Ajax was well under way, rendering irrelevant any reservations the young
+
+<!-- page 18 -->
 
 xvi | _Preface_ 
 
 scholar-turned-operative might have had regarding the covert plan to overthrow the government of Prime Minister Mohammad Mossadegh and the National Front, the progressive/secular nationalist umbrella. In the wake of the CIA-inspired coup of August 19, 1953, which resulted in Mossadegh’s arrest and Shah Mohammad Reza Pahlavi’s return as dictator, Cottam cultivated contacts and maintained close relationships with members of the National Front, arguing to his superiors that Ajax had been a mistake and that the United States should instead be supporting the shah’s liberal opposition. Cottam was subsequently stationed at the American embassy in Tehran from 1956 to 1958, where undercover as a political offi  cer for the State Department, he was tasked with monitoring the National Front and began covertly promoting its agenda. Following the exposure in 1958 of a coup plot by prominent progressive nationalists in which Cottam’s own role remains unclear, Cottam resigned from the CIA and returned to academia. By way of a somewhat disillusioning career with the CIA, he had cultivated an appreciation for Iranian aspirations for sovereignty and a complex understanding of the intricacies of Iranian politics during the 1950s. He certainly had an expanded set of data and experiential knowledge to complete his book on Iranian nationalism in 1964, although the exact wellspring of his knowledge and research agenda would remain secret for almost two decades.[3] 
 
-The insights aff orded by revelations of Cottam’s personal experiences in Iranian politics, some of which came to light after the 1979 Iranian Revolution and others that followed his death in 1997, render _Nationalism in Iran_ perhaps an even more compelling text in that one can account for Cottam’s seeming obsession with the National Front and relatively boisterous—and arguably prophetic—condemnation of American policy, press coverage, and scholarship regarding Mossadegh and the shah. At the same time, these insights help explain why the bulk of the analysis is centered on national politics of the 1920s through the 1950s and why Cottam’s coverage of minorities is thinly documented and based largely on logical yet untested and ultimately fl awed assumptions. That Cottam considered Iranian minorities at all is laudable, especially as the text has remained the only English-language study on the subject of Iranian nationalism that does so. Yet without a lineage of subsequent analyses 
+The insights aff orded by revelations of Cottam’s personal experiences in Iranian politics, some of which came to light after the 1979 Iranian Revolution and others that followed his death in 1997, render _Nationalism in Iran_ perhaps an even more compelling text in that one can account for Cottam’s seeming obsession with the National Front and relatively boisterous—and arguably prophetic—condemnation of American policy, press coverage, and scholarship regarding Mossadegh and the shah. At the same time, these insights help explain why the bulk of the analysis is centered on national politics of the 1920s through the 1950s and why Cottam’s coverage of minorities is thinly documented and based largely on logical yet untested and ultimately fl awed assumptions. That Cottam considered Iranian minorities at all is laudable, especially as the text has remained the only English-language study on the subject of Iranian nationalism that does so. Yet without a lineage of subsequent analyses
+
+<!-- page 19 -->
 
 _Preface_ | xvii 
 
@@ -261,7 +296,9 @@ Cottam plotted the level of allegiance of Iranian minorities and their potential
 
 Armenian history was long and proud and, unlike that of the Kurds, not an appendage of the Iranian past. Armenian culture, far richer than Kurdish, was more distinct from the Iranian. Although the Armenian, Kurdish, and Persian languages were all related, Armenian diff ered profoundly from the other two and was written in a diff erent script from the Arabic used by both Iranians and Kurds. Finally, the Armenians were Christians, and the gulf between Iranian Moslems and Armenian Christians was certainly far greater than that separating the Iranian Shi‘ite from the Kurdish Sunni. In addition, a larger proportion of the Armenian population than of the Kurdish was educated, had contact with the West, and was hence receptive to nationalism.[5] 
 
-By factoring religious and linguistic proximity with his own subjective comparisons of relative pride and cultural richness, Cottam assumed that Armenian receptivity to nationalism was inherently to _Armenian_ nationalism and thus concluded that contemporary (i.e., 1950s) Iranian politics and international developments had “destroyed any possibility 
+By factoring religious and linguistic proximity with his own subjective comparisons of relative pride and cultural richness, Cottam assumed that Armenian receptivity to nationalism was inherently to _Armenian_ nationalism and thus concluded that contemporary (i.e., 1950s) Iranian politics and international developments had “destroyed any possibility
+
+<!-- page 20 -->
 
 xviii | _Preface_ 
 
@@ -269,13 +306,21 @@ that Armenians might embrace Iranian nationalism.” Accordingly, he foresaw “
 
 Conceding the advantage aff orded by twenty/twenty hindsight, it would be obvious to any informed observer of modern Iranian history or contemporary Iranian society that Cottam had things backward. Political and social developments in Iran and internationally in the intervening fi fty years have proven exactly the inverse. Throughout the remaining decades of the Pahlavi regime, the Iranian Revolution, and Iran-Iraq War, the Armenian Iranian population deepened its fi delity to and stake in Iranian nationalism and almost universally chose not to immigrate to the neighboring Republic of Armenia following its independence in 1991. And yet, like Vali Nasr’s integrally related point, given earlier, regarding the allegiance of Iranian minorities and Iranian nationalist sensibilities, such informed observations are essentially hearsay, without sustained analysis and documentation. Recognizing the value of Cottam’s study as an essential if problematic seminal work, _Ethnicity, Identity, and the Development of Nationalism in Iran_ draws from its framework and hypotheses regarding the Armenians of Iran to advance and refi ne our understanding of Iranian nationalism. 
 
-Because the parameters Cottam identifi ed regarding the religious and linguistic proximity of Armenians were correct, and especially because his predictions at the time based on those factors turned out to be completely mistaken, Armenian Iranians are arguably the most important single group within Iran to study at present if one seeks to understand the mass appeal of Iranian nationalism and the dynamics of popular receptivity to it. Armenians do in fact hold deep attachments to their geographically adjacent, traditional homeland and have maintained a distinct language and religious faith that are central to their cultural identity. No other group of Iranians, save perhaps Iranian Jews, has remained as distant in linguistic and religious heritage to Iranian nationalism in any of its modern ideological orientations—monarchist, secular nationalist, Islamist, or Marxist. Illumination of the process by which Armenians have nevertheless acquired and maintained a strong sense of Iranian national identity 
+Because the parameters Cottam identifi ed regarding the religious and linguistic proximity of Armenians were correct, and especially because his predictions at the time based on those factors turned out to be completely mistaken, Armenian Iranians are arguably the most important single group within Iran to study at present if one seeks to understand the mass appeal of Iranian nationalism and the dynamics of popular receptivity to it. Armenians do in fact hold deep attachments to their geographically adjacent, traditional homeland and have maintained a distinct language and religious faith that are central to their cultural identity. No other group of Iranians, save perhaps Iranian Jews, has remained as distant in linguistic and religious heritage to Iranian nationalism in any of its modern ideological orientations—monarchist, secular nationalist, Islamist, or Marxist. Illumination of the process by which Armenians have nevertheless acquired and maintained a strong sense of Iranian national identity
+
+<!-- page 21 -->
 
 _Preface_ | xix 
 
 uniquely enables us to examine the elemental functions and dynamics of nationalism in modern Iran. 
 
-Iranian allegiances are too complex to be plotted and too durable to be broken along ethnic lines. Only an analysis that explores the collaborative, dialogic characteristics that make Iranian nationalism appealing and functional to minorities and that documents the ways in which these minorities have used, shaped, and sustained it in their own lives is suffi cient to illustrate this phenomenon. In a lighter frame, such an approach provides an opportunity to view the making of modern Iran and the epic events that distinguish its colorful history through the rich and unique lens of the minority experience. 
+Iranian allegiances are too complex to be plotted and too durable to be broken along ethnic lines. Only an analysis that explores the collaborative, dialogic characteristics that make Iranian nationalism appealing and functional to minorities and that documents the ways in which these minorities have used, shaped, and sustained it in their own lives is suffi cient to illustrate this phenomenon. In a lighter frame, such an approach provides an opportunity to view the making of modern Iran and the epic events that distinguish its colorful history through the rich and unique lens of the minority experience.
+
+<!-- page 22 -->
+
+
+
+<!-- page 23 -->
 
 ## Acknowledgments 
 
@@ -287,7 +332,9 @@ I sincerely thank Ira Lapidus for his support throughout my graduate school year
 
 This study would not have been possible without the participation of the people who spoke with me at length about their lives and experiences, shared materials and insight, and off ered support and assistance while I conducted interviews. My deepest appreciation extends to Sevak and Nella Saginian, Mara Setkhanian-Martin, Artavast and Lucik (Moradiance) Melikian, Vram Gorjian, Ruben Gorjian, Hagob and Arshalous 
 
-xxi 
+xxi
+
+<!-- page 24 -->
 
 xxii | _Acknowledgments_ 
 
@@ -297,7 +344,9 @@ Special thanks to Camron Amin, Houri Berberian, Jason Cohn, John Drabble, John E
 
 I was fortunate to receive institutional support from the UC Berkeley Department of History and Center for Middle Eastern Studies, the California State University (CSU) San Bernardino Department of History, and the CSU San Bernardino College of Social and Behavioral Sciences. I am also thankful for the fi nancial support provided by the Andrew W. Mellon Foundation, the CSU San Bernardino Offi  ce of Academic Research, the Mangassar M. Mangassarian Scholarship, and the Armenian Professional Society. 
 
-Finally, I am forever grateful to Mehrzad Boroujerdi for his interest in the manuscript and to Deanna McCay, Kelly Balenske, and Kay Steinmetz at Syracuse University Press for their expert assistance and guidance on the book. 
+Finally, I am forever grateful to Mehrzad Boroujerdi for his interest in the manuscript and to Deanna McCay, Kelly Balenske, and Kay Steinmetz at Syracuse University Press for their expert assistance and guidance on the book.
+
+<!-- page 25 -->
 
 ## Introduction 
 
@@ -305,7 +354,9 @@ in  ma y 1927, the lands between the Caspian Sea and the Persian Gulf were offi 
 
 It is a fact that in the course of the twentieth century Iranian nationalism shaped the lives, identities, and sentiments of tens of millions of people: Persian Muslims, non–Persian Muslims, non-Muslims, current nationals, and expatriates. It is also a fact that millions of people, in different senses and various instances, have considered themselves Iranian. Aside from these simple facts, we still know very little about when, why, and how the abstract concept of Iranian national identity was manifest among the mixed population of Iran. Although the historical narrative of Pahlavi decrees and national development eff orts is well known, and the reorientation of the content and emphasis of national myths and history 
 
-xxiii 
+xxiii
+
+<!-- page 26 -->
 
 xxiv | _Introduction_ 
 
@@ -313,7 +364,9 @@ toward Islam and Shi‘ism since the Iranian Revolution of 1978–79 has been gi
 
 As far as the development of Iranian nationalism has been pursued in the few English-language sources available on the subject, the questions and debates that have emerged mirror those current in the broad and abundant literature on and theories of nationalism and are as passionately contested. Is nationalism an ancient, primordial, organic sentiment? Or is nationalism a modern, rational construct of domestic and foreign intelligentsia imposed on populations in the nineteenth and twentieth centuries? Where is agency to be located in elite–nonelite interaction in the development of nationalism? How do we explain nonelite receptivity to and uses of the myths, symbols, maps, history, propaganda, and homogenizing programs developed by political elites and intelligentsia in the establishment and consolidation of nations? What is the role of ethnicity and religion in the development of nationalism and national identity? How do minorities experience and play a role in the development of nationalism? Why is nationalism so emotive? Perhaps most important, why are people motivated to kill others and sacrifi ce their own lives for nations? And what methods of documentation, scope of examination, and level of abstraction are necessary to eff ectively illustrate the dynamic process of the development of nationalism so that we can respond to these questions? The nascent study of Iranian nationalism has swiftly confronted the same questions and debates that have affl  icted the general theories and narratives of nationalism as a phenomenon as well as the case studies of the development of nationalism focused on other nations.[2] 
 
-The similarities among the questions and debates that have emerged both in the large number of case studies and general theoretical works on nationalism and in the embryonic discourse on the development of nationalism in Iran are not surprising, for all of these works have neglected to investigate the impact, uses, and expressions of nationalism throughout the lives of individuals. Nationalism has the ability to create and destroy 
+The similarities among the questions and debates that have emerged both in the large number of case studies and general theoretical works on nationalism and in the embryonic discourse on the development of nationalism in Iran are not surprising, for all of these works have neglected to investigate the impact, uses, and expressions of nationalism throughout the lives of individuals. Nationalism has the ability to create and destroy
+
+<!-- page 27 -->
 
 _Introduction_ | xxv 
 
@@ -321,13 +374,17 @@ as it divides and brings together vast popular masses and physical spaces, and t
 
 Nationalism and national identity, on whatever level of perception or study (as global phenomena, group sentiment, collective political identity, modern program and manipulation by elites, primordial ethnic identifi cation, tool of the “subaltern,” geographic project, etc.), are ultimately based in, sustained by, and demonstrated through the participation and activities of individuals. However educationally, genetically, economically, juridically, socially, militarily, cartographically, or otherwise imposed or inculcated, nationalism and national identity are manifest as thoughts, feelings, emotions, ideas, and sentiments experienced by individuals. Individuals of diff erent classes, races, cultures, ethnicities, and religions are the producers, bearers, and interpreters of these collective, global phenomena. The sometimes unifying, powerful, destructive, and monolithic phenomenon of nationalism—which is more often expressed situationally and manifest in subtle and creative forms[3] —is constituted, shaped, and expressed around territories, economies, political ideologies, languages, and religions. Ultimately, however, nationalism is received and reconstituted in daily life by individual people whose lives are shaped by it in various ways as they use it in conjunction with religious, cultural, familial, urban, regional, and “team” forms of identity. Nationalism and national identity are fl uid because of people’s diff ering and ever-evolving needs, perceptions, classes, languages, and cultures as well as because of their dynamic expressions of the phenomena.[4] As they participate in or reject nationalism, individuals are what shape and defi ne it and make it the powerful and dynamic force that it is. 
 
-Theories and case studies of nationalism that hinge on research and analysis of subjects such as economic systems, political parties, educational programs, military campaigns, cartography, religion, philology, and literature can broaden our understanding of nationalism’s many interrelated components. Yet without sustained illustrations of individual experiences with nationalism, such research cannot detail how these 
+Theories and case studies of nationalism that hinge on research and analysis of subjects such as economic systems, political parties, educational programs, military campaigns, cartography, religion, philology, and literature can broaden our understanding of nationalism’s many interrelated components. Yet without sustained illustrations of individual experiences with nationalism, such research cannot detail how these
+
+<!-- page 28 -->
 
 xxvi | _Introduction_ 
 
 components come together to be used, expressed, and reconstituted in people’s lives. Therefore, they cannot answer the most compelling and persistent questions about this multifaceted phenomenon. Although several theorists of nationalism and scholars treating Iranian nationalism have commented on the importance of the individual experience to our historical and current understanding of the phenomenon,[5] research into the lives of individuals and their encounters with nationalism remains to be conducted. Why is that? Certainly, nationalism and national identity are abstract and complex subjects, leading some to deny the ability to answer the lingering questions they generate or to generalize about the process of their development in Iran or elsewhere.[6] It is my observation, however, based on my understanding of nationalism’s critical underpinning in individual activity and expressions, that much of the confl icted discourse on the development of nationalism and our inability to answer its most compelling questions stem from essentially one methodological problem that can be remedied. Put simply, this problem is the lack of confl uence between theories of nationalism and social biographical research. In the interests of advancing simultaneously the study of Iranian nationalism and our broader understanding of nationalism and national identity in general, this study demonstrates how theory and social biographical research can be brought together to document and interpret the many eff ects and uses of these phenomena.[7] 
 
-The core of this study examines how Iranian nationalism shaped the lives of Armenian minorities in Iran during the twentieth century and the variety of ways in which they participated in its development. Making use of oral historical and social biographical methodologies to investigate the lives of a selected group of heretofore unstudied Armenian Iranians—a truck driver, an army offi  cer, a parliamentary representative and community organizer, a civil servant, and a scout leader—it explores the origins and character of Iranian nationalism as experienced and expressed by ethnic Armenians as well as the personal confl icts and paradoxes attendant upon their compound identities. Utilizing the stories and memories of individuals gathered in oral interviews, expanded with sources such as newspapers, documents, personal memorabilia, and photos, the study seeks to demonstrate how individuals encounter and use nationalism in 
+The core of this study examines how Iranian nationalism shaped the lives of Armenian minorities in Iran during the twentieth century and the variety of ways in which they participated in its development. Making use of oral historical and social biographical methodologies to investigate the lives of a selected group of heretofore unstudied Armenian Iranians—a truck driver, an army offi  cer, a parliamentary representative and community organizer, a civil servant, and a scout leader—it explores the origins and character of Iranian nationalism as experienced and expressed by ethnic Armenians as well as the personal confl icts and paradoxes attendant upon their compound identities. Utilizing the stories and memories of individuals gathered in oral interviews, expanded with sources such as newspapers, documents, personal memorabilia, and photos, the study seeks to demonstrate how individuals encounter and use nationalism in
+
+<!-- page 29 -->
 
 _Introduction_ | xxvii 
 
@@ -337,7 +394,9 @@ By investigating the implications of the development of nationalism and its mani
 
 Thus, although the study is centered on the lives of individuals from a single Iranian minority group, it is not intended to be simply a history of the development of Iranian nationalism from the periphery or “the bottom up.” Rather it is a study of how the “top” and “bottom” interact and negotiate as coparticipants in the creation of nationalism. It is not an attempt to simply deconstruct or debunk theories of nationalism and Iranian national identity by asserting that individual experiences deny the ability to generalize or theorize about the process. On the contrary, it endeavors to enrich our general understanding of the process by seeking to illustrate some of the many compelling theoretical interpretations available. Investigating the individual experience and bridging the gap between theory and the day-to-day realities of the people who constitute the nation are moves toward eventually being able to generalize about the broad phenomenon of nationalism and about the “Iranian” experience with it. 
 
-Like many of their newly proclaimed compatriots who by 1927 had also lived in the region with Persian Muslims for centuries—Turks, Arabs, Zoroastrians, Jews, Assyrians, Turkmen, Kurds, Lurs, Baluchis[9] —the 
+Like many of their newly proclaimed compatriots who by 1927 had also lived in the region with Persian Muslims for centuries—Turks, Arabs, Zoroastrians, Jews, Assyrians, Turkmen, Kurds, Lurs, Baluchis[9] —the
+
+<!-- page 30 -->
 
 xxviii | _Introduction_ 
 
@@ -345,7 +404,9 @@ Armenians of Iran maintained close-knit communities and a distinct language and 
 
 Armenians had lived for centuries within the borders of the land decreed Iran in 1927. Although Armenian lands in Anatolia and the Caucasus had been conquered by Persian dynasties as far back as the Achaemenids and their successors, the Parthians and Sassanians, Shah Abbas forcibly moved the fi rst large Armenian population of 50,000 to the interior of the region in 1604.[11] After the commercial and artistic heyday of the New Julfan Armenian community in the seventeenth century, Armenians dispersed throughout the country. In the early nineteenth century, the Armenian population was concentrated in Tabriz, Isfahan, Shiraz, Maku, Koy, Urmia, and Hamadan and had grown to around 100,000.[12] Massacres of Armenians in the Ottoman Empire in the late nineteenth century and during World War I brought thousands more Armenians to Iran, where they found refuge.[13] In this period, Armenians were active in the region’s politics and played a substantial role in the Constitutional Revolution of 1905–11. By the early 1920s, the country’s roughly 120,000 Armenians could be found in every economic bracket and a multiplicity of occupations, from top administrative and military positions in the Qajar government to subsistence farming.[14] 
 
-Expressions of identifi cation with the traditional Armenian homeland and Orthodox Church evident in the lives of many Armenians in diaspora—most concretely demonstrated in song, literature, artistic motifs, and the promotion of Armenian religious, cultural, and political organizations—have led theorists of nationalism and scholars of Iranian nationalism to generalize about the inability of Armenians in Iran and elsewhere to acquire any non-Armenian national identity. In such interpretations, Armenians are categorized as an “ancient” people with links to an historic homeland and a religiolinguistic heritage too strong to allow for another or even a mixed national identity.[15] Others dismiss the possibility 
+Expressions of identifi cation with the traditional Armenian homeland and Orthodox Church evident in the lives of many Armenians in diaspora—most concretely demonstrated in song, literature, artistic motifs, and the promotion of Armenian religious, cultural, and political organizations—have led theorists of nationalism and scholars of Iranian nationalism to generalize about the inability of Armenians in Iran and elsewhere to acquire any non-Armenian national identity. In such interpretations, Armenians are categorized as an “ancient” people with links to an historic homeland and a religiolinguistic heritage too strong to allow for another or even a mixed national identity.[15] Others dismiss the possibility
+
+<!-- page 31 -->
 
 _Introduction_ | xxix 
 
@@ -353,7 +414,9 @@ of an Iranian national identity for the Armenians of Iran owing to international
 
 To achieve these objectives, the study is divided into two parts, preceded by an analytical chapter concerned with locating this study and its methods in the current theoretical dialog on the development of nationalism and in the historiography on the development of Iranian nationalism. Through analysis of how nationalism and national identity have been thus far researched and defi ned, fi rst in enduring general theoretical treatises on nationalism and second in studies of Iranian nationalism, chapter 1 demonstrates the need for confl uence between theory and social biographical research in both subject areas and suggest the potentials for such a confl uence.[17] It argues that social biographical research provides a key to elucidate the participation and collaboration of elites and nonelites in development of Iranian nationalism and to refi ne our understanding of the dialogic activity through which national identity is acquired and maintained. 
 
-The social biographical research presented in part I constitutes the core of the work. In its fi ve chapters, we move away from theory to 
+The social biographical research presented in part I constitutes the core of the work. In its fi ve chapters, we move away from theory to
+
+<!-- page 32 -->
 
 xxx | _Introduction_ 
 
@@ -361,13 +424,17 @@ observe how religion, language, ethnicity, myth, memory, education, social netwo
 
 Chapter 2 tells the story of Iskandar Khan Setkhanian (1865–1953), an Armenian Iranian descendant of longtime residents of Iranian Azerbaijan and participants in Qajar-era politics and culture, who rose to be the _amir tuman_ (brigadier general) of the Cossack Brigade during the Constitutional Revolution of 1905–11. Focusing on Iskandar Khan’s family and community ties, his military career, multinational allegiances, and activities during and after the Constitutional Revolution to illustrate the complexities of national identity, allegiance, and ethnicity during the period of change from the Qajar imperium to the Pahlavi national state, the chapter also details Iskandar Khan’s personal experiences as his former Cossack subordinate, Reza Khan, rose to be shah of Iran and initiated his well-known programs of national development. Based on interviews with Setkhanian descendants and analysis of a rich family archive of rarely accessible Qajar _farman_ s (edicts), photographs, letters, newspaper clippings, and other documents, supplemented with recent work on the Iranian Constitutional Revolution,[18] Iskandar Khan’s social biography off ers rich detail to illustrate the diversity of Armenian political allegiances at the turn of the twentieth century and changes brought by the Pahlavi regime. In addition, this chapter describes the long and for the most part prosperous history of Armenians in Iran and explores the unique position of one of the country’s oldest ethnoreligious minorities in the nineteenth century. 
 
-Chapter 3 introduces Hagob Hagobian (1908–92), an Armenian Iranian of more humble origins who fl ed to Tabriz as a refugee orphaned by the intercommunal violence in the region of Urmia during World War I. Focusing on Hagobian’s experiences as a long-distance truck driver in Iran during the late 1920s and 1930s, while exploring the role of the Armenian Iranian truck drivers’ guild in both his career and in Reza Shah’s nation-building eff orts, this portrait illuminates how Iranian nationalism 
+Chapter 3 introduces Hagob Hagobian (1908–92), an Armenian Iranian of more humble origins who fl ed to Tabriz as a refugee orphaned by the intercommunal violence in the region of Urmia during World War I. Focusing on Hagobian’s experiences as a long-distance truck driver in Iran during the late 1920s and 1930s, while exploring the role of the Armenian Iranian truck drivers’ guild in both his career and in Reza Shah’s nation-building eff orts, this portrait illuminates how Iranian nationalism
+
+<!-- page 33 -->
 
 _Introduction_ | xxxi 
 
 impacted Hagobian’s life and what he, in turn, and his fellow Armenian Iranian truck drivers had to do with the process of its development. A close look at the role and functions of Hagob Hagobian’s guild demonstrates how Iran’s “late” infrastructural, economic, and bureaucratic development factored into the chronology of the emergence of national identity in Iran and how trucks and truck drivers were involved in the process. Based on oral interviews conducted with Hagobian, his coworkers, and his relatives, Hagobian’s social biography is expanded with documents, photographs, and secondary sources on the Iranian guilds, infrastructure, cartography, and economy of the 1920s and 1930s. Interweaving the economic and political history of Iran from the 1920s through the 1940s with the story of Hagobian’s life, this chapter shows how to some nonelite individuals the nation of Iran was not “imagined,” but a traversed territory holding a diverse citizenry with which they continually interacted. Thus, Hagob Hagobian’s social biography simultaneously informs our understanding of Pahlavi eff orts to consolidate the nation and develop its economy and illustrates these eff orts’ impact on an individual’s opportunities, decisions, memories, and layered identities. 
 
-Chapter 4 focuses on Sevak Saginian (1922–2003), a central fi gure in Armenian Iranian life from the late 1940s through the late 1970s. Son of Zohrab Saginian—a Dashnak revolutionary writer and publisher who was one of the two constitutionally required Armenian Iranian Majles representatives from 1921 to 1941—Sevak Saginian rose to serve in the same position from 1956 to 1978. Focusing on Saginian’s family legacy of more than a century of Armenian Iranian military and political leadership, his activities in Tehran’s Armenian Iranian community as a youth, his motivations and activities in cofounding the Anjoman-e Parvaresh-e Afkar-e Javanan-e Aramene (Organization for Fostering the Thoughts of Armenian Youth, later to be known widely as “Ararat”) in 1946, and his path to tenure as Armenian Iranian Majles representative, this portrait illustrates how Saginian became one of the primary intermediaries between Iran’s Armenian community and the shah and details his eff orts and maneuvers in this important role. Drawn from oral interviews with Sevak Saginian, his friends, and his family members as well as from documents, photographs, newspaper articles, and written memoirs, Saginian’s social 
+Chapter 4 focuses on Sevak Saginian (1922–2003), a central fi gure in Armenian Iranian life from the late 1940s through the late 1970s. Son of Zohrab Saginian—a Dashnak revolutionary writer and publisher who was one of the two constitutionally required Armenian Iranian Majles representatives from 1921 to 1941—Sevak Saginian rose to serve in the same position from 1956 to 1978. Focusing on Saginian’s family legacy of more than a century of Armenian Iranian military and political leadership, his activities in Tehran’s Armenian Iranian community as a youth, his motivations and activities in cofounding the Anjoman-e Parvaresh-e Afkar-e Javanan-e Aramene (Organization for Fostering the Thoughts of Armenian Youth, later to be known widely as “Ararat”) in 1946, and his path to tenure as Armenian Iranian Majles representative, this portrait illustrates how Saginian became one of the primary intermediaries between Iran’s Armenian community and the shah and details his eff orts and maneuvers in this important role. Drawn from oral interviews with Sevak Saginian, his friends, and his family members as well as from documents, photographs, newspaper articles, and written memoirs, Saginian’s social
+
+<!-- page 34 -->
 
 xxxii | _Introduction_ 
 
@@ -375,7 +442,9 @@ biography reveals fascinating details about Armenian Iranian community organizat
 
 The life of Lucik Moradiance (b. 1930), a female Armenian Iranian professional, is the subject of chapter 5. Concentrating on her experiences in Iranian primary, secondary, and university education from the mid-1930s through the 1950s and her entrance into the working establishment and Iranian civil service, this portrait of Moradiance helps us to better understand the role public education played in the development of Iranian nationalism and demonstrates the extent to which educational programs and opportunities shaped national identity. Composed from oral interviews with Lucik Moradiance, her relatives, and her friends and supplemented with documents, photographs, and secondary sources on Iranian education under the Pahlavis, this biography details one woman’s personal experiences in the Iranian education system in the 1940s and 1950s and in her career as an engineering professional involved in the nation’s petrochemical development in the 1960s and 1970s. In its detailed exploration, this social biography helps illuminate the complex links among gender, ethnicity, identity, and secular nationalism. 
 
-Chapter 6 examines the life of Nejde Hagobian (b. 1934), son of the fi rst-generation Armenian Iranian truck driver Hagob Hagobian introduced in chapter 3. Centered on his childhood experiences and role in founding and leading the Armenian Iranian youth organization Ararat’s mixed-gender scouting wing in the early 1950s, Nejde Hagobian’s story describes how Armenian Iranian youth were able to create an organization that enabled public expression of their Armenian symbols, traditions, and values and how, paradoxically, this Armenian-exclusive organization was a primary vehicle through which many of them acquired a strong and sublime sense of Iranian nationalism. Further, it explains why and how the Pahlavi regime used the Armenian scouts as a model for its own latent 
+Chapter 6 examines the life of Nejde Hagobian (b. 1934), son of the fi rst-generation Armenian Iranian truck driver Hagob Hagobian introduced in chapter 3. Centered on his childhood experiences and role in founding and leading the Armenian Iranian youth organization Ararat’s mixed-gender scouting wing in the early 1950s, Nejde Hagobian’s story describes how Armenian Iranian youth were able to create an organization that enabled public expression of their Armenian symbols, traditions, and values and how, paradoxically, this Armenian-exclusive organization was a primary vehicle through which many of them acquired a strong and sublime sense of Iranian nationalism. Further, it explains why and how the Pahlavi regime used the Armenian scouts as a model for its own latent
+
+<!-- page 35 -->
 
 _Introduction_ | xxxiii 
 
@@ -385,13 +454,23 @@ In part II, these social biographies are confl ated with the theoretical defi ni
 
 By bringing together oft-quoted and enduring works of nationalism and hitherto undocumented personal experiences with the phenomenon of nationalism, chapter 7 demonstrates the eff ectiveness of social biography in answering some of the fi eld’s most vexing questions and the promise of advancing the dialogue on nationalism. The analysis seeks to illuminate how social biography can inform prevailing theories of nationalism and how these theories in turn can help us better understand the impact of nationalism in people’s lives. The intent here is not as much to challenge established wisdom on nationalism’s development, but to understand the intricate dynamics of the process by factoring the uniqueness of the individual experience and of modern Iranian history into different theoretical models and paradigms.[19] 
 
-The study’s conclusion serves as an epilogue to the biographies of Iskandar Khan Setkhanian, Hagob Hagobian, Sevak Saginian, Lucik Moradiance, and Nejde Hagobian, explaining how each of these individuals and their families eventually became citizens of the United States residing in southern California.[20] The conclusion also briefl y applies and extends the historical and theoretical interpretations presented in chapter 7 to consider current governmental eff orts to shape and sustain Iranian 
+The study’s conclusion serves as an epilogue to the biographies of Iskandar Khan Setkhanian, Hagob Hagobian, Sevak Saginian, Lucik Moradiance, and Nejde Hagobian, explaining how each of these individuals and their families eventually became citizens of the United States residing in southern California.[20] The conclusion also briefl y applies and extends the historical and theoretical interpretations presented in chapter 7 to consider current governmental eff orts to shape and sustain Iranian
+
+<!-- page 36 -->
 
 xxxiv | _Introduction_ 
 
-nationalism in the Islamic Republic of Iran and the circumstances that motivate Iran’s Armenian minorities to continue to participate strategically in this ongoing process. This analysis underscores the complexities of the political and religious dialogue on nationalism in Iran today, depicting continuity and change in twentieth- and twenty-fi rst-century strategies by Iranian governments to inculcate and sustain Iranian nationalism and national identity within the nation’s heterogeneous population. By juxtaposing the scope and intent of government eff orts with a look at the activities and strategies of Armenian Iranians currently residing in Iran, the study’s conclusion illustrates further the mechanisms of dialogic power relationships in the creation and maintenance of nationalism. It also underscores the ongoing evolution of Iranian nationalism as a dynamic, collaborative, and negotiated process. 
+nationalism in the Islamic Republic of Iran and the circumstances that motivate Iran’s Armenian minorities to continue to participate strategically in this ongoing process. This analysis underscores the complexities of the political and religious dialogue on nationalism in Iran today, depicting continuity and change in twentieth- and twenty-fi rst-century strategies by Iranian governments to inculcate and sustain Iranian nationalism and national identity within the nation’s heterogeneous population. By juxtaposing the scope and intent of government eff orts with a look at the activities and strategies of Armenian Iranians currently residing in Iran, the study’s conclusion illustrates further the mechanisms of dialogic power relationships in the creation and maintenance of nationalism. It also underscores the ongoing evolution of Iranian nationalism as a dynamic, collaborative, and negotiated process.
 
-Ethnicity, Identity, and the Development of Nationalism in Iran 
+<!-- page 37 -->
+
+Ethnicity, Identity, and the Development of Nationalism in Iran
+
+<!-- page 38 -->
+
+
+
+<!-- page 39 -->
 
 1 
 
@@ -401,7 +480,9 @@ t h e ph o t o  on the following page depicts an event that took place on Octobe
 
 To suggest that this event might have something to do with the nation and nationalism is patently obvious. Annual parades in packed sports complexes featuring athletic expositions, scouts marching and saluting, political elites gathering, state leaders reviewing their citizens, patriotic songs playing, and fl ags waving are so much the stuff  of nationalism as to be almost cliché. Indeed, the event as depicted in the photograph—and as seen across the country in _akbar_ newsreels (the Iranian adaptation of America’s _Movietone_ shorts) shown in Iranian theaters that week—suggests a complex linkage and interrelation with the phenomena of the nation and nationalism. 
 
-1 
+1
+
+<!-- page 40 -->
 
 2 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -409,13 +490,17 @@ To suggest that this event might have something to do with the nation and nation
 
 But how can we ascertain specifi cally what this event has to do with nationalism? How would we research the meaning and uses of this event for its variety of elite and nonelite participants? How can we determine what functions it serves the Iranian nation-state and its impact on the citizens who are participating in it? 
 
-Students of nationalism in Iran and of nationalism as a global phenomenon continue to be faced with the same problems and questions that have been challenging the fi eld of nationalism studies for decades. When and on what bases did the nation emerge? In what sense is national community felt and experienced? How is nationalism generated and sustained? Why are nations appealing? Where is agency to be located in the development of nations and nationalism? How and why do nations and nationalism inspire violence and self-sacrifi ce? In a fi eld rent by diff erences of opinion regarding every category of topic, focus, and method, the diverse and interdisciplinary literature on nationalism at present nevertheless shows unanimous agreement on three basic points: (1) understanding 
+Students of nationalism in Iran and of nationalism as a global phenomenon continue to be faced with the same problems and questions that have been challenging the fi eld of nationalism studies for decades. When and on what bases did the nation emerge? In what sense is national community felt and experienced? How is nationalism generated and sustained? Why are nations appealing? Where is agency to be located in the development of nations and nationalism? How and why do nations and nationalism inspire violence and self-sacrifi ce? In a fi eld rent by diff erences of opinion regarding every category of topic, focus, and method, the diverse and interdisciplinary literature on nationalism at present nevertheless shows unanimous agreement on three basic points: (1) understanding
+
+<!-- page 41 -->
 
 _Nationalism, Theory, and Social Biography_ | 3 
 
 nationalism is critically important to broadening our understanding of political and social movements of the past as well as of the present and the foreseeable future; (2) nationalism has generated a vast body of literature; and (3) despite this scholarly attention we still have more questions than we do answers about this global phenomenon—calling for a “reframing” or “rethinking” of nationalism as we begin the twenty-fi rst century.[1] Aside from these three points, consensus on most issues related to the subject and its study is hard to fi nd.[2] One issue is clear irrespective of scholarly approach: despite enthusiastic predictions of the demise of sovereign states and nationalism in the face of globalization, changing political, economic, and strategic realignments of the 1990s, and new communications technologies such as the Internet and social networking, nations and nationalism are not vanishing and remain deeply infl uential if not dominant in the contemporary organization of human life and politics. To quote Craig Calhoun, “nations [and nationalism] matter.”[3] 
 
-Although some scholars of nationalism have argued that lack of advancement in our understanding of nationalism is the result of nations and nationalism having been “undertheorized” as subjects[4] and thus have called for a renewed theoretical discourse to answer these persistent, lingering questions, other scholars and I have observed that just the opposite is true: we have an abundant pool of theory to draw from to structure and clarify our broad questions about the development of nationalism and to ponder its sublime, moving qualities.[5] What we are lacking, however, is historical research that puts into operation and refi nes these speculative, hypothetical frameworks to the point where we can ascertain their validity or utility, respond to the questions they generate, and ultimately move on to approaching new questions and topics. Thus, although theories abound that can help us (a) speculate about the moment the photo at issue captures and (b) frame complex questions about the dimensions of Iranian nationalism it might depict, answering those questions and advancing our understanding of nationalism necessitates an approach that conjoins and operationalizes existing theory with a suitable historical research methodology. At the conclusion of his survey of contemporary theories of nationalism, Umut Ozkirimli similarly identifi es the potentials of theoretically informed historical analyses to help refi ne theories of nationalism 
+Although some scholars of nationalism have argued that lack of advancement in our understanding of nationalism is the result of nations and nationalism having been “undertheorized” as subjects[4] and thus have called for a renewed theoretical discourse to answer these persistent, lingering questions, other scholars and I have observed that just the opposite is true: we have an abundant pool of theory to draw from to structure and clarify our broad questions about the development of nationalism and to ponder its sublime, moving qualities.[5] What we are lacking, however, is historical research that puts into operation and refi nes these speculative, hypothetical frameworks to the point where we can ascertain their validity or utility, respond to the questions they generate, and ultimately move on to approaching new questions and topics. Thus, although theories abound that can help us (a) speculate about the moment the photo at issue captures and (b) frame complex questions about the dimensions of Iranian nationalism it might depict, answering those questions and advancing our understanding of nationalism necessitates an approach that conjoins and operationalizes existing theory with a suitable historical research methodology. At the conclusion of his survey of contemporary theories of nationalism, Umut Ozkirimli similarly identifi es the potentials of theoretically informed historical analyses to help refi ne theories of nationalism
+
+<!-- page 42 -->
 
 4 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -425,7 +510,9 @@ At present, the fi eld is saturated with a vast number of abstract theoretical w
 
 Using the photo of the shah’s 1953 birthday rally as a common point of reference, this chapter is devoted to assessing prevalent theories of nationalism and their application in existing studies on Iranian nationalism, before introducing the methods and potentials of an approach that grounds theory in the “‘real life’ cases” illuminated by social biographical research. 
 
-To accomplish these tasks, I fi rst introduce popular and enduring theories of nationalism that have been utilized in existing works on Iranian nationalism. I assess the theoretical contributions by Ernest Gellner, John Breuilly, Elie Kedourie, Eric Hobsbawm, and Benedict Anderson to determine what perspectives and frameworks they independently off er to assist in our interpretation of the birthday rally snapshot.[7] In addition to these popular modernist theories, I also introduce recent ethnosymbolic approaches to the study of nationalism, a trend pioneered by Anthony D. Smith.[8] My brief consideration of the strengths and limitations of these theories will generate a set of theoretical questions to be pursued in part II and reveal the theorists’ own leads regarding how their hypotheses can be tested. With this theoretical background, I then introduce the handful of existing book-length contributions to the study of Iranian nationalism to examine the ways in which they have utilized 
+To accomplish these tasks, I fi rst introduce popular and enduring theories of nationalism that have been utilized in existing works on Iranian nationalism. I assess the theoretical contributions by Ernest Gellner, John Breuilly, Elie Kedourie, Eric Hobsbawm, and Benedict Anderson to determine what perspectives and frameworks they independently off er to assist in our interpretation of the birthday rally snapshot.[7] In addition to these popular modernist theories, I also introduce recent ethnosymbolic approaches to the study of nationalism, a trend pioneered by Anthony D. Smith.[8] My brief consideration of the strengths and limitations of these theories will generate a set of theoretical questions to be pursued in part II and reveal the theorists’ own leads regarding how their hypotheses can be tested. With this theoretical background, I then introduce the handful of existing book-length contributions to the study of Iranian nationalism to examine the ways in which they have utilized
+
+<!-- page 43 -->
 
 _Nationalism, Theory, and Social Biography_ | 5 
 
@@ -435,7 +522,9 @@ theory in their work. Considering how these studies aid our eff ort to decipher 
 
 _Ernest Gellner: High Culture and the Role of Mass Public Education_ 
 
-Ernest Gellner’s contributions to the study of nationalism are varied, but none has so clearly detailed his theoretical positions or been as widely read as _Nations and Nationalism_ (1983), a sententiously argued work that is one of the most widely cited and tacitly accepted theoretical considerations of nationalism available.[10] Gellner’s basic argument is that nations and nationalism are modern phenomena that are a product of the Industrial Revolution, where the dislocation of agrarian, rural peoples of diverse backgrounds and their concentration in industrializing cities to feed the growing demands of capitalism necessitated a common culture and language, both written and spoken, to facilitate communication and social interaction. In the transition from horizontally structured “agroliterate” communities to vertically organized industrial societies, urban elites draw from “low” or folk cultures to create a “high,” literate state culture, which is spread and sustained through standardized mass public education, a process that Gellner terms “exo-socialization.”[11] In this way, a uniform “garden culture” of citizens is cultivated out of the diverse “wild cultures” prevalent in agroliterate societies.[12] Nationalism, which Gellner narrowly defi nes as “a political principle [that] holds that the political and national unit should be congruent,” is an elite tool created to inculcate 
+Ernest Gellner’s contributions to the study of nationalism are varied, but none has so clearly detailed his theoretical positions or been as widely read as _Nations and Nationalism_ (1983), a sententiously argued work that is one of the most widely cited and tacitly accepted theoretical considerations of nationalism available.[10] Gellner’s basic argument is that nations and nationalism are modern phenomena that are a product of the Industrial Revolution, where the dislocation of agrarian, rural peoples of diverse backgrounds and their concentration in industrializing cities to feed the growing demands of capitalism necessitated a common culture and language, both written and spoken, to facilitate communication and social interaction. In the transition from horizontally structured “agroliterate” communities to vertically organized industrial societies, urban elites draw from “low” or folk cultures to create a “high,” literate state culture, which is spread and sustained through standardized mass public education, a process that Gellner terms “exo-socialization.”[11] In this way, a uniform “garden culture” of citizens is cultivated out of the diverse “wild cultures” prevalent in agroliterate societies.[12] Nationalism, which Gellner narrowly defi nes as “a political principle [that] holds that the political and national unit should be congruent,” is an elite tool created to inculcate
+
+<!-- page 44 -->
 
 6 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -443,7 +532,9 @@ societal cohesion and loyalty to the state, which simultaneously satisfi es the 
 
 In Gellner’s formulation, nations are the product of nationalism, whereas nationalism is “an eff ect of industrial social organization.”[14] Although nations and nationalism are therefore wholly modern constructions in Gellner’s view, he speculates that the language, myths, traditions, and histories that are selectively used to create and sustain them must be in some way drawn from preexisting folk cultures, or else they would have no resonance or appeal.[15] 
 
-Used independently as a resource to interpret the shah’s 1953 birthday rally, Gellner’s theory off ers several compelling hypotheses. Through Gellner’s lens, we can view the event as evidence of the attempt by the Iranian political elite to cultivate a high garden culture in order to promote social cohesion, patriotism, and loyalty to the state. The rapid movement from agroliterate society to industrialization and urbanization fostered under the Pahlavis might explain the receptivity of the nonelite participants in the birthday event, who can, in light of Gellner’s theory, be understood to be increasingly aware of the egalitarianism that the political principle of nationalism brings. We can speculate that the symbolism, myths, and traditions that are a part of the king’s annual birthday celebration are modern artifacts that draw from premodern, low cultures to give them meaning and resonance. Certainly, Gellner’s theory suggests that sentiments of community and evidence of linguistic commonality in the event would be the product of the state’s eff orts in developing an eff ective, standardized system of mass education. But how would we be able to render a determination? Although elite programs of mass education might be a factor in the development of linguistic unity and loyalty evident in the outward appearance of this event, Gellner’s insights on their own do not help us understand how and why, if at all, sublime sentiment and patriotism are inspired. Why and in what ways might such an event be meaningful to its elite as well as its nonelite participants? Where is agency to be located in an event that involves elites and nonelites equally? Is it suffi  cient or accurate to interpret the event as a demonstration of the successful development of an educationally sustained high culture in Pahlavi 
+Used independently as a resource to interpret the shah’s 1953 birthday rally, Gellner’s theory off ers several compelling hypotheses. Through Gellner’s lens, we can view the event as evidence of the attempt by the Iranian political elite to cultivate a high garden culture in order to promote social cohesion, patriotism, and loyalty to the state. The rapid movement from agroliterate society to industrialization and urbanization fostered under the Pahlavis might explain the receptivity of the nonelite participants in the birthday event, who can, in light of Gellner’s theory, be understood to be increasingly aware of the egalitarianism that the political principle of nationalism brings. We can speculate that the symbolism, myths, and traditions that are a part of the king’s annual birthday celebration are modern artifacts that draw from premodern, low cultures to give them meaning and resonance. Certainly, Gellner’s theory suggests that sentiments of community and evidence of linguistic commonality in the event would be the product of the state’s eff orts in developing an eff ective, standardized system of mass education. But how would we be able to render a determination? Although elite programs of mass education might be a factor in the development of linguistic unity and loyalty evident in the outward appearance of this event, Gellner’s insights on their own do not help us understand how and why, if at all, sublime sentiment and patriotism are inspired. Why and in what ways might such an event be meaningful to its elite as well as its nonelite participants? Where is agency to be located in an event that involves elites and nonelites equally? Is it suffi  cient or accurate to interpret the event as a demonstration of the successful development of an educationally sustained high culture in Pahlavi
+
+<!-- page 45 -->
 
 _Nationalism, Theory, and Social Biography_ | 7 
 
@@ -455,7 +546,9 @@ Another popular and enduring study of nationalism that focuses on and locates na
 
 Breuilly’s reduction of his defi nition of nationalism to a political principle is motivated by his perception that theories of nationalism (such as those advanced by Anthony D. Smith, whom he specifi cally confronts) are vague and impractical. In this way, his defi nition of nationalism as a form of politics “avoids the danger of being too vague and all-embracing and, among other things, draws attention to the modernity of nationalism.”[19] Moreover, in his quest for precision, Breuilly’s rejection of culture, identity, and ideology in his defi nition and typology alleviates the necessity for research and debate about that which he perceives to be beyond rational analysis and the historian’s explanatory powers.[20] 
 
-Thus, taking a strictly political view of nations and nationalism—in explicit debate with scholars such as Smith who emphasize ethnicity and nationalism—Breuilly defi nes nationalism as a modern political movement aspiring for or in command of state power, which legitimates itself using a “nationalist argument.” This political doctrine asserts: “( _a_ ) There exists a nation with an explicit and peculiar character. ( _b_ ) The interests and values of this nation take priority over all other interests and values. 
+Thus, taking a strictly political view of nations and nationalism—in explicit debate with scholars such as Smith who emphasize ethnicity and nationalism—Breuilly defi nes nationalism as a modern political movement aspiring for or in command of state power, which legitimates itself using a “nationalist argument.” This political doctrine asserts: “( _a_ ) There exists a nation with an explicit and peculiar character. ( _b_ ) The interests and values of this nation take priority over all other interests and values.
+
+<!-- page 46 -->
 
 8 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -467,7 +560,9 @@ Clearly, then, Breuilly’s _Nationalism and the State_ suggests that an event s
 
 _Elie Kedourie and the Rise of Nationalism in Asia and Africa_ 
 
-Although reminiscent of the work of the two seminal political modernist theorists discussed thus far, Elie Kedourie’s widely read and frequently cited collected work on nationalism, _Nationalism in Asia and Africa_ (1970), off ers unique frameworks and hypotheses extended beyond Europe to 
+Although reminiscent of the work of the two seminal political modernist theorists discussed thus far, Elie Kedourie’s widely read and frequently cited collected work on nationalism, _Nationalism in Asia and Africa_ (1970), off ers unique frameworks and hypotheses extended beyond Europe to
+
+<!-- page 47 -->
 
 _Nationalism, Theory, and Social Biography_ | 9 
 
@@ -475,7 +570,9 @@ include Asia and Africa as well as an analytical focus on the role of colonialis
 
 In his lengthy introduction to this anthology, which brings together the primary writings of nationalists and national movements, Kedourie argues that nationalism, a European doctrine of the nineteenth century, spread to Africa and Asia through the colonial experience. In Kedourie’s narrative, traditional African and Asian peoples became dislocated, disillusioned, and alienated, and their societies were “pulverized” by the combined eff ects of political domination, the world economy, and colonial education. With traditional political and religious ideals as well as indigenous institutions and leaders discredited, and after rejection from the Western culture they had studied, emulated, and learned to admire, alienated intellectuals and political activists turned to violence—melding messianic myth, indigenous cultural references, and the European doctrine of nationalism to create a political religion to articulate and fulfi ll their quest for distinct identity and political independence. 
 
-In Kedourie’s analysis, colonial education was the crucible from which nationalism emerged in Asia and Africa. Off ering literacy and often secular Orientalist teachings that juxtaposed the economic, cultural, and intellectual superiority of Europe and the strength of its political institutions— which were based on Enlightenment ideals of individualism, freedom, and the doctrine of nationalism—with the weakness of African and Asian societies and their glory days past, colonial education simultaneously generated disillusionment and feelings of “inadequacy” and “inferiority” among its pupils in regard to their traditional society and its modes of thought, along with an admiration and a willingness to somehow become a part of the powerful and dominant foreign society. The harsh realization that the colonial subject–student could never become a part of the dominant society was often learned through failed attempts at integration and equality in civil service and/or the experience of personal rebuff  during educational sojourns in Europe; these experiences produced feelings of unfulfi llment and disaff ection that inevitably spawned what amounted to an identity crisis and resentful and violent sentiments.[24] This crisis led to a search for identity by the marginalized to answer the ubiquitous question “What am I?”[25] The new class of disaff ected “marginal men” consisting 
+In Kedourie’s analysis, colonial education was the crucible from which nationalism emerged in Asia and Africa. Off ering literacy and often secular Orientalist teachings that juxtaposed the economic, cultural, and intellectual superiority of Europe and the strength of its political institutions— which were based on Enlightenment ideals of individualism, freedom, and the doctrine of nationalism—with the weakness of African and Asian societies and their glory days past, colonial education simultaneously generated disillusionment and feelings of “inadequacy” and “inferiority” among its pupils in regard to their traditional society and its modes of thought, along with an admiration and a willingness to somehow become a part of the powerful and dominant foreign society. The harsh realization that the colonial subject–student could never become a part of the dominant society was often learned through failed attempts at integration and equality in civil service and/or the experience of personal rebuff  during educational sojourns in Europe; these experiences produced feelings of unfulfi llment and disaff ection that inevitably spawned what amounted to an identity crisis and resentful and violent sentiments.[24] This crisis led to a search for identity by the marginalized to answer the ubiquitous question “What am I?”[25] The new class of disaff ected “marginal men” consisting
+
+<!-- page 48 -->
 
 10 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -483,7 +580,9 @@ of intellectuals, military-technical students, and civil servants frustrated in 
 
 Despite the imitative nature of their activities in seeking Europeanstyle uniformity of belief and the artifi ciality of the histories and myths they created to defi ne, legitimate, and reify their oppressed nation,[28] nationalists in Africa, the Middle East, and Asia eff ectively manipulated religious symbolism and played on popular millennial expectation to create a powerful postcolonial political religion and new communal identity.[29] Simultaneously introducing the works contained within his anthology and utilizing them to support his argument about the origins of nationalism in Asia and Africa, Kedourie draws from the nationalist writings of Ziya Gökalp, Adamantios Koraes, Marcus Garvey, Michel Afl aq, and Mohandas Gandhi to illustrate how the question “What am I?” is answered by synthesizing two products of European thought: basic nationalist doctrine and millennialism. Melding the doctrine of a world divided into distinct nations, each of which should be sovereign, with an invocation of the “dark gods” and rites of traditional society to imbue the political-nationalist message with indigenous essence and directive,[30] nationalist elites forged a secular, political millennialism that off ered to the alienated and disoriented masses the hope that oppression and injustice would be swept away and be replaced by a dispensation of liberty, equality, and brotherly love.[31] 
 
-Kedourie does not approach the issue of agency directly, and as a result his analysis is somewhat confl icted. On one hand, he emphasizes the power of European thought and its disseminators, who, to aggregate Kedourie’s operative terms, import an alien doctrine, which colonial subjects “take up,” accept unquestioningly, and imitate. On the other hand, 
+Kedourie does not approach the issue of agency directly, and as a result his analysis is somewhat confl icted. On one hand, he emphasizes the power of European thought and its disseminators, who, to aggregate Kedourie’s operative terms, import an alien doctrine, which colonial subjects “take up,” accept unquestioningly, and imitate. On the other hand,
+
+<!-- page 49 -->
 
 _Nationalism, Theory, and Social Biography_ | 11 
 
@@ -491,7 +590,9 @@ Kedourie’s analysis and the anthology’s selected writings of nationalists su
 
 Kedourie’s theory of nationalism provides us with another compelling yet speculative framework through which to interpret the shah’s 1953 birthday rally: that of the colonial legacy in Iran and the infl uence of European thought in the development of Iranian nationalism. In this context, we can infer that the display and usage of symbols of national sovereignty and community (fl ags, anthems, review of regional representatives) illustrate the Iranian political elites’ adaptation and propagation of basic European nationalist doctrine, which fi rst emerged in Iran during the Constitutional Revolution as European-educated “marginal men” rose in opposition to the Russian and British colonial powers and the Qajar regime, which had collectively “pulverized” traditional Iranian society in the nineteenth century. The overtly Western, secular orientation and style of the 1953 birthday parade for Iran’s king can thus be seen as the product of the reconstitution of pulverized traditional collectivities in the form of a national community based on a secular, European model. 
 
-But is it suffi  cient to view this event and its display of Iranian nationalism as merely imitation? How can we be more precise in determining the extent of European infl uence in the event and in locating agency? What does such an event, imitative or not, mean to its Iranian participants, and why is it appealing to them? Why does the message of nationalist elites resonate with the nonelite masses? How do the perceptions and attitudes of elites and nonelites interact in the production of Iranian nationalism? 
+But is it suffi  cient to view this event and its display of Iranian nationalism as merely imitation? How can we be more precise in determining the extent of European infl uence in the event and in locating agency? What does such an event, imitative or not, mean to its Iranian participants, and why is it appealing to them? Why does the message of nationalist elites resonate with the nonelite masses? How do the perceptions and attitudes of elites and nonelites interact in the production of Iranian nationalism?
+
+<!-- page 50 -->
 
 12 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -501,7 +602,9 @@ Although Iran’s colonial experience and the infl uence of European thought mig
 
 Eric Hobsbawm’s contributions to the study of nationalism span two popular books: _The Invention of Tradition_ (1983), which he coedited with Terrence Ranger, and _Nations and Nationalism since 1780: Programme, Myth, Reality_ (1990).[35] Although it is not focused solely on nationalism, Hobsbawm’s introduction to _The Invention of Tradition_ explores aspects of nation building and rituals that are further elaborated upon in _Nations and Nationalism since 1780_ and thus supports the latter work. Hobsbawm’s combined work generates perhaps the most explicit call for social biographical research to advance our understanding of nationalism—a call achieved by way of masterful and often entertaining abstract illustration and matched by pragmatic methodological and research recommendations. 
 
-In a short introduction to the essays that compose _The Invention of Tradition_ , Hobsbawm establishes working defi nitions and a typology of what he terms “invented traditions” and what he views as their relationship to the origins and development of nationalism. To paraphrase Hobsbawm’s general thesis, invented traditions are practices of a ritual or symbolic nature that are created to inculcate values and behavioral norms through repetition and are often legitimated through the factitious assertion of continuity with a historic past.[36] To illustrate the concept, Hobsbawm distinguishes between custom, which is “what judges do,” and the invented tradition of the judge’s wig, robe, and ritualized practices of the courtroom. He similarly distinguishes convention and practical sense from 
+In a short introduction to the essays that compose _The Invention of Tradition_ , Hobsbawm establishes working defi nitions and a typology of what he terms “invented traditions” and what he views as their relationship to the origins and development of nationalism. To paraphrase Hobsbawm’s general thesis, invented traditions are practices of a ritual or symbolic nature that are created to inculcate values and behavioral norms through repetition and are often legitimated through the factitious assertion of continuity with a historic past.[36] To illustrate the concept, Hobsbawm distinguishes between custom, which is “what judges do,” and the invented tradition of the judge’s wig, robe, and ritualized practices of the courtroom. He similarly distinguishes convention and practical sense from
+
+<!-- page 51 -->
 
 _Nationalism, Theory, and Social Biography_ | 13 
 
@@ -509,7 +612,9 @@ invented traditions with the example of head protection. Wearing a helmet while 
 
 Hobsbawm argues that invented traditions are evident throughout history, but that the invention of tradition happens more frequently when societies undergo rapid change that destabilizes the existing social order.[40] By deliberately supplanting and juxtaposing old ways and traditions with radical innovation, “the nineteenth-century liberal ideology of social change systematically failed to provide for the social authority ties taken for granted in earlier societies, and created voids which might have to be fi lled with invented practices.”[41] Thus, the process of inventing traditions is progressive in that the more things change, the greater the impetus is to fi ll the void by, to paraphrase Hobsbawm, dressing up novelty as antiquity by drawing from ancient materials and concepts to construct invented traditions.[42] 
 
-These invented practices fall into three general yet intermingling types. The fi rst type seeks to establish or symbolize social cohesion or community membership; the second legitimizes institutions, status, and the hierarchy of authority; and the third targets socialization, values, and the inculcation of belief systems and behavioral conventions.[43] Hobsbawm refers to socialist May Day, the ritual salute to the fl ag in American schools, 
+These invented practices fall into three general yet intermingling types. The fi rst type seeks to establish or symbolize social cohesion or community membership; the second legitimizes institutions, status, and the hierarchy of authority; and the third targets socialization, values, and the inculcation of belief systems and behavioral conventions.[43] Hobsbawm refers to socialist May Day, the ritual salute to the fl ag in American schools,
+
+<!-- page 52 -->
 
 14 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -519,7 +624,9 @@ that comparatively recent historical innovation, the “nation,” with its asso
 
 Hence, despite the paradox that nations are claimed to be organic and rooted in history—the opposite of construction or novelty—we must not be misled. Although there may be undeniable historical continuity in claims to an Israeli or Palestinian or French nation, these concepts are nevertheless rife with constructed, invented components in Hobsbawm’s view. Accordingly, “the national phenomenon cannot be adequately investigated without careful attention to the ‘invention of tradition.’”[45] 
 
-Hobsbawm’s theory off ers several fascinating ways to interpret the shah’s birthday rally, which fi t the general illustration of the phenomenon of invented traditions on several levels as well as Hobsbawm’s typology of purpose. At the point in time captured in the photo, in an era of tumult and change in Iranian history, the Pahlavi state seeks to fi ll the void created through the destruction of traditional social organization and ways of life with invented traditions that create new national bonds around old, immemorial concepts. Combining the power and historical legitimacy of ancient ritual (a review of subjects by the Persian monarch) with modern national symbolism and activities (the gathering of regional sports clubs, scouting troops, and student organizations in the nation’s central sports 
+Hobsbawm’s theory off ers several fascinating ways to interpret the shah’s birthday rally, which fi t the general illustration of the phenomenon of invented traditions on several levels as well as Hobsbawm’s typology of purpose. At the point in time captured in the photo, in an era of tumult and change in Iranian history, the Pahlavi state seeks to fi ll the void created through the destruction of traditional social organization and ways of life with invented traditions that create new national bonds around old, immemorial concepts. Combining the power and historical legitimacy of ancient ritual (a review of subjects by the Persian monarch) with modern national symbolism and activities (the gathering of regional sports clubs, scouting troops, and student organizations in the nation’s central sports
+
+<!-- page 53 -->
 
 _Nationalism, Theory, and Social Biography_ | 15 
 
@@ -527,7 +634,9 @@ stadium for a birthday celebration), the event itself can be interpreted as one 
 
 Remarkably, even a cursory discussion of the shah’s birthday rally is consistent with not one but all three categories of invented traditions that Hobsbawm delineates in his typology. (1) It seeks to promote social cohesion and symbolize community membership through gathering and recognition by the shah of regional sporting, scouting, and student organizations, each of which generates social cohesion and community membership further; (2) it legitimizes institutions, status, and the hierarchy of authority by symbolizing the power and authority of the Pahlavi regime and by locating this power vis-à-vis its elite participants in the stands and its nonelite participants on the fi eld; and (3) it targets socialization, values, and the inculcation of belief systems and behavioral conventions by upholding the Iranian nation, the monarchy, and youth organizations that themselves promote values and socialization.[46] Yet although entirely consistent with Hobsbawm’s theoretical typology of invented traditions in the 1983 collection, his next book, specifi cally focusing on nationalism, would assert the role of the social historian in ultimately determining the accuracy, utility, and applicability of his theories. Interestingly, this guidance is provided by way of Hobsbawm’s own critique of Ernest Gellner’s work, discussed earlier. 
 
-If I have a major criticism of Gellner’s work it is that his preferred perspective of modernization from above, makes it diffi  cult to pay adequate 
+If I have a major criticism of Gellner’s work it is that his preferred perspective of modernization from above, makes it diffi  cult to pay adequate
+
+<!-- page 54 -->
 
 16 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -535,7 +644,9 @@ attention to the view from below. The view from below, i.e. the nation as seen n
 
 Expanding on his point that top-down studies of nations and nationalism must be complemented with studies from the bottom up that take ordinary people’s concerns into account, Hobsbawm maintains that ideologies of states and political movements do not inform our understanding of how citizens feel; that it cannot be assumed that people place their national identity above other sources and objects of identifi cation; and that national identifi cation changes or shifts over time, even within brief periods. He concludes these introductory comments in _Nations and Nationalism since 1780_ with the assertion that “this is the area of national studies in which thinking and research are most urgently needed today.”[48] 
 
-Pending such research in parts I and II of my study, although we may speculate that the shah’s birthday celebration in 1953 and some aspects of its symbolism and rituals fi t Hobsbawm’s typology of invented traditions and surmise that the screening of the event nationwide in movie theater news places Iran squarely in Hobsbawm’s framework for understanding the evolution and diff usion of the concept of the nation through technology in the postwar era, this framework is insuffi  cient in explaining why the event and its symbolism might be meaningful specifi cally to the scouts, athletes, and students who are participating. What is the role of ethnicity and language in the event’s organization, symbolism, and appeal to these nonelites? In what ways does ethnicity relate to a sense of national community and identity? Beyond analyzing the event generally as invented tradition, how can we understand how the sublayers of invention—such as the scouts’ rituals and activities—relate to the elites’ nationbuilding eff orts, if at all? The theoretical exchange between Hobsbawm and Gellner suggests that answers to these questions will come through 
+Pending such research in parts I and II of my study, although we may speculate that the shah’s birthday celebration in 1953 and some aspects of its symbolism and rituals fi t Hobsbawm’s typology of invented traditions and surmise that the screening of the event nationwide in movie theater news places Iran squarely in Hobsbawm’s framework for understanding the evolution and diff usion of the concept of the nation through technology in the postwar era, this framework is insuffi  cient in explaining why the event and its symbolism might be meaningful specifi cally to the scouts, athletes, and students who are participating. What is the role of ethnicity and language in the event’s organization, symbolism, and appeal to these nonelites? In what ways does ethnicity relate to a sense of national community and identity? Beyond analyzing the event generally as invented tradition, how can we understand how the sublayers of invention—such as the scouts’ rituals and activities—relate to the elites’ nationbuilding eff orts, if at all? The theoretical exchange between Hobsbawm and Gellner suggests that answers to these questions will come through
+
+<!-- page 55 -->
 
 _Nationalism, Theory, and Social Biography_ | 17 
 
@@ -545,7 +656,9 @@ an approach that combines research into elite activities and inventions with stu
 
 Perhaps the most widely read and frequently quoted book on nationalism is _Imagined Communities_ by Benedict Anderson, fi rst published in 1983 and with new editions produced in 1991 and 2006.[50] All three of the most recent monographs on Iranian nationalism to be discussed later in this chapter reference Anderson’s work and utilize his theory in various ways. Similar to Hobsbawm, Anderson combines Marxism, modernism, and postmodernism to pursue the origins, development, and character of nations and nationalism. His sociocultural approach to nations and nationalism is centered around the argument that the critical features of nations—which are artifacts of recent history—are the ways in which they are imagined by individual members, whose subjective perceptions (such as a sense of belonging, unity, or patriotism) collectively provide the nation with its community, meaning, strength, and positive and destructive potentials. Despite the fact that the majority of a nation’s members will never meet or know one another, their imagined communion and commonalities are what defi ne and sustain their nation.[51] In an eff ort to understand how and why collective imaginings of the nation lead to, among other things, individual members’ willingness to kill and die for a nation, Anderson seeks to trace the origins and evolution of nationalism to examine the phenomenon and the resulting devotion and allegiance it produces. 
 
-To explain the resonance and strength of the national imagination, Anderson aligns nationalism with the cultural systems of religious community and dynastic realm, both of which were taken-for-granted concepts in their heyday akin to the way nations and nationality are today.[52] By aligning nationalism and its emergence with the large “self-evident” cultural systems of religion and kingship and their demise rather than with “self-consciously held political ideologies” such as Marxism, fascism, and liberalism, Anderson endeavors to show how nationalism acquired its appeal, durability, and worldwide acceptance. He fi nds that three 
+To explain the resonance and strength of the national imagination, Anderson aligns nationalism with the cultural systems of religious community and dynastic realm, both of which were taken-for-granted concepts in their heyday akin to the way nations and nationality are today.[52] By aligning nationalism and its emergence with the large “self-evident” cultural systems of religion and kingship and their demise rather than with “self-consciously held political ideologies” such as Marxism, fascism, and liberalism, Anderson endeavors to show how nationalism acquired its appeal, durability, and worldwide acceptance. He fi nds that three
+
+<!-- page 56 -->
 
 18 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -555,7 +668,9 @@ In Europe, the Reformation led to the emergence of new Christian denominations w
 
 No less infl uential in shaping the imaginings of the masses toward a sense of distinct community was the decline of dynastic states from the seventeenth through the early twentieth centuries. Whereas the dynastic realm, Anderson explains, was divinely legitimized and defi ned at its center, with indistinct and porous borders encompassing heterogeneous populations of “subjects,” the modern state is legally demarcated and evenly sovereign over its entire territory. This new foundation of state legitimacy was defi ned in terms of the nation, which is frequently coincident with linguistic patterning. Despite attempts by threatened dynasts to oppose awakening linguistic nationalist movements, the conceptual damage to their divine legitimacy and ubiquitous power had been done, and the nation became the only legitimate form of state. 
 
-According to Anderson’s theory, changing comprehensions of time also played a role in priming the mass consciousness for nationalism. Premodern conceptions of time involved cyclical, millennial, or messianic expectation. There was “no conception of history as an endless chain of cause and eff ect or of radical separations between the past and present.”[55] Cosmology and history were one. Thus, with the fragmentation of religious community and decline of dynastic realm, there also came a change in cognitions of time toward a calendared, linear present and future, which enabled the creation of a common historical past.[56] 
+According to Anderson’s theory, changing comprehensions of time also played a role in priming the mass consciousness for nationalism. Premodern conceptions of time involved cyclical, millennial, or messianic expectation. There was “no conception of history as an endless chain of cause and eff ect or of radical separations between the past and present.”[55] Cosmology and history were one. Thus, with the fragmentation of religious community and decline of dynastic realm, there also came a change in cognitions of time toward a calendared, linear present and future, which enabled the creation of a common historical past.[56]
+
+<!-- page 57 -->
 
 _Nationalism, Theory, and Social Biography_ | 19 
 
@@ -563,7 +678,9 @@ The conjunction of the demise of these three cultural systems, in Anderson’s v
 
 To combat the rise of linguistic nationalist movements, Anderson explains, the remaining dynasties of eastern Europe and Asia pirated the modular concepts of nationalism and sought to impose what Hugh Seton-Watson terms “offi  cial nationalisms” over their restless linguistic minorities.[62] Conservative adaptations of the spontaneous nationalisms that preceded and motivated them, these offi  cial nationalisms, such as in the Austro-Hungarian and Ottoman Empires or czarist Russia, are “a reactionary, secondary modeling” of the modular concept of nationalism.[63] In the twentieth century, a wave of anti-imperial nationalist movements swept through former colonies of Asia and Africa, where, utilizing advances in communications technology such as television and radio to complement print, “the lessons of creole, vernacular and offi  cial nationalisms were copied, adapted and improved upon,”[64] and the nation became the basis for the remaining portion of humanity’s communal imaginings. 
 
-Having sketched the process of social change and shifts in consciousness by which the nation came to be imagined “and, once imagined, modeled, adapted and transformed,”[65] Anderson fi nally returns to the question he poses in his introduction: Why are people attached to these “inventions of their imaginations” and “ready to die for these inventions?”[66] The answers, he says, are essentially familial love and “purity, 
+Having sketched the process of social change and shifts in consciousness by which the nation came to be imagined “and, once imagined, modeled, adapted and transformed,”[65] Anderson fi nally returns to the question he poses in his introduction: Why are people attached to these “inventions of their imaginations” and “ready to die for these inventions?”[66] The answers, he says, are essentially familial love and “purity,
+
+<!-- page 58 -->
 
 20 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -571,7 +688,9 @@ through fatality”: “Dying for one’s country, which usually one does not ch
 
 Brilliantly articulated, Anderson’s popular work off ers us yet another speculative yet useful theoretical framework through which to view the origins of nations and nationalism. 
 
-Applying Anderson’s contentions to the birthday rally on behalf of the Iranian king depicted in the photo yields still more hypotheses about how such an event relates to the development and sustenance of national community and identity. Having been pirated in its modular form by secular Iranian intellectuals to secure the country’s territorial integrity and sovereignty at the turn of the century, by the mid–twentieth century nationalism has produced imagined interconnectivity between the event’s participants, who together represent the national community. United by a common language spread through mechanically produced print and the state’s educational eff orts, the elite and nonelite participants in the rally are evidently expressing and feeling their horizontal comradeship and love of the family–nation that they constitute. The patriotism demonstrated by the marching scouts is a by-product of the natural connection 
+Applying Anderson’s contentions to the birthday rally on behalf of the Iranian king depicted in the photo yields still more hypotheses about how such an event relates to the development and sustenance of national community and identity. Having been pirated in its modular form by secular Iranian intellectuals to secure the country’s territorial integrity and sovereignty at the turn of the century, by the mid–twentieth century nationalism has produced imagined interconnectivity between the event’s participants, who together represent the national community. United by a common language spread through mechanically produced print and the state’s educational eff orts, the elite and nonelite participants in the rally are evidently expressing and feeling their horizontal comradeship and love of the family–nation that they constitute. The patriotism demonstrated by the marching scouts is a by-product of the natural connection
+
+<!-- page 59 -->
 
 _Nationalism, Theory, and Social Biography_ | 21 
 
@@ -581,7 +700,9 @@ But how can we specifi cally locate and describe the essence and appeal of this 
 
 ## _Anthony D. Smith and Ethnosymbolism_ 
 
-Perhaps the most prolifi c writer on the subject of ethnic and national identities over the past three decades has been Anthony D. Smith. A central participant in ongoing theoretical dialogue between nationalism studies specialists, Smith generally off ers refi ned defi nitions of key operating terms (e.g., _nation_ , _nationalism_ , _national identity_ ), observations and criticisms regarding prevalent theories of nationalism and contemporary interpretive trends, and varying degrees of explication of his favored approach, ethnosymbolism, which arose out of his dissatisfaction with existing modernist, perennialist, and primordialist paradigms. Off ering a “supplement and corrective” to existing paradigms, Smith and his fellow ethnosymbolists have evolved a new and promising approach rather 
+Perhaps the most prolifi c writer on the subject of ethnic and national identities over the past three decades has been Anthony D. Smith. A central participant in ongoing theoretical dialogue between nationalism studies specialists, Smith generally off ers refi ned defi nitions of key operating terms (e.g., _nation_ , _nationalism_ , _national identity_ ), observations and criticisms regarding prevalent theories of nationalism and contemporary interpretive trends, and varying degrees of explication of his favored approach, ethnosymbolism, which arose out of his dissatisfaction with existing modernist, perennialist, and primordialist paradigms. Off ering a “supplement and corrective” to existing paradigms, Smith and his fellow ethnosymbolists have evolved a new and promising approach rather
+
+<!-- page 60 -->
 
 22 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -589,7 +710,9 @@ than a theory.[72] Still a growing trend within the fi eld, ethnosymbolism has a
 
 The ethnosymbolic approach focuses on subjective sociocultural and symbolic elements such as memory, myth, symbol, value, ritual, tradition, and sentiment in the persistence of _ethnies_ (ethnic communities), the emergence and formation of nations, and the appeal of nationalism. In this way, ethnosymbolism seeks to illuminate the “inner worlds” of nationalism and ethnicity.[74] The ethnosymbolic approach can also be distinguished by an interest in long-term, multigenerational analysis in opposition to modernist reasoning for concentrating on the eighteenth-century through the present.[75] Only analyses that consider social and cultural patterns over _la longue durée_ can hope to illuminate the complex relationship between the past and the present in the persistence of collective cultural identities and the ways in which earlier forms of collective identity—most importantly the _ethnie_ —have infl uenced the evolution of nations. Smith and the ethnosymbolists thus posit nations and nationalism within a continuum of collective identities rather than solely as products of modernity.[76] In contrast to the modernists’ generally elite-focused, “top-down” analyses, an ethnosymbolic approach seeks to understand the activities, beliefs, and attitudes of nonelites and the ways in which they infl uence and are mobilized by the nationalist intelligentsia.[77] Unlike modernists, Smith contends, “ethno-symbolists stress the relationship between various elites and the lower strata (‘the people’) they aim to represent. But this is not a one-way relationship. The non-elites, partly through their cultural traditions, and partly in consequence of their vernacular mobilization, infl u- ence the intelligentsia, political leaders, and bourgeoisie, by constraining their innovations within certain cultural parameters and by providing motifs and personnel for their cultural projects and political goals.”[78] Thus, Smith further distinguishes ethnosymbolism from modernism by its emphasis on the dialogic nature of the relationship between elites and nonelites and their reciprocal roles in the development of nationalism.[79] 
 
-An ethnosymbolic reading of the snapshot from the shah’s 1953 birthday parade draws our attention once again to the interactions and 
+An ethnosymbolic reading of the snapshot from the shah’s 1953 birthday parade draws our attention once again to the interactions and
+
+<!-- page 61 -->
 
 _Nationalism, Theory, and Social Biography_ | 23 
 
@@ -597,7 +720,9 @@ relationship between the elite spectators and the nonelite participants on the t
 
 Smith’s ethnosymbolic approach asserts a complex, dialogic relationship between the elites and nonelites in the creation and maintenance of nationalism, and it demands explication of the symbols, myths, memories, values, sentiments that constitute the “inner world” of nationalism and ethnicity for the nonelite strata. Well more than a decade into its formulation, what this promising and compelling approach has yet to identify or illustrate is the research path to these inner worlds and the view from below that is required to behold them. Indeed, Smith and the ethnosymbolists chart a clear directive for the focus of future research on ethnicity and nationalism, yet at present they do not off er guidance regarding the research methods and sources one would employ to document and interpret the sociocultural and symbolic elements that are central to the approach. Ethnosymbolism therefore draws our attention to the myths, symbols, memories, and sentiments that generate and are in turn created and sustained by the shah’s Fourth of Aban parade, but it does not as yet suggest how to proceed to investigate them. 
 
-Our consideration of the theories of Ernest Gellner, John Breuilly, Elie Kedourie, Eric Hobsbawm, Benedict Anderson, and Anthony D. Smith has produced useful hypothetical lenses through which to view the shah’s 1953 birthday parade. More importantly, it has generated a series 
+Our consideration of the theories of Ernest Gellner, John Breuilly, Elie Kedourie, Eric Hobsbawm, Benedict Anderson, and Anthony D. Smith has produced useful hypothetical lenses through which to view the shah’s 1953 birthday parade. More importantly, it has generated a series
+
+<!-- page 62 -->
 
 24 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -607,17 +732,23 @@ of compelling, nuanced questions to help determine the applicability and utility
 
 Despite the fact that modern Iranian history and studies of Iranian politics have fl ourished in the three and a half decades since the Iranian Revolution, little research has been done on the subject of Iranian nationalism.[80] Embryonic in its development and sparse in quantity, existing historiography on Iranian nationalism has not yet begun to detail the process by which nationalism spread in the twentieth century to the country’s many linguistic and religious minorities or its roughly 90 percent Shi‘a Muslim majority, of which some 55 percent speak Persian. Throughout the Cold War era, the subject of twentieth-century Iranian national development was approached essentially from two distinct and often ideologically informed points of view in the fi elds of history and political science. Development was initially written about as part of a general exaltation of a modernizing, secularizing, anti-Soviet, pro-Israel Iran under Shah Muhammad Reza Pahlavi, peaking in the 1960s and 1970s.[81] Analyses of Iranian national institutions and development during the Pahlavi era (1925–79) are distinguished by their dearth of reference to the experiences of anyone but a handful of secular elites.[82] After the Islamic Revolution of 1979, numerous studies emerged to attempt to explain the historical evolution of the movement to overthrow the Pahlavi regime and its leadership.[83] Cold War infl uences and political turmoil guided much of Western scholarship on Iran from the 1950s through the early 1990s. During this period, however, the specifi c subject of Iranian nationalism received remarkably little scholarly attention. 
 
-As described in this book’s preface, Richard Cottam’s _Nationalism in Iran_ , the single book-length study available on the subject of Iranian nationalism from 1964 to 1993, was shaped by the Cold War and US foreign-policy history in Iran, in which Cottam himself played a role.[84] 
+As described in this book’s preface, Richard Cottam’s _Nationalism in Iran_ , the single book-length study available on the subject of Iranian nationalism from 1964 to 1993, was shaped by the Cold War and US foreign-policy history in Iran, in which Cottam himself played a role.[84]
+
+<!-- page 63 -->
 
 _Nationalism, Theory, and Social Biography_ | 25 
 
 Concerned primarily with the prospects for future political stability in Iran, the bulk of Cottam’s analysis focuses on the impact of Iranian nationalism on political attitudes and behavior from the 1920s through the mid-1950s and narrates the evolution of the oil nationalization crisis as well as the aftermath of Mohammad Mossadegh’s overthrow in August 1953. Although ascribing Iranian nationalism to ancient origins, Cottam viewed it as a modern phenomenon that became politically relevant only after 1890 and that had not yet taken root within the nation’s diverse population.[85] Because of the unknown political implications that growing Iranian nationalist sentiment would surely present—whether wielded by the Pahlavi regime or by its manifold opposition—the remainder of Cottam’s analysis sought to assess the social base and level of popular receptivity to Iranian nationalism to determine its potential functions in national unifi - cation and political stabilization. 
 
-As noted in the preface, having completed his fi eld research and relatively short career with the CIA in Iran in the decade following the Azerbaijan Crisis of 1946–47, Cottam was concerned particularly with the issue of Azerbaijani and Kurdish separatism as well as with the potential for a sense of Iranian nationalism as a “terminal loyalty” to be inculcated among Iran’s linguistic and religious minorities.[86] Here, alongside Soviet designs and regional irredentism as critical determining factors in the country’s territorial cohesion, Cottam plotted the level of allegiance of Iranian minorities and their potential to accept Iranian national identity by way of the proximity of each group’s linguistic and religious traditions to that of the Shi‘a Persian majority. Thus, primary loyalty to the Iranian nation would be based on the relative distance or propinquity of a minority group’s religious traditions to Shi‘a Islam and of its traditional language to Persian. By this formulation, an Azeri-speaking Shi‘ite would more readily accept Iranian national identity than a Kurdish-speaking Sunni, who in turn would be more amenable to Iranian identity and the Iranian nationalist message than would the country’s Armenian or Assyrian Christians or Jews.[87] Cottam qualifi ed these logical yet untested assumptions with a series of Cold War what-ifs, such as the impact of Soviet propaganda directed toward Iran’s minorities and covert activities in border regions to destabilize the Pahlavi regime. 
+As noted in the preface, having completed his fi eld research and relatively short career with the CIA in Iran in the decade following the Azerbaijan Crisis of 1946–47, Cottam was concerned particularly with the issue of Azerbaijani and Kurdish separatism as well as with the potential for a sense of Iranian nationalism as a “terminal loyalty” to be inculcated among Iran’s linguistic and religious minorities.[86] Here, alongside Soviet designs and regional irredentism as critical determining factors in the country’s territorial cohesion, Cottam plotted the level of allegiance of Iranian minorities and their potential to accept Iranian national identity by way of the proximity of each group’s linguistic and religious traditions to that of the Shi‘a Persian majority. Thus, primary loyalty to the Iranian nation would be based on the relative distance or propinquity of a minority group’s religious traditions to Shi‘a Islam and of its traditional language to Persian. By this formulation, an Azeri-speaking Shi‘ite would more readily accept Iranian national identity than a Kurdish-speaking Sunni, who in turn would be more amenable to Iranian identity and the Iranian nationalist message than would the country’s Armenian or Assyrian Christians or Jews.[87] Cottam qualifi ed these logical yet untested assumptions with a series of Cold War what-ifs, such as the impact of Soviet propaganda directed toward Iran’s minorities and covert activities in border regions to destabilize the Pahlavi regime.
+
+<!-- page 64 -->
 
 26 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
-On October 26, 1953, two months after CIA Operation Ajax succeeded in initiating the coup d’état that overthrew Prime Minister Mossadegh and fi rmly seated Muhammad Reza Pahlavi back on the Peacock Throne, and two weeks before Mossadegh would face a military tribunal for treason, the shah’s thirty-fourth birthday was publicly celebrated at Amjadieh Stadium in Tehran. Drawing insight from Cottam’s _Nationalism in Iran_ to understand this event and to interpret the photograph of the opening ceremony is particularly apropos considering the concurrence of his research, the book’s narrative focus, and its emphasis on the impact of what he saw as the rise of royal dictatorship and movement toward totalitarianism in the wake of Mossadegh’s ouster.[88] Seeking to shed the image of vacillation and weakness that was most recently underscored by the shah’s escape to Rome at the height of the August coup, the birthday parade is an attempt to demonstrate the shah’s power and diverse base of support, the reestablishment of security, and the country’s stability. With the purge of the National Front and Tudeh Parties in high gear, the display of Persian nationalist symbols and representation of continuity in the monarchial tradition of the Fourth of Aban parade seek to wrestle back the mantle of Iranian nationalism from the monarchy’s competing secular nationalist and Communist opposition. Cottam’s detailed account of elite infi ghting and intrigue in the months following the coup suggests that the show of crowd unity and monarchial loyalty masks infi nitely more complex sentiments and likely a sense of unease, fear, and relief in the grandstands. The marching scouts depicted in the photograph of the opening ceremony—probably unaware of the political functions their participation in the event serves or of many applauding onlookers’ consternation—are themselves in the process of acquiring a sense of Iranian national identity. Whether these nonelites will ultimately come to accept Iranian nationalism of whatever political orientation as their terminal loyalty in the coming decades will depend primarily on their ancestral language and religion. Per Cottam’s predictions, those of a Shi‘a Persian background would have a strong chance of developing and sustaining a sense of Iranian nationalism; Sunni Kurds or Azeri Turkish participants would probably do so; and those of Armenian Christian or Jewish ancestry would not. 
+On October 26, 1953, two months after CIA Operation Ajax succeeded in initiating the coup d’état that overthrew Prime Minister Mossadegh and fi rmly seated Muhammad Reza Pahlavi back on the Peacock Throne, and two weeks before Mossadegh would face a military tribunal for treason, the shah’s thirty-fourth birthday was publicly celebrated at Amjadieh Stadium in Tehran. Drawing insight from Cottam’s _Nationalism in Iran_ to understand this event and to interpret the photograph of the opening ceremony is particularly apropos considering the concurrence of his research, the book’s narrative focus, and its emphasis on the impact of what he saw as the rise of royal dictatorship and movement toward totalitarianism in the wake of Mossadegh’s ouster.[88] Seeking to shed the image of vacillation and weakness that was most recently underscored by the shah’s escape to Rome at the height of the August coup, the birthday parade is an attempt to demonstrate the shah’s power and diverse base of support, the reestablishment of security, and the country’s stability. With the purge of the National Front and Tudeh Parties in high gear, the display of Persian nationalist symbols and representation of continuity in the monarchial tradition of the Fourth of Aban parade seek to wrestle back the mantle of Iranian nationalism from the monarchy’s competing secular nationalist and Communist opposition. Cottam’s detailed account of elite infi ghting and intrigue in the months following the coup suggests that the show of crowd unity and monarchial loyalty masks infi nitely more complex sentiments and likely a sense of unease, fear, and relief in the grandstands. The marching scouts depicted in the photograph of the opening ceremony—probably unaware of the political functions their participation in the event serves or of many applauding onlookers’ consternation—are themselves in the process of acquiring a sense of Iranian national identity. Whether these nonelites will ultimately come to accept Iranian nationalism of whatever political orientation as their terminal loyalty in the coming decades will depend primarily on their ancestral language and religion. Per Cottam’s predictions, those of a Shi‘a Persian background would have a strong chance of developing and sustaining a sense of Iranian nationalism; Sunni Kurds or Azeri Turkish participants would probably do so; and those of Armenian Christian or Jewish ancestry would not.
+
+<!-- page 65 -->
 
 _Nationalism, Theory, and Social Biography_ | 27 
 
@@ -625,13 +756,17 @@ Five decades since its original publication, _Nationalism in Iran_ remains a vit
 
 Mostafa Vaziri’s _Iran as Imagined Nation: The Construction of National Identity_ (1993) off ers the most extensive research into the origins of Iranian national identity to date and (until 1999) remained alongside Cottam’s work as one of only two book-length studies in English on the specifi c subject of Iranian nationalism. In dramatic contrast to Cottam’s emphasis on contemporary politics, Cold War lens, and detached position on the phenomenon of nationalism itself, Vaziri’s at times polemical contribution centers on the pre-twentieth-century roots of Iranian national identity, viewed through the lens of imperialism and Orientalism. In a radical, constructionist departure inspired and framed via Benedict Anderson’s and Edward Said’s theories and methods and working primarily through textual analysis of European sources, Vaziri seeks to illustrate his conviction that the very notion of Iran as a geographical designation and Iranian national identity are the inventions of modern European Orientalists and thus imported forgeries.[90] 
 
-Vaziri is on solid ground as he details the epistemology of nationalism in eighteenth- and nineteenth-century Europe and describes its eff ects on 
+Vaziri is on solid ground as he details the epistemology of nationalism in eighteenth- and nineteenth-century Europe and describes its eff ects on
+
+<!-- page 66 -->
 
 28 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
 the construction of modern Iranian historiography. Tracing the lineage of European philological interpretations and intellectual conceptions of Iran, from Arthur Gobineau’s racialist theory of Asiatic–Aryan achievement through the historical narratives of seminal Iranologists such as George Rawlinson, Edward Browne, Vladimir Minorsky, and Richard Frye, Vaziri forcefully and persuasively argues that such outsiders had vast infl uence in shaping the understanding of what Iran was, where it could be located on a map throughout history, and what linguistic, political, and cultural elements distinguished its people from their Semitic neighbors and carried on through the ages. Ultimately, using the work of Richard Cottam as his central example, Vaziri laments that modern scholars have taken for granted the historicity of Iranian national identity and have unquestioningly adapted the received wisdom regarding Iran’s geographical and cultural heritage and national particularism.[91] He asserts that it is contradictory for Cottam to explain Iranian nationalism as a modern phenomenon but then anachronistically assign its historical, racial, linguistic, religious, and cultural basis. “Cottam, like some other scholars, asserts that the greatness of pre-Islamic history gave nationalism (and national consciousness) vitality, but he also admits that ‘the uneducated have no idea of Iranian history.’”[92] Hence, Vaziri takes _Nationalism in Iran_ to task for its failure to investigate the origins and development of Iranian national identity and to address what he calls the “multilayered identity question” regarding how diverse cultural and linguistic groups “came together to feel Iranian.”[93] 
 
-Whereas Vaziri’s _Iran as Imagined Nation_ tackles the origins of Iranian national identity head on, the multilayered identity question Vaziri himself raises is not answered, and the relative success of the eff ort to create a common Iranian consciousness within a bordered Iranian zone is deemed “an interesting but separate issue.”[94] Thus, Vaziri leaves us to speculate about this eff ort’s impact on actual Iranians and their identity in the twentieth century, which is when he claims foreign concepts of Iranian nationalism were successfully imposed. Because his analysis is focused predominantly on what Europeans thought and wrote about Iran, it unfortunately does not detail the actual process by which Orientalist knowledge and historiography aff ected the construction of Iranian 
+Whereas Vaziri’s _Iran as Imagined Nation_ tackles the origins of Iranian national identity head on, the multilayered identity question Vaziri himself raises is not answered, and the relative success of the eff ort to create a common Iranian consciousness within a bordered Iranian zone is deemed “an interesting but separate issue.”[94] Thus, Vaziri leaves us to speculate about this eff ort’s impact on actual Iranians and their identity in the twentieth century, which is when he claims foreign concepts of Iranian nationalism were successfully imposed. Because his analysis is focused predominantly on what Europeans thought and wrote about Iran, it unfortunately does not detail the actual process by which Orientalist knowledge and historiography aff ected the construction of Iranian
+
+<!-- page 67 -->
 
 _Nationalism, Theory, and Social Biography_ | 29 
 
@@ -641,7 +776,9 @@ Iran as a geographical designation was taken by the European Orientalists and tr
 
 In terms of the process by which “authoritarian” Orientalism shaped the identity of Iranians through the origination of things such as the Aryan Hypothesis and the revival of scholarship focusing on ancient Persian language and civilization, Vaziri off ers nothing in the way of supporting evidence, yet he boldly submits that “this anachronistic treatment of Iran by European historiography gave the land’s twentieth-century governments and its masses grounds to be content about their forged identity.”[97] Vaziri’s use of Anderson’s theory of imagined community is noteworthy in its interpretation of _imagined_ as false, mistaken, or otherwise spurious.[98] 
 
-If we accept Vaziri’s premise and theoretical reasoning, the shah’s 1953 birthday parade can thus be interpreted as an extraordinary example of Orientalist power to fabricate reality and of the Pahlavi regime’s complicity in selling a load of Orientalist nonsense to its diverse population. The entire ritual and its trappings reify both the constructed myths of Iran as a nation and legitimately bordered political unit and the lineage of Persian monarchy. They dangerously inculcate bogus concepts of Persian 
+If we accept Vaziri’s premise and theoretical reasoning, the shah’s 1953 birthday parade can thus be interpreted as an extraordinary example of Orientalist power to fabricate reality and of the Pahlavi regime’s complicity in selling a load of Orientalist nonsense to its diverse population. The entire ritual and its trappings reify both the constructed myths of Iran as a nation and legitimately bordered political unit and the lineage of Persian monarchy. They dangerously inculcate bogus concepts of Persian
+
+<!-- page 68 -->
 
 30 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -651,7 +788,9 @@ But even if for the sake of argument we agree with Vaziri that European Oriental
 
 To understand the roots of Vaziri’s approach and interpretation, we need to look more deeply into the layers of its theoretical sources, in particular its use of Edward Said’s _Orientalism_ , now that we have examined Anderson’s _Imagined Communities_ . To generalize, Said draws from Michel Foucault’s analyses of clinics, medicine, prisons, order, and language to develop his theory of the patriarchal Orientalist scholar, who views the East with his panoptic gaze, distinguishing and reifying the Occidental normal from the Oriental abnormal.[99] Antonio Gramsci’s theory of cultural hegemony is integrated to describe how Orientalist knowledge, once developed, is monologically imposed on and used to control Eastern societies.[100] Said does not mince words as he characterizes the strength and durability of the Orientalist West, stating that “the relationship between Occident and Orient is a relationship of power, of domination, of varying degrees of a complex hegemony. . . . The Orient was Orientalized not only because it was discovered to be ‘Oriental’ in all those ways considered commonplace by an average nineteenth-century European, but also because it _could be_ —that is submitted into being— _made_ Oriental.”[101] 
 
-This explanation of the relationship between the East and West is problematized by the very theories it draws from. Foucault’s variant descriptions of the mechanisms of power relationships do not allow for such a top-down, monologic, juridical, and repressive imposition of 
+This explanation of the relationship between the East and West is problematized by the very theories it draws from. Foucault’s variant descriptions of the mechanisms of power relationships do not allow for such a top-down, monologic, juridical, and repressive imposition of
+
+<!-- page 69 -->
 
 _Nationalism, Theory, and Social Biography_ | 31 
 
@@ -659,13 +798,17 @@ power and knowledge. In fact, they point to individuals as the location of power
 
 In defi ning the eff ects of power as repression, one adopts a purely juridical conception of such power, one identifi es power with law which says no, power is taken above all as carrying a force of a prohibition. Now I believe that this is a wholly negative, narrow, skeletal conception of power, one which has been curiously widespread. If power were never anything but repressive, if it never did anything but say no, do you really think one would be brought to obey it? What makes power hold good, what makes it accepted is simply the fact that it doesn’t only weigh on us as a force that says no, but that it traverses and produces things, it induces pleasures, forms knowledge, produces discourse. It needs to be consolidated as a productive network which runs throughout the whole social body, much more than as an instance whose function is repression.[102] 
 
-Foucault suggests that an _ascending_ analysis of power is necessary to understand its mechanisms, which are constituted through “a multiplicity of organisms, forces, energies, materials, desires, thoughts etc.”[103] His theories do not dismiss the possibility of cultural hegemony. On the contrary, they support Gramsci’s idea (and Said’s interpretation of it) that hegemonic activity aside from material force has something to do with the ability of a group (i.e., European imperialists) to seize and maintain power. What they call into question, however, is whether cultural hegemony and the creation of identity can be understood when viewed as monologic, top-down impositions. Foucault instead points to dialogic interactions as the capillary sources of power and to individuals as vehicles of that power. Therefore, if we want to understand how and in what way (or, again, if at all) Orientalism shaped lives and identities in Iran and elsewhere, it is necessary to begin to look at the interactions of individual elites and nonelites in these processes and to fi nd out what signifi cance and meaning—what _uses_ and _pleasures_ —things such as Orientalist myths and a constructed national identity provided.[104] 
+Foucault suggests that an _ascending_ analysis of power is necessary to understand its mechanisms, which are constituted through “a multiplicity of organisms, forces, energies, materials, desires, thoughts etc.”[103] His theories do not dismiss the possibility of cultural hegemony. On the contrary, they support Gramsci’s idea (and Said’s interpretation of it) that hegemonic activity aside from material force has something to do with the ability of a group (i.e., European imperialists) to seize and maintain power. What they call into question, however, is whether cultural hegemony and the creation of identity can be understood when viewed as monologic, top-down impositions. Foucault instead points to dialogic interactions as the capillary sources of power and to individuals as vehicles of that power. Therefore, if we want to understand how and in what way (or, again, if at all) Orientalism shaped lives and identities in Iran and elsewhere, it is necessary to begin to look at the interactions of individual elites and nonelites in these processes and to fi nd out what signifi cance and meaning—what _uses_ and _pleasures_ —things such as Orientalist myths and a constructed national identity provided.[104]
+
+<!-- page 70 -->
 
 32 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
 Eugene F. Irschick applies this approach in his study of the creation of South Indian identity in the nineteenth century, _Dialog and History, Constructing South India, 1795–1895_ (1994). Based primarily on archival and biographical sources, this study examines the creation of knowledge regarding physical space and cultural identity. Irschick explores the process in which a formerly mobile Tamil population became fi xed in a resacralized land and demonstrates how this process was useful in various ways to Tamil nationalists, the British colonial administration, and diverse indigenous agriculturalists. Questioning the claim (specifi cally referring to Said) that knowledge is constructed by willed activity of a stronger over a weaker group, Irschick’s research suggests instead that “changed signifi cations are the heteroglot and dialogic production of all members of any historical situation, though not always in equal measure; this is so whether they have a Weberian monopoly on violence or not.”[105] In the case of South Indian identity, Irschick’s study demonstrates how the process of its development was not only collaborative, but “harmonious” and even “pleasurable,” despite the fact that it was in many ways a project of British colonial domination.[106] Active voices from all segments of society—colonizer and colonized, elites wielding juridical power and nonelites often subject to it—came together to create and shape knowledge and identity.[107] 
 
-Coincidentally, the third work in the short lineage of studies on Iranian nationalism mirrors Irschick’s study of the creation of knowledge regarding physical space and cultural identity in South India and articulates a dialogic understanding of agency in the creative and contested process of identity formation in Iran.[108] In _Frontier Fictions, Shaping the Iranian – Nation, 1804 1946_ (1999), Firoozeh Kashani-Sabet investigates how territorial defense, delineation of borders, and evolving conceptions of national geography during the Qajar and early Pahlavi eras infl uenced culture and politics and motivated and shaped Iranian nationalist discourse.[109] While recognizing the utility of Anderson’s framework for understanding nationalism and illustrating several of his themes in the case of Iran, Kashani-Sabet asserts that it is the palpable entity of land that enabled Iranians to imagine membership in and develop allegiance to the “deep horizontal comradeship” Anderson describes.[110] An Iranian national community was indeed imagined, she argues, but only after perceptible 
+Coincidentally, the third work in the short lineage of studies on Iranian nationalism mirrors Irschick’s study of the creation of knowledge regarding physical space and cultural identity in South India and articulates a dialogic understanding of agency in the creative and contested process of identity formation in Iran.[108] In _Frontier Fictions, Shaping the Iranian – Nation, 1804 1946_ (1999), Firoozeh Kashani-Sabet investigates how territorial defense, delineation of borders, and evolving conceptions of national geography during the Qajar and early Pahlavi eras infl uenced culture and politics and motivated and shaped Iranian nationalist discourse.[109] While recognizing the utility of Anderson’s framework for understanding nationalism and illustrating several of his themes in the case of Iran, Kashani-Sabet asserts that it is the palpable entity of land that enabled Iranians to imagine membership in and develop allegiance to the “deep horizontal comradeship” Anderson describes.[110] An Iranian national community was indeed imagined, she argues, but only after perceptible
+
+<!-- page 71 -->
 
 _Nationalism, Theory, and Social Biography_ | 33 
 
@@ -673,13 +816,17 @@ objects such as land, maps, and historical texts enabled the visualization of Ir
 
 Although Iranian national unity would prove “spurious” by 1946 despite these cultural projects—evidenced by minorities’ discontent with Reza Shah’s reign and the Azerbaijan Crisis, which closes KashaniSabet’s study—the author submits that land and frontier disturbances have remained central to the evolving Iranian nationalist agenda, be it the secular nationalism of Mossadegh and the National Front during the nationalization crisis or the religion-infused Iranian nationalism of the Islamic Republic throughout the Iran-Iraq War.[112] 
 
-Although the sophisticated and nuanced theoretical critique of Anderson and other modernists that Kashani-Sabet presents in _Frontier Fictions_ is not explicitly associated with existing theorists or theoretical paradigms, her argument, the structure of her work, and its sources are unmistakably ethnosymbolic. Like Smith and the ethnosymbolists, Kashani-Sabet utilizes the scaff olding of the modernist paradigm and the theorists she critiques (Anderson, Hobsbawm, and Gellner) to illustrate “from above as well as from below” how subjective elements such as myths, symbols, memories, and sentiments—in her research regarding land, archaeological reliefs, texts, and maps—evolved over the _longue durée_ and to demonstrate their role in sustaining, appropriating, reinterpreting, and reifying conceptions of the Iranian _ethnie_ and its historic homeland.[113] Arguing that modern Iranian nationalism was necessarily based on recognizable geographic and historic precedents, which in turn provided modern political elites with viable material for their unifi cation and homogenization 
+Although the sophisticated and nuanced theoretical critique of Anderson and other modernists that Kashani-Sabet presents in _Frontier Fictions_ is not explicitly associated with existing theorists or theoretical paradigms, her argument, the structure of her work, and its sources are unmistakably ethnosymbolic. Like Smith and the ethnosymbolists, Kashani-Sabet utilizes the scaff olding of the modernist paradigm and the theorists she critiques (Anderson, Hobsbawm, and Gellner) to illustrate “from above as well as from below” how subjective elements such as myths, symbols, memories, and sentiments—in her research regarding land, archaeological reliefs, texts, and maps—evolved over the _longue durée_ and to demonstrate their role in sustaining, appropriating, reinterpreting, and reifying conceptions of the Iranian _ethnie_ and its historic homeland.[113] Arguing that modern Iranian nationalism was necessarily based on recognizable geographic and historic precedents, which in turn provided modern political elites with viable material for their unifi cation and homogenization
+
+<!-- page 72 -->
 
 34 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
 projects, Kashani-Sabet’s approach, like ethnosymbolism, bridges the gap between perennialist and modernist interpretations.[114] Similarly, in contrast to the instrumentalist reading by Mostafa Vaziri, Kashani-Sabet acknowledges the strong Orientalist infl uence in the evolution of modern Iranian history and cartography but argues that the appeal and resonance of elite yarns—Orientalist tainted or otherwise—was that they were spun from veritable strands of history and bound via genuine physical and emotional connections to land. Wielding a variety of primary sources that include offi  cial documents, maps, journals, newspaper articles, cartoons, travelogues, and personal memoirs, Kashani-Sabet narrates the process by which Iranian patriots, not self-Orientalizing poseurs, revived old myths and created new ones to fortify territorial claims and forge a common Iranian identity.[115] Because _Frontier Fictions_ concludes in 1946, its analysis culminates in the death throes of the exclusive ethnic nationalism of Reza Shah’s regime, which had the eff ect of alienating Iran’s ethnic minorities and prohibiting the development of national unity. Since 1946, land and frontier disturbances have indeed remained central to evolving Iranian nationalist agendas, but the reorientation of policy to promote an inclusive civic nationalism since 1946, implemented under Muhammad Reza Pahlavi and perpetuated by the Islamic Republic, has arguably succeeded in creating a level of national unity and allegiance among minorities surpassing that of many neighboring countries in the region.[116] What was the nature of these dramatic legal, economic, symbolic, and rhetorical policy changes, and how did they alter the level of nonelite receptivity to nationalist projects in subsequent decades? To illustrate how rapid and signifi - cant these changes were, there is perhaps no better moment to consider than the commencement of the 1953 Fourth of Aban parade at Amjadieh Stadium and how it contrasts with Reza Shah’s exclusivist policies. 
 
-As Kashani-Sabet documents, the Armenians of Iran chafed under Reza Shah’s restrictive social and linguistic reforms. In 1927, concurrent with the Motahed ul-Shekl Shodan-e Ahali-ye Iran (Promulgation of Uniformity for the People of Iran) described in this book’s introduction, the Interior Ministry demanded that Armenian schools in Azerbaijan remove all symbols that could be perceived to be reminiscent of those used in the short-lived Armenian Republic and immediately convert them to Iranian 
+As Kashani-Sabet documents, the Armenians of Iran chafed under Reza Shah’s restrictive social and linguistic reforms. In 1927, concurrent with the Motahed ul-Shekl Shodan-e Ahali-ye Iran (Promulgation of Uniformity for the People of Iran) described in this book’s introduction, the Interior Ministry demanded that Armenian schools in Azerbaijan remove all symbols that could be perceived to be reminiscent of those used in the short-lived Armenian Republic and immediately convert them to Iranian
+
+<!-- page 73 -->
 
 _Nationalism, Theory, and Social Biography_ | 35 
 
@@ -687,19 +834,25 @@ national symbols. In 1936, the Davudian Elementary School was forced along with 
 
 Yet it is well known that after Reza Shah’s ouster in 1941, the majority of the regime’s restrictive language reforms were either ignored, softened, or eliminated altogether, as were other unpopular reform eff orts such as tribal sedentarization and public-dress regulations such as the ban on _hejab_ (veiling). The wrenching events of 1946–47 would accelerate this unraveling and under a government split between an increasingly powerful Majles and prime minister, on the one hand, and a weak shah, on the other, would encourage a new approach to national identity, unity, and Iranian minorities. This approach consisted of a rapid, pragmatic shift from exclusive ethnic nationalism to the embrace of elements of civic nationalism. 
 
-Bearing the Ararat fl ag and uniform insignias, which state in Persian “Bashgah-he Varzeshi-ye Ararat” (Ararat Athletic Club) and utilize the red, blue, and orange of the Armenian tricolor, the young scout in the left of the frame in the parade photo keeps perfect cadence as he looks proudly at the shah and his entourage in the grandstands of Amjadieh Stadium on October 26, 1953. What does this overt recognition of Armenian Iranian distinctiveness accomplish for the Iranian political elites looking on? What new national myths are being created and acted out? How does the spectacle and its symbolism shape the sentiments and memories of this Armenian vanguard? This fi nal question is particularly compelling if we remember Richard Cottam’s formula for plotting receptivity and 
+Bearing the Ararat fl ag and uniform insignias, which state in Persian “Bashgah-he Varzeshi-ye Ararat” (Ararat Athletic Club) and utilize the red, blue, and orange of the Armenian tricolor, the young scout in the left of the frame in the parade photo keeps perfect cadence as he looks proudly at the shah and his entourage in the grandstands of Amjadieh Stadium on October 26, 1953. What does this overt recognition of Armenian Iranian distinctiveness accomplish for the Iranian political elites looking on? What new national myths are being created and acted out? How does the spectacle and its symbolism shape the sentiments and memories of this Armenian vanguard? This fi nal question is particularly compelling if we remember Richard Cottam’s formula for plotting receptivity and
+
+<!-- page 74 -->
 
 36 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
 allegiance to Iranian nationalism, which places these lead parade participants as the least likely to develop either. Kashani-Sabet’s work brilliantly moves the study of Iranian nationalism closer to a dialogic approach and skillfully off ers an ethnosymbolic reading of the history of Iranian mapping territorial struggles both physical and intellectual. Yet when we attempt to draw from it to ponder our photograph or, in fact, most developments in Iranian history after the book’s conclusion in 1946, it generates as many questions as it answers. In juxtaposition to the examples of abrasive language reforms between 1927 and 1936, what are we to make of the Armenian symbols, colors, and myths on display at Amjadieh in 1953? What changed and why? How did these dramatic policy changes impact the sentiments of the nonelite parade participants? What if any impact did such changes have on the identity and allegiances within the Armenian Iranian community? What about within other Iranian minority communities or within the dominant Shi‘a Persian majority? 
 
-As we commence this eff ort to understand the strengths and limitations of enduring theories of nationalism and assess their use in the handful of scholarly works on the subject of Iranian nationalism, it is fortuitous that the most recent book-length study of Iranian nationalism explicitly addresses the evolution, purpose, and features of Pahlavi commemorative activity, such as the celebration of the shah’s birthday. In _Nationalizing Iran: – Culture, Power, and the State, 1870 1940_ (2008), Afshin Marashi explores the social, political, and cultural convergence that enabled a realignment of state–society relations and undergirded the movement from a traditional monarchy under Nasr al-Din Shah Qajar to a modern national state under Reza Shah Pahlavi. By tracing continuities in state institutions, social structures, and cultural forms that transcend the traditional political periodization of modern Iranian history around the change from the Qajar to the Pahlavi dynasty in 1925, Marashi shows how elite state building and cultural production enabled the new framework of Iranian national community to be envisioned and materialized between 1870 and 1940.[119] Tracing European and internal infl uences that began Qajar experimentation with new ways of self-legitimation during the second half of Naser al-Din Shah’s reign, concurrent Orientalist-infl uenced intellectual crystallization around notions of national culture and history that accelerated 
+As we commence this eff ort to understand the strengths and limitations of enduring theories of nationalism and assess their use in the handful of scholarly works on the subject of Iranian nationalism, it is fortuitous that the most recent book-length study of Iranian nationalism explicitly addresses the evolution, purpose, and features of Pahlavi commemorative activity, such as the celebration of the shah’s birthday. In _Nationalizing Iran: – Culture, Power, and the State, 1870 1940_ (2008), Afshin Marashi explores the social, political, and cultural convergence that enabled a realignment of state–society relations and undergirded the movement from a traditional monarchy under Nasr al-Din Shah Qajar to a modern national state under Reza Shah Pahlavi. By tracing continuities in state institutions, social structures, and cultural forms that transcend the traditional political periodization of modern Iranian history around the change from the Qajar to the Pahlavi dynasty in 1925, Marashi shows how elite state building and cultural production enabled the new framework of Iranian national community to be envisioned and materialized between 1870 and 1940.[119] Tracing European and internal infl uences that began Qajar experimentation with new ways of self-legitimation during the second half of Naser al-Din Shah’s reign, concurrent Orientalist-infl uenced intellectual crystallization around notions of national culture and history that accelerated
+
+<!-- page 75 -->
 
 _Nationalism, Theory, and Social Biography_ | 37 
 
 through the 1930s, and the resulting educational projects and ceremonial and commemorative activity of the Reza Shah period, Marashi off ers an illuminating alternative periodization and narrative to the history of modern Iranian social and political development. Regarding the import of this narrative to subsequent Iranian history, Marashi utilizes the powerful and well-known example of Mohammad Reza Pahlavi’s statements at the 1971 Persepolis celebration: “Muhammad Reza Shah Pahlavi’s claims of authority, as Shah _of Iran_ and Light _of the Aryans_ thus were not tied to sources of power above or outside the nation but rather were grounded in the fabric of society itself. This transformation was based on the premise that state and society were tied together by a common culture and that the role of the state was now to be the representative and agent of that common and sharply-delineated culture.”[120] Therefore, political actors’ ability to claim to speak on behalf of the nation—from Iranian constitutionalists through Iranian president Mahmoud Ahmadinejad (2005–13)—is ultimately reliant on the prerequisite social, political, and cultural changes that took place between 1870 and 1940, which saw the emergence of modern politics around the abstract concept of the nation.[121] 
 
-Like Kashani-Sabet’s _Frontier Fictions_ , which covers analogous chronological terrain (1806–1946), Marashi’s study does not subscribe to one or another of the existing theoretical paradigms but rather draws from the work of Anderson, Breuilly, and Kedourie to craft a sophisticated—while still essentially modernist—argument to support his thesis and to defi ne critical operating terms such as _the nation_ and _nationalism_ . That Marashi views nationalism as a modern political movement and locates the crucible of the nation within the period of political consolidation covered in his book refl ects the combined infl uence of Breuilly and Kedourie’s modernist-instrumentalist approaches to nationalism. As described earlier, Breuilly off ers a strict defi nition of nationalism as a political movement relevant in times of political contestation, and Kedourie frames nationalism as an elite political ideology that employs symbols rooted in language, ethnicity, and geography to further political projects as they vie for state power. Yet Marashi fi nds the defi nition of nationalism as primarily a political phenomenon relevant only on the fi eld of political contestation insuffi  cient. Drawing from Benedict Anderson’s concept of the imagined 
+Like Kashani-Sabet’s _Frontier Fictions_ , which covers analogous chronological terrain (1806–1946), Marashi’s study does not subscribe to one or another of the existing theoretical paradigms but rather draws from the work of Anderson, Breuilly, and Kedourie to craft a sophisticated—while still essentially modernist—argument to support his thesis and to defi ne critical operating terms such as _the nation_ and _nationalism_ . That Marashi views nationalism as a modern political movement and locates the crucible of the nation within the period of political consolidation covered in his book refl ects the combined infl uence of Breuilly and Kedourie’s modernist-instrumentalist approaches to nationalism. As described earlier, Breuilly off ers a strict defi nition of nationalism as a political movement relevant in times of political contestation, and Kedourie frames nationalism as an elite political ideology that employs symbols rooted in language, ethnicity, and geography to further political projects as they vie for state power. Yet Marashi fi nds the defi nition of nationalism as primarily a political phenomenon relevant only on the fi eld of political contestation insuffi  cient. Drawing from Benedict Anderson’s concept of the imagined
+
+<!-- page 76 -->
 
 38 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
@@ -707,7 +860,9 @@ community, Marashi problematizes Breuilly and Kedourie’s defi nition as too na
 
 Illustrating the nature and function of symbolic commemorative activity and eff orts to construct a national memory under Reza Shah, Marashi explains how the invented tradition of the annual celebration of the shah’s birthday was but one of many new forms of commemorative practice. Statuary and mausoleums honoring famous Persian poets and writers such as Omar Khayyam, Saadi, and Hafez; state-sponsored Nowruz (New Year) celebrations and ceremonies marking the visit of important literary, cultural, and political fi gures; and the 1934 Ferdowsi millennial celebration were the creation of political elites and intellectuals intended to produce a uniform national culture with a shared history.[123] In many ways, new rituals such as a parade at the sports stadium for the shah’s birthday and the use and appropriation of a pantheon of new secular heroes by the Pahlavi regime dramatically illustrate Hobsbawm’s thesis of invented traditions, which, along with the approaches taken by other modernists (Anderson, Breuilly, and Kedourie), informs Marashi’s work. Alas, however, a reading of the photograph from the 1953 in light of the attention Marashi draws to Pahlavi commemorations up to the year 1940 still leaves us with essentially the same questions that our review of Hobsbawm’s and the other modernists’ approaches generated. 
 
-Marashi’s _Nationalizing Iran_ enables us to view the shared salute that commenced the October 26, 1953, birthday rally for Shah Mohammad Reza Pahlavi as a stunning example of the reorientation of the monarchy’s claimed legitimacy from divine, cosmic mandate to its relationship with and custodianship of common Iranian people. The large photograph of the young shah in his own scout uniform—that of the all-Persian Pishahangi-ye Iran of the Reza Shah era—is borne by the two Armenian Iranian scouts of Ararat, reifying the notion of an Iranian scouting tradition and its links to the monarchy and symbolizing the new inclusiveness of the 
+Marashi’s _Nationalizing Iran_ enables us to view the shared salute that commenced the October 26, 1953, birthday rally for Shah Mohammad Reza Pahlavi as a stunning example of the reorientation of the monarchy’s claimed legitimacy from divine, cosmic mandate to its relationship with and custodianship of common Iranian people. The large photograph of the young shah in his own scout uniform—that of the all-Persian Pishahangi-ye Iran of the Reza Shah era—is borne by the two Armenian Iranian scouts of Ararat, reifying the notion of an Iranian scouting tradition and its links to the monarchy and symbolizing the new inclusiveness of the
+
+<!-- page 77 -->
 
 _Nationalism, Theory, and Social Biography_ | 39 
 
@@ -715,13 +870,17 @@ institution’s orientation. And yet once again, now at the end of our journey t
 
 ## **Social Biographical Solutions** 
 
-Social biographical research is concerned primarily with the investigation of the lives of individuals and their social interactions. Most commonly constructed through a combination of relevant documentary evidence from public and private archives, oral interviews with the individual subject and family members and friends, period literature and news articles, as well as secondary sources, a social biography relates the story 
+Social biographical research is concerned primarily with the investigation of the lives of individuals and their social interactions. Most commonly constructed through a combination of relevant documentary evidence from public and private archives, oral interviews with the individual subject and family members and friends, period literature and news articles, as well as secondary sources, a social biography relates the story
+
+<!-- page 78 -->
 
 40 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
 of an individual’s life and contextualizes it through interpretation of the broader events, processes, and structures the individual encountered and through which he or she navigated.[125] Although the idea that research into individual activity and experiences with and expressions of nationalism over time can be conjoined with the many compelling yet speculative theories of nationalism to answer persistent questions about the phenomenon of nationalism is not new, until now such a confl uence has been directly called for by only a handful of social historians who have speculated about its potential. The clearest and most direct statement to this eff ect was fi rst made by Edmund Burke III in the introduction to the fi rst social biographical collection to focus on the lives of ordinary Middle Eastern men and women, _Struggle and Survival in the Modern Middle East_ (1993, with a second edition in 2006): “The biographical approach holds out the promise of reinvigorating the relation between theory and empirical research. . . . Social biographies, especially when deployed as part of a broader research strategy, can test and refi ne social theories, as well as provide an alternative vantage point from which to think about the historical processes by which societies have been continually transformed.”[126] Although the volume presents twenty-four social biographies without theoretical structure or analysis, its introduction suggests the potentials of a meeting between social theory and social biography specifi cally as it relates to nationalism: 
 
-No subject in the modern history of the Middle East has received greater attention from scholars than nationalism. The conventional account stresses the ways in which in response to heroic leaders the masses mobilized to overthrow Western rule. The obvious contradiction between the realities of ethnic diversity and the nationalist assumptions of ethnic unity in Middle Eastern states is simply elided in most accounts. While we know quite a bit about nationalism as an ideology and a political movement, we are much less well informed about how it became the language of politics. The role of nationalism as an ideology in serving the interests of indigenous elites in maintaining their dominance is generally not examined. It is here that the study of ordinary people’s lives can contribute a great deal.[127] 
+No subject in the modern history of the Middle East has received greater attention from scholars than nationalism. The conventional account stresses the ways in which in response to heroic leaders the masses mobilized to overthrow Western rule. The obvious contradiction between the realities of ethnic diversity and the nationalist assumptions of ethnic unity in Middle Eastern states is simply elided in most accounts. While we know quite a bit about nationalism as an ideology and a political movement, we are much less well informed about how it became the language of politics. The role of nationalism as an ideology in serving the interests of indigenous elites in maintaining their dominance is generally not examined. It is here that the study of ordinary people’s lives can contribute a great deal.[127]
+
+<!-- page 79 -->
 
 _Nationalism, Theory, and Social Biography_ | 41 
 
@@ -729,13 +888,17 @@ Demonstrating how factors such as ecology, culture, ethnicity, class, gender, an
 
 Although there has been an abundance of research on the histories of modern Middle Eastern societies, we still know relatively little about the lives of nonelite and minority Middle Eastern individuals.[129] Within the broad fi eld of Middle Eastern history, Iranian history is perhaps the farthest behind in this regard. Slow to move away from traditional document-based research approaches and elite-focused narratives, the fi eld still considers social history a novelty, and oral history is nearly anomalous in it. Of the few established archives that do exist, such as the Harvard Iranian Oral History Project, almost all focus on political elites and take the form of narrative memoirs rather than focused interviews. Although such projects are certainly a start, the area of Iranian oral history is in its infancy, especially as it relates to nonelites of all ethnicities and backgrounds.[130] 
 
-In addition to lack of enthusiasm by scholars of Iranian history, political circumstances and events have also played a role in limiting oral history projects on Iran. The dictatorship of the Pahlavi era did not allow for the free expression of ideas at Iranian universities or research centers— especially if they related to anything political—and the government of the Islamic Republic has randomly engaged in the limitation and disruption of scholarship inside the country since the revolution. Fear of both regimes has made many Iranian citizens and expatriates understandably reluctant to discuss their background with a researcher, however apolitical their life or occupation might seem to the outside observer.[131] Furthermore, owing to the ongoing tensions in US–Iran relations, it is exceedingly diffi  cult for scholars from the United States to obtain funding for projects that require research in Iran, which greatly limits the type and scope of projects that can be undertaken. 
+In addition to lack of enthusiasm by scholars of Iranian history, political circumstances and events have also played a role in limiting oral history projects on Iran. The dictatorship of the Pahlavi era did not allow for the free expression of ideas at Iranian universities or research centers— especially if they related to anything political—and the government of the Islamic Republic has randomly engaged in the limitation and disruption of scholarship inside the country since the revolution. Fear of both regimes has made many Iranian citizens and expatriates understandably reluctant to discuss their background with a researcher, however apolitical their life or occupation might seem to the outside observer.[131] Furthermore, owing to the ongoing tensions in US–Iran relations, it is exceedingly diffi  cult for scholars from the United States to obtain funding for projects that require research in Iran, which greatly limits the type and scope of projects that can be undertaken.
+
+<!-- page 80 -->
 
 42 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
 Despite these obstacles, some of which are common to research in other geographical locations and political regimes (countries in Latin America and many nations of Africa, for example), it is still possible to gather oral evidence to study modern Iranian history. Many Iranian citizens and expatriates are willing to speak openly about their lives and experiences if the researcher is clear about the intent of and possible uses for the research and is willing to be fl exible about the necessity to tape record all conversations and about allowing the interviewee/narrator to excise at their discretion material intended for publication.[132] Some narrators request that a pseudonym be used in publication or that recorded conversations not be made public or both. When combined with personal documents, letters, diaries, photographs, and memorabilia, however, detailed interview notes and several recorded conversations can explain much about an individual’s life and experiences.[133] All of these materials can then be integrated to create a social biography. Because the written form of social biography does not rely on the direct quotations from the research subject, it is an eff ective style when developing a biography of an individual who cannot or will not be directly quoted. Combining the methodological strengths of social biographical and oral historical investigation, this stylistic feature of social biography enhances the eff ectiveness of the format, particularly in the case of Iran and especially in research concerning issues such as personal identity, loyalty, allegiance, and participation in the development of nationalism. 
 
-As the methods, uses, and limitations of social biography have been described in past works that have laid the foundation for the present study, I would like instead to address more thoroughly here the relationship between social biography and oral history, both in general and in the chapters to follow.[134] Although existing studies off er proof that insightful and useful social biographies can be based on the interpretation of archival documents, newspaper articles, personal letters, memoirs, photographs, and secondary sources, they also demonstrate that the inclusion of oral testimony by the research subject and optimally by their family, friends, and acquaintances gives such documentary sources deeper meaning and off ers the historian insight into personal perceptions, attitudes, and emotions.[135] Probing much more deeply than portraits based solely on documentary 
+As the methods, uses, and limitations of social biography have been described in past works that have laid the foundation for the present study, I would like instead to address more thoroughly here the relationship between social biography and oral history, both in general and in the chapters to follow.[134] Although existing studies off er proof that insightful and useful social biographies can be based on the interpretation of archival documents, newspaper articles, personal letters, memoirs, photographs, and secondary sources, they also demonstrate that the inclusion of oral testimony by the research subject and optimally by their family, friends, and acquaintances gives such documentary sources deeper meaning and off ers the historian insight into personal perceptions, attitudes, and emotions.[135] Probing much more deeply than portraits based solely on documentary
+
+<!-- page 81 -->
 
 _Nationalism, Theory, and Social Biography_ | 43 
 
@@ -743,15 +906,25 @@ evidence, social biographical portraits supported by oral interviews are better 
 
 When relevant oral evidence is possible to acquire and integrate, social biography can be distinguished from oral history (which also draws heavily on nonoral evidence and often focuses on the life of a single subject) primarily through its written form. Whereas works of oral history tend to privilege the subject’s voice, interweaving interpretation and detail with quoted words, social biography relies less on direct quotation and is styled around the historian’s interpretation of the oral evidence, which is seamlessly integrated with documentary source materials. These divisions are by no means set in stone; past social biographies have been crafted around and based almost entirely on direct quotation with very little input from the historian.[136] However, in my view, the most eff ective social biographies critically analyze and integrate oral testimony with the other sources at their disposal and are not based on block quotations, as is often the case with works of pure oral history. The social biographical eff ort, thus, is concerned not only with giving voice to the voiceless, but also with critically analyzing and integrating that voice with other evidence, interpreting it, and creating a portrait of an individual’s life and social interactions. To paraphrase Alice Hoff man, it treats oral history as one among several primary sources.[137] 
 
-The arguments that call into question the reliability of oral versus documentary evidence and the historian’s role in eliciting and interpreting oral testimony are now decades old, and over time they have produced a dialog in which oral historians have vindicated their craft while being prompted to articulate more clearly what oral history’s inherent strengths and limitations are.[138] More importantly, this dialog enables a self-conscious assessment and clarifi cation of methods of data gathering and interpretation and a thorough consideration of issues of reliability and validity.[139] Oral historians and social biographers are at this stage well aware of the challenges and responsibilities inherent in gathering and interpreting oral evidence as well as the strength of oral testimony in relation to document-based research.[140] 
+The arguments that call into question the reliability of oral versus documentary evidence and the historian’s role in eliciting and interpreting oral testimony are now decades old, and over time they have produced a dialog in which oral historians have vindicated their craft while being prompted to articulate more clearly what oral history’s inherent strengths and limitations are.[138] More importantly, this dialog enables a self-conscious assessment and clarifi cation of methods of data gathering and interpretation and a thorough consideration of issues of reliability and validity.[139] Oral historians and social biographers are at this stage well aware of the challenges and responsibilities inherent in gathering and interpreting oral evidence as well as the strength of oral testimony in relation to document-based research.[140]
+
+<!-- page 82 -->
 
 44 | _Ethnicity, Identity, and Nationalism in Iran_ 
 
-Whatever the strengths of social biography and oral history, I am not suggesting that they off er a panacea for testing and refi ning all social theories. What I am arguing, however, is that social biography is the key to providing details that will enable us to respond to the many questions and challenges posed _by theories of nationalism_ . What is the impact of mass education and the imposition of a single language on national identity? Why are people responsive to waving fl ags, anthems, and parades? Where do we locate infl uences, interests, and agency in the complex process of the development of nationalism and national identity? Why do people kill and die for the nation? Social biographical research into the lives of both elites and nonelites, supported by oral interviews with research subjects, is the most suitable form of historical inquiry to enable us to answer these questions and advance our understanding of nations and nationalism. 
+Whatever the strengths of social biography and oral history, I am not suggesting that they off er a panacea for testing and refi ning all social theories. What I am arguing, however, is that social biography is the key to providing details that will enable us to respond to the many questions and challenges posed _by theories of nationalism_ . What is the impact of mass education and the imposition of a single language on national identity? Why are people responsive to waving fl ags, anthems, and parades? Where do we locate infl uences, interests, and agency in the complex process of the development of nationalism and national identity? Why do people kill and die for the nation? Social biographical research into the lives of both elites and nonelites, supported by oral interviews with research subjects, is the most suitable form of historical inquiry to enable us to answer these questions and advance our understanding of nations and nationalism.
+
+<!-- page 83 -->
 
 a r t i p 
 
-**Experiences with Iranian Nationalism** 
+**Experiences with Iranian Nationalism**
+
+<!-- page 84 -->
+
+
+
+<!-- page 85 -->
 
 2 
 
@@ -761,7 +934,9 @@ a  t h r on g of  mour n er s crowded Tehran’s Armenian church in April 1953 t
 
 Iskandar Khan’s casket was draped in the Iranian tricolor fl ag as it left the church and was carried on the shoulders of a military honor guard. At the beginning of Naderi Avenue, a military band stood at attention, 
 
-47 
+47
+
+<!-- page 86 -->
 
 48 | _Experiences with Iranian Nationalism_ 
 
@@ -769,7 +944,9 @@ Iskandar Khan’s casket was draped in the Iranian tricolor fl ag as it left the
 
 and the streets leading to the Armenian cemetery were lined with hundreds of uniformed soldiers as the procession passed by. 
 
-Iskandar Khan’s eldest grandson and a nephew carried his military decorations as they walked beside the casket toward Doulab Cemetery and his fi nal resting place.[2] The medals and regalia were but a small part of Iskandar Khan’s extensive collection of treasured memorabilia, documents, photographs, and artwork that detailed his military career and life in Iran.[3] To fully understand the life of Iskandar Khan Setkhanian of the Persian Cossack Brigade and his place in Iranian history, it is necessary to consider the family into which he was born in 1865 and the development of the family’s relationship and role in the service of the Qajar rulers and Iranian military during the nineteenth century. 
+Iskandar Khan’s eldest grandson and a nephew carried his military decorations as they walked beside the casket toward Doulab Cemetery and his fi nal resting place.[2] The medals and regalia were but a small part of Iskandar Khan’s extensive collection of treasured memorabilia, documents, photographs, and artwork that detailed his military career and life in Iran.[3] To fully understand the life of Iskandar Khan Setkhanian of the Persian Cossack Brigade and his place in Iranian history, it is necessary to consider the family into which he was born in 1865 and the development of the family’s relationship and role in the service of the Qajar rulers and Iranian military during the nineteenth century.
+
+<!-- page 87 -->
 
 _Iskandar Khan Setkhanian_ | 49 
 
@@ -781,7 +958,9 @@ After receiving a rudimentary education and studying the Armenian language with 
 
 Owing to the rarity of educated multilingual individuals in earlynineteenth-century Bushire, Set Astvatsatourian became a translator for the ambassador of Great Britain, who was traveling through Bushire to be received by the court of Fath Ali Shah (r. 1797–1834) in the new Qajar capital, Tehran. From that time, he was given the honorifi c title _khan_ and was thus known as “Set Khan.” In Armenian tradition, his sons were later known as “Setkhanian,” sons of Set Khan. 
 
-Set Khan was employed in the civil service of the Qajar court, and in 1810 he made his fi rst trip to London, most probably as a translator, in the company of the Persian ambassador to Great Britain. After returning to Iran and working for the next decade in the Qajar administration of Tabriz,[8] Set Khan traveled with Ambassador Mirza Saleh Shirazi to London as a military adviser.[9] Continuing in his service to the Qajar administration, Set Khan was selected in 1828 to deliver a letter from Fath Ali Shah to Ottoman sultan Mehmed II, who honored him with a Class One medal, a jewel-studded dagger, and the title _bey_ . This successful mission earned Set Khan (or Sedghi Beig) the favor of Fath Ali Shah, who issued two _farman_ s (royal edicts) as his reward. The fi rst _farman_ allowed him to 
+Set Khan was employed in the civil service of the Qajar court, and in 1810 he made his fi rst trip to London, most probably as a translator, in the company of the Persian ambassador to Great Britain. After returning to Iran and working for the next decade in the Qajar administration of Tabriz,[8] Set Khan traveled with Ambassador Mirza Saleh Shirazi to London as a military adviser.[9] Continuing in his service to the Qajar administration, Set Khan was selected in 1828 to deliver a letter from Fath Ali Shah to Ottoman sultan Mehmed II, who honored him with a Class One medal, a jewel-studded dagger, and the title _bey_ . This successful mission earned Set Khan (or Sedghi Beig) the favor of Fath Ali Shah, who issued two _farman_ s (royal edicts) as his reward. The fi rst _farman_ allowed him to
+
+<!-- page 88 -->
 
 50 | _Experiences with Iranian Nationalism_ 
 
@@ -789,7 +968,9 @@ Set Khan was employed in the civil service of the Qajar court, and in 1810 he ma
 
 begin precious metals mining in the Minaeh and Gharadagh regions of Azerbaijan and permitted him to go to England for the purpose of contracting experts to work on the excavations. The other gave him permission to import marketable goods from Britain upon his return.[10] Set Khan returned to Tehran with two English mining experts and twenty Greek miners under his employment. He also brought back a quantity of British merchandise, which he sold before heading to the Gharadagh (Kara Dagh) Mountains of Azerbaijan with his mining team.[11] 
 
-Around 1830 in Azerbaijan, Set Khan located and mined sites that produced silver, copper, and coal. The modern methods utilized by his mining team had never before been employed in the region and were particularly eff ective and profi table. Copper was in high demand in Iran 
+Around 1830 in Azerbaijan, Set Khan located and mined sites that produced silver, copper, and coal. The modern methods utilized by his mining team had never before been employed in the region and were particularly eff ective and profi table. Copper was in high demand in Iran
+
+<!-- page 89 -->
 
 _Iskandar Khan Setkhanian_ | 51 
 
@@ -797,7 +978,9 @@ because of its uses in cannon making. Set Khan soon concentrated his eff orts on
 
 At this time, Azerbaijan was the center of Persian military reform under Crown Prince Abbas Mirza, who was attempting to create a modern army with Western-style training, uniforms, and armaments. The new army was called the Nezam-e Jedid, or “New Order,” using the same terminology and methods of the contemporary Ottoman reformers Selim III and Mahmud II and of the Egyptian reformer Muhammad Ali. Recent defeats by the Russians early in the nineteenth century had resulted in the 1813 Treaty of Golestan and the 1828 Treaty of Turkmanchai, as a result of which Iran had lost large amounts of territory in the Caucasus and Central Asia as well as rights to use military vessels in the Caspian Sea.[13] The losses compelled the Qajar government, under the leadership of Abbas Mirza and his chief minister, Qa’em Maqam,[14] to try Western-style military training within the country and to encourage the sending abroad of Iranian students to receive an education that included technical and military curricula. In this fi rst era of nineteenth-century reforms, it was thought that the threatening powers of the West—specifi cally Russia in the North and an increasing British presence in the South—could be held back by the adoption of European military institutions and technical education. The development of a modern army was essential to eff orts by the Qajars to retain suzerainty over their territory because of external threats from without as well as challenges from within.[15] 
 
-Strong tribes and tribal confederations such as the Qashqai, Lurs, Baluchis, Shahsevan, Kurds, and Bakhtiaris were the true suzerains of their respective regions. The lack of a modern army forced the Qajars to resort to bribes, hostage taking, and divide-and-rule tactics to retain their loose hold on the country from Tehran. Urban corporate groups, such as the ulama (religious jurists), bazaaris, and members of guilds ( _asnaf_ ) and athletic 
+Strong tribes and tribal confederations such as the Qashqai, Lurs, Baluchis, Shahsevan, Kurds, and Bakhtiaris were the true suzerains of their respective regions. The lack of a modern army forced the Qajars to resort to bribes, hostage taking, and divide-and-rule tactics to retain their loose hold on the country from Tehran. Urban corporate groups, such as the ulama (religious jurists), bazaaris, and members of guilds ( _asnaf_ ) and athletic
+
+<!-- page 90 -->
 
 52 | _Experiences with Iranian Nationalism_ 
 
@@ -805,7 +988,9 @@ organizations (such as the _zurkhane_ , “house of strength”), could pressure
 
 The development of domestic artillery production by Set Khan and others helped to further the Azerbaijan-based military reform eff ort. Its leader, Crown Prince Abbas Mirza, realized the critical importance of the use of foreign techniques and implements in this development because modern gun making and proper use of artillery required an increasingly advanced knowledge of metallurgy, mathematics, chemistry, and military science. Therefore, the long-term success of Abbas Mirza’s Nezam-e Jedid depended on the practice of sending students abroad for education concurrent with the attempt to bring foreign instructors and advisers into the country to teach these methods. Abbas Mirza fi rst tried French and then British instructors to train his recruits of the new army. The results of their attempts were not sustained and so produced only more disorganization and confusion.[17] Foreign education was more eff ective in preparing individuals to fi ll the ranks of the military than domestic eff orts, which were extremely weak throughout the nineteenth century.[18] 
 
-Realizing the importance of a formal education for their son, Sattur Setkhanian, and fi nding no domestic alternative, Set Khan and his wife, Zizi,[19] sent their child from Tabriz to school in England at the beginning of the 1830s. In Tabriz, Set Khan enjoyed a comfortable life and was a prominent leader in the Armenian community. He was a close friend of Abbas Mirza, who was known for his good treatment of religious minorities[20] and who aff ectionately referred to Set Khan as “Brother Set.”[21] The death of the crown prince in 1833 was a personal blow to Set Khan, who 
+Realizing the importance of a formal education for their son, Sattur Setkhanian, and fi nding no domestic alternative, Set Khan and his wife, Zizi,[19] sent their child from Tabriz to school in England at the beginning of the 1830s. In Tabriz, Set Khan enjoyed a comfortable life and was a prominent leader in the Armenian community. He was a close friend of Abbas Mirza, who was known for his good treatment of religious minorities[20] and who aff ectionately referred to Set Khan as “Brother Set.”[21] The death of the crown prince in 1833 was a personal blow to Set Khan, who
+
+<!-- page 91 -->
 
 _Iskandar Khan Setkhanian_ | 53 
 
@@ -815,7 +1000,9 @@ Abbas Mirza’s New Order was limited to Azerbaijan during its existence and was
 
 A young Sattur Setkhanian traveled from Tabriz to England to attend a boarding school. He then obtained a degree in medicine from Cambridge University. After returning to Iran to open up a private practice in the 1850s, Sattur Khan was forced to do surgery on a relative, an experience that forever turned him away from the fi eld of medicine.[27] Because Sattur Khan was highly educated and his father had been a faithful civil servant and close friend of the Qajars, he was appointed as an adviser to Crown Prince Mozaff ar al-Din in Tabriz.[28] It was during this time that Sattur Khan was sent on a fateful mission to Georgia. A tale of events has since been handed down through generations of Setkhanians. 
 
-The grand duke of the Caucasus, Mikhail Nikolaevich, had sent a pair of hunting dogs to the crown prince of Iran who, not to be outdone with generosity, decided to reciprocate by sending a delegation headed by Sattur Khan to Tiblisi with a pair of fi ne Arabian horses for the grand duke. The duke was grateful for the horses and other gifts brought by the entourage, but he was distraught because he feared that his daughter, 
+The grand duke of the Caucasus, Mikhail Nikolaevich, had sent a pair of hunting dogs to the crown prince of Iran who, not to be outdone with generosity, decided to reciprocate by sending a delegation headed by Sattur Khan to Tiblisi with a pair of fi ne Arabian horses for the grand duke. The duke was grateful for the horses and other gifts brought by the entourage, but he was distraught because he feared that his daughter,
+
+<!-- page 92 -->
 
 54 | _Experiences with Iranian Nationalism_ 
 
@@ -823,7 +1010,9 @@ who had fallen down while dancing, had broken her leg. Because of his medical tr
 
 While settled in Tabriz and working for the Qajar administration as a military staff  offi  cer, Sattur Khan married Ninon Khanom Hovnatanian, the daughter of the famous Armenian Iranian court painter Hagob Hovnatanian.[30] Sattur Khan and his wife, who eventually had three sons and three daughters, chose the Russian general consul in Tabriz, General Stupyn, as the godfather of their son Iskandar (Alexander).[31] 
 
-It was at this time that the regular Persian army felt the eff ects of a serious decline in strength and organization. Corruption and disorganization spread as the reign of Nasir al-Din neared its fourth decade. The army was plagued by the lack of a trained offi  cer corps, a fragmented 
+It was at this time that the regular Persian army felt the eff ects of a serious decline in strength and organization. Corruption and disorganization spread as the reign of Nasir al-Din neared its fourth decade. The army was plagued by the lack of a trained offi  cer corps, a fragmented
+
+<!-- page 93 -->
 
 _Iskandar Khan Setkhanian_ | 55 
 
@@ -833,7 +1022,9 @@ Debilitated already from these ailments, the army was used nevertheless in the s
 
 Just as his father had found no local alternative for Sattur’s education, and keeping his promise to the grand duke of Russia, Sattur Khan sent his 
 
-4. Sattur Khan Setkhanian, staff offi  cer, Tabriz, c. 1860. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
+4. Sattur Khan Setkhanian, staff offi  cer, Tabriz, c. 1860. Unknown photographer. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 94 -->
 
 56 | _Experiences with Iranian Nationalism_ 
 
@@ -843,7 +1034,9 @@ own sons to the military academy in Moscow to receive their primary education an
 
 In October 1878, Sattur Khan and Ninon Khanom prepared to send their thirteen-year-old son Iskandar to the military academy in Tifl is, Georgia.[38] To obtain the proper papers and documents for his visas and entrance into the school, they had a certifi cation of birth prepared by the Holy Church of God’s Mother in Tabriz.[39] The document prepared by Priest Khosior-ter Gosirorov was transcribed fi rst into Armenian from the “Metric Book” or book of births, deaths, and weddings and stamped with the church’s offi  - cial seal to assert authenticity. On the same document, a translation was made into Russian and authenticated by the Russian general consul in Tabriz, then stamped for a fee of one ruble. Sattur Khan also had to obtain documentation from the Russian consul, which declared that all of Iskandar’s papers were in order; the document was also stamped and dated for a fee.[40] By the time of his fi rst journey to Russia, Iskandar Setkhanian had already mastered Armenian and Farsi at the Armenian church school in Tabriz. Over the next nine years, he received a foreign military education and studied the Russian and French languages. His studies and experiences prepared him for his eventual entrance into the ranks of the new Persian Cossack Brigade. 
 
-Iskandar Khan’s fi rst trip to Russia corresponded with another fateful Russian excursion in the same year. In 1878, as Nasir al-Din Shah made a second trip to Europe and passed through the Caucasus, he was impressed by the uniforms, training, discipline, and weaponry[41] of the Russian Cossack troops. Desiring a similar brigade of his own, Nasir al-Din inquired about how this might be accomplished. Grand Duke Mikhail Nikolaevich, viceroy of the Caucasus, who had been helpful in paving Iskandar Khan’s way to school in Moscow, was the intermediary between Nasir al-Din and 
+Iskandar Khan’s fi rst trip to Russia corresponded with another fateful Russian excursion in the same year. In 1878, as Nasir al-Din Shah made a second trip to Europe and passed through the Caucasus, he was impressed by the uniforms, training, discipline, and weaponry[41] of the Russian Cossack troops. Desiring a similar brigade of his own, Nasir al-Din inquired about how this might be accomplished. Grand Duke Mikhail Nikolaevich, viceroy of the Caucasus, who had been helpful in paving Iskandar Khan’s way to school in Moscow, was the intermediary between Nasir al-Din and
+
+<!-- page 95 -->
 
 _Iskandar Khan Setkhanian_ | 57 
 
@@ -851,7 +1044,9 @@ _Iskandar Khan Setkhanian_ | 57
 
 Czar Alexander II, who immediately allowed for a number of instructors to be sent to Iran to assess the military situation and need.[42] 
 
-In late November 1878,[43] Lieutenant-Colonel Aleksi Domantovich of the General Staff  was advised of his assignment to Tehran for this purpose. With only vague instructions on a course of action, Domantovich arrived in the Iranian capital in January 1879 to begin his assessment of the situation and the creation of the brigade. Despite the challenges posed by the state of the Persian army at this time, he was successful in creating the fi rst detachment of Persian Cossacks by initially enlisting into the brigade four hundred _mohajer_ s, descendants of Transcaucasian Muslims who had migrated to Iran early in the nineteenth century to escape Russian rule.[44] After a successful presentation of skills and preparedness for the shah that summer, the brigade was given a budget of 97,000 tumans, to be paid by the Persian government. It was also agreed that the Persian 
+In late November 1878,[43] Lieutenant-Colonel Aleksi Domantovich of the General Staff  was advised of his assignment to Tehran for this purpose. With only vague instructions on a course of action, Domantovich arrived in the Iranian capital in January 1879 to begin his assessment of the situation and the creation of the brigade. Despite the challenges posed by the state of the Persian army at this time, he was successful in creating the fi rst detachment of Persian Cossacks by initially enlisting into the brigade four hundred _mohajer_ s, descendants of Transcaucasian Muslims who had migrated to Iran early in the nineteenth century to escape Russian rule.[44] After a successful presentation of skills and preparedness for the shah that summer, the brigade was given a budget of 97,000 tumans, to be paid by the Persian government. It was also agreed that the Persian
+
+<!-- page 96 -->
 
 58 | _Experiences with Iranian Nationalism_ 
 
@@ -859,7 +1054,9 @@ minister of war would have control of the Persian army and the Cossack Brigade w
 
 Domantovich was replaced by Colonel Charkovskij (fi rst name unknown) in 1881, who oversaw the acquisition of a battery of four horsedrawn cannons.[47] This was the only major development during his fi ve years of leadership, a fact that led the Persian government to cut the brigade’s budget by 6,000 tumans. The _mohajer_ s had become a liability by this time for leaving their posts and pushing for hereditary rights for their children in the brigade, which necessitated some fi nancial and personnel house cleaning. The next commander of the Persian Cossacks, Colonel Kuz’min-Karavev (fi rst name unknown), entered his position in 1886 facing disorderly troops and with the brigade in deep fi nancial trouble. Despite a lack of improvement of training over the next four years, Kuz’min-Karavev began the elimination of the _mohajer_ s and worked diligently on the brigade’s fi nances, leaving his successor, Colonel Nikolai Shneur, with a relatively orderly body of troops and a 4,000-tuman annual surplus over the original budget when the post was assigned to Shneur in 1890. 
 
-During this period, Iskandar Khan graduated with honors from the military academy in Tifl is, where he was trained in Cossack cavalry tactics and military sciences, had mastered the Russian and French languages, and studied science and mathematics. From Tifl is, he traveled to Moscow and St. Petersburg to complete his higher education.[48] He was apparently viewed as a model student as well as a model citizen of the Russian Empire, which can be inferred from a document he received in Tabriz in late 1888.[49] Iskandar Khan became a naturalized citizen of the Russian Empire by transfer of _poddantsvo_ or “loyalty”[50] from Persia to Russia,[51] after receiving a statement from the police that “he has good behavior and way of life . . . has not been subject to court proceedings or investigations and is reliable in a political sense.”[52] Iskandar Khan then immediately entered in the service of the Persian military once back in Azerbaijan (1888) and 
+During this period, Iskandar Khan graduated with honors from the military academy in Tifl is, where he was trained in Cossack cavalry tactics and military sciences, had mastered the Russian and French languages, and studied science and mathematics. From Tifl is, he traveled to Moscow and St. Petersburg to complete his higher education.[48] He was apparently viewed as a model student as well as a model citizen of the Russian Empire, which can be inferred from a document he received in Tabriz in late 1888.[49] Iskandar Khan became a naturalized citizen of the Russian Empire by transfer of _poddantsvo_ or “loyalty”[50] from Persia to Russia,[51] after receiving a statement from the police that “he has good behavior and way of life . . . has not been subject to court proceedings or investigations and is reliable in a political sense.”[52] Iskandar Khan then immediately entered in the service of the Persian military once back in Azerbaijan (1888) and
+
+<!-- page 97 -->
 
 _Iskandar Khan Setkhanian_ | 59 
 
@@ -869,7 +1066,9 @@ After four years of service in the regular Persian army as a _sarhang_ , Iskanda
 
 Colonel Shneur, unlike his predecessor Kuz’min-Karavev, was not a master of fi nances and ran out of money to pay his troops by the middle of 1891. In keeping with traditional Qajar military practice when strapped for funds, he granted indefi nite, unpaid leave to his troops, who were demoralized further by the cholera epidemic in Tehran in 1891–92.[56] Shneur was consequently unable to assemble the Cossacks for a review requested by the shah late in 1891. Because he had demonstrated increasingly incompetent behavior as a leader by rendering the brigade useless in the defense of the palace during the Tobacco Revolt in 1892,[57] the brigade’s budget was cut by almost one-third, and its active strength reduced to two hundred men. Colonel Shneur had to accept this penalty, which he vigorously fought to keep from being more severe. 
 
-Although Iskandar Khan intended to join the brigade, the new order restricting enlistment prevented him. To obtain favor, Iskandar Khan (and most probably his father, Sattur Khan) used some of his family’s infl uence by requesting that a letter to Colonel Shneur be written by the Persian minister and ambassador to Russia ‘Ala al-Mulk asking his help on this matter. In an ambiguous response, Colonel Shneur replied to the ambassador on February 25, 1893, that a _farman_ had been issued by the shah that limited the Cossack budget and therefore new recruits: “I, this servant, have begged for the writing of this glorious _farman_ that forbids completely entrance of new offi  cers into the Brigade.” Still, Colonel Shneur agreed 
+Although Iskandar Khan intended to join the brigade, the new order restricting enlistment prevented him. To obtain favor, Iskandar Khan (and most probably his father, Sattur Khan) used some of his family’s infl uence by requesting that a letter to Colonel Shneur be written by the Persian minister and ambassador to Russia ‘Ala al-Mulk asking his help on this matter. In an ambiguous response, Colonel Shneur replied to the ambassador on February 25, 1893, that a _farman_ had been issued by the shah that limited the Cossack budget and therefore new recruits: “I, this servant, have begged for the writing of this glorious _farman_ that forbids completely entrance of new offi  cers into the Brigade.” Still, Colonel Shneur agreed
+
+<!-- page 98 -->
 
 60 | _Experiences with Iranian Nationalism_ 
 
@@ -877,7 +1076,9 @@ that Iskandar Khan seemed suitable for the brigade and stated that it might be p
 
 Shneur was dismissed two months after this response, and the Cossack Brigade was threatened by replacement with German advisers and staff .[59] Although documents confi rm that Iskandar Khan was serving in the regular forces during this correspondence,[60] it was not until 1896 that the fi rst award was issued to Iskandar Khan for his services to the brigade. This award places his entry into the brigade around 1894–95. 
 
-6. Correspondence (in Farsi) from Colonel Shneur to Iranian ambassador in Russia, 1310/1893. Courtesy of Mara Setkhanian-Martin. 
+6. Correspondence (in Farsi) from Colonel Shneur to Iranian ambassador in Russia, 1310/1893. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 99 -->
 
 _Iskandar Khan Setkhanian_ | 61 
 
@@ -887,7 +1088,9 @@ Finding the German cost for military advisement too high (150 tumans annually fo
 
 In his memoirs published in Russian and Farsi, Kosogovski devotes two chapters to the state of the Persian forces upon his entry to his post. The fi rst is a general description of divisions and ranks of the Cossacks and other branches of armed forces—the artillery, infantry, and “irregular” cavalry of tribal forces—and the second is a description of the many problems within the Persian army, titled “Negative Military Discipline.”[62] Kosogovski goes into great detail as he recounts stories of theft and property damage by even high-ranking offi  cers that he had witnessed, the poor state of dress and equipment, the laxity in troop training owing to the few number of scheduled days of assembly, and general absenteeism.[63] Kosogovski also details the illicit off -duty and sometimes on-duty activities of many army offi  cers, including a grape-smuggling ring that supplied the underground Tehran winemaking industry with its essential raw materials.[64] 
 
-Kosogovski attempted to tighten up discipline, focusing his attention on the subjugation and discipline of the remaining _mohajer_ s, who frequently deserted their posts and insisted on continuing the practice of hereditary assignment of positions. Without hereditary appointments, each offi  cer would have to work his way up through the ranks, be worthy of his rank, and remain beholden to his superiors rather than to family members for promotions.[65] As a result of Kosogovski’s attempt to reform these practices and punish those who had left their posts, a revolt of the _mohajer_ s occurred on May 5, 1895, in which they decided to quit 
+Kosogovski attempted to tighten up discipline, focusing his attention on the subjugation and discipline of the remaining _mohajer_ s, who frequently deserted their posts and insisted on continuing the practice of hereditary assignment of positions. Without hereditary appointments, each offi  cer would have to work his way up through the ranks, be worthy of his rank, and remain beholden to his superiors rather than to family members for promotions.[65] As a result of Kosogovski’s attempt to reform these practices and punish those who had left their posts, a revolt of the _mohajer_ s occurred on May 5, 1895, in which they decided to quit
+
+<!-- page 100 -->
 
 62 | _Experiences with Iranian Nationalism_ 
 
@@ -895,7 +1098,9 @@ the brigade, taking with them 20,000 tumans of their pay. Subsequent negotiation
 
 Over the next year, Kosogovski was able to improve the effi  ciency and discipline in the brigade, making room for non _mohajer_ offi  cers such as Iskandar Khan to rise through the ranks on merit and hard work. By the spring review of 1896, the Cossack Brigade had become an increasingly 
 
-7. Sartip Iskandar Khan, 1895. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
+7. Sartip Iskandar Khan, 1895. Unknown photographer. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 101 -->
 
 _Iskandar Khan Setkhanian_ | 63 
 
@@ -905,7 +1110,9 @@ Nasir al-Din Shah was assassinated on May 1, 1896, by Riza Kermani, a student of
 
 Shortly after Mozaff ar al-Din ascended to the throne, a _farman_ was issued with his seals awarding the Shir-o Khorshid (Order of the Lion and Sun) of the Third Rank to Iskandar Khan.[69] The award was given for exemplary service and included a medal or diamond pin ( _neshan_ , or badge) of the Shir-o Khorshid. Soon after, Iskandar Khan received another _farman_ while serving under Colonel Kosogovski that promoted him to _sartip_ of the third rank, an award that came with a special sash for his dress uniform. The promotion was once again for outstanding service to the brigade.[70] 
 
-Iskandar Khan and the Persian Cossacks continued their service to the shah and the Russians in 1897 as they helped the Russian government extend its intelligence in eastern and southern Iran and hamper British trade between India and Khorasan. Under the pretext of preventing the plague that had broken out in Bombay from reaching Persian and Russian cities, the Russians requested that 150 Persian Cossacks be sent to establish two dozen quarantine posts along the Perso-Afghan border and the highways between Seistan and Khorasan. The quarantine system was a 
+Iskandar Khan and the Persian Cossacks continued their service to the shah and the Russians in 1897 as they helped the Russian government extend its intelligence in eastern and southern Iran and hamper British trade between India and Khorasan. Under the pretext of preventing the plague that had broken out in Bombay from reaching Persian and Russian cities, the Russians requested that 150 Persian Cossacks be sent to establish two dozen quarantine posts along the Perso-Afghan border and the highways between Seistan and Khorasan. The quarantine system was a
+
+<!-- page 102 -->
 
 64 | _Experiences with Iranian Nationalism_ 
 
@@ -915,7 +1122,9 @@ It was at this time that Iskandar Khan moved from the spartan brigade barracks, 
 
 In addition to the main building, the estate consisted of many separate residences for family members on the grounds as well as ponds, a stable, and workshop. A large _hammam_ , or bathhouse, originally built by Marteros Khan also stood on the grounds and was used by members of the Armenian community of Tehran, who called it “Hammam-e Amir,” the “Amir’s Bathhouse.”[77] Considered _najis_ , or “unclean,” as non-Muslims by many Iranian Muslims and thus unable to use the city’s many bathhouses, Armenians were able to bathe at Hammam-e Amir six days of the week, while the seventh was reserved for the Setkhanian family to bathe privately. As Iskandar Khan’s father, Sattur Khan, was now in his eightieth year, and the young couple would soon have six sons and a daughter,[78] the estate allowed Iskandar Khan to raise and care for his family away from the orderly but nevertheless unsavory _qazzaq-khane_ . 
 
-In his biography of Reza Khan, who in 1900 was a _sarbaz_ (infantry soldier) in the Cossack Brigade, Donald Wilber describes the features of 
+In his biography of Reza Khan, who in 1900 was a _sarbaz_ (infantry soldier) in the Cossack Brigade, Donald Wilber describes the features of
+
+<!-- page 103 -->
 
 _Iskandar Khan Setkhanian_ | 65 
 
@@ -923,13 +1132,17 @@ _Iskandar Khan Setkhanian_ | 65
 
 the _qazzaq-khane_ and gives a brief geographical orientation of the area surrounding it: 
 
-Life at the Cossack Barracks was rude and rough, and the pay of the soldiers was very low. The Tehran of that time was quite diff erent from the modern city. It was still encircled by a moat and wall, pierced by a number of faience-clad gates. A few public buildings, some in a modifi ed Russian style, enlivened with whitewash and enamel work, brightened the general mud-brick tone and drab character of the town. The narrow streets and lanes were unpaved, and public transport consisted of horsedrawn trolley lines. Maydan Tup-Khane (Cannon House Square), north of the Gulistan palace, seat of the Qajar dynasty, was the largest open area of the town. Ranged around the parade grounds were the stands of the sellers of tripe—the cheapest of the local foods—of boiled beet root, and of _‘araq_ (an alcoholic beverage distilled from dates). Off  duty the Cossacks would buy food, eat it on the spot, down a bottle of ‘araq, and toss the bottle away. Drinking, gambling, whoring, and listening to music and entertainers were the chief means of recreation.[79] 
+Life at the Cossack Barracks was rude and rough, and the pay of the soldiers was very low. The Tehran of that time was quite diff erent from the modern city. It was still encircled by a moat and wall, pierced by a number of faience-clad gates. A few public buildings, some in a modifi ed Russian style, enlivened with whitewash and enamel work, brightened the general mud-brick tone and drab character of the town. The narrow streets and lanes were unpaved, and public transport consisted of horsedrawn trolley lines. Maydan Tup-Khane (Cannon House Square), north of the Gulistan palace, seat of the Qajar dynasty, was the largest open area of the town. Ranged around the parade grounds were the stands of the sellers of tripe—the cheapest of the local foods—of boiled beet root, and of _‘araq_ (an alcoholic beverage distilled from dates). Off  duty the Cossacks would buy food, eat it on the spot, down a bottle of ‘araq, and toss the bottle away. Drinking, gambling, whoring, and listening to music and entertainers were the chief means of recreation.[79]
+
+<!-- page 104 -->
 
 66 | _Experiences with Iranian Nationalism_ 
 
 9. Setkhanian family portrait, Tehran, c. 1905. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
 
-To compound problems for the brigade at the turn of the century, there was a general sickness in its horses and donkeys and in the areas adjacent to Golestan Palace. To solve this problem and perhaps to get rid of common subjects on the increasingly valuable land around the Qajar castle, the royal administration put Iskandar Khan in charge of clearing the area of its inhabitants and fi lth, quarantining the horses of the Qajar palace, and devoting a new area adjacent to the lands of the Qajar castle for a mosque, cemetery, and living quarters.[80] For his eff orts in accomplishing this task, Iskandar Khan was promised in a _hokm_ issued by Colonel Kosogovski in September 1901 that he would receive hereditary rights to a piece of land on the Qajar palace grounds as well as the materials and assistance to build a house there. A land deed was issued in 1902.[81] He opted to stay at the family estate rather than move to the palace grounds. Through the acquisition of this prime real estate, however, Iskandar Khan was able to prosper economically despite the recurring fi nancial troubles for the brigade. 
+To compound problems for the brigade at the turn of the century, there was a general sickness in its horses and donkeys and in the areas adjacent to Golestan Palace. To solve this problem and perhaps to get rid of common subjects on the increasingly valuable land around the Qajar castle, the royal administration put Iskandar Khan in charge of clearing the area of its inhabitants and fi lth, quarantining the horses of the Qajar palace, and devoting a new area adjacent to the lands of the Qajar castle for a mosque, cemetery, and living quarters.[80] For his eff orts in accomplishing this task, Iskandar Khan was promised in a _hokm_ issued by Colonel Kosogovski in September 1901 that he would receive hereditary rights to a piece of land on the Qajar palace grounds as well as the materials and assistance to build a house there. A land deed was issued in 1902.[81] He opted to stay at the family estate rather than move to the palace grounds. Through the acquisition of this prime real estate, however, Iskandar Khan was able to prosper economically despite the recurring fi nancial troubles for the brigade.
+
+<!-- page 105 -->
 
 _Iskandar Khan Setkhanian_ | 67 
 
@@ -937,7 +1150,9 @@ Iskandar Khan continued to work diligently in the brigade while under the comman
 
 Although Iskandar Khan’s position was secure in these lean times for the Cossack Brigade, the troop reductions made in 1905 had come at a very bad time. They resulted in the brigade’s inability to train with live rounds and relegated it to the duties of a palace guard. As a result, it was not able to off er defense against any serious challenge to the rule of the Qajars. Mozaff ar al-Din’s ninth year of despotic and wasteful rule generated intense opposition, and the Cossack Brigade was increasingly seen as one of the most disturbing elements of his reign. In the growing tide of dissent that had been building since the Tobacco Revolt in 1892, the movement for _mashruteh_ (constrained monarchy)[85] emerged in December and 
 
-10. Persian Cossack Brigade musters on the _maydan_ , 1908 (postcard). Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
+10. Persian Cossack Brigade musters on the _maydan_ , 1908 (postcard). Unknown photographer. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 106 -->
 
 68 | _Experiences with Iranian Nationalism_ 
 
@@ -947,7 +1162,9 @@ by June 1906 had grown into the largest demonstration of collective political ac
 
 The Constitutional Revolution, which began in late 1905, forced Mozaff ar al-Din to sign his acceptance of a constitution and parliament (Majles) in August 1906.[86] Although his successor, Muhammad Ali Shah, swore to uphold and support the Constitution, he immediately came into confl ict with the Majles when it tried to begin the complex process of internal reorganization and reform.[87] Members of the fi rst Majles, which met in October 1906, increasingly saw the Cossack Brigade as not only an instrument of Russian infl uence in Persia, but also as the military bulwark of all foreign interests in Iran.[88] In April 1906, the Cossack Brigade was verbally attacked in the Majles by Sayyid Muhammad Tabatabai, who also protested against its Russian-style uniforms, epaulets, decorations, and practice of showing for review only before the Russian minister in Tehran rather than before the Persian minister of war.[89] He also questioned the brigade’s budget and Colonel Chernozubov’s eff ectiveness and honesty. 
 
-A committee chosen to investigate the brigade’s fi nances found out that the colonel had been stealing the soldiers’ pay, an act confi rmed by Russian offi  cers.[90] A month earlier Chernozubov had apparently mishandled pension funds and wills in addition to salaries in overseeing the pension distribution to the ancestors and relatives of the late Marteros Khan Amir Tuman on March 23, 1906. The commission Chernozubov headed had made a decision to give Iskandar Khan Setkhanian (son-in-law of Marteros Khan through his marriage to Maryam Khanom) 32 of the 130 tumans per month allotted in the pension, for the vaguely stated reason that it was “according to the wishes of the Head of the Brigade.”[91] This decision was disputed in 1917 by Marteros Khan’s own son, who coincidentally was also named “Iskandar Khan.” He believed that the colonel had made a serious error in this decision to award Iskandar Khan any portion of his father’s pension.[92] Chernozubov was dismissed after the results of the Majles investigation were made known, and on September 15, 1906, a new Russian commander was appointed, the now infamous Colonel Vladimir Platonovich Liakhov. Kazemzadeh summarizes well the eff ects of Liakhov’s appointment: 
+A committee chosen to investigate the brigade’s fi nances found out that the colonel had been stealing the soldiers’ pay, an act confi rmed by Russian offi  cers.[90] A month earlier Chernozubov had apparently mishandled pension funds and wills in addition to salaries in overseeing the pension distribution to the ancestors and relatives of the late Marteros Khan Amir Tuman on March 23, 1906. The commission Chernozubov headed had made a decision to give Iskandar Khan Setkhanian (son-in-law of Marteros Khan through his marriage to Maryam Khanom) 32 of the 130 tumans per month allotted in the pension, for the vaguely stated reason that it was “according to the wishes of the Head of the Brigade.”[91] This decision was disputed in 1917 by Marteros Khan’s own son, who coincidentally was also named “Iskandar Khan.” He believed that the colonel had made a serious error in this decision to award Iskandar Khan any portion of his father’s pension.[92] Chernozubov was dismissed after the results of the Majles investigation were made known, and on September 15, 1906, a new Russian commander was appointed, the now infamous Colonel Vladimir Platonovich Liakhov. Kazemzadeh summarizes well the eff ects of Liakhov’s appointment:
+
+<!-- page 107 -->
 
 _Iskandar Khan Setkhanian_ | 69 
 
@@ -955,7 +1172,9 @@ _Iskandar Khan Setkhanian_ | 69
 
 Despite Liakhov’s attempts to secure funding for additional offi  cers and arms immediately upon assuming command of the brigade, the Cossacks were in no position to quickly suppress the constitutionalist movement in 1906. Involved in the training of new recruits and reprovisioning the Cossack Brigade during this year, Iskandar Khan (Amir Panj) received the Russian Order of St. Anne of the Second Degree[94] and a gold medal from the Persian Ministry of Education and Occupations.[95] In 1906, he also received one of Austria-Hungary’s highest military awards, the Order of the Ritterkreuz.[96] In this time of political turmoil, Iskandar Khan was clearly allied with the Qajars and foreigners rather than with the constitutional movement. 
 
-i 11. Iskandar Khan Amir Panj, Tehran, c. 1908. Unknown photogra‘ [ it | pher. Courtesy of Mara Setkhanian-Martin. 
+i 11. Iskandar Khan Amir Panj, Tehran, c. 1908. Unknown photogra‘ [ it | pher. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 108 -->
 
 70 | _Experiences with Iranian Nationalism_ 
 
@@ -963,7 +1182,9 @@ i 11. Iskandar Khan Amir Panj, Tehran, c. 1908. Unknown photogra‘ [ it | pher.
 
 Shortly after taking the throne in January 1907, Muhammad Ali Shah issued a _farman_ awarding Iskandar Khan a Neshan-e Khareji, literally “Foreign Medal,” for his continued service and dedication to the shah and the brigade and “with hopes that he will rise to the task and apply himself in service and sacrifi ce.”[97] Muhammad Ali Shah worked against the Majles throughout 1907, which—in conjunction with his generally despotic behavior—sparked a failed attempt to assassinate him with a bomb. As 1908 approached, enmity between the Constitutionalists (Nationalists) and the Royalists continued to grow and would soon test Iskandar Khan’s devotion to the Qajar regime and the Cossack Brigade. 
 
-Although the Anglo-Russian Agreement that was signed on August 31, 1907, declared that under no circumstances would the powers meddle in the internal aff airs of the country, both the Russians and the British threatened the Majles with action if the shah’s demands were not met.[98] On June 6, 1908, the members of Parliament, fearing imminent foreign intervention, fl ocked to the Baharistan (House of Parliament), which was promptly surrounded by Nationalist troops who took up strategic positions to protect their representatives. In the well-documented events of the next two weeks, the shah established martial law in Tehran and placed Colonel Liakhov in command of military forces in the city. On June 23, under orders from the shah and most probably directly from the Russian government, Liakhov called out the Cossacks, including a division under the command of Iskandar Khan, to surround the Baharistan and position themselves in strategic places.[99] They were under orders to let Majles members and Nationalists into the building grounds, but to let no one exit. After failed negotiations and the arrest of a delegation of Nationalist representatives, Liakhov, whom historian Firuz Kazemzadeh describes as “a fi rm believer in the therapeutic value of bloodshed,”[100] increased the number of Cossacks and Royalist troops surrounding the Baharistan to one thousand and gave the order to bombard the building and its inhabitants with heavy artillery.[101] 
+Although the Anglo-Russian Agreement that was signed on August 31, 1907, declared that under no circumstances would the powers meddle in the internal aff airs of the country, both the Russians and the British threatened the Majles with action if the shah’s demands were not met.[98] On June 6, 1908, the members of Parliament, fearing imminent foreign intervention, fl ocked to the Baharistan (House of Parliament), which was promptly surrounded by Nationalist troops who took up strategic positions to protect their representatives. In the well-documented events of the next two weeks, the shah established martial law in Tehran and placed Colonel Liakhov in command of military forces in the city. On June 23, under orders from the shah and most probably directly from the Russian government, Liakhov called out the Cossacks, including a division under the command of Iskandar Khan, to surround the Baharistan and position themselves in strategic places.[99] They were under orders to let Majles members and Nationalists into the building grounds, but to let no one exit. After failed negotiations and the arrest of a delegation of Nationalist representatives, Liakhov, whom historian Firuz Kazemzadeh describes as “a fi rm believer in the therapeutic value of bloodshed,”[100] increased the number of Cossacks and Royalist troops surrounding the Baharistan to one thousand and gave the order to bombard the building and its inhabitants with heavy artillery.[101]
+
+<!-- page 109 -->
 
 _Iskandar Khan Setkhanian_ | 71 
 
@@ -971,7 +1192,9 @@ In the ensuing battle, which lasted more than seven hours, hundreds of soldiers 
 
 For remaining loyal and following the orders of his superiors[104] and on the recommendation of Colonel Liakhov, Iskandar Khan was promoted one month later to _amir tuman_ (which translates literally as “commander of one thousand”), brigadier general, the highest rank in the Cossack Brigade under the Russian commander. An ornate sash that distinguished his new rank accompanied the promotion. The award and promotion were documented by means of a _farman_ bearing the seal of Muhammad Ali Shah and the seal of Hussein Pasha Khan Amir Jang, the fi eld marshal who led the combined attack of Cossack and Persian army forces on the Parliament.[105] During this time, news of the events in Tehran spread to Iran’s cities and rural areas, causing upheaval and riots in the cities of Tabriz, Isfahan, Rasht, Hamadan, Shiraz, Qazvin, and Mashad.[106] In the absence of any threat from the defunct regular forces of the Persian army, the Nationalist mujahedin (volunteers) seized these cities.[107] As the only trained and equipped modern fi ghting force in the nation and with a full-scale national revolt on its hands, the Persian Cossack Brigade prepared itself for the inevitable clash with Nationalist forces as the year 1909 approached. 
 
-Addressing the Cossack Brigade on October 11, 1908, Liakhov attempted to rally his men for the impending clash with the Nationalist forces. In his speech, which deserves quotation at length, he stressed the threat that the restoration of the Constitution would be to the Cossacks and their families and reassured them that there were larger, more 
+Addressing the Cossack Brigade on October 11, 1908, Liakhov attempted to rally his men for the impending clash with the Nationalist forces. In his speech, which deserves quotation at length, he stressed the threat that the restoration of the Constitution would be to the Cossacks and their families and reassured them that there were larger, more
+
+<!-- page 110 -->
 
 72 | _Experiences with Iranian Nationalism_ 
 
@@ -979,7 +1202,9 @@ powerful forces at work that would not let them down in their time of
 
 Brave soldiers and Cossacks! Since the Cossack Brigade was fi rst formed you have on many occasions shewn unparalleled courage, and, in the highest degree, loyalty to the Shah and your superiors. In recognition of this many of you have been honored with decorations, gifts, and all sorts of other favors, _both from the Russian and from the Persian sovereigns_ . Your attack on the Tihran agitators assembled in the Parliament buildings and the Sepahsalar Mosque fi lled the world with amazement. . . . The Shah’s throne is [again] in danger. . . . They are striving to compel him again to accept a Constitution. This Constitution will limit and impair the rights and privileges of the Cossack Brigade, and will exercise control over your wages. _The Constitution is your worst enemy_ . Against this enemy you must fi ght till your last drop of blood. . . . You must know that, should you return victorious you will be overwhelmed with money and favors _both on the part of the Russian and the Persian Sovereigns_ . . . . [It is] either you or the Constitution! However fi erce the foe may be, and however numerous the foe may be, rest assured that you will triumph. The Hidden Hand which has so often aided you will aid you in this campaign also, so that you shall not behold the face of defeat. Do not despair of it, or of God Almighty.[108] 
 
-In spring of 1909, Nationalist forces were ready to leave their cities to wage a combined attack on the Cossack Brigade in Tehran to restore the Majles and the Constitution. Fearing traditional retribution (in which they themselves had enthusiastically engaged) and despite Liakhov’s words of assurance and praise, offi  cers of both the regular Persian army and the Cossack Brigade began to desert in large numbers. Faced with a dwindling cadre of reliable offi  cers, yet maintaining the extra pay and rations of those who deserted, Liakhov and Amir Jang issued a _hokm_ awarding Iskandar Khan a pay raise “because we don’t have any more awards exceeding your rank.” The _hokm_ , which was also stamped by the _moavene sultan_ (deputy) and Amir Jang, indicated that Iskandar Khan was to receive the increase annually so that he may “receive it with a completely warm heart, and with utmost hope that he will rise to and apply himself to the necessities of service.”[109] 
+In spring of 1909, Nationalist forces were ready to leave their cities to wage a combined attack on the Cossack Brigade in Tehran to restore the Majles and the Constitution. Fearing traditional retribution (in which they themselves had enthusiastically engaged) and despite Liakhov’s words of assurance and praise, offi  cers of both the regular Persian army and the Cossack Brigade began to desert in large numbers. Faced with a dwindling cadre of reliable offi  cers, yet maintaining the extra pay and rations of those who deserted, Liakhov and Amir Jang issued a _hokm_ awarding Iskandar Khan a pay raise “because we don’t have any more awards exceeding your rank.” The _hokm_ , which was also stamped by the _moavene sultan_ (deputy) and Amir Jang, indicated that Iskandar Khan was to receive the increase annually so that he may “receive it with a completely warm heart, and with utmost hope that he will rise to and apply himself to the necessities of service.”[109]
+
+<!-- page 111 -->
 
 _Iskandar Khan Setkhanian_ | 73 
 
@@ -987,7 +1212,9 @@ Preparing now for the worst, Iskandar Khan and the 750 other remaining loyal Cos
 
 Resembling a _hokm_ , the short statement that was signed and stamped by a Russian offi  cial of the delegation certifi ed that “based on the friendship and experience between _Christian_ Sir Iskandar Khan _Amir Panj_ , _Translator_ of the Cossack Brigade of the Iranian Government, in case of crisis he is under the protection of the embassy and can receive help from the embassy” (my italics). This statement is noteworthy because it is the only document that refers to Iskandar Khan as a Christian ( _masihi_ ), claims that 
 
-12. Letter from Russian embassy off ering Iskandar Khan protection in times of crisis, 1327/1909. Courtesy of Mara Setkhanian-Martin. 
+12. Letter from Russian embassy off ering Iskandar Khan protection in times of crisis, 1327/1909. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 112 -->
 
 74 | _Experiences with Iranian Nationalism_ 
 
@@ -995,7 +1222,9 @@ he is of a lower rank than he actually was, and implies that his duties were pri
 
 It is unlikely that the statement of protection from the Russian consulate gave Iskandar Khan much peace of mind, however, as thousands of Nationalists then converged on Tehran. British newspapers—which followed the events daily owing to commercial interests in the region—ran the headlines “The Persian Crisis: A Dark Outlook” and “Last Stand of the Cossack Brigade.” A brigade detachment was sent to guard the approaches to the city, most importantly at Karaj Bridge, which was being approached by thousands of Bakhtiaris from Isfahan. The Cossack Brigade dug in for battle and engaged the Nationalist forces directly at the Karaj Bridge on July 2, 1909. 
 
-The force of 360 Persian Cossacks armed with superior artillery under the command of Russian captain Zapolski was initially successful in its defense of the bridge, losing only one Persian offi  cer to the twelve Nationalists killed before forcing a retreat. “Heartened by their successful encounter”[112] and in the rush that followed their victory, the Cossacks literally “tore to pieces” the bodies of the mujahedin they had killed in the fi rst volley.[113] But their celebration was to be short-lived. Although the brigade had stopped the fi rst advance on Tehran by Nationalist troops who were primarily Bakhtiaris, mujahedin forces were approaching the city from all directions and as a result forced the Cossack troops at the bridge to retreat to the outskirts of Tehran to avoid being surrounded outside the city or cut off  by a possible Bakhtiari fl anking maneuver. Although the commencement of fi ghting brought a contingent of one thousand Russian troops to Enzeli under the pretext of protecting any Russian subjects and religious minorities, it was clear that the Cossack Brigade and 
+The force of 360 Persian Cossacks armed with superior artillery under the command of Russian captain Zapolski was initially successful in its defense of the bridge, losing only one Persian offi  cer to the twelve Nationalists killed before forcing a retreat. “Heartened by their successful encounter”[112] and in the rush that followed their victory, the Cossacks literally “tore to pieces” the bodies of the mujahedin they had killed in the fi rst volley.[113] But their celebration was to be short-lived. Although the brigade had stopped the fi rst advance on Tehran by Nationalist troops who were primarily Bakhtiaris, mujahedin forces were approaching the city from all directions and as a result forced the Cossack troops at the bridge to retreat to the outskirts of Tehran to avoid being surrounded outside the city or cut off  by a possible Bakhtiari fl anking maneuver. Although the commencement of fi ghting brought a contingent of one thousand Russian troops to Enzeli under the pretext of protecting any Russian subjects and religious minorities, it was clear that the Cossack Brigade and
+
+<!-- page 113 -->
 
 _Iskandar Khan Setkhanian_ | 75 
 
@@ -1005,7 +1234,9 @@ By July 13, 1909, after a week of skirmishing back and forth with few casualties
 
 Fighting continued throughout the next day as Colonel Liakhov dispatched negotiators from the besieged Tup-Khane to the ruins of the Baharistan—where the Nationalist leaders and remaining Majles members had triumphantly returned—to try and secure a temporary cease-fi re. Owing to the complete dominance the Nationalists had attained by this point over the three hundred or so remaining Royalist forces, and with casualties and desertion of the remaining Royalist numbers increasing, the negotiators failed in their eff orts to strike a deal. Facing imminent defeat at the hands of combined Nationalist mujahedin and Bakhtiari forces, the Persian Cossacks and the shah conceded defeat on the morning of July 16, 1909. Muhammad Ali Shah took refuge in the Russian legation with Iskandar Khan’s senior offi  cer, Hussein Pasha Khan Amir Bahadur Jang, and offi  cially abdicated later that evening. Although part of the terms of his abdication to his eleven-year-old son Ahmad Mirza stipulated that there would be a continued cease-fi re, the Persian Cossacks under Liakhov were on their own to negotiate a deal with the Nationalists. 
 
-After a harrowing incident in which fi ghting nearly broke out again between the Nationalist mujahedin and Liakhov’s Cossack guards,[117] Liakhov was escorted by a troop of victorious Caucasian and Bakhtiari mujahedin to the Baharistan, where remarkably he was able to negotiate 
+After a harrowing incident in which fi ghting nearly broke out again between the Nationalist mujahedin and Liakhov’s Cossack guards,[117] Liakhov was escorted by a troop of victorious Caucasian and Bakhtiari mujahedin to the Baharistan, where remarkably he was able to negotiate
+
+<!-- page 114 -->
 
 76 | _Experiences with Iranian Nationalism_ 
 
@@ -1013,11 +1244,15 @@ a deal that would allow the Cossack Brigade to keep its arms after laying them d
 
 ## **Iskandar Khan and the Cossack Brigade after the Constitutional Revolution** 
 
-With two confl icting sources of command—the Nationalist government, which it was supposed to obey, and the Russian government, to which it was truly beholden—the Cossack Brigade was little utilized by either government in 1910. Between 1910 and May 1912, it took a back seat to the Nationalist Gendarme under Yeprem Khan, the popular Armenian mujahedin leader, following the shah’s abdication.[121] Iskandar Khan continued in his service as chief translator and general to the brigade, which lost Liakhov in 1911 to Colonel Nikolai Vadbolski[122] and in the year and a half since the Nationalist victory had been relegated to the protection of young Ahmad Shah Qajar and Russian property interests in Tehran.[123] Despite a failed attempt by Muhammad Ali Shah in the fall of 1911 to 
+With two confl icting sources of command—the Nationalist government, which it was supposed to obey, and the Russian government, to which it was truly beholden—the Cossack Brigade was little utilized by either government in 1910. Between 1910 and May 1912, it took a back seat to the Nationalist Gendarme under Yeprem Khan, the popular Armenian mujahedin leader, following the shah’s abdication.[121] Iskandar Khan continued in his service as chief translator and general to the brigade, which lost Liakhov in 1911 to Colonel Nikolai Vadbolski[122] and in the year and a half since the Nationalist victory had been relegated to the protection of young Ahmad Shah Qajar and Russian property interests in Tehran.[123] Despite a failed attempt by Muhammad Ali Shah in the fall of 1911 to
+
+<!-- page 115 -->
 
 13a. Iskandar Khan and the Persian Cossack Brigade with Ahmad Shah Qajar, Tehran, 1909. This widely known photo appeared in American economic adviser Morgan Shuster’s book _The Strangling of Persia_ with the caption “Russian and Persian Offi  cers of the Notorious ‘Cossack Brigade.’ This has been one of the chief instruments of Russian infl uence and oppression in Persia” (p. xxxviii). Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
 
-13b. Close-up of Persian Cossacks with Ahmad Shah Qajar. General Liakhoff  at left, Ahmad Shah at lower right, Iskandar Khan at right. 
+13b. Close-up of Persian Cossacks with Ahmad Shah Qajar. General Liakhoff  at left, Ahmad Shah at lower right, Iskandar Khan at right.
+
+<!-- page 116 -->
 
 78 | _Experiences with Iranian Nationalism_ 
 
@@ -1025,7 +1260,9 @@ regain his throne by rallying Azerbaijani supporters to oppose Nationalist Bakht
 
 The Russians intensely disapproved of Majles-appointed American fi nancial adviser Morgan Shuster, who was working with Nationalist forces to organize Persian fi nances, create an American-advised taxcollecting gendarme,[125] and arrange the seizure of the estates of Royalists, whose property the Persian Cossacks were guarding. The Cossack Brigade was bolstered by the arrival of Russian Cossacks to add to their numbers and supplies. 
 
-14. Postcard featuring Iskandar Khan ( _center_ ) and Russian general, c. 1910. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
+14. Postcard featuring Iskandar Khan ( _center_ ) and Russian general, c. 1910. Unknown photographer. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 117 -->
 
 _Iskandar Khan Setkhanian_ | 79 
 
@@ -1035,7 +1272,9 @@ For his services to the brigade between 1911 and 1914, and with no higher rank t
 
 Iskandar Khan again received an increase in his salary and another Order of St. Stanislaus from the Russian government, which was issued 
 
-15. Iskandar Khan Amir Tuman, Tehran, 1915. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
+15. Iskandar Khan Amir Tuman, Tehran, 1915. Unknown photographer. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 118 -->
 
 80 | _Experiences with Iranian Nationalism_ 
 
@@ -1049,7 +1288,9 @@ Iskandar Khan became chief of staff  of the Tehran headquarters of the brigade i
 
 ## **Iskandar Khan and the Rule of the Pahlavi Shahs** 
 
-World War I brought the armies of four belligerent nations into the country.[134] In the face of foreign military occupation, the Cossack Brigade continued mainly to police Tehran and guard the shah. On a few occasions, they joined Nationalist forces to battle recalcitrant rural tribes. In 1916, the 
+World War I brought the armies of four belligerent nations into the country.[134] In the face of foreign military occupation, the Cossack Brigade continued mainly to police Tehran and guard the shah. On a few occasions, they joined Nationalist forces to battle recalcitrant rural tribes. In 1916, the
+
+<!-- page 119 -->
 
 _Iskandar Khan Setkhanian_ | 81 
 
@@ -1057,7 +1298,9 @@ _Iskandar Khan Setkhanian_ | 81
 
 last year of czarist rule in Russia, the Russian commander of the brigade once again granted Iskandar Khan two months’ leave to travel to Moscow.[135] Upon returning from his trip, Iskandar Khan Amir Tuman retired from the Persian Cossack Brigade after more than a quarter century of military service to the Qajar shahs and the Russian Empire.[136] 
 
-Immediately after Iskandar Khan’s retirement, the Cossack Brigade experienced the most drastic change in infl uences and commanders in its three decades of existence. Reza Khan, who was merely a _sarhang_ (colonel) of the second rank upon Iskandar Khan’s retirement, was promoted to _sartip_ of the third rank and placed in charge of a regiment in Tehran.[137] The withdrawal of Russian troops from Iran after the end of World War I and the Bolshevik Revolution that followed allowed the British to step in as the primary foreign infl uence over the brigade. As the new Communist government of Russia left the Cossacks without critical outside support, the British spared no time in recruiting Reza Khan to work in their interests. This was evidently not diffi  cult because the British still had thousands of troops stationed in the South of the country protecting the now vital oil fi elds, and it soon became clear that the Russians would no longer be providing the support the brigade needed to combat its many enemies in 
+Immediately after Iskandar Khan’s retirement, the Cossack Brigade experienced the most drastic change in infl uences and commanders in its three decades of existence. Reza Khan, who was merely a _sarhang_ (colonel) of the second rank upon Iskandar Khan’s retirement, was promoted to _sartip_ of the third rank and placed in charge of a regiment in Tehran.[137] The withdrawal of Russian troops from Iran after the end of World War I and the Bolshevik Revolution that followed allowed the British to step in as the primary foreign infl uence over the brigade. As the new Communist government of Russia left the Cossacks without critical outside support, the British spared no time in recruiting Reza Khan to work in their interests. This was evidently not diffi  cult because the British still had thousands of troops stationed in the South of the country protecting the now vital oil fi elds, and it soon became clear that the Russians would no longer be providing the support the brigade needed to combat its many enemies in
+
+<!-- page 120 -->
 
 82 | _Experiences with Iranian Nationalism_ 
 
@@ -1065,7 +1308,9 @@ the nation.[138] The Jangali Rebellion of 1920–21 was a serious challenge to t
 
 Iskandar Khan was approached by his colleagues to consider opposing Reza Khan, who was now head of the Cossack Brigade himself and had mustered his troops outside Tehran in preparation for seizing control of the government. Iskandar Khan had been fond of Reza Khan while he was a soldier under his command for two years and had developed a personal relationship with him in this time. Having distanced himself from military confrontations, politics, and coups d’état for the fi rst time in a quarter century, and out of great concern for his family, Iskandar Khan chose to stay out of the confl ict. When told of an imminent takeover of the city and the nation’s military and asked what he was going to do about it, Iskandar Khan is reported to have paused, thought for a moment, and then replied, “I’m very tired. I think I’ll go to bed,” which he immediately did.[140] 
 
-Although Iskandar Khan decided not to take up arms against his former subordinate Reza Khan in the coup of February 1921, neither did he join the procession of people rushing to demonstrate their allegiance and submission to the new minister of war. As April approached and Iskandar Khan had still not yet made his appearance, Reza Khan decided to pay a visit to him at the family estate on Khiaban-e Sepah with an escort of Cossack guards, many of whom had themselves served under Iskandar Khan’s command. On Reza Khan’s orders, he and Iskandar Khan were left alone to discuss matters, and the two Cossacks walked out into the garden of the estate to circumnavigate the large pond. Halfway around the pond, Iskandar Khan stopped walking, whereby Reza Khan, who was a full head taller, gently put his arm around Iskandar Khan and continued to walk with the older general. Arm in arm and each with a look of resolution on his face, they returned to the main house, whereupon Reza Khan left with his Cossack escorts.[141] Less than fi ve years later Reza Khan 
+Although Iskandar Khan decided not to take up arms against his former subordinate Reza Khan in the coup of February 1921, neither did he join the procession of people rushing to demonstrate their allegiance and submission to the new minister of war. As April approached and Iskandar Khan had still not yet made his appearance, Reza Khan decided to pay a visit to him at the family estate on Khiaban-e Sepah with an escort of Cossack guards, many of whom had themselves served under Iskandar Khan’s command. On Reza Khan’s orders, he and Iskandar Khan were left alone to discuss matters, and the two Cossacks walked out into the garden of the estate to circumnavigate the large pond. Halfway around the pond, Iskandar Khan stopped walking, whereby Reza Khan, who was a full head taller, gently put his arm around Iskandar Khan and continued to walk with the older general. Arm in arm and each with a look of resolution on his face, they returned to the main house, whereupon Reza Khan left with his Cossack escorts.[141] Less than fi ve years later Reza Khan
+
+<!-- page 121 -->
 
 _Iskandar Khan Setkhanian_ | 83 
 
@@ -1075,7 +1320,9 @@ would crown himself Reza Shah Pahlavi and establish a new dynasty. The fact that
 
 In 1927, Iskandar Khan, like many other former generals who had taken an oath of loyalty to the Qajars, was required to sit for an offi  cial portrait wearing a Kolah-e Pahlavi (Pahlavi Hat)[143] as a show of allegiance to the new regime. 
 
-Dressed in military casuals and often sporting his Pahlavi Hat, Iskandar Khan assumed a relatively low profi le during the late 1920s and 1930s, enjoying an ideal retired lifestyle, including hunting trips and family gatherings.[144] 
+Dressed in military casuals and often sporting his Pahlavi Hat, Iskandar Khan assumed a relatively low profi le during the late 1920s and 1930s, enjoying an ideal retired lifestyle, including hunting trips and family gatherings.[144]
+
+<!-- page 122 -->
 
 84 | _Experiences with Iranian Nationalism_ 
 
@@ -1083,9 +1330,13 @@ Dressed in military casuals and often sporting his Pahlavi Hat, Iskandar Khan as
 
 During this period, Iskandar Khan also spent time at the Soviet embassy in Tehran since relations and diplomatic missions had been restored in 1920. Although he was thoroughly anti-Bolshevik, his proRussian orientation motivated him to maintain cordial social relations with members of the Soviet diplomatic mission and friendships within the small Russian community. 
 
-Iskandar Khan was most fond of rigorous outdoor pastimes such as hunting and fi shing in his retirement, but he also engaged in activities that seemed to contrast with his often gruff  and strict demeanor.[145] One such pastime was fi ne woodworking. By mail order, Iskandar Khan developed a dazzling collection of imported specialty tools, with which 
+Iskandar Khan was most fond of rigorous outdoor pastimes such as hunting and fi shing in his retirement, but he also engaged in activities that seemed to contrast with his often gruff  and strict demeanor.[145] One such pastime was fi ne woodworking. By mail order, Iskandar Khan developed a dazzling collection of imported specialty tools, with which
 
-20. Setkhanian family portrait, Tehran, 1927. _Standing, left to right_ : Hacob, Hovsep, Catharine, Jahangir, Aslan, and Davit. Maryam Khanom is seated at left under the portrait of her father, Marteros Khan Davidkhanian, and Iskandar Khan is seated under a portrait of his father, Sattur Khan Setkhanian (see the top part of the photo). The photos on pedestals are those of son Hovannes Setkhanian and his Russian wife, Yekaterina, who were in Moscow at the time studying law. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
+<!-- page 123 -->
+
+20. Setkhanian family portrait, Tehran, 1927. _Standing, left to right_ : Hacob, Hovsep, Catharine, Jahangir, Aslan, and Davit. Maryam Khanom is seated at left under the portrait of her father, Marteros Khan Davidkhanian, and Iskandar Khan is seated under a portrait of his father, Sattur Khan Setkhanian (see the top part of the photo). The photos on pedestals are those of son Hovannes Setkhanian and his Russian wife, Yekaterina, who were in Moscow at the time studying law. Unknown photographer. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 124 -->
 
 86 | _Experiences with Iranian Nationalism_ 
 
@@ -1095,15 +1346,21 @@ pher. Courtesy of Mara Setkhanian-Martin.
 
 22. Relaxing after the hunt, March 1930. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
 
-he produced delicately carved picture frames and sculptures that would later be handed down through generations of his descendants. Iskandar Khan was also an avid gardener in his retirement. At one point, he hired laborers to dig out and cart away three meters of topsoil from a large portion of the yard so that loads of highly fertile soil could be brought in to replace it. There, Iskandar Khan planted a large rose garden that became one of his favorite pastimes. In addition to maintaining Hammam-e Amir, the bathhouse, as a service to the Armenian community, in his retirement he also became more involved in the Armenian Church, and made several large donations that the church publicly recognized.[146] 
+he produced delicately carved picture frames and sculptures that would later be handed down through generations of his descendants. Iskandar Khan was also an avid gardener in his retirement. At one point, he hired laborers to dig out and cart away three meters of topsoil from a large portion of the yard so that loads of highly fertile soil could be brought in to replace it. There, Iskandar Khan planted a large rose garden that became one of his favorite pastimes. In addition to maintaining Hammam-e Amir, the bathhouse, as a service to the Armenian community, in his retirement he also became more involved in the Armenian Church, and made several large donations that the church publicly recognized.[146]
+
+<!-- page 125 -->
 
 _Iskandar Khan Setkhanian_ | 87 
 
 23. Iskandar Khan with members of Soviet legation, 1928. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
 
-Iskandar Khan’s death in 1953 was a time for mourning, but as he was laid to rest in the Doulab Cemetery outside Tehran, those at his graveside could take comfort that his life had been long, challenging, exciting, and fulfi lling. He had distinguished himself by his steady rise through the ranks of the Persian Cossack Brigade and by his successful navigation through the tumult of the Constitutional Revolution, the invasions and occupation of Iran during World War I, and the changeover to a diff erent political and social order and the quickening growth of Iranian nationalism with the demise of the Qajars and rise of the Pahlavis. Through a combination of grit, determination, and the ability to tactically employ his multiple allegiances and identities to assure his own survival and advancement through to the fi nal moments in Iranian history when such fl uidity was advantageous, Iskandar Khan thrived during these troubled years and was able to perpetuate the prosperity of the Setkhanian family in Iran for another generation. 
+Iskandar Khan’s death in 1953 was a time for mourning, but as he was laid to rest in the Doulab Cemetery outside Tehran, those at his graveside could take comfort that his life had been long, challenging, exciting, and fulfi lling. He had distinguished himself by his steady rise through the ranks of the Persian Cossack Brigade and by his successful navigation through the tumult of the Constitutional Revolution, the invasions and occupation of Iran during World War I, and the changeover to a diff erent political and social order and the quickening growth of Iranian nationalism with the demise of the Qajars and rise of the Pahlavis. Through a combination of grit, determination, and the ability to tactically employ his multiple allegiances and identities to assure his own survival and advancement through to the fi nal moments in Iranian history when such fl uidity was advantageous, Iskandar Khan thrived during these troubled years and was able to perpetuate the prosperity of the Setkhanian family in Iran for another generation.
 
-24. Still in uniform at age eighty-seven, Iskandar Khan poses with granddaughters Mara ( _left_ ) and Arlette, Tehran, 1952. Unknown photographer. Courtesy of Mara Setkhanian-Martin. 
+<!-- page 126 -->
+
+24. Still in uniform at age eighty-seven, Iskandar Khan poses with granddaughters Mara ( _left_ ) and Arlette, Tehran, 1952. Unknown photographer. Courtesy of Mara Setkhanian-Martin.
+
+<!-- page 127 -->
 
 ## 3 
 
@@ -1115,7 +1372,9 @@ Intercommunal violence resulting in such scenes was widespread in eastern Anatol
 
 Hagob and his brothers found refuge at the Near East Relief Orphanage in Tabriz, the provincial capital of Azerbaijan. An American-sponsored Presbyterian mission, it was home to them for the duration of their childhood.[4] Orphaned children from areas aff ected by the massacres, ethnic cleansing, and intercommunal violence arrived at the center almost 
 
-89 
+89
+
+<!-- page 128 -->
 
 90 | _Experiences with Iranian Nationalism_ 
 
@@ -1123,7 +1382,9 @@ daily. One such child, Arshalous Harutoonian, a baby girl believed to have been 
 
 The orphanage not only provided a safe haven and the necessities of living but coordinated its eff orts with the local Armenian priest to educate the children. With the help of older orphans and adult volunteers from the Armenian community in Tabriz, the priest and orphanage staff  instructed the children in the Armenian language and taught them about their rich cultural heritage, rooted in Christianity since the fourth century CE. The boys and girls also attended classes in Persian, English, mathematics, music, and handicrafts such as sewing and carpet weaving, which were 
 
-25. The children and staff  of the Near East Relief Orphanage in Tabriz, Iran, 1924. The sign to the lower right of the American fl ag reads in Armenian “Long Live the Armenian Nation.” The sign directly under the Iranian Shir-o Khorshid (Lion and Sun) reads “Congratulations and Happy New Year 1924.” The sign below that reads “Greetings to the Great American Nation.” Hagob Hagobian stands at the far left, top row. Unknown photographer. Courtesy of the author. 
+25. The children and staff  of the Near East Relief Orphanage in Tabriz, Iran, 1924. The sign to the lower right of the American fl ag reads in Armenian “Long Live the Armenian Nation.” The sign directly under the Iranian Shir-o Khorshid (Lion and Sun) reads “Congratulations and Happy New Year 1924.” The sign below that reads “Greetings to the Great American Nation.” Hagob Hagobian stands at the far left, top row. Unknown photographer. Courtesy of the author.
+
+<!-- page 129 -->
 
 _Hagob Hagobian_ | 91 
 
@@ -1133,7 +1394,9 @@ Reza Khan toured Tabriz in 1924 following his rise to power, and the children of
 
 At the age of fi fteen in 1925, Hagob supported himself by working at small jobs, one of which was unloading goods from carts and the few trucks that made deliveries around Tabriz. Chosen for his capacity to work hard and his great interest in trucks, the following year Hagob became a _shagaird-e shufer_ , apprentice driver, in an Armenian and Assyrian transportation guild. This was a prized position for a young man because it provided some income, travel, and the opportunity to work around the rare and powerful vehicles that the master drivers piloted across the mountains to Tehran and then south to the Persian Gulf. 
 
-As an apprentice, Hagob was taught the essential skills of load balancing and lashing, which required knowledge of knots, and how diff erent materials would shift and settle over the duration of a trip. Apprentice truck drivers performed maintenance alongside the master drivers and would progressively assume responsibilities as they learned the procedures for truck upkeep and repair. The masters provided the vehicle, the gasoline, licenses (which were required after 1928), maps, and parts, and the apprentices worked for them in two- to three-week shifts that lasted one round trip to the Persian Gulf. Hagob began the driving portion of 
+As an apprentice, Hagob was taught the essential skills of load balancing and lashing, which required knowledge of knots, and how diff erent materials would shift and settle over the duration of a trip. Apprentice truck drivers performed maintenance alongside the master drivers and would progressively assume responsibilities as they learned the procedures for truck upkeep and repair. The masters provided the vehicle, the gasoline, licenses (which were required after 1928), maps, and parts, and the apprentices worked for them in two- to three-week shifts that lasted one round trip to the Persian Gulf. Hagob began the driving portion of
+
+<!-- page 130 -->
 
 92 | _Experiences with Iranian Nationalism_ 
 
@@ -1145,11 +1408,15 @@ In 1933 at age twenty-fi ve, Hagob made arrangements for his marriage to Arshalo
 
 Soon after the ceremony, Hagob and his new wife moved to the growing city of Tehran to be near the hub of the country’s trucking and transportation industry. Having no relatives with whom to share a home, as was customary in most Armenian families, Hagob and his wife made temporary arrangements to share rooms with friends from the orphanage in Tabriz who lived in Tehran. Before the birth of a son, Nejde, in 1934, the young couple moved into private rooms located on a narrow _koutche_ (alleyway) in an area of the city where some of their neighbors were other Armenian refugees from East Anatolia and Azerbaijan as well Russianeducated Armenian professionals who had immigrated to Iran following the Bolshevik Revolution. 
 
-Hagob began driving long-distance hauls between Tehran and the Persian Gulf and soon acquired his own truck through the assistance of his former employer. For an agreed-upon monthly payment made possible 
+Hagob began driving long-distance hauls between Tehran and the Persian Gulf and soon acquired his own truck through the assistance of his former employer. For an agreed-upon monthly payment made possible
+
+<!-- page 131 -->
 
 26. Hagob and Arshalous Hagobian, Kermanshah, 1933. Unknown photographer. Courtesy of the author. 
 
-27. The Hagobian and Gorjian families, Tehran, 1937. Hagob Hagobian ( _front left_ ), Arshak Gorjian ( _front right_ ), Arshalous Hagobian ( _center right_ ), Jennik Gorjian ( _center left_ ). Unknown photographer. Courtesy of the author. 
+27. The Hagobian and Gorjian families, Tehran, 1937. Hagob Hagobian ( _front left_ ), Arshak Gorjian ( _front right_ ), Arshalous Hagobian ( _center right_ ), Jennik Gorjian ( _center left_ ). Unknown photographer. Courtesy of the author.
+
+<!-- page 132 -->
 
 94 | _Experiences with Iranian Nationalism_ 
 
@@ -1159,7 +1426,9 @@ by their mutual trust, Hagob took possession of the truck immediately with the i
 
 While Hagob Hagobian and members of his truck drivers’ guild traversed the Iranian deserts and mountain ranges between Tehran and the Persian Gulf during the late 1920s and early 1930s, their minds were not occupied with things such as the historical signifi cance of their activities or the symbolism involved in them because the journey in those years was dangerous and persistently challenging. Pioneering a new mode of transportation in a country that had until the 1920s neglected to develop or maintain its transportation infrastructure, the drivers had to constantly improvise and rely on each other’s support and innovation to survive the trip and make trucking a profi table profession.[7] In these early years, drivers needed to caravan in groups of fi ve to ten trucks for safety. Although eff orts were being made by the country’s new autocrat, Reza Shah (r. 1921–41) to eliminate the threat of banditry by nomadic tribes and create a few well-paved transport routes, it was not until the mid1930s that brigandage was at least temporarily suppressed.[8] In 1928, the shah’s own minister of roads had been killed by nomads opposed to road construction in Lorestan,[9] and thus, fearing a desert breakdown without supplies or attack by mounted hijackers, the drivers drove slowly and stuck close enough together so that they would not lose visual contact through the dust. 
 
-In the 1920s, Iran possessed less than two thousand miles of motorable roads,[10] which were for the most part unpaved and ungraded. The result was a ride that punished the occupants, machinery, suspension, 
+In the 1920s, Iran possessed less than two thousand miles of motorable roads,[10] which were for the most part unpaved and ungraded. The result was a ride that punished the occupants, machinery, suspension,
+
+<!-- page 133 -->
 
 _Hagob Hagobian_ | 95 
 
@@ -1167,7 +1436,9 @@ and tires of the early-model, six-wheel American trucks that were the industry s
 
 In his retirement, Hagob Hagobian would refer to this endeavor and the four decades he labored in it as “shifting gears in the desert.” A corresponding hand gesture mimicking fi rst-through-third was obligatory and signifi ed the repetitive and mundane nature of it all. The time required away from his family in Tehran and years of monotonous rides over bumps and ruts so familiar they were given names left him with few romantic memories of truck driving during this era. Although he never intended this phrase to be a trope, in the context of the economic and political history of modern Iran it turns out to be a fi tting metaphor to fi guratively link the national and economic transformation that occurred during the 1920s and 1930s to his tedious but much-needed profession. As perhaps the “latest” of the developing nations of the Middle East, Iran was heavily dependent on the trucking industry in the initial phases of modernization and industrialization. Without a rail system and constrained by the absence of navigable waterways, trucking was the primary mode of transportation by which economic and cultural links between the distant ports and urban centers of the newly consolidated nation were created. 
 
-The caravans of motorized trucks that appeared on the Iranian landscape in the late 1920s were both physically and symbolically indicative of the radical changes the country was undergoing during this decade. Once again replacing the camel as the primary means of long-distance transport for the fi rst time since the fi fth century CE, wheeled vehicles—now motorized rather than drawn—retook the roads and caravansaries.[12] The increasing presence of truck caravans, as they linked the distant ports and 
+The caravans of motorized trucks that appeared on the Iranian landscape in the late 1920s were both physically and symbolically indicative of the radical changes the country was undergoing during this decade. Once again replacing the camel as the primary means of long-distance transport for the fi rst time since the fi fth century CE, wheeled vehicles—now motorized rather than drawn—retook the roads and caravansaries.[12] The increasing presence of truck caravans, as they linked the distant ports and
+
+<!-- page 134 -->
 
 96 | _Experiences with Iranian Nationalism_ 
 
@@ -1175,7 +1446,9 @@ urban centers secured by Reza Shah’s military eff orts, was a loud, rolling te
 
 Concurrent with this profound physical transformation was a structural change in Iranian urban economic institutions. The process of Iran’s incorporation into the world economy, which had been slowly progressing since the beginning of the nineteenth century, was accelerated by trucks during the 1920s and 1930s.[14] The impact of this structural change was felt in centers of Persian handcraft production throughout the boundaries of 
 
-28. Arshak Gorjian ( _second from left_ ) with fellow truck drivers. Photo by Hagob Hagobian, c. 1936. Courtesy of the author. 
+28. Arshak Gorjian ( _second from left_ ) with fellow truck drivers. Photo by Hagob Hagobian, c. 1936. Courtesy of the author.
+
+<!-- page 135 -->
 
 _Hagob Hagobian_ | 97 
 
@@ -1187,7 +1460,9 @@ Pressed by the unique demands of the Pahlavi regime and the challenging nature o
 
 Iran’s transportation infrastructure in the fi rst quarter of the twentieth century was, even by the standards of other developing Middle Eastern countries, extremely poor in quality and extent. At the onset of World War I, pack animals were still the basic mode of transportation because automobiles had yet to be introduced to Iran. As previously mentioned, Iran did not have a rail system[16] or navigable rivers. A British source on Iranian trade and foreign competition attested to this condition and some of the problems of pack-animal transport at the turn of the century: 
 
-The only method of transporting goods in Persia is by pack animals. Camels, mules, ponies and donkeys are all used in diff erent parts of the country and under diff erent circumstances. The ordinary load for a camel is about 400 lbs. . . . 200 to 250 is a fair load for a mule or pony, and a donkey load may be reckoned at 130 lbs. Both loads and prices depend 
+The only method of transporting goods in Persia is by pack animals. Camels, mules, ponies and donkeys are all used in diff erent parts of the country and under diff erent circumstances. The ordinary load for a camel is about 400 lbs. . . . 200 to 250 is a fair load for a mule or pony, and a donkey load may be reckoned at 130 lbs. Both loads and prices depend
+
+<!-- page 136 -->
 
 98 | _Experiences with Iranian Nationalism_ 
 
@@ -1197,7 +1472,9 @@ Charles Issawi’s analysis of these observations and statistical data about tra
 
 During this period, road surfaces were often in such bad repair that pack-animal transportation—slow under the best conditions—was made even slower. At times, impassable roadways stopped movement altogether. Various Russian and British plans for graded carriage roads were developed in the North and South of Iran (respectively—refl ecting the “spheres of infl uence” these two countries had over Iran from 1907 until 1921).[20] The eruption of World War I prevented their implementation. A manager of the (British) Persian Transport Company described the decrepit road conditions: 
 
-The state of the Bakhtiary road is unsatisfactory in the extreme. In many places it is little better than a goat track. It was bad enough when I went over the road in 1910 and it has since deteriorated to an alarming degree. Since that year the number of camels plying between Ahwaz and Isfahan has been reduced by 50 per cent, largely due to the fact that they 
+The state of the Bakhtiary road is unsatisfactory in the extreme. In many places it is little better than a goat track. It was bad enough when I went over the road in 1910 and it has since deteriorated to an alarming degree. Since that year the number of camels plying between Ahwaz and Isfahan has been reduced by 50 per cent, largely due to the fact that they
+
+<!-- page 137 -->
 
 _Hagob Hagobian_ | 99 
 
@@ -1207,13 +1484,17 @@ Issawi cites British sources from the period 1913–14 who mention “robberies�
 
 The Qajars, the British, and the Russians all had military and economic interests in a more extensive and effi  cient Iranian transportation infrastructure. From each of their perspectives (grossly simplifi ed), its development would yield better control of the Qajars and British for the Russians, better control of the Russians and Qajars for the British, and better control of regional tribal and ethnic challenges for the Qajars, who were too weak to have infl uence over the imperial powers. The three governments recognized that expanded transportation furthered their interests in increased trade and the effi  cient collection of tax revenues. Before World War I, 80 percent of Iran’s trade was with Russia and Britain, and more than 60 percent of that was with Russia.[23] An increase in trade was seen as desirable by all three governments despite their individual diff erences and agendas. The question of how to modernize the infrastructure began to be pursued. 
 
-Moustafa Fateh, an Iranian economics student studying abroad at Cambridge in the 1920s, was concerned with these issues as he wrote his doctoral thesis on the state of the Iranian economy and industrial infrastructure. _The Economic Position of Persia_ , published in 1926, analyzes data from 1919–23 to describe the situation and makes recommendations for future economic and industrial development. The study included an assessment of Iran’s roads and transportation completed during the transition from pack-animal to motor-powered transportation. Fateh explained, 
+Moustafa Fateh, an Iranian economics student studying abroad at Cambridge in the 1920s, was concerned with these issues as he wrote his doctoral thesis on the state of the Iranian economy and industrial infrastructure. _The Economic Position of Persia_ , published in 1926, analyzes data from 1919–23 to describe the situation and makes recommendations for future economic and industrial development. The study included an assessment of Iran’s roads and transportation completed during the transition from pack-animal to motor-powered transportation. Fateh explained,
+
+<!-- page 138 -->
 
 100 | _Experiences with Iranian Nationalism_ 
 
 Persia possesses at present about 1500 miles of roads which can be used for motor transport, and there are many natural roads connecting the large cities which could easily be reconstructed and used for this purpose. The bulk of commercial goods is transported on pack animals, and the high cost of such a primitive system of transport is responsible for the undeveloped resources as well as the meager trade of the country. . . . There is a project before the Government for the construction of roads throughout Persia and the repair of the existing ones, which would involve a total expenditure of over £5,000,000. It is hoped that this project will be approved and the necessary sums provided for this very important and vital question. In the case of a railess [ _sic_ ] country like Persia it is most vital to have good roads for developing the motor transport service, which is becoming very popular in the country.[24] 
 
-Writing during the transitional period from Qajar to Pahlavi rule (1921–25), Fateh was keenly aware of the national debate over future infrastructural investment and development because this period of confl ict and change at the national political level found its parallel in the transportation industry. The Fourth and Fifth Majlis (parliamentary assemblies of 1923– 25), featured debates over whether to invest the country’s limited fi nancial resources in railroads or in roads and trucks as a means of increasing the extent and capacity of the transportation infrastructure. Although a rail network was most desirable for its capacity to transport heavier loads at greater average speeds, time and money ultimately decided the order of investment. A functional system of rail was at best years away, while trucks could be used eff ectively after the relatively simple grading, graveling, or paving of existing roads. Fateh explained, “There are some people who favor an extensive system of motor transport for the present, as less costly and more adaptable to present needs [than rail]. . . . The Persian Government is bent on building and maintaining good roads, which, in the absence of railways, are essential for the development of vehicle and especially motor transport.”[25] It was soon realized that trucks would be an essential part of the eff ort to build a national railroad anyway, and so this debate did not progress past 1925. The Pahlavi regime, established offi  cially in 1925 after Reza Shah’s self-coronation, would work to develop 
+Writing during the transitional period from Qajar to Pahlavi rule (1921–25), Fateh was keenly aware of the national debate over future infrastructural investment and development because this period of confl ict and change at the national political level found its parallel in the transportation industry. The Fourth and Fifth Majlis (parliamentary assemblies of 1923– 25), featured debates over whether to invest the country’s limited fi nancial resources in railroads or in roads and trucks as a means of increasing the extent and capacity of the transportation infrastructure. Although a rail network was most desirable for its capacity to transport heavier loads at greater average speeds, time and money ultimately decided the order of investment. A functional system of rail was at best years away, while trucks could be used eff ectively after the relatively simple grading, graveling, or paving of existing roads. Fateh explained, “There are some people who favor an extensive system of motor transport for the present, as less costly and more adaptable to present needs [than rail]. . . . The Persian Government is bent on building and maintaining good roads, which, in the absence of railways, are essential for the development of vehicle and especially motor transport.”[25] It was soon realized that trucks would be an essential part of the eff ort to build a national railroad anyway, and so this debate did not progress past 1925. The Pahlavi regime, established offi  cially in 1925 after Reza Shah’s self-coronation, would work to develop
+
+<!-- page 139 -->
 
 _Hagob Hagobian_ | 101 
 
@@ -1223,7 +1504,9 @@ At this historical juncture, men began to make their living shifting gears in th
 
 Arthur Chester Millspaugh provides statistics from his 1926 economic survey of Iran that set the number of vehicles in 1925 at 3,000, with 529 of them imported in 1925–26, an increase of 35 percent over the 1923–24 total of 392.[26] The Fourth Majlis appropriated almost ten million rials for road construction in 1925, which funded the grading and graveling of existing roads.[27] The Majlis organized an economic committee, which took up the freeing of the roads from the payment of the _rahdari_ , a toll previously paid for maintenance and protection; the abolition of dues payable at city gates (in 1924 Tehran was still surrounded by walls); and the removal of customs duties on materiel destined for projects such as road maintenance, construction, and transportation services.[28] The Government Alimentation Service purchased at once a fl eet of 198 trucks and 60 trailers to carry foodstuff s from surplus to areas hit by the famine of 1925,[29] which simultaneously increased governmental reliance on this new technological advancement and the number of trucks in the country. As the number of vehicles and miles of motorable road grew, so did the ranks of laborers in a newly created profession. Peter Avery describes the truck drivers of this era, 
 
-whose fatalism seems to preclude the thought that their particular vehicle will ever go over the precipice or be the one to be carried off  by a torrent, or so loaded that sooner or later it will roll over. Lorry drivers undertake repairs on the road, miles away from anything remotely resembling a garage or workshop, which would daunt automobile engineers who are 
+whose fatalism seems to preclude the thought that their particular vehicle will ever go over the precipice or be the one to be carried off  by a torrent, or so loaded that sooner or later it will roll over. Lorry drivers undertake repairs on the road, miles away from anything remotely resembling a garage or workshop, which would daunt automobile engineers who are
+
+<!-- page 140 -->
 
 102 | _Experiences with Iranian Nationalism_ 
 
@@ -1233,7 +1516,9 @@ Managing on slender means was made easier through membership in a guild.[31] Mem
 
 Guild members kept each other informed about the political situation in various regions, which often had a direct and immediate eff ect on road security. The hijacking of vehicles by bandits and associated violence were commonplace in the Iranian countryside in the 1920s. This continued to be of concern to Hagob and his fellow truck drivers even after Reza Shah largely suppressed such activities in the mid-1930s. Because of the many unpredictable dangers, truck drivers in Iran caravanned in groups, fi nding strength and security in their numbers. Driving in shifts, the truck crews of two, ordinarily the _arbab_ and his _shagaird-e-shufer_ , alternated sleeping and driving eight to ten hours, with the driver at the wheel keeping the other trucks in sight. 
 
-Trucks and their components were imported from abroad, and there was an acute shortage of all parts. US-manufactured single-cab, 
+Trucks and their components were imported from abroad, and there was an acute shortage of all parts. US-manufactured single-cab,
+
+<!-- page 141 -->
 
 _Hagob Hagobian_ | 103 
 
@@ -1241,7 +1526,9 @@ six-wheel trucks such as Hagob’s 1932 International were the industry standard
 
 In addition to these trucking-specifi c functions, the guild performed other functions that were common to Iranian and Middle Eastern guilds of other occupations. These functions included cultivating a qualitycontrol consciousness, lending cash resources, participating in an information network,[33] and attempting to keep the ranks exclusive. Another characteristic of the guild was its ability to infl uence rates and price setting; only the truckers knew how much a roadside overhaul cost in time and parts, and they could collectively assert operating costs to infl uence pricing in the transportation industry. The truck drivers’ guild in Iran was thus created by the adaptation of traditional guild functions to new technology. 
 
-Another adaptation of traditional Iranian institutions facilitated the development of the truck transportation industry while making life a bit easier for the drivers. A haven to which Hagob Hagobian and his driving colleagues could go for rest and some restocking of supplies in the 1920s and 1930s was the rural teahouse, or _chai-khaneh_ . The teahouses, in eff ect truck stops, were the former caravansaries, which for centuries had been way stations for travelers and traders in camel caravans. Hagob and his fellow truck drivers paused at the shelters to eat a hot meal, buy supplies, and spend a night before beginning another grueling twenty-four-hour shift. If time permitted, the drivers would enjoy the common pastime of playing cards and _nardi_ (backgammon) while drinking tea. Owing to the unpredictable hygienic conditions of the _chai-khaneh_ s and a general fear of disease and parasites, truckers rarely accepted the rooms and beds that were off ered. They instead slept in or on top of the trucks, using their 
+Another adaptation of traditional Iranian institutions facilitated the development of the truck transportation industry while making life a bit easier for the drivers. A haven to which Hagob Hagobian and his driving colleagues could go for rest and some restocking of supplies in the 1920s and 1930s was the rural teahouse, or _chai-khaneh_ . The teahouses, in eff ect truck stops, were the former caravansaries, which for centuries had been way stations for travelers and traders in camel caravans. Hagob and his fellow truck drivers paused at the shelters to eat a hot meal, buy supplies, and spend a night before beginning another grueling twenty-four-hour shift. If time permitted, the drivers would enjoy the common pastime of playing cards and _nardi_ (backgammon) while drinking tea. Owing to the unpredictable hygienic conditions of the _chai-khaneh_ s and a general fear of disease and parasites, truckers rarely accepted the rooms and beds that were off ered. They instead slept in or on top of the trucks, using their
+
+<!-- page 142 -->
 
 104 | _Experiences with Iranian Nationalism_ 
 
@@ -1251,7 +1538,9 @@ personal sleeping gear. This practice also served the function of providing secu
 
 Iranian truck drivers, predominantly Christian Armenians and Assyrians, enjoyed a unique status in the nation as the operators of novel and complex machines. The _chai-khaneh_ owners were Muslims who, in Islamic tradition, provided a hospitable environment to every guest. Thus, although the _chai-khaneh_ owners and the truck drivers came from diff erent religious backgrounds, they formed a trusting and enduring relationship that became an integral part of the transportation industry of Iran. 
 
-These pioneers of Iran’s transportation revolution demonstrated remarkable ingenuity and patience in their labor, but they were also part of a process that was not always benefi cial to all Iranians. Interest in roads and trucking was generated by elites in the Iranian government, foreign powers, and large-scale traders. On most societal levels other than the elite milieu, however, the development of the country’s transportation had 
+These pioneers of Iran’s transportation revolution demonstrated remarkable ingenuity and patience in their labor, but they were also part of a process that was not always benefi cial to all Iranians. Interest in roads and trucking was generated by elites in the Iranian government, foreign powers, and large-scale traders. On most societal levels other than the elite milieu, however, the development of the country’s transportation had
+
+<!-- page 143 -->
 
 _Hagob Hagobian_ | 105 
 
@@ -1263,7 +1552,9 @@ In 1926, the year that Hagob Hagobian entered his guild apprenticeship, the Sixt
 
 ## **Guilds on the Eve of Pahlavi Rule** 
 
-From the height of Safavid rule in the mid–sixteenth century until the beginning of the nineteenth century, the _asnaf_ (guild) had remained relatively unchanged as the primary labor-organizing and tax-collecting institution in urban and much of rural Iran.[35] Although the gradual integration of Iran into the world economy had already begun to change the nature of Iranian craft industry by the mid–nineteenth century,[36] the 
+From the height of Safavid rule in the mid–sixteenth century until the beginning of the nineteenth century, the _asnaf_ (guild) had remained relatively unchanged as the primary labor-organizing and tax-collecting institution in urban and much of rural Iran.[35] Although the gradual integration of Iran into the world economy had already begun to change the nature of Iranian craft industry by the mid–nineteenth century,[36] the
+
+<!-- page 144 -->
 
 106 | _Experiences with Iranian Nationalism_ 
 
@@ -1273,7 +1564,9 @@ All artisans working in the bazaar, including Europeans and other foreigners, we
 
 An individual, often in his[39] early teens, would begin his work as _shagaird_ , or apprentice, using the shop, tools, raw materials, and guidance of his superior, the _ustad_ , or master craftsman. After a few years of training, the exact amount of time depending on the trade, the _shagaird_ would be promoted to the rank of _ustad_ .[40] The mainstay of craft production in Iran, the majority of craftsmen consisted of the masters.[41] Above the masters were the guild elders. 
 
-The guild’s head, called a _naqib_ or _ustabashi_ (literally “head master”), was an elected or hereditarily assigned position, which performed several important functions for the guild, most importantly serving as the sole intermediary between the guild and the central government.[42] It was the _naqib_ who collected and paid the taxes to the central government, arbitrated disputes within and outside of the guild, organized corvées, and negotiated with the government to fi x minimum prices. Tax collection was the most important duty of the guild elders, who engaged in negotiations with the government about the amount of tax, or corvée, for the entire guild before allotting shares and organizing payment for members—often on an installment plan.[43] The _naqib_ was also the legal intermediary between individual guild members and between guild members 
+The guild’s head, called a _naqib_ or _ustabashi_ (literally “head master”), was an elected or hereditarily assigned position, which performed several important functions for the guild, most importantly serving as the sole intermediary between the guild and the central government.[42] It was the _naqib_ who collected and paid the taxes to the central government, arbitrated disputes within and outside of the guild, organized corvées, and negotiated with the government to fi x minimum prices. Tax collection was the most important duty of the guild elders, who engaged in negotiations with the government about the amount of tax, or corvée, for the entire guild before allotting shares and organizing payment for members—often on an installment plan.[43] The _naqib_ was also the legal intermediary between individual guild members and between guild members
+
+<!-- page 145 -->
 
 _Hagob Hagobian_ | 107 
 
@@ -1283,7 +1576,9 @@ The Qajar shahs competed with a diversity of strong corporate groups that challe
 
 Of equal importance to the elite strata were the lower ranks of the guilds, including _ustad_ s and _shagaird_ s. They fell under the category of _pishivaran_ , generally middle- and lower-class bazaar artisans, excluding the _tujjar_ and the _ustabashi_ s.[46] The _pishivaran_ became closely related to many of the Iranian secret political societies, _anjuman_ s, which sprang up at the turn of the century in various corporate and hybrid milieus.[47] They were also linked to the _futuwwat_ , spiritual-athletic organizations (specifi - cally the _zurkhane_ , “house of strength”) in Iran, which literally provided extra muscle for street demonstrations. These groups played an increasingly assertive role in Iranian politics during the Qajar era, beginning with the well-documented Tobacco Revolt of 1891 and peaking during the Constitutional Revolution of 1905–11, in which they were the central agitators of the movement.[48] 
 
-In the latter revolt, the _pishivaran_ , motivated by the ulama and guild elders to protest, were demonstrating their concern about the selling out of the country’s resources to foreigners and the devastating economic and social results of this betrayal. As noted earlier in the story of the Constitutional Revolution, the interests of those we are concerned with here were to limit the powers of the Qajar shahs, the Russians, and the British by the adoption of the institutions of the constitution and parliament. It was hoped that political representation would alleviate the problems posed by weak shahs and their economic concessions to foreign interests.[49] 
+In the latter revolt, the _pishivaran_ , motivated by the ulama and guild elders to protest, were demonstrating their concern about the selling out of the country’s resources to foreigners and the devastating economic and social results of this betrayal. As noted earlier in the story of the Constitutional Revolution, the interests of those we are concerned with here were to limit the powers of the Qajar shahs, the Russians, and the British by the adoption of the institutions of the constitution and parliament. It was hoped that political representation would alleviate the problems posed by weak shahs and their economic concessions to foreign interests.[49]
+
+<!-- page 146 -->
 
 108 | _Experiences with Iranian Nationalism_ 
 
@@ -1293,7 +1588,9 @@ Although the guilds became weaker in the decade between the revolution and the a
 
 ## **Nineteenth-Century Craft Guilds in the Middle East** 
 
-There are remarkable similarities in the structure and range of trades and occupations that were organized into guilds in Iran and other Middle Eastern territories such as Egypt, the Ottoman Empire, and Arabia throughout most of the nineteenth century.[54] However, the Iranian guilds for the most part experienced this period diff erently from their counterparts in other regions of the Middle East. Whereas there were only subtle variations in guild organization and functions in this period, the pace and scope of nineteenth-century developmental eff orts in each of these countries produced remarkably diff erent results for guilds in the twentieth century. 
+There are remarkable similarities in the structure and range of trades and occupations that were organized into guilds in Iran and other Middle Eastern territories such as Egypt, the Ottoman Empire, and Arabia throughout most of the nineteenth century.[54] However, the Iranian guilds for the most part experienced this period diff erently from their counterparts in other regions of the Middle East. Whereas there were only subtle variations in guild organization and functions in this period, the pace and scope of nineteenth-century developmental eff orts in each of these countries produced remarkably diff erent results for guilds in the twentieth century.
+
+<!-- page 147 -->
 
 _Hagob Hagobian_ | 109 
 
@@ -1301,7 +1598,9 @@ To generalize a bit, the reforming sultans of the Ottoman Empire and the khedive
 
 Economic reformers of nineteenth-century Egypt and the Ottoman Empire used the guilds as transitional fi scal administrators until the machinery of their respective national bureaucracies were set up. Gabriel Baer explains that although Muhammad Ali and his descendants would have liked to have done away with the corporative structures of the ubiquitous Egyptian guilds, this would have required the previous establishment of a state taxation bureaucracy and employees who would assume the responsibilities of the guilds and guild shaykhs.[55] The guilds, by necessity, served the government in a transitional role, while the government worked simultaneously to create a bureaucracy for taxation and to undermine the guilds. 
 
-During the 1880s and 1890s, the Egyptian government issued decrees that led to a loss of guild functions and power. Guild shaykhs were no longer allowed to issue professional permits and were denied infl uence in wage fi xing. In 1881, they were relieved of their tax-collecting duties and other fi scal functions and were further weakened by Egypt’s continued integration into the world economy as a periphery area.[56] Baer attributes this weakening to the decline of the crafts and artisanal guilds with the coming of industrialization.[57] Therefore, the Egyptian guilds, already impaired because of exposure to the world economy, lost cohesion and infl uence. In 1880, the guild was still the basic form of Egyptian labor organization and fulfi lled a number of important economic functions. By 
+During the 1880s and 1890s, the Egyptian government issued decrees that led to a loss of guild functions and power. Guild shaykhs were no longer allowed to issue professional permits and were denied infl uence in wage fi xing. In 1881, they were relieved of their tax-collecting duties and other fi scal functions and were further weakened by Egypt’s continued integration into the world economy as a periphery area.[56] Baer attributes this weakening to the decline of the crafts and artisanal guilds with the coming of industrialization.[57] Therefore, the Egyptian guilds, already impaired because of exposure to the world economy, lost cohesion and infl uence. In 1880, the guild was still the basic form of Egyptian labor organization and fulfi lled a number of important economic functions. By
+
+<!-- page 148 -->
 
 110 | _Experiences with Iranian Nationalism_ 
 
@@ -1311,7 +1610,9 @@ Baer charts the demise of most Egyptian guilds by 1910 except for, notably, the 
 
 Baer qualifi es his work on the Ottoman guilds by explaining that a detailed study had not yet been done. However, there is ample evidence to attest to the strength and large numbers of Ottoman guildsmen during the eighteenth century and the beginning of the nineteenth century and to conclude that the Ottoman guilds were similar to Iranian and Egyptian guilds in their functions and organization.[60] Although Baer’s assessment of the Ottoman guilds at the turn of the century is not suffi  cient in supporting evidence or references, it reveals a chain of events concomitant with Egyptian developments: government policy led to the dissolution of the Ottoman/Turkish guilds. Although Baer stresses that we do not have enough evidence to chart the various stages of the guilds’ decline, it is known that in 1910 the Ottoman government abolished the guilds of Istanbul by law and successfully enforced this legislation within the remaining domains of the empire (including Syria, but not the Hijaz) over the following two years.[61] Ottoman and Turkish government policy toward the guilds in the early twentieth century was distinguished by its direct legal movement to eradicate them. 
 
-Abraham Marcus’s study of Aleppo in the eighteenth century, _The Middle East on the Eve of Modernity_ , yields some relevant details about the guilds in Aleppo and Damascus. The Syrian guilds were organized and served functions that were almost identical to those of the Iranian guilds.[62] In the eighteenth century and beginning of the nineteenth, Allepine guilds regulated professional licenses, production, price, wages, 
+Abraham Marcus’s study of Aleppo in the eighteenth century, _The Middle East on the Eve of Modernity_ , yields some relevant details about the guilds in Aleppo and Damascus. The Syrian guilds were organized and served functions that were almost identical to those of the Iranian guilds.[62] In the eighteenth century and beginning of the nineteenth, Allepine guilds regulated professional licenses, production, price, wages,
+
+<!-- page 149 -->
 
 _Hagob Hagobian_ | 111 
 
@@ -1321,7 +1622,9 @@ By the second half of the nineteenth century, the Syrian guilds showed various s
 
 Although what eventually became Saudi Arabia after the Uqair Conference of 1922 was technically part of the Ottoman Empire until 1916,[66] the political structure and infrastructure of the region (aside from the Hijaz Railway, completed in the 1890s) was not aff ected by the nineteenthcentury Tanzimat reforms. Like Iran, eff orts at economic and industrial reform did not begin in Arabia until the 1920s and were eff ective only in the 1930s. The similar chronology of development that Arabia shared with Iran in the nineteenth and twentieth centuries make it a particularly important case to examine. 
 
-At the turn of the century and during the fi nal dismemberment of the Ottoman Empire after World War I, various tribal elites competed for infl uence in the Arabian Peninsula, where power was distributed regionally rather than centralized. The Nejdi faction, which had been in control of Riyadh since 1902, eventually won out and formed a pact with their biggest rivals, the urban Hijazi faction, who were prominent in the Holy Cities 
+At the turn of the century and during the fi nal dismemberment of the Ottoman Empire after World War I, various tribal elites competed for infl uence in the Arabian Peninsula, where power was distributed regionally rather than centralized. The Nejdi faction, which had been in control of Riyadh since 1902, eventually won out and formed a pact with their biggest rivals, the urban Hijazi faction, who were prominent in the Holy Cities
+
+<!-- page 150 -->
 
 112 | _Experiences with Iranian Nationalism_ 
 
@@ -1329,7 +1632,9 @@ of Mecca and Medina. Throughout this period, roads and transportation remained i
 
 The Saudi regime faced monumental extractive and administrative tasks following military unifi cation.[69] In the absence of their own fi scal-administrative apparatus, the Saudis used the guilds of the Hijaz, which were highly organized and powerful after centuries of economic infl uence, as they created a national market and bureaucracy.[70] Rather than being displaced from traditional economic activities and subject to restrictive laws, the highly organized craft, service, and trade guilds continued to act as the units of fi scal administration and extraction, in essence becoming “labor savers”[71] to the Saudi regime as it developed its national economic infrastructure. Although the agricultural populations of Asir, Nejd, and Hassa were subject to the government’s direct extractive and coercive eff orts, the urban population of the Hijaz for the most part retained economic and legal independence throughout this period. In addition, the transport and other guilds continued to administer justice within their own ranks and provided an informal insurance system between importers and retailers, which linked retailers and importers in ports and cities.[72] This structure persisted in Saudi Arabia throughout the 1930s until the new bureaucracy was slowly able to take over the guilds’ fi scal-administrative responsibilities in the 1940s.[73] 
 
-Structural shifts in the Arabian economy were also responsible for the eventual weakening of the Hijazi guilds. The creation of a national market eliminated the restrictive market-sharing agreements that had formerly sheltered the guilds, and the introduction of new technologies created 
+Structural shifts in the Arabian economy were also responsible for the eventual weakening of the Hijazi guilds. The creation of a national market eliminated the restrictive market-sharing agreements that had formerly sheltered the guilds, and the introduction of new technologies created
+
+<!-- page 151 -->
 
 _Hagob Hagobian_ | 113 
 
@@ -1337,7 +1642,9 @@ disputes that increasingly necessitated governmental mediation and, thus, contro
 
 The history of national economic development in Saudi Arabia demonstrates a progressive transition to a national market through a process of gradual and inclusive reform implementation, without shock and dislocation caused by the immediate dissolution of corporate groups. The experience of the Arabian guilds as well as the variant treatment of the Egyptian, Ottoman, and Syrian guilds outlined earlier provide relevant cases to compare with the Iranian guilds’ experiences during Reza Shah’s reign[76 ] and enable an assessment of the complex relationship between the guilds and the emerging truck transportation industry in the period 1925–41. 
 
-30. Heavily laden trucks and buses at a former caravansary, Shahrud, 1937. Axel Von Graefe, _Iran Das Neue Persien_ (Berlin: Atlantis-Verlag, 1937), 96. Courtesy of the Von Graefe family. 
+30. Heavily laden trucks and buses at a former caravansary, Shahrud, 1937. Axel Von Graefe, _Iran Das Neue Persien_ (Berlin: Atlantis-Verlag, 1937), 96. Courtesy of the Von Graefe family.
+
+<!-- page 152 -->
 
 114 | _Experiences with Iranian Nationalism_ 
 
@@ -1345,7 +1652,9 @@ The history of national economic development in Saudi Arabia demonstrates a prog
 
 When Reza Khan deposed Ahmad Shah—the last of the Qajars—and assumed full control of the government in 1925, he moved swiftly to implement his economic reform agenda. Over the next fi fteen years, his regime engaged in a textbook “big push” economic reform and industrialization eff ort to make up for Iran’s lack of development.[77] Industry accounted for less than 10 percent of Iran’s gross domestic product at the turn of the nineteenth century, and this statistic did not change over the next quarterdecade. It was hoped that a fi rm government hand in economic aff airs and the promotion of import substitution would invigorate the economy by allowing industry to develop in a sheltered economic environment. Interested in creating national self-suffi  ciency based on a diversifi ed industrial economy, Reza Shah used the puppet Majlis to initiate a national economic reform eff ort based on import substitution.[78] Peasants, guilds (especially the artisans and small traders of the bazaar), and the new industrial labor force were to pay the high price of Iran’s late industrialization.[79] 
 
-The Fifth Majlis of 1925 met without even symbolic representation from the guilds or _pishivaran_ . When in December 1926 the Sixth Majlis passed the Law on the Abolition of the Guild Taxes, which eliminated the taxes on 230 specifi ed guilds and abolished forty-six other taxes related to bazaar artisans and traders,[80] the Iranian craft guilds were relieved of all fi scal-administrative duties. Reza Shah’s goal was to establish a government-run bureaucracy that could levy taxes on individuals; therefore, eliminating the guilds as the corporate agents of tax collection was one of the necessary steps in doing so. The new autocrat’s rush to impose governmental control on the economy caused him to rid the guilds of their fi scal-administrative tasks almost immediately rather than attempting to use them in a transitional role as the Egyptians, Ottomans, and Saudis had. The Egyptian, Ottoman, and Saudi cases suggest that this process could be completed only after the development of a functioning government bureaucracy for taxation and that there was a sequence necessary for completion. Reza Shah did not follow the same sequence because in 1926 the Iranian government had not yet developed a bureaucracy for taxation. 
+The Fifth Majlis of 1925 met without even symbolic representation from the guilds or _pishivaran_ . When in December 1926 the Sixth Majlis passed the Law on the Abolition of the Guild Taxes, which eliminated the taxes on 230 specifi ed guilds and abolished forty-six other taxes related to bazaar artisans and traders,[80] the Iranian craft guilds were relieved of all fi scal-administrative duties. Reza Shah’s goal was to establish a government-run bureaucracy that could levy taxes on individuals; therefore, eliminating the guilds as the corporate agents of tax collection was one of the necessary steps in doing so. The new autocrat’s rush to impose governmental control on the economy caused him to rid the guilds of their fi scal-administrative tasks almost immediately rather than attempting to use them in a transitional role as the Egyptians, Ottomans, and Saudis had. The Egyptian, Ottoman, and Saudi cases suggest that this process could be completed only after the development of a functioning government bureaucracy for taxation and that there was a sequence necessary for completion. Reza Shah did not follow the same sequence because in 1926 the Iranian government had not yet developed a bureaucracy for taxation.
+
+<!-- page 153 -->
 
 _Hagob Hagobian_ | 115 
 
@@ -1353,7 +1662,9 @@ The eff ort to immediately remove the guilds from their position as fi scal admi
 
 The continued existence and popularity of the guilds during this period of industrial expansion form one factor that distinguishes the Iranian case from the others analyzed and raises another question. If Reza Shah wanted to eliminate the guilds and replace them with modern industrial production and organization, why did he allow them to exist at all? Willem Floor’s work in _Labour Unions, Law, and Conditions in Iran, 1900–1941_ and articles on guilds provides data that can be interpreted to provide a few possible reasons. 
 
-Aside from the unnatural developmental atmosphere created by import substitution, problems with industrialization in Iran during this period also related to the abuse and disenchantment of the industrial labor force. Mistreatment by industrial management and the wide-scale employment of women and children in the new factories led to resentment by many Iranian workers, who were used to the paternalistic family and ethnic organization of the traditional guild system.[81] Industrial management was seen as lacking the moral responsibility demonstrated by guild _ustad_ s and _naqib_ s. A British observer of Iranian economic development in 1935 wrote, “For an additional rial or two per day the factory worker has lost the personal association with his employer. There is not, as yet, adequate provision for injury or for unemployment to replace the moral responsibility of the old-type employer.”[82] This situation produced essentially two reactions among malcontent Iranian urban workers: a return to the weakened but functioning craft guilds and brief involvement in socialist trade unions. 
+Aside from the unnatural developmental atmosphere created by import substitution, problems with industrialization in Iran during this period also related to the abuse and disenchantment of the industrial labor force. Mistreatment by industrial management and the wide-scale employment of women and children in the new factories led to resentment by many Iranian workers, who were used to the paternalistic family and ethnic organization of the traditional guild system.[81] Industrial management was seen as lacking the moral responsibility demonstrated by guild _ustad_ s and _naqib_ s. A British observer of Iranian economic development in 1935 wrote, “For an additional rial or two per day the factory worker has lost the personal association with his employer. There is not, as yet, adequate provision for injury or for unemployment to replace the moral responsibility of the old-type employer.”[82] This situation produced essentially two reactions among malcontent Iranian urban workers: a return to the weakened but functioning craft guilds and brief involvement in socialist trade unions.
+
+<!-- page 154 -->
 
 116 | _Experiences with Iranian Nationalism_ 
 
@@ -1361,7 +1672,9 @@ Although the Soviet-infl uenced trade unions, which emerged concurrently with th
 
 As opposed to the trade unions, which, combined with the availability of Marxist ideology and aggressive Soviet activity in the Caucasus and Central Asia, were a constant worry to two generations of Pahlavi dictators, the traditional craft guilds were not seen as a direct physical threat. Even though the selection of various positions of authority within the guild was electoral or hereditary, Floor contends that Iranian guilds (and other guilds of the world) were created from the top down; government sponsorship of corporate bodies of craftsmen for productive, administrative, and fi scal purposes had brought guilds into being. Government elites had relied on qualifi ed nonelites to perform various duties for centuries, including important fi scal-administrative functions. Governments had benefi ted from the expertise and production of each corporate group and saved resources by treating them legally as one entity.[86] 
 
-Despite origins that were generated by and served the interests of the government, the Iranian guilds were not characterized by strict hierarchy or class confl ict within their ranks. On the contrary, their political activities in the nineteenth and early twentieth centuries seem to demonstrate solidarity between their various strata against the government. The eff ective protests of the 1905–11 Constitutional Revolution were led and constituted predominantly by guild members and included joint 
+Despite origins that were generated by and served the interests of the government, the Iranian guilds were not characterized by strict hierarchy or class confl ict within their ranks. On the contrary, their political activities in the nineteenth and early twentieth centuries seem to demonstrate solidarity between their various strata against the government. The eff ective protests of the 1905–11 Constitutional Revolution were led and constituted predominantly by guild members and included joint
+
+<!-- page 155 -->
 
 _Hagob Hagobian_ | 117 
 
@@ -1369,7 +1682,9 @@ demonstrations by apprentices, journeymen, and masters.[87] Social bonds forged 
 
 In 1925, after the annihilation of the trade union movement, the Pahlavi regime attempted to further bury the option of union organization by verbally demonstrating support for the guilds and inducing workers to join them.[89] Thus, although the guilds were not used as transitional fi scal administrators, it seems as though they were viewed as “labor savers” to the government in another capacity. The guilds’ effi  cient and welldeveloped organizational abilities gave some security, insurance, and morale to Iranian workers, saved the Pahlavi regime the eff ort required to provide state-organized and controlled industrial employment, and helped eliminate the troubles (real or imagined) that Soviet-infl uenced socialist trade unions would cause. 
 
-It appears that the 1926 Law on the Abolition of the Guild Taxes was the only direct step the Pahlavi regime took to weaken Iranian craft guild organization, which otherwise remained intact. The previous analysis might explain why Reza Shah did not disband the guilds immediately by employing the same strong-arm strategies he so successfully used on the leaders of the CPI and the trade unions. Guild meetings were monitored by government police for the duration of Reza Shah’s reign,[90] but there is no evidence of a crackdown even remotely comparable to the one he exacted on trade unions. Although it is not clear how taxes were collected between 1926 and 1931, it is known that the Pahlavi regime had not yet developed a bureaucracy that could levy taxes on individuals, and there 
+It appears that the 1926 Law on the Abolition of the Guild Taxes was the only direct step the Pahlavi regime took to weaken Iranian craft guild organization, which otherwise remained intact. The previous analysis might explain why Reza Shah did not disband the guilds immediately by employing the same strong-arm strategies he so successfully used on the leaders of the CPI and the trade unions. Guild meetings were monitored by government police for the duration of Reza Shah’s reign,[90] but there is no evidence of a crackdown even remotely comparable to the one he exacted on trade unions. Although it is not clear how taxes were collected between 1926 and 1931, it is known that the Pahlavi regime had not yet developed a bureaucracy that could levy taxes on individuals, and there
+
+<!-- page 156 -->
 
 118 | _Experiences with Iranian Nationalism_ 
 
@@ -1379,7 +1694,9 @@ When the Majlis met in 1931, a new tax law was passed alongside the Foreign Trad
 
 It was 1926 when Hagob Hagobian entered the guild of Armenian and Assyrian truck drivers and became a _shagaird-e shufer_ , apprentice driver. Hagob’s involvement with the truck drivers’ guild during the 1920s and 1930s demonstrates the persistence of all traditional guild functions, excluding the fi scal-administrative ones. Despite legal restrictions, the persistence of guild credit networks in the next decade is demonstrated by the fact that in 1933, after completion of a traditional apprenticeship, Hagob Hagobian was able to acquire his own truck through the assistance of his former _ustad_ rather than being assigned one by the central government. 
 
-Although it was the guild structure that initially facilitated Hagobian’s entry into the profession and made trucking at all safe and profi t- able, trucking ironically did as much to damage the guilds as the legal decrees by Reza Shah and his Majlis. The advent of motorized trucks caused a revolution in Iranian transportation, the main indicators of this upheaval being the cost of moving goods to and from the Persian Gulf and Tehran. In 1920, it took two months and cost $200 a ton to move goods from the Persian Gulf to Tehran. A decade later, the same trip took a little more than a week and cost only $50 a ton.[95] The number of vehicles 
+Although it was the guild structure that initially facilitated Hagobian’s entry into the profession and made trucking at all safe and profi t- able, trucking ironically did as much to damage the guilds as the legal decrees by Reza Shah and his Majlis. The advent of motorized trucks caused a revolution in Iranian transportation, the main indicators of this upheaval being the cost of moving goods to and from the Persian Gulf and Tehran. In 1920, it took two months and cost $200 a ton to move goods from the Persian Gulf to Tehran. A decade later, the same trip took a little more than a week and cost only $50 a ton.[95] The number of vehicles
+
+<!-- page 157 -->
 
 _Hagob Hagobian_ | 119 
 
@@ -1387,7 +1704,9 @@ rose from the roughly 3,000 that Millspaugh calculated in 1925[96] to almost 20,
 
 The impact of Reza Shah’s total reform package rendered the decade between 1931 and 1941 arguably the worst in the fi ve-century history of the Iranian guilds. Although they were able to maintain cohesion and importance after their fi scal-administrative duties were taken away, the new economic policies substantially challenged them. The policy of 
 
-31. Sadi Street, Shiraz, c. 1947. Photo by Mirza Hassan Akkasbashi. From Mansour Sane, comp., _Remembering Shiraz (Be Yad-e Shiraz)_ (Tehran, 2009); not copyrighted in the United States per US Copyright Offi  ce Circular 38a, see 17 U.S.C. § 104(b). 
+31. Sadi Street, Shiraz, c. 1947. Photo by Mirza Hassan Akkasbashi. From Mansour Sane, comp., _Remembering Shiraz (Be Yad-e Shiraz)_ (Tehran, 2009); not copyrighted in the United States per US Copyright Offi  ce Circular 38a, see 17 U.S.C. § 104(b).
+
+<!-- page 158 -->
 
 120 | _Experiences with Iranian Nationalism_ 
 
@@ -1399,7 +1718,9 @@ The damage done to the guilds by the transportation revolution cannot really be 
 
 ## **Conclusion** 
 
-A turning point in Iranian history occurred in 1941, bringing an end to the phase of industrial, economic, and legal change initiated by Reza Shah. Reza Shah’s exile by the occupying Allies in 1941 and the lack of 
+A turning point in Iranian history occurred in 1941, bringing an end to the phase of industrial, economic, and legal change initiated by Reza Shah. Reza Shah’s exile by the occupying Allies in 1941 and the lack of
+
+<!-- page 159 -->
 
 _Hagob Hagobian_ | 121 
 
@@ -1407,11 +1728,15 @@ a strong central government caused the temporary unraveling of many of his regim
 
 At a time when multiple systems of support were becoming effi  cient and trucking had become profi table, the Allied occupation during World War II created troubles for Hagob Hagobian and some members of the Iranian truck-driving industry.[101] As the transportation needs of the occupying force took precedence over private ownership and private transportation, many large vehicles were impounded for war use. At the onset of the Allied occupation of Iran in 1941, Hagob’s truck was being loaded by his assistant in Tabriz while Hagob was visiting his family in Tehran. Aware that trucks were being commandeered by Russian troops, some drivers and their assistants removed the tires and other crucial operating parts in time to avoid their loss. In Hagob’s absence, however, his truck and its car were confi scated. His repeated appeals to the Soviet embassy in Tehran were futile, and he thus lost his only means of livelihood; he never received compensation.[102] 
 
-Further complicating his existing problems, Hagob became ill with malaria in 1942. By mortgaging the family’s Persian carpets to the state bank, a common practice in Iran, and with support from his relatives in Kermanshah, his family, which grew in 1943 to include a daughter, survived unexpectedly trying times. Hagob returned to his trucking activities in 1945 with the help of a loan from relatives that enabled him to purchase a dump truck. For the next several years, Hagob transported construction materials to job sites in and around the growing city of Tehran in partnership with fellow guild members. By the early 1950s, he had purchased a ten-wheel truck and again began more profi table long-distance hauling to the Persian Gulf. This journey was becoming quicker and safer with the continued construction of modern roadways. 
+Further complicating his existing problems, Hagob became ill with malaria in 1942. By mortgaging the family’s Persian carpets to the state bank, a common practice in Iran, and with support from his relatives in Kermanshah, his family, which grew in 1943 to include a daughter, survived unexpectedly trying times. Hagob returned to his trucking activities in 1945 with the help of a loan from relatives that enabled him to purchase a dump truck. For the next several years, Hagob transported construction materials to job sites in and around the growing city of Tehran in partnership with fellow guild members. By the early 1950s, he had purchased a ten-wheel truck and again began more profi table long-distance hauling to the Persian Gulf. This journey was becoming quicker and safer with the continued construction of modern roadways.
+
+<!-- page 160 -->
 
 122 | _Experiences with Iranian Nationalism_ 
 
-Again earning a stable income, Hagob repaid his debts and over the next few years began planning and saving for his son’s higher education. He took advantage of a program off ered by the Iranian government that paid half of the educational expenses for students who passed a qualifying examination and received an acceptance from an accredited university abroad. In 1956, Hagob sent his son to the United States to earn a university degree. In 1964, while still engaged in long-distance hauling from the Persian Gulf to Tehran, Hagob sent his daughter, accompanied by her mother, to the United States to begin her university education. A serious trucking accident near Kermanshah in 1966 necessitated his wife’s return from abroad to care for him and forced his retirement. During the next decade, Hagob Hagobian and his wife were visited frequently by their adult children, who had established careers in the United States, but the continual separations were insuff erable for a couple who had spent their youth as orphans. In 1975, Hagob and Arshalous Hagobian moved to the United States to be with their children’s families and resettled in a California community in which Armenians in the diaspora had again established their churches, schools, and cultural centers. 
+Again earning a stable income, Hagob repaid his debts and over the next few years began planning and saving for his son’s higher education. He took advantage of a program off ered by the Iranian government that paid half of the educational expenses for students who passed a qualifying examination and received an acceptance from an accredited university abroad. In 1956, Hagob sent his son to the United States to earn a university degree. In 1964, while still engaged in long-distance hauling from the Persian Gulf to Tehran, Hagob sent his daughter, accompanied by her mother, to the United States to begin her university education. A serious trucking accident near Kermanshah in 1966 necessitated his wife’s return from abroad to care for him and forced his retirement. During the next decade, Hagob Hagobian and his wife were visited frequently by their adult children, who had established careers in the United States, but the continual separations were insuff erable for a couple who had spent their youth as orphans. In 1975, Hagob and Arshalous Hagobian moved to the United States to be with their children’s families and resettled in a California community in which Armenians in the diaspora had again established their churches, schools, and cultural centers.
+
+<!-- page 161 -->
 
 ## 4 
 
@@ -1421,7 +1746,9 @@ a t  a ge f if t een  in  1937, Sevak Saginian made the unfortunate observation 
 
 One day after encountering yet another after-school brawl, Sevak made the observation that the reason the Persian kids seemed to always get the better of their Armenian or Assyrian classmates was that most of the Persians possessed at least rudimentary wrestling skills. The fi ght would begin evenly, then, inevitably, the Persian contender would drag the Christian down, incapacitate him, and then proceed to issue standard wrestling torment.[2] Sevak reasoned that the key to winning, or at least to fending off  such an encounter, was to stop it before it got to the wrestling portion of the match. So he took up boxing, and his brother, Artashes, 
 
-123 
+123
+
+<!-- page 162 -->
 
 124 | _Experiences with Iranian Nationalism_ 
 
@@ -1431,7 +1758,9 @@ Sevak’s boxing exploits in school eventually led to his development of a small
 
 As well as in athletics, Sevak Saginian excelled in academics. Although his schoolwork and social life were disrupted in eleventh grade after Reza Shah’s language curriculum decree was extended to American and European schools, and Sevak had to transfer to a public high school from the private Alborz American College, his grades held fast. With his high exam scores when he was a senior, Sevak Saginian won the award for top valedictorian in the nation. His combined athletic and academic abilities as well as his excellence in Persian brought him to the notice of members of 
 
-32. Sevak Saginian at the Danashkadeh-ye Afsari, military-technical college, 1946. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
+32. Sevak Saginian at the Danashkadeh-ye Afsari, military-technical college, 1946. Unknown photographer. Courtesy of Sevak and Nella Saginian.
+
+<!-- page 163 -->
 
 _Sevak Saginian_ | 125 
 
@@ -1441,7 +1770,9 @@ Sevak spent 1941–44 working as an interpreter, writing occasional news stories
 
 ## **The Saginians in Qajar Iran** 
 
-Part of a splinter group of Armenians who escaped south during RussoPersian war of 1804–13, Sevak Saginian’s great-great-grandfather David Saginian and his younger brother, Zal, immigrated to Tabriz with their family in 1811.[5] Having studied Russian military sciences at an academy in Tiblisi as teens, both David and Zal joined the military of Fath Ali Shah Qajar (r. 1797–1834) and quickly distinguished themselves owing to their advanced knowledge of fi eld tactics. Following the disastrous war with the Russians in 1826, “David Khan” was put in command of a regiment created to subdue recalcitrant nomadic tribes throughout Qajar Azerbaijan, especially in the region of Orumieh.[6] Because of David Khan’s success in suppressing tribal revolts in the country’s northwestern region, the heir to the Qajar throne, Crown Prince Abbas Mirza—known widely for his pro-Christian policies and connections within the Christian community in Tabriz—promoted him to the position of _sartip_ (brigadier general).[7] David Khan Saginian was then sent south with a regiment of Nezam-e Jedid (New Order) artillery troops to put down tribal rebellions around Isfahan, Shiraz, and Bushire.[8] Again successful in carrying out his orders, Sartip David Khan was awarded two additional titles by Fath Ali Shah: _farmandeh_ (supreme military commander) of the provinces of Shiraz and Isfahan and _sarperast-e Aramane_ (guardian of the Armenians). Thereafter, 
+Part of a splinter group of Armenians who escaped south during RussoPersian war of 1804–13, Sevak Saginian’s great-great-grandfather David Saginian and his younger brother, Zal, immigrated to Tabriz with their family in 1811.[5] Having studied Russian military sciences at an academy in Tiblisi as teens, both David and Zal joined the military of Fath Ali Shah Qajar (r. 1797–1834) and quickly distinguished themselves owing to their advanced knowledge of fi eld tactics. Following the disastrous war with the Russians in 1826, “David Khan” was put in command of a regiment created to subdue recalcitrant nomadic tribes throughout Qajar Azerbaijan, especially in the region of Orumieh.[6] Because of David Khan’s success in suppressing tribal revolts in the country’s northwestern region, the heir to the Qajar throne, Crown Prince Abbas Mirza—known widely for his pro-Christian policies and connections within the Christian community in Tabriz—promoted him to the position of _sartip_ (brigadier general).[7] David Khan Saginian was then sent south with a regiment of Nezam-e Jedid (New Order) artillery troops to put down tribal rebellions around Isfahan, Shiraz, and Bushire.[8] Again successful in carrying out his orders, Sartip David Khan was awarded two additional titles by Fath Ali Shah: _farmandeh_ (supreme military commander) of the provinces of Shiraz and Isfahan and _sarperast-e Aramane_ (guardian of the Armenians). Thereafter,
+
+<!-- page 164 -->
 
 126 | _Experiences with Iranian Nationalism_ 
 
@@ -1451,7 +1782,9 @@ With the deaths of Crown Prince Abbas Mirza in 1833 and his father, Fath Ali Sha
 
 ## **Zohrab Saginian and the Iranian Majles** 
 
-Solayman Khan’s oldest son, Zohrab Saginian, was born in Tabriz in 1883. Unlike his male ancestors, Zohrab was not fond of the idea of military service, and as a teen he sought instead to distinguish himself in academics. Solayman Khan supported his son’s academic pursuits and funded Zohrab’s study of political science in Geneva, Switzerland.[12] Returning to Iran in early 1910 as a budding political activist, Zohrab took up residence in Tehran and quickly fell in with members of the Armenian Revolutionary Federation—known widely as the Dashnaksutiun (Dashnak) Party—who were active participants in the Constitutional Revolution. A prolifi c writer of poems, editorials, and news stories, Zohrab became a frequent contributor to the Dashnak newspaper _Aravot_ (Morning), dedicated primarily 
+Solayman Khan’s oldest son, Zohrab Saginian, was born in Tabriz in 1883. Unlike his male ancestors, Zohrab was not fond of the idea of military service, and as a teen he sought instead to distinguish himself in academics. Solayman Khan supported his son’s academic pursuits and funded Zohrab’s study of political science in Geneva, Switzerland.[12] Returning to Iran in early 1910 as a budding political activist, Zohrab took up residence in Tehran and quickly fell in with members of the Armenian Revolutionary Federation—known widely as the Dashnaksutiun (Dashnak) Party—who were active participants in the Constitutional Revolution. A prolifi c writer of poems, editorials, and news stories, Zohrab became a frequent contributor to the Dashnak newspaper _Aravot_ (Morning), dedicated primarily
+
+<!-- page 165 -->
 
 _Sevak Saginian_ | 127 
 
@@ -1459,7 +1792,9 @@ to Dashnak perspectives on contemporary politics. His editorial articles in _Ara
 
 Dashnaks had been active in Iran since the 1890s with cells and small military training centers in cities with substantial Armenian populations such as Tabriz, Salmas, and Khoy.[14] Although the organization’s activities were initially focused solely on the issue of Armenian liberation and the protection of Armenian populations from Kurdish and Turkish aggression, it became directly involved in the Iranian constitutional movement after the Fourth General Congress of 1907 in Vienna, where the party’s loose socialist ideals and goal of Armenian liberation were deemed compatible with the Iranian movement’s progressive, antiautocratic aims.[15] The Dashnaksutiun had developed a particular antipathy for czarist Russia, which had closed Armenian schools and confi scated Armenian 
 
-33. Zohrab Saginian, Dashnaksutiun _fedayi_ , Tehran, 1910. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
+33. Zohrab Saginian, Dashnaksutiun _fedayi_ , Tehran, 1910. Unknown photographer. Courtesy of Sevak and Nella Saginian.
+
+<!-- page 166 -->
 
 128 | _Experiences with Iranian Nationalism_ 
 
@@ -1467,7 +1802,9 @@ church properties in an attempt to homogenize the Christian populations of the C
 
 Becoming better connected in the Dashnak hierarchy in Tehran and known for his linguistic skills in Armenian, Persian, French, and Russian, Zohrab acquired a combined position as secretary, interpreter, and “public-relations” mediator for _fedayi_ (literally “devotee,” referring to the Nationalist forces) leader Yeprem Khan (Yeprem Davidian, 1868–1912), who spoke little Persian. Yeprem Khan was a Dashnak activist and fi ghter who became a leader in the military struggle for Tabriz, Gilan, and Tehran during the Constitutional Revolution and was selected by the Majles to serve as chief of police of Tehran in 1910.[18] Zohrab Khan was present in September 1911 when Yeprem Khan’s forces defeated those of Muhammad Ali Shah Qajar and again in the battle of May 5, 1912, against Muhammad Ali Shah’s brother Salar al-Dowleh, in which Yeprem Khan was killed.[19] With the death of Yeprem Khan and the withdrawal of the Dashnaks from Iranian politics in late 1912, Zohrab returned to Tabriz. Here, his family connections and his diverse language skills paid off  again as he fi rst began working for the PTT, which soon led to his acquiring a job as translator in the Iranian administration in Azerbaijan under Mokhber al-Saltaneh. In this job, Zohrab’s experience stands in dramatic contrast to many of the immigrant Armenian and Azeri Transcaucasian mujahedin who fought under Yeprem Khan and were left without support upon his death in 1912. Lacking knowledge of Persian, yet unable to return to their homes owing to fear of the Ottoman or Russian governments, some turned to a life of begging or crime.[20] In contrast, Zohrab obtained steady employment and remained loosely connected with the government. 
 
-In 1915, Zohrab Saginian was married to Sandokht Badmagurian, daughter of the Qajar military commander Ardashir Khan Badmagurian. The following year the couple moved from Tabriz to Tehran so that Zohrab could attend the Daneshkadeh-ye Hoquq (College of Law)—an 
+In 1915, Zohrab Saginian was married to Sandokht Badmagurian, daughter of the Qajar military commander Ardashir Khan Badmagurian. The following year the couple moved from Tabriz to Tehran so that Zohrab could attend the Daneshkadeh-ye Hoquq (College of Law)—an
+
+<!-- page 167 -->
 
 _Sevak Saginian_ | 129 
 
@@ -1475,7 +1812,9 @@ _Sevak Saginian_ | 129
 
 extension of the Dar al-Fonun (military/technical school)—to obtain an advanced degree in law. It was also in 1916 that Zohrab’s brother, Alex Saginian, opened up the fi rst movie house in Iran. Located in a hall of the French Mission in Tabriz, it was named “Cinema Soleil” and showed primarily Russian and European fi lms.[21] While studying at the Daneshkadeh-ye Hoquq in 1917 and 1918, Zohrab again became involved in the Tehran branch of the Dashnak Party and in closely following the politics of the Iranian Majles, which had been disbanded in 1915 and was now being slowly reconstituted through a fresh election process.[22] 
 
-It could be said that in May 1918 Zohrab Saginian reached a crossroad in his life, for on that day the Dashnak-dominated Armenian National Council proclaimed an independent Armenian republic in the Caucasus.[23] Dashnak activists from Iran were leaving for the new republic to assist in its administration and defense, and Zohrab—with his linguistic skills and advanced education in political science and law, as well as his record of service with Yeprem Khan during the Constitutional Revolution—would 
+It could be said that in May 1918 Zohrab Saginian reached a crossroad in his life, for on that day the Dashnak-dominated Armenian National Council proclaimed an independent Armenian republic in the Caucasus.[23] Dashnak activists from Iran were leaving for the new republic to assist in its administration and defense, and Zohrab—with his linguistic skills and advanced education in political science and law, as well as his record of service with Yeprem Khan during the Constitutional Revolution—would
+
+<!-- page 168 -->
 
 130 | _Experiences with Iranian Nationalism_ 
 
@@ -1483,7 +1822,9 @@ have been a prime candidate to enter the Dashnak-run republican government. Yet,
 
 After the failure of the Dashnaksutiun-led Republic of Armenia and the establishment of the Armenian SSR on April 21, 1921, many Armenian Iranian Dashnaks who had moved to Armenia as well as Dashnaks from Russia and the Caucasus were forced to fl ee to Iran to avoid arrest and execution by Soviet secret police. The refugees from Yerevan were generally welcome in Iran, especially after a contingent cooperated with Iranian troops under General Amanallah Jehanbani in the suppression of a Kurdish insurgency.[25] With this dramatic turn of events, the ranks of the Tehran cells of the Dashnak Party reformed rapidly, and the Soviet Union edged out Turkey as enemy number one of the Dashnaks. The eff ect of these events on Zohrab was to solidify his interest in reforming the Iranian government and working to improve life in Iranian Azerbaijan after a decade of war and revolution had shattered its communities and economy. 
 
-During the 1920s, the Dashnak and Hnchak Armenian revolutionary organizations competed with each other and a variety of political parties and unions to gain the sympathies and support of Iran’s roughly 150,000 Armenians, whose participation spanned the political spectrum. Armenians were prominent in the Tabriz Social-Democratic Group and the Tabriz-based social democratic party Ferqeh-i Edalat (Justice Party). The Justice Party was sympathetic to the Bolshevik movement, attempted to organize the Iranian laborers in the oil fi elds of Baku, and sent delegates to the Bolshevik Congress as well as to its own Caucasus-wide congress in 1920.[26] Armenians were also members of the Rasht militia that supported 
+During the 1920s, the Dashnak and Hnchak Armenian revolutionary organizations competed with each other and a variety of political parties and unions to gain the sympathies and support of Iran’s roughly 150,000 Armenians, whose participation spanned the political spectrum. Armenians were prominent in the Tabriz Social-Democratic Group and the Tabriz-based social democratic party Ferqeh-i Edalat (Justice Party). The Justice Party was sympathetic to the Bolshevik movement, attempted to organize the Iranian laborers in the oil fi elds of Baku, and sent delegates to the Bolshevik Congress as well as to its own Caucasus-wide congress in 1920.[26] Armenians were also members of the Rasht militia that supported
+
+<!-- page 169 -->
 
 _Sevak Saginian_ | 131 
 
@@ -1491,7 +1832,9 @@ the 1915–21 Jangali Rebellion led by Kuchek Khan, and hundreds fought for the 
 
 In the 1920s and 1930s, Armenians were used to form and support networks of Soviet secret police in Iran, also known as the Cheka. Because the Dashnaks advocated armed opposition to Soviet rule and were considered by Moscow to be Menshevik subversives, the primary responsibilities of the Soviet secret police in Iran were surveillance of Dashnaks and eff orts to thwart their organization and membership while working covertly to promote communism and the Soviet Union.[30] Armenian agents posing as Dashnak defectors from the Armenian SSR as well as sympathetic local Armenian Iranians were ideal for the purposes of infi ltration and spying. As a result, Cheka agents and spies in Iran were overwhelmingly of Armenian descent.[31] 
 
-Within this politically charged milieu, Zohrab Saginian decided to seek candidacy for the Iranian Majles. The elections for the Fifth Majles were genuine: independent candidates such as Zohrab campaigned in major cities and drew on their bases of support to acquire votes (money, family connections, or, in Zohrab’s case, a combination of family connections and Dashnak support) rather than being hand-picked by the ruling regime.[32] After campaigning throughout Iranian Azerbaijan and Gilan in 1923, a region where his family had been involved in the military and culture for a century, Zohrab was elected in 1924 to the Fifth Majles as representative for the Christians of northern Iran and Iranian Azerbaijan. At the time of the Fifth Majles, 4 of the 130 total seats were designated for religious minorities. Christians received two representatives, one based in Tehran to cover the northern portion of the country and one based 
+Within this politically charged milieu, Zohrab Saginian decided to seek candidacy for the Iranian Majles. The elections for the Fifth Majles were genuine: independent candidates such as Zohrab campaigned in major cities and drew on their bases of support to acquire votes (money, family connections, or, in Zohrab’s case, a combination of family connections and Dashnak support) rather than being hand-picked by the ruling regime.[32] After campaigning throughout Iranian Azerbaijan and Gilan in 1923, a region where his family had been involved in the military and culture for a century, Zohrab was elected in 1924 to the Fifth Majles as representative for the Christians of northern Iran and Iranian Azerbaijan. At the time of the Fifth Majles, 4 of the 130 total seats were designated for religious minorities. Christians received two representatives, one based in Tehran to cover the northern portion of the country and one based
+
+<!-- page 170 -->
 
 132 | _Experiences with Iranian Nationalism_ 
 
@@ -1499,7 +1842,9 @@ in Isfahan to cover the south. Because the Armenian population of Iran exceeded 
 
 In 1924–25, Zohrab was a supporter of Reza Khan, whom he saw as a reform-minded, secular republican leader. In the only period of his twentyyear tenure as Majles member when he was free to vote his conscience, Zohrab voted in 1925 for Reza Khan’s appointment as prime minister, for Reza Khan’s universal military conscription bill, and for Reza Khan’s bill requiring family names and abolishing honorary titles.[33] However, Reza Shah quickly assumed dictatorial powers over every aspect of national governance, and the Majles was reduced to a rubber stamp. Between 1925 and 1941, which encompassed the Sixth through the Thirteenth Majles, all Majles members were either hand-picked or individually reconfi rmed by Reza Shah, and elections were thoroughly rigged.[34] Although Zohrab’s attitude soured as Reza Khan abandoned the idea of an Iranian Republic, crowned himself “Reza Shah Pahlavi,” and moved toward dictatorship and extreme Iranian nationalism, his support for the shah in the Fifth Majles would ensure him a long career as Majles member and relatively good relations with the monarchy. 
 
-Despite the fact that Reza Shah quickly became a repressive dictator, the reforms initiated by the Pahlavi regime to promote national development, unity, and cohesion were not altogether unappealing to Zohrab Saginian. In fact, most of Reza Shah’s reforms were in line with Zohrab’s own secular, Western-oriented sensibilities, Iranian patriotism, and antiCommunist sentiment. As a secular-minded lawyer trained in French and Swiss law, Zohrab supported Reza Shah’s Western-oriented legal reforms and moves to limit the powers of the Iranian ulama. He was also supportive of Reza Shah’s policies concerning the status of women and the issue of _hejab_ (veiling). With the banning of the chador, Armenian women would blend with rather than stand out in a crowd. Armenian Iranian women had, furthermore, always played a more prominent role in public life than Persian Iranian women, and Zohrab was supportive of the 
+Despite the fact that Reza Shah quickly became a repressive dictator, the reforms initiated by the Pahlavi regime to promote national development, unity, and cohesion were not altogether unappealing to Zohrab Saginian. In fact, most of Reza Shah’s reforms were in line with Zohrab’s own secular, Western-oriented sensibilities, Iranian patriotism, and antiCommunist sentiment. As a secular-minded lawyer trained in French and Swiss law, Zohrab supported Reza Shah’s Western-oriented legal reforms and moves to limit the powers of the Iranian ulama. He was also supportive of Reza Shah’s policies concerning the status of women and the issue of _hejab_ (veiling). With the banning of the chador, Armenian women would blend with rather than stand out in a crowd. Armenian Iranian women had, furthermore, always played a more prominent role in public life than Persian Iranian women, and Zohrab was supportive of the
+
+<!-- page 171 -->
 
 _Sevak Saginian_ | 133 
 
@@ -1507,7 +1852,9 @@ elevation of all Iranian women’s status. Because Armenian Iranians did not ten
 
 Zohrab, a staunch modernizer, saw Reza Shah’s subjugation of Iran’s nomadic tribes as well as his agenda for nationwide industrial and infrastructural development as a necessity for Iran’s cohesion, security, and economic growth. He also saw a larger defense budget and universal military conscription as benefi cial both to Iran as well as to Armenian Iranians. A strong military would be able to defend Iran’s borders, in particular Iranian Azerbaijan, from attack by Turkey or the Soviet Union— two bordering countries that Zohrab despised. Moreover, Armenian Iranians such as his own Saginian ancestors David Khan, Goorgen Khan, and Solayman Khan as well as his relative through marriage, Iskandar Khan Setkhanian, had attained high ranks and leadership roles in both the Persian army and the Cossack Brigade, and there was no reason in the late 1920s and early 1930s to think Armenian Iranians would not continue to excel in the Iranian military.[35] 
 
-Also a staunch Iranian nationalist, Zohrab was supportive of Reza Shah’s eff orts to combat foreign infl uence, in particular his attempt, albeit unsuccessful, to end the unfavorable Anglo-Iranian oil concession in 1932.[36] Reza Shah’s policy concerning Communists was also supported by Zohrab, who as a Dashnak loathed communism and the Soviet Union and was happy to see CCFTU and CPI members driven underground or arrested.[37] Although many urban and rural Armenians were organizers and members of these organizations, Armenian Iranian Communists, in Zohrab’s view, undermined not only Iran’s national integrity, but perhaps more signifi cantly the eff ort to discredit the Soviet Union and the work for the liberation of Armenia from antireligious Communist imperialism.[38] From the viewpoint of Armenian Iranian Dashnaks, the arrest and persecution of Communist activists and spies were thus benefi cial for Iran and Armenia.[39] Zohrab was a strong proponent of increasing literacy and access to education, so he initially perceived Reza Shah’s 
+Also a staunch Iranian nationalist, Zohrab was supportive of Reza Shah’s eff orts to combat foreign infl uence, in particular his attempt, albeit unsuccessful, to end the unfavorable Anglo-Iranian oil concession in 1932.[36] Reza Shah’s policy concerning Communists was also supported by Zohrab, who as a Dashnak loathed communism and the Soviet Union and was happy to see CCFTU and CPI members driven underground or arrested.[37] Although many urban and rural Armenians were organizers and members of these organizations, Armenian Iranian Communists, in Zohrab’s view, undermined not only Iran’s national integrity, but perhaps more signifi cantly the eff ort to discredit the Soviet Union and the work for the liberation of Armenia from antireligious Communist imperialism.[38] From the viewpoint of Armenian Iranian Dashnaks, the arrest and persecution of Communist activists and spies were thus benefi cial for Iran and Armenia.[39] Zohrab was a strong proponent of increasing literacy and access to education, so he initially perceived Reza Shah’s
+
+<!-- page 172 -->
 
 134 | _Experiences with Iranian Nationalism_ 
 
@@ -1515,7 +1862,9 @@ educational reforms, which drastically increased the budget for education and ex
 
 Throughout most of the 1930s, Majles members worked only three days a week, and their positions became ceremonial. Although Zohrab had been loyal to the regime and thus far had never publicly criticized Reza Shah, in 1931 he was put under full-time surveillance along with many of his fellow Majles members. Not altogether a negative experience, the surveillance was, however, a daily reminder of Reza Shah’s ubiquitous power and authority.[40] In this period, being a Majles member could be dangerous, and the minority deputies were not immune to the hazards of their public positions. The Jewish representative to the Majles, Samuel Haim, was accused of plotting against Reza Shah, tortured, and executed in 1931.[41] Saharoukh Keykhowsrow, the Zoroastrian deputy who had supported Reza Shah since 1921, was killed by Iranian police in 1940 after it was learned that his son had broadcast pro-Nazi speeches in Germany.[42] Knowing full well that his Dashnak activities could get him into trouble with the regime, Zohrab did his best to keep his ongoing participation and support of the organization at a low profi le. The covert battle between the Dashnaks and Armenian Chekists was heating up, and Zohrab did not want to serve as Reza Shah’s scapegoat should he become aware of its extent. 
 
-The confl ict between Iranian Dashnaks and Soviet Armenian agents became public knowledge in March 1931 with the execution of an Armenian named Garnik, who ran a coff ee shop in Tehran on Khiabane Istanbul apparently as a cover for his covert political activities. A newcomer to Tehran, Garnik had immediately joined the Dashnaks and earnestly attended several meetings before background checks revealed that Garnik’s brother was working for the Cheka in Baku, and it became obvious that the coff ee shop’s income was being heavily subsidized. After Garnik was found stabbed in the doorway to his home, there was a roundup of nearly fi fty Armenians despite a total lack of evidence that any were involved in Garnik’s murder or affi  liated with the Dashnaksutiun. After a few days had passed and no killer had been found, the police chief was fi red, presumably because of the failure to obtain solid evidence as well as the failure to detect Communist activity in the nation’s capital.[43] 
+The confl ict between Iranian Dashnaks and Soviet Armenian agents became public knowledge in March 1931 with the execution of an Armenian named Garnik, who ran a coff ee shop in Tehran on Khiabane Istanbul apparently as a cover for his covert political activities. A newcomer to Tehran, Garnik had immediately joined the Dashnaks and earnestly attended several meetings before background checks revealed that Garnik’s brother was working for the Cheka in Baku, and it became obvious that the coff ee shop’s income was being heavily subsidized. After Garnik was found stabbed in the doorway to his home, there was a roundup of nearly fi fty Armenians despite a total lack of evidence that any were involved in Garnik’s murder or affi  liated with the Dashnaksutiun. After a few days had passed and no killer had been found, the police chief was fi red, presumably because of the failure to obtain solid evidence as well as the failure to detect Communist activity in the nation’s capital.[43]
+
+<!-- page 173 -->
 
 _Sevak Saginian_ | 135 
 
@@ -1523,7 +1872,9 @@ However Zohrab might have attempted to downplay or hide his extracurricular Dash
 
 Of the Persian Armenians, it is generally estimated that 85 per cent are Gregorians and ten per cent Uniates. The remaining fi ve per cent are Protestants, members of the Armenian Evangelical Church, the result largely of American missionary endeavor during the last century in the Ottoman Empire and northwestern Persia. In the latter group are included about 500 Seventh Day Adventists. As to the political affi  liations of these groups, it may be said, fi rst, that practically all Persian Gregorians are either active Dashnakists or Dashnak sympathizers and that practically all Persian Dashnakists are Gregorians. I am reliably informed that the doctrines of the party are held by the two Armenian deputies to the Persian Majles (Sohrab Khan Sakinian, representing the Armenians of Azerbaijan, and J. Z. Mirzayantz, Deputy for the South Persia Armenians) and are taught by both priests and teachers, in the churches, schools and social clubs maintained by the Gregorian communities. Some 85 per cent of the Persian Armenians are, therefore, either actively or potentially anti-Soviet.[44] 
 
-If Zohrab’s connection to Dashnak was so obvious a fact as to be brought to the attention of an American diplomat, why wasn’t he called to answer for the death of Garnik or even arrested himself for membership in an illegal political organization? As part of an anti-Communist force that had originally supported Reza Shah’s ascension to power, Iranian Dashnaks were not actively pursued by the Pahlavi regime in the early 1930s, which instead focused its repression on the CPI and trade union movements. With the suspicion and fear that large numbers of Armenian Iranians were Communist sympathizers, the Dashnaks of Iran would be one of the last Armenian political organizations Reza Shah would want to 
+If Zohrab’s connection to Dashnak was so obvious a fact as to be brought to the attention of an American diplomat, why wasn’t he called to answer for the death of Garnik or even arrested himself for membership in an illegal political organization? As part of an anti-Communist force that had originally supported Reza Shah’s ascension to power, Iranian Dashnaks were not actively pursued by the Pahlavi regime in the early 1930s, which instead focused its repression on the CPI and trade union movements. With the suspicion and fear that large numbers of Armenian Iranians were Communist sympathizers, the Dashnaks of Iran would be one of the last Armenian political organizations Reza Shah would want to
+
+<!-- page 174 -->
 
 136 | _Experiences with Iranian Nationalism_ 
 
@@ -1533,7 +1884,9 @@ The year 1934 marked a watershed in the relationship between Reza Shah and the A
 
 Although the Dashnak Party was indeed targeted by the Pahlavi regime after 1934, the historical record suggests that the Armenians of Iran were not singled out by Reza Shah as a special case for repression. Rather, all linguistic and religious minorities as well as many traditional-minded Muslims suff ered from the shah’s policies to promote national unity and modernization through linguistic and educational reforms emulating those of Atatürk.[46] Reza Shah’s minister of education, Ali-Asghar Hekmat, explained that the shah’s policy was that “all Iranians must have one language, one writing, one culture and even one attire. They must all be equal before the law and no diff erence should separate the Muslims from the non-Muslims,” and that “the unity of discourse [ _vahdat-e kalameh_ ] must be fully observed everywhere in the country.”[47] 
 
-For the Armenian Iranians, the revoking of their school licenses in 1938 was an outrage. Like the Baha’is, Azeris, Kurds, Arabs, and Assyrians—other Iranian religious and linguistic minorities whose schools were also shut down in the attempt to impose Persian as the standard national language—Armenian Iranians saw this act as an attack on their 
+For the Armenian Iranians, the revoking of their school licenses in 1938 was an outrage. Like the Baha’is, Azeris, Kurds, Arabs, and Assyrians—other Iranian religious and linguistic minorities whose schools were also shut down in the attempt to impose Persian as the standard national language—Armenian Iranians saw this act as an attack on their
+
+<!-- page 175 -->
 
 _Sevak Saginian_ | 137 
 
@@ -1543,7 +1896,9 @@ Despite Zohrab’s status as parliamentarian, speaking out in Majles directly ag
 
 It was paradoxical that Zohrab was himself an Iranian nationalist. He considered himself an Armenian Iranian and was beholden and loyal to the Iranian nation.[51] He was supportive of most of Reza Shah’s secularizing reforms as well as of his policies to modernize and strengthen Iran. Yet Reza Shah’s closure of the Armenian schools and eff ort to homogenize Iran’s language were indicative of a fundamental diff erence between how the two Iranian nationalists perceived ethnic minorities. For Reza Shah, the nation would be cohesive only when the Armenian Iranians had become “Iranian Christians.”[52] For Zohrab, the nation would be cohesive only when the state recognized and celebrated the contributions and loyalty of its diverse population.[53] 
 
-With the Allied invasion of Iran in August 1941 and Reza Shah’s exile, newspapers and political parties again fl ourished. After winning his seat in the Thirteenth Majles (November 1941–November 1943), Zohrab knew he was fi nally free to publicly pursue the issue of Armenian-language schools.[54] Heir to the Pahlavi throne, Muhammad Reza Shah was not feared by the Armenian community as his father was, and the open political atmosphere fi nally allowed criticism of the Pahlavi regime. In January 1942, Zohrab wrote an open letter to Majles members and to _Alik_ (a 
+With the Allied invasion of Iran in August 1941 and Reza Shah’s exile, newspapers and political parties again fl ourished. After winning his seat in the Thirteenth Majles (November 1941–November 1943), Zohrab knew he was fi nally free to publicly pursue the issue of Armenian-language schools.[54] Heir to the Pahlavi throne, Muhammad Reza Shah was not feared by the Armenian community as his father was, and the open political atmosphere fi nally allowed criticism of the Pahlavi regime. In January 1942, Zohrab wrote an open letter to Majles members and to _Alik_ (a
+
+<!-- page 176 -->
 
 138 | _Experiences with Iranian Nationalism_ 
 
@@ -1553,7 +1908,9 @@ It is not clear who beat whom to the punch, but in 1942 the Tudeh Party, led by 
 
 Between 1941 and 1944, the Soviet secret police had free reign in northern Iran. The Cheka ruthlessly pursued and arrested suspected members of the Dashnak Party and were able to obtain British cooperation in their attack on the supposed “fi fth columnists.” As Major Edward S. Kennedy noted in an American military intelligence report of 1944, “The Allied invasion of Iran in 1941 ended the power of Reza Shah, but the Soviets have become an even greater scourge than he. If any former Dashnak goes to a Russian offi  cial and confesses the error of his ways, the reformed one is invariably made to act as an agent, spying on the activities of his former associates. The Soviets are not willing that he live a quiet, nonpolitical life.”[56] Kennedy’s report off ered descriptions of six Armenians in custody, and he concluded that some, such as Dr. Artashes Babalian, were genuinely innocent, whereas others, such as Manuk Martin and Khachik Melconian, were most likely real fi fth columnists.[57] 
 
-In 1944, with the Red Army fi rmly entrenched in his representative district of northern Iran, and as a known Dashnak supporter and loyal deputy under Reza Shah, Zohrab Saginian had little chance of winning the election for the Fourteenth Majles (January 1944–January 1946). More important perhaps was the conjunction of a sentiment to clean house and, with the reemergence of political parties, a growing array of new alliances and voices for change.[58] In the electoral campaign for the Majles in 1944, pro-Soviet Armenians in Tabriz supported a member of the Tudeh Party, 
+In 1944, with the Red Army fi rmly entrenched in his representative district of northern Iran, and as a known Dashnak supporter and loyal deputy under Reza Shah, Zohrab Saginian had little chance of winning the election for the Fourteenth Majles (January 1944–January 1946). More important perhaps was the conjunction of a sentiment to clean house and, with the reemergence of political parties, a growing array of new alliances and voices for change.[58] In the electoral campaign for the Majles in 1944, pro-Soviet Armenians in Tabriz supported a member of the Tudeh Party,
+
+<!-- page 177 -->
 
 _Sevak Saginian_ | 139 
 
@@ -1561,7 +1918,9 @@ Qazar Simonian, for their representative against the Dashnak-supported candidate
 
 ## **Sevak Saginian, Ararat, and the Iranian Majles** 
 
-In addition to carrying on his family’s tradition of military and political involvement in Iran, Sevak Saginian was motivated to join the military specifi cally because of the brewing Azerbaijan confl ict. Beyond the liberation of Tabriz and Iranian Azerbaijan, which had been the home of the Saginian family for four generations and their burial place, Sevak was interested in fi ghting Communist Soviets. His father’s Dashnak orientation, Iranian nationalism, and activities in the eff ort to help both Caucasus Armenians and Armenian Iranians, combined with Sevak’s education in Armenian and Iranian schools, had inculcated in Sevak a deep-seated contempt for Communists. He loathed the Soviet Union in particular, which he viewed as both a threat to Iran and the oppressors of Armenia. In 1945, he was promoted to lieutenant in a mechanized division in the Iranian army and became excited when it seemed that the army would most probably be going to Azerbaijan to face the Soviets. But Sevak also began to notice that strange things were happening within the ranks. Armenian offi  cers who should have been promoted to high leadership positions were not receiving promotions, and rumors circulated that it was owing to the perception that they might have Communist leanings. Paranoia about Communists in the Iranian military was high, and in 1945 leaders of the gendarme, such as Colonel Zanganeh, openly considered Armenians and Assyrians potential subversives.[62] 
+In addition to carrying on his family’s tradition of military and political involvement in Iran, Sevak Saginian was motivated to join the military specifi cally because of the brewing Azerbaijan confl ict. Beyond the liberation of Tabriz and Iranian Azerbaijan, which had been the home of the Saginian family for four generations and their burial place, Sevak was interested in fi ghting Communist Soviets. His father’s Dashnak orientation, Iranian nationalism, and activities in the eff ort to help both Caucasus Armenians and Armenian Iranians, combined with Sevak’s education in Armenian and Iranian schools, had inculcated in Sevak a deep-seated contempt for Communists. He loathed the Soviet Union in particular, which he viewed as both a threat to Iran and the oppressors of Armenia. In 1945, he was promoted to lieutenant in a mechanized division in the Iranian army and became excited when it seemed that the army would most probably be going to Azerbaijan to face the Soviets. But Sevak also began to notice that strange things were happening within the ranks. Armenian offi  cers who should have been promoted to high leadership positions were not receiving promotions, and rumors circulated that it was owing to the perception that they might have Communist leanings. Paranoia about Communists in the Iranian military was high, and in 1945 leaders of the gendarme, such as Colonel Zanganeh, openly considered Armenians and Assyrians potential subversives.[62]
+
+<!-- page 178 -->
 
 140 | _Experiences with Iranian Nationalism_ 
 
@@ -1569,7 +1928,9 @@ These rumors were confi rmed one day shortly after Sevak had been transferred fr
 
 Although any suspicions about Sevak’s stance on communism and questions of his loyalty to Iran were unfounded, the Iranian government and military had ample reason to think that many Armenians were either Communists or Communist sympathizers.[64] As Abrahamian’s indepth analysis of the pro-Soviet Tudeh Party in _Iran between Two Revolutions_ demonstrates, the party appealed in particular to Iranian Christians (almost all being of Armenian or Assyrian descent) but failed to motivate Iranian Sunnis, Baha’is, Jews, and Zoroastrians for a variety of reasons.[65] Attributing Iranian Christians’ involvement in and support of the Tudeh Party to factors of class and geography, Abrahamian demonstrates statistically how urban Armenian and Assyrian workers such as shoemakers, carpenters, tailors, truck drivers, and mechanics as well as middle-class professionals and clerks were involved at all levels of the Tudeh in numbers disproportionate to their percentages within the Iranian population as a whole.[66] 
 
-Armenian and Assyrian support for Communist parties came from rural peasants and the commercial middle class as well as from intellectuals and the urban working class. Abrahamian notes that the Armenian merchants and retailers of the Hnchak Party were closely affi  liated with the Tudeh and the Soviets, and the predominantly Christian guilds of pharmacists and food sellers joined the CCFTU. Outside of urban areas, in regions with a high concentration of Christians such as Urmia, rural Assyrian and Armenian peasants embraced the Soviets and the Tudeh, expelling Iranian landlords, offi  cials, and gendarmes shortly after the occupation and setting up independent village councils.[67] In 1945, Armenian and Assyrian peasants were active volunteers in the revolt against 
+Armenian and Assyrian support for Communist parties came from rural peasants and the commercial middle class as well as from intellectuals and the urban working class. Abrahamian notes that the Armenian merchants and retailers of the Hnchak Party were closely affi  liated with the Tudeh and the Soviets, and the predominantly Christian guilds of pharmacists and food sellers joined the CCFTU. Outside of urban areas, in regions with a high concentration of Christians such as Urmia, rural Assyrian and Armenian peasants embraced the Soviets and the Tudeh, expelling Iranian landlords, offi  cials, and gendarmes shortly after the occupation and setting up independent village councils.[67] In 1945, Armenian and Assyrian peasants were active volunteers in the revolt against
+
+<!-- page 179 -->
 
 _Sevak Saginian_ | 141 
 
@@ -1579,7 +1940,9 @@ In August 1945, the Tudeh Party seized Iranian government buildings in Tabriz an
 
 Whatever the reasons for some Armenians’ gravitation to the Tudeh Party and the global implications of the Azerbaijan Crisis, Sevak Saginian’s experience in the Iranian army was disconcerting and off ensive because his loyalty had been questioned simply because he was of Armenian descent.[74] Nevertheless, Sevak had options outside the military. Having been a successful student, athlete, translator, and social organizer before he entered the army, he decided that instead of pursuing a career as an offi  cer, he would go to law school and begin a legal practice in Tehran. 
 
-While in law school at Tehran University in 1946, Sevak quickly reconnected with his athletic and intellectually oriented friends, including some 
+While in law school at Tehran University in 1946, Sevak quickly reconnected with his athletic and intellectually oriented friends, including some
+
+<!-- page 180 -->
 
 142 | _Experiences with Iranian Nationalism_ 
 
@@ -1587,19 +1950,25 @@ who were original members of the teen bicycle vigilantes and boxing club and oth
 
 In the early period of Ararat between 1946 and 1950, membership rose sharply as activities became better organized, and the loose-knit 
 
-35. Founding members of Ararat, 1946. Sevak Saginian at lower right. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
+35. Founding members of Ararat, 1946. Sevak Saginian at lower right. Unknown photographer. Courtesy of Sevak and Nella Saginian.
+
+<!-- page 181 -->
 
 _Sevak Saginian_ | 143 
 
 groupings of Armenian youth ranging in age from roughly ten to thirty years congealed around the activities of sports, theater, music, and literature. Intellectuals in the early days of Ararat were oriented primarily toward the political left, but at that time there was no semblance of unity on political ideologies or positions. Reading groups would meet and discuss various texts on politics, philosophy, art, history, and Armenian culture. An orchestra was created for the musically inclined, and classic plays such as Shakespeare’s _Othello_ were translated into Armenian and performed for parents and the community. Theater also included groups performing traditional Armenian dances and incorporated the skills of those interested in visual arts such as painting and set design. Sportsminded Ararat members practiced and competed with each other at soccer, boxing, weightlifting, and track and would compete in national Iranian competitions under the Ararat banner. In addition to these more standard forms of athletics, mountaineering and rock climbing became popular with many intrepid Ararat members, who found the Alborz Mountains, in particular Mount Damavand, to be a beautiful and challenging place to practice and develop their skills. 
 
-As permit holder for the Ararat organization, Sevak Saginian was responsible for obtaining gathering permits for all large group activities such as plays or large sports outings and competitions. He also acted as the primary intermediary between Ararat and the government, most commonly interacting with the Ministry of Physical Education.[79] In mediating between the Pahlavi government and Ararat, Sevak was increasingly required to utilize his knowledge of both entities as well as his linguistic skills and _ta‘arof_ (traditional Persian manners and etiquette) to smooth interactions and create a trusting relationship. For example, when it was decided to offi  cially change the name of the organization to “Ararat” at the end of 1949, Sevak was asked in a meeting with offi  cials of the Ministry of Physical Education to explain what the name meant.[80] Quick to understand the implications of this question, Sevak instantly replied that it was a mountain of religious importance to Christians because of the perception that it was the location of Noah’s Ark. This was apparently an acceptable answer, for the ministry issued Anjoman-e Javanan-e Ararat its new permit in 1950. 
+As permit holder for the Ararat organization, Sevak Saginian was responsible for obtaining gathering permits for all large group activities such as plays or large sports outings and competitions. He also acted as the primary intermediary between Ararat and the government, most commonly interacting with the Ministry of Physical Education.[79] In mediating between the Pahlavi government and Ararat, Sevak was increasingly required to utilize his knowledge of both entities as well as his linguistic skills and _ta‘arof_ (traditional Persian manners and etiquette) to smooth interactions and create a trusting relationship. For example, when it was decided to offi  cially change the name of the organization to “Ararat” at the end of 1949, Sevak was asked in a meeting with offi  cials of the Ministry of Physical Education to explain what the name meant.[80] Quick to understand the implications of this question, Sevak instantly replied that it was a mountain of religious importance to Christians because of the perception that it was the location of Noah’s Ark. This was apparently an acceptable answer, for the ministry issued Anjoman-e Javanan-e Ararat its new permit in 1950.
+
+<!-- page 182 -->
 
 144 | _Experiences with Iranian Nationalism_ 
 
 36. Ararat board of directors and founding members, Tehran, 1950. Sevak Saginian at the front right, wearing army reserve uniform. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
 
-Mountaineering proved to be a complex issue that also necessitated Sevak’s quick thinking and personal judgment. Despite having quit the army in large part owing to his awareness of the Iranian government and military’s paranoia regarding Armenians and communism, it was nevertheless a surprise to him when he was called to the Ministry of Physical Education to explain what groups of well-equipped Armenian Iranians were doing setting up encampments in the mountains and engaging in activities such as rappelling and rope-bridge building. The Ararat climbers’ outings had apparently not gone unnoticed by the military, which had suggested that perhaps the Armenian youth were storing arms or training for a Communist insurrection of some kind or both. Sevak explained that they were simply hiking, rock climbing, and practicing outdoor skills— much like Pishahangi-ye Iran (Scouting of Iran), which had been founded under Reza Shah. Told that the Pishahangi-ye Iran had been declared illegal after Reza Shah’s exile because its members were “against Islam,” Sevak asserted that for Christians scouting was not against their religion and mentioned the fact that some Persian scouts were still organizing outings, only without uniforms. Despite this explanation, the Ministry 
+Mountaineering proved to be a complex issue that also necessitated Sevak’s quick thinking and personal judgment. Despite having quit the army in large part owing to his awareness of the Iranian government and military’s paranoia regarding Armenians and communism, it was nevertheless a surprise to him when he was called to the Ministry of Physical Education to explain what groups of well-equipped Armenian Iranians were doing setting up encampments in the mountains and engaging in activities such as rappelling and rope-bridge building. The Ararat climbers’ outings had apparently not gone unnoticed by the military, which had suggested that perhaps the Armenian youth were storing arms or training for a Communist insurrection of some kind or both. Sevak explained that they were simply hiking, rock climbing, and practicing outdoor skills— much like Pishahangi-ye Iran (Scouting of Iran), which had been founded under Reza Shah. Told that the Pishahangi-ye Iran had been declared illegal after Reza Shah’s exile because its members were “against Islam,” Sevak asserted that for Christians scouting was not against their religion and mentioned the fact that some Persian scouts were still organizing outings, only without uniforms. Despite this explanation, the Ministry
+
+<!-- page 183 -->
 
 _Sevak Saginian_ | 145 
 
@@ -1611,13 +1980,17 @@ In 1950, Ararat’s meeting site moved to Khiabane Yusefabad across from the Par
 
 Sevak became increasingly busy with his activities in Ararat while attending law school at Tehran University between 1946 and 1953. In this tumultuous period in Iranian history, the political system was free and vibrant, with the secular nationalist National Front and Communist Tudeh reaching their height of power and infl uence in Iran. The ascension of Mohammad Mossadegh to the position of prime minister and the oil nationalization crisis intensifi ed the already strained relationship between royalist, secular-nationalist, Islamicist, and Communist political parties. Armenian Iranians were by no means a politically cohesive minority, with members in almost all Iranian political parties. 
 
-It was during this period that the politicization of Ararat occurred. Although in the 1940s Ararat members leaned to both the left and the right politically, the popularity of the Tudeh Party and the overt courting of the organization by the Tudeh and the Soviet embassy in 1948 and 1949 (both of which had sent the organization gifts and invitations to functions) alarmed Dashnak activists of Tehran, many of whom were either members of or parents of members of Ararat, such as Zohrab Saginian. As much a product 
+It was during this period that the politicization of Ararat occurred. Although in the 1940s Ararat members leaned to both the left and the right politically, the popularity of the Tudeh Party and the overt courting of the organization by the Tudeh and the Soviet embassy in 1948 and 1949 (both of which had sent the organization gifts and invitations to functions) alarmed Dashnak activists of Tehran, many of whom were either members of or parents of members of Ararat, such as Zohrab Saginian. As much a product
+
+<!-- page 184 -->
 
 146 | _Experiences with Iranian Nationalism_ 
 
 of the loss of members to the popular Tudeh as pressure exerted on Ararat by the Dashnaks, by 1950 Ararat had become a bastion of Dashnak political ideology and anticommunism and had correspondingly developed a well-known although publicly denied reputation as such. Yet Ararat and the Dashnak Party were not synonymous. Aside from the unoffi  cial Dashnak newspaper, _Alik_ , to which many intellectually inclined Ararat members contributed, Dashnak Party literature and propaganda were never to be found on the premises of the clubhouse or utilized in any public Ararat function.[81] Ararat members who were also Dashnaks, such as Marzbet Marzbetuny, would privately engage in a number of activities ranging from discussion and analysis of contemporary political events vis-à-vis the Dashnak Party to fund-raising and gun running for the organization.[82] Although Iranian Dashnaks’ gun-running activities peaked in the late nineteenth and early twentieth centuries when they were devoted to supporting Armenian defense brigades and volunteer militias in the Ottoman Empire as well as the Nationalist, anti-Royalist causes of the Constitutional Revolution, it became evident during the chaotic years of 1951–53 that these activities had continued underground throughout the 1940s. 
 
-Over the course of Prime Minister Mossadegh’s tenure in offi  ce and the oil nationalization eff ort between 1951 and 1953, increasingly large and often violent street brawls were breaking out between pro- and antishah supporters. Seated squarely on the side of the shah and anticommunism, male Ararat members such as amateur boxer Sevak Saginian and some of the larger Ararat boy scouts, such as Nejde Hagobian and Artash Yerganian, were becoming regularly involved against the Tudeh.[83] In their view, it was already bad enough that Armenia was under a Communist system and Soviet rule. Thus, the potential bruises and puncture wounds associated with the street fi ghts of the day were a small price to pay to protect their own country from being ruled by Communists and falling under the sway of the Soviet Union.[84] Although physical altercations with pro-Tudeh Iranians (who often included other Armenians) were not considered to be a threat to Ararat’s standing with the government, Ararat’s well-known Dashnak orientation made its members and property an obvious target for pro-Communists in Tehran and especially in Tabriz. There Ararat was almost as low profi le as the underground Dashnak Party itself owing to 
+Over the course of Prime Minister Mossadegh’s tenure in offi  ce and the oil nationalization eff ort between 1951 and 1953, increasingly large and often violent street brawls were breaking out between pro- and antishah supporters. Seated squarely on the side of the shah and anticommunism, male Ararat members such as amateur boxer Sevak Saginian and some of the larger Ararat boy scouts, such as Nejde Hagobian and Artash Yerganian, were becoming regularly involved against the Tudeh.[83] In their view, it was already bad enough that Armenia was under a Communist system and Soviet rule. Thus, the potential bruises and puncture wounds associated with the street fi ghts of the day were a small price to pay to protect their own country from being ruled by Communists and falling under the sway of the Soviet Union.[84] Although physical altercations with pro-Tudeh Iranians (who often included other Armenians) were not considered to be a threat to Ararat’s standing with the government, Ararat’s well-known Dashnak orientation made its members and property an obvious target for pro-Communists in Tehran and especially in Tabriz. There Ararat was almost as low profi le as the underground Dashnak Party itself owing to
+
+<!-- page 185 -->
 
 _Sevak Saginian_ | 147 
 
@@ -1627,7 +2000,9 @@ On one particularly chaotic night of protests, street fi ghts, and riots in July
 
 Although historical hindsight allows us to view the coup d’état of August 19, 1953, and the return of Mohammad Reza Pahlavi to dictatorial powers as events funded and to a large extent orchestrated by the US CIA,[86] at the time it was clear only that there were many confl icting rumors and conspiracy theories about what had transpired and that the shah was back in power. Almost immediately the restored Pahlavi regime initiated a purge that would eventually eliminate or drive underground those who had opposed the shah between 1951 and 1953, especially members of the Tudeh Party and the National Front.[87] Simultaneously, those who had openly supported the regime in protests and street fi ghts were recognized and rewarded. 
 
-In mid-September 1953, Sevak Saginian and thirty other Iranian citizens known for their anti-Communist and anti-Mossadegh activities in the previous two years were invited to the Golestan Palace for a reception with the shah, where each was awarded a medal, the Neshan-e Rastakhize Darje-ye Yek (Order of the Resurgence of the First Degree). During the reception, the shah, fl anked by one of his top generals and a secretary, 
+In mid-September 1953, Sevak Saginian and thirty other Iranian citizens known for their anti-Communist and anti-Mossadegh activities in the previous two years were invited to the Golestan Palace for a reception with the shah, where each was awarded a medal, the Neshan-e Rastakhize Darje-ye Yek (Order of the Resurgence of the First Degree). During the reception, the shah, fl anked by one of his top generals and a secretary,
+
+<!-- page 186 -->
 
 148 | _Experiences with Iranian Nationalism_ 
 
@@ -1635,7 +2010,9 @@ circulated around the room to speak individually to his guests. Many of them rep
 
 By the time the shah reached Sevak, who was one of the fi nal medal recipients he greeted, the routine had perhaps gotten old. As Sevak bowed his head in respect as the secretary introduced him, the shah said, “I suppose the Tudeh must have beaten you up pretty badly too.” Sevak looked up and replied, “No, Your Majesty, they didn’t beat us, we beat them.”[88] The shah seemed amused with this unique response, mildly chuckled, and asked if Sevak would nevertheless like monetary compensation like the others. Sevak replied honestly, “I’d rather have a gun.” This response again seemed to please and pique the interest of the shah, who told Sevak that it would be arranged and shook his hand before moving on to the last few guests. 
 
-A few days later a government courier delivered to Sevak a stunning polished and etched revolver in a wooden box with a permit signed by the shah allowing Sevak to possess and wear the gun in public, an almost unheard of liberty at the time in Iran for anyone not associated with the police or the military.[89] Like the other recipients of the Neshan-e Rastakhiz, Sevak also was provided with a small _hokm_ (written edict) declaring the reasons for the awarding of the medal and containing Sevak’s own photograph attached with an offi  cial seal. More than just an award, this document was copied and carried around as a sort of “secondary” identifi cation to show offi  cials and to lubricate the wheels of justice and bureaucracy in the years following Bist-o Hasht-e Mordad (Twenty-Eighth of Mordad [Coup]), as the events of August 19, 1953, became known in the collective Iranian memory.[90] 
+A few days later a government courier delivered to Sevak a stunning polished and etched revolver in a wooden box with a permit signed by the shah allowing Sevak to possess and wear the gun in public, an almost unheard of liberty at the time in Iran for anyone not associated with the police or the military.[89] Like the other recipients of the Neshan-e Rastakhiz, Sevak also was provided with a small _hokm_ (written edict) declaring the reasons for the awarding of the medal and containing Sevak’s own photograph attached with an offi  cial seal. More than just an award, this document was copied and carried around as a sort of “secondary” identifi cation to show offi  cials and to lubricate the wheels of justice and bureaucracy in the years following Bist-o Hasht-e Mordad (Twenty-Eighth of Mordad [Coup]), as the events of August 19, 1953, became known in the collective Iranian memory.[90]
+
+<!-- page 187 -->
 
 _Sevak Saginian_ | 149 
 
@@ -1643,7 +2020,9 @@ Although Sevak had recently fi nished his law degree and successfully passed the
 
 In November 1953, Sevak received a message requesting that he come to the offi  ce of General Abbas Izadpanah, who was at the time the head of the Ministry of Physical Education. Because Sevak was the permit holder and Ararat’s chairman of the board, he correctly assumed the meeting had something to do with the organization’s sports activities. First, Izadpanah inquired generally about the status of Ararat in Tehran and Tabriz, and Sevak explained to him that Ararat was well organized, yet much less public and bold in Tabriz owing to the overwhelming number of pro-Communist Tabrizis. After a few more questions about Ararat’s activities and size, Izadpanah asked if Sevak would be willing to accompany himself and the shah to Tabriz as a representative from Ararat and the Tehrani recipients of the Rastakhiz medal. Izadpanah explained that the shah would be attending a concert, a sports exhibition, and a reception for Tabriz sports and youth organizations and asked if the Tabriz branch of Ararat was well enough organized to meet personally with the shah for a review and reception. Sevak replied that the group would be both honored and ready, and so immediately after the meeting with Izadpanah he contacted members of the Ararat branch in Tabriz to prepare the athletes to meet with the shah.[92] 
 
-The following week Sevak traveled with General Izadpanah, the shah, and his entourage to Tabriz; owing to the shah’s other scheduled meetings and banquets, Sevak was given an extra day to further organize for the sports exhibition and reception. With solid preparation, Ararat’s participation in the exhibition was impressive. At the reception following 
+The following week Sevak traveled with General Izadpanah, the shah, and his entourage to Tabriz; owing to the shah’s other scheduled meetings and banquets, Sevak was given an extra day to further organize for the sports exhibition and reception. With solid preparation, Ararat’s participation in the exhibition was impressive. At the reception following
+
+<!-- page 188 -->
 
 150 | _Experiences with Iranian Nationalism_ 
 
@@ -1653,7 +2032,9 @@ Sevak answered the shah’s numerous questions about the organization and its ac
 
 Back in Tehran, Sevak was again contacted by Izadpanah, who told him that the shah had been very impressed by Ararat’s showing at the exhibition as well as by Sevak’s leadership skills. In their conversation, Izadpanah also asked Sevak if he had any connections or sway within the Assyrian community in Tabriz—which Sevak took to imply some sort of government position. Although he had none, Sevak emphasized his family’s long history in Tabriz and vaguely said that he would see what 
 
-37. Sevak Saginian introduces Mohammad Reza Shah to Ararat athletes, Tabriz, 1953. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
+37. Sevak Saginian introduces Mohammad Reza Shah to Ararat athletes, Tabriz, 1953. Unknown photographer. Courtesy of Sevak and Nella Saginian.
+
+<!-- page 189 -->
 
 _Sevak Saginian_ | 151 
 
@@ -1661,7 +2042,9 @@ he could arrange. Considering his growing leadership skills, legal education, fa
 
 Having missed the elections for the Eighteenth Majles in 1953, Sevak had two full years to campaign throughout the northern part of the nation. The only problem was that he had more time on his hands than money. When the underground Dashnak body in Tehran learned that Sevak was planning to run for the Majles, they gave him their blessing, with the caveat that because he didn’t have any money, he would probably lose the election. Still, they reasoned, he was relatively young, so should he lose the next election in 1956, he could always run in the following one or switch to try to represent the Armenians of the South, who—as it was 
 
-38. Sevak Saginian ( _right_ ) marches with Ararat scouts to the Fourth of Aban parade, 1955. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
+38. Sevak Saginian ( _right_ ) marches with Ararat scouts to the Fourth of Aban parade, 1955. Unknown photographer. Courtesy of Sevak and Nella Saginian.
+
+<!-- page 190 -->
 
 152 | _Experiences with Iranian Nationalism_ 
 
@@ -1671,7 +2054,9 @@ Sevak was determined to win the 1956 election for the North. This would be an im
 
 Sevak met with Armenians and Assyrians in Tabriz, Salmas, Shapour, Marageh, and Rezayeh to hear about their problems and tell them what he thought could be accomplished in Parliament. Here Sevak’s family history was important. Many Armenians and Assyrians remembered his father and other ancestors who had assisted Christian minorities in the region, so they pledged their support. Sevak did not, however, win over everyone. The Assyrian community was itself divided in opinion, and in several meetings his potential Assyrian constituents began energetically arguing between one another in Azeri or Assyrian, two languages Sevak did not speak, and so leaving him out of the dialog entirely. Moreover, the mayor 
 
-39. Sevak and Nella Saginian pass Ararat girl scouts at their wedding. Tehran, 1955. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
+39. Sevak and Nella Saginian pass Ararat girl scouts at their wedding. Tehran, 1955. Unknown photographer. Courtesy of Sevak and Nella Saginian.
+
+<!-- page 191 -->
 
 _Sevak Saginian_ | 153 
 
@@ -1681,13 +2066,17 @@ Although Sevak’s low-budget campaign could not compare to the high-priced ente
 
 In 1956, Sevak Saginian began what would be a twenty-two-year career as a member of the Iranian Majles, representing the Armenians of the North for his fi rst four-year term in the Nineteenth Majles (1956–60) and the Armenians of the South for the other fi ve terms.[96] After the shah’s opening speech to the Nineteenth Majles in which he outlined what he would like to see the assembly accomplish in its term, Sevak began a weekly schedule that would fl uctuate little in his long tenure. He and his fellow Majles members worked six days a week. For the most part, three of those days were focused around meetings of the entire assembly that lasted from 9:00 a.m. to 1:00 p.m., while the other three days of the week would be dedicated to smaller committee meetings and hearings. No work was performed on Fridays. Because Majles members were not granted offi  ces, work and meetings would often take place at home. Although each of the Majles members was provided with a cabinet to store their personal documents and eff ects—and were told that each possessed the only key—the deputies would routinely keep their fi les at home for convenience and privacy.[97] 
 
-One of the youngest Majles deputies at age thirty-four, Sevak quickly learned how to interact in the assembly and conduct himself around his 
+One of the youngest Majles deputies at age thirty-four, Sevak quickly learned how to interact in the assembly and conduct himself around his
+
+<!-- page 192 -->
 
 154 | _Experiences with Iranian Nationalism_ 
 
 older and more experienced fellow deputies. Moreover, Sevak soon made several general observations about how the Majles functioned and, after confi rming them with his father Zohrab, formulated pragmatic strategies to approach working in the interests of his Armenian Iranian constituents. 
 
-Sevak understood from past Iranian history and his father’s experiences that there was an inverse relationship between the shah’s power and that of the Majles. Basically, the Majles had been created to limit the power of the shahs. Yet when the shah was strong, such as between 1925 and 1941, the Majles was weak and became his ceremonial rubber stamp. Thus, when in a position of strength, the shah had the elections rigged as he saw fi t, and Majles members had no option but to cast their votes for proposed legislation according to the shah’s wishes. When the shah was weak, such as during the period between 1941 and 1953, Sevak observed that the Majles and the prime minister were the country’s primary political leaders and could exert their will over that of the shah. Individual Majles members were then free to vote their conscience and speak their mind in the assembly. A case in point was that his father, Zohrab, was able in 1942 to complain vocally and in writing that the Armenian schools had been closed down illegally by Reza Shah but was forced to remain silent about the same issue in the three-year period in between the time the schools were closed and Reza Shah was forced to abdicate the throne (1938–41). In 1942, the young successor Mohammad Reza Shah was much too weak to do anything about the dramatic upsurge in political freedoms and demands and had to choose his battles wisely if he chose to engage at all. However, after the coup of August 1953 the shah’s power rose quickly, and by 1955 it was clear that Mohammad Reza Pahlavi was becoming the nation’s sole power and a true dictator like his father. Supported by the CIA and Mossad-trained Iranian secret police, the Sazeman-e Ettela‘at va Amniyat-e Keshvar (SAVAK, Organization of Intelligence and National Security) and bolstered by increasingly large off ers of fi nancial aid and arms from the United States to strengthen his military, the shah was arguably at his peak of power over Iranian politics, economy, and society during Sevak’s entire tenure as Parliament member. Although he could not have predicted such a long streak of power by the shah when he was becoming acclimated to the Majles in 1956, Sevak realized that, at least for 
+Sevak understood from past Iranian history and his father’s experiences that there was an inverse relationship between the shah’s power and that of the Majles. Basically, the Majles had been created to limit the power of the shahs. Yet when the shah was strong, such as between 1925 and 1941, the Majles was weak and became his ceremonial rubber stamp. Thus, when in a position of strength, the shah had the elections rigged as he saw fi t, and Majles members had no option but to cast their votes for proposed legislation according to the shah’s wishes. When the shah was weak, such as during the period between 1941 and 1953, Sevak observed that the Majles and the prime minister were the country’s primary political leaders and could exert their will over that of the shah. Individual Majles members were then free to vote their conscience and speak their mind in the assembly. A case in point was that his father, Zohrab, was able in 1942 to complain vocally and in writing that the Armenian schools had been closed down illegally by Reza Shah but was forced to remain silent about the same issue in the three-year period in between the time the schools were closed and Reza Shah was forced to abdicate the throne (1938–41). In 1942, the young successor Mohammad Reza Shah was much too weak to do anything about the dramatic upsurge in political freedoms and demands and had to choose his battles wisely if he chose to engage at all. However, after the coup of August 1953 the shah’s power rose quickly, and by 1955 it was clear that Mohammad Reza Pahlavi was becoming the nation’s sole power and a true dictator like his father. Supported by the CIA and Mossad-trained Iranian secret police, the Sazeman-e Ettela‘at va Amniyat-e Keshvar (SAVAK, Organization of Intelligence and National Security) and bolstered by increasingly large off ers of fi nancial aid and arms from the United States to strengthen his military, the shah was arguably at his peak of power over Iranian politics, economy, and society during Sevak’s entire tenure as Parliament member. Although he could not have predicted such a long streak of power by the shah when he was becoming acclimated to the Majles in 1956, Sevak realized that, at least for
+
+<!-- page 193 -->
 
 _Sevak Saginian_ | 155 
 
@@ -1697,7 +2086,9 @@ In assembly legislation or in votes about national issues such as the economy, e
 
 In regards to proposed legislation, a Majles member had two routes. One was to try to individually motivate other Majles members to vote for a bill by delivering speeches outlining the plan(s) and meeting with other deputies to try to gain their support. If the member’s bill or expenditure proposal gained enough votes, a general vote would be advanced to the Majles, and it would become active as law. This was a time-consuming 
 
-40. Sevak Saginian with Empress Farah and Mohammad Reza Pahlavi, 1968. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
+40. Sevak Saginian with Empress Farah and Mohammad Reza Pahlavi, 1968. Unknown photographer. Courtesy of Sevak and Nella Saginian.
+
+<!-- page 194 -->
 
 156 | _Experiences with Iranian Nationalism_ 
 
@@ -1705,7 +2096,9 @@ and risky process, however, both owing to the fact that the shah pulled the stri
 
 The second route Sevak saw as a path to getting things accomplished in the Majles for his constituents was through his personal relationship with the shah, which was predicated on trust and loyalty. Since their fi rst encounter in 1953, Sevak had felt comfortable around the shah and as a Majles member had never had diffi  culty obtaining appointments to see him to talk about Sevak’s own proposals or problems administering the northern Armenian Iranian community.[99] Although Sevak chose his issues and meetings wisely and sparingly, he was never denied access to or rebuked by the shah, who was responsive to his requests and supportive of his suggested legislation regarding the Armenian Iranian community.[100] Sevak quickly realized that this direct route to the fundamental source of power in Iran was by far the safer and most eff ective of the two. Thus, although he cultivated close relationships and alliances within the Majles that would be benefi cial in his proposals for education, committee work, and disputes between diff erent regions and constituencies, his primary concern was to remain a loyal supporter and friend of the shah so that any challenges he or his constituents might face in the Majles or one of the ministries would be manageable. 
 
-Two issues predominated in Sevak’s fi rst four years while serving as northern Armenian Majles representative: solidifying the position of Armenian education in the country, which had fl ourished since the ouster of Reza Shah but still lacked offi  cial sanction and support, and keeping Armenian Iranian organizations and culture strong and distinctive.[101] Although Armenian schools had been reopened in 1942, since their closure in 1938 they had not received full certifi cation from the Ministry of Education, and the status of some school properties was still unsure. Working with the Ministry of Education, Sevak was able to negotiate an 
+Two issues predominated in Sevak’s fi rst four years while serving as northern Armenian Majles representative: solidifying the position of Armenian education in the country, which had fl ourished since the ouster of Reza Shah but still lacked offi  cial sanction and support, and keeping Armenian Iranian organizations and culture strong and distinctive.[101] Although Armenian schools had been reopened in 1942, since their closure in 1938 they had not received full certifi cation from the Ministry of Education, and the status of some school properties was still unsure. Working with the Ministry of Education, Sevak was able to negotiate an
+
+<!-- page 195 -->
 
 _Sevak Saginian_ | 157 
 
@@ -1713,7 +2106,9 @@ agreement in 1957 whereby Armenian schools were fully accredited and Armenian la
 
 Between 1956 and 1960, Sevak Saginian also worked to maintain the independence of the Ararat boy scouts and girl scouts against a concerted eff ort by the Ministry of Sports to integrate them fully into Pishahangi-ye Iran. As well as continuing to act as permit holder and board chairperson of the then seven-hundred-member Ararat, Sevak was also the honorary scoutmaster of the Ararat scouts. In their fourth year in 1956, the scouts had grown to well more than two hundred in number, with branches in Tehran and Tabriz, and had been a model for Mohammad Reza’s reinstitution of Pishahangi-ye Iran in 1954[103] after a thirteen-year interregnum 
 
-41. Sevak Saginian ( _second row, second from right_ ) with Armenian community leaders and bishops of Isfahan, 1966. Unknown photographer. Courtesy of Sevak and Nella Saginian. 
+41. Sevak Saginian ( _second row, second from right_ ) with Armenian community leaders and bishops of Isfahan, 1966. Unknown photographer. Courtesy of Sevak and Nella Saginian.
+
+<!-- page 196 -->
 
 158 | _Experiences with Iranian Nationalism_ 
 
@@ -1721,7 +2116,9 @@ following protests by the ulama and conservative members of the Majles after the
 
 When Dr. Banai suggested in 1958 that the Ararat scouts become a numbered division of Pishahangi and adopt Persian script in lieu of Armenian on uniforms and badges, Sevak argued eff ectively that Ararat and its scouts were funded entirely by member dues and should be under its own name. Furthermore, Sevak argued that Ararat would not abandon its girl scout program and mixed functions, which made it incompatible with the all-male Pishahangi-ye Iran. On these issues, compromises were reached whereby Ararat scouts would be considered a troop of Pishahangi-ye Iran but would keep its distinctive name. Banai was adamant about the removal of the Armenian uniform script, so it was thereafter changed to Persian, but many of the awards and badges continued to contain Armenian characters: the name “Pishahangi-ye Iran” appeared along with “Hay Ari” (Armenian Scouts) in Persian. The position of the Ararat girl scouting program was also assured.[104] 
 
-For the shah’s Fourth of Aban birthday celebration parade in October 1960, Ararat scouts and athletes marched once again at the head of the parade as they had since 1952 and were initially announced under the organization’s name, “Ararat.” In all previous exhibitions of their skills at the Fourth of Aban event, such as marching and erecting rope and wood bridges or assorted fortifi cations, the scouts had always been introduced as “Pishahangan-e Ararat” or “Pishahangan-e Aramane” (Armenian Scouts). However, during the scouting skills exhibition in 1960, in which Ararat boy scouts competed against other troops of Iranian scouts in a bridge-building contest,[105] Banai described the Armenian scouts over the public-address system only as Pishahangan-e Iran. Sevak Saginian was 
+For the shah’s Fourth of Aban birthday celebration parade in October 1960, Ararat scouts and athletes marched once again at the head of the parade as they had since 1952 and were initially announced under the organization’s name, “Ararat.” In all previous exhibitions of their skills at the Fourth of Aban event, such as marching and erecting rope and wood bridges or assorted fortifi cations, the scouts had always been introduced as “Pishahangan-e Ararat” or “Pishahangan-e Aramane” (Armenian Scouts). However, during the scouting skills exhibition in 1960, in which Ararat boy scouts competed against other troops of Iranian scouts in a bridge-building contest,[105] Banai described the Armenian scouts over the public-address system only as Pishahangan-e Iran. Sevak Saginian was
+
+<!-- page 197 -->
 
 _Sevak Saginian_ | 159 
 
@@ -1731,7 +2128,9 @@ At the end of October 1960, the shah’s fi rst son, Crown Prince Reza Pahlavi, 
 
 Sevak was in the stands a few rows away from Banai and the shah when Banai began announcing the event. As expected, Banai announced that “Pishahangan-e Iran” was now going to conduct a skills exhibition, waited for the scouts to take their places behind the starting line, and then stated, “Amadeh! Pish!” (Ready! Begin!). Immediately, the two other troops competing ran to their piles of materials to begin assembling their structures, but the Ararat scouts remained in their places. Banai immediately bellowed again, “Amadeh! Pish!” The Ararat scouts stood still. After an uncomfortable eternity, or what in reality was perhaps only ten to fi fteen seconds, Banai yelled in the same tone, “Pishahangan-e Ararat, amadeh! pish!” and with that the Ararat scouts immediately ran to their pile and began their construction. To add insult to Banai’s injury, the Ararat scouts won the competition despite their fi fteen-second disadvantage. This would be the last time the name would be contested. Thereafter, Banai used the name “Ararat” consistently when addressing the Armenian scouts. 
 
-In the Twentieth Majles elections of 1960, Sevak Saginian won the position of Armenian deputy from the South, a position he held for the next eighteen years.[106] In this position, he concentrated his eff orts on further expanding Armenian education on both a local level and a national level, obtaining state funding for the rebuilding of Armenian churches in 
+In the Twentieth Majles elections of 1960, Sevak Saginian won the position of Armenian deputy from the South, a position he held for the next eighteen years.[106] In this position, he concentrated his eff orts on further expanding Armenian education on both a local level and a national level, obtaining state funding for the rebuilding of Armenian churches in
+
+<!-- page 198 -->
 
 160 | _Experiences with Iranian Nationalism_ 
 
@@ -1741,7 +2140,9 @@ cities and rural areas throughout the South, and working to develop the infrastr
 
 The expansion of Armenian education in Iranian universities was Sevak’s toughest challenge, and after the solidifi cation of the legal status of Armenian schools between 1956 and 1960, it was the most important for Armenian education at all levels. To provide the schools with top-notch instructors of Armenian history and language as well as qualifi ed administrators and principals, it was necessary to develop degree programs in Armenian studies at Iranian universities. Sevak set his sights high, proposing at the beginning of the Twenty-First Majles (1964–68) to establish an Armenian studies chair at the University of Tehran and a program off ering masters degrees and PhDs in the subject. To accomplish this goal, he utilized Majles procedures as well as his personal relationship with the shah. 
 
-After receiving the full support of the northern Armenian representative, Felix Aghayan, Sevak drafted a letter outlining for the Majles’s Education Committee the plans for the Armenian studies program and a proposed budget. Before attending the committee meeting in which it was to be voted on whether the initial proposal was worthy to pursue in full assembly, Sevak visited each of the committee members privately to 
+After receiving the full support of the northern Armenian representative, Felix Aghayan, Sevak drafted a letter outlining for the Majles’s Education Committee the plans for the Armenian studies program and a proposed budget. Before attending the committee meeting in which it was to be voted on whether the initial proposal was worthy to pursue in full assembly, Sevak visited each of the committee members privately to
+
+<!-- page 199 -->
 
 _Sevak Saginian_ | 161 
 
@@ -1749,7 +2150,9 @@ try to obtain their support, explaining the proposal in detail and attempting to
 
 Although the decision had thus been made to establish and fund the Armenian studies program in 1965, by late 1966 the University of Tehran had not done anything in the way of establishing it. When Sevak inquired as to why the university was apparently stalling in initiating the program, he was told budget issues were prohibiting the initiation of the chair and degree programs. He indirectly learned that the underlying issue was the fact that members of the Ministry of Education were concerned about national security and were opposed to anything that might feed student radicalism at the University of Tehran, the site of numerous demonstrations in the early 1960s. Because many in the government perceived Armenians as activist in nature or as on the left in the political spectrum or both, the ministry feared that the Armenian studies program would be a magnet for student protestors. 
 
-Whether this logic was accurate or not, Sevak’s inquiry led to the Ministry of Education declaring that there was no space at the University of Tehran for the Armenian studies program and that a master’s degree program would be established at the University of Isfahan. Although Felix Aghayan, deputy from the North, and the Armenian Church bishop of the Tehran diocese were vocal in their complaints about the ministry’s unilateral decision to change the proposal, Sevak was less adamant, fi guring that an excellent program in Isfahan (his own district) could be used 
+Whether this logic was accurate or not, Sevak’s inquiry led to the Ministry of Education declaring that there was no space at the University of Tehran for the Armenian studies program and that a master’s degree program would be established at the University of Isfahan. Although Felix Aghayan, deputy from the North, and the Armenian Church bishop of the Tehran diocese were vocal in their complaints about the ministry’s unilateral decision to change the proposal, Sevak was less adamant, fi guring that an excellent program in Isfahan (his own district) could be used
+
+<!-- page 200 -->
 
 162 | _Experiences with Iranian Nationalism_ 
 
@@ -1757,7 +2160,9 @@ as a model for a future PhD program at the University of Tehran. The only proble
 
 To obtain the fi rst qualifi ed instructors for the program, Sevak fi nally turned to the Armenian community of Lebanon for assistance. He fl ew to Beirut to meet with the Armenian Catholicos (the chief bishop and head of the Armenian Church), who referred him to two younger members of the Beirut clergy who were more than qualifi ed for the positions and willing to move to Isfahan to teach. Yet Sevak discovered that they too lacked higher degrees in Armenian studies and thus would also be denied a proper salary by the Iranian Ministry of Education.[108] He had come too far and worked too long to let this issue slow the establishment of the program any longer and soon realized the answer to the problem. Before returning to Iran, he purchased spurious diplomas in Armenian studies and teaching credentials for each of the two clergy members. When they showed up in Isfahan to teach, the Lebanese clergymen received the full teaching salary accorded to other new instructors, which was supplemented further by the previous donations made by the Armenian Iranian community. 
 
-The fi nal, unforeseen hurdle Sevak Saginian and the Isfahan Armenian studies program faced was the lack of students interested in the program in its fi rst year. Most Armenian Iranian college students at the time were pursuing degrees in subjects such as medicine, engineering, business, and law. Armenian studies was a subject that did not seem to off er a well-paying, prestigious future. As such, in the fi rst year of instruction there were only a few students in the program. Through announcements 
+The fi nal, unforeseen hurdle Sevak Saginian and the Isfahan Armenian studies program faced was the lack of students interested in the program in its fi rst year. Most Armenian Iranian college students at the time were pursuing degrees in subjects such as medicine, engineering, business, and law. Armenian studies was a subject that did not seem to off er a well-paying, prestigious future. As such, in the fi rst year of instruction there were only a few students in the program. Through announcements
+
+<!-- page 201 -->
 
 _Sevak Saginian_ | 163 
 
@@ -1765,7 +2170,9 @@ and fl yers at Ararat gatherings and other Armenian Iranian public functions, Se
 
 In 1970, Sevak was successful in obtaining funding through the Majles to restore rural Armenian churches throughout the nation, many of which, along with their small classrooms, had fallen into a state of decay. As a result of his observations and interactions with local villagers, during the Twenty-Second and Twenty-Third Majles he focused his attention on bettering the lives of Armenian Iranian agriculturalists in the rural regions surrounding Isfahan. Helping small farmers obtain more land to cultivate while obtaining funding to expand irrigation in their districts, Sevak encouraged them to put their land to maximal use and diversify their crops beyond the standard wheat and barley. Two villages in particular were in dismal shape, Namagerd and Khoygan, neither of which had piped water or electricity. In the Majles, Sevak received funding to bring water mains and electricity to both villages as well as funding to expand farm irrigation in the region. Construction began in 1973.[109] 
 
-As southern Majles representative for the Armenians, Sevak usually focused on large-scale issues such as the community’s education, infrastructure, and economy. The Armenian Church diocese in Isfahan generally had jurisdiction over domestic matters such as divorce, disputes, and the administration of estates.[110] The church’s decisions in these matters were considered binding, even where the decision diff ered from Iranian 
+As southern Majles representative for the Armenians, Sevak usually focused on large-scale issues such as the community’s education, infrastructure, and economy. The Armenian Church diocese in Isfahan generally had jurisdiction over domestic matters such as divorce, disputes, and the administration of estates.[110] The church’s decisions in these matters were considered binding, even where the decision diff ered from Iranian
+
+<!-- page 202 -->
 
 164 | _Experiences with Iranian Nationalism_ 
 
@@ -1773,7 +2180,9 @@ laws.[111] The Armenian Community Council was in charge of church upkeep, commun
 
 One such circumstance occurred in Abadan, when an Arab-speaking Iranian taxicab driver picked up an Armenian Iranian nurse who was returning home from a house call.[113] Her body was found the next day, and the evidence suggested attempted rape, yet the local police seemingly did nothing to try to apprehend the cab driver and question him. Upon hearing the details from the woman’s family and questioning the Abadan police, who were within Sevak’s geographical sphere of responsibility as Majles representative for the South, Sevak determined that little was being done to solve the crime and that he needed to take the issue to Majles. In Tehran, he subpoenaed the minister of justice to answer questions about the conduct of the case by the Abadan police and was rebuked for three reasons. He was told, fi rst, that Majles members did not have the individual right to subpoena anyone; second, that he was out of his jurisdiction; and, third, that he was a religious minority! Sevak immediately issued a complaint outlining the issues to the Speaker of the House, who concurred with him and asked that the matter be discussed before a larger, special committee of deputies. 
 
-As Sevak was busy preparing his questions for the upcoming session regarding the Abadan investigation, the minister of justice stopped him in the hall of the Majles building. After a bit of small talk, the minister casually informed Sevak that the previous day an Armenian Iranian man had killed a popular Isfahani _pahlavan_ (athlete) in a street fi ght and was claiming self-defense. The minister of justice was somber as he explained that the _pahlavan_ ’s family wanted the death penalty and that it would be hard for the judges to rule otherwise. Then he immediately changed subject and brought up the case of the Armenian nurse, reasoning that unfortunately there was nothing that could be done for her, but that perhaps there was a way to save the life of the young Armenian man. Sevak instantly knew what the minister was suggesting. The fact was that neither of them wanted to go before the Majles special session to get into these issues, and Sevak knew that the minister of justice basically held the Armenian 
+As Sevak was busy preparing his questions for the upcoming session regarding the Abadan investigation, the minister of justice stopped him in the hall of the Majles building. After a bit of small talk, the minister casually informed Sevak that the previous day an Armenian Iranian man had killed a popular Isfahani _pahlavan_ (athlete) in a street fi ght and was claiming self-defense. The minister of justice was somber as he explained that the _pahlavan_ ’s family wanted the death penalty and that it would be hard for the judges to rule otherwise. Then he immediately changed subject and brought up the case of the Armenian nurse, reasoning that unfortunately there was nothing that could be done for her, but that perhaps there was a way to save the life of the young Armenian man. Sevak instantly knew what the minister was suggesting. The fact was that neither of them wanted to go before the Majles special session to get into these issues, and Sevak knew that the minister of justice basically held the Armenian
+
+<!-- page 203 -->
 
 _Sevak Saginian_ | 165 
 
@@ -1781,7 +2190,9 @@ youth’s fate in his hands—whether he was guilty of the alleged crime or not.
 
 Outside of his work as Majles representative during the 1960s and 1970s, Sevak Saginian continued to act as chairperson and permit holder for Ararat and worked to expand the organization in Iran’s southern cities. Although membership had dropped to around 300 in 1960–61, by 1968 Ararat membership had grown to 1,700 nationwide, with the largest branches in Tehran, Tabriz, and Isfahan. The scouting and athletic programs continued to fl ourish, and Ararat music and theater groups put on increasingly complex and large-scale plays and concerts. Outside of his family, which by 1972 had grown to include four children, Ararat was one of the primary joys in Sevak’s life. It was also the center of his social world, and he did whatever he could to promote it. 
 
-In Sevak’s view, his activities as Iranian Majles representative and as Ararat leader were compatible because he viewed Ararat as a vehicle for sustaining Armenian national and cultural identity as well as Iranian nationalism.[115] By supporting its activities and regional expansion and showcasing the organization in national events, the government enabled Sevak Saginian and many Ararat members to develop a feeling of inclusion in Iranian society and a love of and patriotism for Iran that was not in confl ict with their Armenian identity. The state’s recognition of their Armenian heritage and language and of their legal status as equal 
+In Sevak’s view, his activities as Iranian Majles representative and as Ararat leader were compatible because he viewed Ararat as a vehicle for sustaining Armenian national and cultural identity as well as Iranian nationalism.[115] By supporting its activities and regional expansion and showcasing the organization in national events, the government enabled Sevak Saginian and many Ararat members to develop a feeling of inclusion in Iranian society and a love of and patriotism for Iran that was not in confl ict with their Armenian identity. The state’s recognition of their Armenian heritage and language and of their legal status as equal
+
+<!-- page 204 -->
 
 166 | _Experiences with Iranian Nationalism_ 
 
@@ -1789,7 +2200,9 @@ In Sevak’s view, his activities as Iranian Majles representative and as Ararat
 
 members of society facilitated rather than hindered their acquisition of a compound national identity.[116] 
 
-In 1972, Sevak was invited to a ceremonial _dast-busi_ (hand kissing), a reception in which the shah would usually distribute gifts and favors to the invited elites, who at this particular event included other Majles deputies, various ministers, and members of the shah’s family. At that event, Sevak informed the shah of Ararat’s attempts to obtain funding to build a complex on Armenian Church–owned land in the Tehran suburb of Vanak.[117] Although Ararat members and Armenian Iranian elites had donated money to build the complex, the donations were not nearly enough to cover the building costs for what was planned. Sevak, not imagining that the shah’s contribution to the project would be as vast as it turned out to be, was overjoyed to learn that the shah decided to build Ararat its own state-of-the-art sports arena to seat ten thousand, with adjacent facilities that included an auditorium, meeting halls, and 
+In 1972, Sevak was invited to a ceremonial _dast-busi_ (hand kissing), a reception in which the shah would usually distribute gifts and favors to the invited elites, who at this particular event included other Majles deputies, various ministers, and members of the shah’s family. At that event, Sevak informed the shah of Ararat’s attempts to obtain funding to build a complex on Armenian Church–owned land in the Tehran suburb of Vanak.[117] Although Ararat members and Armenian Iranian elites had donated money to build the complex, the donations were not nearly enough to cover the building costs for what was planned. Sevak, not imagining that the shah’s contribution to the project would be as vast as it turned out to be, was overjoyed to learn that the shah decided to build Ararat its own state-of-the-art sports arena to seat ten thousand, with adjacent facilities that included an auditorium, meeting halls, and
+
+<!-- page 205 -->
 
 _Sevak Saginian_ | 167 
 
@@ -1799,11 +2212,15 @@ In 1976, Sevak Saginian was elected to the Twenty-Fourth Majles, which was sched
 
 In early December 1978, Bishop Ardak Manoukian called Sevak and requested that he come to the Surb Astvatsatsin Church to speak to members of Tehran’s Armenian community about the growing unrest.[120] Sevak gave a speech in which he expressed his confi dence that Armenians in Iran would be left alone no matter what the outcome of the political struggle and urged the group not to worry. Sevak knew, however, that in the event that the movement to establish an Islamic republic was successful, his own ties to the Pahlavi regime were too strong to allow him to stay and feel that he and his family would be safe from arrest or retribution. 
 
-Sevak’s perception of the situation was confi rmed when he immediately began receiving telephone death threats after the Majles verifi ed the shah’s nomination of Shapour Bakhtiar as prime minister on December 30, 1978. The callers stated that the Majles had not been elected under Islamic law and that Sevak and his fellow deputies had forty-eight hours to resign or face eventual execution.[121] In spite of these credible threats, 
+Sevak’s perception of the situation was confi rmed when he immediately began receiving telephone death threats after the Majles verifi ed the shah’s nomination of Shapour Bakhtiar as prime minister on December 30, 1978. The callers stated that the Majles had not been elected under Islamic law and that Sevak and his fellow deputies had forty-eight hours to resign or face eventual execution.[121] In spite of these credible threats,
+
+<!-- page 206 -->
 
 168 | _Experiences with Iranian Nationalism_ 
 
-Sevak stayed on for the single month of Bakhtiar’s provisional government, in which Bakhtiar gave several speeches to the Majles explaining that there would be no power-sharing agreement with Ayatollah Ruhollah Khomeini, who had appointed Mehdi Bazargan as the prime minister of the Islamic Republic. Although in his thirty-seven days in power as prime minister Bakhtiar ordered the freeing of thousands of political prisoners, the reopening of the Iranian press, and the disbanding of SAVAK, it was much too little, much too late. On February 11, 1979, the same day Bakhtiar fl ed Iran, Sevak also boarded a jet with his family, leaving his career, Ararat, his possessions, and his country behind.[122] 
+Sevak stayed on for the single month of Bakhtiar’s provisional government, in which Bakhtiar gave several speeches to the Majles explaining that there would be no power-sharing agreement with Ayatollah Ruhollah Khomeini, who had appointed Mehdi Bazargan as the prime minister of the Islamic Republic. Although in his thirty-seven days in power as prime minister Bakhtiar ordered the freeing of thousands of political prisoners, the reopening of the Iranian press, and the disbanding of SAVAK, it was much too little, much too late. On February 11, 1979, the same day Bakhtiar fl ed Iran, Sevak also boarded a jet with his family, leaving his career, Ararat, his possessions, and his country behind.[122]
+
+<!-- page 207 -->
 
 ## 5 
 
@@ -1813,7 +2230,9 @@ t h e l o c omo t ive strained to gather momentum and began to pull out of Tehra
 
 While comfortably relaxing in their sleeping cars and taking in the view as the train rolled southwest through the Zagros Mountains, passengers became aware of their entrance into Khuzestan Province as the terrain fl attened, date palms proliferated, and the air thickened with humidity. In Khorramshahr, the interns and other Abadan-bound passengers left the 
 
-169 
+169
+
+<!-- page 208 -->
 
 170 | _Experiences with Iranian Nationalism_ 
 
@@ -1821,7 +2240,9 @@ While comfortably relaxing in their sleeping cars and taking in the view as the 
 
 train and boarded a bus, and soon the unmistakable sight of giant, aboveground storage tanks and smokestacks as well as the now-enveloping sulfurous smell signaled that they had reached their destination. 
 
-At fi rst sight, the enormity of Abadan was stunning. In 1954, the Abadan oil complex was still the largest in the world and occupied a roughly ten-square-mile island mudfl at along the Arvand Rud (Shatt al-Arab in Arabic), where the Tigris and Euphrates Rivers join together before exiting at the head of the Persian Gulf. Established as the AngloPersian Oil Company in 1909 when the local population numbered in the hundreds, by the mid-1930s the complex had become the world’s largest crude-oil-refi ning facility, employing laborers from throughout the nation, who were managed by British expatriates and technical staff .[2] The name was changed to the Anglo-Iranian Oil Company (AIOC) in 1935 to conform with Reza Shah’s decree that the country be referred to as “Iran,” not “Persia,” and then was changed again to the National Iranian Oil Company (NIOC) after the nationalization of the Iranian oil industry and AIOC facilities in May 1951. Manucher Farmanfarmaian—a young petroleum engineering graduate who would later become the head of NIOC 
+At fi rst sight, the enormity of Abadan was stunning. In 1954, the Abadan oil complex was still the largest in the world and occupied a roughly ten-square-mile island mudfl at along the Arvand Rud (Shatt al-Arab in Arabic), where the Tigris and Euphrates Rivers join together before exiting at the head of the Persian Gulf. Established as the AngloPersian Oil Company in 1909 when the local population numbered in the hundreds, by the mid-1930s the complex had become the world’s largest crude-oil-refi ning facility, employing laborers from throughout the nation, who were managed by British expatriates and technical staff .[2] The name was changed to the Anglo-Iranian Oil Company (AIOC) in 1935 to conform with Reza Shah’s decree that the country be referred to as “Iran,” not “Persia,” and then was changed again to the National Iranian Oil Company (NIOC) after the nationalization of the Iranian oil industry and AIOC facilities in May 1951. Manucher Farmanfarmaian—a young petroleum engineering graduate who would later become the head of NIOC
+
+<!-- page 209 -->
 
 _Lucik Moradiance_ | 171 
 
@@ -1833,7 +2254,9 @@ Farmanfarmaian also describes Abadan in 1941 as “a slice of Britain. It was on
 
 For anyone but the local Khuzestani population, who are primarily Arabic-speaking Shi‘ites, summer in Abadan is an unforgettably hot and muggy ordeal, and the majority of workers at the refi nery—including Lucik and her fellow interns—were not locals. In July and August, the temperature averaged higher than 110 degrees Fahrenheit and often exceeded 120, making work in the late morning through late afternoon torturous. The facility’s machinery and piping further stoked the cauldron.[6] 
 
-By 1954, most laboratories and offi  ces as well as housing for management, technical staff , and interns had become generally more tolerable, primarily owing to upgrades completed by the AIOC before nationalization. Laboratories and offi  ces featured stand-alone air-conditioning units, and housing units in the former AIOC “company town” of Braim—which had been off  limits to Iranians before 1951 but was now inhabited by mixed Iranian and foreign personnel—were supplied with air conditioning, 
+By 1954, most laboratories and offi  ces as well as housing for management, technical staff , and interns had become generally more tolerable, primarily owing to upgrades completed by the AIOC before nationalization. Laboratories and offi  ces featured stand-alone air-conditioning units, and housing units in the former AIOC “company town” of Braim—which had been off  limits to Iranians before 1951 but was now inhabited by mixed Iranian and foreign personnel—were supplied with air conditioning,
+
+<!-- page 210 -->
 
 172 | _Experiences with Iranian Nationalism_ 
 
@@ -1841,7 +2264,9 @@ electric coolers, fans, or a combination of the three. Management and staff coul
 
 Lucik and each of her two fellow female interns were assigned to a spacious one-room apartment in Braim, each with a kitchenette; the three apartments were located side by side in a bungalow designated for single women. The fi fteen male interns were given similar accommodations in a separate building, but each shared an apartment with another male intern. Although strictly segregated in living quarters, male and female interns had identical responsibilities and roles and worked alongside each other during their average eight- to ten-hour workdays. Serving on one of three consecutive eight-hour shifts that kept the facility running day and night, those interns and staff  who were off  in the slightly cooler morning hours ran the necessary errands for themselves and their roommates. Yet owing to the high humidity, even the early-morning heat outside was stifl ing, and one would perspire profusely to the point that eyeglasses would fog up from the inside. As Lucik walked in the door to her apartment from a dawn walk to buy groceries one morning soon after they had arrived, she startled and concerned her roommate, who took one look at her and demanded to know who had doused her with water. Despite relatively comfortable accommodations in Braim compared to those of the unelectrifi ed Abadan workers’ slum known as Kaghazabad (Paper City), the summer of 1954 would be the hottest Lucik would ever experience. 
 
-Although the Abadan refi nery had been at the epicenter of the nationalization eff ort during the three years prior to Lucik Moradiance’s arrival, as an intern she heard no discussion of those events or of the new American, British, and French consortium among workers, staff , or other interns.[7] Although unable to gauge the political climate in Abadan at that time, Lucik rather enjoyed this break from political turmoil—especially after the disturbing events she had witnessed in Tehran the previous winter—and she now vividly remembers her excitement at being exposed to so many new things on a daily basis as interns were kept to a rigid schedule as they worked throughout the site. 
+Although the Abadan refi nery had been at the epicenter of the nationalization eff ort during the three years prior to Lucik Moradiance’s arrival, as an intern she heard no discussion of those events or of the new American, British, and French consortium among workers, staff , or other interns.[7] Although unable to gauge the political climate in Abadan at that time, Lucik rather enjoyed this break from political turmoil—especially after the disturbing events she had witnessed in Tehran the previous winter—and she now vividly remembers her excitement at being exposed to so many new things on a daily basis as interns were kept to a rigid schedule as they worked throughout the site.
+
+<!-- page 211 -->
 
 _Lucik Moradiance_ | 173 
 
@@ -1849,7 +2274,9 @@ _Lucik Moradiance_ | 173
 
 Interns rotated to diff erent stations around the refi nery every two weeks as they learned about the various chemical processes undertaken in each distinct section of the facility and studied the workings of the mechanical components and hardware necessary to complete these processes. Receiving hands-on training during the day and poring over relevant technical manuals at night, Lucik learned the rudiments of crude-oil refi ning, catalytic cracking, bituminous material processing, and the function of specialized on-site laboratories. With virtually no nightlife or entertainment to distract or occupy one’s off  hours, and considering the forbidding summer heat outside, the three-month Abadan program off ered interns the opportunity not only to focus on their training, but simultaneously to ponder whether they could handle a career in Abadan’s stark industrial environment or similar petroleum facilities in the South. 
 
-Upon completion of their arduous training, the interns were invited to the home of the refi nery’s general manager, Dr. Reza Fallah, and over tea they were informally encouraged to apply for positions in the refi nery. It was understood that interns would fi rst be taking a break to visit their families, so their decisions were not expected immediately. On the return 
+Upon completion of their arduous training, the interns were invited to the home of the refi nery’s general manager, Dr. Reza Fallah, and over tea they were informally encouraged to apply for positions in the refi nery. It was understood that interns would fi rst be taking a break to visit their families, so their decisions were not expected immediately. On the return
+
+<!-- page 212 -->
 
 174 | _Experiences with Iranian Nationalism_ 
 
@@ -1861,7 +2288,9 @@ When Lucik spoke with her parents about her internship experience and Dr. Fallah
 
 As far back as Lucik Moradiance can trace her parents’ ancestors, they lived for generations in and around Haftvan village in the Salmas region of western Iranian Azerbaijan.[9] For more than two thousand years, Armenians lived in the cities of Urmia, Salmas, Khoy, and Maku to the west and north of Lake Urmia. Scores of surrounding villages such as Haftvan had remained predominantly Armenian up to the early nineteenth century, despite repeated war and conquest over the centuries; a “recent” shortlist of invaders from only the previous twelve hundred years would include Arabs, Persians, Mongols, Turks, and Russians. Neighboring towns of integrated Armenians and Christian Assyrians, such as Khosrava, and of Sunni and Shi‘a Muslim Azeri Turks and Sunni Kurds were interspersed, and some mixed villages of Christians and Muslims existed.[10] Located near the crossroads of the Russian, Persian, and Ottoman Empires, and coveted by several competing nationalisms (and their prospective European patrons), the region’s mixed population would experience long nineteenth and twentieth centuries marked by hunger, violence, and uncertainty, punctuated with periods of relative abundance, stability, and hope. 
 
-In the wake of the Iranian loss in the Russo-Persian War of 1826–28, Russia extended its territory south to the Aras River, seizing the provinces of Yerevan (eastern Armenia) and Nakhichevan. Of the many punitive outcomes for Iran, the Treaty of Turkmanchai, signed by Fath Ali Shah in 1828,[11] set the border between Qajar Iran and the Russian Empire at 
+In the wake of the Iranian loss in the Russo-Persian War of 1826–28, Russia extended its territory south to the Aras River, seizing the provinces of Yerevan (eastern Armenia) and Nakhichevan. Of the many punitive outcomes for Iran, the Treaty of Turkmanchai, signed by Fath Ali Shah in 1828,[11] set the border between Qajar Iran and the Russian Empire at
+
+<!-- page 213 -->
 
 _Lucik Moradiance_ | 175 
 
@@ -1871,7 +2300,9 @@ As natives of Salmas and like most other rural Armenians in the region, Lucik’
 
 Lucik’s mother, Vardanoush Kazarian, was born in 1908 in Simbirsk, and her mother’s brother, Smbat, her only sibling, was born in Astrakhan in 1911. She graduated high school in Astrakhan in 1925, and Smbat completed high school in 1928. Smbat went on to obtain a college degree in Russia and became a teacher in Leningrad before he was arrested in 1939 by the Main Directorate for State Security and was never heard from again. The family assumed that he was executed or died in a prison work camp in the East, but his fate remains a mystery.[13] 
 
-Lucik’s father, Gevork Moradiance, was born in 1900 in Haftvan, where he attended primary school. In 1912, owing to the decrease in security in the region, his parents moved to Astrakhan with their three sons, Garekin, Gevork, and Mourad, the youngest. Gevork’s father started a 
+Lucik’s father, Gevork Moradiance, was born in 1900 in Haftvan, where he attended primary school. In 1912, owing to the decrease in security in the region, his parents moved to Astrakhan with their three sons, Garekin, Gevork, and Mourad, the youngest. Gevork’s father started a
+
+<!-- page 214 -->
 
 176 | _Experiences with Iranian Nationalism_ 
 
@@ -1879,13 +2310,17 @@ new business growing tomatoes and manufacturing tomato paste for bulk sale. The 
 
 Despite these immense challenges and the October Revolution of 1917 that brought the Bolsheviks to power, Gevork Moradiance continued his father’s small tomato paste business in Astrakhan for more than ten years. The business survived both the period of “war communism” in which agricultural goods were requisitioned for support of the Red Army and the battle for Astrakhan in October 1919, in which White Army forces and the Astrakhan Cossacks were defeated (by the Reds). Because private enterprise in agriculture was allowed under the fi rst Soviet New Economic Policy (NEP) of 1921–28,[14] the business fl ourished. As a result of his regained stability and success, in 1924 Gevork married and had a daughter, Marianna. Within four years, however, large-scale political events would once again lead to hard times. With the death of Lenin and the end of the NEP, the Soviet leader Joseph Stalin instituted the First FiveYear Plan, which initiated forced collectivization of Soviet agriculture. At the same time, Gevork’s wife fell ill, and her health rapidly deteriorated, leaving Gevork a widower with a child. 
 
-Gevork’s late wife and Vardanoush Kazarian were second cousins who had endured similar hardships, and after establishing a relationship 
+Gevork’s late wife and Vardanoush Kazarian were second cousins who had endured similar hardships, and after establishing a relationship
+
+<!-- page 215 -->
 
 _Lucik Moradiance_ | 177 
 
 of their own, Vardanoush and Gevork were married in 1929. However, the comfort of their union was mitigated by the dim realities of the situation they were facing. With the demise of the NEP and nationalization of private enterprise, the beginnings of forced collectivization of agriculture, and a general increase in political repression under Stalin, the Moradiance family made plans to leave Russia and return to Iran. Because Gevork’s business had employed only family members rather than peasant laborers and profi ted only enough to sustain the small family and perpetuate the business, the Moradiances were not necessarily considered _kulaks_ (rich farmers to be liquidated by the Five-Year Plan) but nevertheless faced certain forced collectivization. Now under its fourth year of Pahlavi rule, following the ouster of Ahmad Shah Qajar by Reza Khan and his subsequent self-coronation in 1926, their ancestral homeland again looked appealing because it was relatively stable economically and appeared increasingly secure. Shortly after the birth of daughter Lucik in Astrakhan in 1930, Gevork traveled alone by train to Tabriz to fi nd a home to rent and look into business possibilities. When he was successful on both fronts, Vardanoush brought the two girls and the family’s remaining possessions to Tabriz in July 1931. 
 
-Collaborating with his brother, Mourad, who also decided to make the move from Astrakhan to Tabriz, Gevork established a small winery near Azarshahr thirty miles southwest of Tabriz. By the mid-1930s, the Moradiance brothers were able to expand the business to include a foodcanning factory, which was one of the fi rst of its kind in the region. Vardanoush contributed to the family income as well, working long hours after the three children had gone to bed (a son, Garekin, was born in 1932). Sewing colorful fabric fl owers for women’s hats at night, she unwittingly was poised to dominate a local market niche that would be opened by the Pahlavi regime. Owing to Reza Shah’s decree in January 1936 that women must remove their chadors in public, Western-style women’s hats began fl ying off  the shelves. As such, Vardanoush could not keep up with the demand for her fl owers, which had formerly been worn only by Armenian and Assyrian women but were increasingly becoming in demand in Tabriz. Although the Moradiance family did not become wealthy overnight, by the late 1930s they had established what would be considered a 
+Collaborating with his brother, Mourad, who also decided to make the move from Astrakhan to Tabriz, Gevork established a small winery near Azarshahr thirty miles southwest of Tabriz. By the mid-1930s, the Moradiance brothers were able to expand the business to include a foodcanning factory, which was one of the fi rst of its kind in the region. Vardanoush contributed to the family income as well, working long hours after the three children had gone to bed (a son, Garekin, was born in 1932). Sewing colorful fabric fl owers for women’s hats at night, she unwittingly was poised to dominate a local market niche that would be opened by the Pahlavi regime. Owing to Reza Shah’s decree in January 1936 that women must remove their chadors in public, Western-style women’s hats began fl ying off  the shelves. As such, Vardanoush could not keep up with the demand for her fl owers, which had formerly been worn only by Armenian and Assyrian women but were increasingly becoming in demand in Tabriz. Although the Moradiance family did not become wealthy overnight, by the late 1930s they had established what would be considered a
+
+<!-- page 216 -->
 
 178 | _Experiences with Iranian Nationalism_ 
 
@@ -1895,7 +2330,9 @@ Lucik’s fi rst memories are of this tranquil period—playing in and around he
 
 In 1934 and 1935, Lucik attended an independent Armenian kindergarten that was managed by an Armenian woman, Astghik Hacobian. It was located in the small park adjacent to the residence of Archbishop Nerses Melik-Tangians and operated under supervision and fi nancial assistance from the Armenian Relief Society.[15] Having acquired Armenian as her primary language in the home and at kindergarten, and having played almost exclusively with other Armenian children in Karashenk, Lucik was a bit confused when she found out that the following year in elementary school her teachers would be speaking a diff erent language. It was called Farsi. 
 
-In 1936, Lucik entered into the newly renamed Farrokhi Girls’ School, which had opened on the grounds of the Armenian elementary school known as the Gymnasia. The Gymnasia and other “foreign-language” and missionary schools—including those with primary instruction in AzeriTurkish, Kurdish, and European languages—were nationalized by decree of Reza Shah as a component of his program to bolster Iranian national identity, in this case through linguistic and curricular uniformity.[16] 
+In 1936, Lucik entered into the newly renamed Farrokhi Girls’ School, which had opened on the grounds of the Armenian elementary school known as the Gymnasia. The Gymnasia and other “foreign-language” and missionary schools—including those with primary instruction in AzeriTurkish, Kurdish, and European languages—were nationalized by decree of Reza Shah as a component of his program to bolster Iranian national identity, in this case through linguistic and curricular uniformity.[16]
+
+<!-- page 217 -->
 
 _Lucik Moradiance_ | 179 
 
@@ -1903,7 +2340,9 @@ Persian headmasters were assigned to assure compliance with new directives, whic
 
 Between 1923 and 1941, the Iranian government invested more in the reform and growth of secondary and postsecondary schools than in other areas of education,[20] which considerably increased the number of male and female students attending them. Although the percentage of female students would continue to lag far behind that of male students, the improvements in gender equalization in this period are noteworthy nevertheless. Between 1924 and 1944, the total number of female students enrolled in Iranian schools grew from nearly 17 percent to 28 percent, and the number of female high school graduates increased from none in 1921 to 356 by 1936. The number of male students completing high school grew nearly ten times between 1921 and 1938, and the number of both male and female students to enroll would continue to increase until the period of Allied occupation (1941–45).[21] 
 
-The classes taught at Farrokhi Girls’ School while Lucik was in attendance from 1936 to 1942 included Persian, reading, writing, natural sciences, mathematics, history, geography, drawing, and singing. Lucik’s favorite classes were math, natural sciences, and singing, while drawing was her least favorite. Her years at Farrokhi were formative: she excelled in school, and her consistently high scores refl ected a genuine passion for learning and study that would last throughout her life. It was here, in Farrokhi’s ethnically and religiously diverse classrooms—where Persian and Azeri Muslims sang and read and drew along with Armenian and Assyrian Christians—that Lucik fi rst became aware of other languages 
+The classes taught at Farrokhi Girls’ School while Lucik was in attendance from 1936 to 1942 included Persian, reading, writing, natural sciences, mathematics, history, geography, drawing, and singing. Lucik’s favorite classes were math, natural sciences, and singing, while drawing was her least favorite. Her years at Farrokhi were formative: she excelled in school, and her consistently high scores refl ected a genuine passion for learning and study that would last throughout her life. It was here, in Farrokhi’s ethnically and religiously diverse classrooms—where Persian and Azeri Muslims sang and read and drew along with Armenian and Assyrian Christians—that Lucik fi rst became aware of other languages
+
+<!-- page 218 -->
 
 180 | _Experiences with Iranian Nationalism_ 
 
@@ -1913,7 +2352,9 @@ In primary and secondary school, Lucik recalls that she was not treated diff ere
 
 During these years of Lucik’s primary education, important foundations were being laid for her eventual rise through the Iranian public education system and into a professional career. In addition to a leveling of the playing fi eld for religious and ethnic minorities, Reza Shah’s modernizing, westernizing, and secularizing agenda also called for the integration of women into the workforce and civil service. Described by historians alternatively as a bold, transformational “state feminism” project that marked a watershed in the making of the modern Iranian woman and society[24] or as window dressing enabling the appropriation of a genuine women’s movement to confi rm the regime’s power and to maintain “patriarchal consensus,” the Nahzat-e Banovan (Women’s Awakening) of 1936–41 was undoubtedly essential to Lucik’s future options and trajectory.[25] 
 
-Certainly, the imposition of unveiling laws in 1936 was by far the most overt, dramatic, and controversial aspect of the Women’s Awakening.[26] But arguably the most important and long-lasting element of the project came the year before its offi  cial inauguration, when after lively debates in the Majles and the press throughout 1934, in which voices both for and 
+Certainly, the imposition of unveiling laws in 1936 was by far the most overt, dramatic, and controversial aspect of the Women’s Awakening.[26] But arguably the most important and long-lasting element of the project came the year before its offi  cial inauguration, when after lively debates in the Majles and the press throughout 1934, in which voices both for and
+
+<!-- page 219 -->
 
 _Lucik Moradiance_ | 181 
 
@@ -1921,7 +2362,9 @@ against women’s higher education focused almost entirely on implications for h
 
 Although the regime’s program for women’s education and the gains made by women at Tehran University would persist beyond 1941, Reza Shah’s tenure as shah would not. The Soviet entry into World War II, British concerns over AIOC facilities in the South, Reza Shah’s pro-German orientation, and the presence of hundreds of German technical advisers and expatriates in Iran combined to motivate an Allied invasion of Iran in August 1941.[30] Reza Shah’s subsequent abdication and exile signaled the end of the Women’s Awakening project, which, like most of Reza Shah’s programs and laws, was either shelved for several years or scrapped entirely. Nomadic tribes previously forced to sedentarize again took to the hills with their fl ocks, Muslim women were free again to wear the chador in public if they chose, and “foreign-language” schools reopened and began teaching their nonstandardized curriculum.[31] The number of women attending Tehran University dropped dramatically during the war years but began to rebound by academic year 1947–48, two years before Lucik Moradiance would herself enroll there.[32] Failing to persist as government policy, the Women’s Awakening of 1936–41 had nevertheless successfully established a tradition of women’s higher education in Iran that would persist through war, revolution, and radical social and political reorientation.[33] 
 
-During the summer of 1941, Lucik’s family took what had become an annual vacation in Azarshahr, staying in a residence adjacent to her father’s factory, which was surrounded by orchards. Late that August, 
+During the summer of 1941, Lucik’s family took what had become an annual vacation in Azarshahr, staying in a residence adjacent to her father’s factory, which was surrounded by orchards. Late that August,
+
+<!-- page 220 -->
 
 182 | _Experiences with Iranian Nationalism_ 
 
@@ -1929,7 +2372,9 @@ hearing the news that the Soviet Union had invaded Iranian Azerbaijan and that R
 
 Such was the scene across northern Iran as Iranian soldiers for the most part fl ed their barracks in the face of a Russian attack.[35] Although Gevork Moradiance had little choice but to assist the group of soldiers, he was in fact genuinely sympathetic to their situation because he was essentially neutral regarding the entire confl ict. Neither strong Iranian nationalists nor Communist-loathing Dashnaks like some of their relatives, Lucik’s parents were not pro-Soviet owing to their experiences there and the fact that the family believed that Stalin was responsible for the execution of Lucik’s uncle Smbat, but they were not against Russia or disdainful of Russian people like the Dashnaks were. Nevertheless, Iran was their ancestral homeland and had again become a stable and safe place to live and do business. The anticipation of what the Soviet occupation would mean put a damper on the family’s remaining days in Azarshahr. Little could they have imagined that it would be the end of Soviet occupation rather than its imposition that would bring about the destruction of their factory and the return of hard times. 
 
-Despite the concerns of the adults around her, Lucik began sixth grade at Farrokhi two weeks after the Soviet invasion in September 1941 and was glad to see her friends once again and to get back to classes and learning, which she enjoyed more and more each passing year. The adults also soon relaxed; rather than seeing his business seized, collectivized, or otherwise restricted, by winter 1942 Lucik’s father was attempting to increase the output of canned food, which was, somewhat remarkably, 
+Despite the concerns of the adults around her, Lucik began sixth grade at Farrokhi two weeks after the Soviet invasion in September 1941 and was glad to see her friends once again and to get back to classes and learning, which she enjoyed more and more each passing year. The adults also soon relaxed; rather than seeing his business seized, collectivized, or otherwise restricted, by winter 1942 Lucik’s father was attempting to increase the output of canned food, which was, somewhat remarkably,
+
+<!-- page 221 -->
 
 _Lucik Moradiance_ | 183 
 
@@ -1939,7 +2384,9 @@ By spring of 1942, the future was again looking bright for the Moradiances, and 
 
 Lucik entered Dabirestan-e Parvin (Parvin High School) for girls in 1943. The school building was originally constructed to house the American Missionary Memorial School for boys, which Presbyterian missionaries had established in 1891. Well known as the fi rst institution of its type in Tabriz, the Memorial School had been the workplace of an American _shahid_ (martyr) of the Iranian Constitutional Revolution, Howard Baskerville.[36] Like the Gymnasia, however, the Memorial School, as a “foreignlanguage” institution, had been switched to an Iranian administration, staff , and curriculum in 1936, which were maintained, albeit temporarily, under Soviet occupation. 
 
-Girls entered Parvin High School in the seventh grade and took introductory classes in major fi elds taught by predominantly male teachers. Persian, English, Arabic, natural sciences, chemistry, physics, math, drawing, sports were required in the basic curriculum. Beginning in tenth grade, students were divided into two tracks, and the curriculum varied accordingly. Those who did not want to continue their higher education beyond the twelfth grade (a decision almost always made by parents) took courses in _khane dari_ (the domestic sciences), which included continuing study in the three language courses, some classes in basic natural sciences, and an added emphasis on childcare, hygiene, cooking, and home economics. For those who planned on continuing their education beyond high school, study continued in all of the areas taught in the previous years, with the addition of advanced math, geometry, and algebra. In the twelfth grade, students were again branched into diff erent tracks or majors. One track was a social sciences group for those who wanted to pursue literature, history, or geography. A second in natural sciences was designed for those who wanted to apply for medical college, pharmacology, or dentistry. A third was a mathematical sciences track for those who wanted to major in engineering, physics, or mathematics. The latter track 
+Girls entered Parvin High School in the seventh grade and took introductory classes in major fi elds taught by predominantly male teachers. Persian, English, Arabic, natural sciences, chemistry, physics, math, drawing, sports were required in the basic curriculum. Beginning in tenth grade, students were divided into two tracks, and the curriculum varied accordingly. Those who did not want to continue their higher education beyond the twelfth grade (a decision almost always made by parents) took courses in _khane dari_ (the domestic sciences), which included continuing study in the three language courses, some classes in basic natural sciences, and an added emphasis on childcare, hygiene, cooking, and home economics. For those who planned on continuing their education beyond high school, study continued in all of the areas taught in the previous years, with the addition of advanced math, geometry, and algebra. In the twelfth grade, students were again branched into diff erent tracks or majors. One track was a social sciences group for those who wanted to pursue literature, history, or geography. A second in natural sciences was designed for those who wanted to apply for medical college, pharmacology, or dentistry. A third was a mathematical sciences track for those who wanted to major in engineering, physics, or mathematics. The latter track
+
+<!-- page 222 -->
 
 184 | _Experiences with Iranian Nationalism_ 
 
@@ -1949,7 +2396,9 @@ was most appealing to Lucik, whose interest in mastering these subjects and her 
 
 In 1945, in Lucik’s ninth grade year at Parvin, Iranian Azerbaijan was again thrown into a state of political turmoil. In a new variation of the same geopolitical power struggle that had distinguished the long nineteenth century, the region became the epicenter of a new type of global confl ict—the Cold War—and served as its fi rst point of crisis when the short-lived Soviet puppet Azerbaijan People’s Government (APG, November 1945–November 1946) was declared and to the south the independent Kurdish Republic of Mahabad (1945–46) was established. Breaking the wartime agreement that occupying powers (i.e., the United States, Soviet Union, and the United Kingdom) would withdraw their forces within six months after the cessation of hostilities, the Soviets intended to support and protect these fl edgling socialist states and to cultivate proxies. Putting the newly founded international organization called the United Nations to an immediate test, the United States and Britain exerted suffi  cient pressure on the Soviets to force the withdrawal of Red Army forces, which spelled certain doom for the APG and the Mahabad Republic. 
 
-When the Red Army pulled out of Azerbaijan in November 1946, the APG lost its critical military support, and as Iranian military forces neared Tabriz, APG leaders fl ed north to the Soviet Union or went underground. 
+When the Red Army pulled out of Azerbaijan in November 1946, the APG lost its critical military support, and as Iranian military forces neared Tabriz, APG leaders fl ed north to the Soviet Union or went underground.
+
+<!-- page 223 -->
 
 _Lucik Moradiance_ | 185 
 
@@ -1957,13 +2406,17 @@ Until Iranian forces were able to assert authority and impose security throughou
 
 Seeking employment in the wake of this family disaster, Gevork’s younger brother, Mourad, moved with his wife and son to Tehran to seek work and try to establish a business, but Lucik’s parents, now with four children (daughter Anahid was born in 1944), remained in Tabriz. At fi rst, they tried a home canning business, but it was neither profi table nor sustainable. Branching out from their traditional business skills, they started a small beverage-distribution business to supplement canning, and it quickly became the mainstay of family income. Gevork eventually opened a wholesale distribution shop for alcoholic beverages in 1949. Employing mostly Turkish men, he sold wine and arrack that were made locally on a small scale, cognac imported from Rezayeh, and larger supplies of vodka, arrack, bulk wine, as well as an occasional liqueur imported from Tehran. The operation was licensed by the state, which required that each bottle sold have a stamped seal indicating that the required tax had been paid to the fi nance offi  ce. Around this time, Gevork fell ill with diabetes. Despite access to insulin, Gevork’s combination of poor diet and stress owing to his repeated fi nancial losses took an enormous toll on his health.[37] 
 
-In its short period of existence, the APG had established the University of Tabriz (originally the University of Azerbaijan) in June 1946, off ering advanced degrees in medicine, education, and agriculture. Because Lucik’s older sister Marianna and two other young women, Hasmik 
+In its short period of existence, the APG had established the University of Tabriz (originally the University of Azerbaijan) in June 1946, off ering advanced degrees in medicine, education, and agriculture. Because Lucik’s older sister Marianna and two other young women, Hasmik
+
+<!-- page 224 -->
 
 186 | _Experiences with Iranian Nationalism_ 
 
 Haroutunian and Jemma Mouradkhanian, did not have the required twelfth year of science and mathematics necessary for entrance, they had to get private tutoring to gain admission to the Medical School that fall. In November 1946, however, when the women had taken three months of coursework, the APG fell, and the university was immediately closed by the Iranian government. When it was announced that the university would be reopened in the fall of 1947, Marianna and her friends were told by the new staff  that they would not be able to return to the university (i.e., they were expelled) because they hadn’t been “legally admitted.” No amount of pleading changed this decision, which was determined to be fi nal. When Muhammad Reza Pahlavi visited Tabriz for the fi rst time since Iranian governmental authority had been restored, Hasmik Haroutunian, undeterred, attempted to present a letter directly to the shah, crafted and signed by all three women, explaining their plight and requesting readmission to the university. Between the shah’s tight security and the throngs of supporters who came out to demonstrate their allegiances or to present damage and loss claims, the closest she got was to one of his assistants. Nevertheless, Hasmik was promised that the letter would be given to the shah. Apparently this promise was not just _ta‘arof_ (Persian ritual courtesy): the shah received the letter and ordered that the Ministry of Education allow the three Armenian Iranian women to continue with their studies. They were therefore the fi rst women ever to attend the University of Tabriz Medical School.[38] After Marianna graduated, she was hired as assistant professor at the Medical School and ran a private practice in the evenings. 
 
-Like Marianna, who set a good example by excelling at school, the greatest infl uence in Lucik’s path to higher education and a professional career was that of her parents, who instilled the idea in their children’s elementary school years that a high school education was an important step, but that it should not constitute the end of a man or a woman’s education. Drilling home the motto that “the only thing that will stay with you throughout your life is education,” Vardanoush was Lucik’s primary mentor. She made sure that Lucik received the proper private tutor for Armenian, English, and Russian and set a positive example by always reading something if she had free time and encouraging the children to join her 
+Like Marianna, who set a good example by excelling at school, the greatest infl uence in Lucik’s path to higher education and a professional career was that of her parents, who instilled the idea in their children’s elementary school years that a high school education was an important step, but that it should not constitute the end of a man or a woman’s education. Drilling home the motto that “the only thing that will stay with you throughout your life is education,” Vardanoush was Lucik’s primary mentor. She made sure that Lucik received the proper private tutor for Armenian, English, and Russian and set a positive example by always reading something if she had free time and encouraging the children to join her
+
+<!-- page 225 -->
 
 _Lucik Moradiance_ | 187 
 
@@ -1971,7 +2424,9 @@ with their own reading. When Lucik returned home from school on exam days, her m
 
 Although it was back in her fi rst years at Farrokhi elementary school that Lucik discovered that she enjoyed science more than any other subjects, it was an infl uential tenth-grade teacher who solidifi ed her interest in science and made chemistry particularly appealing. After the fall of the APG in 1946, groups of recent college graduates were sent from Tehran to Iranian Azerbaijan to replace faculty who had been fi red after having been accused of involvement with or support of the Pishavari government and to bolster the Pahlavi regime’s image in the region. Lucik was fortunate to have one of these young, energetic teachers for tenth-grade chemistry. Mr. Mansour was highly organized and would always challenge the class to grapple with diffi  cult and at times potentially volatile chemical combination problems, while remaining relatively empathetic of students and enthusiastic about the subject. With this infusion of new teachers, Lucik’s other classes became more enjoyable as well, but chemistry remained her favorite subject. In eleventh grade, she received the highest score for her school on the national exam, which was a thrilling experience and achievement for a young female student.[39] 
 
-With this kind of positive support for her education from immediate family members and dedicated teachers at the fi ne schools she attended, Lucik was free to select the path she most liked. But her parents’ own experiences and memories certainly shaped their advice and guidance. Although Lucik’s initial interest in high school was to become a chemistry teacher, Vardanoush often reminisced of her father’s and brother’s negative experiences with teaching (however common or unique they might have been) and was thus cool to the idea. It was clear that both of her parents would have been happy for Lucik to follow in Marianna’s footsteps and attend medical school in Tabriz, but Lucik abhorred the type of rote memorization that medical school demanded of her sister, so this was out of the question. Though the family was fi nancially strapped at the time owing to the loss of the canning factory, and despite the fact that arrangements would have to be made for Lucik to move to Tehran for her studies, 
+With this kind of positive support for her education from immediate family members and dedicated teachers at the fi ne schools she attended, Lucik was free to select the path she most liked. But her parents’ own experiences and memories certainly shaped their advice and guidance. Although Lucik’s initial interest in high school was to become a chemistry teacher, Vardanoush often reminisced of her father’s and brother’s negative experiences with teaching (however common or unique they might have been) and was thus cool to the idea. It was clear that both of her parents would have been happy for Lucik to follow in Marianna’s footsteps and attend medical school in Tabriz, but Lucik abhorred the type of rote memorization that medical school demanded of her sister, so this was out of the question. Though the family was fi nancially strapped at the time owing to the loss of the canning factory, and despite the fact that arrangements would have to be made for Lucik to move to Tehran for her studies,
+
+<!-- page 226 -->
 
 188 | _Experiences with Iranian Nationalism_ 
 
@@ -1981,7 +2436,9 @@ Aside from her mother’s aversions and perhaps superstitions about teaching as 
 
 Because there was no twelfth-grade mathematical science branch for girls in Tabriz, and girls could not attend boys’ schools, Lucik had to move to Tehran to pursue an engineering major. Because it was out of the question for a young woman to live alone in the nation’s burgeoning capital, arrangements were made for Lucik to stay with relatives in Tehran so that she could attend Nurbakhsh Girls’ High School (formerly the American Bethel School for Girls) in academic year 1949–50, which off ered the twelfth-grade curriculum in math and science required for university entry.[40] The moment Lucik stepped onto the Nurbakhsh school grounds, she was impressed. From its large, spacious classrooms to its well-dressed student body and its highly professional teaching staff , the campus exuded a serious and prestigious air. She was even more impressed to discover that her math teacher, Professor Fatemi, the chemistry teacher, Mr. Pezeshkpoor, and the physics instructor, Dr. Sedighi, were authorities in their respective fi elds and had authored some of the textbooks used in schools nationwide. Acclimating easily to her new school, Lucik was excited about the move to Tehran and was not often homesick because she was able to return Tabriz during summer and Nowruz (New Year) vacations,[41] and her mother and father made trips to Tehran to visit her when they could. 
 
-Having completed the required coursework at Nurbakhsh, Lucik was fi nally ready to apply for college. The Tehran University College of Engineering campus was located near the center of the city on Shah Reza 
+Having completed the required coursework at Nurbakhsh, Lucik was fi nally ready to apply for college. The Tehran University College of Engineering campus was located near the center of the city on Shah Reza
+
+<!-- page 227 -->
 
 _Lucik Moradiance_ | 189 
 
@@ -1989,7 +2446,9 @@ Avenue with another entrance off  Takht-e Jamshid. In the late 1940s and early 1
 
 Four female and seventy-six male students were admitted to the College of Engineering at Tehran University in 1950. Of the four female students, three were Armenians: Lucik Moradiance, Nazik Sarkissian, and Genoush Hovanessian. Pouran Shahandeh, a civil engineering student, was the single female Persian Iranian student. Out of the one hundred students admitted, twenty-four were Armenians. Thus, approximately one-fourth of the entering student body at that time, this proportion of Armenians was high considering the fact that Armenians constituted less than one percent of Iran’s population.[42] 
 
-Several years ahead of Lucik’s class with four female students were two women who were considered pioneers because they were the fi rst women admitted to the engineering program in 1947. Arshalous “Milik” Voskian majored in chemical engineering, and Touran Khodabandeh majored in mechanical and electrical engineering. Lucik remembers well the other female students on campus during her fi rst year—after all, they totaled only eight. In addition to her three fellow classmen and the two female senior pioneers, there were three female students who entered in 1948, including Nina Oganian in civil engineering; Nadia Kharchenko, a Russian Iranian student; and Malihe Khatibi, a Persian Muslim. No women had been admitted to the program in 1949, and four (including Lucik) were admitted in 1950. 
+Several years ahead of Lucik’s class with four female students were two women who were considered pioneers because they were the fi rst women admitted to the engineering program in 1947. Arshalous “Milik” Voskian majored in chemical engineering, and Touran Khodabandeh majored in mechanical and electrical engineering. Lucik remembers well the other female students on campus during her fi rst year—after all, they totaled only eight. In addition to her three fellow classmen and the two female senior pioneers, there were three female students who entered in 1948, including Nina Oganian in civil engineering; Nadia Kharchenko, a Russian Iranian student; and Malihe Khatibi, a Persian Muslim. No women had been admitted to the program in 1949, and four (including Lucik) were admitted in 1950.
+
+<!-- page 228 -->
 
 190 | _Experiences with Iranian Nationalism_ 
 
@@ -2001,7 +2460,9 @@ Because the Iranian education system had not yet developed the capacity to produ
 
 Although in terms of statistics and in historical hindsight Lucik’s university education was a new and relatively rare thing (she was part of a small handful of female students attending university at the time), Lucik experienced neither positive nor negative reactions to the fact that she was a female college student other than from the aforementioned matchmakers and the one infamous professor. 
 
-In general, Armenian and Persian students did not socialize outside of school, and female Armenian students maintained closer relationships to each other, as did their female Persian (i.e., Muslim) counterparts, although relations were always cordial. During breaks between classes, Armenian female students socialized with Persian female students (initially only one, Pouran Shahandeh), although this necessitated a shift to the Persian language, sometimes in midsentence, to be respectful to someone joining a conversation in progress. Lucik remembers walking out of class one day during her freshman year chatting in Armenian, when 
+In general, Armenian and Persian students did not socialize outside of school, and female Armenian students maintained closer relationships to each other, as did their female Persian (i.e., Muslim) counterparts, although relations were always cordial. During breaks between classes, Armenian female students socialized with Persian female students (initially only one, Pouran Shahandeh), although this necessitated a shift to the Persian language, sometimes in midsentence, to be respectful to someone joining a conversation in progress. Lucik remembers walking out of class one day during her freshman year chatting in Armenian, when
+
+<!-- page 229 -->
 
 _Lucik Moradiance_ | 191 
 
@@ -2011,7 +2472,9 @@ Owing to the small number of female students on campus, Lucik was able to cultiv
 
 Lucik usually socialized with her fellow fi rst-year students on campus and would join Nazik and Genoush to study with other Armenian students at the university library. Armenian students socialized outside of the university as well. Aside from personal friendships and small gatherings attended by fellow Armenian students, there was also the Hay Hamalsaranakanneri Miutyun (Society of Armenian Graduates), which organized lectures and parties. Some Armenian students also socialized at the right-leaning Ararat club, which had been established in 1946 by Armenian intellectuals and athletes as a social and cultural organization. Ararat sponsored and organized public events such as plays and concerts, which were well attended by a cross section of Tehran’s Armenian Iranian population, and many local youth participated in Ararat’s sporting and scouting activities. Yet Ararat’s clear but unstated orientation toward the Dashnak Party as well as the obvious but unstated membership of most of its founders in that party meant that some Armenians would attend only its public events, and others—in particular those who supported the Communist Tudeh Party—at best wanted nothing to do with the organization and at worst wanted it liquidated.[45] Armenians constituted more than half of Tudeh Party leadership and a large part of its constituency in the late 1940s, so the Dashnak’s vociferous anticommunism kept many Tudeh supporters at a distance from Ararat. 
 
-Lucik was basically apolitical in her young adulthood and was not drawn to the sports and theater-oriented activities of Ararat or other 
+Lucik was basically apolitical in her young adulthood and was not drawn to the sports and theater-oriented activities of Ararat or other
+
+<!-- page 230 -->
 
 192 | _Experiences with Iranian Nationalism_ 
 
@@ -2019,7 +2482,9 @@ social clubs as much as she enjoyed her own academic pursuits and spending time 
 
 Lucik attended concerts and theater presentations and had many friends who were Ararat members, but she was always short on extra time owing to her studies (and later to her professional life). If she had more time, she would have taken English classes rather than pursue more Armenian-related activities. Lucik’s attitude about Soviet Armenia was not the same hard line the Dashnaks took. In her view, although the regime was not desirable, she appreciated the scope of progress in education, health care, art, and military protection the Soviet Union provided. Because there were no direct channels of communication between Armenia and Iran, radio broadcasts from Armenia had to suffi  ce for news and information, and although she was aware that much of the news was infused with state propaganda, she nevertheless enjoyed hearing Armenian folk music and was proud that Armenian musicians, writers, and artists were making progress. She thought that nothing should be done for the goals of nationalism or independence that might hinder the advances of Armenians in Armenia or stunt their progress in art, science, and industry in the Soviet Union. As Lucik reasoned at the time, had Armenia become independent, the next day Turkey would have invaded, so what would have been the point? In considering the choice between being under Soviet control (and thus its protection) and fi ghting the Soviet Union for Armenian independence, Lucik preferred the former, even if it was not optimal. 
 
-Like millions of fellow Iranians and most of her fellow students at Tehran University, Lucik initially supported Prime Minister Mohammad Mossadegh’s eff ort in 1950 to renegotiate the AIOC concession to obtain a fi fty–fi fty split akin to that struck by Saudi Arabia and Aramco that same 
+Like millions of fellow Iranians and most of her fellow students at Tehran University, Lucik initially supported Prime Minister Mohammad Mossadegh’s eff ort in 1950 to renegotiate the AIOC concession to obtain a fi fty–fi fty split akin to that struck by Saudi Arabia and Aramco that same
+
+<!-- page 231 -->
 
 _Lucik Moradiance_ | 193 
 
@@ -2027,7 +2492,9 @@ year and the subsequent nationalization of all AIOC fi elds and assets in Iran w
 
 Less than four months after the successful coup d’état, on December 7, 1953 (Azar 16, 1332), US vice president Richard Nixon visited Iran in a demonstration of support for the shah, who had not yet crushed proTudeh and pro-Mossadegh opposition and whose legitimacy had suff ered when he fl ed the country while the coup was carried out.[47] Although the morning began uneventfully for Lucik, who was prepared for her regular schedule of classes and lab work, she was surprised to fi nd outraged students at Tehran University, primarily pro-Tudeh but also supporters of the National Front and Pan-Iranists, gathering to protest and express their anger over US interference in Iran. They were milling about outside the main building as she entered to attend morning classes, trying to explain the reasons for their anger to fellow students and a few faculty onlookers. Lucik had mixed feelings about politics and sympathized to an extent with the student protesters, but skipping class to attend the rally was for her simply out of the question. Her primary concerns at the time were her education and her family, whatever the nature or merits of her fellow students’ grievances. 
 
-Suddenly, in the middle of her morning class, the bell rang, and the dean’s assistant entered the room to tersely announce that all students, staff , and faculty were to leave the premises immediately. Although he left to inform the neighboring class without further explanation, the noise of the 
+Suddenly, in the middle of her morning class, the bell rang, and the dean’s assistant entered the room to tersely announce that all students, staff , and faculty were to leave the premises immediately. Although he left to inform the neighboring class without further explanation, the noise of the
+
+<!-- page 232 -->
 
 194 | _Experiences with Iranian Nationalism_ 
 
@@ -2035,7 +2502,9 @@ protestors outside chanting antishah and anti–United States slogans made it ob
 
 As witness to what would thereafter be annually remembered on Azar 16 as “Student Day,” and with family history that had mixed experiences under monarchial, socialist, Communist, and secular democratic political systems, Lucik internally maintained strong convictions regarding social justice in Iran and complex thoughts about its political future. By the time she reached early adulthood, however, the culmination of her experiences and family history taught her to choose her words carefully and to confi de only in trusted relatives and friends. As such, with her penchant for study and technology, and with a warm but reserved nature, Lucik developed a reputation on campus and later in professional life and social circles as a no-nonsense person, at ease with both highly technical and light conversation, but ever elusive on the subject of politics. 
 
-During spring term 1954, as a sense of normalcy returned to campus, Lucik immersed herself in her studies and Engineering College fi eld trips, trying to look forward to her upcoming graduation and investigating internship and job options to pursue after she obtained her degree in chemical engineering. 
+During spring term 1954, as a sense of normalcy returned to campus, Lucik immersed herself in her studies and Engineering College fi eld trips, trying to look forward to her upcoming graduation and investigating internship and job options to pursue after she obtained her degree in chemical engineering.
+
+<!-- page 233 -->
 
 _Lucik Moradiance_ | 195 
 
@@ -2043,7 +2512,9 @@ _Lucik Moradiance_ | 195
 
 At that time, two internship programs were accepting new applicants; one was in Abadan, the other at an oil hydrogenation plant in Tehran. Although the Tehran internship would be closer to her parents and thus preferable to them, Lucik opted for the Abadan program, where she would be able to learn about the inner workings of a large-scale petrochemical plant. She applied and was accepted, entering a three-month summer training course at the Abadan refi nery, which began in June. 
 
-Lucik’s parents were standing in virtually the same spot where they had bid her good-bye three months earlier, excitedly waving hello as the dusty train slowed to a stop at Tehran Railway station. Pondering whether she should apply for a job at Abadan for most of the overnight return trip, she realized the pros (relatively high pay, fascinating work, an important national concern and duty) and cons (the heat, the harsh industrial environment, the distance from her family, the humidity, the almost total lack of other women, and, again, the heat) were about equal, so she was essentially neutral about the idea. After she discussed her experiences and the potential position with her parents, her father was not adamant that she turn down the off er, but his expressed concerns as well as Lucik’s concern 
+Lucik’s parents were standing in virtually the same spot where they had bid her good-bye three months earlier, excitedly waving hello as the dusty train slowed to a stop at Tehran Railway station. Pondering whether she should apply for a job at Abadan for most of the overnight return trip, she realized the pros (relatively high pay, fascinating work, an important national concern and duty) and cons (the heat, the harsh industrial environment, the distance from her family, the humidity, the almost total lack of other women, and, again, the heat) were about equal, so she was essentially neutral about the idea. After she discussed her experiences and the potential position with her parents, her father was not adamant that she turn down the off er, but his expressed concerns as well as Lucik’s concern
+
+<!-- page 234 -->
 
 196 | _Experiences with Iranian Nationalism_ 
 
@@ -2051,7 +2522,9 @@ Lucik’s parents were standing in virtually the same spot where they had bid he
 
 for his declining health led her to reject the potential job at Abadan, and she began looking for a position in Tehran. 
 
-Because Dr. Fallah had been so quick to suggest that Lucik apply for a job in Abadan, she had hoped that job leads would be as easy to come by in Tehran, but unfortunately this would not be the case. Whereas Abadan was continually expanding and in the wake of the nationalization turmoil would slowly be restaff ed with a higher proportion of Iranian (rather than foreign expatriate) technicians, the oil boycott imposed by the British had severely weakened the Iranian economy, and technical and engineering jobs in Tehran were sparse in late 1954.[49] Unable to obtain work in her fi eld 
+Because Dr. Fallah had been so quick to suggest that Lucik apply for a job in Abadan, she had hoped that job leads would be as easy to come by in Tehran, but unfortunately this would not be the case. Whereas Abadan was continually expanding and in the wake of the nationalization turmoil would slowly be restaff ed with a higher proportion of Iranian (rather than foreign expatriate) technicians, the oil boycott imposed by the British had severely weakened the Iranian economy, and technical and engineering jobs in Tehran were sparse in late 1954.[49] Unable to obtain work in her fi eld
+
+<!-- page 235 -->
 
 _Lucik Moradiance_ | 197 
 
@@ -2061,7 +2534,9 @@ While checking out books at the College of Engineering, the librarian mentioned 
 
 Established in 1822, Mowlem was one of Britain’s largest construction and engineering companies. Originally engaged in road construction in Iran, Mowlem then moved into consulting for soil physics, chemistry, and mechanical engineering.[50] As the only soils engineering laboratory in Iran until the late 1950s, Mowlem received almost all contracts for material analysis. In 1960, the American fi rm Ammann and Whitney temporarily took over the Mowlem Soils Lab facilities, before the entire operation was taken over by the Iranian government and put under the control of the Plan Organization in 1962. By directing Lucik to the Mowlem employment offi  ce before she had a chance to establish a relationship with the university’s new Soils Lab, Robinson had precluded the potential opportunity for Lucik to be off ered a position by the university and brought her to what would become her daily workplace for the next eleven years.[51] 
 
-In 1957, Lucik married Artavast “Levon” Melikian, a jovial and quickwitted Armenian Iranian lawyer and writer whose grandparents, like 
+In 1957, Lucik married Artavast “Levon” Melikian, a jovial and quickwitted Armenian Iranian lawyer and writer whose grandparents, like
+
+<!-- page 236 -->
 
 198 | _Experiences with Iranian Nationalism_ 
 
@@ -2069,13 +2544,17 @@ In 1957, Lucik married Artavast “Levon” Melikian, a jovial and quickwitted A
 
 Lucik’s, were born in Salmas.[52] The two had met at Tehran University, where Levon attended law school from 1949 to 1952. As a progressive thinker with complex but generally left-leaning political views, Levon was completely supportive and proud of Lucik’s professional career. This, of course, was key to their compatibility because Lucik never entertained the thought of not working in some professional capacity. 
 
-In her fi rst year at Mowlem (1956–57), Lucik Moradiance was the only female engineer at the lab, although there were female employees in the secretarial staff . As soils engineering was a new direction for Lucik, and as it required its own specialized training, she took advantage of a scholarship opportunity to advance her knowledge of soils chemistry and engineering. The British Council in Tehran announced that it was off ering fi ve one-year full scholarships to study at British universities in various fi elds, which ranged from education and English-as-a-second-language teaching to economics and engineering. Because tuition, room, and board were covered by the scholarship, it was highly competitive, with fi fty to sixty 
+In her fi rst year at Mowlem (1956–57), Lucik Moradiance was the only female engineer at the lab, although there were female employees in the secretarial staff . As soils engineering was a new direction for Lucik, and as it required its own specialized training, she took advantage of a scholarship opportunity to advance her knowledge of soils chemistry and engineering. The British Council in Tehran announced that it was off ering fi ve one-year full scholarships to study at British universities in various fi elds, which ranged from education and English-as-a-second-language teaching to economics and engineering. Because tuition, room, and board were covered by the scholarship, it was highly competitive, with fi fty to sixty
+
+<!-- page 237 -->
 
 _Lucik Moradiance_ | 199 
 
 50. Lucik and her supervisor Mr. Robinson respond to the questions of Plan Organization director Abolhassan Ebtehaj, John Mowlem Soils Laboratory, Tehran, 1957. Unknown photographer. Courtesy of Lucik Moradiance-Melikian. 
 
-applicants. In addition to bringing the competition to Lucik’s attention, Mr. Robinson wrote a letter of recommendation in support of her application, attesting to her character and explaining the responsibilities she had taken on thus far at the lab, which was no doubt key in making her one of the two female and three male applicants eventually selected. Having won a scholarship, Lucik applied and was accepted to attend Aberdeen University in the United Kingdom to obtain a diploma in soils sciences in the academic year 1958–59. Traveling to England by air, she spent the fi rst seven of nine months there alone, renting a room near the university from a British family. As they had planned in advance, Levon joined her in Aberdeen for the fi nal two months of her stay, before the two traveled a purposefully circuitous route back to Iran overland via combination of car, train, and ship that enabled them to see as many diff erent countries as possible. Lucik and Levon’s six-week-long journey together through western Europe in the summer of 1959 was unforgettable and a needed break before Lucik would need to return to the lab in the fall of 1959 to assume 
+applicants. In addition to bringing the competition to Lucik’s attention, Mr. Robinson wrote a letter of recommendation in support of her application, attesting to her character and explaining the responsibilities she had taken on thus far at the lab, which was no doubt key in making her one of the two female and three male applicants eventually selected. Having won a scholarship, Lucik applied and was accepted to attend Aberdeen University in the United Kingdom to obtain a diploma in soils sciences in the academic year 1958–59. Traveling to England by air, she spent the fi rst seven of nine months there alone, renting a room near the university from a British family. As they had planned in advance, Levon joined her in Aberdeen for the fi nal two months of her stay, before the two traveled a purposefully circuitous route back to Iran overland via combination of car, train, and ship that enabled them to see as many diff erent countries as possible. Lucik and Levon’s six-week-long journey together through western Europe in the summer of 1959 was unforgettable and a needed break before Lucik would need to return to the lab in the fall of 1959 to assume
+
+<!-- page 238 -->
 
 200 | _Experiences with Iranian Nationalism_ 
 
@@ -2085,7 +2564,9 @@ With the Iranian government’s takeover of laboratory facilities in 1962, the M
 
 51. Lucik and Levon Melikian and Lucik’s sister Anahid Mora- 
 
-diance at Abali ski resort in the Alborz Mountains, Iran, 1965. Unknown photographer. Courtesy of Lucik Moradiance-Melikian. 
+diance at Abali ski resort in the Alborz Mountains, Iran, 1965. Unknown photographer. Courtesy of Lucik Moradiance-Melikian.
+
+<!-- page 239 -->
 
 _Lucik Moradiance_ | 201 
 
@@ -2093,7 +2574,9 @@ instructions for utilizing various instruments in the lab, and interviews of app
 
 The most common types of materials that the laboratory would analyze to verify that they met requirements for specifi c use or international standards or both were bituminous materials, which included the 
 
-52. Lucik Moradiance gives a tour of the former Mowlem Laboratory facilities to Dr. Asfi ya and Dr. Behnia of the Plan Organization after nationalization of the facilities, Tehran, 1961. Both served as Lucik’s professors at Tehran University. Unknown photographer. Courtesy of Lucik Moradiance-Melikian. 
+52. Lucik Moradiance gives a tour of the former Mowlem Laboratory facilities to Dr. Asfi ya and Dr. Behnia of the Plan Organization after nationalization of the facilities, Tehran, 1961. Both served as Lucik’s professors at Tehran University. Unknown photographer. Courtesy of Lucik Moradiance-Melikian.
+
+<!-- page 240 -->
 
 202 | _Experiences with Iranian Nationalism_ 
 
@@ -2101,7 +2584,9 @@ materials for domestically produced asphalt as well as soil and limestone for th
 
 Through her acquired expertise in international standards, Lucik was appointed by the Ministry of Development as an active member of the Standardization Institute of Iran Building Materials Committee in 1969– 70. The purpose of her appointment to the institute was to bring her years of hands-on experience with building materials to the new organization, which sought to compile a set of new Iranian standards based on combined international standards. Whether owing to her specialization in international standards and quality control or her businesslike, no-nonsense personality at work or a combination of both, Lucik was never approached or asked to falsify fi ndings of reports while she was working for the Plan Organization. Whether contractors followed prescribed recommendations and maintained standards throughout the process of construction was the responsibility of inspectors, and this is where corruption fl ourished. The only real evidence of “corruption” noticed at the lab concerned materials samples that were rejected because they were taken improperly or the location of the sample core extraction was in doubt. 
 
-Although by the mid-1960s many Iranian women held equivalent and higher positions both in governmental and educational institutions, Lucik had no female peers at the Plan Organization. The accounting section eventually hired a female university graduate, and in later years one female engineer and several female chemists were reporting to her, but the only female employees she worked with initially were secretaries and one administrator; all of the engineers were male.[54] 
+Although by the mid-1960s many Iranian women held equivalent and higher positions both in governmental and educational institutions, Lucik had no female peers at the Plan Organization. The accounting section eventually hired a female university graduate, and in later years one female engineer and several female chemists were reporting to her, but the only female employees she worked with initially were secretaries and one administrator; all of the engineers were male.[54]
+
+<!-- page 241 -->
 
 _Lucik Moradiance_ | 203 
 
@@ -2109,7 +2594,9 @@ _Lucik Moradiance_ | 203
 
 In 1970, Lucik transferred from the Soils Lab to work for the Plan Organization Industrial and Mines Division. Her primary task in this position, which she maintained until 1975, was to evaluate feasibility studies prepared by various engineering fi rms and governmental agencies for allocation within the national budget. Studies included cost–benefi t analyses of such variables as product demand, manpower and energy availability, natural-resource requirements, and overall project value for the gross domestic product. One of her most memorable challenges during these years was the preparation of a voluminous report detailing Iran’s existing chemical industries, their production capacities, and the availability of indigenous raw materials to plan for future expansion in view of projected domestic demand and the objectives of Iran’s Fifth Development Plan (1973–78). 
 
-In 1975, Lucik changed positions once again, this time taking a job at the National Iranian Petroleum Company (NIPC). Distinct from the NIOC, which was responsible for the exploration and extraction of crude oil and the refi ning and distribution of petroleum products, the NIPC 
+In 1975, Lucik changed positions once again, this time taking a job at the National Iranian Petroleum Company (NIPC). Distinct from the NIOC, which was responsible for the exploration and extraction of crude oil and the refi ning and distribution of petroleum products, the NIPC
+
+<!-- page 242 -->
 
 204 | _Experiences with Iranian Nationalism_ 
 
@@ -2117,7 +2604,9 @@ and its subsidiaries focused on fertilizer, feed, and petrochemicals. Here, Luci
 
 There was no single incident during Lucik’s professional career in which she felt discriminated against because of her gender or ethnicity. Her supervisors, Dr. Ahmad Nowban and his assistant Mr. Taraji, as well as her male coworkers at the Plan Organization were uniformly polite and respectful, and she felt that she always had their cooperation. On the contrary, she believes that she received more respect as a woman in Iran. The Iranian government’s policies had by the 1970s integrated women into the highest areas of the workforce and sought to make this fact well known.[56] In 1975, Lucik was sent as one of fi ve NIPC representatives to the International Petrochemical Conference in Baghdad, an international symposium to discuss current petrochemical projects in the Middle East and areas of future expansion and potential cooperation. 
 
-The other four representatives sent to the conference were male engineers, and the NIPC representatives who joined them were also male. Lucik believes she was chosen to participate specifi cally because she was a woman and a Christian and it was thought this would demonstrate the progressiveness of the regime and the NIPC.[57] Yet when she had traveled to Japan two years earlier as part of a Plan Organization delegation for a conference on protein manufacture from hydrocarbons for animal feed, consisting of three women and six men representing the NIOC, NIPC, 
+The other four representatives sent to the conference were male engineers, and the NIPC representatives who joined them were also male. Lucik believes she was chosen to participate specifi cally because she was a woman and a Christian and it was thought this would demonstrate the progressiveness of the regime and the NIPC.[57] Yet when she had traveled to Japan two years earlier as part of a Plan Organization delegation for a conference on protein manufacture from hydrocarbons for animal feed, consisting of three women and six men representing the NIOC, NIPC,
+
+<!-- page 243 -->
 
 _Lucik Moradiance_ | 205 
 
@@ -2125,7 +2614,9 @@ _Lucik Moradiance_ | 205
 
 Plan Organization, and Agriculture Ministry, she had learned that she could not expect the same kind of consideration in other countries. When the representatives were met by their Japanese counterparts at the airport, their male hosts promptly greeted the three Iranian men and hastened to take their luggage and lead them out of the terminal, leaving Lucik and her female colleague standing there, somewhat bemused. A bit of awkwardness ensued as their male colleagues realized what had happened and turned around to take the women’s luggage, smiling and bemused as well.[58] The female delegates and delegates’ wives were also not invited out with the men for dinner or the requisite after-dinner socializing, which Lucik also found markedly diff erent from her experiences in Iran. 
 
-As Levon was doing very well in his law practice and had developed a stable range of clientele, and Lucik had now been working for twenty-two years in various technical jobs, the two decided that it was time to expand the family. In April 1978, Lucik retired from the NIPC so she could stay home and care for their son, George. After decades of study and technical work to better herself and the Iranian nation, Lucik Moradiance had attained a stable upper-middle-class existence and now looked forward 
+As Levon was doing very well in his law practice and had developed a stable range of clientele, and Lucik had now been working for twenty-two years in various technical jobs, the two decided that it was time to expand the family. In April 1978, Lucik retired from the NIPC so she could stay home and care for their son, George. After decades of study and technical work to better herself and the Iranian nation, Lucik Moradiance had attained a stable upper-middle-class existence and now looked forward
+
+<!-- page 244 -->
 
 206 | _Experiences with Iranian Nationalism_ 
 
@@ -2133,7 +2624,9 @@ As Levon was doing very well in his law practice and had developed a stable rang
 
 to having the opportunity to relax and enjoy family life. Yet how many of Lucik’s forebears had achieved stability and looked forward to the same, only to have their hopes dashed by large-scale political events completely out of their control? 
 
-Protests against the Pahlavi regime had been gathering steam over the course of 1978, but a series of bloody events quickly elevated the intensity and scope of dissent. On August 20, 1978, a fi re tore through the Cinema Rex movie theater in Abadan, killing more than four hundred people, predominantly workers at the refi nery and their family members. Blamed alternately on SAVAK and Islamic revolutionaries, and later becoming fertile ground for conspiracy theories, at the time it was widely believed that the shah’s forces were responsible for setting the blaze and ordering local police to ensure that none of the audience could escape or be rescued. The origin of the Rex theater fi re remains murky, but there is no question who was responsible for the massacre of antigovernment demonstrators in Tehran’s Jaleh Square on Friday, September 8, 1978, when the Iranian 
+Protests against the Pahlavi regime had been gathering steam over the course of 1978, but a series of bloody events quickly elevated the intensity and scope of dissent. On August 20, 1978, a fi re tore through the Cinema Rex movie theater in Abadan, killing more than four hundred people, predominantly workers at the refi nery and their family members. Blamed alternately on SAVAK and Islamic revolutionaries, and later becoming fertile ground for conspiracy theories, at the time it was widely believed that the shah’s forces were responsible for setting the blaze and ordering local police to ensure that none of the audience could escape or be rescued. The origin of the Rex theater fi re remains murky, but there is no question who was responsible for the massacre of antigovernment demonstrators in Tehran’s Jaleh Square on Friday, September 8, 1978, when the Iranian
+
+<!-- page 245 -->
 
 _Lucik Moradiance_ | 207 
 
@@ -2143,11 +2636,15 @@ army itself demonstrated its might via machine guns and tanks. There is also no 
 
 Within a month of Black Friday, the oil workers at Abadan joined other industrial workers across the country and went on strike. Almost instantaneously the nation’s industrial production came to a grinding halt. Although relatively small, Iran’s industrial working class occupied a strategic position in the nation’s economy, and thus their mass strikes, which included the shutting down of oil pipelines and a halt to exports in October 1978, were critical to the revolution’s success.[60] Three months later the shah of Iran and his family would be in exile, and Ayatollah Ruhollah Khomeini would be greeted by millions of ecstatic Iranians as he returned from his own. 
 
-What would the future bring, Lucik wondered as she, Levon, and close friends waited for news reports with mixed fascination and apprehension. Certainly many of the initial, idealistic rallying cries of the revolution had merit: freedom of speech, press, and assembly; a more equitable distribution of wealth; and the end of the regime of fear inculcated by SAVAK. But Lucik was not naive and from the beginning remained skeptical that 
+What would the future bring, Lucik wondered as she, Levon, and close friends waited for news reports with mixed fascination and apprehension. Certainly many of the initial, idealistic rallying cries of the revolution had merit: freedom of speech, press, and assembly; a more equitable distribution of wealth; and the end of the regime of fear inculcated by SAVAK. But Lucik was not naive and from the beginning remained skeptical that
+
+<!-- page 246 -->
 
 208 | _Experiences with Iranian Nationalism_ 
 
-the promises of a new dispensation of love, justice, and equality would be met or that the rights and status that Iranian women and religious minorities had attained under the Pahlavis would be maintained under a theocratic political system, which seemed a likely outcome in February 1979. Would political change once again bring a radical shift in family fortune, stability, and location? Were these natives of Salmas unfortunate heirs to a lineage of instability and challenge? Lucik had far too rational and technical a mind to believe in curses. Had such disruption and tumult become an unfortunate Moradiance family legacy? Perhaps, yet so too had perseverance. 
+the promises of a new dispensation of love, justice, and equality would be met or that the rights and status that Iranian women and religious minorities had attained under the Pahlavis would be maintained under a theocratic political system, which seemed a likely outcome in February 1979. Would political change once again bring a radical shift in family fortune, stability, and location? Were these natives of Salmas unfortunate heirs to a lineage of instability and challenge? Lucik had far too rational and technical a mind to believe in curses. Had such disruption and tumult become an unfortunate Moradiance family legacy? Perhaps, yet so too had perseverance.
+
+<!-- page 247 -->
 
 6 
 
@@ -2157,7 +2654,9 @@ a s h e sl owl y sh o ok h is h ea d, Dr. Hossein Banai looked both amused and s
 
 Dr. Banai wanted to demonstrate to Shah Mohammad Reza Pahlavi his eff ectiveness in reviving the Pishahangi-ye Iran (Scouting of Iran, alternatively known as Sazman-e Pishahangi, the Organization of Scouting), which had been disbanded because of pressure from the ulama and 
 
-209 
+209
+
+<!-- page 248 -->
 
 210 | _Experiences with Iranian Nationalism_ 
 
@@ -2165,7 +2664,9 @@ conservative Majles members following the exile of Reza Shah in 1941 and had not
 
 When the shah, dressed in full military regalia, arrived with his entourage of military offi  cers, ministers, and a group of reporters and photographers, Banai and Hagobian greeted him with smart salutes before showing him around the encampment.[3] To Dr. Banai, walking 
 
-57. The shah arrives at the joint scouting jamboree encampment at Manzarieh, August 26, 1954. _Left to right_ : George Patgorney, Shah Mohammad Reza Pahlavi, Dr. Banai, Nejde Hagobian. Unknown photographer. Courtesy of Nejde Hagobian. 
+57. The shah arrives at the joint scouting jamboree encampment at Manzarieh, August 26, 1954. _Left to right_ : George Patgorney, Shah Mohammad Reza Pahlavi, Dr. Banai, Nejde Hagobian. Unknown photographer. Courtesy of Nejde Hagobian.
+
+<!-- page 249 -->
 
 _Nejde Hagobian_ | 211 
 
@@ -2175,7 +2676,9 @@ beside the shah and answering his questions were routine, for he was a member of
 
 Born on August 8, 1934, in a midwife’s residence in the Armenian quarters of Tehran to Arshalous and Hagob Hagobian, Nejde Hagobian was named after Dashnak general Garegin Nejde, whom his parents admired. Because the couple had met in an American Presbyterian-sponsored orphanage in Tabriz for Armenian children after having lost their own parents to the Armenian massacres and intercommunal violence that wracked the Caucasus between 1914 and 1918, it was fi tting that they decided to name their son after an Armenian who had fought for the liberation of Armenia. 
 
-When Nejde reached the age of fi ve, the family moved out of the sparse accommodations they had rented in the Armenian _koutche_ (alley) off  Khiabane Sepah Salar to a more spacious and electrifi ed house off  Khiabane Estakhr in central Tehran. The new residence was located several blocks away from the royal palace complex of Marmar in what was then a mixed light-industrial and residential neighborhood. One of thirteen buildings on a cul-de-sac owned by a wealthy Muslim bazaar merchant named Abdoulahian and rented to predominantly Armenian families, the Hagobians’ two-story brick unit consisted of four rooms, a water closet, 
+When Nejde reached the age of fi ve, the family moved out of the sparse accommodations they had rented in the Armenian _koutche_ (alley) off  Khiabane Sepah Salar to a more spacious and electrifi ed house off  Khiabane Estakhr in central Tehran. The new residence was located several blocks away from the royal palace complex of Marmar in what was then a mixed light-industrial and residential neighborhood. One of thirteen buildings on a cul-de-sac owned by a wealthy Muslim bazaar merchant named Abdoulahian and rented to predominantly Armenian families, the Hagobians’ two-story brick unit consisted of four rooms, a water closet,
+
+<!-- page 250 -->
 
 212 | _Experiences with Iranian Nationalism_ 
 
@@ -2183,7 +2686,9 @@ When Nejde reached the age of fi ve, the family moved out of the sparse accommod
 
 and a shower room on the top fl oor and two rooms, a water closet, and a kitchen on the fi rst fl oor. The unit also included a small yard that had a large pine tree, fruit trees, and a shallow goldfi sh pond in the center. Like most of the other tenants renting from Abdoulahian, the Hagobians sublet the rooms on the bottom fl oor to other Christian families to lower the overall price of their rent. Thus, although nine of the buildings were offi  - cially rented to Armenian families, two to Assyrian families, and one to a Jewish family, and the other, newest unit was inhabited by the Abdoulahian family, at any given time as many as twenty families were living in the Abdoulahian compound. This meant that there were usually at least fi fteen to twenty children of all ages for Nejde to play with in the narrow paved street that connected the houses. As turnover of tenants was quite low, the families and children got to know each other well, and the small neighborhood took on a life and rhythm of its own. 
 
-Although the cul-de-sac consisted of thirteen buildings, only ten of them were inside the walled compound protected by the old, heavy wooden gate that remained open most of the time. The large Abdoulahian family inhabited one of the houses inside the compound, seven were rented to Armenians, and two to Assyrians. Although the Hagobians’ unit was considered to be inside the compound, its main entry door was outside of the wooden gate, and a side door opened into the compound 
+Although the cul-de-sac consisted of thirteen buildings, only ten of them were inside the walled compound protected by the old, heavy wooden gate that remained open most of the time. The large Abdoulahian family inhabited one of the houses inside the compound, seven were rented to Armenians, and two to Assyrians. Although the Hagobians’ unit was considered to be inside the compound, its main entry door was outside of the wooden gate, and a side door opened into the compound
+
+<!-- page 251 -->
 
 _Nejde Hagobian_ | 213 
 
@@ -2193,7 +2698,9 @@ Because Nejde’s father, Hagob Hagobian, was a long-distance truck driver who w
 
 As the son of a truck driver, Nejde had easy access to what was then a particularly precious childhood commodity: wheel bearings. Because 
 
-59. Nejde Hagobian ( _center_ ) poses with friends north of Tehran in Vanak, 1938. The boy on the right is an original Iranian _pishahang_ (scout). After Reza Shah’s exile, the Pishahangi-ye Iran was disbanded until 1954. Unknown photographer. Courtesy of Nejde Hagobian. 
+59. Nejde Hagobian ( _center_ ) poses with friends north of Tehran in Vanak, 1938. The boy on the right is an original Iranian _pishahang_ (scout). After Reza Shah’s exile, the Pishahangi-ye Iran was disbanded until 1954. Unknown photographer. Courtesy of Nejde Hagobian.
+
+<!-- page 252 -->
 
 214 | _Experiences with Iranian Nationalism_ 
 
@@ -2201,7 +2708,9 @@ of the harsh, sandy conditions his father drove in to make his round trips betwe
 
 Because both Hagob and Arshalous had been orphaned and had little formal education, they were lacking role models that demonstrated how to interact in a parent–child relationship. Thus, although Nejde’s well-being and health were of primary concern to his parents, his inquisitive mind was nurtured by neither his mother nor his father. Hagob was away on long-distance trucking hauls most of the time. When he was at home, he would seldom, if ever, take the time to explain to Nejde what was going on around him or how things worked. Hagob was rarely available or willing to answer a child’s most common question: Why? Arshalous, who often played the role of both parents while Hagob was gone, was herself busy doing everything necessary to maintain the household and had little time or patience for Nejde’s persistent questioning. He was dearly loved, and his healthy cheeks were often pinched in delight by his proud parents with a traditional Armenian Iranian exclamation of parental love, “Bouyeet mernem! Ghorbaneternem!” (I die for your stature! I sacrifi ce myself for you!), but Nejde had to look elsewhere to satiate his desire to learn about and understand the world around him. 
 
-Luckily for Nejde, on any given day from early morning to late afternoon the street became the scene of intense hustle and bustle as Persian vendors of all kinds would turn into the neighborhood while making their rounds and announce their presence with a distinctive chant. At that time, Nejde was unaware that the vendors were diff erent than himself and his neighbors except for the fact that they spoke a diff erent 
+Luckily for Nejde, on any given day from early morning to late afternoon the street became the scene of intense hustle and bustle as Persian vendors of all kinds would turn into the neighborhood while making their rounds and announce their presence with a distinctive chant. At that time, Nejde was unaware that the vendors were diff erent than himself and his neighbors except for the fact that they spoke a diff erent
+
+<!-- page 253 -->
 
 _Nejde Hagobian_ | 215 
 
@@ -2209,25 +2718,33 @@ _Nejde Hagobian_ | 215
 
 language, Persian, which he spoke and understood perfectly. While most of the other neighborhood children would be zigzagging around on their _rowrowak_ s among the vendors and the women of the compound who would fl ock out to examine the wares and make their purchases, Nejde was fascinated by the vendors and the skills they demonstrated; he never tired of observing them and asking questions. Almost all of the Persian vendors were extremely kind and willing to explain, often in great detail, what it was that they were selling or doing. 
 
-On a typical summer weekday, the vending began with the arrival of a horse-drawn tanker carrying fresh drinking water and the chant “Abi!” Neighbors would line up with their large clay chalices, and Abi (as the water man was known) would fi ll each vessel individually using a section of a bicycle inner tube as an extension from the large brass faucet. As Abi was busy fi lling the neighborhood’s water vessels with Ab-e Shah (King’s Water, as the clean drinking water was known), other produce and goods vendors would begin turning onto the cul-de-sac, chanting their individual slogans, and lining up behind Abi’s tanker. 
+On a typical summer weekday, the vending began with the arrival of a horse-drawn tanker carrying fresh drinking water and the chant “Abi!” Neighbors would line up with their large clay chalices, and Abi (as the water man was known) would fi ll each vessel individually using a section of a bicycle inner tube as an extension from the large brass faucet. As Abi was busy fi lling the neighborhood’s water vessels with Ab-e Shah (King’s Water, as the clean drinking water was known), other produce and goods vendors would begin turning onto the cul-de-sac, chanting their individual slogans, and lining up behind Abi’s tanker.
+
+<!-- page 254 -->
 
 216 | _Experiences with Iranian Nationalism_ 
 
 There was Yakhi, “Ice Man,” whose donkey bore two large burlap rice sacks containing big, irregular chunks of ice. On hot days, Yakhi was a favorite vendor of the children, who would laugh and squeal with delight as he would break the ice into smaller pieces with swings of his pick, producing a hail of fi ne ice chips that would land on their heads and faces. The numerous fruit and vegetable vendors were less intriguing, but Nejde never tired of watching the morbid activity going on around Morghi, “Chicken Man.” Morghi would stop his donkey in the center of the street and remove strips of burlap that shaded large cages made of woven twigs hanging on either side of the donkey and containing scores of live hens. Women of the neighborhood would gather around Morghi and specify the approximate size of the hen they wanted for that evening’s meal. With this information, Morghi would then blindly reach into the cage and pull out a random hen that would be frantically squawking and trying to escape. The customer would examine the hen, and if it was not acceptable—as the fi rst one to emerge rarely was—Morghi would throw that hen back in the cage and reach for another one. Sometimes Morghi would pull out the same hen and exclaim, “Now _this_ is a truly superb hen!” although he rarely fooled his customers or Nejde, who watched the haggling in rapt fascination. After continuing that process until an acceptable chicken was found, Morghi would then nonchalantly sever the head of the chicken with a large knife hanging from the side of his donkey and then hand the still-kicking chicken to the satisfi ed customer. During this slaughter, the cry “Zoghaly!” announced the arrival of the charcoal man, who was followed closely behind by Nafty, who sold kerosene. Sheeshe Khoordei bought broken glass and bottles, and Kot-Shalvari bought and sold used clothing. The procession continued for most of the morning. 
 
-Specifi cally for children, there was Shahrefarangi and Jegh-jeghe-i.[6] Shahrefarangi would set up a table with an indigenously made stereoscopic photo viewer and charge a half-rial to transport the children to far-away lands by showing them technological wonders old and new: Jerusalem, Taj Mahal, L’arc de Triomphe, the pyramids of Giza, a white paddle wheel steamboat on a river in America, the Great Wall. Shahrefarangi also showed paintings of European artists such as Raphael, DaVinci, and Michelangelo. While turning the crank to change the photos for the 
+Specifi cally for children, there was Shahrefarangi and Jegh-jeghe-i.[6] Shahrefarangi would set up a table with an indigenously made stereoscopic photo viewer and charge a half-rial to transport the children to far-away lands by showing them technological wonders old and new: Jerusalem, Taj Mahal, L’arc de Triomphe, the pyramids of Giza, a white paddle wheel steamboat on a river in America, the Great Wall. Shahrefarangi also showed paintings of European artists such as Raphael, DaVinci, and Michelangelo. While turning the crank to change the photos for the
+
+<!-- page 255 -->
 
 _Nejde Hagobian_ | 217 
 
 children, whose faces were excitedly glued to the viewing lens, Shahrefarangi would look through a separate viewport and describe in deep, animated tones what it was they were seeing, which incited the other children to beg their parents for a coin so that they too could see the show. Sometimes Shahrefarangi’s pitch was so compelling that the adults would be motivated to shell out a whole rial and see the photos for themselves. With Shahrefarangi’s descriptions in the background, Jegh-jeghe-i would appear and lower the large basket of toys and candy he bore on his head down to the ground. Jegh-jeghe-i specialized in toys such as pinwheels, fans, and noisemakers that were like kazoos and were called _jirjirak_ or _ghargharak_ depending on their tone. He also purveyed hard candy and sweets such as shaped rock sugar candy fi lled with rose water. His appearance initiated another round of skirt tugging as children asked their mothers for another half-rial. Before long, the kazoolike sounds of the _ghargharak_ joined the cacophony. 
 
-Although most of the neighborhood children would lose interest in the vending activity after Shahrefarangi and Jegh-jeghe-i packed up and left, afternoon was most entertaining and informative for Nejde because it was then that the Persian service vendors would appear to mend household items or custom fabricate new ones. Unlike the food and goods vendors, whose loads, often borne on beasts of burden, were confi gured for quick and easy removal, the service vendors would usually appear with only their unique tools and a large canvas cloth. Selecting a choice spot on the side of the street in the shade, the service vendors would spread out the cloth and neatly arrange their tools while neighbors would bring out items such as broken pots and dishes, dull kitchen knives, and used bedding for mending, restoration, or recycling. The service vendors would remain at the compound for hours—or as long as there was work—and seemed happy to allow Nejde to scrutinize their activity and to patiently answer his fl ood of questions about everything they were doing. To Nejde, the most intriguing of the service vendors were the _shekast-e band_ (repairer of broken items, also known as _chin-i band_ ) and the _la-haf dooz_ (quilt maker). They worked methodically, used many diff erent tools and techniques to accomplish their tasks, and produced dramatic results in a relatively short amount of time. 
+Although most of the neighborhood children would lose interest in the vending activity after Shahrefarangi and Jegh-jeghe-i packed up and left, afternoon was most entertaining and informative for Nejde because it was then that the Persian service vendors would appear to mend household items or custom fabricate new ones. Unlike the food and goods vendors, whose loads, often borne on beasts of burden, were confi gured for quick and easy removal, the service vendors would usually appear with only their unique tools and a large canvas cloth. Selecting a choice spot on the side of the street in the shade, the service vendors would spread out the cloth and neatly arrange their tools while neighbors would bring out items such as broken pots and dishes, dull kitchen knives, and used bedding for mending, restoration, or recycling. The service vendors would remain at the compound for hours—or as long as there was work—and seemed happy to allow Nejde to scrutinize their activity and to patiently answer his fl ood of questions about everything they were doing. To Nejde, the most intriguing of the service vendors were the _shekast-e band_ (repairer of broken items, also known as _chin-i band_ ) and the _la-haf dooz_ (quilt maker). They worked methodically, used many diff erent tools and techniques to accomplish their tasks, and produced dramatic results in a relatively short amount of time.
+
+<!-- page 256 -->
 
 218 | _Experiences with Iranian Nationalism_ 
 
 Chinaware and porcelain were expensive in Iran, especially for working-class Iranians. Therefore, when a china plate, platter, or teapot broke, it would be fi xed rather than discarded. All of the pieces, no matter how small, would be carefully saved, and when a family had accumulated several items that needed mending, they would take them to the _shekast-e band_ to fi x. First, the craftsman would sit cross-legged on his cloth and carefully examine, clean, and separate into piles all of the pieces given to him. Then, while holding the broken sections of ceramic between his bare feet, he would use a rudimentary drill, staple-gauge wire, a small hammer, and dry grout to bind the pieces together and waterproof the crack. The resulting pattern, which resembled a zipper or stitches running the length of each crack, was not aesthetically pleasing, yet it was highly eff ective and practical at a time when throwing such an item away was not an option. Oftentimes, months or even years later, a platter or pot that had been fi xed before with this method would be brought back a second or third time, yet the new break would inevitably be in a diff erent spot: a testament to quality workmanship that the _shekast-e band_ never failed to modestly point out. 
 
-Another Persian service vendor who served an important practical necessity while entertaining and providing Nejde with information about his craft was the _la-haf dooz_ (quilt maker). Most Iranians, irrespective of religion or ethnicity, generally slept on bedding consisting of thin quilted wool-and-cotton mattresses that were placed directly on the fl oor, with lighter wool or cotton comforters on top when needed for warmth. These items would routinely become worn out, compressed, and soiled, necessitating the services of the _la-haf dooz_ . In the Hagobians’ neighborhood, the women would bring mattresses and comforters outside, remove the stitching, and separate the stuffi  ng from the covering cloth. After washing the raw wool and cotton stuffi  ng, they would lay them out in the sun to dry and await _la-haf dooz_ . Like the _shekast-e band_ , _la-haf dooz_ would spread out his cloth, remove his shoes and socks, and carefully arrange his tools before surveying the amount, type, and condition of the wool and cotton stuffi  ng and pieces provided by the customer. After brief negotiations about the size and thickness of the items he was to recycle, he would begin his work. After spreading out the stuffi  ng on his cloth and lightly wetting 
+Another Persian service vendor who served an important practical necessity while entertaining and providing Nejde with information about his craft was the _la-haf dooz_ (quilt maker). Most Iranians, irrespective of religion or ethnicity, generally slept on bedding consisting of thin quilted wool-and-cotton mattresses that were placed directly on the fl oor, with lighter wool or cotton comforters on top when needed for warmth. These items would routinely become worn out, compressed, and soiled, necessitating the services of the _la-haf dooz_ . In the Hagobians’ neighborhood, the women would bring mattresses and comforters outside, remove the stitching, and separate the stuffi  ng from the covering cloth. After washing the raw wool and cotton stuffi  ng, they would lay them out in the sun to dry and await _la-haf dooz_ . Like the _shekast-e band_ , _la-haf dooz_ would spread out his cloth, remove his shoes and socks, and carefully arrange his tools before surveying the amount, type, and condition of the wool and cotton stuffi  ng and pieces provided by the customer. After brief negotiations about the size and thickness of the items he was to recycle, he would begin his work. After spreading out the stuffi  ng on his cloth and lightly wetting
+
+<!-- page 257 -->
 
 _Nejde Hagobian_ | 219 
 
@@ -2237,7 +2754,9 @@ By far the most exciting days of vending and observing in the neighborhood for N
 
 Every other week, on predetermined and fi xed dates, the neighborhood would have its scheduled water night. On these designated nights, Tehran water offi  cials would release water through a system of open channels that would be diverted to fl ow through the irrigation system of a particular section of town. Gravity would cause the water to fl ow through the concrete-lined square gutters ( _joub_ s) that ran the length of both sides of each street. Because the system was open to the air, the offi  cials distributed the water in the middle of the night to cut down on the amount of dust and contamination. 
 
-Tehran’s _joub_ system, which most foreigners assumed was an open system to carry sewage, was constructed for two specifi c functions: to serve as storm drains to keep streets from fl ooding when it rained and 
+Tehran’s _joub_ system, which most foreigners assumed was an open system to carry sewage, was constructed for two specifi c functions: to serve as storm drains to keep streets from fl ooding when it rained and
+
+<!-- page 258 -->
 
 220 | _Experiences with Iranian Nationalism_ 
 
@@ -2245,7 +2764,9 @@ as the primary residential system for nonpotable water, which was to be used for
 
 Because it was not known at what hour the water would arrive, the neighbors would gather after ten o’clock at night outside to socialize and make fi nal preparations. While the young children ran in circles and chased each other on their _rowrowak_ s, the women would bring out tea, sit on the steps, and chat with each other, and the men would smoke and prepare their gutters. Finally the sound of water fl owing past the main _joub_ on Estakhr would signal the water’s arrival, and the action would begin. One of the men would walk out to the main _joub_ and divert it with a large piece of wood into the compound’s smaller gutter. Although the water would soon be overfl owing this dam and continuing on down the _joub_ on Estakhr to other residents of that section of Tehran, the diversion would send water cascading through the compound’s gutter and into the neighborhood’s water reservoirs. Despite the fact that the water was quickly and effi  ciently fl owing through the channel system, the entire process of topping off  the neighborhood’s water supply took a few hours, and the children took full advantage of the activity to continue frolicking in the dark. 
 
-One particular water night in 1940 that Nejde distinctly remembers, everything was fl owing along as usual when suddenly the adults began using hushed tones and motioned for the children to be quiet. Curious about what was going on, Nejde looked out toward Khiabane Estakhr and saw an exceptionally tall man dressed in a black cape and black riding boots talking to an Armenian neighbor who had been manning the wooden dam. The hulking man was gesturing with a cane at the _joub_ , and Nejde’s neighbor was bowing, nodding his head, and answering the man’s questions. As quickly as the lone giant had arrived, he walked 
+One particular water night in 1940 that Nejde distinctly remembers, everything was fl owing along as usual when suddenly the adults began using hushed tones and motioned for the children to be quiet. Curious about what was going on, Nejde looked out toward Khiabane Estakhr and saw an exceptionally tall man dressed in a black cape and black riding boots talking to an Armenian neighbor who had been manning the wooden dam. The hulking man was gesturing with a cane at the _joub_ , and Nejde’s neighbor was bowing, nodding his head, and answering the man’s questions. As quickly as the lone giant had arrived, he walked
+
+<!-- page 259 -->
 
 _Nejde Hagobian_ | 221 
 
@@ -2253,7 +2774,9 @@ briskly away down the street, and Nejde’s neighbor ran over to tell everyone w
 
 The only other occasion Nejde could remember the adults of the neighborhood acting in such a way was the time the old wooden gate had to be closed, which also had something to do with Reza Shah. It was in the month of Shahrivar in 1941, immediately following Reza Shah’s exile, when Hagob Hagobian returned home in a panic, having heard a rumor that there were likely going to be marches and riots near the palace and that looting and mayhem might spill over into the surrounding neighborhoods. Other neighbors had also heard this rumor, including the Muslim landlord, Agha-ye Abdoulahian, who decided that it would be best to close the gate. Although there was no explicit rumor that religious minorities were to be singled out by the anticipated mobs, the anti-Armenian, nationalist tone of the late 1930s combined with the strongly Islamic tone of the voices to emerge after Reza Shah’s exile led to wild rumors of lawlessness in the community and perhaps a bit of paranoia, so that the event would hence be remembered as the “Shahrivarian Incident.” 
 
-While the Hagobians and their downstairs tenants were bolting the front door to their residence, which was not protected behind the wooden gate, their Jewish neighbor Pauline knocked on the door and asked to speak with Arshalous, who was her best friend in the neighborhood. Afraid that their home would be targeted by the anticipated mobs because they were European Jews, Pauline asked Arshalous if she would be willing to hide their family jewels and silverware in her home, apparently reasoning that 
+While the Hagobians and their downstairs tenants were bolting the front door to their residence, which was not protected behind the wooden gate, their Jewish neighbor Pauline knocked on the door and asked to speak with Arshalous, who was her best friend in the neighborhood. Afraid that their home would be targeted by the anticipated mobs because they were European Jews, Pauline asked Arshalous if she would be willing to hide their family jewels and silverware in her home, apparently reasoning that
+
+<!-- page 260 -->
 
 222 | _Experiences with Iranian Nationalism_ 
 
@@ -2261,7 +2784,9 @@ as Armenians the Hagobians would be less of a target. Without hesitating or conf
 
 Looking down from his upstairs window at the closed gate, Hagob seriously assessed the security of the house and gated neighborhood for the fi rst time. He realized that there was one fatal fl aw. The Hagobians’ house was the only house on the cul-de-sac that had its main door outside of the wooden gate, and a side door that opened into the compound behind the gate. This meant that in order to gain entry into the compound an attacking mob would likely attempt to break down the front door of the Hagobians’ house fi rst so that they could circumvent the thick wooden gate that was essentially impenetrable. After sharing his fears with Arshalous and the tenants downstairs, a plan was devised to protect the house and compound. In the downstairs kitchen, large pots of cooking oil and water were set to boil on the stove, and a path was cleared to enable easy access from the kitchen to the stairs. In the event that a crazed mob tried to breach the Abdoulahian compound either though the front gate or through the Hagobians’ residence, the pots of boiling liquid would be hauled upstairs and dumped out of the upstairs window onto the heads of the attackers. Hagob stoked the medieval defensive weapon all night, but the angry, chanting mob never materialized. For the rest of that week, the main gate was left closed, but quiet prevailed on Khiabane Estakhr, and the neighborhood soon returned to its normal pace. 
 
-In the fall of 1941, Arshalous enrolled seven-year-old Nejde in a coeducational private grammar school called Mehr (Kindness) that was run by Iranian Presbyterians. Although the Hagobians were Gregorian Christians, Hagob and Arshalous had been raised in a Presbyterian-run orphanage in Tabriz, where they had met. They were later wed by an American Presbyterian minister in Kermanshah. Thus, they always held a special affi  nity for Americans as well as Presbyterians. In addition to this 
+In the fall of 1941, Arshalous enrolled seven-year-old Nejde in a coeducational private grammar school called Mehr (Kindness) that was run by Iranian Presbyterians. Although the Hagobians were Gregorian Christians, Hagob and Arshalous had been raised in a Presbyterian-run orphanage in Tabriz, where they had met. They were later wed by an American Presbyterian minister in Kermanshah. Thus, they always held a special affi  nity for Americans as well as Presbyterians. In addition to this
+
+<!-- page 261 -->
 
 _Nejde Hagobian_ | 223 
 
@@ -2271,13 +2796,17 @@ The language of instruction at Mehr was Persian, and before classes every day th
 
 When it was time for the children to eat, Nejde and other Armenian and Assyrian children would reach into their sacks and produce a rolled sandwich made of fl at bread and cold meat that sometimes included pork. The students would usually run around in the schoolyard during lunch and play while holding the tubular sandwich in one hand, stopping every so often to take another bite. In contrast, the Persian Muslim children would gather in the room that served as a cafeteria and open up covered bowls that usually contained rice with an aromatic stew such as _ghorma sabzi_ or strips of _kubideh_ (ground, spiced kebab). The children of the military generals would often receive their food hot, delivered by soldiers serving under their fathers, who would return later to pick up the empty pots. 
 
-One day it started raining before lunch, and all of the students were directed to the cafeteria to eat. As Nejde sat down on the fl oor and 
+One day it started raining before lunch, and all of the students were directed to the cafeteria to eat. As Nejde sat down on the fl oor and
+
+<!-- page 262 -->
 
 224 | _Experiences with Iranian Nationalism_ 
 
 unwrapped his sandwich, his Persian Muslim friend Ali sat next to him and opened up his pot of hot rice and kebab that had just been dropped off  by his father’s servant. The smell of the warm kebab overcame Nejde, who forgot himself and stared longingly into his friend’s pot. Noticing Nejde’s obvious interest in his food, Ali suggested that they exchange lunches. Nejde nodded his head in agreement and proceeded to dig into the rice and kebab while Ali devoured his cold-cut sandwich. After they were done eating, Ali told Nejde that he loved eating the Armenians’ sandwiches but that he wasn’t allowed to. Perplexed and in true form, Nejde asked why this was the case. Without mentioning the Islamic ban on pork, Ali explained that it was because he was a Muslim. Nejde didn’t really understand but was happy when Ali then suggested that they exchange lunches more often, and the two made a pact to keep their activity a secret. The day before, Ali would specify what type of sandwich he wanted, often knowing the names of the cold cuts better than Nejde, and Nejde would ask his mother to make that kind for school the next day. Whatever type of Persian food Ali was delivered was fi ne with Nejde, and he couldn’t wait for exchange days. Arshalous may have become suspicious when Nejde began coming home smelling spicy and asking her for strange cold-cut combination sandwiches for lunch, but as far as Nejde knew, exchange days with Ali forever remained a secret. 
 
-The fi rst day of September 1943 was a memorable day for nine-yearold Nejde because it was the fi rst day of Ramadan and the day on which his sister Rima was born. The night before, Hagob had taken Arshalous to stay at the residence of an Armenian midwife after the midwife had determined that Arshalous would soon give birth. While Nejde and Hagob were sleeping upstairs at home, Nejde was suddenly jolted awake by the thunderous sound of cannons going off . Scared out of his wits, he ran into his parents’ room, dived into his father’s bed, and frantically tried to hide under the covers. For the fi rst time in his life that Nejde could remember, and what he would later recall to be a rare occasion in his youth, his father, instead of becoming perturbed and telling him to be quiet or go back to sleep, took a moment to explain to Nejde what was going on and why: it was the Muslim holy month of Ramadan, in which all Muslims in Iran and around the world did not smoke, eat food, or drink from dawn until 
+The fi rst day of September 1943 was a memorable day for nine-yearold Nejde because it was the fi rst day of Ramadan and the day on which his sister Rima was born. The night before, Hagob had taken Arshalous to stay at the residence of an Armenian midwife after the midwife had determined that Arshalous would soon give birth. While Nejde and Hagob were sleeping upstairs at home, Nejde was suddenly jolted awake by the thunderous sound of cannons going off . Scared out of his wits, he ran into his parents’ room, dived into his father’s bed, and frantically tried to hide under the covers. For the fi rst time in his life that Nejde could remember, and what he would later recall to be a rare occasion in his youth, his father, instead of becoming perturbed and telling him to be quiet or go back to sleep, took a moment to explain to Nejde what was going on and why: it was the Muslim holy month of Ramadan, in which all Muslims in Iran and around the world did not smoke, eat food, or drink from dawn until
+
+<!-- page 263 -->
 
 _Nejde Hagobian_ | 225 
 
@@ -2285,7 +2814,9 @@ dusk. The cannons were set off  just before the break of dawn to signal to Musli
 
 As Nejde entered his preteens, he began to notice other diff erences that distinguished Persian Muslims from Armenians. The Jewish family that had lived next door moved and were replaced by a large Persian family that included boys and girls who were Nejde’s age and older. Because their mother and Arshalous became close friends and would often go out shopping together, Nejde noticed that their mother would don a black chador (the traditional Iranian form of _hejab_ ) before leaving the house. Nejde also observed that that the older girls, whom he found very attractive, would do the same. However, most striking to Nejde were the relationship and interactions he witnessed between the young males and the females of the family, which diff ered drastically from his own relationships with female friends and relatives and those he observed within the other Christian families in the neighborhood. Unlike in his own family, where his mother was the primary disciplinarian even when Hagob was at home and the person whom Nejde was never to talk back to or question, the Persian boys next door were encouraged by their father to act in an authoritative manner from an early age such that their older sisters and even their mother had to accept their commands and treat them with deference. This, thought Nejde, was an ideal way to live. 
 
-Another observation Nejde made around this time was that all his Persian friends at school and in the neighborhood seemed to be able to escape music lessons, while almost all of the Armenian children were forced by their parents to endure dreaded private music instruction. Boys were usually given the choice between violin and accordion, and girls were given the sole option of piano. Nejde hated the violin and wished he could play piano, but his parents were determined that he learn to master 
+Another observation Nejde made around this time was that all his Persian friends at school and in the neighborhood seemed to be able to escape music lessons, while almost all of the Armenian children were forced by their parents to endure dreaded private music instruction. Boys were usually given the choice between violin and accordion, and girls were given the sole option of piano. Nejde hated the violin and wished he could play piano, but his parents were determined that he learn to master
+
+<!-- page 264 -->
 
 226 | _Experiences with Iranian Nationalism_ 
 
@@ -2293,7 +2824,9 @@ the stringed instrument and forced him to practice daily. Every time the family 
 
 In 1946, Arshalous walked Nejde down the street from Mehr after school to a building on Khiabane Ghavam al-Saltaneh to register him for after-school activities. There above a Persian bread bakery was the clubhouse for the Anjoman-e Parvaresh-e Afkar-e Javanan-e Aramane (Organization for Fostering the Thoughts of Armenian Youth), which would later become known as Ararat. This newly established Armenian youth organization, which had members ranging from age seven to mid-forties, off ered group music classes and the opportunity for Nejde to play in a small orchestra. Ararat also off ered classes on Armenian literature and culture and an environment in which Armenian was routinely spoken and Armenia was often a topic of discussion. The organization made an agreement with Mehr whereby the school’s soccer fi eld could be used by the Ararat soccer team after hours, so Ararat activities were initially like an Armenian cultural supplement to Nejde’s schoolday at Mehr. 
 
-Although Nejde still continued to loathe the violin, perhaps even more in a group setting, he was very impressed with Ararat and its older members and leaders, and he thrived in an environment where interaction and questions were encouraged. The setting seemed familiar, for, as at home, Armenian was the only language spoken at Ararat. The organization’s athletes, who participated in track, soccer, weightlifting, and mountaineering, greatly inspired Nejde, who would over the coming years in Ararat be motivated to try all of these activities, eventually focusing on soccer and weightlifting. Aside from the fun and glory promised by sporting activities, many of Ararat’s early members were intellectuals, and they would become involved in intense political discussions which 
+Although Nejde still continued to loathe the violin, perhaps even more in a group setting, he was very impressed with Ararat and its older members and leaders, and he thrived in an environment where interaction and questions were encouraged. The setting seemed familiar, for, as at home, Armenian was the only language spoken at Ararat. The organization’s athletes, who participated in track, soccer, weightlifting, and mountaineering, greatly inspired Nejde, who would over the coming years in Ararat be motivated to try all of these activities, eventually focusing on soccer and weightlifting. Aside from the fun and glory promised by sporting activities, many of Ararat’s early members were intellectuals, and they would become involved in intense political discussions which
+
+<!-- page 265 -->
 
 _Nejde Hagobian_ | 227 
 
@@ -2301,13 +2834,17 @@ Nejde intently listen to and tried his best to understand. Often the discussion 
 
 In 1948, when Nejde was fourteen, the Hagobian family moved out of the Abdoulahian compound and up the street to a new four-story apartment building on Khiabane Estakhr that housed predominantly Armenian tenants. The Hagobians’ next-door neighbor, Megardich Megardichian, was the publisher of the unoffi  cial Dashnak daily Armenian cultural and community newspaper _Alik_ , of which Hagob and Arshalous were avid readers. In summer of that year, Nejde graduated from Mehr and was registered at Dabirestan-e Firuz Bahram, a Zoroastrian-sponsored boys high school of fi ve hundred students that was well known in academics.[9] Most of Nejde’s Armenian friends from Mehr and many of them from Ararat were instead enrolled in the newly opened Armenian high school Hayots Dprots, which taught half of its classes in Armenian.[10] Because Hayots Dprots had only recently added its upper-division high school classes, Hagob and Arshalous made the decision to send him instead to Firuz Bahram. The extra Armenian-language skills Nejde would acquire at Hayots Dprots were not worth the risk that he might do poorly on the national exams, which were off ered only in Persian. 
 
-In his high school history and geography classes at Firuz Bahram, and through his interactions and conversations at Ararat, Nejde began to learn more about the relationship between the Soviet Union, communism, and Armenia. Events that had happened in his short past suddenly began to make much more sense as Nejde began to recall his random experiences with the Soviet Union up until that point. There was the time in August 1941 when the annual family vacation to the Armenian village suburb of Vanak was cut short after the Soviets bombed Tehran,[11] and days later when his father and mother were devastated with the news via telegram that Hagob’s truck had been seized by the Red Army as it invaded Tabriz. Nejde remembered the arguments between his parents and his aunt and uncle, Hripsik (or Morkur, “Aunt”) and Hovannes Mouradian, both of whom spoke fl uent Russian and were strongly pro-Soviet, and the stories they would repeatedly tell about their die-hard support for Russia.[12] 
+In his high school history and geography classes at Firuz Bahram, and through his interactions and conversations at Ararat, Nejde began to learn more about the relationship between the Soviet Union, communism, and Armenia. Events that had happened in his short past suddenly began to make much more sense as Nejde began to recall his random experiences with the Soviet Union up until that point. There was the time in August 1941 when the annual family vacation to the Armenian village suburb of Vanak was cut short after the Soviets bombed Tehran,[11] and days later when his father and mother were devastated with the news via telegram that Hagob’s truck had been seized by the Red Army as it invaded Tabriz. Nejde remembered the arguments between his parents and his aunt and uncle, Hripsik (or Morkur, “Aunt”) and Hovannes Mouradian, both of whom spoke fl uent Russian and were strongly pro-Soviet, and the stories they would repeatedly tell about their die-hard support for Russia.[12]
+
+<!-- page 266 -->
 
 228 | _Experiences with Iranian Nationalism_ 
 
 He would detect his father’s disgust during the war when Hovannes and Morkur would listen to the shortwave radio and gleefully move little red fl ags westward across a map of eastern Europe they had up on the wall, tracing the Soviet advance to Berlin. Nejde remembered their heated conversations about Armenia and the words _socialism_ and _communism_ recited often. Nejde recalled the time when during the occupation of Iran in 1944 the family vacationed in Ghazvin and a Red Army soldier gave him a small medal with a red star and hammer-and-sickle insignia. When he showed it to his father, Hagob promptly smashed the item and off ered no explanation to his distraught son. By high school, Nejde began to make sense of these arguments and attitudes: his father hated the Soviet Union because of its hold on Armenia and because of its invasion of Iran, during which the family lost its livelihood and Iran was occupied. Nejde would later learn that the Dashnaks with whom Hagob sympathized and often donated to, were hunted down, arrested, and often executed by the Soviet occupiers during the war. Until his adulthood, Nejde perceived the land of Armenia as the Armenians’ original motherland that now, unfortunately, was a Soviet republic with a population of mostly Communists. 
 
-Although his understanding of events, ideology, and details was extremely basic, Nejde nevertheless quickly learned to despise the Soviet Union and communism and was never short of an ally at Ararat when he began to engage in his own discussions on these topics with Ararat club members. In these engagements, he learned the terminology and buzzwords of the debate. Pro-Communist or sympathetic Ararat members would harp about the “masses” and “workers” and “Marx” and the “bourgeoisie,” while trying to explain an ideology Nejde couldn’t seem to understand and didn’t really care to learn about. They would call Nejde and his anti-Communist friends “imperialists” and “servants of the shah.” As modeled by older and at the time better-educated Ararat leaders such as Sevak Saginian, Nejde would retort that communism was antireligious and antiArmenian and that Communist sympathizers were traitors to Iran and the shah. He couldn’t argue with the point that his anti-Communist, pro-shah arguments were intellectually unsophisticated because they were. That would hurt, so Nejde would retort that communism was the bane of the free world and that pro-Communist Iranians were Soviet lackeys. 
+Although his understanding of events, ideology, and details was extremely basic, Nejde nevertheless quickly learned to despise the Soviet Union and communism and was never short of an ally at Ararat when he began to engage in his own discussions on these topics with Ararat club members. In these engagements, he learned the terminology and buzzwords of the debate. Pro-Communist or sympathetic Ararat members would harp about the “masses” and “workers” and “Marx” and the “bourgeoisie,” while trying to explain an ideology Nejde couldn’t seem to understand and didn’t really care to learn about. They would call Nejde and his anti-Communist friends “imperialists” and “servants of the shah.” As modeled by older and at the time better-educated Ararat leaders such as Sevak Saginian, Nejde would retort that communism was antireligious and antiArmenian and that Communist sympathizers were traitors to Iran and the shah. He couldn’t argue with the point that his anti-Communist, pro-shah arguments were intellectually unsophisticated because they were. That would hurt, so Nejde would retort that communism was the bane of the free world and that pro-Communist Iranians were Soviet lackeys.
+
+<!-- page 267 -->
 
 _Nejde Hagobian_ | 229 
 
@@ -2315,13 +2852,17 @@ While fi nally fi nding an academic subject, mathematics, that he enjoyed and ex
 
 The Soviet Cultural Library faced the intersection where the high school was located, and the students would pass by it on their way to 
 
-61. Nejde Hagobian ( _third from right along wall_ ) in the hall at Dabirestan-e Firuz Bahram, Tehran, 1952. Unknown photographer. Courtesy of Nejde Hagobian. 
+61. Nejde Hagobian ( _third from right along wall_ ) in the hall at Dabirestan-e Firuz Bahram, Tehran, 1952. Unknown photographer. Courtesy of Nejde Hagobian.
+
+<!-- page 268 -->
 
 230 | _Experiences with Iranian Nationalism_ 
 
 and from school. Taped to the windows from inside were large posters of Russian women happily engaged in agricultural work on collective farms. Nejde would always notice how the stout women smiled and showed their gold-capped teeth, and through conversations with friends about the photos he added another word to his rapidly growing lexicon of political terms: _prupagand_ (propaganda). The street on which the high school was located came to a dead end in the next block at the gate of the Soviet embassy. The latter large walled and wooded property, several blocks in length and width, was never open to the public and became an object of curiosity and constant speculation about its contents and purpose.[14] Two blocks up the street in the other direction was a new multistory building built by the US State Department to function as an offi  ce extension and information center. Downstairs was a beautiful library stocked with books and periodicals in English, a language that Nejde was now studying at Firuz Bahram. Rows of polished American cherry-wood bookshelves and tables were interspersed with comfortable couches, and the library featured paintings of American presidents on the wall.[15] Nejde and his friend Henry Gabrielian would visit the American library every week. They usually would sit in the periodicals section and leaf through American magazines such as the _Saturday Evening Post_ , _Life_ , and _Look_ . Nejde found the photographs of campus life in the United States most interesting and often admired the detail in the cover work by Norman Rockwell. Also of interest to him was the large collection of technical and engineering reference books the American library off ered, although they were not to be checked out, and most of the words were indecipherable to him with his limited English. 
 
-Between 1950 and 1952, membership in Ararat fl uctuated, and the clubhouse moved twice, eventually ending up in a two-story building on Khiabane Noh Bahar. Many of the older college students of the original group, especially those interested in the political left, quit the organization to focus their attention and eff orts on Iranian national politics and parties. At the same time, Ararat’s athletic activities, especially mountaineering, gained in popularity. Involved in several athletic activities and having made good friends, Nejde spent most of his waking hours at Ararat when he was not at school. During summer breaks, Nejde and his Armenian 
+Between 1950 and 1952, membership in Ararat fl uctuated, and the clubhouse moved twice, eventually ending up in a two-story building on Khiabane Noh Bahar. Many of the older college students of the original group, especially those interested in the political left, quit the organization to focus their attention and eff orts on Iranian national politics and parties. At the same time, Ararat’s athletic activities, especially mountaineering, gained in popularity. Involved in several athletic activities and having made good friends, Nejde spent most of his waking hours at Ararat when he was not at school. During summer breaks, Nejde and his Armenian
+
+<!-- page 269 -->
 
 _Nejde Hagobian_ | 231 
 
@@ -2331,7 +2872,9 @@ Membership and activities at Ararat could be highly structured and organized, su
 
 In 1951, Leonidas Ohanian, a twenty-two-year-old member of Ararat who had been active in Armenian literature classes and theater, proposed to the permit holder and chair of Ararat, Sevak Saginian, that a scouting group be developed to give the preteens and teenagers something else to do with their time that was constructive. Not all of the youth were musically inclined or interested in theater; organized sports weren’t for everyone; and mountaineering, although popular, involved training, detailed planning, and proper equipment. Scouting, Leonidas thought, would off er Ararat teens an organized outdoor, social, and physical activity that taught practical skills and upheld Armenian culture and the values of the Armenian community. Sevak agreed with him and informed Lolo (as Leonidas was called by his friends) that he had in fact already been granted a permit for scouting that had been issued when the shah intervened the previous year to allow the organization to have mountaineering as an activity.[16] Thus, all that was left for Lolo to do was to fi nd a group of teens interested in scouting activity and to learn about scouting himself, for, aside from the fact that they wore uniforms and practiced marching regularly, Lolo admittedly knew very little about scouting activities and traditions.[17] 
 
-When Lolo approached Nejde, then seventeen, and some of the older teens to fi nd out about their general level of interest in scouting, he got mixed reactions. Although some, such as Nejde’s good friend Artashes 
+When Lolo approached Nejde, then seventeen, and some of the older teens to fi nd out about their general level of interest in scouting, he got mixed reactions. Although some, such as Nejde’s good friend Artashes
+
+<!-- page 270 -->
 
 232 | _Experiences with Iranian Nationalism_ 
 
@@ -2339,7 +2882,9 @@ When Lolo approached Nejde, then seventeen, and some of the older teens to fi nd
 
 Lolo was undeterred and within a short period of time had signed up about twenty-fi ve _hay ari_ (Armenian boy scouts) and twenty _hay arenush_ (Armenian girl scouts). Ararat leaders agreed upon a style of uniforms, which looked like a hybrid between those of the American Boy and Girl Scouts and the Soviet Pioneers.[18] Equally important as the style was the consistency of the color of the cloth, which was a contested issue before a standard light khaki was agreed upon. Orders for labels and badges were placed at a local trophy shop, and these items were fashioned after those of military and other scouting organizations. Scouts had to have a parent take them to the tailor for measurement for their custom uniforms, which would have the name “Ararat” embroidered in Armenian script above the breast pocket and on the arm. Soon decked out in their khaki uniforms and neck scarves, the boy scouts and girl scouts were organized to learn the skill of precision marching for parades and fl ag bearing, which they practiced for weeks on end in the large yard behind Ararat. Occasionally watching with some of the other Ararat teens, Nejde noticed that the practice was paying off , but he would repeatedly tell Lolo that there had to be more to scouting if he were to consider joining the group. 
 
-Two months after the establishment of the Ararat scouts, Ararat was making plans to host a dinner and reception for a visiting Armenian American dignitary from the United Nations Food Program, George Mardikian. Lolo seized the opportunity to have the scouts’ fi rst dedication ceremony and oath coincide with what would be a large community event. On the night of the dedication, Nejde looked on as a spectator while his friends marched by him in uniforms carrying the fl ags of Iran and Ararat to music of the Ararat marching band. The parade went without a hitch, with the exception of the clarinet player, who emitted a highpitched squeal every time he stepped in one of the many holes that pocked the yard. The oath ceremony was solemn as the scouts pledged in Armenian before the crowd that they would be faithful to “Astsus, azgis yev 
+Two months after the establishment of the Ararat scouts, Ararat was making plans to host a dinner and reception for a visiting Armenian American dignitary from the United Nations Food Program, George Mardikian. Lolo seized the opportunity to have the scouts’ fi rst dedication ceremony and oath coincide with what would be a large community event. On the night of the dedication, Nejde looked on as a spectator while his friends marched by him in uniforms carrying the fl ags of Iran and Ararat to music of the Ararat marching band. The parade went without a hitch, with the exception of the clarinet player, who emitted a highpitched squeal every time he stepped in one of the many holes that pocked the yard. The oath ceremony was solemn as the scouts pledged in Armenian before the crowd that they would be faithful to “Astsus, azgis yev
+
+<!-- page 271 -->
 
 _Nejde Hagobian_ | 233 
 
@@ -2347,7 +2892,9 @@ hayrenikis” (My god, my nation, and my homeland).[19] As Lolo had hoped, in th
 
 One day while Lolo was discussing the situation with some of the other Ararat members, Nejde Hagobian suggested that Lolo contact his Iranian American friend George Patgorney, whom Nejde knew to be somehow affi  liated with the Boy Scouts of America. Lolo asked Nejde once more why he wouldn’t join the scouts, this time boosting his ego by saying he knew Nejde was a leader and challenging him to put his mind to work to develop some activities to keep the scouts interested. Having already been intrigued by the induction ceremony, Nejde agreed on the spot to join the scouts and help out—with the condition that he begin at the level of assistant scoutmaster. 
 
-Before the next scout meeting, Nejde and Arshalous went to the neighborhood tailor, bringing a bolt of khaki cloth the color of the other Ararat scout uniforms and the correct patches and badges purchased from the trophy shop. Two days later the uniform was ready, and when Nejde appeared at the next Ararat scout meeting, he was greeted by the cheers and hugs of his good friends who were already scouts. But Nejde still knew next to nothing about scouting. So, acting on his own suggestion to Lolo, he contacted George Patgorney, who attended the American school next to Nejde’s former primary school Mehr. Patgorney lent Nejde a used copy of the _Boy Scouts of America Field Book_ , which contained hundreds of pages of instructions and photos depicting activities, including signaling, stalking, knot tying, fi rst aid, wilderness survival, cookery, camp crafts, and the building of rope structures. Patgorney explained that because there was no Iranian scouting, he and a loose-knit group of half a dozen sons of American expatriates would go camping together in the hills north of Tehran and practice wilderness skills. All of them, including Patgorney, wore the uniforms of the Boy Scouts of America. Although they engaged in scouting activities without a proper permit, they were a small group, so no one from the government seemed to mind. 
+Before the next scout meeting, Nejde and Arshalous went to the neighborhood tailor, bringing a bolt of khaki cloth the color of the other Ararat scout uniforms and the correct patches and badges purchased from the trophy shop. Two days later the uniform was ready, and when Nejde appeared at the next Ararat scout meeting, he was greeted by the cheers and hugs of his good friends who were already scouts. But Nejde still knew next to nothing about scouting. So, acting on his own suggestion to Lolo, he contacted George Patgorney, who attended the American school next to Nejde’s former primary school Mehr. Patgorney lent Nejde a used copy of the _Boy Scouts of America Field Book_ , which contained hundreds of pages of instructions and photos depicting activities, including signaling, stalking, knot tying, fi rst aid, wilderness survival, cookery, camp crafts, and the building of rope structures. Patgorney explained that because there was no Iranian scouting, he and a loose-knit group of half a dozen sons of American expatriates would go camping together in the hills north of Tehran and practice wilderness skills. All of them, including Patgorney, wore the uniforms of the Boy Scouts of America. Although they engaged in scouting activities without a proper permit, they were a small group, so no one from the government seemed to mind.
+
+<!-- page 272 -->
 
 234 | _Experiences with Iranian Nationalism_ 
 
@@ -2355,7 +2902,9 @@ Nejde rushed home with the boy scouts manual and studied it intently, using the 
 
 The fi rst Ararat camping event took place in the spring of 1952 in the mountains north of Tehran at the Manzarieh campgrounds. Sevak Saginian obtained a permit for a large group to camp at the spacious, woodsy park, which featured a swimming pool, campgrounds with fi re pits, and abundant trails for hiking. Best of all, it off ered use of camping equipment stored on the site, such as canvas tents and cookware for large groups. Although the equipment had been left unused for more than a decade after the disbanding of the Pishahangi-ye Iran following Reza Shah’s exile in 1941, it was in fairly good shape and enabled the generally unequipped Armenian scouts, all from the city, to enjoy a true outdoor camping experience. The fi rst camping trip was attended by a group of about thirty-fi ve boy scouts and was scheduled to last for a week. 
 
-Mornings at camp began with the sound of reveille blown by an Ararat trumpet player. Within fi ve minutes, the scouts were expected to be in uniform at the fl agpole, where the Ararat fl ag would be hoisted under the Iranian national fl ag. Scouts who didn’t hear the bugle or who pretended not to would be dragged out of their tents by the other scouts and forced to stand in their underwear or pajamas for the fl ag raising. All would then state the Ararat oath to uphold allegiance to God, the nation, and the 
+Mornings at camp began with the sound of reveille blown by an Ararat trumpet player. Within fi ve minutes, the scouts were expected to be in uniform at the fl agpole, where the Ararat fl ag would be hoisted under the Iranian national fl ag. Scouts who didn’t hear the bugle or who pretended not to would be dragged out of their tents by the other scouts and forced to stand in their underwear or pajamas for the fl ag raising. All would then state the Ararat oath to uphold allegiance to God, the nation, and the
+
+<!-- page 273 -->
 
 _Nejde Hagobian_ | 235 
 
@@ -2365,7 +2914,9 @@ homeland. Breakfast, cleanup, and wilderness activities followed. After lunch, a
 
 One day during the middle of the trip was designated for a visit by parents and Ararat girl scouts. This was a special event because the boy scouts, most of whom had never spent a night away from home, hadn’t seen their parents for days, and several of them had girlfriends in the girl scouts and were by then lovesick. The night before, the scouts carefully laid their uniforms under their sleeping pads so the following day they would look as if they had been pressed, and everyone did their best to clean themselves and the campgrounds in anticipation of their guests. The parents and girl scouts arrived at ten o’clock in the morning, carrying home-cooked food and changes of clothing. After lunch, parents relaxed outdoors and spent time with their sons while other scouts went on a group hike. Some of the scouts who had visiting girlfriends showed off the couple’s initials secretly carved on a remote tree because the practice was contrary to scout rules. 
 
-The fi nal day of the fi rst Ararat camping trip was full of mixed emotions for the scouts, who had developed a tremendous amount of 
+The fi nal day of the fi rst Ararat camping trip was full of mixed emotions for the scouts, who had developed a tremendous amount of
+
+<!-- page 274 -->
 
 236 | _Experiences with Iranian Nationalism_ 
 
@@ -2373,7 +2924,9 @@ camaraderie in their week of camping and activities together. Although many were
 
 In September 1952, Lolo Ohanian informed Ararat leader Sevak Saginian that the scouts were ready to march with the Ararat athletes in the annual parade at Amjadieh Stadium for the shah’s birthday on the Fourth of Aban, a state holiday that fell on October 25 that year. Sevak told Lolo to take the preparation for the event very seriously and that the scouts had better be prepared and look their best. Sevak knew that Ararat athletes 
 
-63. Nejde Hagobian holds the Iranian tricolor at Manzarieh, 1952. Unknown photographer. Courtesy of Nejde Hagobian. 
+63. Nejde Hagobian holds the Iranian tricolor at Manzarieh, 1952. Unknown photographer. Courtesy of Nejde Hagobian.
+
+<!-- page 275 -->
 
 _Nejde Hagobian_ | 237 
 
@@ -2383,7 +2936,9 @@ At Amjadieh Stadium, with thousands of spectators looking on, the state marching
 
 Through the experience of leading the 1952 Fourth of Aban parade, Nejde’s sense of loyalty to the shah grew. It was exciting to lead the procession, and it was an honor to be recognized and saluted by the nation’s ruler. Furthermore, the shah’s recognition of Ararat itself—an Armenian 
 
-64. Ararat scouts, including Nejde Hagobian ( _center with fl ag_ ), lead the Fourth of Aban parade, 1952. Unknown photographer. Courtesy of Nejde Hagobian. 
+64. Ararat scouts, including Nejde Hagobian ( _center with fl ag_ ), lead the Fourth of Aban parade, 1952. Unknown photographer. Courtesy of Nejde Hagobian.
+
+<!-- page 276 -->
 
 238 | _Experiences with Iranian Nationalism_ 
 
@@ -2393,7 +2948,9 @@ In the spring of 1953, the Ararat boy scouts and girl scouts from Tehran took a 
 
 Nejde was aware of rumors that the Dashnak Party, which sponsored the daily newspaper _Alik_ , which his parents avidly read, had a grip on Ararat and that the group’s members were affi  liated with the party. It was true that many of its leaders were either rank-and-fi le members of the party or Dashnak sympathizers—or even Dashnak pretenders because it was trendy in those years to hint at one’s activity in the covert, underground organization. Yet Nejde never detected a hint of party ideology in Ararat meetings or activities and never received or heard of any directives or indoctrination sessions to advance the party’s nationalist, socialist philosophy. As far as he was aware, Ararat’s purpose was purely athletic, cultural, and social—dedicated to sustaining the Armenian language and strengthening the bonds within the Armenian Iranian community. 
 
-Despite the organization’s outwardly apolitical appearance, Ararat members found it diffi  cult to avoid becoming drawn into the politically motivated street demonstrations and altercations that typifi ed the year 1952–53. Members who were strongly pro-shah and anti-Tudeh, such as permit holder Sevak Saginian (who also happened to be an excellent boxer) basically sought out physical confrontations with Communists at 
+Despite the organization’s outwardly apolitical appearance, Ararat members found it diffi  cult to avoid becoming drawn into the politically motivated street demonstrations and altercations that typifi ed the year 1952–53. Members who were strongly pro-shah and anti-Tudeh, such as permit holder Sevak Saginian (who also happened to be an excellent boxer) basically sought out physical confrontations with Communists at
+
+<!-- page 277 -->
 
 _Nejde Hagobian_ | 239 
 
@@ -2401,7 +2958,9 @@ street rallies and demonstrations. Motivations were diff erent for younger membe
 
 On Noh-e Esfand (February 28), 1953, Nejde and several other Ararat members attended a demonstration outside the royal palace in support of the shah when it was rumored that Prime Minister Mossadegh had persuaded the shah to leave the country.[23] Nejde was amazed by the huge crowd of people gathered, many of whom were fl agellating themselves with their bare hands or stooping to rub grass or dirt in their hair to express their consternation over the thought that the shah might leave. A clash was inevitable when a previously planned pro-Tudeh march against the shah and a large pro-Mossadegh rally converged on the palace from opposite directions. The Ararat members joined in with their fellow proshah Iranians as they vented their anger with a hail of pro-shah chants, sticks, bottles, rocks, and fi sts. The shah remained in the country, and Nejde was proud that he had participated in what seemed to be a critical demonstration of support.[24] 
 
-During another pro-shah demonstration in the summer of 1953 that got out of control, a large crowd had formed outside of a compound near the royal palace where Prime Minister Mossadegh and his foreign minister, Husayn Fatemi, were meeting. Although Nejde wasn’t sure what the crowd’s intentions were once they gained access to the compound, he joined in with scores of Iranians and a few of his friends from Ararat 
+During another pro-shah demonstration in the summer of 1953 that got out of control, a large crowd had formed outside of a compound near the royal palace where Prime Minister Mossadegh and his foreign minister, Husayn Fatemi, were meeting. Although Nejde wasn’t sure what the crowd’s intentions were once they gained access to the compound, he joined in with scores of Iranians and a few of his friends from Ararat
+
+<!-- page 278 -->
 
 240 | _Experiences with Iranian Nationalism_ 
 
@@ -2409,13 +2968,17 @@ During another pro-shah demonstration in the summer of 1953 that got out of cont
 
 in pushing collectively on the front gate to break it down. After someone in the crowd yelled that the security guards were fl eeing out a side door and over a neighboring wall, the crowd heaved mightily, and the gate fl ew open. In a mad dash, the mob rushed the compound’s main building, with Ararat member Chalo Amirkhanian leading the charge through the front door. When Chalo emerged from the building, which was being ransacked and looted by the crowd, he was holding a leather briefcase and looking simultaneously excited and scared: it was Foreign Minister Fatemi’s notes and documents. As Chalo and the other Ararat members ran off  with the bag, Nejde hurriedly walked home, thinking that matters were getting serious. 
 
-On yet another occasion in 1953 that demonstrated how political turmoil was escalating, Nejde, Lolo, and three other Ararat members were walking down Khiabane Yusefabad when they were suddenly surrounded by a large group of pro-Tudeh youths and young adults, who began verbally accosting them and provoking them to fi ght. As one of the Tudehists squared off  with Lolo, Nejde assessed the situation and realized it was hopeless: they were totally outnumbered and were surely going to suff er a severe beating. The crowd closed in on the Ararat members, and 
+On yet another occasion in 1953 that demonstrated how political turmoil was escalating, Nejde, Lolo, and three other Ararat members were walking down Khiabane Yusefabad when they were suddenly surrounded by a large group of pro-Tudeh youths and young adults, who began verbally accosting them and provoking them to fi ght. As one of the Tudehists squared off  with Lolo, Nejde assessed the situation and realized it was hopeless: they were totally outnumbered and were surely going to suff er a severe beating. The crowd closed in on the Ararat members, and
+
+<!-- page 279 -->
 
 _Nejde Hagobian_ | 241 
 
 fi sts and sticks started fl ying. Then, just as suddenly as the gang of Tudeh supporters had appeared, there was a screeching of tires on the street and pounding of feet on the pavement, and Nejde heard someone yelling, “Bachaha-ye Ararat!” (“Ararat kids!”). He looked up to see the towering local _pahlavan_ (athlete) of the _zurkhane_ , ardent pro-shah agitator, and mob organizer Shaban Jafari (widely known as “Shaban Bimokh,” Shaban the Brainless) tearing into the crowd of Tudehists, followed by a large gang of other stout pro-shah _pahlavan_ s, who had arrived in Jeeps.[25] Within moments, the Tudeh gang was beaten back and sent running down Yusefabad with a number of _pahlavan_ s in pursuit. Lolo and Nejde approached Shaban Bimokh afterward and thanked him profusely for saving them from what would have no doubt been a brutal thrashing. As Shaban shook their hands, he smiled crazily and explained that it was his pleasure to beat up Tudehists. With that, he hopped back in his Jeep and led the caravan of _pahlavan_ s away. Nejde and Lolo were thoroughly impressed. 
 
-Thus far such fi stfi ghts and demonstrations had seemed relatively harmless and were extremely exciting, but fear set in late one day in July 1953 when a well-substantiated rumor circulated that Tudehists planned on burning down or otherwise attacking the Ararat building on Khiabane Yusefabad. It was surmised that Ararat was viewed as a pro-shah organization. Ararat leader Sevak Saginian called Nejde and a number of other scouts and Ararat members to the club, where they took up positions in the lower windows of the building with an odd assortment of loaded guns that Marzbet Marzbetuny had miraculously produced. Nejde had always guessed that Marzbet had a direct connection to the Dashnaks, but now he was certain. When a patrol of the Tehran police fi nally showed up that evening—hours after Sevak Saginian had placed a frantic call to them with the rumor—the patrol chief walked around the building, looked into the basement, and returned outside to report to Sevak that there shouldn’t be a problem, joking that the club was already being defended by more fi repower than the gendarme had at its disposal.[26] Furthermore, he explained, the police were too busy trying to deal with rampant protests and rioting around the city to assign guards to Ararat based on only a rumor. After waiting anxiously until dawn at the windows without detecting a single Communist agitator or saboteur, the scouts returned their weapons to 
+Thus far such fi stfi ghts and demonstrations had seemed relatively harmless and were extremely exciting, but fear set in late one day in July 1953 when a well-substantiated rumor circulated that Tudehists planned on burning down or otherwise attacking the Ararat building on Khiabane Yusefabad. It was surmised that Ararat was viewed as a pro-shah organization. Ararat leader Sevak Saginian called Nejde and a number of other scouts and Ararat members to the club, where they took up positions in the lower windows of the building with an odd assortment of loaded guns that Marzbet Marzbetuny had miraculously produced. Nejde had always guessed that Marzbet had a direct connection to the Dashnaks, but now he was certain. When a patrol of the Tehran police fi nally showed up that evening—hours after Sevak Saginian had placed a frantic call to them with the rumor—the patrol chief walked around the building, looked into the basement, and returned outside to report to Sevak that there shouldn’t be a problem, joking that the club was already being defended by more fi repower than the gendarme had at its disposal.[26] Furthermore, he explained, the police were too busy trying to deal with rampant protests and rioting around the city to assign guards to Ararat based on only a rumor. After waiting anxiously until dawn at the windows without detecting a single Communist agitator or saboteur, the scouts returned their weapons to
+
+<!-- page 280 -->
 
 242 | _Experiences with Iranian Nationalism_ 
 
@@ -2425,15 +2988,21 @@ On the days leading up to Bist-o Hasht-e Mordad (Mordad 28, 1332; August 19, 195
 
 In early September, barely two weeks after the coup d’état, Nejde received an unexpected award for his participation in the demonstrations in support of the shah during that period. He was declared the recipient of the Neshan-e Rastakhiz-e Bist-o Hasht-e Mordad Darje-ye Seh (Order of the Resurgence of Bist-o Hasht-e Mordad of the Third Degree). In addition to a medal, he was given a document, affi  xed with his own photograph, that declared him a recipient of the award. 
 
-Upon receiving the award through Ararat leader Sevak Saginian, Nejde found out that he was not the only Ararat member to receive a medal for Bist-o Hasht-e Mordad. Scout leader Lolo Ohanian and Nejde’s friend Artash Yerganian had also been given the award of the third rank, while Sevak Saginian and Chalo Amirkhanian (the “liberator” of Fatemi’s briefcase) were awarded the Neshan-e Rastakhiz-e Darje-ye Yek, which was the same award but of the highest rank. Nejde was proud of his award, wearing his Rastakhiz medal on his Ararat scout uniform, showing off  the certifi cate to all of his friends and relatives and describing in detail the street engagements that, he surmised, were the reasons he received the award.[28] Soon Nejde found out that beyond impressing friends and relatives, the certifi cate could play a very practical purpose in lubricating the wheels of Iranian bureaucracy.[29] 
+Upon receiving the award through Ararat leader Sevak Saginian, Nejde found out that he was not the only Ararat member to receive a medal for Bist-o Hasht-e Mordad. Scout leader Lolo Ohanian and Nejde’s friend Artash Yerganian had also been given the award of the third rank, while Sevak Saginian and Chalo Amirkhanian (the “liberator” of Fatemi’s briefcase) were awarded the Neshan-e Rastakhiz-e Darje-ye Yek, which was the same award but of the highest rank. Nejde was proud of his award, wearing his Rastakhiz medal on his Ararat scout uniform, showing off  the certifi cate to all of his friends and relatives and describing in detail the street engagements that, he surmised, were the reasons he received the award.[28] Soon Nejde found out that beyond impressing friends and relatives, the certifi cate could play a very practical purpose in lubricating the wheels of Iranian bureaucracy.[29]
 
-66. _Hokm_ certifying the Neshan-e Rastakhiz-e Bist-o Hasht-e Mordad Darje-ye Seh awarded to Nejde Hagobian. “Ministry of Defense—Armed Forces Agha-ye Nejdek Hakobian, By order of the king, because of the heroism/sacrifi ces you have demonstrated during the uprising of Bist-o Hasht-e Mordad, you are being honored with the Order of the Resurgence of the Third Rank. The proceedings are related to you by this means. General Batmangholitch, Head of Armed Forces.” Courtesy of Nejde Hagobian. 
+<!-- page 281 -->
+
+66. _Hokm_ certifying the Neshan-e Rastakhiz-e Bist-o Hasht-e Mordad Darje-ye Seh awarded to Nejde Hagobian. “Ministry of Defense—Armed Forces Agha-ye Nejdek Hakobian, By order of the king, because of the heroism/sacrifi ces you have demonstrated during the uprising of Bist-o Hasht-e Mordad, you are being honored with the Order of the Resurgence of the Third Rank. The proceedings are related to you by this means. General Batmangholitch, Head of Armed Forces.” Courtesy of Nejde Hagobian.
+
+<!-- page 282 -->
 
 244 | _Experiences with Iranian Nationalism_ 
 
 Just two months after Mohammad Reza Shah’s throne had been restored by the coup d’état of August 1953, the Ararat scouts again led the Fourth of Aban (October 26, 1953) parade at Amjadieh Stadium for the shah’s birthday.[30] This was perhaps one of the most exciting events of Nejde Hagobian’s youth, for he was selected to march alone at the very front of the parade and by his salute provide the cue for the shah to rise for his review of the procession. Thousands of spectators fi lled the stands, fl ashbulbs were popping, and cameras fi lming the nation’s movie theater news shorts (known as _akbar_ ) were rolling as Nejde led the Ararat scouts and Iranian athletic organizations around the track at Amjadieh to honor the shah. Marching directly behind Nejde were two younger Armenian scouts bearing a large, framed photograph of the shah as a teenager wearing the uniform of the Pishahangi-ye Iran. As instructed, when Nejde was in front of the observation box where the shah stood amidst Majles members, generals, ministers, and other members of the political elite, he turned to the shah, saluted, and then dropped his hand smartly. With this honorifi c cue, the shah stood up at attention, saluted back at the honored scout, and remained standing in review as the Iranian scouts, athletes, students, and an assortment of representatives from social and cultural organizations from Iran’s cities marched past to the cadence of the national military band. For Nejde, it was an exhilarating experience that he relived for months afterward as clips appeared in movie theaters in Tehran and around the nation. 
 
-After the parade but preceding the main event, which was a soccer game between the two best soccer clubs in the nation, the Ararat scouts exhibited their newly acquired skills erecting fl ag posts, observation towers, and suspension bridges for river crossing out of wood and rope. Engaging in a timed competition between troops and observed by the shah with binoculars and the crowd in the stadium, the competing troops lined up at opposite ends of the track fi eld with organized piles of precut timber and ropes on the ground in front of them. On Nejde’s signal, which was a sharp blast of a whistle,[31] the troops would scramble to pick up the ropes and timber and run to their preplanned positions to begin erecting the structures. After the constructions were completed and the crowd applauded for the winning troop, Nejde signaled again, and the scouts 
+After the parade but preceding the main event, which was a soccer game between the two best soccer clubs in the nation, the Ararat scouts exhibited their newly acquired skills erecting fl ag posts, observation towers, and suspension bridges for river crossing out of wood and rope. Engaging in a timed competition between troops and observed by the shah with binoculars and the crowd in the stadium, the competing troops lined up at opposite ends of the track fi eld with organized piles of precut timber and ropes on the ground in front of them. On Nejde’s signal, which was a sharp blast of a whistle,[31] the troops would scramble to pick up the ropes and timber and run to their preplanned positions to begin erecting the structures. After the constructions were completed and the crowd applauded for the winning troop, Nejde signaled again, and the scouts
+
+<!-- page 283 -->
 
 _Nejde Hagobian_ | 245 
 
@@ -2443,7 +3012,9 @@ Less than two weeks after the highly successful Fourth of Aban parade, the Arara
 
 Shah Mohammad Reza Pahlavi had a sincere interest in scouting in 1953 and 1954, for he was planning to revive the Pishahangi-ye Iran under 
 
-67. Hagobian and Ararat scouts at reception with Mohammad Reza Shah and his second wife, Soraya, November 10, 1953. Unknown photographer. Courtesy of Nejde Hagobian. 
+67. Hagobian and Ararat scouts at reception with Mohammad Reza Shah and his second wife, Soraya, November 10, 1953. Unknown photographer. Courtesy of Nejde Hagobian.
+
+<!-- page 284 -->
 
 246 | _Experiences with Iranian Nationalism_ 
 
@@ -2451,13 +3022,17 @@ the Sazman-e Pishahangi (Organization of Scouting), which had been disbanded in 
 
 To move the project forward in the summer of 1954, Dr. Banai contacted Sevak Saginian, who was permit holder of Ararat and its honorary scout headmaster, and proposed a joint scouting jamboree to be held at Manzarieh. It would include the Ararat boy scouts, which by now had grown to well more than two hundred members ranging in age from seven to twenty, Banai’s group of paid scoutmasters, all of whom were in their thirties and numbered about twenty-fi ve, and the small band of American scouting enthusiasts associated with George Patgorney. Sevak was particularly pleased when Banai added that the shah would be visiting and reviewing the encampment, and he told Banai that the jamboree sounded like an excellent idea.[35] 
 
-Held during the last week of August 1954, the fi rst joint Iranian scouting jamboree was a huge success. On Banai’s insistence, all the scouts pitched their tents together rather than in the separate Armenian Iranian and Persian Iranian groups that were taking shape before he intervened. Despite a highly successful covert attack by the Armenian scouts to pillage the outer clothing of the Persian scoutmasters the night before the shah’s visit on August 26, the overall group otherwise interacted in a strong spirit of cooperation. Because Nejde Hagobian had previously met the shah and marched before him at the Fourth of Aban parades, 
+Held during the last week of August 1954, the fi rst joint Iranian scouting jamboree was a huge success. On Banai’s insistence, all the scouts pitched their tents together rather than in the separate Armenian Iranian and Persian Iranian groups that were taking shape before he intervened. Despite a highly successful covert attack by the Armenian scouts to pillage the outer clothing of the Persian scoutmasters the night before the shah’s visit on August 26, the overall group otherwise interacted in a strong spirit of cooperation. Because Nejde Hagobian had previously met the shah and marched before him at the Fourth of Aban parades,
+
+<!-- page 285 -->
 
 _Nejde Hagobian_ | 247 
 
 68. Nejde Hagobian ( _center left_ ), George Patgorney ( _center right_ , wearing Boy Scouts of America sash) with a group of Armenian and American boy scouts at the scout jamboree, Manzarieh, August 26, 1954. Unknown photographer. Courtesy of Nejde Hagobian. 
 
-and because of the strict discipline of the Ararat scouts under his direction, he was able to remain calm in his interactions with the shah and relished the opportunity to walk beside him and answer his questions about the various wilderness survival projects on which the scouts were working, the organizational structure of the Ararat scouts, and their various activities outside of camping while photographers took pictures and generals and reporters followed behind. At one point, the shah asked Nejde what one of the Ararat scout badges said because it was written in Armenian script. Nejde instantly replied that the patch said “Bardzratsir Bardzratsur” (Elevate Yourself and Lift Up Others). Instantly realizing by the shah’s expression that the Armenian phrase was unclear, Nejde instantly tried the closest approximation in Persian he could think of at the moment, which was “Boland sho Boland kon.” With that, the shah and Banai looked at each other and chuckled. Then Banai softly explained to Nejde that although the Persian approximation that he came up with didn’t have the wholesome connotations he intended, they nevertheless got the gist of what “Bardzratsir Bardzratsur” meant.[36] 
+and because of the strict discipline of the Ararat scouts under his direction, he was able to remain calm in his interactions with the shah and relished the opportunity to walk beside him and answer his questions about the various wilderness survival projects on which the scouts were working, the organizational structure of the Ararat scouts, and their various activities outside of camping while photographers took pictures and generals and reporters followed behind. At one point, the shah asked Nejde what one of the Ararat scout badges said because it was written in Armenian script. Nejde instantly replied that the patch said “Bardzratsir Bardzratsur” (Elevate Yourself and Lift Up Others). Instantly realizing by the shah’s expression that the Armenian phrase was unclear, Nejde instantly tried the closest approximation in Persian he could think of at the moment, which was “Boland sho Boland kon.” With that, the shah and Banai looked at each other and chuckled. Then Banai softly explained to Nejde that although the Persian approximation that he came up with didn’t have the wholesome connotations he intended, they nevertheless got the gist of what “Bardzratsir Bardzratsur” meant.[36]
+
+<!-- page 286 -->
 
 248 | _Experiences with Iranian Nationalism_ 
 
@@ -2465,7 +3040,9 @@ The excitement about the shah’s review dissipated shortly after he and his ent
 
 In the fall of 1954, the Ararat scouts had grown to more than three hundred in number and were divided into subsections of cub scouts, girl scouts, and boy scouts. At this time of increasing popularity in scouting, a number of Ararat members older than twenty wanted to join the scouting ranks or stay in the organization but were considered too old for the boy scouts. Although Nejde was content as a scoutmaster of the boy scouts, he was interested in trying something new and in consultation with the potential new members decided to create a division of _yerets_ : senior scouts like the American Explorers.[38] After he was unanimously voted to be the leader of the new division, Nejde selected a uniform color of dark green with white belts and dusters. He also set up a small room at the Ararat club to serve as the _yerets’_ headquarters, which was decorated with the fl ags of Iran and Ararat as well as a painting of the shah. Ararat leader Sevak Saginian was invited to pose for photographs with Nejde and the _yerets_ scouts to mark the occasion. 
 
-Nejde’s next challenge was going to be how to keep this older group of somewhat unruly scouts—a few of whom were wrestlers and martial arts athletes—in line, busy, and entertained. He soon realized that it would be necessary to eliminate much of the synchronized marching and instead subject the _yerets_ to rigorous, out-of-the-ordinary outdoor activities. During the Fourth of Aban celebration of 1954, in which the Ararat boy scouts and girl scouts again led the parade at Amjadieh Stadium, the ten senior scouts under Hagobian’s leadership were away on a remote backpacking trip in the high elevations of the Alborz Mountains in which they had to carry in all of their equipment for miles and put many of their wilderness survival skills to use. In January 1955, Nejde led the _yerets_ on a trip to the outlying hills around Rasht (near the Caspian Sea) with the goal of catching a live bear and returning with it to Tehran in the back of one of Hagob Hagobian’s dump trucks,[39] where it would be donated to the 
+Nejde’s next challenge was going to be how to keep this older group of somewhat unruly scouts—a few of whom were wrestlers and martial arts athletes—in line, busy, and entertained. He soon realized that it would be necessary to eliminate much of the synchronized marching and instead subject the _yerets_ to rigorous, out-of-the-ordinary outdoor activities. During the Fourth of Aban celebration of 1954, in which the Ararat boy scouts and girl scouts again led the parade at Amjadieh Stadium, the ten senior scouts under Hagobian’s leadership were away on a remote backpacking trip in the high elevations of the Alborz Mountains in which they had to carry in all of their equipment for miles and put many of their wilderness survival skills to use. In January 1955, Nejde led the _yerets_ on a trip to the outlying hills around Rasht (near the Caspian Sea) with the goal of catching a live bear and returning with it to Tehran in the back of one of Hagob Hagobian’s dump trucks,[39] where it would be donated to the
+
+<!-- page 287 -->
 
 _Nejde Hagobian_ | 249 
 
@@ -2473,7 +3050,9 @@ _Nejde Hagobian_ | 249
 
 city zoo. Although they were well equipped with thick ropes and nets, Nejde realized that his planning had been too hasty when bemused locals explained to the scouts while they were setting up camp that there were very few bears in Rasht and that the ones that did inhabit the region were hibernating at that time of year. 
 
-Later that year Sevak Saginian was informed that the Tabriz branch of Ararat had a growing group of boy and girl scouts who were afraid to wear their uniforms in public owing to harassment by pro-Communist youths who were still quite active in that city and resented Ararat’s Dashnak, anti-Communist, pro-shah orientation. When Sevak informed Nejde about the situation, Nejde saw another challenge for his _yerets_ and immediately planned a trip to Tabriz. He coordinated with the local Ararat chapter in Tabriz to organize a reception and oath ceremony much like the one he had watched his friends take in 1952 and then sought to invite 
+Later that year Sevak Saginian was informed that the Tabriz branch of Ararat had a growing group of boy and girl scouts who were afraid to wear their uniforms in public owing to harassment by pro-Communist youths who were still quite active in that city and resented Ararat’s Dashnak, anti-Communist, pro-shah orientation. When Sevak informed Nejde about the situation, Nejde saw another challenge for his _yerets_ and immediately planned a trip to Tabriz. He coordinated with the local Ararat chapter in Tabriz to organize a reception and oath ceremony much like the one he had watched his friends take in 1952 and then sought to invite
+
+<!-- page 288 -->
 
 250 | _Experiences with Iranian Nationalism_ 
 
@@ -2483,7 +3062,9 @@ Two days before the reception, Nejde Hagobian, Ashod Safarian, Amour Mouradian, 
 
 Yet not everyone in Tabriz welcomed the Ararat _yerets_ . While walking around the city and taking in its sights following their meeting with the 
 
-70. Ararat scouts, including Nejde Hagobian ( _third from right_ ), visit the offi  ce of Governor Golshayan, Tabriz, 1955. Unknown photographer. Courtesy of Nejde Hagobian. 
+70. Ararat scouts, including Nejde Hagobian ( _third from right_ ), visit the offi  ce of Governor Golshayan, Tabriz, 1955. Unknown photographer. Courtesy of Nejde Hagobian.
+
+<!-- page 289 -->
 
 _Nejde Hagobian_ | 251 
 
@@ -2493,7 +3074,9 @@ That night at the Ararat reception, which was attended by army general Governor 
 
 Soon after the trip to Tabriz in 1955, the chief Ararat scout leader who had taken over after Felix Menatsakanian’s death left for Italy to go to college, and Nejde Hagobian was named chief scout leader of Ararat. For the duration of that year, Nejde devoted his time to benefi ting all ranks of the Ararat scouts—passing the leadership position of the _yerets_ on to another scout. Yet with Nejde’s own high school education fi nished and a year of advanced mathematics courses under his belt, he too would be leaving for college soon. 
 
-In May 1956, Nejde said farewell to his parents and a large group of friends and scouts who were gathered at Tehran’s Mehrabad airport to 
+In May 1956, Nejde said farewell to his parents and a large group of friends and scouts who were gathered at Tehran’s Mehrabad airport to
+
+<!-- page 290 -->
 
 252 | _Experiences with Iranian Nationalism_ 
 
@@ -2503,11 +3086,19 @@ wish him and his fellow Ararat member Andre Minassian a safe journey to the Unit
 
 Both of them had gained acceptance to Pepperdine University in Los Angeles to study mathematics and take pre-engineering courses. Both Nejde and Andre were able to aff ord tuition owing to a new Iranian student aid program that would equally match their parents’ fi nancial contribution if they submitted a written promise that they would return home and work in Iran after their education abroad was completed. Nejde knew of many Iranians who went to college in the United States and Europe and never returned, elongating their stay through graduate school or marriage or both so that they could acquire foreign citizenship and stay abroad.[40] As they fl ew over Tehran and banked to the west, Nejde already missed his family, his friends, and his country and vowed to work as hard as he could while in the United States so that he could fi nish his education and return to work in Iran as he had promised.[41] 
 
-Nejde found the United States exciting and appealing and quickly developed an interest in American popular culture as his English-language skills increased and as he made new American friends. His awareness heightened by the classes he was taking and a growing interest in 
+Nejde found the United States exciting and appealing and quickly developed an interest in American popular culture as his English-language skills increased and as he made new American friends. His awareness heightened by the classes he was taking and a growing interest in
+
+<!-- page 291 -->
+
+
+
+<!-- page 292 -->
 
 73. Nejde, Rima, Hagob, and Arshalous on the front porch the day Nejde left for the United States, May 26, 1956. Unknown photographer. Courtesy of Nejde Hagobian. 
 
-74. Nejde Hagobian and Andre Minassian turn to bid their friends and families good-bye, Mehrabad Airport, Tehran, May 26, 1956. Photograph by Hagob Hagobian. Courtesy of Nejde Hagobian. 
+74. Nejde Hagobian and Andre Minassian turn to bid their friends and families good-bye, Mehrabad Airport, Tehran, May 26, 1956. Photograph by Hagob Hagobian. Courtesy of Nejde Hagobian.
+
+<!-- page 293 -->
 
 _Nejde Hagobian_ | 255 
 
@@ -2515,7 +3106,9 @@ civil engineering, Nejde was amazed at the vast physical infrastructure of the U
 
 Nejde was also amazed by how little Americans seemed to know about Iran and Iranians compared to how much he and his Iranian peers knew about the United States. Fortunately, he encountered very little, if any, discrimination, and although misunderstandings occurred often, they could be quite amusing. At the YMCA where Nejde and Andre attended dinners hosted for foreign students, he was asked by an elderly gentleman how it felt when he came to the United States and wore his fi rst pair of shoes. When another asked if his family lived in a tent, he was very surprised to hear that they did not and remained skeptical. In the fall of 1957, while inspecting a potential rental unit in ChampaignUrbana after transferring to the University of Illinois from Pepperdine with his roommate and best friend Andre Minassian to pursue his newfound passion of civil engineering, Nejde was in the bathroom looking at its fi xtures and storage. When he opened the cupboard above the toilet to see the space inside, a towel fell out and landed squarely in the toilet bowl. As he was wringing the water out of the towel, the female landlord who owned the duplex walked in, took one look at Nejde, and sweetly but fi rmly exclaimed, “Oh NO, sweetheart! We wash our faces in the _sink_ , over here!” Before he could explain what had actually happened in his stillbroken English, Nejde and the landlord were greeted by the mad howl of her Siamese cat, which Andre had assumed was feral or a stray based on his experience with cats in Iran. As the potential landlady and Nejde emerged from the bathroom, they observed Andre hurling the writhing cat out the front door before he slammed it shut. Grinning broadly, Andre thought he was doing the horrifi ed landlady a favor. Needless to say, the Armenian Iranians weren’t off ered the unit to rent. 
 
-After earning his bachelor’s of science degree in civil engineering at the University of Illinois, where he had become a die-hard “Illini” football fan, dated American women, and loved the close-knit midwestern college lifestyle, Nejde Hagobian returned home to Iran in 1961 to see his friends 
+After earning his bachelor’s of science degree in civil engineering at the University of Illinois, where he had become a die-hard “Illini” football fan, dated American women, and loved the close-knit midwestern college lifestyle, Nejde Hagobian returned home to Iran in 1961 to see his friends
+
+<!-- page 294 -->
 
 256 | _Experiences with Iranian Nationalism_ 
 
@@ -2523,7 +3116,9 @@ After earning his bachelor’s of science degree in civil engineering at the Uni
 
 and family for the fi rst time in nearly fi ve years and to serve his country as he had intended. Although it was extremely diffi  cult to leave behind close friends and a culture and society he was beginning to greatly admire, Nejde had never questioned the fact that he was going to return to Iran upon completion of his studies. He felt indebted to his loyal family and was determined to work as an engineer to develop Iran’s infrastructure. 
 
-Although many positions were available in the engineering fi eld working on rural road and bridge projects, Nejde’s goal of fi nding work in Tehran as an entry-level civil engineer was challenging. After unsuccessfully applying for positions with a number of local building contractors, Nejde was interviewed at the John Mowlem Soils Laboratory. The largest of its kind in the Middle East at that time, it employed almost four hundred engineers and technicians. The British construction and engineering fi rm John Mowlem had established the laboratory in the early 1950s as a component of its infrastructural projects, and the lab had become critical to the Seven-Year Plan Organization for the implementation of the country’s infrastructural development.[42] Nejde was interviewed by the British 
+Although many positions were available in the engineering fi eld working on rural road and bridge projects, Nejde’s goal of fi nding work in Tehran as an entry-level civil engineer was challenging. After unsuccessfully applying for positions with a number of local building contractors, Nejde was interviewed at the John Mowlem Soils Laboratory. The largest of its kind in the Middle East at that time, it employed almost four hundred engineers and technicians. The British construction and engineering fi rm John Mowlem had established the laboratory in the early 1950s as a component of its infrastructural projects, and the lab had become critical to the Seven-Year Plan Organization for the implementation of the country’s infrastructural development.[42] Nejde was interviewed by the British
+
+<!-- page 295 -->
 
 _Nejde Hagobian_ | 257 
 
@@ -2531,13 +3126,17 @@ director of the fi rm that had originally established and managed the lab, Mr. P
 
 From the very fi rst day he started working at the lab as a geotechnical engineer, Nejde could tell things were amiss. Many of the highly paid foreign employees would work only a few hours a day, and when they were in the lab, they openly demonstrated their ignorance of the testing equipment and procedures. Most of the work was carried out by the Iranian employees, all of whom shared a dank basement offi  ce. Resentment was high among the Iranian employees, who gossiped about their foreign bosses without proper credentials such as the former butcher from Italy who was incompetently working for $2,000 per month plus benefi ts as an expert on concrete and a former Manila taxi driver making a comparable salary and benefi ts as manager of project quality control. Stories of waste and corruption were commonplace. Nejde found it hard to believe that the foreign employees could be as bad as the Iranian employees were describing until a slew of incidents proved to him that the situation was at least as bad and perhaps even worse. 
 
-After only ten days on the job, he began noticing egregious errors in record keeping and calculations. In one instance, Nejde was working nearby on a project when he overheard an Italian cement “specialist” directing some of the Iranian employees in mixing a test batch of cement for a road project[44] give a major miscalculation in the water-to-cement ratio, 
+After only ten days on the job, he began noticing egregious errors in record keeping and calculations. In one instance, Nejde was working nearby on a project when he overheard an Italian cement “specialist” directing some of the Iranian employees in mixing a test batch of cement for a road project[44] give a major miscalculation in the water-to-cement ratio,
+
+<!-- page 296 -->
 
 258 | _Experiences with Iranian Nationalism_ 
 
 telling them to add water by a ratio of 5, when 0.5 was the correct proportion. Nejde watched in fascination, not saying anything, as the specialist complained to the Iranian employees that the cement was not solidifying because they were not stirring the mix fast enough and began to castigate them for their supposed lack of proper mixing technique. Nejde’s sense of right and wrong, his sense of Iranian nationalism, and his professional sensibilities suddenly combined and manifested themselves in the form of the very undiplomatic statement, “You really are incompetent, aren’t you?” The specialist and the Iranian workers who spoke English looked shocked. When the specialist gruffl  y asked Nejde what he was talking about, Nejde persisted with his observation. “It’s true, you are completely incompetent!” In a huff , the specialist turned and walked up the stairs to Van Der Wal’s offi  ce to inform him of Hagobian’s rudeness and insubordination after only a little more than a week on the job. The Iranian workers, including future friend Shahen Askari, looked nervous and as though they believed Nejde had lost his mind.[45] Almost immediately, Mr. Van der Wal and the specialist returned, and Van der Wal asked Nejde to explain what was going on. Nejde pointed out the basic error in the water–cement ratio and the soupy mess the specialist was having the workers stir. Then Nejde turned the question to his boss, asking rhetorically of Van der Wal if this was how precision testing and analysis were achieved in the Plan Organization lab. Before Van der Wal could answer, Nejde added, melodramatically, that if this was the way things were conducted around the lab, it was a huge waste of Iranian resources and put people’s lives at risk through improper construction. Van der Wal looked genuinely concerned and said he was going to investigate cement consistency at current projects. Two days later the Italian cement specialist was fi red—to the glee of the Iranian workers in the basement. 
 
-In another incident that stretched the bounds of Nejde’s imagination for how corrupt and unsafe the Plan Organization lab could be, several foreign Plan Organization technicians were sent on a one-week trip to collect core samples for a bridge project in the South. When they returned and submitted to Nejde their samples for processing, Nejde was incredulous. The core cylinders were packed with a color and grade of rock and gravel that he knew well from his camping trips in the mountains 
+In another incident that stretched the bounds of Nejde’s imagination for how corrupt and unsafe the Plan Organization lab could be, several foreign Plan Organization technicians were sent on a one-week trip to collect core samples for a bridge project in the South. When they returned and submitted to Nejde their samples for processing, Nejde was incredulous. The core cylinders were packed with a color and grade of rock and gravel that he knew well from his camping trips in the mountains
+
+<!-- page 297 -->
 
 _Nejde Hagobian_ | 259 
 
@@ -2547,17 +3146,27 @@ It was not only a matter of nationalistic pride, ego, and off ense over bogus ex
 
 In 1962, the contract with Ammann and Whitney for management of the Plan Organization lab expired, and the Iranian government nationalized the facility. Van der Wal, who was leaving Iran to return to the Netherlands, recommended that Nejde Hagobian be his replacement for overall supervision of the laboratory. Furthermore, owing to the insistence of the current prime minister, Ali Amini, the Plan Organization was instructed to replace any foreign workers where there was a competent Iranian replacement, and thus qualifi ed Iranians soon staff ed the entire offi  ce. The morale at the technical lab was considerably raised, and quality increased considerably by 1963.[46] 
 
-For the next eighteen years, working as a consultant for the Plan Organization and the Iranian Oil Operating Consortium and eventually 
+For the next eighteen years, working as a consultant for the Plan Organization and the Iranian Oil Operating Consortium and eventually
+
+<!-- page 298 -->
 
 260 | _Experiences with Iranian Nationalism_ 
 
 as a partner in the American engineering fi rm Dames and Moore, Nejde Hagobian would continue to apply his engineering and leadership skills to develop Iran’s physical infrastructure, eventually moving into seismic, geotechnical, and environmental engineering and tackling increasingly large-scale projects such as dams, petrochemical complexes, airports, and seaports.[47] By the late 1960s, Nejde estimated that he had saved the Iranian government tens of millions of dollars in fees that would have been spent on unnecessary or redundant structural foundations based on improper assessment of Iranian geology and seismic activity.[48] 
 
-Former connections served Nejde well in these heady days of vast national engineering projects and hectic international business travel. In 1965, shortly after opening the Tehran branch of the engineering fi rm Dames and Moore, Nejde gave an important task to one of his new employees, Amour Mouradian. It was critical that by the next morning fi fty copies of a report totaling more than two hundred pages be ready for a meeting with the Iranian Oil Operating Consortium. Thumbing through the master copy, Amour said he wasn’t sure how this was going to be accomplished so fast because the copy machines they had access to did not collate, but that he would somehow fi nd a way to get the job done in time. The next morning, as Nejde arrived at the offi  ce, he was stunned to fi nd it staff ed with a dozen or so Ararat scouts, who were putting the fi nishing touches on the reports, which they had sorted and collated by hand. From across the room, Amour, who had been one of Nejde’s Ararat _yerets_ , smiled proudly. 
+Former connections served Nejde well in these heady days of vast national engineering projects and hectic international business travel. In 1965, shortly after opening the Tehran branch of the engineering fi rm Dames and Moore, Nejde gave an important task to one of his new employees, Amour Mouradian. It was critical that by the next morning fi fty copies of a report totaling more than two hundred pages be ready for a meeting with the Iranian Oil Operating Consortium. Thumbing through the master copy, Amour said he wasn’t sure how this was going to be accomplished so fast because the copy machines they had access to did not collate, but that he would somehow fi nd a way to get the job done in time. The next morning, as Nejde arrived at the offi  ce, he was stunned to fi nd it staff ed with a dozen or so Ararat scouts, who were putting the fi nishing touches on the reports, which they had sorted and collated by hand. From across the room, Amour, who had been one of Nejde’s Ararat _yerets_ , smiled proudly.
+
+<!-- page 299 -->
 
 a r t i i p 
 
-**Experience and Theory** 
+**Experience and Theory**
+
+<!-- page 300 -->
+
+
+
+<!-- page 301 -->
 
 ## 7 
 
@@ -2567,7 +3176,9 @@ h aving  expl or ed c on t empor a r y qu est ion s and problems posed by theore
 
 Social biographical research into the lives of Sevak Saginian and Nejde Hagobian enables us to respond to many of the questions generated in chapter 1 surrounding the photograph of the 1953 Fourth of Aban parade. Here, as in chapter 1, the photograph serves as a means of illustration as the theoretical discourse on nationalism is brought together with the social biographical sources that inform us of the event’s details and personal meaning. We now know that the citizens leading the parade and bearing the photograph of Mohammad Reza Shah as a young scout in Pishahangiye Iran were Armenian Iranian scouts of the Ararat organization. Wearing locally tailored copies of contemporary foreign scouting uniforms with patches, badges, and uniform script reproduced in Armenian characters, these religious minorities were selected to lead the parade ahead of the 
 
-263 
+263
+
+<!-- page 302 -->
 
 264 | _Experience and Theory_ 
 
@@ -2575,11 +3186,15 @@ other Iranian organizations simply because the name of their troop, “Ararat,�
 
 Nejde Hagobian, the _sayar_ (explorer) in the photograph whose salute cues the shah to rise to his feet and begin his review of the parade, was excited beyond telling as he rounded the corner of the track and approached the grandstands. Confi dent that his fellow Ararat scouts were rhythmically in step behind him, Nejde concentrated on his own cadence and posture and basked in the glory of the moment. As he saluted the nation’s leader and marched past the political elites in the stands, he was feeling a sublime sense of Iranian nationalism. However paradoxical, the Pahlavi regime’s willingness to allow Nejde and his fellow Armenian scouts to express and sustain their Armenian cultural heritage enabled him to develop a strong sense of Iranian national identity and patriotism that would last throughout his lifetime.[1] 
 
-From his perspective in the grandstands as Nejde Hagobian saluted the shah and the Ararat scouts marched past, Sevak Saginian felt a complex blend of Armenian and Iranian pride. Foremost, he was extremely proud of his Ararat scouts and athletes and of the Armenian social and cultural organization he had helped to establish and grow. In his view, on that day Ararat scouts and athletes publicly represented the Armenians of Iran, and they performed fl awlessly. The organization’s placement in the parade alphabetically and the allowed use of Armenian uniform scripts were to Sevak a public indication of the regime’s recognition of the Armenian Iranian community as a distinct yet integral component of the nation that shared equal status with other Iranian ethnic communities and corporate groups. At the Fourth of Aban parade in 1953, Sevak Saginian’s feelings of Iranian nationalism were supreme. He was simultaneously proud to be an Armenian, proud to be an Iranian, and relieved that the shah had weathered the political storm of the previous few years. It was truly a momentous occasion.[2] 
+From his perspective in the grandstands as Nejde Hagobian saluted the shah and the Ararat scouts marched past, Sevak Saginian felt a complex blend of Armenian and Iranian pride. Foremost, he was extremely proud of his Ararat scouts and athletes and of the Armenian social and cultural organization he had helped to establish and grow. In his view, on that day Ararat scouts and athletes publicly represented the Armenians of Iran, and they performed fl awlessly. The organization’s placement in the parade alphabetically and the allowed use of Armenian uniform scripts were to Sevak a public indication of the regime’s recognition of the Armenian Iranian community as a distinct yet integral component of the nation that shared equal status with other Iranian ethnic communities and corporate groups. At the Fourth of Aban parade in 1953, Sevak Saginian’s feelings of Iranian nationalism were supreme. He was simultaneously proud to be an Armenian, proud to be an Iranian, and relieved that the shah had weathered the political storm of the previous few years. It was truly a momentous occasion.[2]
+
+<!-- page 303 -->
 
 _Learning from Theory and Social Biography_ | 265 
 
-Beyond the parade’s overt purpose as an annual public gathering of citizens to honor the king’s birthday and the sublime feelings of nationalism inspired in individual participants, the broader historical context provided by the biographies of Sevak Saginian and Nejde Hagobian can shed light on other functions and purposes this event served the Pahlavi elites. As well as an annual occasion to demonstrate the country’s modern, dynastic secular nationalism, in 1953 the Fourth of Aban event supplemented the propaganda eff ort to restore the image and legitimacy of Mohammad Reza Shah and the Pahlavi regime, which just two months earlier had narrowly survived the challenge posed by the various forces rallying around Prime Minister Mossadegh and the Tudeh. One of the fi rst public opportunities after Bist-o Hasht-e Mordad to attempt to display the shah’s power and his subjects’ loyalty and admiration, the event was also broadcast live on national radio and then repeated nationwide in theater _akbar_ , news shorts, for months. It is a fact that the coup d’état of Bist-o Hasht-e Mordad was funded and orchestrated by the CIA, but it is also true that the CIA was able to accomplish the covert eff ort to undermine Mossadegh and the Tudeh with such little eff ort, planning, and funding owing to a sharply divided Iranian populace and some genuine outpouring of support for the shah.[3] Because Armenian Iranians had participated on all sides in the political struggles of 1951–53 and during the street riots prior to and on Bist-o Hasht-e Mordad—including Ararat members such as Hagobian and Saginian, who had received medals for their participation in support of the regime—the offi  cial recognition and support of Ararat implied by the organization’s participation in the Fourth of Aban parade in 1953 was congruous with the regime’s attempt to reward its supporters, demonstrate its legitimacy, and reestablish its relationship of authority over its diverse and politically polarized citizenry. Thus, in addition to the pleasures of self-exaltation and glorifi cation the event provided to the shah himself, we can speculate that the event was meaningful to Pahlavi political elites because of the functions it served in the eff ort to project the shah’s legitimacy and omnipotence at this critical stage in his reign as well as the simultaneous opportunity it aff orded the regime to publicly demonstrate its Western orientation and dynastic secular nationalist character. 
+Beyond the parade’s overt purpose as an annual public gathering of citizens to honor the king’s birthday and the sublime feelings of nationalism inspired in individual participants, the broader historical context provided by the biographies of Sevak Saginian and Nejde Hagobian can shed light on other functions and purposes this event served the Pahlavi elites. As well as an annual occasion to demonstrate the country’s modern, dynastic secular nationalism, in 1953 the Fourth of Aban event supplemented the propaganda eff ort to restore the image and legitimacy of Mohammad Reza Shah and the Pahlavi regime, which just two months earlier had narrowly survived the challenge posed by the various forces rallying around Prime Minister Mossadegh and the Tudeh. One of the fi rst public opportunities after Bist-o Hasht-e Mordad to attempt to display the shah’s power and his subjects’ loyalty and admiration, the event was also broadcast live on national radio and then repeated nationwide in theater _akbar_ , news shorts, for months. It is a fact that the coup d’état of Bist-o Hasht-e Mordad was funded and orchestrated by the CIA, but it is also true that the CIA was able to accomplish the covert eff ort to undermine Mossadegh and the Tudeh with such little eff ort, planning, and funding owing to a sharply divided Iranian populace and some genuine outpouring of support for the shah.[3] Because Armenian Iranians had participated on all sides in the political struggles of 1951–53 and during the street riots prior to and on Bist-o Hasht-e Mordad—including Ararat members such as Hagobian and Saginian, who had received medals for their participation in support of the regime—the offi  cial recognition and support of Ararat implied by the organization’s participation in the Fourth of Aban parade in 1953 was congruous with the regime’s attempt to reward its supporters, demonstrate its legitimacy, and reestablish its relationship of authority over its diverse and politically polarized citizenry. Thus, in addition to the pleasures of self-exaltation and glorifi cation the event provided to the shah himself, we can speculate that the event was meaningful to Pahlavi political elites because of the functions it served in the eff ort to project the shah’s legitimacy and omnipotence at this critical stage in his reign as well as the simultaneous opportunity it aff orded the regime to publicly demonstrate its Western orientation and dynastic secular nationalist character.
+
+<!-- page 304 -->
 
 266 | _Experience and Theory_ 
 
@@ -2587,7 +3202,9 @@ But to specifi cally address the questions raised about the event in the theoret
 
 Social biographical research reveals that Iranians in attendance were receptive to the event’s symbolism for a variety of intermingling reasons, which depended on multiple factors such as ethnicity, education, family values, and personal experiences. The event was meaningful and appealing to Sevak Saginian because of the positive implications of the participation and performance of Ararat scouts and athletes for the organization and for the Armenian Iranian community. The event’s symbolism and rituals appealed to Sevak’s already well-developed sense of Iranian nationalism and secular leanings, and its explicit purpose appealed to him as a staunch supporter of the shah, whose birthday was being celebrated. Nejde Hagobian was receptive to the event and its symbolism on one level purely because marching at the head of a national parade and being fi lmed while saluting the king were exciting, but on another because his scouting activities and ethnicity were being recognized and honored by the state. Occurring within weeks of his receiving by surprise a medal and _hokm_ for his activities in support of the regime during Bist-o Hasht-e Mordad, the parade solidifi ed Nejde’s evolving sense of Iranian national identity and feelings of loyalty to Mohammad Reza Pahlavi. 
 
-The issue of agency, or “who rides whom and how,”[4] is demonstrated as reciprocal in the case of the birthday rally—there was a dialogic power relationship between the regime and participants. The state recognized loyal organizations such as Ararat and in turn used their participation to project its own image of power. It coveted loyal religious minorities and benefi ted from the unique Armenian Iranian scouting program, which 
+The issue of agency, or “who rides whom and how,”[4] is demonstrated as reciprocal in the case of the birthday rally—there was a dialogic power relationship between the regime and participants. The state recognized loyal organizations such as Ararat and in turn used their participation to project its own image of power. It coveted loyal religious minorities and benefi ted from the unique Armenian Iranian scouting program, which
+
+<!-- page 305 -->
 
 _Learning from Theory and Social Biography_ | 267 
 
@@ -2597,13 +3214,17 @@ Simultaneously, Ararat members and Armenian Iranians benefi ted from the recogni
 
 Dialogic interactions and multiple interpretations of the meaning of language, culture, and ethnicity in such an event can motivate and enable a sublime sense of nationalism among diverse participants, for whom its symbolism and rituals resonate variously.[5] 
 
-Social biography illustrates the complex role of culture of origin and ethnicity in this event—the culture of the state and the majority of the event’s participants was Persian Islamic, whereas that of the Ararat scouts was Armenian and Christian. Because Ararat was treated equally yet organized and recognized distinctly under the banner of the most overtly nationalist Armenian symbol (Mount Ararat), the conception of a broad and inclusive national community and the development and maintenance of a compound national identity were enabled for the Armenian Iranian participants. Here language operates in a much more complex manner than suggested by the theories addressed in chapter 1. The dominant language of culture and the state, Persian, was used to organize the rally alphabetically and was the only language used in song, on banners, and in speeches and announcement of the sports exhibition to follow the parade. However, the allowance of Armenian uniform script and symbols in conjunction with Persian is what rendered the dominant language and society especially appealing and inclusive to Sevak Saginian and Nejde Hagobian. 
+Social biography illustrates the complex role of culture of origin and ethnicity in this event—the culture of the state and the majority of the event’s participants was Persian Islamic, whereas that of the Ararat scouts was Armenian and Christian. Because Ararat was treated equally yet organized and recognized distinctly under the banner of the most overtly nationalist Armenian symbol (Mount Ararat), the conception of a broad and inclusive national community and the development and maintenance of a compound national identity were enabled for the Armenian Iranian participants. Here language operates in a much more complex manner than suggested by the theories addressed in chapter 1. The dominant language of culture and the state, Persian, was used to organize the rally alphabetically and was the only language used in song, on banners, and in speeches and announcement of the sports exhibition to follow the parade. However, the allowance of Armenian uniform script and symbols in conjunction with Persian is what rendered the dominant language and society especially appealing and inclusive to Sevak Saginian and Nejde Hagobian.
+
+<!-- page 306 -->
 
 268 | _Experience and Theory_ 
 
 Having pledged allegiance in Armenian to “Astsous, azgis yev hyrenikis” (My god, my nation, and my homeland), Armenian scouts could individually interpret their loyalties and the orientation of their oath, as opposed to the more specifi c Persian military and _pishahang_ formulation “Khoda, Shah, Mehan” (God, King, and Country), which was never required of Ararat members. The objective display and mutual recognition of Persian and Armenian languages and a suffi  cient amount of ambiguity allowed for variant, subjective interpretations and suggest a dialogic, collaborational relationship between the regime and its Armenian Iranian citizens central to the shaping and sustaining of nationalism and national identity. As in Anthony Smith’s point, the premodern _ethnie_ , or ethnic community, was in fact critical to both the Armenian and Persian participants and spectators, yet exactly which _ethnie_ was being recognized remained ambiguous. This is what allowed the event’s participants a sense of community and patriotism. No violent secular millennialism was required to rally them; no appeals to dark gods and traditional rites by elite political chiliasts were necessary to imbue the event with further meaning and emotional appeal. Inclusion, recognition, and pageantry suffi  ced to move its participants, who derived diff erent interpretations and sentiments while engaging in the collective activity. Grouped by their ethnoreligious heritage as a troop under the name of Armenia’s national icon, they were enabled rather than forced by Iranian elites to embrace the broader Iranian national community. The message of the national elites here resonated because it did not preclude the scouts’ Armenian ethnicity and compound Armenian Iranian identity. Sublime feelings were motivated by the acceptance and recognition of their linguistic and religious diversity by the dominant body politic. 
 
-But where and how do European colonialism, Orientalist epistemological hegemony, and indigenous elite imitation of European secular nationalism come into play? Mostafa Vaziri’s and Elie Kedourie’s theories suggest that external infl uence and indigenous imitation and adaptation are critical factors in the evolution of Iranian nationalism. If Vaziri is correct in his interpretation based on textual analysis, the whole of the Iranian national imagining is a monologically imposed forgery based on Orientalist knowledge, which reifi ed a bogus concept of an ancient and 
+But where and how do European colonialism, Orientalist epistemological hegemony, and indigenous elite imitation of European secular nationalism come into play? Mostafa Vaziri’s and Elie Kedourie’s theories suggest that external infl uence and indigenous imitation and adaptation are critical factors in the evolution of Iranian nationalism. If Vaziri is correct in his interpretation based on textual analysis, the whole of the Iranian national imagining is a monologically imposed forgery based on Orientalist knowledge, which reifi ed a bogus concept of an ancient and
+
+<!-- page 307 -->
 
 _Learning from Theory and Social Biography_ | 269 
 
@@ -2611,7 +3232,9 @@ enduring Persian nation and monarchy to a receptive indigenous elite. Kedourie�
 
 Consider the examples of successive generations of Saginian and Setkhanian families in Iran during the nineteenth and early twentieth centuries. We observe remarkable stability in their social and economic status and in their relationships to the Qajar regime—not pulverization and displacement. Despite these similarities, we see signifi cant diff erences in the interests, attitudes, and perceptions of contemporaries Iskandar Khan Setkhanian and Zohrab Saginian. Whereas Iskandar Khan’s foreign education in Russia yielded an infatuation with military science, allegiance to czarist Russia, and a belief in the concept of monarchy that led him to fi ght as a general of the Persian Cossacks against the constitutionalist movement, Zohrab’s foreign education in Switzerland produced an interest in European legal methods and political institutions that motivated him to join with the nationalist _fedayi_ s under Yeprem Khan Davidian to defend the Constitution and Majles against the Qajars and the Cossacks. Both men held strong convictions about Iran’s political leadership while maintaining complex amalgamated identities and external allegiances— Iskandar Khan to Russia and the Cossacks; Zohrab to Armenia and the Dashnaks. Both men later found themselves in a tenuous position visà-vis Reza Shah and their external alliances, and both negotiated and navigated separate paths to survive and support their families while maintaining divergent interpretations of Iranian nationalism. Although both can be considered strong Iranian nationalists, their conceptions of their nation were widely divergent, and both were personally confl icted by Reza Shah’s attempt to impose the Orientalist Aryan–Pahlavi vision of Iran on the country’s diverse population. 
 
-The biographical explorations in part I demonstrate that the eff ectiveness of the nationalist message had much more to do with how it accommodated diversity and multiple interpretations rather than with the 
+The biographical explorations in part I demonstrate that the eff ectiveness of the nationalist message had much more to do with how it accommodated diversity and multiple interpretations rather than with the
+
+<!-- page 308 -->
 
 270 | _Experience and Theory_ 
 
@@ -2619,7 +3242,9 @@ attempt to monologically impose a forged concept of identity by either Orientali
 
 The requirement in 1927 that Iskandar Khan wear the Kolah-e Pahlavi, the decreed Iranian nationalist headgear, in public and in a portrait could be interpreted as a purely monologic, juridical imposition of Western norms by Reza Shah, who no doubt possessed the authority and the will to jail or otherwise punish those who refused his mandates. One might imagine Iskandar Khan chafi ng as he posed for his portrait in the Pahlavi Hat. After all, he had been a commanding offi  cer above Reza Khan in the Cossack Brigade, a diehard supporter of the Qajars, and an avid Russophile. However, in another light, Iskandar Khan’s wearing of the Pahlavi Hat in the offi  cial portrait can also be interpreted as a demonstration of the dialogic relationship of power between Reza Shah and his former superior in the Cossack Brigade. Such a view is possible when we consider what both Reza Shah and Iskandar Khan gained from the latter’s participation in Reza Shah’s project to impose a certain form of Western dress, uniformity, and a semblance of loyalty to the regime, according to their individual needs at the time. 
 
-In 1927, Reza Shah was seeking to eliminate opposition, acquire legitimacy, and, wherever possible, generate loyalty to his nascent regime. Although he possessed the military power and brutality to arrest, torture, 
+In 1927, Reza Shah was seeking to eliminate opposition, acquire legitimacy, and, wherever possible, generate loyalty to his nascent regime. Although he possessed the military power and brutality to arrest, torture,
+
+<!-- page 309 -->
 
 _Learning from Theory and Social Biography_ | 271 
 
@@ -2627,7 +3252,9 @@ and seize the property of rivals real and imagined and on occasion demonstrated 
 
 In 1927, Iskandar Khan was settling into a peaceful retirement and seeking to sustain his family’s wealth and status. His biography tells the story of a man who was a deft navigator of the political waters (as well as the possessor of a substantial amount of sheer luck) and who was able to survive the Constitutional Revolution, the invasions and occupation of Iran during World War I, and the changeover to a diff erent political and social order in the demise of the Qajars and the rise of the Pahlavi regime, all with his extensive property and good reputation intact in an Armenian Iranian community that had almost unanimously supported the Constitutional Movement he had fought against.[7] When one considers what Iskandar Khan had to gain from his tacit show of subservience and allegiance to the Pahlavi regime through his portrait and public appearance in the Kolah-e Pahlavi, it seems that the price of maintaining his status, property, and lifestyle was negligible, suggesting a negotiated, dialogic, and collaborational relationship of power. 
 
-The constructed concept of the Iranian nation as a homogeneous, organic Persian–Aryan entity—the conglomeration of “low cultures” of 
+The constructed concept of the Iranian nation as a homogeneous, organic Persian–Aryan entity—the conglomeration of “low cultures” of
+
+<!-- page 310 -->
 
 272 | _Experience and Theory_ 
 
@@ -2635,7 +3262,9 @@ the plateau in the creation of a single “high culture”—as it is explained 
 
 Like the dress codes of the late 1920s and 1930s, the closure of the foreign-language schools in 1938 can also be interpreted as a purely monologic and juridical step by the Iranian political elite toward the implementation of a Western-inspired program of secular nationalism based on fabricated concepts of an Iranian–Aryan nation. Linguistic minorities such as the Armenians and Azeris were not off ered any say in the matter, and minority Majles deputies such as Zohrab Saginian found that there was no dialogue in which to be engaged with the state. Here we see the application of power that just says no. And this is why it miserably failed. The height of tension between the diverse citizens of Iran and Reza Shah occurred in the last several years of his rule as he attempted to wield authoritarian power to force a concept of a unifi ed secular Persian community on the population to create Iranians. The monologic act of closing the foreign-language schools worked against Iranian nationalism, unity, and cohesion, not for it. For the Armenians of Iran, it weakened rather than strengthened the appeal of the dominant society that the elites were attempting to develop. 
 
-Zohrab Saginian’s biography illustrates how the closing of the foreign-language schools also had the unintended eff ect of weakening anti-Communist Armenian Iranian groups such as the Dashnaks and strengthening Iranian Communist groups. Armenians who had supported Reza Shah, such as Zohrab and the Dashnaks, came under scrutiny and lost credibility among the Armenian Iranian population. Soon after Reza Shah’s exile, both the Tudeh and Zohrab Saginian called for the opening of the Armenian schools. But whereas Zohrab and the Dashnaks had been discredited by their early support for Reza Shah and Zohrab was not reelected in the new open political milieu, the Tudeh gained 
+Zohrab Saginian’s biography illustrates how the closing of the foreign-language schools also had the unintended eff ect of weakening anti-Communist Armenian Iranian groups such as the Dashnaks and strengthening Iranian Communist groups. Armenians who had supported Reza Shah, such as Zohrab and the Dashnaks, came under scrutiny and lost credibility among the Armenian Iranian population. Soon after Reza Shah’s exile, both the Tudeh and Zohrab Saginian called for the opening of the Armenian schools. But whereas Zohrab and the Dashnaks had been discredited by their early support for Reza Shah and Zohrab was not reelected in the new open political milieu, the Tudeh gained
+
+<!-- page 311 -->
 
 _Learning from Theory and Social Biography_ | 273 
 
@@ -2643,7 +3272,9 @@ popularity as a political movement that recognized the equality and linguistic f
 
 In contrast to the situation faced by Zohrab Saginian while working as Majles member under Reza Shah, we observe their sons, Sevak Saginian and Mohammad Reza Pahlavi, working in a dialogic, collaborative, negotiated relationship that was successful at simultaneously inculcating Iranian nationalism and sustaining Armenian cultural identity and awareness. In their interactions, we witness how the ability to negotiate, compromise, and work with ambiguity on both sides allowed an ethnically diverse society to function and enabled national community to exist and fl ourish. Take, for example, the negotiations regarding the certifi cation of Armenian secondary schools and the eff ort to expand Armenian education at the university level. Mohammad Reza Shah and Sevak Saginian were eventually able to strike a balance that satisfi ed the needs and concerns of both the state and the Armenian Iranian community. The interactions of Dr. Banai and Sevak over the integration of the Ararat scouts into the Pishahangi-ye Iran are also indicative of a dialogic relationship and an eff ective process of negotiation facilitated through ambiguity and multiple interpretations. This dialogic, negotiated relationship enabled Sevak to play an important and complex role as an elite facilitating Iranian nationalism and loyalty to the Pahlavi regime through the Armenian organization Ararat—which in turn promoted Armenian social interaction, culture, and identity perhaps more than any other institution or organization in Iran outside of the Armenian Church. 
 
-In an oral interview in June 1997, I asked Sevak Saginian if he thought that participation in Ararat worked more among its members to develop a sense of Armenian nationalism or Iranian nationalism. He responded, “It ended up working more to serve Iranian nationalism. It’s kind of like in the United States. Here people have freedom to express their original culture and language. But they feel American and like being American.” 
+In an oral interview in June 1997, I asked Sevak Saginian if he thought that participation in Ararat worked more among its members to develop a sense of Armenian nationalism or Iranian nationalism. He responded, “It ended up working more to serve Iranian nationalism. It’s kind of like in the United States. Here people have freedom to express their original culture and language. But they feel American and like being American.”
+
+<!-- page 312 -->
 
 274 | _Experience and Theory_ 
 
@@ -2653,7 +3284,9 @@ Under the Qajars, Armenians weren’t supposed to walk in the rain. We were cons
 
 But weren’t the positive experiences of Armenian Iranians in Pahlavi Iran the result of the imposition of standardized mass education, which was used to inculcate the values of secular nationalism? Clearly, Lucik Moradiance, Sevak Saginian, and Nejde Hagobian developed their Persian-language skills in the Iranian education system—all owing in no small part to Reza Shah’s nationalizing of the foreign-language and missionary schools—and while in attendance at school were exposed to the tainted Pahlavi history that Vaziri exposes in his study. If Ernest Gellner is correct, it is exosocialization—this experience in standardized, mass public education of learning the constructed nationalist history and acquiring a common language—that instills the political principles of nationalism and sentiments of unity. Is public education a primary vehicle through which receptivity to nationalism and a “high culture” is cultivated? 
 
-The biographies presented in part I suggest that public education can facilitate the receptivity to the concept of the Iranian nation and the social integration of religious and linguistic minorities, but that it is not an essential factor. Rather, social experiences, personal background, ethnicity, and a dialogic power relationship with the state combine to allow nationalism to develop in the Armenian Iranian individuals spotlighted in this study. For example, Sevak Saginian excelled in Iranian public 
+The biographies presented in part I suggest that public education can facilitate the receptivity to the concept of the Iranian nation and the social integration of religious and linguistic minorities, but that it is not an essential factor. Rather, social experiences, personal background, ethnicity, and a dialogic power relationship with the state combine to allow nationalism to develop in the Armenian Iranian individuals spotlighted in this study. For example, Sevak Saginian excelled in Iranian public
+
+<!-- page 313 -->
 
 _Learning from Theory and Social Biography_ | 275 
 
@@ -2661,13 +3294,17 @@ education. Having acquired the status of national valedictorian and excellent sk
 
 Nejde Hagobian’s life story also shows in-depth how a complex compound national identity developed and nationalist sentiment was inculcated and shaped through the conglomeration of childhood experiences, family upbringing and values, education in Iranian schools, participation in Ararat and the scouts, and what could be considered a form of grassroots political activity when he was a young adult. Invented traditions such as Lord Baden Powell’s Boy Scout activities and rituals translated into Armenian and adapted by the Ararat scouts as well as the Fourth of Aban parade at Amjadieh Stadium were eff ective in molding Nejde Hagobian’s nationalist sentiments, values, and attachments to both Iran and Armenia.[8] College education in the United States, funded in part by the Iranian government, had the eff ect of strengthening further the bonds Hagobian had with Iran and the responsibility he felt in returning to serve it and was, interestingly, a factor in the antiforeign sentiments he felt as an aspiring Iranian professional working for the Plan Organization. His life experiences congealed to produce a durable, compound Armenian Iranian identity and affi  nity for the nation of Iran. 
 
-Of the fi ve biographies presented in part I, Lucik Moradiance’s comes the closest to confi rming Gellner’s hypothesis. Like Sevak Saginian, Lucik excelled in Iranian public education. In addition to mastering the dominant language (Persian) in primary school, which was a base prerequisite for her later career as an engineering professional, public school was also the vehicle through which Lucik fi rst acquired the understanding that 
+Of the fi ve biographies presented in part I, Lucik Moradiance’s comes the closest to confi rming Gellner’s hypothesis. Like Sevak Saginian, Lucik excelled in Iranian public education. In addition to mastering the dominant language (Persian) in primary school, which was a base prerequisite for her later career as an engineering professional, public school was also the vehicle through which Lucik fi rst acquired the understanding that
+
+<!-- page 314 -->
 
 276 | _Experience and Theory_ 
 
 she was considered Iranian, basic (although certainly Orientalist-tinged) knowledge of the nation’s history and geography, and shared positive experiences with other “Iranians” of mixed ethnic and religious heritage. The public education system enabled her to pursue her specifi c educational interests in secondary school and to enter the nation’s top university. The state-subsidized university degree she was awarded led directly to an internship and job off er at the core of the country’s petrochemical industry and eventually to a technical job in state infrastructural and technological development. Indeed, Lucik Moradiance’s “exosocialization” was central to her acquisition of a compound Armenian Iranian national identity and to her career opportunities and successes. Those successes and her resultant professional experiences working on large-scale industrial projects and assessing national resources in turn further strengthened her sense of Iranian nationalism. 
 
-Yet to attribute Lucik’s sense of national identity solely to mass public education would be overly simplistic and skirt important nuances her story presents. In conjunction with Reza Shah’s educational reforms and nationalization, the Women’s Awakening of 1936–41 set the stage for the entry of Iranian women into the professional workplace in the 1950s and 1960s and tied the legitimacy of the Iranian state to the principle of women’s progress.[9] Iran’s rentier economy, breakneck development plans, and social reform agenda under Muhammad Reza Pahlavi are other critical variables. Had Lucik’s public education and the ideals that it instilled not been validated by subsequent career opportunities and experiences, she would not likely have been able to cultivate the same level of involvement with and knowledge of national development projects, nor would she have likely experienced the collegial mixed-gender working environment or daily interaction with fellow Iranians of diverse heritage that manifest the knowledge and ideology inculcated in public school through direct adult experience. Moreover, despite personal ambivalence about the monarchy that had enabled these opportunities, the responsibilities and oversight with which Lucik was entrusted, particularly being asked to serve with male colleagues as the NIOC or NIPC representative at foreign conferences—which she proudly felt she was selected for precisely because she was a woman and a Christian—further bolstered her Iranian identity 
+Yet to attribute Lucik’s sense of national identity solely to mass public education would be overly simplistic and skirt important nuances her story presents. In conjunction with Reza Shah’s educational reforms and nationalization, the Women’s Awakening of 1936–41 set the stage for the entry of Iranian women into the professional workplace in the 1950s and 1960s and tied the legitimacy of the Iranian state to the principle of women’s progress.[9] Iran’s rentier economy, breakneck development plans, and social reform agenda under Muhammad Reza Pahlavi are other critical variables. Had Lucik’s public education and the ideals that it instilled not been validated by subsequent career opportunities and experiences, she would not likely have been able to cultivate the same level of involvement with and knowledge of national development projects, nor would she have likely experienced the collegial mixed-gender working environment or daily interaction with fellow Iranians of diverse heritage that manifest the knowledge and ideology inculcated in public school through direct adult experience. Moreover, despite personal ambivalence about the monarchy that had enabled these opportunities, the responsibilities and oversight with which Lucik was entrusted, particularly being asked to serve with male colleagues as the NIOC or NIPC representative at foreign conferences—which she proudly felt she was selected for precisely because she was a woman and a Christian—further bolstered her Iranian identity
+
+<!-- page 315 -->
 
 _Learning from Theory and Social Biography_ | 277 
 
@@ -2677,7 +3314,9 @@ The Pahlavi eff ort to engage the woman question was enduring and successful in 
 
 Clearly, Lucik Moradiance’s access to and experiences in public education were central to the development of her compound Armenian Iranian national identity, but here too social biographical investigation reveals that the critical factor in her acquisition of a strong sense of Iranian nationalism was the dialogic, collaborational nature of her relationship with the state and her fellow Iranians. In an oral interview with her conducted in 2001, I asked, “While living in Iran, would you say you considered yourself an Iranian, an Armenian, or both?” Lucik replied: 
 
-Politically we Armenians considered ourselves as Iranians, but socially we were Armenian. Going to church, attending only Armenian organizations and clubs like Ararat, the Armenian Club, and the Armenian 
+Politically we Armenians considered ourselves as Iranians, but socially we were Armenian. Going to church, attending only Armenian organizations and clubs like Ararat, the Armenian Club, and the Armenian
+
+<!-- page 316 -->
 
 278 | _Experience and Theory_ 
 
@@ -2685,7 +3324,9 @@ Graduates Club. So close social contact with Persians was infrequent and usually
 
 Truck driver Hagob Hagobian had no formal education to speak of and for all practical purposes remained thoroughly oblivious to Orientalist or indigenous-elite conceptions of Iranian history and nationalism throughout his long life. Yet of all of the individual subjects introduced in this study, Hagob Hagobian acquired perhaps the most pronounced attachment to Iran, which was cultivated through a tremendous amount of experiential knowledge and deep understanding of its various regions, climates, terrains, and peoples. As a long-distance truck driver for four decades, Hagobian was almost constantly in the process of traversing the nation and interacting with members of its diverse population while making a living. On his grinding journeys to and from Tehran and the Persian Gulf ports as well as between the capital and Mashad, Tabriz, or Yazd, Hagobian experienced the particular sights, sounds, smells, ruts, and dust of Iran. To him and his fellow Armenian and Assyrian truck drivers, Iran was not an “imagined” nation, but a diverse, bordered physical and cultural landscape that they became intimately familiar with and personally connected to through their daily travels and social interactions. 
 
-Despite his lack of formal education and exposure to Orientalist history and concepts, the idea of a powerful, omnipotent Persian monarchy appealed to Hagob Hagobian on a practical level—stemming from Reza Shah’s ability to provide security and thereby facilitate commerce and travel within the nation’s bordered domains. In short, Reza Shah’s policies to improve roads and increase security to eliminate tribal raiding made Hagob Hagobian’s job safer, easier, and more profi table. Unaware that his career and livelihood came at the expense of regional autonomy, nomadic ways of life, cultural diversity, and the overall health of Iranian guilds and handcraft industries, and not unduly concerned over the closure of Armenian schools, Hagob Hagobian perceived Reza Shah as a paternalistic savior whose rise and fall coincided directly with Hagob’s own entry into the trade and his loss of livelihood when Iran’s borders were violated by the Allied invasion 
+Despite his lack of formal education and exposure to Orientalist history and concepts, the idea of a powerful, omnipotent Persian monarchy appealed to Hagob Hagobian on a practical level—stemming from Reza Shah’s ability to provide security and thereby facilitate commerce and travel within the nation’s bordered domains. In short, Reza Shah’s policies to improve roads and increase security to eliminate tribal raiding made Hagob Hagobian’s job safer, easier, and more profi table. Unaware that his career and livelihood came at the expense of regional autonomy, nomadic ways of life, cultural diversity, and the overall health of Iranian guilds and handcraft industries, and not unduly concerned over the closure of Armenian schools, Hagob Hagobian perceived Reza Shah as a paternalistic savior whose rise and fall coincided directly with Hagob’s own entry into the trade and his loss of livelihood when Iran’s borders were violated by the Allied invasion
+
+<!-- page 317 -->
 
 _Learning from Theory and Social Biography_ | 279 
 
@@ -2695,11 +3336,15 @@ Both theory and social biography have explanatory power and illustrative capacit
 
 In addition to the unique insight the social biographies of Iskandar Khan Setkhanian, Sevak Saginian, Hagob Hagobian, Lucik Moradiance, and Nejde Hagobian provide into various aspects of Iranian society, politics, military, economy, and culture under the Qajar and Pahlavi regimes, they yield a substantial amount of detail and critical personal perspective regarding the development of nationalism and national identity among Armenian ethnoreligious minorities in Iran and the attendant complexities of layered allegiances and compound identities. While illustrating how individuals encounter and use nationalism in the course of their lives and detailing the various roles and projects of the state and of religious minorities as well as of elites and nonelites in the development of Iranian nationalism, the fi ve social biographies exhibit the multiple loci of power in this dialogic process. As demonstrated earlier, social biographical research can also be used eff ectively to respond to lingering questions about function, receptivity, personal meaning, and the role of language and _ethnie_ raised by the theoretical discourse on nationalism and national identity. 
 
-However, the life stories of this handful of individuals clearly demonstrate that Armenian Iranian economic and social status, career paths, political opinions, and activities were diverse. Indeed, as we have seen, some contemporaries bitterly and even violently opposed each other. 
+However, the life stories of this handful of individuals clearly demonstrate that Armenian Iranian economic and social status, career paths, political opinions, and activities were diverse. Indeed, as we have seen, some contemporaries bitterly and even violently opposed each other.
+
+<!-- page 318 -->
 
 280 | _Experience and Theory_ 
 
-Iskandar Khan of the Persian Cossacks opposed Yeprem Kahn and the _fedayi_ in battle, while Zohrab Saginian and the underground Dashnaks were loathed by Ardashir Ovanissian and Tudeh supporters. Other contemporaries held dramatically diff erent political views. Lucik Moradiance was sickened and distraught about the killing of pro-Tudeh student demonstrators at Tehran University in December 1953, whereas Nejde Hagobian and his pro-shah friends at Ararat reveled that Communists had received their just desserts. Taking these contrasting examples into account, it is clear that more oral historical and social biographical research will be necessary before we can determine to what extent accurate generalizations can be made about the Armenian Iranian experience with and role in the development of Iranian nationalism. It must also be recognized that the focus here on one religious minority group under the Qajar and Pahlavi regimes warrants qualifi ed conclusions pertaining to the evolution of national identity within the nation’s Persian Muslim majority and within Iran’s other linguistic and religious minorities. Although I will restate my contention that, of all Iranian ethnic and religious groups to investigate, Armenians enable the widest applicability of the study’s theoretical fi ndings and best underscore the eff ectiveness of sustained social biographical investigation and that there are strong similarities between the Armenians of Iran and the country’s other linguistic and religious minority groups in terms of their relationship with the state and its programs to inculcate a sense of national identity and loyalty, each group needs to be researched on a case-by-case basis to obtain an accurate assessment of its experience. Certainly biographies of individual subjects in other groups would yield diff erent details, experiences, feelings, and memories, especially in relation to their personal senses of nationalism and identity visà-vis Iran.[11] Thus, we need to engage broadly and energetically in social biographical research if we are to understand Iranian nationalism in all its manifold complexity and to ascertain how it has evolved over time. These caveats notwithstanding, I hope that this chapter has demonstrated that persistent questions about nationalism and its development in Iran and elsewhere can be eff ectively answered through an approach that combines social biographical and theoretical methods. 
+Iskandar Khan of the Persian Cossacks opposed Yeprem Kahn and the _fedayi_ in battle, while Zohrab Saginian and the underground Dashnaks were loathed by Ardashir Ovanissian and Tudeh supporters. Other contemporaries held dramatically diff erent political views. Lucik Moradiance was sickened and distraught about the killing of pro-Tudeh student demonstrators at Tehran University in December 1953, whereas Nejde Hagobian and his pro-shah friends at Ararat reveled that Communists had received their just desserts. Taking these contrasting examples into account, it is clear that more oral historical and social biographical research will be necessary before we can determine to what extent accurate generalizations can be made about the Armenian Iranian experience with and role in the development of Iranian nationalism. It must also be recognized that the focus here on one religious minority group under the Qajar and Pahlavi regimes warrants qualifi ed conclusions pertaining to the evolution of national identity within the nation’s Persian Muslim majority and within Iran’s other linguistic and religious minorities. Although I will restate my contention that, of all Iranian ethnic and religious groups to investigate, Armenians enable the widest applicability of the study’s theoretical fi ndings and best underscore the eff ectiveness of sustained social biographical investigation and that there are strong similarities between the Armenians of Iran and the country’s other linguistic and religious minority groups in terms of their relationship with the state and its programs to inculcate a sense of national identity and loyalty, each group needs to be researched on a case-by-case basis to obtain an accurate assessment of its experience. Certainly biographies of individual subjects in other groups would yield diff erent details, experiences, feelings, and memories, especially in relation to their personal senses of nationalism and identity visà-vis Iran.[11] Thus, we need to engage broadly and energetically in social biographical research if we are to understand Iranian nationalism in all its manifold complexity and to ascertain how it has evolved over time. These caveats notwithstanding, I hope that this chapter has demonstrated that persistent questions about nationalism and its development in Iran and elsewhere can be eff ectively answered through an approach that combines social biographical and theoretical methods.
+
+<!-- page 319 -->
 
 ## Conclusion 
 
@@ -2707,7 +3352,9 @@ seva k sa gin ia n, Hagob Hagobian, Lucik Moradiance, Nejde Hagobian, and the de
 
 Hagob and Arshalous Hagobian moved to the United States from Tehran in 1975 after separation from their family members in the United States became unbearable for the couple. Although they settled into a 
 
-281 
+281
+
+<!-- page 320 -->
 
 282 | _Conclusion_ 
 
@@ -2715,7 +3362,9 @@ Hagob and Arshalous Hagobian moved to the United States from Tehran in 1975 afte
 
 comfortable retirement in Glendale, where they were close to their family, the Hagobians continued to maintain savings in Iran and returned periodically to visit friends and relatives in Tehran. With the death of Hagob’s brother, Aram, in 1988 and their advancing ages making it increasingly diffi  cult to travel, the Hagobians liquidated their savings and left Iran for the last time in 1989. Although Hagob made many good friends among the scores of Armenian retirees in their Glendale neighborhood, life in the United States was not easy for him because he spoke but a few words of English and was unable to adapt to the culture and pace of Los Angeles. Increasingly idealizing life in Iran and periodically becoming fed up with one or another aspect of life in the United States, Hagob would routinely complain about how things were better and easier there and on more than one occasion physically packed his bags for his return “home to Iran.”[4] Hagob Hagobian died in January 1992. Arshalous passed away in 2005. They are buried among other Armenian Iranian and Persian Iranian immigrants in Los Angeles and are survived by their children, Nejde and Rima, their grandchildren, and great-grandchildren. 
 
-The Moradiance–Melikian family immigrated to the United States in 1981 after the diffi  culties and liabilities involved in sustaining Levon’s law practice in the Islamic Republic began to mount and the majority of his clients had either fl ed the country or ceased doing business there. Relocating to southern California after leaving their property and savings 
+The Moradiance–Melikian family immigrated to the United States in 1981 after the diffi  culties and liabilities involved in sustaining Levon’s law practice in the Islamic Republic began to mount and the majority of his clients had either fl ed the country or ceased doing business there. Relocating to southern California after leaving their property and savings
+
+<!-- page 321 -->
 
 _Conclusion_ | 283 
 
@@ -2723,7 +3372,9 @@ _Conclusion_ | 283
 
 behind in Tehran, Lucik Moradiance decided to reenter the job market but soon found that many prospective employers deemed her Iranian Foq License (the equivalent of a master’s degree) and credentials insuffi  cient. Undeterred, she applied and was accepted for graduate study at the University of Southern California and in 1988 acquired a master’s in environmental engineering. With her freshly minted degree to supplement years of hands-on laboratory experience, Moradiance was hired by the Southern California Department of Water and Power in 1989. Soon promoted to environmental associate, she found a niche in landfi ll, groundwater protection, and groundwater cleanup research. Lucik retired from the department in 2005, and Levon began to dismantle his law practice in 2006. They currently reside in Sherman Oaks, California. 
 
-After opening the Tehran offi  ce of the American engineering fi rm Dames and Moore in 1966 and serving as general manager, Nejde Hagobian was transferred to Los Angeles in 1968 to oversee the fi rm’s operations in the Middle East and North Africa. Shortly thereafter, he 
+After opening the Tehran offi  ce of the American engineering fi rm Dames and Moore in 1966 and serving as general manager, Nejde Hagobian was transferred to Los Angeles in 1968 to oversee the fi rm’s operations in the Middle East and North Africa. Shortly thereafter, he
+
+<!-- page 322 -->
 
 284 | _Conclusion_ 
 
@@ -2731,13 +3382,17 @@ became a partner of Dames and Moore and settled with his American wife, Lynn, an
 
 Events since the Iranian Islamic Revolution of 1979, in which there has been a radical reorientation of Iranian nationalism toward Iran’s Shi‘a Muslim history, traditions, and culture, new research into the status of Iran’s religious minorities in the Islamic Republic further underscores the 
 
-78. Nejde Hagobian with his wife, Lynn, and children, Christina and David, Sherman Oaks, California, 1970. Courtesy of author. 
+78. Nejde Hagobian with his wife, Lynn, and children, Christina and David, Sherman Oaks, California, 1970. Courtesy of author.
+
+<!-- page 323 -->
 
 _Conclusion_ | 285 
 
 necessity for social biographical research investigating the experiences of members of the Armenian Iranian community in Iran to answer newly emerging questions and to provide an even deeper understanding of how Iranian nationalism functions and is shaped over time. After the Islamic Revolution, there was naturally a rejection of the symbolism of the Pahlavi dynasty and secular Iranian nationalism by the new government and by the large majority of the population who supported the shah’s overthrow. Eliz Sanasarian’s book _Religious Minorities in Iran_ (2006) examines the relationship between non-Muslim religious minorities and the government from the time of the Iranian Revolution through 1999. Sanasarian’s research suggests that although Iran’s roughly 220,000 Armenian Iranians remain among the best treated of the nation’s ethnic minority groups, the challenges they face in sustaining their linguistic and cultural heritage and distinctiveness are similar to those they experienced under the Pahlavi regime.[5] As a result, the tactics employed in negotiations and relations with the government of the Islamic Republic are virtually identical, albeit articulated using the buzzwords of the contemporary Iranian political milieu and appealing to the symbolism invoked by the new regime. 
 
-Despite Article 13 of the Constitution of the Islamic Republic of Iran, which recognizes the rights of Zoroastrians, Jews, and Christians to practice their religion and pursue religious education freely,[6] the period 1981–85 saw an increase in the intrusion of the state in the aff airs of religious minorities and open job discrimination.[7] In these four years, the state exerted a substantial amount of pressure to get minorities to conform culturally to the new Islamic orientation of society and, remarkably, to conform linguistically to Persian.[8] In 1982, the Majles representatives of the religious minorities were called to a meeting with Mortaza Hosseini, “the prosecutor of courts in charge of combating vice (dadsetan-e dadgahaye mobarezeh ba monkerat),” in which they were informed of their constituents’ need to publicly observe Islamic laws as prescribed by the state, especially _hejab_ .[9] Referring specifi cally to the Ararat sports complex in Vanak as a public place, Hosseini emphasized the need for proper segregation of men and women in such settings, suggesting that the offi  ce had been thus far too lenient.[10] Several incidents at Ararat, which included forced segregation of males and females at the sports stadium and the 
+Despite Article 13 of the Constitution of the Islamic Republic of Iran, which recognizes the rights of Zoroastrians, Jews, and Christians to practice their religion and pursue religious education freely,[6] the period 1981–85 saw an increase in the intrusion of the state in the aff airs of religious minorities and open job discrimination.[7] In these four years, the state exerted a substantial amount of pressure to get minorities to conform culturally to the new Islamic orientation of society and, remarkably, to conform linguistically to Persian.[8] In 1982, the Majles representatives of the religious minorities were called to a meeting with Mortaza Hosseini, “the prosecutor of courts in charge of combating vice (dadsetan-e dadgahaye mobarezeh ba monkerat),” in which they were informed of their constituents’ need to publicly observe Islamic laws as prescribed by the state, especially _hejab_ .[9] Referring specifi cally to the Ararat sports complex in Vanak as a public place, Hosseini emphasized the need for proper segregation of men and women in such settings, suggesting that the offi  ce had been thus far too lenient.[10] Several incidents at Ararat, which included forced segregation of males and females at the sports stadium and the
+
+<!-- page 324 -->
 
 286 | _Conclusion_ 
 
@@ -2745,19 +3400,25 @@ arrest of an Ararat organizer and three-day closure of Ararat for the failure to
 
 Required appointment of Muslim principals and teachers, which had been an occasional occurrence under the Pahlavis, was a minor issue, but the proposed ban on the teaching of the Armenian language in Armenian schools that followed was an outrage in Armenian communities across the nation.[12] After a sweeping and unexpected Ministry of Education prohibition on the teaching of the Armenian language in Armenian schools in 1981 erupted into a heated exchange of letters and verbal opinions and resulted in the noncompliance of schools nationwide throughout 1982, by 1983 the situation looked grim for the future of Armenian-language education in Iran. A fi nal directive from the Ministry of Education stipulated that all religious education be taught in Persian from a single, state-sanctioned textbook and that Armenian-language instruction be limited to a maximum of two hours per week.[13] Owing to the continued obstinacy of Armenian teachers and administrators, the confl ict peaked in 1984 with the closing of more than a dozen Armenian schools in Tehran alone.[14] Despite Armenian Iranians’ despair regarding this issue, Armenian Church and community leaders were highly suspicious and quick to criticize any thought of external support or interference when the Western media picked up on the story. They reiterated Armenian Iranian support for the Islamic Revolution and in the war against Iraq, and their determination to solve the problem through direct negotiations with their own government.[15] Through persistent negotiation in the following years, Armenian-language instruction was fi rst increased to three hours and eventually fi ve hours per week.[16] 
 
-While Armenian Majles members and church and community leaders were fi ghting for Armenian linguistic and cultural rights, young Armenians were fi ghting and dying on the front lines of the Iran-Iraq War in large numbers proportional to their population.[17] In their interactions with the government, interviews, and newspaper articles, Armenian Majles members and community leaders took every public opportunity 
+While Armenian Majles members and church and community leaders were fi ghting for Armenian linguistic and cultural rights, young Armenians were fi ghting and dying on the front lines of the Iran-Iraq War in large numbers proportional to their population.[17] In their interactions with the government, interviews, and newspaper articles, Armenian Majles members and community leaders took every public opportunity
+
+<!-- page 325 -->
 
 _Conclusion_ | 287 
 
 presented to them to point out this fact and to emphasize the community’s eff orts to support the Islamic Republic in its time of need.[18] Cosroe Chaqueri describes several such occurrences. At a ceremony to honor fallen Armenian Iranian soldiers, which was attended by Hujjat al-Islam Karroubi, the chair of the Martyr Foundation, Archbishop Artak Manoukian gave a speech in which he proclaimed that “Armenians, an inseparable part of the Iranian nation,” struggled equally with Iranian forces on the battlefi eld, thus “restrengthening their bonds with their Muslim brothers,” with whom they had lived together in “mutual respect and unblemished feelings for hundreds of years.”[19] 
 
-79. Headstone of an Armenian martyr of the Iran-Iraq War: “MARTYR SOOREN KHANLARIAN 1959–1982,” Noor Boorestan cemetery, Tehran, 2005. Photograph by the author. 
+79. Headstone of an Armenian martyr of the Iran-Iraq War: “MARTYR SOOREN KHANLARIAN 1959–1982,” Noor Boorestan cemetery, Tehran, 2005. Photograph by the author.
+
+<!-- page 326 -->
 
 288 | _Conclusion_ 
 
 In April 1985, Armenian Majles representative Vartan Vartanian revealed in an interview with the Tehran daily _Ettela‘at_ that “the imperialist designs to sow the seeds of dissention among Iranians had failed to break up Iran’s unity and defeat the revolution—in part by the participation of Armenian soldiers in the war eff ort.”[20] 
 
-The fact that Armenian public fi gures found the need to repeatedly reiterate the loyalty and sacrifi ces of Armenian Iranians alongside their fellow Muslim Iranians is indicative of the feelings of marginalization and trepidation within the community following a crackdown on their cultural and linguistic freedoms and in the face of a brutal war with Iraq in which life for all Iranians was strained and degraded and governmental paranoia justifi ably heightened. Yet the details Chaqueri and Sanasarian bring to bear suggest that the Armenians of Iran never stopped pushing the limits of the system to legitimate their presence and role in society while pursuing their own agenda. The ways in which the Armenians of Iran made the most of Ayatollah Khomeini’s disdain for the Turkish republican government and ongoing tensions between Tehran and Ankara to protest Turkish massacre of Armenians during World War I are but one example. Sanasarian cites a statement by southern Armenian Majles representative Artavaz Baghoomian in 1985 in which he rejected a comment by the US secretary of state regarding minority rights in Iran, while assailing the Reagan administration for “its refusal to accept the Armenian genocide in order to maintain good relations with Turkey.”[21] Chaqueri notes several instances where the Islamic Republic’s concerns were melded with the contemporary Armenian Iranian political agenda. Armenian Majles member from the North Vartan Vartanian gave a speech in the assembly in 1991 in which he praised the armed forces for the defense of the nation against Iraq, discussed past pan-Turkish imperialist designs to control Iranian territory, and recalled the massacres of Armenians early in the century. In closing, Vartanian “asked for the sympathy of the IRI [Islamic Republic of Iran] as the regime supporting the oppressed of the world during the planned demonstrations on 24 April against the massacre of Armenians by the Turks.”[22] In 1989, the daily _Resalat_ quoted Armenians from Urmia who simultaneously condemned “the plot of world arrogance against the Islamic Republic” while asking “to bring to justice those responsible for 
+The fact that Armenian public fi gures found the need to repeatedly reiterate the loyalty and sacrifi ces of Armenian Iranians alongside their fellow Muslim Iranians is indicative of the feelings of marginalization and trepidation within the community following a crackdown on their cultural and linguistic freedoms and in the face of a brutal war with Iraq in which life for all Iranians was strained and degraded and governmental paranoia justifi ably heightened. Yet the details Chaqueri and Sanasarian bring to bear suggest that the Armenians of Iran never stopped pushing the limits of the system to legitimate their presence and role in society while pursuing their own agenda. The ways in which the Armenians of Iran made the most of Ayatollah Khomeini’s disdain for the Turkish republican government and ongoing tensions between Tehran and Ankara to protest Turkish massacre of Armenians during World War I are but one example. Sanasarian cites a statement by southern Armenian Majles representative Artavaz Baghoomian in 1985 in which he rejected a comment by the US secretary of state regarding minority rights in Iran, while assailing the Reagan administration for “its refusal to accept the Armenian genocide in order to maintain good relations with Turkey.”[21] Chaqueri notes several instances where the Islamic Republic’s concerns were melded with the contemporary Armenian Iranian political agenda. Armenian Majles member from the North Vartan Vartanian gave a speech in the assembly in 1991 in which he praised the armed forces for the defense of the nation against Iraq, discussed past pan-Turkish imperialist designs to control Iranian territory, and recalled the massacres of Armenians early in the century. In closing, Vartanian “asked for the sympathy of the IRI [Islamic Republic of Iran] as the regime supporting the oppressed of the world during the planned demonstrations on 24 April against the massacre of Armenians by the Turks.”[22] In 1989, the daily _Resalat_ quoted Armenians from Urmia who simultaneously condemned “the plot of world arrogance against the Islamic Republic” while asking “to bring to justice those responsible for
+
+<!-- page 327 -->
 
 _Conclusion_ | 289 
 
@@ -2767,7 +3428,9 @@ In Sanasarian’s fi nal assessment, the Armenians of Iran, like the other recog
 
 have mastered the art of accommodation so well that they often appear in sync with the regime, any regime. They take on the coloring of the state ideology whether the system is Islamic theocracy or autocratic monarchy, and within its framework press for their communal autonomy. The state ideology may change, as it has changed several times in twentieth century Iran. What helps in this process of adjustment techniques is the overall connection that the minorities feel they have with the country. Since each in its own way has a special affi  nity to the land and the culture of Persia, consciously or unconsciously, the loyalty to the (nation-)state [ _sic_ ] becomes a natural extension of that affi  nity, regardless of ideological fi ltering.[26] 
 
-Although Chaqueri takes a dimmer view of the situation facing the Armenians in Iran during the 1990s and the prospects for their future in the country, suggesting a trend toward emigration from Iran,[27] population statistics indicate stability, if not a rise, in the Armenian Iranian population, and recent trends in Iranian politics, foreign policy, and economy suggest the possibility that the best times for Armenian Iranians have yet to come. As Sanasarian notes, the breakup of the Soviet Union in 1989–90 and the establishment of diplomatic relations between a free Armenian Republic and the Islamic Republic of Iran in 1992 opened a new chapter in the history of Armenian–Iranian relations. Within four years, Iran had become Armenia’s biggest partner in trade, and policies 
+Although Chaqueri takes a dimmer view of the situation facing the Armenians in Iran during the 1990s and the prospects for their future in the country, suggesting a trend toward emigration from Iran,[27] population statistics indicate stability, if not a rise, in the Armenian Iranian population, and recent trends in Iranian politics, foreign policy, and economy suggest the possibility that the best times for Armenian Iranians have yet to come. As Sanasarian notes, the breakup of the Soviet Union in 1989–90 and the establishment of diplomatic relations between a free Armenian Republic and the Islamic Republic of Iran in 1992 opened a new chapter in the history of Armenian–Iranian relations. Within four years, Iran had become Armenia’s biggest partner in trade, and policies
+
+<!-- page 328 -->
 
 290 | _Conclusion_ 
 
@@ -2777,13 +3440,17 @@ On July 1, 1999, President Khatami gave a speech at a reception in Tehran honori
 
 Khatami Wednesday evening paid glowing tribute to the country’s champion athletes, saying sports is a sign of youthful happiness in Iran. The president who was receiving athletes and national champions also dwelt on the topic of dialogue among civilizations saying all well-wishing personalities in the world had welcomed Iran’s proposition for dialog among civilizations. He also told the national champions that their behavior and their life style are very much likely to be copied by the youth of the nation and therefore reminded them of their moral responsibility to be models of virtue. The president called on the administrators of sports programs to come to the aid of Ararat club (of the Armenian Christian community) so that the club, which has had brilliant records in the past, would be able to survive.[29] 
 
-Following the September 8, 1999, release of a US State Department report criticizing Iran’s respect for religious freedom, Foreign Ministry spokesman Hamid Reza Asefi  issued a vehement denial, asserting that “the U.S. State Department has circulated a biased and unjust view on the status of religious minorities in the Islamic Republic of Iran, an indication of its ignorance of human rights in this country. Furthermore, the 
+Following the September 8, 1999, release of a US State Department report criticizing Iran’s respect for religious freedom, Foreign Ministry spokesman Hamid Reza Asefi  issued a vehement denial, asserting that “the U.S. State Department has circulated a biased and unjust view on the status of religious minorities in the Islamic Republic of Iran, an indication of its ignorance of human rights in this country. Furthermore, the
+
+<!-- page 329 -->
 
 _Conclusion_ | 291 
 
 United States has been exploiting human rights issues for political gains and ends.”[30] Over the next several weeks, daily statements by political and community leaders of the recognized religious minorities and Iranian political elites both explicitly and implicitly addressing the issue of religious minorities’ standing were reported in the Iranian press.[31] In a meeting with Danish Social Democratic Party offi  cials to promote trade on September 14, 1999, Armenian Majles representative Vartan Vartanian and Jewish deputy Manouchehr Eliasi stated that they enjoyed equal rights with their Muslim colleagues.[32] Vartanian explained that the Armenians, like all religious minorities, “enjoy religious and civil freedoms and are active in the social political and economic arenas along with their Muslim compatriots.” Eliasi concurred: “The Jewish community also enjoys civil and religious freedoms like other religious minorities in Iran.”[33] 
 
-On September 21, 1999, it was reported that a representative from the Armenian Prelacy Council met with legal experts and representatives from the Majles and various Iranian ministries to report on the situation of the Armenians of Iran and to discuss ways to upgrade the rights of Iranian religious minorities through better enforcement of the Constitution. Secretary of the Islamic Human Rights Commission Mohammad Hassan Ziyaee “welcomed the positive measures adopted [by the committee] to promote minority rights and underlined the need to speed up the process.”[34] Also on September 21, 1999, the Iranian press reported that Armenian Iranians would be marking Imam Khomeini’s one hundredth birthday anniversary on September 26 by tolling church bells across the nation and organizing a visit to Khomeini’s mausoleum to pay their respects. In addition, it was reported that the Armenian Prelacy Council “is to hold a great cultural and artistic festival at Ararat club in Tehran Friday afternoon to mark the occasion. Along with their Muslim compatriots Iranian Armenians have arranged diff erent cultural, art, sports exhibitions during the week to mark the occasion.”[35] Zoroastrians in Yazd also marked the occasion of Khomeini’s birth anniversary with a ceremony at the Zoroastrian Youth club Qasemabad, where they “recited their holy book of ‘Avesta’ and prayed for the health of the leader of the Islamic revolution Ayatollah Seyyed Ali Khamenei as well as for the success of the Islamic Revolution.”[36] One Zoroastrian in Kerman celebrating the event 
+On September 21, 1999, it was reported that a representative from the Armenian Prelacy Council met with legal experts and representatives from the Majles and various Iranian ministries to report on the situation of the Armenians of Iran and to discuss ways to upgrade the rights of Iranian religious minorities through better enforcement of the Constitution. Secretary of the Islamic Human Rights Commission Mohammad Hassan Ziyaee “welcomed the positive measures adopted [by the committee] to promote minority rights and underlined the need to speed up the process.”[34] Also on September 21, 1999, the Iranian press reported that Armenian Iranians would be marking Imam Khomeini’s one hundredth birthday anniversary on September 26 by tolling church bells across the nation and organizing a visit to Khomeini’s mausoleum to pay their respects. In addition, it was reported that the Armenian Prelacy Council “is to hold a great cultural and artistic festival at Ararat club in Tehran Friday afternoon to mark the occasion. Along with their Muslim compatriots Iranian Armenians have arranged diff erent cultural, art, sports exhibitions during the week to mark the occasion.”[35] Zoroastrians in Yazd also marked the occasion of Khomeini’s birth anniversary with a ceremony at the Zoroastrian Youth club Qasemabad, where they “recited their holy book of ‘Avesta’ and prayed for the health of the leader of the Islamic revolution Ayatollah Seyyed Ali Khamenei as well as for the success of the Islamic Revolution.”[36] One Zoroastrian in Kerman celebrating the event
+
+<!-- page 330 -->
 
 292 | _Conclusion_ 
 
@@ -2791,7 +3458,9 @@ On September 21, 1999, it was reported that a representative from the Armenian P
 
 This fl urry of statements by religious minority leaders and the Iranian government regarding the freedoms and position of religious minorities culminated on September 28, the sixth day of national celebrations for the anniversary of the Imam’s birth, when representatives from each of the recognized religious minorities were invited to attend a reception with President Khatami and Ayatollah Khomeini’s grandson Hasan at the imam’s mausoleum to celebrate what was named “Followers of Divine Religions Day.” In his speech before the Zoroastrian, Armenian, Assyrian, and Jewish leaders from around the country in attendance, President Khatami fi rst expounded on his concept of Dialogue among Civilizations as a remedy for wars and chaos. As reported in the _Iran Daily_ , Khatami then told the group that the Jewish, Zoroastrian, Christian, and Assyrian Iranians, similar to the Iranian Muslims, had developed a strong sense of self-consciousness after the victory of the Islamic Revolution in 1979. “They all reached the conclusion that they can express themselves in this world by virtue of relying on religious values,” he said, stressing that the country and the Islamic system belong to all Iranians, regardless of their religion.[38] 
 
-Khatami also took the opportunity to recognize the religious minorities’ contributions in the Sacred Defense (Iran–Iraq War), reminding the audience that “large numbers of Jewish, Zoroastrian, Assyrian and Armenian compatriots selfl essly fought in the Iraqi imposed war.” The president added, “They are shining stars in the history of this great nation.” Shifting the topic to the confl ict between the Israelis and Palestinians, Khatami queried, “Fascism and Nazism are by products of the West and not the East. Why should Palestinians pay for their brutal behavior?” Comparing the religious strife in the Levant to a harmonious Iran, Khatami concluded, “Today we also wish to see Palestinian Jews, Muslims, and Christians coexist peacefully in their land.”[39] After he was applauded at length by the minority religious representatives, one member from each group took to the podium to reiterate the freedoms they enjoyed in the Islamic Republic and their commitment to the ideals of the late Imam 
+Khatami also took the opportunity to recognize the religious minorities’ contributions in the Sacred Defense (Iran–Iraq War), reminding the audience that “large numbers of Jewish, Zoroastrian, Assyrian and Armenian compatriots selfl essly fought in the Iraqi imposed war.” The president added, “They are shining stars in the history of this great nation.” Shifting the topic to the confl ict between the Israelis and Palestinians, Khatami queried, “Fascism and Nazism are by products of the West and not the East. Why should Palestinians pay for their brutal behavior?” Comparing the religious strife in the Levant to a harmonious Iran, Khatami concluded, “Today we also wish to see Palestinian Jews, Muslims, and Christians coexist peacefully in their land.”[39] After he was applauded at length by the minority religious representatives, one member from each group took to the podium to reiterate the freedoms they enjoyed in the Islamic Republic and their commitment to the ideals of the late Imam
+
+<!-- page 331 -->
 
 _Conclusion_ | 293 
 
@@ -2801,7 +3470,9 @@ In February 2000, the IRNA website featured photographs of Armenian Iranian men 
 
 Later that year, at a reception for visiting Armenian Catholicos of Cilicia Archbishop Aram Keshishian, President Khatami thanked Keshishian for his support of the Islamic Republic, and, after describing how dialogue between religions is a cornerstone of his concept of Dialogue among Civilizations, he noted that “[Keshishian’s] presence in Iran indicates the active presence of Armenians in the country and the experience of coexistence among Muslims, Armenians, and other religions.” Explaining that “Islamic civilization is indebted to thinkers and scholars of Islam and other religions” and that disputes between religious groups are “rooted in ignorant prejudices or in political issues imposed from outside,” President Khatami stated, “I am proud of being president of all Iranians, including the dear Armenians, and of defending the rights of them all; I hope that problems, if any, would be eliminated gradually.” Keshishian, in his turn, praised Khatami’s eff ort to create a dialogue among civilizations and observed that “the community of Armenians in Iran enjoy all civil and political rights and are well-organized,” adding that “the community has always been a source of pride for the community of Armenians worldwide. Armenians in Iran play a grave role among the world Armenians and are ambassadors of Iran in the world community of Armenians.”[42] 
 
-During his three-week visit to Iran in which he met with dozens of Iranian offi  cials, toured Armenian communities and churches across the country, and attended a celebration with more than ten thousand Armenian Iranians at the Ararat Sports Complex for the 1700 anniversary of Armenian Christianity,[43] Archbishop Keshishian made several more 
+During his three-week visit to Iran in which he met with dozens of Iranian offi  cials, toured Armenian communities and churches across the country, and attended a celebration with more than ten thousand Armenian Iranians at the Ararat Sports Complex for the 1700 anniversary of Armenian Christianity,[43] Archbishop Keshishian made several more
+
+<!-- page 332 -->
 
 294 | _Conclusion_ 
 
@@ -2809,7 +3480,9 @@ strong statements underscoring the freedom and stability of the Armenians in Ira
 
 Two days later, Leader’s Representative and Friday prayer leader of Isfahan Ayatollah Sayed Jalaleddin Taheri spoke at another reception for Keshishian, explaining that “Muslims and followers of Christianity, including Armenians, enjoy bonds of amity, aff ection and mutual friendship which has also been mentioned in the Holy Quran.” Ayatollah Taheri went on to point out that “the Holy Quran refers to ‘Nasara’ and introduces them as the friends of Islam, [and] in the divine book hands of friendship have been extended to the followers of Christianity so that in light of the shared elements between the two religions, they both form a unifi ed front vis-à-vis enemies of religion and God.” He remarked further that “Muslims are living beside their Armenian fellow countrymen in Isfahan and that an atmosphere of amity, friendship, and aff ection is governing among followers of both the divine religions.” In Archbishop Keshishian’s speech, he agreed that “the Bible and the Quran enjoy common points in moral principles, adding that greater endeavor should be made to bolster ethical principles.”[46] 
 
-In yet another publicized meeting, this time with Iranian Majles Speaker of the House Hujjat al-Islam Karroubi on July 24, 2000, Archbishop Keshishian stressed that “Armenian Iranians form an inseparable part of the Iranian nation and . . . that people of his faith in Iran are not really a religious minority.” He went on to explain how all nationals in Iran, regardless of their religion, enjoy full and equal rights as citizens. After thanking Iran’s religious leadership for the freedom of Armenians 
+In yet another publicized meeting, this time with Iranian Majles Speaker of the House Hujjat al-Islam Karroubi on July 24, 2000, Archbishop Keshishian stressed that “Armenian Iranians form an inseparable part of the Iranian nation and . . . that people of his faith in Iran are not really a religious minority.” He went on to explain how all nationals in Iran, regardless of their religion, enjoy full and equal rights as citizens. After thanking Iran’s religious leadership for the freedom of Armenians
+
+<!-- page 333 -->
 
 _Conclusion_ | 295 
 
@@ -2817,7 +3490,9 @@ to worship and lauding Iran’s national progress, Keshishian expressed hope tha
 
 In Eliz Sanasarian’s interpretation, almost all of the events and exchanges described here are transparent in their motivation. As a defensive tactic employed by the recognized religious minorities to distance themselves from outside concern and interference, “Every time a human rights violation report on Iran is issued, all recognized religious minorities, and particularly Armenians, hold a press conference . . . and publicly recant and criticize the report.”[48] The government of the Islamic Republic, in Sanasarian’s view, utilizes three defensive strategies to defl ect such criticism of its policies concerning religious minorities, all of which can be seen in the examples provided: (1) the invitation of foreign religious fi gures to Iran, where they receive extended press coverage as they make statements as to the well-being of Iranian religious minorities; (2) public denial of the charges in speeches detailing the freedoms religious minorities enjoy; and (3) obfuscation of issues by employing “linguistic verbiage” in the discussion of abstract concepts such as “civil society” and “dialogue among civilizations.”[49] Sanasarian concludes that the necessity for the religious minorities to employ such defensive tactics to protect their freedoms, culture, and reputation is indicative of their perilous position as collectivities and individuals at the margins of a society whose government still has far to go in assuring equitable treatment of all its citizens.[50] 
 
-One cannot deny the accuracy of Sanasarian’s observations about the public interactions and tactical statements of both Armenian Iranian community leaders and Islamic Republic offi  cials in regard to the freedoms and standing that religious minorities enjoy in Iran, which as of 2013 continue to grace news headlines.[51] Yet, in light of the discussion of the dynamics of power relationships in the previous chapter, the dialogue produced in these interactions can also be interpreted as indicative of an ongoing, dynamic dialogic power relationship between the Iranian 
+One cannot deny the accuracy of Sanasarian’s observations about the public interactions and tactical statements of both Armenian Iranian community leaders and Islamic Republic offi  cials in regard to the freedoms and standing that religious minorities enjoy in Iran, which as of 2013 continue to grace news headlines.[51] Yet, in light of the discussion of the dynamics of power relationships in the previous chapter, the dialogue produced in these interactions can also be interpreted as indicative of an ongoing, dynamic dialogic power relationship between the Iranian
+
+<!-- page 334 -->
 
 296 | _Conclusion_ 
 
@@ -2825,7 +3500,9 @@ political elites and the Armenian Iranian community, each of which derives benef
 
 Through these interactions, representatives of the Armenian community pursue as their primary agenda the same issues that they pursued under the Pahlavi regime—expansion of Armenian education and the maintenance of religious and cultural freedoms. Their requests are legitimated by solidifying a reputation as a distinct yet integral part of the Iranian national fabric who rose to the call of the nation’s defense and remain steadfast in their loyalty, while distancing themselves from and criticizing foreign sources of concern over the status of Iranian religious minorities. In addition, whenever possible, Armenian Iranian elites and nonelites manipulate the zeitgeist of the Islamic Revolution and take advantage of the poor state of Tehran–Ankara relations in their attempt to gain Turkey’s recognition of the early-twentieth-century Armenian massacres.[52] 
 
-80. March to commemorate Armenian Genocide is led by Armenian clergy, community leaders, and Ararat scouts, Tehran, April 24, 2006. Photograph by Vigen Mouradian. 
+80. March to commemorate Armenian Genocide is led by Armenian clergy, community leaders, and Ararat scouts, Tehran, April 24, 2006. Photograph by Vigen Mouradian.
+
+<!-- page 335 -->
 
 _Conclusion_ | 297 
 
@@ -2833,19 +3510,29 @@ Elites of the Islamic Republic also simultaneously pursue a number of agendas in
 
 Once again, exactly who rides whom in these various interactions is unclear because the power relationship is dialogic and collaborative. Both the Armenians and the political elite of the Islamic Republic shape their own image and independently benefi t from the strategic, public dialogue and negotiation. In the dialogic process, Armenian Iranian identity—like the symbolism, emphasis, and meaning of Iranian nationalism—continues to evolve.[54] 
 
-Because Iranian minority groups face unique challenges in the twenty-fi rst century as they struggle to maintain their cultural and religious heritages, and because of the diversity of opinion and action within each group, it is diffi  cult to predict or to generalize about contemporary political views, voting patterns, and hot-button issues.[55] For example, in the summer of 2005 I was surprised by the high hopes held by the majority of my Armenian Iranian friends and acquaintances in Tehran for the recently elected president Mahmoud Ahmadinejad and to learn that most of them had voted for him in the election that June. Although several noted his status as a professor and political outsider (in contrast to the _nomenklatura_ that included former president Hashemi Rafsanjani and reformist candidates perceived to be inert), anecdotal evidence suggests that it was his strong support of the Ararat organization and facilities while he served as Tehran’s mayor that secured their votes. Diff erent Iranian minorities 
+Because Iranian minority groups face unique challenges in the twenty-fi rst century as they struggle to maintain their cultural and religious heritages, and because of the diversity of opinion and action within each group, it is diffi  cult to predict or to generalize about contemporary political views, voting patterns, and hot-button issues.[55] For example, in the summer of 2005 I was surprised by the high hopes held by the majority of my Armenian Iranian friends and acquaintances in Tehran for the recently elected president Mahmoud Ahmadinejad and to learn that most of them had voted for him in the election that June. Although several noted his status as a professor and political outsider (in contrast to the _nomenklatura_ that included former president Hashemi Rafsanjani and reformist candidates perceived to be inert), anecdotal evidence suggests that it was his strong support of the Ararat organization and facilities while he served as Tehran’s mayor that secured their votes. Diff erent Iranian minorities
+
+<!-- page 336 -->
 
 298 | _Conclusion_ 
 
 undoubtedly went to the polls with their own unique considerations and circumstances in mind, some certainly sharing the frustration felt by their Iranian compatriots of all ethnicities and religions concerning the vetted pool of presidential candidates. Yet, though disenchantment with the quasi-democratic political system spans Iran’s diverse ethnic and religious landscape, and Iranian minorities (like most minority populations in Western nations) remain equally concerned with group and national issues, the chances of mass antigovernment separatist activity, ethnic insurgency, or, as has been proposed, a US-sponsored “fi fth column” of minorities are slight.[56] By maintaining the “inclusive” form of Iranian nationalism and dialogic relationships developed during the reign of Muhammad Reza Pahlavi while providing wide political and press freedoms relative to the Pahlavi era, the government of the Islamic Republic has been able to avert ethnic and sectarian discord analogous to that experienced in Lebanon, Syria, Turkey, and neighboring Iraq and Afghanistan. 
 
-Today in Iran, Armenian Iranian truck drivers traverse the nation with distinct crosses carved on the panels of their vehicles to proudly indicate their religious affi  liation.[57] Ararat scouts continue to march at the Armenian sports stadium in Vanak bearing both the fl ag of the nation and the fl ag of their cultural organization and again enjoy the freedom to use the Armenian alphabet on their uniforms and badges.[58] Armenian Iranian youth serve in the armed forces alongside their fellow Muslim Iranian soldiers. The Armenian Majles deputies persist in their eff orts to work within the system in the interests of the Armenian Iranian community, and the Armenian Iranian man on the street lauds the political system of the Islamic Republic for the freedoms it provides.[59] This study, I hope, has demonstrated that if we seek a complex understanding of how these activities, images, speeches, testimonials, and headlines relate to the ongoing process of the development of nationalism and national identity in Iran and elsewhere and of how the agendas and projects of elites impact and intersect with the lives of ordinary individuals who collectively constitute and shape the nation, social biographical research must be a primary component of our inquiry. 
+Today in Iran, Armenian Iranian truck drivers traverse the nation with distinct crosses carved on the panels of their vehicles to proudly indicate their religious affi  liation.[57] Ararat scouts continue to march at the Armenian sports stadium in Vanak bearing both the fl ag of the nation and the fl ag of their cultural organization and again enjoy the freedom to use the Armenian alphabet on their uniforms and badges.[58] Armenian Iranian youth serve in the armed forces alongside their fellow Muslim Iranian soldiers. The Armenian Majles deputies persist in their eff orts to work within the system in the interests of the Armenian Iranian community, and the Armenian Iranian man on the street lauds the political system of the Islamic Republic for the freedoms it provides.[59] This study, I hope, has demonstrated that if we seek a complex understanding of how these activities, images, speeches, testimonials, and headlines relate to the ongoing process of the development of nationalism and national identity in Iran and elsewhere and of how the agendas and projects of elites impact and intersect with the lives of ordinary individuals who collectively constitute and shape the nation, social biographical research must be a primary component of our inquiry.
+
+<!-- page 337 -->
 
 ## **Notes** 
 
 **Bibliography** 
 
-**Index** 
+**Index**
+
+<!-- page 338 -->
+
+
+
+<!-- page 339 -->
 
 ## Notes 
 
@@ -2859,7 +3546,9 @@ Today in Iran, Armenian Iranian truck drivers traverse the nation with distinct 
 
 4. For a description of the “Cottam channel” pursued by the Carter administration in 1979 to obtain the release of the hostages, see David Houghton, _US Foreign Policy and the Iran Hostage Crisis_ (Cambridge: Cambridge Univ. Press, 2001), 106–8. See also Clarke Thomas, “Pitt Professor Tells of Role in Hostage Talks,” _Pittsburgh Post-Gazette_ , July 25, 1984. 
 
-301 
+301
+
+<!-- page 340 -->
 
 302 | _Notes to Pages xvii–xxvi_ 
 
@@ -2875,7 +3564,9 @@ Today in Iran, Armenian Iranian truck drivers traverse the nation with distinct 
 
 4. Richard Handler critiques twentieth-century scholarly uses of the term _identity_ , problematizing its usage to denote either primordial or constructed cultural essences. Handler instead stresses the fl uid and situational nature of perceptions and expressions of identity and the role of individual memory in its maintenance (“Is ‘Identity’ a Useful Concept?” in _Commemorations: The Politics of National Identity_ , edited by John Gillis, 27–40 [Princeton, NJ: Princeton Univ. Press, 1994]). Craig Calhoun takes perhaps the most tenable approach to the defi nition of nationalism, arguing that it is “what Michel Foucault . . . called a ‘discursive formation,’ a way of speaking that shapes our consciousness, but also is problematic enough that it keeps generating more issues and questions, keeps propelling us into further talk, keeps producing debates over how to think about it” ( _Nationalism_ , 3, citations omitted; see also Craig Calhoun, _Nations Matter: Culture, History, and the Cosmopolitan Dream_ [London: Routledge, 2007], 27–41). 
 
-5. Ozkirimli, _Theories of Nationalism_ , 218–19; Smith, _Nationalism and Modernism_ , 94, and _Ethno-symbolism and Nationalism: A Cultural Approach_ (New York: Routledge, 2009), 134; Vaziri, _Iran as Imagined Nation_ , 216–18; James, _Nation Formation_ (198–200); Firoozeh Kashani- _–_ Sabet, _Frontier Fictions: Shaping the Iranian Nation, 1804 1946_ (Princeton, NJ: Princeton Univ. Press, 1999), 13–14. These works are discussed at length in chapter 1. 
+5. Ozkirimli, _Theories of Nationalism_ , 218–19; Smith, _Nationalism and Modernism_ , 94, and _Ethno-symbolism and Nationalism: A Cultural Approach_ (New York: Routledge, 2009), 134; Vaziri, _Iran as Imagined Nation_ , 216–18; James, _Nation Formation_ (198–200); Firoozeh Kashani- _–_ Sabet, _Frontier Fictions: Shaping the Iranian Nation, 1804 1946_ (Princeton, NJ: Princeton Univ. Press, 1999), 13–14. These works are discussed at length in chapter 1.
+
+<!-- page 341 -->
 
 _Notes to Pages xxvi–xxviii_ | 303 
 
@@ -2889,7 +3580,9 @@ _Notes to Pages xxvi–xxviii_ | 303
 
 10. Because the history of Armenians in Iran is outlined in the biographical section of the study, no independent summary is provided in this introduction. For a detailed look at the history of Armenians in Iran, see Cosroe Chaqueri, ed., _The Armenians of Iran: The Paradoxical Role of a Minority in a Dominant Culture_ (Cambridge, MA: Harvard Univ. Press, 1998). See also the introduction to Houri Berberian, _“The Love for Freedom Has No Fatherland”: Armenians and the Iranian Constitutional Revolution of 1905–1911_ (Boulder, CO: Westview, 2001). Although dated and somewhat cursory, Isma’il Ra’in’s _Iraniyan-i Armani_ (Iranian Armenians) (Tehran: Amir Kabir, 1977) contains some useful information, documents, and photographs pertaining to elite Armenian Iranians of the nineteenth and early twentieth centuries. For a look at Armenian life in nineteenth-century Anatolia and the Caucasus, see Susie Hoogasian Villa, _Armenian Village Life before 1914_ (Detroit: Wayne State Univ. Press, 1982). 
 
-11. Vartan Gregorian, “Minorities of Isfahan: The Armenian Community of Isfahan, 1587–1722,” in Chaqueri, ed., _The Armenians of Iran_ , 27–53. This well-known action served 
+11. Vartan Gregorian, “Minorities of Isfahan: The Armenian Community of Isfahan, 1587–1722,” in Chaqueri, ed., _The Armenians of Iran_ , 27–53. This well-known action served
+
+<!-- page 342 -->
 
 304 | _Notes to Pages xxviii–xxix_ 
 
@@ -2903,7 +3596,9 @@ the combined purposes of depopulating the frontier against the Ottomans, diversi
 
 15. Labeled an “entropy-resistant” people with a “sacred” language and identity that bind them to their nation, Armenians are often cited with Jews as an “archetypal” diaspora community facing insuperable moral barriers to their assimilation and inclusion in their host societies. See Smith, _Nationalism and Modernism_ , 35, 231. Compare Ernest Gellner _Nations and Nationalism_ (Ithaca, NY: Cornell Univ. Press, 1983), 70–73, 184; John A. Armstrong, _Nations before Nationalism_ (1982; reprint, Chapel Hill: Univ. of North Carolina Press, 2011), chap. 7;. and, more recently, Smith, _Ethno-symbolism and Nationalism_ , 10, 45, 94, 110. For recent works on the history of Iranian Jews, see David Yeroushalmi, _The Jews of Iran in the Nineteenth Century: Aspects of History, Community, and Culture_ (Boston: Brill, 2009), and Houman Sarshar, _Esther’s Children: A Portrait of Iranian Jews_ (Beverly Hills, CA: Center for Iranian Jewish Oral History, 2002). 
 
-16. As introduced in the preface and detailed in chapter 1, Cottam’s analysis of Armenian political affi  liation and loyalty in Iran appears in _Nationalism in Iran: Updated through 1978_ , 80–81. 
+16. As introduced in the preface and detailed in chapter 1, Cottam’s analysis of Armenian political affi  liation and loyalty in Iran appears in _Nationalism in Iran: Updated through 1978_ , 80–81.
+
+<!-- page 343 -->
 
 _Notes to Pages xxix–xxxiii_ | 305 
 
@@ -2911,7 +3606,9 @@ _Notes to Pages xxix–xxxiii_ | 305
 
 18. Janet Afary’s _The Iranian Constitutional Revolution, 1906–1911: Grassroots Democracy, Social Democracy, and the Origins of Feminism_ (New York: Columbia Univ. Press, 1996) explores the role of corporate groups that participated in the Constitutional Revolution. Chaqueri’s edited volume _The Armenians of Iran_ is heavily concentrated on the contributions and role of Armenians in the Constitutional Revolution and Armenian political parties active in Iran at the turn of the twentieth century. Houri Berberian’s _“The Love for Freedom Has No Fatherland”_ details the role of Armenians, and, in particular, the Dashnaksutiun, the most active Armenian political party to contribute in the struggle for the Constitution and the Majles. 
 
-19. An example of how the Iranian experience has been useful in testing theories put forward by observers of large-scale historical/political phenomena is the well-known dialogue between Theda Skocpol, Nikki Keddie, Eqbal Ahmad, and Walter Goldfrank concerning the Iranian Revolution. See Theda Skocpol, “Rentier State and Shi‘a Islam in the Iranian Revolution,” and Nikki Keddie, Eqbal Ahmad, and Walter Goldfrank, “Comments on Skocpol” _Theory and Society_ 2, no. 3 (1982): 265–83 and 285–92. Although the economic and religious complexities of the Iranian Revolution of 1978–79 challenged existing theories, it also generated this scholarly dialogue that enhanced both our understanding of Iranian history and broader understanding of the role of religion, economics, and political structure in revolutions. This dialogue has been extended to interpretations of causation in 
+19. An example of how the Iranian experience has been useful in testing theories put forward by observers of large-scale historical/political phenomena is the well-known dialogue between Theda Skocpol, Nikki Keddie, Eqbal Ahmad, and Walter Goldfrank concerning the Iranian Revolution. See Theda Skocpol, “Rentier State and Shi‘a Islam in the Iranian Revolution,” and Nikki Keddie, Eqbal Ahmad, and Walter Goldfrank, “Comments on Skocpol” _Theory and Society_ 2, no. 3 (1982): 265–83 and 285–92. Although the economic and religious complexities of the Iranian Revolution of 1978–79 challenged existing theories, it also generated this scholarly dialogue that enhanced both our understanding of Iranian history and broader understanding of the role of religion, economics, and political structure in revolutions. This dialogue has been extended to interpretations of causation in
+
+<!-- page 344 -->
 
 306 | _Notes to Pages xxxiii–3_ 
 
@@ -2929,7 +3626,9 @@ the Constitutional Revolution of 1905–11. See, for example, Afary, _The Irania
 
 4. Smith, _Nationalism and Modernism_ , 4; James, _Nation Formation_ . See also Yael Tamir, “Theoretical Diffi  culties in the Study of Nationalism,” in Couture, Nielsen, and Seymour, eds., _Rethinking Nationalism_ , 65–92. 
 
-5. For sweeping critical analyses that survey the theoretical contributions of diff erent schools, see James, _Nation Formation_ ; Smith, _Nationalism and Modernism_ ; Ozkirimli, _Theories of Nationalism_ . 
+5. For sweeping critical analyses that survey the theoretical contributions of diff erent schools, see James, _Nation Formation_ ; Smith, _Nationalism and Modernism_ ; Ozkirimli, _Theories of Nationalism_ .
+
+<!-- page 345 -->
 
 _Notes to Pages 4–6_ | 307 
 
@@ -2951,7 +3650,9 @@ _Notes to Pages 4–6_ | 307
 
 14. Ibid., 40–46, 55. 
 
-15. Ibid., 49, 55–58. 
+15. Ibid., 49, 55–58.
+
+<!-- page 346 -->
 
 308 | _Notes to Pages 7–11_ 
 
@@ -2981,7 +3682,9 @@ _Notes to Pages 4–6_ | 307
 
 31. Ibid., 97–105. With this new gospel of love and brotherhood comes the implicit call for destruction of “all social and political institutions; they must, as Tseng Kuo-Fan put it, ‘depose sovereigns and degrade offi  cials’” (ibid., 102). To illustrate the “stern logic” and “tender mercilessness” of this new revolutionary-nationalist love, which must direct its violence at both internal and external enemies, Kedourie quotes Michel Afl aq, who, in expanding on his defi nition of nationalism as love and the physical guidance fellow citizens needed to feel it, explains that “our mercilessness has for its object to bring them back to their true selves which they ignore, to their hidden will which they have not clearly discerned and which is with us, even though our swords are raised against them” (quoted in ibid., 137). Kedourie underscores the point by reminding us that the Mau Mau movement killed more than 2,000 fellow Africans, but only 32 Europeans died as a result (ibid., 135). 
 
-32. Demonstrating how Gandhi generated a concept of a virtuous, backward Indian civilization to contrast to a “satanic” Europe by drawing from the works of European Orientalists, Kedourie anticipates the theory of “cultural rebounding” advanced by Richard Fox in _Gandhian Utopia_ (Boston: Beacon Press, 1989). Beyond the picture Kedourie sketches of Orientalism spun by indigenous nationalists as an anti-European tool, Fox provides a framework for understanding agency. Cultural rebounding is a dialogic process involving multiple “authors,” whose concepts and ideology are at once shaped and then reshaped by the proverbial Other. Fox’s extension allows us to view the process of the development of nationalism in India as a dialogic, collaborative event involving agents/agency on the side of both Europeans and Indians. 
+32. Demonstrating how Gandhi generated a concept of a virtuous, backward Indian civilization to contrast to a “satanic” Europe by drawing from the works of European Orientalists, Kedourie anticipates the theory of “cultural rebounding” advanced by Richard Fox in _Gandhian Utopia_ (Boston: Beacon Press, 1989). Beyond the picture Kedourie sketches of Orientalism spun by indigenous nationalists as an anti-European tool, Fox provides a framework for understanding agency. Cultural rebounding is a dialogic process involving multiple “authors,” whose concepts and ideology are at once shaped and then reshaped by the proverbial Other. Fox’s extension allows us to view the process of the development of nationalism in India as a dialogic, collaborative event involving agents/agency on the side of both Europeans and Indians.
+
+<!-- page 347 -->
 
 _Notes to Pages 11–17_ | 309 
 
@@ -3019,7 +3722,9 @@ _Notes to Pages 11–17_ | 309
 
 49. Ibid. 
 
-50. In the most recent edition of _Imagined Communities_ (2006), Anderson describes at length the process by which the book has come to be published in twenty-nine languages and speculates regarding its widespread use and ongoing popularity as a pedagogical tool (226–27). 
+50. In the most recent edition of _Imagined Communities_ (2006), Anderson describes at length the process by which the book has come to be published in twenty-nine languages and speculates regarding its widespread use and ongoing popularity as a pedagogical tool (226–27).
+
+<!-- page 348 -->
 
 310 | _Notes to Pages 17–22_ 
 
@@ -3059,7 +3764,9 @@ _Nationalism_ , 143–68.
 
 77. Smith, _Ethno-symbolism and Nationalism_ , 13–14, 18, 24–25, 60; Smith, _Nationalism_ , 57. 
 
-78. Smith, _Nationalism_ , 57. 
+78. Smith, _Nationalism_ , 57.
+
+<!-- page 349 -->
 
 _Notes to Pages 22–24_ | 311 
 
@@ -3067,7 +3774,9 @@ _Notes to Pages 22–24_ | 311
 
 80. Although several articles indirectly related to the subject of the development of Iranian nationalism are of note, the scarcity of English-language materials on the subject is made painfully obvious by this nearly comprehensive listing: Ervand Abrahamian, “Kasravi: The Integrative Nationalist of Iran,” _Middle Eastern Studies_ 9, no. 3 (1973): 271–95; Reza M. Ghods, “Iranian Nationalism and Reza Shah,” _Middle Eastern Studies_ 27, no. 1 (1991): 35–45; Homayoun Katouzian, “Nationalist Trends in Iran, 1921–1926,” _International Journal of Middle East Studies_ 10, no. 4 (1979): 533–51; Nikki R. Keddie, “Religion and Irreligion in Early Iranian Nationalism,” _Comparative Studies in Society and History_ 4, no. 3 (1962): 265–95; Mehrdad Kia, “Nationalism, Modernism, and Islam in the Writings of Talibov-i-Tabrizi,” _Middle Eastern Studies_ 30, no. 2 (1994): 201–23; Jan Weryho, “The Persian Language and Shia as Nationalist Symbols: A Historical Survey,” _Canadian Review of Studies in Nationalism_ 13, no. 1 (1986): 49–55; Firoozeh Kashani-Sabet, “Fragile Frontiers: The Diminishing Domains of Qajar Iran,” _International Journal of Middle East Studies_ 29, no. 2 (1997): 205–34; and Mehrzad Boroujerdi, “Contesting Nationalist Constructions of Iranian Identity,” _Critique_ , no. 12 (Spring 1998): 43–56. Sussan Siavoshi’s _Liberal Nationalism in Iran: The Failure of a Movement_ (Boulder, CO: Westview, 1990) focuses on the failure rather than the development of liberal nationalism in Iran. The two other book-length manuscripts on the subject are considered later in this chapter: Kashani-Sabet, _Frontier Fictions_ , and Afshin Marashi, _National– izing Iran: Culture, Power, and the State, 1870 1940_ (Seattle: Univ. of Washington Press, 2008). As I was preparing my book for publication, Ali Ansari’s _The Politics of Nationalism in Iran_ (Cambridge: Cambridge Univ. Press, 2012) was published. Whether this welcome contribution to the fi eld stands “as the fi rst book-length study of Iranian nationalism in nearly fi ve decades” (advertising abstract) is arguable in light of the works previously mentioned, there can be no doubt that it joins a small handful at most. 
 
-81. For exaltation of the Pahlavis, see Donald Wilber, _Riza Shah Pahlavi: The Resurrection and Reconstruction of Iran_ (Hicksville, NY: Exposition Press, 1975); Peter Avery, _Modern Iran_ (New York: Praeger, 1967); James A. Bill, _The Politics of Iran: Groups, Classes, and Modernization_ (Columbus, OH: Merrill, 1972); George Baldwin, _Planning and Development in Iran_ (Baltimore: Johns Hopkins Univ. Press, 1967); Amin Banani, _The Modernization of Iran, 1921–1941_ (Stanford, CA: Stanford Univ. Press, 1961); and especially Roger Savory, “Social Development in Iran during the Pahlavi Era,” in _Iran under the Pahlavis_ , edited by George Lenczowski, 85–127 (Stanford, CA: Hoover Institution Press, 1978). 
+81. For exaltation of the Pahlavis, see Donald Wilber, _Riza Shah Pahlavi: The Resurrection and Reconstruction of Iran_ (Hicksville, NY: Exposition Press, 1975); Peter Avery, _Modern Iran_ (New York: Praeger, 1967); James A. Bill, _The Politics of Iran: Groups, Classes, and Modernization_ (Columbus, OH: Merrill, 1972); George Baldwin, _Planning and Development in Iran_ (Baltimore: Johns Hopkins Univ. Press, 1967); Amin Banani, _The Modernization of Iran, 1921–1941_ (Stanford, CA: Stanford Univ. Press, 1961); and especially Roger Savory, “Social Development in Iran during the Pahlavi Era,” in _Iran under the Pahlavis_ , edited by George Lenczowski, 85–127 (Stanford, CA: Hoover Institution Press, 1978).
+
+<!-- page 350 -->
 
 312 | _Notes to Pages 24–28_ 
 
@@ -3089,7 +3798,9 @@ _Notes to Pages 22–24_ | 311
 
 90. Vaziri, _Iran as Imagined Nation_ , 3. 
 
-91. Ibid., 189. The portion of Cottam’s sentence quoted by Vaziri was itself paraphrased from an interview Cottam conducted in Tabriz in 1952, which Cottam explained in _Nationalism in Iran_ as “the bald face assertion by two American missionaries” and then juxtaposed with a commonly expressed nationalist view in a letter to the editor of _The Near East_ , July 26, 1912, that “the poorest Persian lad gloats over the history of the conquest of India by Nader Shah or over the doings of the old heroes of Ferdowsi” (quoted in Cottam, _Nationalism in_ 
+91. Ibid., 189. The portion of Cottam’s sentence quoted by Vaziri was itself paraphrased from an interview Cottam conducted in Tabriz in 1952, which Cottam explained in _Nationalism in Iran_ as “the bald face assertion by two American missionaries” and then juxtaposed with a commonly expressed nationalist view in a letter to the editor of _The Near East_ , July 26, 1912, that “the poorest Persian lad gloats over the history of the conquest of India by Nader Shah or over the doings of the old heroes of Ferdowsi” (quoted in Cottam, _Nationalism in_
+
+<!-- page 351 -->
 
 _Notes to Pages 28–31_ | 313 
 
@@ -3115,7 +3826,9 @@ _Iran_ , 26–27). Although Cottam does not make a defi nitive statement one way
 
 101. Said, _Orientalism_ , 5–6, original emphasis. 
 
-102. Foucault, _Power/Knowledge_ , 119. To make this theory of power relevant to authoritarian states and the unlimited possibilities of physical power in a dictatorship, Foucault recognizes the juridical power of the state over its subjects: “Slavery is not a power relationship when man is in chains. . . . In this game freedom may well appear as the condition 
+102. Foucault, _Power/Knowledge_ , 119. To make this theory of power relevant to authoritarian states and the unlimited possibilities of physical power in a dictatorship, Foucault recognizes the juridical power of the state over its subjects: “Slavery is not a power relationship when man is in chains. . . . In this game freedom may well appear as the condition
+
+<!-- page 352 -->
 
 314 | _Notes to Pages 31–32_ 
 
@@ -3131,7 +3844,9 @@ _–_ 105. Eugene F. Irschick, _Dialog and History: Constructing South India, 17
 
 107. Another study of Indian identity and sociopolitical developments that demonstrates the dialectics in power relationships and the interpretation of knowledge between elites and nonelites is Shahid Amin, “Gandhi as Mahatma: Gorakhpur District, Eastern UP, 1921–2,” in _Selected Subaltern Studies_ , edited by Ranajit Guha and Gayatri Spivak, 288–342 (New York: Oxford Univ. Press, 1988). By juxtaposing Gandhi’s intentions and actions as he toured the district of Gorakhpur to spread a political message with the concerns of the region’s peasants during and after his visit, Amin shows how nonelites can use and manipulate the knowledge and power of elites to fulfi ll their own interests, needs, and desires (288–342). It is with this theoretical understanding of power relationships and agency that I have approached the subject of Iranian nationalism and researched the various roles and projects of individuals in its development, in contrast to textual analyses such as those by Said and Vaziri, which forward monologic interpretations of relationships between nations and citizens, between elites and nonelites, and between Iran and the West in the evolution of national identity. 
 
-108. Irschick’s work is not cited in Kashani-Sabet’s book _Frontier Fictions_ , so there appears to be no direct relationship. Similarly, one review of _Frontier Fictions_ noted the 
+108. Irschick’s work is not cited in Kashani-Sabet’s book _Frontier Fictions_ , so there appears to be no direct relationship. Similarly, one review of _Frontier Fictions_ noted the
+
+<!-- page 353 -->
 
 _Notes to Pages 32–40_ | 315 
 
@@ -3165,7 +3880,9 @@ such as Partha Chatterjee, Prasenjit Duara, and Gyan Prakash (see Afshin Marashi
 
 125. See Edmund Burke III and David N. Yaghoubian, “Middle Eastern Societies and Ordinary People’s Lives,” in _Struggle and Survival in the Modern Middle East_ , 2nd ed., edited by Edmund Burke III and David N. Yaghoubian (Berkeley: Univ. of California Press, 2006), 6. 
 
-126. Ibid., 6. The quote comes from the introduction to the second edition of _Struggle and Survival in the Modern Middle East_ , but Burke alone should be credited with the ideas. Moshe Behar laments the “ghettoization” of the scholarship on nationalism in the Middle East and limitations imposed by the parallel eff orts of historians and theorists, suggesting ways to enable meaningful comparative research (“Do Comparative and Regional Studies of Nationalism Intersect?” _International Journal of Middle East Studies_ 37 [2005]: 587–612). It 
+126. Ibid., 6. The quote comes from the introduction to the second edition of _Struggle and Survival in the Modern Middle East_ , but Burke alone should be credited with the ideas. Moshe Behar laments the “ghettoization” of the scholarship on nationalism in the Middle East and limitations imposed by the parallel eff orts of historians and theorists, suggesting ways to enable meaningful comparative research (“Do Comparative and Regional Studies of Nationalism Intersect?” _International Journal of Middle East Studies_ 37 [2005]: 587–612). It
+
+<!-- page 354 -->
 
 316 | _Notes to Pages 40–42_ 
 
@@ -3181,7 +3898,9 @@ is of note that Behar draws from the enduring theories of Anderson, Gellner, Bre
 
 132. The methods and process by which the narrator and oral historian participate in the joint construction of narrative intended for publication is detailed by Rebecca Jones in “Blended Voices: Crafting a Narrative from Oral History Interviews,” _Oral History Review_ 31, no. 1 (2004): 23–42. Virginia Aksan and Cynthia Nelson refl ect on the relationship between subject and historian, imagination, memory, and historicism in the process of writing biographies in “The Question of Writing Biography in the Premodern Middle East” and “Writing Culture, Writing Lives: Fictional Boundaries,” respectively, in _Auto/ Biography and the Construction of Identity and Community in the Middle East_ , edited by Mary Ann Fay, 191–200, 201–14 (New York: Palgrave, 2001). For a discussion of the ethical considerations and human subjects protocol oral historians must utilize, see the Oral History Association’s _Principles and Best Practices for Oral History_ (2009), at http://www.oralhistory .org/about/principles-and-practices/, accessed Jan. 30, 2014. 
 
-133. If the researcher’s goal is to use the stories of individuals to study broader historical developments and processes rather than to create a subject-specifi c public archive or to give “voice” through direct quotation, one can be very successful in integrating oral 
+133. If the researcher’s goal is to use the stories of individuals to study broader historical developments and processes rather than to create a subject-specifi c public archive or to give “voice” through direct quotation, one can be very successful in integrating oral
+
+<!-- page 355 -->
 
 _Notes to Pages 42–43_ | 317 
 
@@ -3195,7 +3914,9 @@ evidence. For an example of social biographies created entirely without the use 
 
 137. Alice Hoff man, “Reliability and Validity in Oral History,” in _Oral History: An Interdisciplinary Anthology_ , edited by David K. Dunaway and Willa K. Baum, 87–93 (London: Sage, 1996). Because the written form of social biography does not rely on the direct quotation of the research subject, it is an eff ective style when developing a biography of a subject who refuses to be recorded or directly quoted. This issue is pursued in chapter 2. 
 
-138. For a thorough consideration of the challenges that the elicitation and interpretation of oral evidence pose to the researcher and of issues of reliability and validity concerning research subjects’ historical memory, see Paul Thompson, _The Voice of the Past: Oral History_ , 3rd ed. (Oxford: Oxford Univ. Press, 2000), esp. 118–89. See also Dennis Tedlock, _The Spoken Word and the Work of Interpretation_ (Philadelphia: Univ. of Pennsylvania Press, 1983); Valerie Yow, _Recording Oral History: A Guide for the Humanities and Social Sciences_ , 2d ed. (Lanham, MD: Altamira Press, 2005), 35–67; and Valerie Yow, “‘Do I Like Them Too 
+138. For a thorough consideration of the challenges that the elicitation and interpretation of oral evidence pose to the researcher and of issues of reliability and validity concerning research subjects’ historical memory, see Paul Thompson, _The Voice of the Past: Oral History_ , 3rd ed. (Oxford: Oxford Univ. Press, 2000), esp. 118–89. See also Dennis Tedlock, _The Spoken Word and the Work of Interpretation_ (Philadelphia: Univ. of Pennsylvania Press, 1983); Valerie Yow, _Recording Oral History: A Guide for the Humanities and Social Sciences_ , 2d ed. (Lanham, MD: Altamira Press, 2005), 35–67; and Valerie Yow, “‘Do I Like Them Too
+
+<!-- page 356 -->
 
 318 | _Notes to Pages 43–49_ 
 
@@ -3215,7 +3936,9 @@ Much?’ Eff ects of the Oral History Interview on the Interviewer and Vice Vers
 
 4. Information about Set Khan Astvatsatourian was derived from an article in _Alik_ by Andranik Hovouyan, “The Setkhanian or Saeedkhanian Family,” Mar. 23, 1994; Ra’in, _Iraniyan-i Armani_ ; and oral interviews with Mara Setkhanian-Martin in July and November 1995, Encino, California, and with Alexander Setkhanian in September 1995, Encino, California. 
 
-5. “The Setkhanian or Saeedkhanian Family.” For a comprehensive history of the Armenian trade diaspora and merchants of New Julfa, see Sebouh Aslanian, _From the Indian_ 
+5. “The Setkhanian or Saeedkhanian Family.” For a comprehensive history of the Armenian trade diaspora and merchants of New Julfa, see Sebouh Aslanian, _From the Indian_
+
+<!-- page 357 -->
 
 _Notes to Pages 49–52_ | 319 
 
@@ -3241,7 +3964,9 @@ _Ocean to the Mediterranean: The Global Trade Networks of Armenian Merchants fro
 
 15. Like contemporary Middle Eastern reformers in the Ottoman Empire and Egypt who faced similar challenges, the Qajars were concerned mainly with military reforms in the fi rst part of the nineteenth century. It would be almost a century before the concept of reform included large-scale political, legal, and social reforms in addition to military ones. 
 
-16. The development of a modern army generated opposition from many traditional interest groups such as the ulama, who were for the most part against foreign military 
+16. The development of a modern army generated opposition from many traditional interest groups such as the ulama, who were for the most part against foreign military
+
+<!-- page 358 -->
 
 320 | _Notes to Page 52_ 
 
@@ -3255,7 +3980,9 @@ advisers and Western uniforms. Hamid Algar comments that, like contemporary Otto
 
 20. Algar, _Religion and State in Iran_ , 73–81. Algar details Abbas Mirza’s Nezam-e Jedid, his close relationships with Christians and foreigners, and his poor relationship with the ulama in Tabriz. He points out that there is no evidence of specifi c objections by the ulama to Western military uniforms, although objections were likely voiced in private (78). Indeed, some members of the ulama were critical of both Abbas Mirza and Western infl uences, but they were simultaneously concerned about the regime’s weakness to defend itself. Voicing their opposition to the DeReuter concession in 1872, the Iranian ulama would cement their fi nancial and political ties to the bazaaris and guilds and show their opposition to Western military infl uence and political interference increasingly through the events of the Tobacco Revolt in 1892 and the Constitutional Revolution in 1905. It should be noted that although the ulama were anti-Western in many ways, they supported and in fact helped lead the movement to adopt Western institutions (constitution and parliament) to help fend off  Western interference. 
 
-21. “The Setkhanian or Saeedkhanian Family”; Ra’in, _Iraniyan-i Armani_ , 57. 
+21. “The Setkhanian or Saeedkhanian Family”; Ra’in, _Iraniyan-i Armani_ , 57.
+
+<!-- page 359 -->
 
 _Notes to Pages 53–55_ | 321 
 
@@ -3283,7 +4010,9 @@ _Notes to Pages 53–55_ | 321
 
 33. Kazemzadeh, “Persian Cossack Brigade,” 352. 
 
-34. To overgeneralize a bit, in this era preceding the discovery and need for Iranian oil the Russians’ basic goal was to gain infl uence in Iran with hopes of attaining the prize of a warm-water port on the Persian Gulf or through Afghanistan, and the British were concerned primarily with using Iran as a buff er to keep Russia away from its goal and thus 
+34. To overgeneralize a bit, in this era preceding the discovery and need for Iranian oil the Russians’ basic goal was to gain infl uence in Iran with hopes of attaining the prize of a warm-water port on the Persian Gulf or through Afghanistan, and the British were concerned primarily with using Iran as a buff er to keep Russia away from its goal and thus
+
+<!-- page 360 -->
 
 _–_ 322 | _Notes to Pages 56 57_ 
 
@@ -3301,7 +4030,9 @@ away from Britain’s most important colonial holding: India and the Indian Ocea
 
 41. Kazemzadeh, “Persian Cossack Brigade,” 352. Picot’s report describes how the shah was most concerned with the uniforms rather than with things that one would normally take into account in creating an eff ective fi ghting force (“Military Organization of the Persian Army in 1899,” 211, 247). 
 
-42. Ibid. Kazemzadeh’s 1956 article is one of the only secondary summaries (in any language) dealing specifi cally with the Cossack Brigade. Kazemzadeh relied mostly on the diaries of the fi rst (Domantovich) and fi fth (Kosogovskii) commanders of the brigade: Vladimir Andreevich Kosogovskii [Kosagovskij], “Persija v Kontse XIX veka” (Persia at the end of the 19th century), _Novyj Vostok_ 3 (1923): 446–69, and “Ocherk razvitija Persidskoj Kazach’ej Brigady” (Essay on the development of the Persian Cossack Brigade), _Novyj Vostok_ 4 (1923): 390–402; A. I. Domantovich, “Vospominanija o prebyvanii pervoj russkoj voennoj missii v Persii” (Memoirs about the fi rst Russian military mission in Persia), _Russkaia starina_ 133, no. 2 (1908): 331–40; no. 3: 575–83; no. 4: 211–16. The only recent eff ort to expand on this work is Tousi, “The Persian Army.” Owing to the scarcity of secondary sources on the Persian military, this article is helpful, although it is a repetition of Kazemzadeh’s article “Persian Cossack Brigade” and its sources, with the addition of information taken verbatim from Picot’s report to the British Foreign Offi  ce in 1899. One of the few Iranian sources to discuss the origins of the 
+42. Ibid. Kazemzadeh’s 1956 article is one of the only secondary summaries (in any language) dealing specifi cally with the Cossack Brigade. Kazemzadeh relied mostly on the diaries of the fi rst (Domantovich) and fi fth (Kosogovskii) commanders of the brigade: Vladimir Andreevich Kosogovskii [Kosagovskij], “Persija v Kontse XIX veka” (Persia at the end of the 19th century), _Novyj Vostok_ 3 (1923): 446–69, and “Ocherk razvitija Persidskoj Kazach’ej Brigady” (Essay on the development of the Persian Cossack Brigade), _Novyj Vostok_ 4 (1923): 390–402; A. I. Domantovich, “Vospominanija o prebyvanii pervoj russkoj voennoj missii v Persii” (Memoirs about the fi rst Russian military mission in Persia), _Russkaia starina_ 133, no. 2 (1908): 331–40; no. 3: 575–83; no. 4: 211–16. The only recent eff ort to expand on this work is Tousi, “The Persian Army.” Owing to the scarcity of secondary sources on the Persian military, this article is helpful, although it is a repetition of Kazemzadeh’s article “Persian Cossack Brigade” and its sources, with the addition of information taken verbatim from Picot’s report to the British Foreign Offi  ce in 1899. One of the few Iranian sources to discuss the origins of the
+
+<!-- page 361 -->
 
 _Notes to Pages 57–59_ | 323 
 
@@ -3327,7 +4058,9 @@ brigade is Qa’im Maqami, _Tarikh-i tahavvulat-i siyasi-yi nizam-i Iran_ . The 
 
 52. Russian citizenship document, 1888, Setkhanian Collection. 
 
-53. _Farman_ reinstating Iskandar Khan to rank of _sarhang_ (colonel), Ramadan, 1307/1888, Setkhanian Collection. It should be noted that at age twenty-three Iskandar Khan was entering into service at the same rank of his father, who had served the government and military for some twenty-fi ve years. Although this high rank might make sense in light of the education and type of training Iskandar Khan received, there are also numerous examples of ranks given away to individuals for reasons of nepotism and whim. For instance, Nasir al-Din Shah assigned the rank of _sartip_ (brigadier general) to his eight-year-old nephew Malijak Aziz al-Sultan, which drove both the Royalists and the opposition mad and was 
+53. _Farman_ reinstating Iskandar Khan to rank of _sarhang_ (colonel), Ramadan, 1307/1888, Setkhanian Collection. It should be noted that at age twenty-three Iskandar Khan was entering into service at the same rank of his father, who had served the government and military for some twenty-fi ve years. Although this high rank might make sense in light of the education and type of training Iskandar Khan received, there are also numerous examples of ranks given away to individuals for reasons of nepotism and whim. For instance, Nasir al-Din Shah assigned the rank of _sartip_ (brigadier general) to his eight-year-old nephew Malijak Aziz al-Sultan, which drove both the Royalists and the opposition mad and was
+
+<!-- page 362 -->
 
 324 | _Notes to Pages 59–61_ 
 
@@ -3351,7 +4084,9 @@ even mentioned by Mirza Riza Kermani (who assassinated Nasir al-Din) as a reason
 
 62. Kosogovskii, _Iz tegeranskogo_ , 56. 
 
-63. Colonel Kosogovski watched as the _sarbazan_ (soldiers) and their commanding offi  - cers broke rank while on military escort duty for the shah and ruined some fruit trees foraging for snacks ( _Iz tegeranskogo_ , 56). In his memoirs, he also outlines the army’s weekly 
+63. Colonel Kosogovski watched as the _sarbazan_ (soldiers) and their commanding offi  - cers broke rank while on military escort duty for the shah and ruined some fruit trees foraging for snacks ( _Iz tegeranskogo_ , 56). In his memoirs, he also outlines the army’s weekly
+
+<!-- page 363 -->
 
 _Notes to Pages 61–64_ | 325 
 
@@ -3379,7 +4114,9 @@ schedule, which was shaped to allow maximum time for personal and business activ
 
 74. Award of Order of St. Stanislaus of the Second Degree, 1317/1900, Setkhanian Collection. 
 
-75. Iskandar Khan and Maryam are identifi ed as the parents in the certifi cation of the 1896 birth of Hovannes Setkhanian handwritten in Armenian and Russian, copied and notarized from the “Metric Book,” or church register of births, deaths, and baptisms, in 1333/1915, Setkhanian Collection. 
+75. Iskandar Khan and Maryam are identifi ed as the parents in the certifi cation of the 1896 birth of Hovannes Setkhanian handwritten in Armenian and Russian, copied and notarized from the “Metric Book,” or church register of births, deaths, and baptisms, in 1333/1915, Setkhanian Collection.
+
+<!-- page 364 -->
 
 326 | _Notes to Pages 64–68_ 
 
@@ -3403,7 +4140,9 @@ schedule, which was shaped to allow maximum time for personal and business activ
 
 85. Homa Katouzian explains that the word used in the movement for a constitution, _mashruteh_ , means “constrained,” “conditioned,” or “qualifi ed.” The central demand of the “revolution” was thus for a constrained or qualifi ed monarchy—in other words, a limitation of the arbitrary power of the shah, who was taking out large foreign loans and was perceived widely to be selling out to the interests of foreigners. Radical political, social, or economic change was not on the agenda of the majority of revolutionaries as they rallied in support for the movement ( _The Political Economy of Modern Iran: Despotism and Pseudomodernism, 1926–1979_ [New York: New York Univ. Press, 1981], 156; see also Katouzian, “Nationalist Trends in Iran”). 
 
-_–_ 86. See Browne, _The Persian Revolution of 1905 1909_ . Browne’s classic work is a unique and noteworthy source for its attention to substantiated detail and for its analysis of British newspaper coverage of the Persian Revolution—one of the fi rst serious critiques of the bias in Western media coverage of Iran. See also Shuster, _The Strangling of Persia_ . Shuster, the American fi nancial adviser brought in as treasurer general in Persia from 1910 to 1911 used as one of his introductory images a photograph showing the Cossack Brigade from around 1909. Iskandar Khan stands next to the Russian colonel Liakhov and the nine-year-old Ahmad Shah Qajar (xxxviii). See illustrations 13a and 13b. For more recent scholarship on the Constitutional Revolution, see Afary, _The Iranian Constitutional Revolution_ , and Houshang Chehabi and Vanessa Martin, eds., _Iran’s Constitutional Revolution: Popular Politics, Cultural Transformations, and Transnational Connections_ (New York: I. B. Tauris, 2010). Houri Berberian provides insight into the activities and motivations of 
+_–_ 86. See Browne, _The Persian Revolution of 1905 1909_ . Browne’s classic work is a unique and noteworthy source for its attention to substantiated detail and for its analysis of British newspaper coverage of the Persian Revolution—one of the fi rst serious critiques of the bias in Western media coverage of Iran. See also Shuster, _The Strangling of Persia_ . Shuster, the American fi nancial adviser brought in as treasurer general in Persia from 1910 to 1911 used as one of his introductory images a photograph showing the Cossack Brigade from around 1909. Iskandar Khan stands next to the Russian colonel Liakhov and the nine-year-old Ahmad Shah Qajar (xxxviii). See illustrations 13a and 13b. For more recent scholarship on the Constitutional Revolution, see Afary, _The Iranian Constitutional Revolution_ , and Houshang Chehabi and Vanessa Martin, eds., _Iran’s Constitutional Revolution: Popular Politics, Cultural Transformations, and Transnational Connections_ (New York: I. B. Tauris, 2010). Houri Berberian provides insight into the activities and motivations of
+
+<!-- page 365 -->
 
 _Notes to Page 68_ | 327 
 
@@ -3419,7 +4158,9 @@ the Armenian Dashnak, Hunchak, and Social Democrat Parties, which contributed to
 
 91. Pension allotment of deceased Marteros Khan spelled out in Cyrillic type, 1324/1906, Setkhanian Collection. 
 
-92. Pension allotment of Marteros Khan, disputed, spelled out in Cyrillic type, 1335/1917, Setkhenian Collection. To distinguish between the two Iskandars, both of whom were in the Cossack Brigade, fellow soldiers and family members would refer to Iskandar Khan Setkhanian, who was older and of a higher rank, as “Iskandar-e Bozorg” (Big Iskandar Khan) and Marteros Khan’s son as “Iskandar-e Kuchek” (Little Iskandar Khan) (oral interview, Mara Setkhanian-Martin, July 1995). The fact that the Russian offi  cial who wrote 
+92. Pension allotment of Marteros Khan, disputed, spelled out in Cyrillic type, 1335/1917, Setkhenian Collection. To distinguish between the two Iskandars, both of whom were in the Cossack Brigade, fellow soldiers and family members would refer to Iskandar Khan Setkhanian, who was older and of a higher rank, as “Iskandar-e Bozorg” (Big Iskandar Khan) and Marteros Khan’s son as “Iskandar-e Kuchek” (Little Iskandar Khan) (oral interview, Mara Setkhanian-Martin, July 1995). The fact that the Russian offi  cial who wrote
+
+<!-- page 366 -->
 
 328 | _Notes to Pages 69–71_ 
 
@@ -3443,7 +4184,9 @@ the decision on the disputed pension in 1917 did not employ these nicknames and 
 
 101. Browne, _The Persian Revolution of 1905–1909_ , 205–9; Qa’im Maqami, _Tarikh-i tahavvulat-i siyasi-yi nizam-i Iran_ , chap. 9. 
 
-102. Although Iskandar Khan and other high-ranking offi  cers gave orders to fi re on the Baharistan and Majles members, only Hussein Pasha Khan (Amir Bahador Jang) receives credit in Farsi, Russian, and English history books and newspapers for leadership during the siege. This would prove to be a stroke of luck for Iskandar Khan, who received a promotion for his services during the siege but was not associated with it in written accounts of the battle. 
+102. Although Iskandar Khan and other high-ranking offi  cers gave orders to fi re on the Baharistan and Majles members, only Hussein Pasha Khan (Amir Bahador Jang) receives credit in Farsi, Russian, and English history books and newspapers for leadership during the siege. This would prove to be a stroke of luck for Iskandar Khan, who received a promotion for his services during the siege but was not associated with it in written accounts of the battle.
+
+<!-- page 367 -->
 
 _Notes to Pages 71–74_ | 329 
 
@@ -3465,7 +4208,9 @@ _Notes to Pages 71–74_ | 329
 
 111. A 21.5-by-35-centimeter document, handwritten in Farsi and Russian on Russian consulate letterhead, Setkhenian Collection. 
 
-112. _Times_ , July 6, 1909, cited in Browne, _Persian Revolution_ , 309–10. 
+112. _Times_ , July 6, 1909, cited in Browne, _Persian Revolution_ , 309–10.
+
+<!-- page 368 -->
 
 330 | _Notes to Pages 74–80_ 
 
@@ -3515,7 +4260,9 @@ ond rank, Rabi ul-Sani, 1330/1912; _farman_ awarding of regalia and pendant with
 
 130. Military leave pass on General Vadbolski’s personal Cossack Brigade letterhead, 
 
-formatted and typed in Cyrillic, Oct. 3, 1913, Setkhanian Collection. 
+formatted and typed in Cyrillic, Oct. 3, 1913, Setkhanian Collection.
+
+<!-- page 369 -->
 
 _Notes to Pages 80–83_ | 331 
 
@@ -3541,7 +4288,9 @@ _–_ 139. R. H. Ullman, _Anglo-Soviet Relations 1917 1921_ (Princeton, NJ: Prin
 
 141. Ibid. 
 
-142. In his autobiography _Blood and Oil: Memoirs of a Persian Prince_ , written with Roxane Farmanfarmaian (New York: Random House, 1997), Manucher Farmanfarmaian vividly describes his dismay upon his return to Tehran in 1941 after studying abroad when he realized that almost all of the family property in Tehran had been seized: “I must have stood there for several seconds before I could shake myself from the reverie of what was clearly gone. Vaguely I remembered my mother having written that Reza Shah had seized 
+142. In his autobiography _Blood and Oil: Memoirs of a Persian Prince_ , written with Roxane Farmanfarmaian (New York: Random House, 1997), Manucher Farmanfarmaian vividly describes his dismay upon his return to Tehran in 1941 after studying abroad when he realized that almost all of the family property in Tehran had been seized: “I must have stood there for several seconds before I could shake myself from the reverie of what was clearly gone. Vaguely I remembered my mother having written that Reza Shah had seized
+
+<!-- page 370 -->
 
 _–_ 332 | _Notes to Pages 83 89_ 
 
@@ -3557,7 +4306,9 @@ the land of the compound and literally thrown the family into the street. They�
 
 ## **3. Hagob Hagobian** 
 
-1. This chapter has been compiled from two previously published essays on the life and truck-driving activities of Hagob Hagobian: David Yaghoubian, “Hagob Hagobian, an Armenian Truck Driver in Iran,” in Burke and Yaghoubian, eds., _Struggle and Survival in the Modern Middle East_ , 178–86, and “Shifting Gears in the Desert: Trucks, Guilds, and National Development in Iran, 1921–1941,” _Jusur_ 13 (1997): 1–36. Information about Hagobian’s life and the Armenian-Assyrian truck drivers’ guild is based on oral interviews with Hagob Hagobian conducted between March and June 1989, Glendale, California, and an oral 
+1. This chapter has been compiled from two previously published essays on the life and truck-driving activities of Hagob Hagobian: David Yaghoubian, “Hagob Hagobian, an Armenian Truck Driver in Iran,” in Burke and Yaghoubian, eds., _Struggle and Survival in the Modern Middle East_ , 178–86, and “Shifting Gears in the Desert: Trucks, Guilds, and National Development in Iran, 1921–1941,” _Jusur_ 13 (1997): 1–36. Information about Hagobian’s life and the Armenian-Assyrian truck drivers’ guild is based on oral interviews with Hagob Hagobian conducted between March and June 1989, Glendale, California, and an oral
+
+<!-- page 371 -->
 
 _– Notes to Pages 89 92_ | 333 
 
@@ -3569,7 +4320,9 @@ interview with Arshak Gorjian—Hagob’s best friend, _kavor_ (best man), and f
 
 4. On the history of Presbyterian missionary activity in Iran and implications for subsequent Iran–US relations, see Michael Zirinsky, “Onward Christian Soldiers: Presbyterian Missionaries and the Ambiguous Origins of American Relations with Iran,” in _Altruism and Imperialism: Western Cultural and Religious Missions in the Middle East_ , edited by Reeva S. Simon and Eleanor H. Tejirian, 236–52 (New York: Columbia Univ. Press, 2002). 
 
-5. By 1928, the Iranian government required a driver’s test for licenses. The test consisted of a series of tight maneuvers in forward gear. Arshak Gorjian’s test, taken in 1927 before this licensing was developed, was given by his _arbab_ (master), who spontaneously gave him the wheel on the road between Rasht and Tehran and required him to negotiate the streets and _koutche_ s all the way to the Tehran bazaar. He knew he had passed the test when they arrived and he had not hit or killed anything (oral interview, Arshak Gorjian, May 14, 1995). This process needs further research because it is not clear how much power a guild had over an individual who independently passed the driver’s test and acquired a 
+5. By 1928, the Iranian government required a driver’s test for licenses. The test consisted of a series of tight maneuvers in forward gear. Arshak Gorjian’s test, taken in 1927 before this licensing was developed, was given by his _arbab_ (master), who spontaneously gave him the wheel on the road between Rasht and Tehran and required him to negotiate the streets and _koutche_ s all the way to the Tehran bazaar. He knew he had passed the test when they arrived and he had not hit or killed anything (oral interview, Arshak Gorjian, May 14, 1995). This process needs further research because it is not clear how much power a guild had over an individual who independently passed the driver’s test and acquired a
+
+<!-- page 372 -->
 
 334 | _Notes to Pages 92–96_ 
 
@@ -3591,7 +4344,9 @@ vehicle or how the licensing procedure was adapted to or became a part of the pr
 
 13. Michael Fischer provides commentary on the persistence of ethnic divisions of labor in the Iranian bazaar, noting that whereas the Jews, Turks, and Persians often formed subgroups within the bazaar, Assyrians were important in the trucking industry, and Armenians in the delicatessen business (“Persian Society, Transformation and Strain,” in _Twentieth Century Iran_ , edited by Hossein Amirsadeghi [New York: Holmes & Meier, 1977], 180, 268). Fischer does not mention how or if this ethnic grouping related to guild structures, but I have not yet seen evidence that specifi c guilds ever consisted of exclusive ethnicities. 
 
-14. Most sectors of traditional handcraft production—the primary producer of goods in Iran—would suff er from inclusion in the expanding world economy, which would, in Wallerstinian terminology, peripheralize Iran. Immanuel Wallerstein explains the 
+14. Most sectors of traditional handcraft production—the primary producer of goods in Iran—would suff er from inclusion in the expanding world economy, which would, in Wallerstinian terminology, peripheralize Iran. Immanuel Wallerstein explains the
+
+<!-- page 373 -->
 
 _Notes to Pages 97–101_ | 335 
 
@@ -3619,7 +4374,9 @@ dynamics of core–periphery relations in _The Modern World-System_ (New York: A
 
 25. Ibid., 94. It wasn’t until 1938 that the rail link from the Caspian Sea to the Persian Gulf (870 miles of line with more than 4,700 bridges and 224 tunnels) was fi nished. Wilfred Knapp explains that during and after its completion, economists criticized the railway as a waste of resources. They argued that the construction of roads would have used a signifi cantly greater proportion of indigenous skill and materials and that powerful trucks were better suited to carry heavy loads over Iran’s steep mountain passes. Also, for some unknown reason, the railway missed all major urban centers except for Ahwaz and Tehran (“1921–1941: The Period of Riza Shah,” in Amirsadeghi, ed., _Twentieth Century Iran_ , 36). 
 
-26. Millspaugh, _Financial and Economic Situation of Persia_ , 16. The League of Nations’ _International Statistical Yearbook 1926 and 1927_ estimated that the number of automobiles in 
+26. Millspaugh, _Financial and Economic Situation of Persia_ , 16. The League of Nations’ _International Statistical Yearbook 1926 and 1927_ estimated that the number of automobiles in
+
+<!-- page 374 -->
 
 336 | _Notes to Pages 101–6_ 
 
@@ -3641,7 +4398,9 @@ Iran was 4,450, whereas Egypt had 17,740 and Turkey 7,500. In terms of rail in 1
 
 36. Afshari, “The _Pishivaran_ and Merchants in Precapitalist Iranian Society,” 148. Certain craft production sectors, most notably cloth spinners and weavers, were beginning to feel the eff ects of the dumping of machine-processed textiles from Europe in the 1850s and 1860s. A few trades, such as metalsmiths and luxury carpet weavers expanded their production during this period. This issue is pursued in detail later in this chapter in the discussion of the impact of trucking on craft industry in Iran. 
 
-37. Jakob Polak, _Persien das Land und seine Bewohner_ (Persia: The land and its inhabitants) (Leipzig: n.p., 1865), 2:165–90, excerpted in Issawi, ed., _The Economic History of Iran_ , 277; Floor, “The Guilds in Iran,” 100–107. 
+37. Jakob Polak, _Persien das Land und seine Bewohner_ (Persia: The land and its inhabitants) (Leipzig: n.p., 1865), 2:165–90, excerpted in Issawi, ed., _The Economic History of Iran_ , 277; Floor, “The Guilds in Iran,” 100–107.
+
+<!-- page 375 -->
 
 _Notes to Pages 106–8_ | 337 
 
@@ -3675,7 +4434,9 @@ _Notes to Pages 106–8_ | 337
 
 52. By the time of the Second Majlis in 1909, the dynamics of the constitutional movement had changed, and the guilds and _pishivaran_ began to lose their infl uence. The new electoral laws left them with virtually no representation in the Second Majlis, which, Afshari concludes, “removed the _pishivaran_ and merchants from the political scene, and made them worried observers of the political deterioration of the country” (“The _Pishivaran_ and Merchants in Precapitalist Iranian Society,” 152). Afshari attributes their low representation in the Second Majlis to the entrance of traditional Iranian political interest groups into the movement, such as the Bakhtiaris and other tribal confederations, and the polarization of the movement between conservative (ulama, tribes) and radical (secular, nationalist, Communist) groups. 
 
-53. Although Reza Khan did not become Reza Shah until 1925, after deposing Ahmad Shah Qajar and establishing the Pahlavi dynasty, he had increasing infl uence over governmental policy after the 1921 coup d’état that made him war minister ( _sardar-i sepah_ ) (Katouzian, “Nationalist Trends in Iran,” 540–43). The text of an open letter from Iranian guilds 
+53. Although Reza Khan did not become Reza Shah until 1925, after deposing Ahmad Shah Qajar and establishing the Pahlavi dynasty, he had increasing infl uence over governmental policy after the 1921 coup d’état that made him war minister ( _sardar-i sepah_ ) (Katouzian, “Nationalist Trends in Iran,” 540–43). The text of an open letter from Iranian guilds
+
+<!-- page 376 -->
 
 338 | _Notes to Pages 108–11_ 
 
@@ -3699,7 +4460,9 @@ members stating the reasons for their support of Reza Khan in 1922 appears in Re
 
 62. Syrian guilds were sporadically taxed but, like the Ottoman guilds, were not the most important units of taxation. Citing the work of Ilyas Qudsi on Damascene guilds, Baer contrasts fi scal administration in Egypt and Syria, revealing that, unlike Egyptian traditions of guild tax collection, the Syrian urban quarter was “at least as important a unit of taxation as the guild” (ibid., 22). 
 
-63. Abraham Marcus, _The Middle East on the Eve of Modernity_ (New York: Columbia Univ. Press, 1989), 78, 172–73. The only noteworthy diff erence between the Aleppine guilds as described by Marcus and the Iranian guilds as analyzed by Floor lie in the two authors’ conclusions about guild hierarchy in each of the regions. Marcus’s view of Aleppo’s guilds as promoters of economic hierarchy (ibid., 175) confl ict with Floor’s impression of solidarity 
+63. Abraham Marcus, _The Middle East on the Eve of Modernity_ (New York: Columbia Univ. Press, 1989), 78, 172–73. The only noteworthy diff erence between the Aleppine guilds as described by Marcus and the Iranian guilds as analyzed by Floor lie in the two authors’ conclusions about guild hierarchy in each of the regions. Marcus’s view of Aleppo’s guilds as promoters of economic hierarchy (ibid., 175) confl ict with Floor’s impression of solidarity
+
+<!-- page 377 -->
 
 _Notes to Pages 111–13_ | 339 
 
@@ -3727,7 +4490,9 @@ within Iranian guild ranks (“The Guilds in Iran,” 100–116). This important
 
 75. Ibid., 89–90. 
 
-76. How the Iranian guilds coped with the challenges brought by Pahlavi modernization eff orts is an important subject that has not yet been adequately pursued. Although the guilds’ societal position and their economic role under the Qajar government in the nineteenth century has been suffi  ciently covered in a number of useful English-language works, 
+76. How the Iranian guilds coped with the challenges brought by Pahlavi modernization eff orts is an important subject that has not yet been adequately pursued. Although the guilds’ societal position and their economic role under the Qajar government in the nineteenth century has been suffi  ciently covered in a number of useful English-language works,
+
+<!-- page 378 -->
 
 340 | _Notes to Pages 114–17_ 
 
@@ -3755,7 +4520,9 @@ a view of the twentieth-century situation remains more elusive and necessitates 
 
 87. Abrahamian, “The Crowd in Iranian Politics,” 193–94. 
 
-88. Floor, “The Guilds in Iran,” 116. Floor’s points seem feasible but need to be tested with new research. 
+88. Floor, “The Guilds in Iran,” 116. Floor’s points seem feasible but need to be tested with new research.
+
+<!-- page 379 -->
 
 _Notes to Pages 117–20_ | 341 
 
@@ -3779,7 +4546,9 @@ _Notes to Pages 117–20_ | 341
 
 98. Ibid., 35. Knapp comments that the road guards’ low pay and insuffi  cient supplies made them ineff ective and led some to rob rather than to protect. 
 
-99. Recall that Baer attributed the demise of the Egyptian guilds primarily to their inclusion in (or exposure to) the world economy, which weakened them and readied them for the fi nal blow of legal restriction. Charles Issawi provides a similar assessment that underscores the impact of roads on Egyptian and Ottoman/Turkish craft industries in his 
+99. Recall that Baer attributed the demise of the Egyptian guilds primarily to their inclusion in (or exposure to) the world economy, which weakened them and readied them for the fi nal blow of legal restriction. Charles Issawi provides a similar assessment that underscores the impact of roads on Egyptian and Ottoman/Turkish craft industries in his
+
+<!-- page 380 -->
 
 342 | _Notes to Pages 121–23_ 
 
@@ -3795,7 +4564,9 @@ general survey “De-industrialization and Re-industrialization in the Middle Ea
 
 1. This chapter is based primarily on oral interviews with Sevak Saginian conducted between 1996 and 2000 in Glendale, California. In addition, Sevak was kind enough to provide extended written memoirs and responses to specifi c questions, access to documents, photographs, and books that detail the long history of the Saginian family in Iranian politics and culture and that trace his own career as Armenian Iranian community leader and parliamentary representative. Although Sevak passed away in 2003 and his wife, Nella in 2006, I would nevertheless like to express my sincere gratitude to both for their participation, assistance, hospitality, and patience as I conducted this research. 
 
-2. Sevak Saginain, written memoirs (in Farsi, clarifi ed and elaborated on in English during oral interviews), copy in my fi les; oral interview, Sevak Saginian, July 12, 1997. 
+2. Sevak Saginain, written memoirs (in Farsi, clarifi ed and elaborated on in English during oral interviews), copy in my fi les; oral interview, Sevak Saginian, July 12, 1997.
+
+<!-- page 381 -->
 
 _Notes to Pages 124–26_ | 343 
 
@@ -3811,7 +4582,9 @@ _Notes to Pages 124–26_ | 343
 
 8. For a general description of Abbas Mirza’s military reforms, see Abrahamian, _Iran between Two Revolutions_ , 52–53. For an in-depth treatment of the Caucasian wars with a political-military focus, see Atkin, _Russia and Iran_ . 
 
-9. In oral interviews, Sevak Saginian repeatedly commented that the title _sarperast-e Aramane_ gave David Khan Saginian _total_ authority in all matters concerning Armenians, yet beyond several sources that mention the title itself, I have not found corroborating evidence to support or refute this point. Ra’in’s _Iraniyan-i Armani_ contains a single _farman_ issued by Fath Ali Shah in 1832 that decrees special care for the Armenians of Isfahan by the governor and that their disputes be handled by their religious leaders (119). Sevak’s full response when I queried him a second time was, “All courts were governed by the military. And since he [Sartip David Khan Saginian] was a governor of a large region and military commander, he had the fi nal say over what happened to Armenians and Christian minorities in the courts. If there were any rulings against the Armenians, he would intervene and protect them. This included Armenians, Assyrians, and any European Christians in the region (such as technical workers, consultants, and medical experts). This position was given to him by the shah. His territory in this position covered Azerbaijan, Urmia, Shiraz, and Bushire” (oral interview, June 15, 1997). In July 1997, I asked Sevak to tell me anything else he knew of Sartip David Khan Saginian’s role as _sarperast-e Aramane_ . He stated that “David Khan’s offi  ce was in his house. From here he would issue judgments on any Christian–Muslim confl icts. I believe his decision was binding.” Asked to compare his perception of the power of the _sarperast_ with that of a twentieth-century Majles member, Sevak 
+9. In oral interviews, Sevak Saginian repeatedly commented that the title _sarperast-e Aramane_ gave David Khan Saginian _total_ authority in all matters concerning Armenians, yet beyond several sources that mention the title itself, I have not found corroborating evidence to support or refute this point. Ra’in’s _Iraniyan-i Armani_ contains a single _farman_ issued by Fath Ali Shah in 1832 that decrees special care for the Armenians of Isfahan by the governor and that their disputes be handled by their religious leaders (119). Sevak’s full response when I queried him a second time was, “All courts were governed by the military. And since he [Sartip David Khan Saginian] was a governor of a large region and military commander, he had the fi nal say over what happened to Armenians and Christian minorities in the courts. If there were any rulings against the Armenians, he would intervene and protect them. This included Armenians, Assyrians, and any European Christians in the region (such as technical workers, consultants, and medical experts). This position was given to him by the shah. His territory in this position covered Azerbaijan, Urmia, Shiraz, and Bushire” (oral interview, June 15, 1997). In July 1997, I asked Sevak to tell me anything else he knew of Sartip David Khan Saginian’s role as _sarperast-e Aramane_ . He stated that “David Khan’s offi  ce was in his house. From here he would issue judgments on any Christian–Muslim confl icts. I believe his decision was binding.” Asked to compare his perception of the power of the _sarperast_ with that of a twentieth-century Majles member, Sevak
+
+<!-- page 382 -->
 
 344 | _Notes to Pages 126–28_ 
 
@@ -3831,7 +4604,9 @@ replied, “This power was beyond that of Majles members. [In the Majles,] there
 
 16. Czar Nicholas II confi scated all church properties external to ritual practices and put Armenian schools under government jurisdiction (Berberian, _“The Love for Freedom Has No Fatherland,”_ 94. 
 
-17. Abrahamian, _Iran between Two Revolutions_ , 105. The Hnchakists’ intellectual contributions to the Constitutional Revolution and the party’s activities and attitudes in Iran during the early twentieth century are pursued at length in Chaqueri’s edited volume _The Armenians of Iran_ . See in particular Chaqueri, “Armenian-Iranians and the Birth of Iranian Socialism,” 77–118, and Aram Arkun, “Grigor Yaghikian: Writer and Journalist,” 162–89. 
+17. Abrahamian, _Iran between Two Revolutions_ , 105. The Hnchakists’ intellectual contributions to the Constitutional Revolution and the party’s activities and attitudes in Iran during the early twentieth century are pursued at length in Chaqueri’s edited volume _The Armenians of Iran_ . See in particular Chaqueri, “Armenian-Iranians and the Birth of Iranian Socialism,” 77–118, and Aram Arkun, “Grigor Yaghikian: Writer and Journalist,” 162–89.
+
+<!-- page 383 -->
 
 _Notes to Pages 128–30_ | 345 
 
@@ -3851,7 +4626,9 @@ Although _Encyclopaedia Iranica_ credits Alex Saginian with the opening of the f
 
 23. For a brief overview of the independent Armenian Republic (1918–21), see Bournoutian, _History of the Armenian People_ , 2:131–49. For an in-depth treatment, see Richard Hovannisian, _The Republic of Armenia_ , 4 vols. (Berkeley: Univ. of California Press, 1971–96). 
 
-24. On the eff ects of the harsh winter of 1918–19 following independence, Bournoutian comments, “Lack of bread, fuel, medicine, and shelter caused riots, epidemics and famine. People ate grass, dead animals, and boiled leather; cases of cannibalism were reported as well. By the time it was over some 200,000 people had died from hunger, frost and typhus” ( _History of the Armenian People_ , 2:135). 
+24. On the eff ects of the harsh winter of 1918–19 following independence, Bournoutian comments, “Lack of bread, fuel, medicine, and shelter caused riots, epidemics and famine. People ate grass, dead animals, and boiled leather; cases of cannibalism were reported as well. By the time it was over some 200,000 people had died from hunger, frost and typhus” ( _History of the Armenian People_ , 2:135).
+
+<!-- page 384 -->
 
 346 | _Notes to Pages 130–33_ 
 
@@ -3875,7 +4652,9 @@ Although _Encyclopaedia Iranica_ credits Alex Saginian with the opening of the f
 
 34. Abrahamian describes the vetting process in detail (ibid., 138) and quotes a British minister who reported in 1926, “The Persian Majles cannot be taken seriously. The deputies are not free agents, any more than the elections to the Majles are free. When the Shah wants a measure, it is passed. When he is opposed, it is withdrawn. When he is indiff erent, a great deal of aimless discussion takes place” (British minister to the Foreign Offi  ce, “Annual Report for 1927,” FO 371/Persia 1928/34-13069, quoted in ibid., 138). 
 
-35. Iskandar Khan Setkhanian (see chapter 2) and Zohrab Saginian were related through Zohrab’s wife Sandokht Badmaguryan’s family. Ardashir Khan Badmaguryan’s other daughter, Sandokht’s sister, was married to Iskandar Khan’s wife Maryam’s brother (oral interview, Sevak Saginian, June 15, 1997). 
+35. Iskandar Khan Setkhanian (see chapter 2) and Zohrab Saginian were related through Zohrab’s wife Sandokht Badmaguryan’s family. Ardashir Khan Badmaguryan’s other daughter, Sandokht’s sister, was married to Iskandar Khan’s wife Maryam’s brother (oral interview, Sevak Saginian, June 15, 1997).
+
+<!-- page 385 -->
 
 _Notes to Pages 133–36_ | 347 
 
@@ -3899,7 +4678,9 @@ _Notes to Pages 133–36_ | 347
 
 45. Ibid., 375. 
 
-46. On Reza Shah’s emulation of Atatürk’s reforms, see Keddie, _Modern Iran_ , 88–104. 
+46. On Reza Shah’s emulation of Atatürk’s reforms, see Keddie, _Modern Iran_ , 88–104.
+
+<!-- page 386 -->
 
 _–_ 348 | _Notes to Pages 136 38_ 
 
@@ -3923,7 +4704,9 @@ _–_ 348 | _Notes to Pages 136 38_
 
 56. Kennedy, “Military Attache Report”/“The Armenian Minority in Iran,” 382. 57. Ibid., 384. 
 
-58. Abrahamian describes the Fourteenth Majles elections, which took a full six months to complete, as “the most prolonged, the most competitive, and hence, the most meaningful of all elections in Modern Iran” ( _Iran between Two Revolutions_ , 186). Although more research will be needed to determine the primary cause of Zohrab’s loss, we can conclude preliminarily that the conjunction of Reza Shah’s ouster (and thus infl uence in choosing Majles _nomenklatura_ and power over local landlords) and the presence of Soviet troops combined to make it virtually impossible for Zohrab to win his tenth seat in the Majles. 
+58. Abrahamian describes the Fourteenth Majles elections, which took a full six months to complete, as “the most prolonged, the most competitive, and hence, the most meaningful of all elections in Modern Iran” ( _Iran between Two Revolutions_ , 186). Although more research will be needed to determine the primary cause of Zohrab’s loss, we can conclude preliminarily that the conjunction of Reza Shah’s ouster (and thus infl uence in choosing Majles _nomenklatura_ and power over local landlords) and the presence of Soviet troops combined to make it virtually impossible for Zohrab to win his tenth seat in the Majles.
+
+<!-- page 387 -->
 
 _Notes to Pages 139–41_ | 349 
 
@@ -3945,7 +4728,9 @@ _Notes to Pages 139–41_ | 349
 
 67. Chaqueri, “The Armenian-Iranian Intelligentsia,” 138; Abrahamian, _Iran between Two Revolutions_ , 386. Both Chaqueri and Abrahamian derive these details from British consular reports from Tabriz covering the years 1943–45, FO 371/Persia. 
 
-68. Abrahamian, _Iran between Two Revolutions_ , 387. 
+68. Abrahamian, _Iran between Two Revolutions_ , 387.
+
+<!-- page 388 -->
 
 350 | _Notes to Pages 141–42_ 
 
@@ -3967,7 +4752,9 @@ _Notes to Pages 139–41_ | 349
 
 77. It is of note that Reza Shah ceded Iranian control of Little Ararat to Turkey as a provision of the 1932 Turco-Iranian Agreement. See Chaqueri, “The Armenian-Iranian Intelligentsia,” 136. 
 
-78. Sevak Saginian explained that the entire organization did not change its name to “Ararat” until 1950. Between 1946 and 1949, an acronym of the Armenian equivalent 
+78. Sevak Saginian explained that the entire organization did not change its name to “Ararat” until 1950. Between 1946 and 1949, an acronym of the Armenian equivalent
+
+<!-- page 389 -->
 
 _Notes to Pages 143–47_ | 351 
 
@@ -3987,7 +4774,9 @@ of the offi  cial Persian name Hay Patanekan Mshakutayin Miutiun (Armenian Youth
 
 85. It will perhaps likely remain a mystery as to whether the pro-Tudeh gangs intended to burn Ararat’s meeting hall that July night in 1953, but those who were there like to speculate that the guns were the deterrent that saved the club from destruction (oral interviews, Sevak Saginian, Oct. 6, 1997, and Nejde Hagobian, Sept. 2000). 
 
-86. On the role of the CIA in the overthrow of Prime Minister Mohammad Mossadegh, see Moyara De Moraes Ruehsen, “Operation ‘Ajax’ Revisited: Iran, 1953,” _Middle Eastern_ 
+86. On the role of the CIA in the overthrow of Prime Minister Mohammad Mossadegh, see Moyara De Moraes Ruehsen, “Operation ‘Ajax’ Revisited: Iran, 1953,” _Middle Eastern_
+
+<!-- page 390 -->
 
 352 | _Notes to Pages 147–53_ 
 
@@ -4009,7 +4798,9 @@ _Studies_ 29, no. 3 (1993): 467–86. For a more detailed analysis of the role o
 
 94. Sevak Saginian, written memoirs; oral interview, Sevak Saginian, Apr. 28, 1998. 
 
-95. On the shah’s power over government ministers, the Senate, and the Majles, see Gasiorowski, _U.S. Foreign Policy and the Shah_ , 159–60. Gasiorowski comments, “Majles elections were routinely rigged by the security forces after the 1953 coup . . . so no more than a handful of popular candidates served in this body. As the Shah consolidated his control over the state, he was able to control Majles elections more directly and thus ensure that this 
+95. On the shah’s power over government ministers, the Senate, and the Majles, see Gasiorowski, _U.S. Foreign Policy and the Shah_ , 159–60. Gasiorowski comments, “Majles elections were routinely rigged by the security forces after the 1953 coup . . . so no more than a handful of popular candidates served in this body. As the Shah consolidated his control over the state, he was able to control Majles elections more directly and thus ensure that this
+
+<!-- page 391 -->
 
 _Notes to Pages 153–56_ | 353 
 
@@ -4023,7 +4814,9 @@ body would be personally loyal to him. After the heavily rigged election to the 
 
 99. In his memoirs, which he created in response to a series of written questions I posed, Sevak wrote, “I had met the Shah numerous times before I became a Majles member and he was very kind and aff ectionate with me, and helped me out with things. Therefore in Majles he would issue orders that I would then carry out.” In response to the question “What was your relationship with the shah, and how important was it to your success in getting things accomplished in Majles?” Sevak responded in his memoirs, “Iran had previously 2,500 years of monarchy and the Shah was considered to be divine. As Ferdowsi said, ‘Farman-e Shah Farman-e khoda’ [the edict of the Shah is the edict of God] and before the Majles was created, the Shah had been the owner of the country and its people. He would declare all of the laws and judgments. He could order someone who is guilty, or even someone who was not to be killed. For example, Nasr al-Din executed Sadr-i Azam. Before I became a Member of Majles I met the Shah and he trusted me. Therefore, if I needed anything for the Armenian community I didn’t have a problem. The Shah was my backing and infl uence.” In the oral interview of June 15, 1997, Sevak also stated, “I soon realized [after becoming a member of Majles] that it would take ten to twenty years to get things passed if I only relied on Parliament, so I would just go and ask the shah.” 
 
-100. “To see the shah, I simply had to fi le a request for visitation with the minister of court. It would take eight to ten days for the request to be granted and scheduled.” Sevak recalled that the only thing uncomfortable about his meetings with the shah was feeling overdressed or underdressed because Mohammad Reza Pahlavi’s attire would range from casual civilian clothes to full military regalia without notice. Meetings could also be formal or informal at the shah’s whim. Sometimes they would walk around the palace grounds and talk or sit outside drinking tea and smoking cigarettes. At other times, their meetings would occur across the shah’s desk with an air of great formality (Sevak Saginian, written memoirs; oral interview, Sevak Saginian, July 12, 1997). 
+100. “To see the shah, I simply had to fi le a request for visitation with the minister of court. It would take eight to ten days for the request to be granted and scheduled.” Sevak recalled that the only thing uncomfortable about his meetings with the shah was feeling overdressed or underdressed because Mohammad Reza Pahlavi’s attire would range from casual civilian clothes to full military regalia without notice. Meetings could also be formal or informal at the shah’s whim. Sometimes they would walk around the palace grounds and talk or sit outside drinking tea and smoking cigarettes. At other times, their meetings would occur across the shah’s desk with an air of great formality (Sevak Saginian, written memoirs; oral interview, Sevak Saginian, July 12, 1997).
+
+<!-- page 392 -->
 
 _–_ 354 | _Notes to Pages 156 63_ 
 
@@ -4045,7 +4838,9 @@ _–_ 354 | _Notes to Pages 156 63_
 
 109. Although the water and electrical projects for Khoygan were completed in 1977, Sevak Saginian left Iran before the Namagerd electrical project was completed, and construction was halted during the revolution (Sevak Saginian, written memoirs; oral interview, Sevak Saginian, Apr. 28, 1998). 
 
-110. See the 1955 American consul report “The Gregorian Armenians of Isfahan,” reprinted in Chaqueri, ed., _The Armenians of Iran_ , 391. 
+110. See the 1955 American consul report “The Gregorian Armenians of Isfahan,” reprinted in Chaqueri, ed., _The Armenians of Iran_ , 391.
+
+<!-- page 393 -->
 
 _– Notes to Pages 164 70_ | 355 
 
@@ -4077,7 +4872,9 @@ _– Notes to Pages 164 70_ | 355
 
 1. This chapter is based primarily on oral interviews with Lucik Moradiance conducted in August, October, and December 2001; August 2002; April 2003; and February 2006 in Sherman Oaks, California. Oral interviews were supplemented by written correspondence between August 2001 and February 2007. 
 
-2. For a brief survey of the history of the petroleum industry in Iran that focuses on Abadan, see Kaveh Ehsani, “Social Engineering and the Contradictions of Modernization in Khuzestan’s Oil Company Towns: A Look at Abadan and Masjed-Soleyman,” _International Review of Social History_ 48 (2003): 361–99. For a broader perspective of the Anglo-Persian Oil 
+2. For a brief survey of the history of the petroleum industry in Iran that focuses on Abadan, see Kaveh Ehsani, “Social Engineering and the Contradictions of Modernization in Khuzestan’s Oil Company Towns: A Look at Abadan and Masjed-Soleyman,” _International Review of Social History_ 48 (2003): 361–99. For a broader perspective of the Anglo-Persian Oil
+
+<!-- page 394 -->
 
 356 | _Notes to Pages 171–75_ 
 
@@ -4101,7 +4898,9 @@ Company and Abadan in petroleum history and global rivalries over petroleum reso
 
 11. The Treaty of Turkmanchai also ended Iran’s monopoly on Caspian fi sheries, imposed a monetary fi ne and a variety of economic concessions on the Qajar government, and provided extraterritorial privileges for Russian subjects in Iran (Keddie, _Qajar Iran and the Rise of Reza Khan_ , 23). 
 
-12. Between 1828 and 1831, more than 45,000 Armenians immigrated to Russian-held Yerevan, with roughly 23,000 arriving from Iran and 22,000 from the Ottoman Empire. Some 4,000 others relocated to Nakhichevan, the vast majority from Iran (George A. Bournoutian, 
+12. Between 1828 and 1831, more than 45,000 Armenians immigrated to Russian-held Yerevan, with roughly 23,000 arriving from Iran and 22,000 from the Ottoman Empire. Some 4,000 others relocated to Nakhichevan, the vast majority from Iran (George A. Bournoutian,
+
+<!-- page 395 -->
 
 _Notes to Pages 175–80_ | 357 
 
@@ -4125,7 +4924,9 @@ _Notes to Pages 175–80_ | 357
 
 21. Amin, _The Making of the Modern Iranian Woman_ , 147. See also Jasamin RostamKolayi, “Origins of Iran’s Modern Girls’ Schools: From Private/National to Public/State,” _Journal of Middle East Women’s Studies_ 4, no. 3 (2008): 58–88. 
 
-22. Although the student body was mixed, Armenians and Azeris constituted the majority at Farrokhi Girls’ School in the 1930s. 
+22. Although the student body was mixed, Armenians and Azeris constituted the majority at Farrokhi Girls’ School in the 1930s.
+
+<!-- page 396 -->
 
 358 | _Notes to Pages 180–81_ 
 
@@ -4145,7 +4946,9 @@ _Notes to Pages 175–80_ | 357
 
 _–_ 30. Mark H. Lytle, _Origins of the Iranian–American Alliance, 1941 1953_ (New York: Holmes and Meier, 1987), 6–13. 
 
-31. In Camron Amin’s periodization, August 1941 also marks the end of the Women’s Awakening project ( _The Making of the Modern Iranian Woman_ , 4). Yet Amin argues that although the Allied occupation of 1941–46 may have unintentionally ended mandatory unveiling, “it did not reverse the Marriage Laws of 1931 and 1937, the opening of higher education to women, or trends toward greater literacy and professional employment among urban women. It did not change the fact that the Iranian state—no matter who controlled it—now explicitly tied its legitimacy to eff orts to improve the status of women in Iranian society” (17). 
+31. In Camron Amin’s periodization, August 1941 also marks the end of the Women’s Awakening project ( _The Making of the Modern Iranian Woman_ , 4). Yet Amin argues that although the Allied occupation of 1941–46 may have unintentionally ended mandatory unveiling, “it did not reverse the Marriage Laws of 1931 and 1937, the opening of higher education to women, or trends toward greater literacy and professional employment among urban women. It did not change the fact that the Iranian state—no matter who controlled it—now explicitly tied its legitimacy to eff orts to improve the status of women in Iranian society” (17).
+
+<!-- page 397 -->
 
 _Notes to Pages 181–83_ | 359 
 
@@ -4157,7 +4960,9 @@ _Notes to Pages 181–83_ | 359
 
 35. Although Iranian forces in the North dissolved in the face of Soviet attack, some Iranian forces in the South, in particular the Iranian navy, would not surrender to the British and suff ered heavy losses before their quick defeat. For an account of the contrasting situations in the North and South, see Richard A. Stewart, _Sunrise at Abadan: The British and Soviet Invasion of Iran, 1941_ (New York: Praeger, 1988). 
 
-36. Howard Baskerville was a Princeton-educated teacher for the American Mission in Tehran who was shot and killed in 1909 while fi ghting against the forces of Muhammad Ali Shah Qajar, which had laid siege to the city after bombarding the Majles and imposing martial law on Tehran. Baskerville’s involvement on the side of the constitutionalists went against the strict neutrality maintained by the American Mission (Mehdi Heravi, _Iranian–American Diplomacy_ [New York: Theo Gauss, 1969], 20–23). Sattareh Farmanfarmaian describes how the story of Howard Baskerville’s sacrifi ce, told to her by American missionaries at Nurbakhsh Girls High School (which Lucik would attend in 1949–50), moved her to tears and left a lasting impression: “If I, I thought, ever had a chance to fi ght for our democracy like Mr. Howard Baskerville, I would do just as he had done, and show the world that a woman could do something for her country, too!” (with Donna Munker, _Daughter of Persia: A Woman’s Journey from Her Father’s Harem through the Islamic Revolution_ [1993; reprint, New York: Broadway, 2006], 106). Muhammad Ali Shah’s coup and the subsequent events of 1909 are covered in detail in chapter 2 of this volume. 
+36. Howard Baskerville was a Princeton-educated teacher for the American Mission in Tehran who was shot and killed in 1909 while fi ghting against the forces of Muhammad Ali Shah Qajar, which had laid siege to the city after bombarding the Majles and imposing martial law on Tehran. Baskerville’s involvement on the side of the constitutionalists went against the strict neutrality maintained by the American Mission (Mehdi Heravi, _Iranian–American Diplomacy_ [New York: Theo Gauss, 1969], 20–23). Sattareh Farmanfarmaian describes how the story of Howard Baskerville’s sacrifi ce, told to her by American missionaries at Nurbakhsh Girls High School (which Lucik would attend in 1949–50), moved her to tears and left a lasting impression: “If I, I thought, ever had a chance to fi ght for our democracy like Mr. Howard Baskerville, I would do just as he had done, and show the world that a woman could do something for her country, too!” (with Donna Munker, _Daughter of Persia: A Woman’s Journey from Her Father’s Harem through the Islamic Revolution_ [1993; reprint, New York: Broadway, 2006], 106). Muhammad Ali Shah’s coup and the subsequent events of 1909 are covered in detail in chapter 2 of this volume.
+
+<!-- page 398 -->
 
 _–_ 360 | _Notes to Pages 185 91_ 
 
@@ -4175,7 +4980,9 @@ _–_ 360 | _Notes to Pages 185 91_
 
 43. Interviewed by historian Camron Amin, Dr. Maryam Tusi, who was one of the fi rst female students to attend the University of Tehran Medical School (in 1946), could recall no mistreatment by any of her professors and in fact felt that women had received more respectful treatment, “enjoying the address of _khanom_ rather than the curt barking of their last name endured by the men in class and on rounds” ( _The Making of the Modern Iranian Woman_ , 163). 
 
-44. In an interview, I asked Lucik: “Were female students ever bothered or harassed by male students, even in seemingly harmless/trivial ways, in your experience?” Lucik replied, “Yes, sometimes as we would walk across campus, a group of male students— juniors not our classmates—would whistle or call “sh sh sh”—[an] abbreviation [of] _shimi_ or ‘chemical engineers.’ Small things like that.” 
+44. In an interview, I asked Lucik: “Were female students ever bothered or harassed by male students, even in seemingly harmless/trivial ways, in your experience?” Lucik replied, “Yes, sometimes as we would walk across campus, a group of male students— juniors not our classmates—would whistle or call “sh sh sh”—[an] abbreviation [of] _shimi_ or ‘chemical engineers.’ Small things like that.”
+
+<!-- page 399 -->
 
 _Notes to Pages 191–200_ | 361 
 
@@ -4195,7 +5002,9 @@ _Notes to Pages 191–200_ | 361
 
 52. Born in Moscow in 1929, Artavast Melikian (called “Levon” by family and friends) was an active member of the Iranian Bar Association from 1956 to 1980. His legal practice was broad but specialized in legal advice to foreign embassies in Tehran (British, Swedish, Soviet, Czech, Romanian, and Bulgarian) and representation for foreign banks and oil companies, predominantly American. Between 1966 and 1970, Levon obtained a PhD in economics from Tehran University to meet the needs of such clientele, which became the mainstay of his law practice between 1970 and 1979. 
 
-53. In 1959, Lucik’s younger sister, Anahid, moved to Tehran to attend Nurbakhsh High School and then University of Tehran as Lucik returned from her one-year British 
+53. In 1959, Lucik’s younger sister, Anahid, moved to Tehran to attend Nurbakhsh High School and then University of Tehran as Lucik returned from her one-year British
+
+<!-- page 400 -->
 
 362 | _Notes to Pages 202–10_ 
 
@@ -4219,7 +5028,9 @@ scholarship. Lucik’s brother, Garekin (b. 1932), graduated from the University
 
 1. This chapter is based primarily on oral interviews with Nejde Hagobian conducted between 1996 and 2000 in Toluca Lake, California. It is supported by written memoirs, photographs, newspaper articles, secondary sources, as well as the oral testimony of Sevak Saginian, Lilit Marzbetuny, Shahen Askari, and Emil Markarian. 
 
-2. Wilhelm Eilers points out that Reza Shah had a particular dislike for the traditional Iranian _zurkhane_ (house of strength) because of its strong Islamic orientation and sought to replace it with modern _varzeshkhaneh_ (sporting halls) and organizations such as Pishahangi-ye Iran (Scouting of Iran). Although Reza Shah’s scouting organization was disbanded during the Allied occupation, the 1940s witnessed a resurgence of the _zurkhane_ in Iran (“Educational and Cultural Development in Iran during the Pahlavi Era,” in Lenczowski, ed., _Iran under the Pahlavis_ , 316–17). On Pahlavi eff orts to develop sports and scouting in Iran during the 1920s and 1930s, see Cyrus Schayegh, “Sport, Health, and the Iranian Middle Class in the 1920s and 1930s,” _Iranian Studies_ 34, no. 4 (2002): 341–69. 
+2. Wilhelm Eilers points out that Reza Shah had a particular dislike for the traditional Iranian _zurkhane_ (house of strength) because of its strong Islamic orientation and sought to replace it with modern _varzeshkhaneh_ (sporting halls) and organizations such as Pishahangi-ye Iran (Scouting of Iran). Although Reza Shah’s scouting organization was disbanded during the Allied occupation, the 1940s witnessed a resurgence of the _zurkhane_ in Iran (“Educational and Cultural Development in Iran during the Pahlavi Era,” in Lenczowski, ed., _Iran under the Pahlavis_ , 316–17). On Pahlavi eff orts to develop sports and scouting in Iran during the 1920s and 1930s, see Cyrus Schayegh, “Sport, Health, and the Iranian Middle Class in the 1920s and 1930s,” _Iranian Studies_ 34, no. 4 (2002): 341–69.
+
+<!-- page 401 -->
 
 _Notes to Pages 210–27_ | 363 
 
@@ -4239,7 +5050,9 @@ _Notes to Pages 210–27_ | 363
 
 10. Hayots Dprots was later divided into separate campuses: the Davidian School for boys and the Maryamian Girls School. 
 
-11. Nejde did not remember the exact date in August that the single bomb was dropped. However, Lenczowski and others cite the bombing of Tehran by Soviets as occurring on August 31, 1941 (see, for example, Lenczowski, _Russia and the West_ , 168). Vanak, which was incorporated into the sprawl of Tehran in the 1950s and 1960s, was previously divided into two village areas, one Armenian and one Persian Muslim. Each village had its own _khadkhoda_ (headman), and a small stream separated the two. The Muslim Vanak had 
+11. Nejde did not remember the exact date in August that the single bomb was dropped. However, Lenczowski and others cite the bombing of Tehran by Soviets as occurring on August 31, 1941 (see, for example, Lenczowski, _Russia and the West_ , 168). Vanak, which was incorporated into the sprawl of Tehran in the 1950s and 1960s, was previously divided into two village areas, one Armenian and one Persian Muslim. Each village had its own _khadkhoda_ (headman), and a small stream separated the two. The Muslim Vanak had
+
+<!-- page 402 -->
 
 364 | _Notes to Pages 227–30_ 
 
@@ -4249,7 +5062,9 @@ a few small shops that the Armenians would visit during the day, and the Armenia
 
 13. Nejde Hagobian, written memoirs, and oral interview, Sept. 2000. On the Pan-Iranists, see Cottam, _Nationalism in Iran_ , 266–67. Cottam explains that “the so-called Pan-Iran Party attracted adherents chiefl y from middle and lower-middle-class secondary school students, but it also had an appeal for athletic society toughs. Pan-Iran suff ered a series of bewildering splits, each splinter group claiming to be the authentic Pan-Iran party. The most loyal and largest of these groups was headed by Dariush Foruhar, but at its height this group could not have numbered more than a few thousand members and was largely confi ned to Tehran” (267). On street battles between the Somka and Tudehists in the early 1950s, see Gasiorowski, _U.S. Foreign Policy and the Shah_ , 69. The Somka are briefl y mentioned in George Lenczowski, “Political Process and Institutions in Iran: The Second Pahlavi Kingship,” in Lenczowski, ed., _Iran under the Pahlavis_ , 451, with the Pan-Iranists described as a “minor peripheral group.” 
 
-14. Immediately following the death of Stalin in 1953, the Soviet embassy in Tehran opened its gates to the public for the fi rst time to allow visitors to pay their respects by 
+14. Immediately following the death of Stalin in 1953, the Soviet embassy in Tehran opened its gates to the public for the fi rst time to allow visitors to pay their respects by
+
+<!-- page 403 -->
 
 _Notes to Pages 230–34_ | 365 
 
@@ -4265,7 +5080,9 @@ signing a large register. Thousands of people lined up and down the street and w
 
 19. “Astsus, azgis yev hayrenikis” was a purposefully vague formulation that allowed for multiple interpretations. Unlike the oath of the Pishahangi-ye Iran, which pledged allegiance to “Khoda, shah, mehan” (God, king, and country) in the manner of the Iranian army, “Astsus, azgis yev hayrenikis” could be interpreted as being applicable to Iran or Armenia or both (Nejde Hagobian, written memoirs, and oral interview, Nov. 1998; see also Zonis, _Political Elite_ , 113). 
 
-20. Nejde explains in his memoirs, “The Ararat scouts were organized similarly to the Boy Scouts of America. Each troop consisted of four patrols that had eight scouts, one assistant patrol leader and one patrol leader. The troops were headed by a scoutmaster with two assistants. One assistant to whom the patrol leaders reported. His rank was signifi ed with two and half green lines. The patrol leader had two green lines and his assistant one green line. The scoutmaster was signifi ed by three gold lines and his deputy with two and a half gold lines. A gold star with green background signifi ed one year of service. All scoutmasters reported to a chief scoutmaster who was also a member of the scouting council.” 
+20. Nejde explains in his memoirs, “The Ararat scouts were organized similarly to the Boy Scouts of America. Each troop consisted of four patrols that had eight scouts, one assistant patrol leader and one patrol leader. The troops were headed by a scoutmaster with two assistants. One assistant to whom the patrol leaders reported. His rank was signifi ed with two and half green lines. The patrol leader had two green lines and his assistant one green line. The scoutmaster was signifi ed by three gold lines and his deputy with two and a half gold lines. A gold star with green background signifi ed one year of service. All scoutmasters reported to a chief scoutmaster who was also a member of the scouting council.”
+
+<!-- page 404 -->
 
 366 | _Notes to Pages 237–42_ 
 
@@ -4281,7 +5098,9 @@ signing a large register. Thousands of people lined up and down the street and w
 
 26. Sevak Saginian, oral interview, Oct. 6, 1997. 
 
-27. In addition to genuine demonstrations of support for the Tudeh, Mossadegh, and the shah, the CIA hired a large crowd for the price of $50,000 to march through downtown Tehran on Monday, March 17, yelling Tudeh slogans and waving anti-Pahlavi signs. After gathering a crowd of real pro-Tudeh supporters unaware of the rally’s true inspiration, the group tore down statues of Reza Shah and Mohammad Reza Shah and proceeded to attack Reza Shah’s mausoleum. Because of this seemingly blatant act of Tudeh lawlessness, 
+27. In addition to genuine demonstrations of support for the Tudeh, Mossadegh, and the shah, the CIA hired a large crowd for the price of $50,000 to march through downtown Tehran on Monday, March 17, yelling Tudeh slogans and waving anti-Pahlavi signs. After gathering a crowd of real pro-Tudeh supporters unaware of the rally’s true inspiration, the group tore down statues of Reza Shah and Mohammad Reza Shah and proceeded to attack Reza Shah’s mausoleum. Because of this seemingly blatant act of Tudeh lawlessness,
+
+<!-- page 405 -->
 
 _Notes to Pages 242–46_ | 367 
 
@@ -4301,7 +5120,9 @@ Mossadegh was forced to have the police crack down on Tudeh demonstrators, who w
 
 34. Eilers, “Educational and Cultural Development in Iran during the Pahlavi Era,” 
 
-317. 
+317.
+
+<!-- page 406 -->
 
 _–_ 368 | _Notes to Pages 246 58_ 
 
@@ -4325,7 +5146,9 @@ _–_ 368 | _Notes to Pages 246 58_
 
 44. Because Iran did not have extensive production facilities for mass quantities of diff erent grades of cement, samples of rock and gravel taken from areas surrounding large construction sites in the North would be brought to the Plan Organization lab, and there a formula would be devised based on the type of construction project that would direct contractors in mixing loads of cement that included both local and trucked-in materials and met the requirements for structural stability (oral interview, Nejde Hagobian, Sept. 2000). 
 
-45. This story was related to me on several occasions by Shahen Askari, who explained that the confrontation became part of the Plan Organization lab’s lore in the 1960s and 1970s. 
+45. This story was related to me on several occasions by Shahen Askari, who explained that the confrontation became part of the Plan Organization lab’s lore in the 1960s and 1970s.
+
+<!-- page 407 -->
 
 _– Notes to Pages 259 67_ | 369 
 
@@ -4345,7 +5168,9 @@ _– Notes to Pages 259 67_ | 369
 
 4. Elizabeth Fox-Genovese and Eugene Genovese, “The Political Crisis of Social History: A Marxian Perspective,” _Journal of Social History_ 10 (Winter 1976): 219. See also KesslerHarris, _Social History_ , 19–20. 
 
-5. The qualifi cation needs to be made that it is entirely possible that the Fourth of Aban parade was devoid of higher meaning for some of its participants and spectators. Although the experience of Ararat members and leadership is probably not unique, without further oral historical and social biographical research we cannot discount the potential cynicism, skepticism, and indiff erence of people compelled or “encouraged” to take part in such events, many of whom may have simply welcomed the parade as a break from 
+5. The qualifi cation needs to be made that it is entirely possible that the Fourth of Aban parade was devoid of higher meaning for some of its participants and spectators. Although the experience of Ararat members and leadership is probably not unique, without further oral historical and social biographical research we cannot discount the potential cynicism, skepticism, and indiff erence of people compelled or “encouraged” to take part in such events, many of whom may have simply welcomed the parade as a break from
+
+<!-- page 408 -->
 
 370 | _Notes to Pages 269–80_ 
 
@@ -4361,7 +5186,9 @@ work or school. In addition, as the biographies of Sevak Saginian and Nejde Hago
 
 10. Ibid. 
 
-11. For example, see Lois Beck’s portrait of Qashqa’i rebel Rostam, who fought against the forces of both the Pahlavis and the Islamic Republic to sustain Qashqa’i culture and nomadic way of life. (“Rostam: Qashqa’i Rebel,” in Burke and Yaghoubian, eds., _Struggle_ 
+11. For example, see Lois Beck’s portrait of Qashqa’i rebel Rostam, who fought against the forces of both the Pahlavis and the Islamic Republic to sustain Qashqa’i culture and nomadic way of life. (“Rostam: Qashqa’i Rebel,” in Burke and Yaghoubian, eds., _Struggle_
+
+<!-- page 409 -->
 
 _Notes to Pages 281–85_ | 371 
 
@@ -4377,7 +5204,9 @@ _and Survival in the Modern Middle East_ , 223–36). See also the social biogra
 
 4. Author’s personal observation and oral interview with Nejde Hagobian, Sept. 2000. 
 
-5. Sanasarian, _Religious Minorities in Iran_ , 2006, 36–37. At roughly 200,000 in the 1990s, Armenians constituted Iran’s largest recognized religious minority group. Sanasarian cites the population of Zoroastrians at 50,000, Jews at 35,000, and Assyrians and Chaldeans at 20,000. Although the Baha’is are not an offi  cially recognized religious minority, their numbers in the 1990s are estimated at between 150,000 and 300,000. In total, Iran’s religious minorities constitute barely one percent of the total population of some 65 million Iranians (9). The 
+5. Sanasarian, _Religious Minorities in Iran_ , 2006, 36–37. At roughly 200,000 in the 1990s, Armenians constituted Iran’s largest recognized religious minority group. Sanasarian cites the population of Zoroastrians at 50,000, Jews at 35,000, and Assyrians and Chaldeans at 20,000. Although the Baha’is are not an offi  cially recognized religious minority, their numbers in the 1990s are estimated at between 150,000 and 300,000. In total, Iran’s religious minorities constitute barely one percent of the total population of some 65 million Iranians (9). The
+
+<!-- page 410 -->
 
 372 | _Notes to Pages 285–86_ 
 
@@ -4405,7 +5234,9 @@ Turkic-speaking population of Iran in the 1990s numbered roughly 14 million (som
 
 16. Ibid., 82; Chaqueri, “The Armenian-Iranian Intelligentsia,” 151. 
 
-17. The memory of Iran’s brave and eff ective self-defense and Iranian citizens’ immense personal sacrifi ces during the Iran-Iraq War of 1980–89 (referred to in Iran as “Jang-e Tahmili,” the Imposed War, and “Defae Moqadas,” the Sacred Defense) remains a major source of national pride and is frequently utilized by the government in its eff orts to inculcate and sustain Iranian nationalism. Sacred Defense Week, an annual series of military industry displays and community gatherings and events commemorating the nation’s successful 
+17. The memory of Iran’s brave and eff ective self-defense and Iranian citizens’ immense personal sacrifi ces during the Iran-Iraq War of 1980–89 (referred to in Iran as “Jang-e Tahmili,” the Imposed War, and “Defae Moqadas,” the Sacred Defense) remains a major source of national pride and is frequently utilized by the government in its eff orts to inculcate and sustain Iranian nationalism. Sacred Defense Week, an annual series of military industry displays and community gatherings and events commemorating the nation’s successful
+
+<!-- page 411 -->
 
 _– Notes to Pages 287 89_ | 373 
 
@@ -4421,7 +5252,9 @@ defense and reminding Iranians to be vigilant of external threats, is one corner
 
 22. Quoted in Chaqueri, “The Armenian-Iranian Intelligentsia,” 150, citing _Ettela‘at_ , Apr. 20, 1991. 
 
-23. Quoted in ibid., 150. 
+23. Quoted in ibid., 150.
+
+<!-- page 412 -->
 
 _–_ 374 | _Notes to Pages 289 92_ 
 
@@ -4451,7 +5284,9 @@ _–_ 374 | _Notes to Pages 289 92_
 
 36. IRNA Headlines, “Zoroastrians Celebrate Khomeini’s Birth Anniversary in Yazd,” Sept. 27, 1999. 
 
-37. IRNA Headlines, “Zoroastrians Celebrate Imam’s Birth Anniversary,” Sept. 29, 1999. The following day the Assyrian community was the subject of an IRNA article 
+37. IRNA Headlines, “Zoroastrians Celebrate Imam’s Birth Anniversary,” Sept. 29, 1999. The following day the Assyrian community was the subject of an IRNA article
+
+<!-- page 413 -->
 
 _Notes to Pages 292–93_ | 375 
 
@@ -4467,7 +5302,9 @@ titled “Iranian Minorities Perform Their Religious Rites Freely,” in which W
 
 42. IRNA Headlines, “Khatami: Iran Takes Dialogue as Man’s Most Humane Aspect,” July 17, 2000. 
 
-43. Held at the Ararat complex in Vanak to coincide with the Thirty-Third Annual Sports Festival of Armenian Iranians, the opening ceremonies featured speeches by offi  - cials of the Islamic Republic and leaders of the Armenian community, followed by the release of doves and an extensive fi reworks display. The entire ceremony and many of 
+43. Held at the Ararat complex in Vanak to coincide with the Thirty-Third Annual Sports Festival of Armenian Iranians, the opening ceremonies featured speeches by offi  - cials of the Islamic Republic and leaders of the Armenian community, followed by the release of doves and an extensive fi reworks display. The entire ceremony and many of
+
+<!-- page 414 -->
 
 376 | _Notes to Pages 294–95_ 
 
@@ -4487,7 +5324,9 @@ the athletic events including male and female athletes were broadcast in streami
 
 50. Ibid., 162–63. 
 
-51. For example, see the January 31, 2013, IRNA Headlines story “Armenian Bishop Urges World to Take Lesson from Iran for Proper Treatment of Religious Minorities.” See the September 26, 2010, _Iran Daily_ headline story “Armenians Protest in Tehran Following Insult to Quran,” which describes a rally by thousands of Armenians on the anniversary 
+51. For example, see the January 31, 2013, IRNA Headlines story “Armenian Bishop Urges World to Take Lesson from Iran for Proper Treatment of Religious Minorities.” See the September 26, 2010, _Iran Daily_ headline story “Armenians Protest in Tehran Following Insult to Quran,” which describes a rally by thousands of Armenians on the anniversary
+
+<!-- page 415 -->
 
 _– Notes to Pages 296 97_ | 377 
 
@@ -4495,7 +5334,9 @@ of the September 11, 2001, attacks to protest the proposed burning of the Quran 
 
 52. The tradition of large street protests against the Turkish government by Iran’s Armenian community continued on April 24, 2006. Photographs of thousands of Armenian Iranian demonstrators led by Armenian clergy, community leaders, and uniformed Ararat scouts appeared in the Iranian press and were circulated widely on the Internet. _Iran Daily_ noted that the protestors “carried placards in [the] Armenian language that read ‘Armenian Martyrs, We Will Continue Your Way,’ ‘Upholding Justice Is Our Right,’ and ‘Islamic Republic Is Supporter of Oppressed People’” (“Armenian Rally in Tehran,” Apr. 25, 2006). 
 
-53. In 1999 and 2000, Armeno-Iranian relations were extended through several highlevel diplomatic exchanges, including visits to Iran by President Robert Kocharian and Defense Minister Serzh Sarkisian to discuss a proposed gas pipeline project, regional security, and Iran’s role in mediating the confl ict in Karabagh. See IRNA Headlines, “Armenian Minister Condemns Intervention of Foreign Forces in Region,” Nov. 8, 2000; “Khatami: Expansion of Iran–Armenia Ties Will Strengthen Regional Security,” Nov. 8, 2000; and “Iran–Armenia–Greece Cooperation Not against Any Country,” July 17, 2000. Regarding the further extension of Armeno-Iranian cooperation with the intensifi cation of economic sanctions against Iran, see Voice of America News, “Iran, Armenian Find Solidarity in 
+53. In 1999 and 2000, Armeno-Iranian relations were extended through several highlevel diplomatic exchanges, including visits to Iran by President Robert Kocharian and Defense Minister Serzh Sarkisian to discuss a proposed gas pipeline project, regional security, and Iran’s role in mediating the confl ict in Karabagh. See IRNA Headlines, “Armenian Minister Condemns Intervention of Foreign Forces in Region,” Nov. 8, 2000; “Khatami: Expansion of Iran–Armenia Ties Will Strengthen Regional Security,” Nov. 8, 2000; and “Iran–Armenia–Greece Cooperation Not against Any Country,” July 17, 2000. Regarding the further extension of Armeno-Iranian cooperation with the intensifi cation of economic sanctions against Iran, see Voice of America News, “Iran, Armenian Find Solidarity in
+
+<!-- page 416 -->
 
 378 | _Notes to Pages 297–98_ 
 
@@ -4511,7 +5352,9 @@ Isolation,” Mar. 12, 2013, at http://www.voanews.com/content/iran-armenia-fi n
 
 58. Iran’s PressTV profi les the Ararat organization and sports complex in “Ararat Club,” which aired October 22, 2012, at http://www.presstv.ir/Program/268120.html, accessed Feb. 2013. 
 
-59. IRNA Headlines, “Massive Participation of Armenian Christians in Iran’s National Elections,” Feb. 19, 2000. Articles focusing on Armenian Iranian voting have become standard fare in the Iranian press during election season. For example, see the December 15, 2006, IRNA Headlines report “Isfahan’s Armenians Cast Their Votes,” which reminds readers that “the Armenians, like other religious minorities living in the Isfahan province, have always had an active participation in the elections to determine the country’s fate.” See also PressTV, “Isfahan’s Minorities,” June 12, 2012, at http://www.presstv.ir/Program/245048 .html, accessed June 2012. 
+59. IRNA Headlines, “Massive Participation of Armenian Christians in Iran’s National Elections,” Feb. 19, 2000. Articles focusing on Armenian Iranian voting have become standard fare in the Iranian press during election season. For example, see the December 15, 2006, IRNA Headlines report “Isfahan’s Armenians Cast Their Votes,” which reminds readers that “the Armenians, like other religious minorities living in the Isfahan province, have always had an active participation in the elections to determine the country’s fate.” See also PressTV, “Isfahan’s Minorities,” June 12, 2012, at http://www.presstv.ir/Program/245048 .html, accessed June 2012.
+
+<!-- page 417 -->
 
 ## Bibliography 
 
@@ -4547,7 +5390,9 @@ Alter, Peter. _Nationalism_ . 2nd ed. London: Hodder Education, 1994.
 
 - Amin, Camron M., Benjamin Fortna, and Elizabeth Frierson, eds. _The Modern Middle East: A Sourcebook_ . Oxford: Oxford Univ. Press, 2006. 
 
-379 
+379
+
+<!-- page 418 -->
 
 380 | _Bibliography_ 
 
@@ -4583,7 +5428,9 @@ _–_ Banani, Amin. _The Modernization of Iran, 1921 1941_ . Stanford, CA: Stanf
 
 Behar, Moshe. “Do Comparative and Regional Studies of Nationalism Intersect?” _International Journal of Middle East Studies_ 37 (2005): 587–612. 
 
-Berberian, Houri. “History, Memory, and Iranian-Armenian Memoirs of the Iranian Constitutional Revolution.” _Critique: Critical Middle Eastern Studies_ 17, no. 3 (2008): 261–92. 
+Berberian, Houri. “History, Memory, and Iranian-Armenian Memoirs of the Iranian Constitutional Revolution.” _Critique: Critical Middle Eastern Studies_ 17, no. 3 (2008): 261–92.
+
+<!-- page 419 -->
 
 _Bibliography_ | 381 
 
@@ -4627,7 +5474,9 @@ _Bibliography_ | 381
 
 - Brass, Paul R. _Ethnicity and Nationalism: Theory and Comparison_ . New Delhi: Sage, 1991. 
 
-- Breuilly, John. _Nationalism and the State_ . Chicago: Univ. of Chicago Press, 1994. _British Documents on Foreign Aff airs–Reports and Papers from the Foreign Offi  ce Confi dential Print: From the Mid–Nineteenth Century to the First World War_ . Vol. 13: 
+- Breuilly, John. _Nationalism and the State_ . Chicago: Univ. of Chicago Press, 1994. _British Documents on Foreign Aff airs–Reports and Papers from the Foreign Offi  ce Confi dential Print: From the Mid–Nineteenth Century to the First World War_ . Vol. 13:
+
+<!-- page 420 -->
 
 382 | _Bibliography_ 
 
@@ -4671,7 +5520,9 @@ Calhoun, Craig. _Nationalism_ . Minneapolis: Univ. of Minnesota Press, 1997.
 
 - Dadrian, Vahakn, and Taner Akcam. _Judgment at Istanbul: The Armenian Genocide Trials_ . New York: Berghahn Books, 2011. 
 
-- _Daneshkade Fanni va faregholtahsilan, Daneshgah-e Tehran, 1313–1373_ (College of Engineering and its graduates, University of Tehran, 1934–1994). Tehran: University of Tehran, 1994. 
+- _Daneshkade Fanni va faregholtahsilan, Daneshgah-e Tehran, 1313–1373_ (College of Engineering and its graduates, University of Tehran, 1934–1994). Tehran: University of Tehran, 1994.
+
+<!-- page 421 -->
 
 _Bibliography_ | 383 
 
@@ -4711,7 +5562,9 @@ _Bibliography_ | 383
 
 - Filmer, Henry. _The Pageant of Persia: A Record of Travel by Motor in Persia with an Account of Its Ancient and Modern Ways_ . New York: Bobbs-Merrill, 1936. 
 
-- Floor, Willem M. “Guilds and _Futuvvat_ in Iran.” _Zeitschrift der Deutschen Morgenlandischen Gesellschaft_ 134, no. 1 (1984): 106–14. 
+- Floor, Willem M. “Guilds and _Futuvvat_ in Iran.” _Zeitschrift der Deutschen Morgenlandischen Gesellschaft_ 134, no. 1 (1984): 106–14.
+
+<!-- page 422 -->
 
 384 | _Bibliography_ 
 
@@ -4767,7 +5620,9 @@ Ghods, Reza M. “Iranian Nationalism and Reza Shah.” _Middle Eastern Studies_
 
 - ~~.~~ _Iran in the Twentieth Century: A Political History_ . Boulder, CO: Lynne 
 
-- Rienner, 1989. 
+- Rienner, 1989.
+
+<!-- page 423 -->
 
 _Bibliography_ | 385 
 
@@ -4811,7 +5666,9 @@ Heravi, Mehdi. _Iranian–American Diplomacy_ . New York: Theo Gauss, 1969.
 
 - Houghton, David. _US Foreign Policy and the Iran Hostage Crisis_ . Cambridge: Cambridge Univ. Press, 2001. 
 
-- Hovannisian, Richard G., ed. _The Armenian Image in History and Literature_ . Malibu, CA: Undena, 1981. 
+- Hovannisian, Richard G., ed. _The Armenian Image in History and Literature_ . Malibu, CA: Undena, 1981.
+
+<!-- page 424 -->
 
 386 | _Bibliography_ 
 
@@ -4861,7 +5718,9 @@ Heravi, Mehdi. _Iranian–American Diplomacy_ . New York: Theo Gauss, 1969.
 
 - ~~.~~ _The Political Economy of Modern Iran: Despotism and Pseudo-modernism, –_ 
 
-- _1926 1979_ . New York: New York Univ. Press, 1981. 
+- _1926 1979_ . New York: New York Univ. Press, 1981.
+
+<!-- page 425 -->
 
 _Bibliography_ | 387 
 
@@ -4913,7 +5772,9 @@ Kazemzadeh, Firuz. “The Origin and Early Development of the Persian Cossack Br
 
 - [Kosagovskij]. “Persija v Kontse XIX veka” (Persia at the end of the 19th 
 
-- century). _Novyj Vostok_ 3 (1923): 446–69. 
+- century). _Novyj Vostok_ 3 (1923): 446–69.
+
+<!-- page 426 -->
 
 388 | _Bibliography_ 
 
@@ -4951,7 +5812,9 @@ Lambton, Ann K. S. _Islamic Society in Persia_ . Oxford: Oxford Univ. Press, 195
 
 - Mahdavi, Asghar. “The Signifi cance of Private Archives for the Study of the Economic and Social History of Iran in the late Qajar Period.” _Society for Iranian Studies_ 16, no. 3 (1983): 243–78. 
 
-- Malikzadah, Mahdi. _Tarikh-i Inqilab-i Mashrutiyat-i Iran_ (History of Iran’s Constitutional Revolution). 7 vols. Tehran: ‘Ilmi Press, 1984. 
+- Malikzadah, Mahdi. _Tarikh-i Inqilab-i Mashrutiyat-i Iran_ (History of Iran’s Constitutional Revolution). 7 vols. Tehran: ‘Ilmi Press, 1984.
+
+<!-- page 427 -->
 
 _Bibliography_ | 389 
 
@@ -4961,7 +5824,7 @@ Marashi, Afshin. _Nationalizing Iran: Culture, Power, and the State, 1870–1940
 
 Marcus, Abraham. _The Middle East on the Eve of Modernity_ . New York: Columbia Univ. Press, 1989. 
 
-Markham, Clements R. _Tarikh-i Iran dar dawrahi Qajar_ (History of Iran during the Qajar era). Tehran: Nashr-i Farhang-i Iran, 1364/1985. 
+- Markham, Clements R. _Tarikh-i Iran dar dawrahi Qajar_ (History of Iran during the Qajar era). Tehran: Nashr-i Farhang-i Iran, 1364/1985. 
 
 - Matthee, Rudolph, and Beth Baron, eds. _Iran and Beyond: Essays in Middle Eastern History in Honor of Nikki R. Keddie_ . Costa Mesa, CA: Mazda, 2000. 
 
@@ -4993,9 +5856,11 @@ Markham, Clements R. _Tarikh-i Iran dar dawrahi Qajar_ (History of Iran during t
 
 Pahlavi, Mohammad Reza. _Mission for My Country_ . New York: McGraw-Hill, 1960. 
 
-Perks, Robert, and Alastair Thompson, eds. _The Oral History Reader_ . 2nd ed. New York: Routledge, 2006. 
+- Perks, Robert, and Alastair Thompson, eds. _The Oral History Reader_ . 2nd ed. New York: Routledge, 2006. 
 
-- Perry, Barbara, and Brian Levin, eds. _Hate Crimes: Understanding and Defi ning Hate Crime_ . Westport, CT: Praeger, 2009. 
+- Perry, Barbara, and Brian Levin, eds. _Hate Crimes: Understanding and Defi ning Hate Crime_ . Westport, CT: Praeger, 2009.
+
+<!-- page 428 -->
 
 ## 390 | _Bibliography_ 
 
@@ -5035,7 +5900,9 @@ Perks, Robert, and Alastair Thompson, eds. _The Oral History Reader_ . 2nd ed. N
 
 - view Press, 1990. 
 
-- Simmonds, S. _Economic Conditions in Iran_ . London: HMSO, 1935. 
+- Simmonds, S. _Economic Conditions in Iran_ . London: HMSO, 1935.
+
+<!-- page 429 -->
 
 _Bibliography_ | 391 
 
@@ -5075,7 +5942,9 @@ Sprinkler, Michael, ed. _Edward Said: A Critical Reader_ . Oxford: Blackwell, 19
 
 - Tedlock, Dennis. _The Spoken Word and the Work of Interpretation_ . Philadelphia: Univ. of Pennsylvania Press, 1983. 
 
-- Ter-Sarkissian, Pierre. _Photographies armeniennes: Scenes et portraits, 1880–1930_ . Paris: Centre de recherches sur la diaspora armenienne, Centre de documentation armenien, 1983. 
+- Ter-Sarkissian, Pierre. _Photographies armeniennes: Scenes et portraits, 1880–1930_ . Paris: Centre de recherches sur la diaspora armenienne, Centre de documentation armenien, 1983.
+
+<!-- page 430 -->
 
 392 | _Bibliography_ 
 
@@ -5117,7 +5986,9 @@ Wilber, Donald Newton. _Contemporary Iran_ . New York: Praeger, 1963.
 
 - Wood, Graeme. “Iran: A Minority Report.” _Atlantic Monthly_ 298, no. 5 (2006): 46–47. Wulff , Hans E. _The Traditional Crafts of Persia: Their Development, Technology, and Infl uence on Eastern and Western Civilizations_ . Cambridge, MA: MIT Press, 1966. 
 
-- Yaghoubian, David. “Shifting Gears in the Desert: Trucks, Guilds, and National Development in Iran, 1921–1941.” _Jusur_ 13 (1997): 1–36. 
+- Yaghoubian, David. “Shifting Gears in the Desert: Trucks, Guilds, and National Development in Iran, 1921–1941.” _Jusur_ 13 (1997): 1–36.
+
+<!-- page 431 -->
 
 _Bibliography_ | 393 
 
@@ -5133,7 +6004,13 @@ Yarshater, Ehsan, ed. _Encyclopaedia Iranica_ . London: Routledge & Kegan Paul, 
 
 Žižek, Slavoj. _Tarrying with the Negative: Kant, Hegel, and the Critique of Ideology_ . Durham, NC: Duke Univ. Press, 1993. 
 
-Zonis, Marvin. _The Political Elite of Iran_ . Princeton, NJ: Princeton Univ. Press, 1971. 
+Zonis, Marvin. _The Political Elite of Iran_ . Princeton, NJ: Princeton Univ. Press, 1971.
+
+<!-- page 432 -->
+
+
+
+<!-- page 433 -->
 
 ## Index 
 
@@ -5167,7 +6044,9 @@ Amin, Camron: on higher education for women, 358n27; on missionary schools, 357n
 
 Amin, Shahid, 314n107 Amini, Ali, 354n106 Amirkhanian, Chalo, 240, 242 _amnieh_ (road guards), 119, 341n98 
 
-395 
+395
+
+<!-- page 434 -->
 
 396 | _Index_ 
 
@@ -5209,7 +6088,9 @@ _Aravot_ (Morning) (newspaper), 126–27 _arbab_ (master driver), 91, 92, 102, 1
 
 armed forces: Armenians in, 133, 141, 
 
-- 350n74; Black Friday (September 8, 1978) and, 206–7; corruption and disorganization in, 54–55, 321–22n34; deserters from, 182, 359n34; in the Islamic Republic of Iran, 298; protests of 1953 and, 194; Qajar dynasty reforms of, 51–53, 319–20n16, 320n20; David Saginian and, 125–26, 343n6; Sevak Saginian and , 139–40, 141, 349n63; transportation infrastructure and, 105, 336n34. _See also_ Cossack Brigade; military schools 
+- 350n74; Black Friday (September 8, 1978) and, 206–7; corruption and disorganization in, 54–55, 321–22n34; deserters from, 182, 359n34; in the Islamic Republic of Iran, 298; protests of 1953 and, 194; Qajar dynasty reforms of, 51–53, 319–20n16, 320n20; David Saginian and, 125–26, 343n6; Sevak Saginian and , 139–40, 141, 349n63; transportation infrastructure and, 105, 336n34. _See also_ Cossack Brigade; military schools
+
+<!-- page 435 -->
 
 _Index_ | 397 
 
@@ -5247,7 +6128,9 @@ Askari, Shahen, 258, 368n45
 
 _asnaf_ . _See_ guilds 
 
-Assyrians: ethnic cleansing and, 333n2; in the Islamic Republic of Iran, 371–72n5, 374–75n37; representation in Majles, 132, 353n96; Sevak Saginian and, 150– 51; school lunches for, 223–24; as truck drivers, 104; violence against, 123 
+Assyrians: ethnic cleansing and, 333n2; in the Islamic Republic of Iran, 371–72n5, 374–75n37; representation in Majles, 132, 353n96; Sevak Saginian and, 150– 51; school lunches for, 223–24; as truck drivers, 104; violence against, 123
+
+<!-- page 436 -->
 
 398 | _Index_ 
 
@@ -5273,7 +6156,9 @@ banal nationalism, 302n3 banditry, 94, 98, 102, 119, 334n8 “Bardzratsir Bardzr
 
 ye Iran (Scouting of Iran); scouting Boy Scouts of America, 233–34, 281, 365n20 _Boy Scouts of America Field Book_ , 233–34, 245 
 
-Bozorgmehr, Mehdi, 371n1 Breuilly, John, 7–8, 37–38, 303n6 bridge projects, 258–59 British. _See_ Great Britain brother ( _akhper_ ), 140, 349n63 brotherhood, love and, 10, 308n31 Browne, Edward, 328n99, 329n106, 329n108, 330n113 Buckingham, Bryant, 366n22 
+Bozorgmehr, Mehdi, 371n1 Breuilly, John, 7–8, 37–38, 303n6 bridge projects, 258–59 British. _See_ Great Britain brother ( _akhper_ ), 140, 349n63 brotherhood, love and, 10, 308n31 Browne, Edward, 328n99, 329n106, 329n108, 330n113 Buckingham, Bryant, 366n22
+
+<!-- page 437 -->
 
 _Index_ | 399 
 
@@ -5329,7 +6214,9 @@ civil engineering, 255, 256
 
 - community/communities: Fourth of Aban parade (1953) and, 15, 268; imagined, 17–21, 29, 32–33, 37–38, 39, 309n50, 315n122; invented traditions and, 13–14 
 
-- Constitutional Revolution (1905-1911): Armenian participation in, 344n15; attacks on the Majles (1908-1909), 70–76, 328n99, 328n102, 329n103, 329n104, 329n110; Baskerville and, 359n36; Dashnak Party and, 127, 344n15; early years of, 68–69; guilds and, 107–8, 116–17; Kedourie’s nationalism and, 11; newspaper coverage of, 74, 326–27n86, 330n113; transportation infrastructure and, 98, 335n19 
+- Constitutional Revolution (1905-1911): Armenian participation in, 344n15; attacks on the Majles (1908-1909), 70–76, 328n99, 328n102, 329n103, 329n104, 329n110; Baskerville and, 359n36; Dashnak Party and, 127, 344n15; early years of, 68–69; guilds and, 107–8, 116–17; Kedourie’s nationalism and, 11; newspaper coverage of, 74, 326–27n86, 330n113; transportation infrastructure and, 98, 335n19
+
+<!-- page 438 -->
 
 400 | _Index_ 
 
@@ -5371,7 +6258,9 @@ Darab Mirza, 323n51
 
 Dar al-Fonun (military school), 320n18 
 
-- Dashnak Party: _Alik_ (newspaper) and, 146, 342n102, 351n81; Ararat and, 145–46, 238; communists and, 133, 347n39; Hagob Hagobian and, 342n102; history of, 127–28, 344n14; publisher of, 227; Reza Shah Pahlavi and, 135–36, 141, 350n70, 350n74; Sevak Saginian and, 151–52; Zohrab Saginian 
+- Dashnak Party: _Alik_ (newspaper) and, 146, 342n102, 351n81; Ararat and, 145–46, 238; communists and, 133, 347n39; Hagob Hagobian and, 342n102; history of, 127–28, 344n14; publisher of, 227; Reza Shah Pahlavi and, 135–36, 141, 350n70, 350n74; Sevak Saginian and, 151–52; Zohrab Saginian
+
+<!-- page 439 -->
 
 _Index_ | 401 
 
@@ -5417,7 +6306,9 @@ Eliasi, Manouchehr, 291, 374n33
 
 - elites: education in foreign countries for, 52, 320n18, 370n6; exo-socialization and, 5; infi ghting among, 26; Iranian nationalism studies on, 24, 312n82; in the Islamic Republic of Iran, 297; oral histories of, 41; transportation infrastructure and, 104–5 
 
-English language, 230, 365n15 
+English language, 230, 365n15
+
+<!-- page 440 -->
 
 402 | _Index_ 
 
@@ -5467,7 +6358,9 @@ Foucault, Michel, 30–31, 267, 302n4,
 
 Fourth of Aban parade (1952), 236–38, _237_ Fourth of Aban parade (1953), 1, _2_ ; Ararat 
 
-- scouts and, 149–50, _150_ , 158–59, 244–45, 263–67, 352n92, 354n105; Breuilly on, 7–8; colonialism and, 11–12; Cottam on, 26; diff ering meanings of, 369–70n5; ethnosymbolism and, 22–23; 
+- scouts and, 149–50, _150_ , 158–59, 244–45, 263–67, 352n92, 354n105; Breuilly on, 7–8; colonialism and, 11–12; Cottam on, 26; diff ering meanings of, 369–70n5; ethnosymbolism and, 22–23;
+
+<!-- page 441 -->
 
 _Index_ | 403 
 
@@ -5505,7 +6398,9 @@ guild pins, 92, 334n6
 
 - guilds: economic development and, 109, 341–42n99; functions of, 97, 106–7, 110–11, 121, 341n94, 342n100; handcrafts and, 120; hierarchy of, 106–7, 116–17, 338–39n63; industrialization and, 105; labor organization and, 111, 339n65, 342n100; in the Middle East, 108–13, 336–37n53, 337n52, 337n54, 338n55, 338n60, 338n61; origins of, 116, 340n86; Pahlavi regime and, 105, 113, 114–20, 339–40n76, 341n91, 341n94; prenineteenth century, 105–8, 337n50; Qajar dynasty and, 107; in Saudi Arabia, 111–13, 339n67, 339n68, 339n69, 339n70; taxation of, 118, 342n100; tax collection and, 105, 106–7, 109, 114, 117, 338n62, 339n69, 339n70, 341n94; trade unions and, 116, 117; trucking industry and, 97, 119–20. _See also_ truck drivers’ guild 
 
-gun permit, 148, 352n89 
+gun permit, 148, 352n89
+
+<!-- page 442 -->
 
 404 | _Index_ 
 
@@ -5531,7 +6426,9 @@ _hammam_ (bathhouse), 64, 86, 326n77
 
 hand kissing ( _dast-busi_ ) reception, 166 Handler, Richard, 302n4 
 
-Haroutunian, Hasmik, 185–86, 360n38 Hart, Charles, 135–36, 347n39, 347n43, 347n44 
+Haroutunian, Hasmik, 185–86, 360n38 Hart, Charles, 135–36, 347n39, 347n43, 347n44
+
+<!-- page 443 -->
 
 _Index_ | 405 
 
@@ -5575,7 +6472,9 @@ Ibn Saud, 111
 
 identity: Armenian Iranian, 165–66, 264, 297; collective, 22; communal, 10; cultural, xviii–xix, 267; ethnoreligious, xxviii; Handler’s defi nition of, 302n4; 
 
-Iran: destabilization of, xiii–xiv, xv–xvi, 301n2; diversity of, 271–72, 279–80; geographical designation of, 29; history of, xxiii, 41–42; World War II invasion of, 181–83, 358n31, 359n34, 359n35 
+Iran: destabilization of, xiii–xiv, xv–xvi, 301n2; diversity of, 271–72, 279–80; geographical designation of, 29; history of, xxiii, 41–42; World War II invasion of, 181–83, 358n31, 359n34, 359n35
+
+<!-- page 444 -->
 
 406 | _Index_ 
 
@@ -5627,7 +6526,9 @@ John Mowlem Soils Laboratory. _See_
 
 Mowlem Soils Laboratory 
 
-Jones, Rebecca, 316n132 
+Jones, Rebecca, 316n132
+
+<!-- page 445 -->
 
 _Index_ | 407 
 
@@ -5639,7 +6540,9 @@ Khanom, Ninon, _57_ Khanom, Zizi, 52, 320n19 Kharchenko, Nadia, 189 Khatami, Moh
 
 Knapp, Wilfred, 335n25, 341n98 knowledge, creation of, 32 Kocharian, Robert, 377n53 Kolah-e Pahlavi (Pahlavi Hat), 83, 270–71, 332n143 Koraes, Adamantios, 10, 11 Kosogovski, Vladimir, 61–68, 324–25n63, 325n66 Kuchek Khan, 82, 131, 346n27 Kurdish Republic of Mahabad, 184 Kurds, xvii, 25, 89, 333n2 Kuz’min-Karavev (Colonel), 58, 59 
 
-labor, division of, 334n13 labor force, industrialization and, 115–16, 340n81 labor organization, guilds and, 111, 342n100 labor unions, 111, 116, 117, 339n65 _Labour Unions, Law, and Conditions in Iran, – 1900 1941_ (Floor), 115 Ladjavardi, Habib, 316n131 _la-haf dooz_ (quilt maker), 217, 218–19 language: Armenian, 267–68, 286, 372n14; Azeri, 138, 141; common, 20–21; English, 230, 365n15; Fourth of Aban parade (1953) and, 267–68; imagined communities and, 21; scriptural, 18, 19; vernacular, 18, 19. _See also_ Persian language language reforms, 34–35, 36, 123, 137 Law on the Abolition of the Guild Taxes (1926), 114, 117, 120, 341n94 laws and legal reforms, 168; Armenian Church vs. Iranian laws, 164, 355n111; electoral, 108, 297–98, 337n52; foreign trade law, 118; guild taxes, 114, 117, 120, 341n94; Islamic law, 285; marriage law, 358n31; unveiling laws (1936), 177, 179, 180–81, 358n26 
+labor, division of, 334n13 labor force, industrialization and, 115–16, 340n81 labor organization, guilds and, 111, 342n100 labor unions, 111, 116, 117, 339n65 _Labour Unions, Law, and Conditions in Iran, – 1900 1941_ (Floor), 115 Ladjavardi, Habib, 316n131 _la-haf dooz_ (quilt maker), 217, 218–19 language: Armenian, 267–68, 286, 372n14; Azeri, 138, 141; common, 20–21; English, 230, 365n15; Fourth of Aban parade (1953) and, 267–68; imagined communities and, 21; scriptural, 18, 19; vernacular, 18, 19. _See also_ Persian language language reforms, 34–35, 36, 123, 137 Law on the Abolition of the Guild Taxes (1926), 114, 117, 120, 341n94 laws and legal reforms, 168; Armenian Church vs. Iranian laws, 164, 355n111; electoral, 108, 297–98, 337n52; foreign trade law, 118; guild taxes, 114, 117, 120, 341n94; Islamic law, 285; marriage law, 358n31; unveiling laws (1936), 177, 179, 180–81, 358n26
+
+<!-- page 446 -->
 
 408 | _Index_ 
 
@@ -5681,7 +6584,9 @@ _Middle East on the Eve of Modernity, The_ (Marcus), 110–11, 338–39n63
 
 military advisors. _See_ foreign advisors military forces. _See_ armed forces military schools: establishment of, 51, 
 
-320n18; in foreign countries, 52, 320n18; Iskandar Khan Setkhanian and, 56, 58, 80; Sattur Setkhanian and, 56 
+320n18; in foreign countries, 52, 320n18; Iskandar Khan Setkhanian and, 56, 58, 80; Sattur Setkhanian and, 56
+
+<!-- page 447 -->
 
 _Index_ | 409 
 
@@ -5713,7 +6618,9 @@ Mohammad Shah Qajar, 53, 126 Mokhtari, Rokneddin, 349n59 monarchies, 7–8, 36�
 
    - 361–62n53; family food business and, 177, 182–83, 185; life and career of, 175–78; on work at the Abadan oil complex, 174; World War II occupation and, 182 
 
-- Moradiance, Lucik, xxxii, 169–208, _195_ , _200_ , _205_ ; Abadan internship for, 169–74, _170_ , _173_ , 195–96, _196_ ; childhood of, 178; children of, 205–6; College of Engineering attendance by, 188–94, 360n44; elementary education for, 178–80, 182, 187, 275–77, 357n22; family attitudes on education and, 186–87; family history, 174–78; on gender discrimination, 204; high school education for, 183–84, _184_ , 187, 188, 360n41; life in the United States, 282–83; marriage of, 188, 197–98; Mowlem Soils Laboratory and, 197, _198_ , 198–200, _199_ , 361n51; national identity and, 276–78; National Iranian Oil Company position for, 203–5, 362n57; as a NIPC representative, 204–5, _205_ , _206_ , 362n58; Plan Organization Industrial and Mines Division and, 203; Plan Organization Technical and Soils Laboratory and, 200–202, _201_ , _203_ , 362n54; post-graduation job 
+- Moradiance, Lucik, xxxii, 169–208, _195_ , _200_ , _205_ ; Abadan internship for, 169–74, _170_ , _173_ , 195–96, _196_ ; childhood of, 178; children of, 205–6; College of Engineering attendance by, 188–94, 360n44; elementary education for, 178–80, 182, 187, 275–77, 357n22; family attitudes on education and, 186–87; family history, 174–78; on gender discrimination, 204; high school education for, 183–84, _184_ , 187, 188, 360n41; life in the United States, 282–83; marriage of, 188, 197–98; Mowlem Soils Laboratory and, 197, _198_ , 198–200, _199_ , 361n51; national identity and, 276–78; National Iranian Oil Company position for, 203–5, 362n57; as a NIPC representative, 204–5, _205_ , _206_ , 362n58; Plan Organization Industrial and Mines Division and, 203; Plan Organization Technical and Soils Laboratory and, 200–202, _201_ , _203_ , 362n54; post-graduation job
+
+<!-- page 448 -->
 
 410 | _Index_ 
 
@@ -5767,7 +6674,9 @@ National Front, xvi, 26, 33, 145, 147, 242
 
 - national identity, xviii–xix, xxv–xxix; Cottam on, xvii, 25, 312n87; development of, xxiii–xxiv, 264, 280; elitenonelite relationships and, 270; ethnic minorities and, 180; Fourth of Aban parade (1953) and, 268; in the Islamic Republic of Iran, 297, 378n54; nonelites and, 16; Orientalism and, 27–30, 270; social biography research and, 276–78; Vaziri on, 27–30, 312–13n91 
 
-- National Iranian Oil Company (NIOC), 170, 203–5, 361n49, 362n57 
+- National Iranian Oil Company (NIOC), 170, 203–5, 361n49, 362n57
+
+<!-- page 449 -->
 
 _Index_ | 411 
 
@@ -5821,7 +6730,9 @@ Nixon, Richard, 193, 361n47
 
 nonelites: vs. ethnic minorities, 316n129; 
 
-- Fourth of Aban parade (1953) and, 6; Hagob Hagobian as, xxxi; Hobsbawm on, 16; invented traditions and, 16, 17; national identity and, 16; power relationships and, 314n107; research on, 41. _See also_ elite-nonelite relationships 
+- Fourth of Aban parade (1953) and, 6; Hagob Hagobian as, xxxi; Hobsbawm on, 16; invented traditions and, 16, 17; national identity and, 16; power relationships and, 314n107; research on, 41. _See also_ elite-nonelite relationships
+
+<!-- page 450 -->
 
 ## 412 | _Index_ 
 
@@ -5879,7 +6790,9 @@ pack-animal transport, 97–98, 334n12
 
 - Pahlavi Hat (Kolah-e Pahlavi), 83, 270–71, 332n143 
 
-- Pahlavi regime: Armenian identity and, 264; Black Friday (September 8, 1978) and, 206–7; guilds and, 105, 113, 114–20, 339–40n76, 341n91, 341n94; loyalty to, 369–70n5; Moradiance family and, 177; religious minorities and, 266–67; on tax collection, 117–18; transportation infrastructure and, 100–101; Women’s Awakening and, 
+- Pahlavi regime: Armenian identity and, 264; Black Friday (September 8, 1978) and, 206–7; guilds and, 105, 113, 114–20, 339–40n76, 341n91, 341n94; loyalty to, 369–70n5; Moradiance family and, 177; religious minorities and, 266–67; on tax collection, 117–18; transportation infrastructure and, 100–101; Women’s Awakening and,
+
+<!-- page 451 -->
 
 _Index_ | 413 
 
@@ -5941,7 +6854,9 @@ _qazzaq-khane_ (barracks), 64–65 Qudsi, Ilyas, 338n62
 
 quilt maker ( _la-haf dooz_ ), 217, 218–19 
 
-Rafsanjani, Hashemi, 297 _rahdari_ (toll), 101 
+Rafsanjani, Hashemi, 297 _rahdari_ (toll), 101
+
+<!-- page 452 -->
 
 414 | _Index_ 
 
@@ -5981,7 +6896,9 @@ Rushdie, Salman, 289
 
 - Russia: Anglo-Russian Agreement, 70, 327n88; Armenian support for, 227–28, 364n12; citizenship in, 58, 323n50, 323n51; Moradiance family in, 175–77, 357n13; October Revolution (1917), 176, 364n12; pre-World War I trade with, 99; Iskandar Khan Setkhanian’s travel in, 56–57, 80, 81, 331n132, 331n135; territory lost to, 51; Treaty of Turkmanchai and, 174–75, 356n11 
 
-- Russians in Iran: Armenian Churches and, 128, 344n16; Constitutional 
+- Russians in Iran: Armenian Churches and, 128, 344n16; Constitutional
+
+<!-- page 453 -->
 
 _Index_ | 415 
 
@@ -6007,7 +6924,9 @@ Saginian, Sevak, xxxi–xxxii, 123–25,
 
 Saginian, Solayman, 126, 133, 344n11 Saginian, Zal, 125 
 
-- Saginian, Zohrab, xxxi, 126–39, _127_ ; Dashnak Party and, 126–28, 129, 130–31, 134–36; education of, 126, 128–29, 269, 344n12; Iranian nationalism and, 137, 348n51; Majles and, 131–34, 137–39, 154, 346n32, 347n36, 348n58; marriage of, 128, _129_ ; on the Persian language, 344n13; retirement years, 139, 349n61; Reza Shah Pahlavi and, 132–34, 136, 347n36; on school closures, 136–38, 348n50; on school reopenings, 354n101; 
+- Saginian, Zohrab, xxxi, 126–39, _127_ ; Dashnak Party and, 126–28, 129, 130–31, 134–36; education of, 126, 128–29, 269, 344n12; Iranian nationalism and, 137, 348n51; Majles and, 131–34, 137–39, 154, 346n32, 347n36, 348n58; marriage of, 128, _129_ ; on the Persian language, 344n13; retirement years, 139, 349n61; Reza Shah Pahlavi and, 132–34, 136, 347n36; on school closures, 136–38, 348n50; on school reopenings, 354n101;
+
+<!-- page 454 -->
 
 416 | _Index_ 
 
@@ -6053,7 +6972,9 @@ Setkhanian, Hovannes, 325n75
 
 - Setkhanian, Iskandar Khan, xxix, 47–88; Armenian Church and, 86, 332n146; attacks on the Majles (1908-1909) and, 70–76, 328n102, 329n104; awards to, 63, 64, 67, 69, 70, 72, 79–80, 328n97; as chief of staff , 80; children of, 64, 80, 326n78; Cossack Brigade and, 59–60, _60_ , _62_ , 62–69, _77_ , _80_ , _81_ ; death of, 88; education of, 56, 58, 269; entry into military service by, 58–59; family history, 49–56, _50_ ; family portraits, _66_ , _85_ , _86_ , _87_ ; family properties of, 83, _83_ , 331–32n142; funeral of, 47–49, _48_ , 318n1; _hammam_ (bathhouse) and, 64, 86, 326n77; Kolah-e Pahlavi (Pahlavi Hat) portrait, 83, _84_ , 270–71; marriage of, 64, 68, 325n75; memorabilia of, 48, 318n3; name of, 49; palace lands for, 66; pension funds and, 68, 327–28n92; photographs of, _62_ , _69_ , _78_ , _79_ , _81_ ; Qajar dynasty alliance with, 69, 83, 269; rank of, 59, 63, 67, 71, 323–24n53, 324n55; 
 
-   - retirement years, 81, 82–86, _85_ , _86_ , _87_ , 
+   - retirement years, 81, 82–86, _85_ , _86_ , _87_ ,
+
+<!-- page 455 -->
 
 _Index_ | 417 
 
@@ -6099,7 +7020,9 @@ Somka (National Socialist Workers Party of Iran), 229, 366n23
 
 Soraya (Queen), _245_ , 245, 367n32 South Indian identity, 32 
 
-- Soviet Union: Ararat and, 145–46; Azerbaijan and, 141, 184–85; bombing of Tehran, 227, 363–64n11; collectivization of agriculture in, 176–77, 230; Dashnak Party and, 130; embassy in Tehran, 230, 364–65n14; fear of, 146; Hagob Hagobian on, 121, 342n102; Nejde Hagobian on , 227–30; Smbat Kazarian in, 175, 357n13; Lucik Moradiance on, 192; New Economic Policy (NEP), 176; secret police, 131, 134–35, 138, 346n30, 347n43; Iskandar Khan Setkhanian and, 84, _87_ ; trade unions and, 116; World War II occupation of Iran and, 181–83, 359n34, 359n35. _See also_ Russia 
+- Soviet Union: Ararat and, 145–46; Azerbaijan and, 141, 184–85; bombing of Tehran, 227, 363–64n11; collectivization of agriculture in, 176–77, 230; Dashnak Party and, 130; embassy in Tehran, 230, 364–65n14; fear of, 146; Hagob Hagobian on, 121, 342n102; Nejde Hagobian on , 227–30; Smbat Kazarian in, 175, 357n13; Lucik Moradiance on, 192; New Economic Policy (NEP), 176; secret police, 131, 134–35, 138, 346n30, 347n43; Iskandar Khan Setkhanian and, 84, _87_ ; trade unions and, 116; World War II occupation of Iran and, 181–83, 359n34, 359n35. _See also_ Russia
+
+<!-- page 456 -->
 
 418 | _Index_ 
 
@@ -6153,7 +7076,9 @@ Treaty of Golestan (1813), 51
 
 - tribes: banditry by, 94, 98, 102, 119, 334n8; clothing of, 133; military use of roads and, 105, 336n34; Qajar dynasty and, 51; rebellions by, 330n121; David Saginian and, 125; in Saudi Arabia, 111–12; truck caravan banditry by, 94, 98, 334n8 
 
-- truck drivers: apprentice, 91–92, 102, 118; Avery’s description of, 101–2; caravans of, 94, 95–96, 98, 102, 334n8; in the 
+- truck drivers: apprentice, 91–92, 102, 118; Avery’s description of, 101–2; caravans of, 94, 95–96, 98, 102, 334n8; in the
+
+<!-- page 457 -->
 
 _Index_ | 419 
 
@@ -6211,7 +7136,9 @@ vernacular language, 18, 19
 
 ulama, 107, 319–20n16, 320n20 United Nations, 184–85 
 
-304n14; Ararat and, 146–47, 351n83, 351n84, 351n85; against Christians, 123–24; intercommunal, 89, 333n2; 
+304n14; Ararat and, 146–47, 351n83, 351n84, 351n85; against Christians, 123–24; intercommunal, 89, 333n2;
+
+<!-- page 458 -->
 
 420 | _Index_ 
 
@@ -6257,17 +7184,19 @@ Zargarian, Goorgen, 190 Zia al-Din, 82 Zionism, 349n65
 
 Ziyaee, Mohammad Hassan, 291 
 
-- Zoroastrians: Iran-Iraq War and, 375n40; in the Islamic Republic of Iran, 285, 371–72n5; Khomeini’s birth celebration and, 291–92, 374–75n37; nationalism and, 349n65; representation in Majles, 132, 353n96 
+- Zoroastrians: Iran-Iraq War and, 375n40; in the Islamic Republic of Iran, 285, 371–72n5; Khomeini’s birth celebration and, 291–92, 374–75n37; nationalism and, 349n65; representation in Majles, 132, 353n96
+
+<!-- page 459 -->
 
 / he writers included here are descendants of multiple cultural heritages and reflect the perspectives of various ethnic and cultural backgrounds: Egyptian, Iranian, Iraqi, Jordanian, Lebanese, Libyan, Palestinian, Syrian. They are from diverse socioeconomic classes and spiritual sensibilities: Jewish, Muslim, Christian, and atheist, among others. Yet, they coexist in this volume simply as American voices. 
 
 Atefat-Peckham gathered poetry and prose from sixteen accomplished writers whose works concern a variety of themes: from the familial cross-cultural misunderstandings and conflicts in the works of Iranian American writers Nahid Rachlin and Roger Sedarat to the mysticism of Khaled Mattawa’s poems; from the superstitions that govern characters in Diana Abu-Jaber’s prose to the devastating homesickness of Pauline Kaldas’s characters. Filled with emotion and keen observations, this collection showcases these writers’ vital contributions to contemporary American literature. 
 
-Front: Digital photographic art courtesy of Fred Wellner. 
+Front: Digital photographic art courtesy of Fred Wellner.
+
+<!-- page 460 -->
 
 **==> picture [440 x 631] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
 M MIDDLE EAST STUDIES A ip oe !<br>oe: == ae pe<br>= NS “This isa theoretically sophisticated and em- A SS oe<br>* — — _ pirically rich work that adds an entirely new | == Ma<br>“gi Bo dimension to the study of Iranian nationalism, ——— | ee|<br>> 4 making it required reading for both specialists . = be Fie oe<br>“oa.Sar’::  & and general—hishin readers.” Marashi, author of Nationalizing r ifar‘eaiAeSCe a ee aeXKa)oe bareheseBree EESFa: 5<br>“Na Tran: Culture, Power, and the State, 1870-1940 ely eee ;<br>nb. “The reader gets a vivid portrait of what it gy gy \ a<br>~~ _ has meant to grow up Armenian in Iran. ... a ce.<br>% ah nuanced view of how these individuals experi- a eo S- -<br>a enced the small and large events of their lives in 44 Vs<br>relation to the main questions that characterize \\f PAS | CNS | U<br>twentieth-century Iran.” ie i -f  G<br>=| —Setrag Manoukian, Institute of Islamic le H ay ‘ } ! wis ‘ tn '<br>a Studies and Department of Anthropology, 3 Na pads. aan<br>McGill University eS > é<br>“Yaghoubian’s book will be the most important By a 4 \<br>t \ D<br>= new book on Iranian nationalism published ® e =~ a Non<br>PE arte in years. He tells readers something valuable ma. eS b<br>~~- ©“¢ 23  __ norities=about nationalism not only in and Iran the integration but in the Middle of mi- East \¥~iNAn,‘“ "~ eSa.k  \t ;<br>en 8§more generally. His study could hardly be more d N me Ss<br>nS relevant given current events in the region, and Se oe 1<br>=~ readers will be grateful to Yaghoubian for his a. del —~, ; y 2<br>tho fi 3 . Y > o \ % 4<br>“~~ artful weaving of history, theory, and biography ae<br>+  toilluminate the past and present.” Reiss \ ae Zen<br>Benes i 2 rs ] > ae<br>; Michael Provence, Department of History, Sear Pee ote<br>University of California, San Diego pessh NI _— Loon<br>_ SC Syracusé.UniversityPress <= rr<br>+ Syracuse, NewYork 13244-5290 poe<br>oS www,.Syracuse University Préss.synedt 08 mS<br>Sorte an eee nen menor "7808 15'633594 pate<br>7a5 = Rion Laas Veo oe Dye ee hy Sa fs aay Se en ee re Ree * iSladhe (5 a att sel ioe<br>**----- End of picture text -----**<br>
-
-

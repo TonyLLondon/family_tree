@@ -1,0 +1,25 @@
+id: uruguay-sid-acnur-exiliados-chilenos-cerpa-perez-1986
+title: "Uruguay SID — ACNUR roster of Chilean exiles (Informe 820/RI/86, Oct 1986) — Cerpa Pérez, Helia del Carmen"
+remote:
+  primary_pdf_url: https://archive.org/download/archivos-del-terror-de-uruguay_sid-berrutti_rollo798-Documentos-de-1986-del-Dpto-I-con-RE-4245a4891/Archivos%20del%20Terror%20de%20Uruguay%20-%20Archivo%20SID%20(Berrutti)%20-%20Rollo%20798%20-%20Documentos%20de%201986%20del%20Dpto%20I%20con%20Registro%20de%20Entrada%204245%20al%204891.pdf
+  webpage_url: https://archive.org/details/archivos-del-terror-de-uruguay_sid-berrutti_rollo798-Documentos-de-1986-del-Dpto-I-con-RE-4245a4891
+fetches:
+  - kind: remote_excerpt
+    at: "2026-06-19T22:52:00Z"
+    repo_path: media/docs/internet-archive/helia-cerpa-perez/uruguay-sid-rollo798-acnur-exiliados-chilenos-excerpt-pp318-322.pdf
+    sha256: 54cf632b54f1b8b66724c6dd51c045ef85e0168250fb6864d0ab61511903746f
+    bytes: 245980
+    note: Pages 318 + 322 from 2500-page SID roll; full holder PDF 192 MiB not stored locally.
+  - kind: local_png
+    at: "2026-06-19T22:52:00Z"
+    repo_path: media/docs/internet-archive/helia-cerpa-perez/uruguay-sid-informe-820-exiliados-chilenos-p318.png
+  - kind: local_png
+    at: "2026-06-19T22:52:00Z"
+    repo_path: media/docs/internet-archive/helia-cerpa-perez/uruguay-sid-acnur-nomina-cerpa-perez-helia-p322.png
+files:
+  excerpt_pdf: media/docs/internet-archive/helia-cerpa-perez/uruguay-sid-rollo798-acnur-exiliados-chilenos-excerpt-pp318-322.pdf
+  informe_png: media/docs/internet-archive/helia-cerpa-perez/uruguay-sid-informe-820-exiliados-chilenos-p318.png
+  nomina_png: media/docs/internet-archive/helia-cerpa-perez/uruguay-sid-acnur-nomina-cerpa-perez-helia-p322.png
+  reference_md: reference.md
+  transcription_md: transcription.md
+  translation_en: translation.en.md

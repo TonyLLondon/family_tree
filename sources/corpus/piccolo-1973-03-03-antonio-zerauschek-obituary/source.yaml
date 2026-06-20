@@ -1,0 +1,18 @@
+id: piccolo-1973-03-03-antonio-zerauschek-obituary
+title: "Il Piccolo (Trieste) — Antonio Zerauschek death notice, 3 March 1973"
+remote:
+  primary_pdf_url: https://archive.org/download/Piccolo_1973-03-03/Piccolo_19730303.pdf
+  webpage_url: https://archive.org/details/Piccolo_1973-03-03
+fetches:
+- kind: pdf
+  at: '2026-06-18T18:11:00Z'
+  remote_url: https://archive.org/download/Piccolo_1973-03-03/Piccolo_19730303.pdf
+  sha256: e7062b5be434841e379312ea5b4abb0bee3a4145ecc329ad9bb487474d423413
+  bytes: 15984143
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1973-03-03.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/piccolo-1973-03-03.pdf
+  page_image: media/docs/internet-archive/zerauschek/piccolo-1973-03-03-antonio-zerauschek-obituary.png
+  full_page_image: media/docs/internet-archive/zerauschek/piccolo-1973-03-03-page-13.png
+  transcription_it: transcription-antonio-zerauschek-obituary-piccolo-1973.it.md
+  translation_en: translation-antonio-zerauschek-obituary-piccolo-1973.en.md

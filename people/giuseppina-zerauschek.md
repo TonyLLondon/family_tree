@@ -19,7 +19,7 @@ Giuseppina was the **eldest** of the Zerauschek children who reached adulthood a
 
 ## Evidence
 
-- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) → [corpus/famhist-nonna-memoir-1996/](../sources/corpus/famhist-nonna-memoir-1996/).
+- **Fulvia memoir (1996):** [sources/famhist-nonna-memoir-1996.md](../sources/famhist-nonna-memoir-1996.md) · [full record](../sources/corpus/famhist-nonna-memoir-1996/).
 - **Handwritten family tree (NTree02):** [media/docs/fulvia-family-tree-file/NTree02.jpg](../media/docs/fulvia-family-tree-file/NTree02.jpg) — Fulvia's hand; shows "Giuseppina m. De Franceschi" with children Jorena, Vincenzo, Emma, Antonio.
 - **Handwritten family tree (FT-ExtraA-001):** [media/docs/fulvia-family-tree-file/FT-ExtraA-001.jpg](../media/docs/fulvia-family-tree-file/FT-ExtraA-001.jpg) — detail of the De Franceschi branch.
 

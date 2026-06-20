@@ -5,7 +5,7 @@ const links = [
   { href: "/chart", label: "Family tree", desc: "Ancestor fan chart" },
   { href: "/stories", label: "Stories", desc: "Long-form family essays" },
   { href: "/people", label: "People", desc: "Biographical pages" },
-  { href: "/sources", label: "Sources", desc: "Citation cards & corpus" },
+  { href: "/sources", label: "Sources", desc: "Records and documents we cite" },
 ];
 
 export default function NotFound() {

@@ -24,7 +24,7 @@ The 1850 marriage register of his daughter records him as **"Guerino Antonio, pa
 ## Evidence
 
 - **Tree id:** **I389** — union **F183**.
-- **Marriage register of daughter Antonia Maria, Entry 30, 24 Aug 1850 (Zara):** "Guerino Antonio padre deff. ... di Venezia, fu Marinajo dell'... marina Austriaca" — [local image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg) · [corpus](../sources/corpus/1850-marriage-zerauschek-guerino-zara/reference.md) · FamilySearch image ARK 3:1:3QSQ-G99X-26RK.
+- **Marriage register of daughter Antonia Maria, Entry 30, 24 Aug 1850 (Zara):** "Guerino Antonio padre deff. ... di Venezia, fu Marinajo dell'... marina Austriaca" — [local image](../media/collections/zerauschek/Zerauschek%20(1)/Marriage%20Zerauschek%20Guerino%20Zara%201850.jpg) · [reference](../sources/corpus/1850-marriage-zerauschek-guerino-zara/reference.md) · FamilySearch image ARK 3:1:3QSQ-G99X-26RK.
 
 ## Open questions
 

@@ -8,7 +8,7 @@ birth_place: "Chile"
 
 # Isabel Mora (Valentin’s mother)
 
-**Role in tree:** Spouse of Ignacio Perez — union **F266**; mother of Valentin Perez (**I700**). Proven as Valentin’s mother by civil death **Q2SG-MPW3** (corpus: [fs-q2sg-mpw3-valentin-perez-death-1892](../sources/corpus/fs-q2sg-mpw3-valentin-perez-death-1892/reference.md)).
+**Role in tree:** Spouse of Ignacio Perez — union **F266**; mother of Valentin Perez (**I700**). Proven as Valentin’s mother by civil death **Q2SG-MPW3** (corpus: [fs-q2sg-mpw3-valentin-perez-death-1892](../sources/corpus/valentin-perez-death-1892/reference.md)).
 
 **Not the same person as:** [Isabel Mora (Ránquil, ~1858–1888)](isabel-mora-ranquil-1858.md) (**I733**), spouse of Mabricio Marianjel on **Q2SG-D46H**, unless handwriting or a second record proves otherwise.
 
@@ -23,7 +23,7 @@ Church indexes link a woman named Isabel Mora to **Isidro Mora** and **María Es
 
 ## Sources
 
-- [fs-q2sg-mpw3-valentin-perez-death-1892](../sources/corpus/fs-q2sg-mpw3-valentin-perez-death-1892/reference.md)
+- [fs-q2sg-mpw3-valentin-perez-death-1892](../sources/corpus/valentin-perez-death-1892/reference.md)
 - [fs-6rq6-zsqw-ignacio-isabel-marriage-1818](../sources/corpus/fs-6rq6-zsqw-ignacio-isabel-marriage-1818/reference.md)
 - [fs-6y8r-3qpv-isabel-mora-burial-1877](../sources/corpus/fs-6y8r-3qpv-isabel-mora-burial-1877/reference.md)
 - [Chilean PÉREZ line extension](../sources/corpus/chile-perez-line-extension-2026/reference.md)

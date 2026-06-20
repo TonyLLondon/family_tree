@@ -1,0 +1,14 @@
+id: cormick-family-tree-chart-william-tamar-daoudian
+title: "Cormick family tree chart — William × Tamar DAOUDIAN (Persia branch in bold)"
+remote: {}
+fetches:
+  - kind: local_png
+    at: "2026-05-09T14:00:00Z"
+    repo_path: media/docs/cormick-family-tree-chart-william-tamar-daoudian.png
+    sha256: aeaa739d7d66d670c045d969b60e44f84bdccfb1a59c42f8a24a5b98c4b3bb78
+    bytes: 119167
+    note: "Printed chart; title 'The CORMICK Family'; subtitle 'Cormicks who lived in Persia shown in bold'. Compiler/imprint not visible on facsimile."
+files:
+  media_reference: media/docs/cormick-family-tree-chart-william-tamar-daoudian.png
+  reference_md: reference.md
+  transcription_md: transcription.md

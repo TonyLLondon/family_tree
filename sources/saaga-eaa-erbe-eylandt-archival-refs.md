@@ -15,7 +15,7 @@ Specific archival shelf marks cited by Geni profile managers **Elle Kiiker** and
 - **Georg Sigismund Erbe** Pärnu parish entry — `EAA.1273.1.388:19`
 - **Caroline Sophie Heimberger** death, Riga 1850 — LVVA book 7556, slide 105 #39
 
-Full details in [corpus bundle](corpus/saaga-eaa-erbe-eylandt-archival-refs/reference.md).
+Full details in [source record](corpus/saaga-eaa-erbe-eylandt-archival-refs/reference.md).
 
 ## People
 

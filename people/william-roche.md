@@ -56,7 +56,7 @@ The pattern is striking: Crown Solicitor father, Crown Solicitor son-in-law (O'F
 
 ### Burke's 1833
 
-[Roche of Limerick — Forgotten Victorians](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/): "**3. William, a solicitor in Dublin, married Eliza, another daughter and co-heir of — Knight, esq.**"
+[Roche of Limerick — Forgotten Victorians](../sources/roche-of-limerick-forgotten-victorians.md) · [full record](../sources/corpus/roche-of-limerick-forgotten-victorians/): "**3. William, a solicitor in Dublin, married Eliza, another daughter and co-heir of — Knight, esq.**"
 
 ### British & Irish Newspaper Archive (FindMyPast, March 2026)
 
@@ -75,7 +75,7 @@ The pattern is striking: Crown Solicitor father, Crown Solicitor son-in-law (O'F
 ### Other evidence
 
 - **Tree id:** **I137** — unions **F68**, **F160**.
-- [corpus/obrien-roche-url-offline-captures/](../sources/corpus/obrien-roche-url-offline-captures/) — legacy Roche/Limerick web captures (see [reference.md](../sources/corpus/obrien-roche-url-offline-captures/reference.md)).
+- [O'Brien Roche offline captures](../sources/corpus/obrien-roche-url-offline-captures/) — legacy Roche/Limerick web captures (see [reference.md](../sources/corpus/obrien-roche-url-offline-captures/reference.md)).
 
 ## Open questions
 

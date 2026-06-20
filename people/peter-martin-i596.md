@@ -20,13 +20,13 @@ Peter ran a sweep business at **Frog Lane, Orpington** (later called Alpine Cott
 
 ## Family
 
-- Parents: [Samuel Martin](samuel-martin-i650.md) (chimney sweep, Bexley) and [Marianne](marianne-martin-i651.md) — from the 1840 Bexley baptism record. [Source bundle](../sources/corpus/1840-bexley-baptism-peter-martin/reference.md).
+- Parents: [Samuel Martin](samuel-martin-i650.md) (chimney sweep, Bexley) and [Marianne](marianne-martin-i651.md) — from the 1840 Bexley baptism record. [Reference](../sources/corpus/1840-bexley-baptism-peter-martin/reference.md).
 - First wife: **Catherine Hosten** (b. ~1838, **Bexley**, Kent). Married Q1 1857, Lewisham registration district (Vol 1D, p. 703). Same age and parish as Peter — they grew up together. Died between 1871 and ~1877. Children: James (~1859, Bletchingley, Surrey), Samuel (~1862, Kent), Catherine (~1866, Orpington), Emma (~1868, Orpington), Peter Jr (~1870, Orpington), William (~1871, Orpington — died young).
 - Second partner/wife: [Clara Webb](clara-webb-i597.md) (b. ~1854, Chelsfield, Kent). Listed as unmarried housekeeper in 1881; by 1891 listed as wife. No marriage record found. Children: Arthur (~1877), William (~1879), Albert (~1881), Harry (~1884), Edward (~1888), [Rosina](rosina-a-martin-i104.md) (1891).
 
 ## Evidence
 
-- **Parish baptism** — Peter Martin, baptised 23 Feb 1840, Bexley, Kent. Father: Samuel Martin (sweep). Mother: Marianne. Residence: Bexley Heath. [FMP: R_870887198](https://www.findmypast.co.uk/transcript?id=R_870887198). [Source bundle](../sources/corpus/1840-bexley-baptism-peter-martin/reference.md).
+- **Parish baptism** — Peter Martin, baptised 23 Feb 1840, Bexley, Kent. Father: Samuel Martin (sweep). Mother: Marianne. Residence: Bexley Heath. [FMP: R_870887198](https://www.findmypast.co.uk/transcript?id=R_870887198). [Reference](../sources/corpus/1840-bexley-baptism-peter-martin/reference.md).
 - **GRO Marriage Index** — Q1 1857, Lewisham: Peter Martin married **Catherine Hosten**, Vol 1D, p. 703. [Index image](../media/docs/gro-marriage-index-q1-1857-martin-peter-lewisham-vol1d-page703.jpg).
 - **1861 Census** — Sheds near Orpington (RG 9/486, p. 38): Peter Martin, head, 23, **travelling chimney sweeper**, born **Bexley**. Wife Catherine (23, born Bexley). Son James (2, born Bletchingley, Surrey). [Source card](../sources/1861-census-martin-orpington.md).
 - **1871 Census** — Frog Lane, Orpington (RG 10/878, p. 2, schedule 6): Peter Martin, head, 33, chimney sweep, born Woolwich [= Bexley]. Wife Catherine (31, born Bexleyheath). Six children; employee William Deanson (journeyman sweep). [Source card](../sources/1871-census-martin-orpington.md).

@@ -31,7 +31,7 @@ Marriage in the **Collegiate Parish Church of S. Simeone (Sv. Šime)**, Zara, on
 - **Birth of bride, 12 Jul 1825 Zara:** [1825-birth-geralda-rovaro-brizzi-zara](../1825-birth-geralda-rovaro-brizzi-zara/).
 - **Marriage of bride’s parents, 25 Aug 1821 Zara:** [1821-marriage-rovaro-brizzi-castellanich-zara](../1821-marriage-rovaro-brizzi-castellanich-zara/).
 - **Marriage of groom’s parents (Vincenzo Addobbati × Vincenza Coltelli), 25 Feb 1811 Zara:** [1811-marriage-addobbati-coltelli-zara](../1811-marriage-addobbati-coltelli-zara/).
-- **Sabalich, *Guida archeologica di Zara* (1897), p. 508** — describes Pietro Paolo as *Revidente Contabile Luogotenenziale* and *Tenente della guardia Nazionale (1848)*; lists Addobbati marriage alliances. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara-addobbati/).
+- **Sabalich, *Guida archeologica di Zara* (1897), p. 508** — describes Pietro Paolo as *Revidente Contabile Luogotenenziale* and *Tenente della guardia Nazionale (1848)*; lists Addobbati marriage alliances. See [sabalich-guida-zara-addobbati](../sabalich-guida-zara/).
 
 ## People
 

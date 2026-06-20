@@ -1,0 +1,16 @@
+id: guida-trieste-1927-zerauschek-commissario-avveri-excerpt
+title: "Guida Trieste 1927 (excerpt) — A. Zerauschek, commissario d'avveri, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/Guida_TS-1927/Guida_TS-1927.pdf
+  webpage_url: https://archive.org/details/Guida_TS-1927
+fetches:
+- kind: pdf
+  at: '2026-06-19T09:00:00Z'
+  remote_url: https://archive.org/download/Guida_TS-1927/Guida_TS-1927.pdf
+  sha256: 62e1e68a080d0391e9516810f3db8d7dc831c9c6f86b6bc4faf01f2d31fe7eb3
+  bytes: 2231670
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1927-zerauschek-commissario-excerpt.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/guida-trieste-1927-zerauschek-commissario-excerpt.pdf
+  page_image: media/docs/internet-archive/zerauschek/guida-trieste-1927-zerauschek-commissario-page.png
+  transcription_it: transcription-zerauschek-commissario-1927.it.md

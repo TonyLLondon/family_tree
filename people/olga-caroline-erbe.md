@@ -41,7 +41,7 @@ Parents: Hermann Eberhard Erbe; Emilie Ida Eylandt. Brother (vault page): [Eugen
 
 ## Evidence
 
-- **Press:** *Revalsche Zeitung* 15 Oct 1894, p. 3 — [transcription (DE)](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/transcription-olga-stump-familien-nachricht-1894.de.md) · [translation (EN)](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/translation-olga-stump-familien-nachricht-1894.en.md) · [page image](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/pages-jpeg/page-03-of-04.jpg) · [reference / DIGAR](../sources/corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/reference.md).
+- **Press:** *Revalsche Zeitung* 15 Oct 1894, p. 3 — [transcription (DE)](../sources/corpus/erbe-baltic-digar-newspaper-urls/transcription-olga-stump-familien-nachricht-1894.de.md) · [translation (EN)](../sources/corpus/erbe-baltic-digar-newspaper-urls/translation-olga-stump-familien-nachricht-1894.en.md) · [page image](../sources/corpus/erbe-baltic-digar-newspaper-urls/pages-jpeg/page-03-of-04.jpg) · [reference / DIGAR](../sources/corpus/erbe-baltic-digar-newspaper-urls/reference.md).
 - [Estonian Biographical Center — Stump report (2005)](../sources/estonian-biographical-center-stump-report-2005.md) — marriage 22 June 1868, children’s vitals, Marc’s career and 1903 Yverdon death note.
 - [Eugen Edmund Erbe](eugen-edmund-erbe.md) — brother; [Erbe Baltic web summary](../sources/erbe-baltic-german-web-references.md). Standalone biography under “Olga Caroline Erbe” was not located in a March 2026 open-web sweep; parish imaging remains primary.
 

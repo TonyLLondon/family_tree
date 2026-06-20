@@ -75,7 +75,7 @@ This represents one of the **most extensively researched paternal lineages** in 
 
 ## Documentation
 
-**Corpus Entries Created:**
+**Source records created:**
 - [sources/corpus/francois-montagnon-baptism-1667/reference.md](sources/corpus/francois-montagnon-baptism-1667/reference.md)
 - [sources/corpus/jean-pierre-montagnon-burial-1737/reference.md](sources/corpus/jean-pierre-montagnon-burial-1737/reference.md)
 

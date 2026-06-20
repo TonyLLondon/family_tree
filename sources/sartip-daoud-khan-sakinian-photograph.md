@@ -10,11 +10,11 @@ media_reference_2: "media/collections/burgess-persian-letters/2020-10-01 Sartip 
 
 # Sartip Daoud Khan Sakinian — photograph with Persian caption
 
-Two scans of the same page 47 from **ایرانیان ارمنی** (*Irāniyān-e Armanī* / "Iranian Armenians") by **Esmail Ra'in** (اسماعیل رائین), published by **Amir Kabir Publishing** (مؤسسه انتشارات امیرکبیر), Tehran, 2536 Imperial calendar (1977 CE). The page shows a full-length portrait photograph of a uniformed man with military medals. The two bundles are duplicate scans at slightly different quality.
+Two scans of the same page 47 from **ایرانیان ارمنی** (*Irāniyān-e Armanī* / "Iranian Armenians") by **Esmail Ra'in** (اسماعیل رائین), published by **Amir Kabir Publishing** (مؤسسه انتشارات امیرکبیر), Tehran, 2536 Imperial calendar (1977 CE). The page shows a full-length portrait photograph of a uniformed man with military medals. The two source records are duplicate scans at slightly different quality.
 
-**Corpus bundles (duplicates of the same page):**
-- [`corpus/2020-10-01-sartip-david-sakinian-172b364799/`](corpus/2020-10-01-sartip-david-sakinian-172b364799/)
-- [`corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/`](corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/)
+**Source records (duplicates of the same page):**
+- [full record](corpus/2020-10-01-sartip-david-sakinian-172b364799/)
+- [full record](corpus/2020-10-01-sartip-david-sakinian-2-c6ecff59d2/)
 
 Note: The PDF extracts are unreadable (OCR failed on scanned Persian text). The content below is read from the image directly.
 

@@ -7,7 +7,7 @@ corpus: wikipedia-solayman-khan-saham-al-dowleh
 
 # Solayman Khan Saham al-Dowleh (Wikipedia)
 
-Wikipedia article on Solayman Khan Saham al-Dowleh (1782/83–January 1853), an Armenian-Georgian nobleman who served as a government official in Qajar Iran. Primary scholarly source is Maeda 2019 — **now directly in corpus:** [corpus/maeda-2019-enikolopians-saginian-flight/](corpus/maeda-2019-enikolopians-saginian-flight/) — [reference](corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md). Cite the corpus reference rather than this Wikipedia article for all genealogical assertions about David/Zaal Saginean.
+Wikipedia article on Solayman Khan Saham al-Dowleh (1782/83–January 1853), an Armenian-Georgian nobleman who served as a government official in Qajar Iran. Primary scholarly source is Maeda 2019 — **Now in the vault:** [full record](corpus/maeda-2019-enikolopians-saginian-flight/) — [reference](corpus/maeda-2019-enikolopians-saginian-flight/reference.md) · [snippets](corpus/maeda-2019-enikolopians-saginian-flight/transcription.snippets.md). Cite the source record rather than this Wikipedia article for all genealogical assertions about David/Zaal Saginean.
 
 ## Key passage for Saginian line
 
@@ -21,6 +21,6 @@ This confirms the Georgian origin and 1811 arrival in Iran of **David Saginean**
 - [Anna Saginian](../people/anna-saginian.md) — daughter
 - [Tamar Saginian](../people/tamar-saginian.md) — daughter
 
-## Corpus extract
+## Source record extract
 
-- [corpus/wikipedia-solayman-khan-saham-al-dowleh/extracted.web.md](corpus/wikipedia-solayman-khan-saham-al-dowleh/extracted.web.md)
+- [extracted.web.md](corpus/wikipedia-solayman-khan-saham-al-dowleh/extracted.web.md)

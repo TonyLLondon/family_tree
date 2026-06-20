@@ -7,7 +7,7 @@ kind: pdf
 
 **Full title:** Miroslav Granić, "Popis plemića grada Nina iz 1817. godine" (*Zbornik Odsjeka za povijesne znanosti Zavoda za povijesne i društvene znanosti Hrvatske akademije znanosti i umjetnosti*, vol. 32, Zagreb, 2014, pp. 199–244).
 
-**Corpus bundle:** [corpus/granic-nin-noble-list-1817/](corpus/granic-nin-noble-list-1817/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/granic-nin-noble-list-1817/extracted.pdf.md).
+**Source record:** [full record](corpus/granic-nin-noble-list-1817/) — `source.yaml` + OCR transcript [extracted.pdf.md](corpus/granic-nin-noble-list-1817/extracted.pdf.md).
 
 **Local PDF (ingest):** ingested from `manual_output/Zbornik 32 10 Granic.pdf`.
 

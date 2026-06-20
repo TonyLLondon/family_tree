@@ -46,29 +46,29 @@ They married on **25 September 1832** at Erlen/Sulgen, Thurgau — confirmed by 
 
 **Swiss parish records:**
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6JCV-BDKJ | Baptism — 15 Jul 1805, Vaud | [corpus](../sources/corpus/1805-baptism-jeanne-benigne-montagnon/reference.md) |
-| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray | [corpus](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
-| 66JJ-3MYV | Family register — Jakob Stump × Montagnon, 1832 | [corpus](../sources/corpus/1832-family-register-jakob-stump-montagnon-erlen/reference.md) |
-| 6NQL-FNTW | Family register — JF Louis Montagnon × Jaqueline Suzanne Chenevard, 28 Oct 1761 | [corpus](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
-| 6NQL-QVQK | Burial — Jean Pierre Montagnon, 5 Mar 1737, Aubonne | [corpus](../sources/corpus/jean-pierre-montagnon-burial-1737/reference.md) |
-| 6NQK-Q676 | Baptism — François Montagnon, 22 Dec 1667, father Jean Montagnon | [corpus](../sources/corpus/francois-montagnon-baptism-1667/reference.md) |
-| Multiple | Family records — Sebastien Montagnon × Louyse Meylan, children 1698-1710 | [corpus](../sources/corpus/sebastien-montagnon-family-records/reference.md) |
-| Multiple | Early Swiss Mont- surnames — Montalard (1556), Montard (1563-1633), potential MONTAGNON ancestors | [corpus](../sources/corpus/early-montagnon-montard-lineage-1550s-1630s/reference.md) |
-| Multiple | DUMARTHERAY-BOREL maternal line extension, 1620s-1810s | [corpus](../sources/corpus/dumartheray-borel-family-extension/reference.md) |
-| 6NQF-B65R | Baptism — Jean Gabriel Dumartheray, 25 Dec 1753, parents JP Marc + Danielle Luc | [corpus](../sources/corpus/jean-gabriel-dumartheray-baptism-1753/reference.md) |
-| 6NQK-LLP3 | Baptism — Jean Jaques Dumartherey, 24 Dec 1643, father Christophle | [corpus](../sources/corpus/jean-jacques-dumartherey-baptism-1643/reference.md) |
-| 6NQK-TY4F | Baptism — Jehan Jacque Borrel, 30 Sep 1599, father Moyse Borrel | [corpus](../sources/corpus/jehan-jacque-borrel-baptism-1599/reference.md) |
-| 6NQ2-314L | Burial — Antoine Chenevard, 24 Jul 1733, father Bernard Chenevard | [corpus](../sources/corpus/antoine-chenevard-burial-1733/reference.md) |
-| 6NQF-WB45 | Baptism — Jaqueline Susanne Chenevard, 26 Oct 1732, Céligny | [corpus](../sources/corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/reference.md) |
-| 6NQL-3F71 | Burial — J Louis Montagnon, 4 Feb 1786, Aubonne | [corpus](../sources/corpus/1786-burial-j-louis-montagnon-aubonne/reference.md) |
-| 6NQL-M318 | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [corpus](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
-| 6NQ2-9SBN | Burial — Benjamin Chenevard, 2 Dec 1747, Céligny | [corpus](../sources/corpus/1747-burial-benjamin-chenevard-celigny/reference.md) |
-| 6JCK-2SH2 | Family register — Gabriel Nicolas Dumartheray × Jeanne Elisabeth Borel, 4 Aug 1767 | [corpus](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
-| 6JCK-8LQQ | Baptism — Jeanne Françoise Dumartheray, 25 Mar 1775 | [corpus](../sources/corpus/1775-baptism-jeanne-francoise-dumartheray/reference.md) |
+| 6JCV-BDKJ | Baptism — 15 Jul 1805, Vaud | [reference](../sources/corpus/1805-baptism-jeanne-benigne-montagnon/reference.md) |
+| 6NQG-YBTS | Family register — Louis Montagnon × Dumartheray | [reference](../sources/corpus/family-register-louis-montagnon-dumartheray/reference.md) |
+| 66JJ-3MYV | Family register — Jakob Stump × Montagnon, 1832 | [reference](../sources/corpus/1832-family-register-jakob-stump-montagnon-erlen/reference.md) |
+| 6NQL-FNTW | Family register — JF Louis Montagnon × Jaqueline Suzanne Chenevard, 28 Oct 1761 | [reference](../sources/corpus/1761-family-register-montagnon-chenevard/reference.md) |
+| 6NQL-QVQK | Burial — Jean Pierre Montagnon, 5 Mar 1737, Aubonne | [reference](../sources/corpus/jean-pierre-montagnon-burial-1737/reference.md) |
+| 6NQK-Q676 | Baptism — François Montagnon, 22 Dec 1667, father Jean Montagnon | [reference](../sources/corpus/francois-montagnon-baptism-1667/reference.md) |
+| Multiple | Family records — Sebastien Montagnon × Louyse Meylan, children 1698-1710 | [reference](../sources/corpus/sebastien-montagnon-family-records/reference.md) |
+| Multiple | Early Swiss Mont- surnames — Montalard (1556), Montard (1563-1633), potential MONTAGNON ancestors | [reference](../sources/corpus/early-montagnon-montard-lineage-1550s-1630s/reference.md) |
+| Multiple | DUMARTHERAY-BOREL maternal line extension, 1620s-1810s | [reference](../sources/corpus/dumartheray-borel-maternal-extension-2026/reference.md) |
+| 6NQF-B65R | Baptism — Jean Gabriel Dumartheray, 25 Dec 1753, parents JP Marc + Danielle Luc | [reference](../sources/corpus/jean-gabriel-dumartheray-baptism-1753/reference.md) |
+| 6NQK-LLP3 | Baptism — Jean Jaques Dumartherey, 24 Dec 1643, father Christophle | [reference](../sources/corpus/jean-jacques-dumartherey-baptism-1643/reference.md) |
+| 6NQK-TY4F | Baptism — Jehan Jacque Borrel, 30 Sep 1599, father Moyse Borrel | [reference](../sources/corpus/jehan-jacque-borrel-baptism-1599/reference.md) |
+| 6NQ2-314L | Burial — Antoine Chenevard, 24 Jul 1733, father Bernard Chenevard | [reference](../sources/corpus/antoine-chenevard-burial-1733/reference.md) |
+| 6NQF-WB45 | Baptism — Jaqueline Susanne Chenevard, 26 Oct 1732, Céligny | [reference](../sources/corpus/1732-baptism-jaqueline-suzanne-chenevard-celigny/reference.md) |
+| 6NQL-3F71 | Burial — J Louis Montagnon, 4 Feb 1786, Aubonne | [reference](../sources/corpus/1786-burial-j-louis-montagnon-aubonne/reference.md) |
+| 6NQL-M318 | Marriage register — Benjamin Chenevard × Christine Nerfin, 9 Mar 1720 | [reference](../sources/corpus/1720-marriage-register-chenevard-nerfin-celigny/reference.md) |
+| 6NQ2-9SBN | Burial — Benjamin Chenevard, 2 Dec 1747, Céligny | [reference](../sources/corpus/1747-burial-benjamin-chenevard-celigny/reference.md) |
+| 6JCK-2SH2 | Family register — Gabriel Nicolas Dumartheray × Jeanne Elisabeth Borel, 4 Aug 1767 | [reference](../sources/corpus/1767-family-register-dumartheray-borel/reference.md) |
+| 6JCK-8LQQ | Baptism — Jeanne Françoise Dumartheray, 25 Mar 1775 | [reference](../sources/corpus/1775-baptism-jeanne-francoise-dumartheray/reference.md) |
 
-**Parentage correction note:** An earlier research pass attributed Jean Louis Montagnon's parents to Jean Michel Montagnon + Catherine Vougaz based on a burial record (6NQ2-TV9P, d. 1817). Subsequent research showed that burial is for a *different* Jean Louis Montagnon (b. 1743, son of Jean Michel) who married Jeanne Françoise Vougaz in 1780 (6NQG-NVVV). Our ancestor, **Jean François Louis Montagnon**, was the son of **Jean Pierre Montagnon + Jeanne Cusin** (confirmed by multiple family register entries at Céligny, 6NQL-FNTW et al.), born ~1737, and buried 4 Feb 1786 at Aubonne. The old corpus entries ([1817-burial-jean-louis-montagnon](../sources/corpus/1817-burial-jean-louis-montagnon/reference.md), [1772-burial-jean-michel-montagnon](../sources/corpus/1772-burial-jean-michel-montagnon/reference.md)) have been annotated as referring to a different individual.
+**Parentage correction note:** An earlier research pass attributed Jean Louis Montagnon's parents to Jean Michel Montagnon + Catherine Vougaz based on a burial record (6NQ2-TV9P, d. 1817). Subsequent research showed that burial is for a *different* Jean Louis Montagnon (b. 1743, son of Jean Michel) who married Jeanne Françoise Vougaz in 1780 (6NQG-NVVV). Our ancestor, **Jean François Louis Montagnon**, was the son of **Jean Pierre Montagnon + Jeanne Cusin** (confirmed by multiple family register entries at Céligny, 6NQL-FNTW et al.), born ~1737, and buried 4 Feb 1786 at Aubonne. The old reference entries ([1817-burial-jean-louis-montagnon](../sources/corpus/1817-burial-jean-louis-montagnon/reference.md), [1772-burial-jean-michel-montagnon](../sources/corpus/1772-burial-jean-michel-montagnon/reference.md)) have been annotated as referring to a different individual.
 
 ## Research Notes
 

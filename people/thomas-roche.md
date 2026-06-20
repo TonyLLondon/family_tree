@@ -110,7 +110,7 @@ Thomas was also active in Limerick public life for decades: he seconded **Daniel
 
 ### Burke's 1833
 
-[Roche of Limerick — Forgotten Victorians](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/): Thomas listed as child of Stephen Roche × Sarah O'Bryen (second marriage). William described as "M.P. for his native city of Limerick, and its first catholic representative."
+[Roche of Limerick — Forgotten Victorians](../sources/roche-of-limerick-forgotten-victorians.md) · [full record](../sources/corpus/roche-of-limerick-forgotten-victorians/): Thomas listed as child of Stephen Roche × Sarah O'Bryen (second marriage). William described as "M.P. for his native city of Limerick, and its first catholic representative."
 
 ### Tree id
 

@@ -53,7 +53,7 @@ For the **traditional biography** of Adam, **castle photographs**, and a **subje
 
 ## Evidence
 
-- [Burke's *History of Commoners* (1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [corpus](../sources/corpus/roche-of-limerick-forgotten-victorians-da2674483d/extracted.pdf.md): "John Roche, of Castletown-Roche, descended from the Viscounts Fermoy, was a member of the Catholic Parliament or Council held at Kilkenny during the civil wars."
+- [Burke's *History of Commoners* (1833)](../sources/roche-of-limerick-forgotten-victorians.md) · [ingest text](../sources/corpus/roche-of-limerick-forgotten-victorians/extracted.pdf.md): "John Roche, of Castletown-Roche, descended from the Viscounts Fermoy, was a member of the Catholic Parliament or Council held at Kilkenny during the civil wars."
 - [Wexford People, 26 Apr 1890 — Roche at the 1641 Parliament](../sources/corpus/1890-wexford-people-roche-kilkenny-parliament/transcription.md): "David Roche, of Gleecure, John Roche of Castletown, and Redmond Roche of Cahirdowgan in the Commons."
 - [Atlas (London), 9 Apr 1853 — obituary of James Roche](../sources/corpus/1853-atlas-james-roche-obituary-fermoy-descent/transcription.md): "lineally descended from the Viscounts Fermoy, on the paternal side."
 - [Wikipedia — David Roche, 7th Viscount Fermoy](../sources/corpus/wikipedia-david-roche-7th-viscount-fermoy/extracted.web.md): full genealogy of the Viscount Fermoy line, descent from Adam de Rupe.

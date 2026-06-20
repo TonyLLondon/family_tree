@@ -30,5 +30,5 @@ Husband: [David Fensom](david-fensom-i202.md) (I202, b. ABT 1836, Luton). Parent
 
 ## Evidence
 
-- **1881 Census** — 8 Milton Place, Islington (RG 11/244, folio 100, p. 57, schedule 332): Georgiana Fensom (wife, 45) with husband David and five children. [Source card](../sources/1881-census-fensom-milton-place.md) · [transcription](../sources/corpus/1881-census-fensom-household-milton-place-islington/transcription.md).
+- **1881 Census** — 8 Milton Place, Islington (RG 11/244, folio 100, p. 57, schedule 332): Georgiana Fensom (wife, 45) with husband David and five children. [Source card](../sources/1881-census-fensom-milton-place.md) · [transcription](../sources/corpus/1881-census-fensom-milton-place/transcription.md).
 - **1901 Census** — 13 Eden Grove, Islington: Georgina Fensom (wife, 65, born London).

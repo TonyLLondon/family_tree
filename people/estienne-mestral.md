@@ -16,6 +16,6 @@ Estienne Mestral was the father of [Françoise Mestral](francoise-mestral.md), i
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| 6NQL-D1L7 | Named as parent of Françoise Mestral in family register, 4 Mar 1688 | [corpus](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |
+| 6NQL-D1L7 | Named as parent of Françoise Mestral in family register, 4 Mar 1688 | [reference](../sources/corpus/1688-family-register-chenevard-mestral-celigny/reference.md) |

@@ -9,7 +9,7 @@ people:
 # Owen Beasley — Wikipedia
 
 **URL:** https://en.wikipedia.org/wiki/Owen_Beasley
-**Corpus:** [sources/corpus/wikipedia-owen-beasley/](corpus/wikipedia-owen-beasley/)
+**Source record:** [full record](corpus/wikipedia-owen-beasley/)
 
 ## Key facts for this vault
 

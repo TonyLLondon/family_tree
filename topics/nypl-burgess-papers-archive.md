@@ -63,8 +63,8 @@ Edward was buried in the **green Armenian cemetery outside the Tabriz walls**, b
 
 - [media/collections/burgess-persian-letters/](../media/collections/burgess-persian-letters/) — letter images and PDFs
 - Henderson: [media/albums/henderson/BurgessNYPL.pdf](../media/albums/henderson/BurgessNYPL.pdf)
-- Anna interview extract: [corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md](../sources/corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md)
-- Bulletin extract: [corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md](../sources/corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md)
+- Anna interview extract: [Anna interview (ingest text)](../sources/corpus/nypl-burgess-appendix-anna-interview/extracted.pdf.md)
+- Bulletin extract: [Schwartz bulletin (ingest text)](../sources/corpus/nypl-burgess-bulletin-pdf/extracted.pdf.md)
 
 ## Citation card
 

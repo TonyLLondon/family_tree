@@ -20,9 +20,9 @@ Hans Jacob Jung of Sulgen, Thurgau, was the father of [Anna Margaretha Jung](ann
 
 ## Evidence
 
-| Record | Event | Corpus |
+| Record | Event | Source record |
 |--------|-------|--------|
-| FVKB-M51 | Daughter's baptism — 24 Jul 1735, Sulgen | [corpus](../sources/corpus/1735-baptism-margaretha-jung-sulgen/reference.md) |
+| FVKB-M51 | Daughter's baptism — 24 Jul 1735, Sulgen | [reference](../sources/corpus/1735-baptism-margaretha-jung-sulgen/reference.md) |
 
 **treeId** **I150** — union F75.
 

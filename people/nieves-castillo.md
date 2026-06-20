@@ -27,4 +27,4 @@ Nieves represents the **CASTILLO maternal ancestry** merging with the MENDEZ fam
 
 ## Sources
 
-- [Chilean CERPA Maternal Line Discovery](../sources/corpus/fs-62xx-m8w7-rosario-mendez-death-1826/) - FamilySearch 62XX-M8W7
+- [Chilean CERPA Maternal Line Discovery](../sources/corpus/rosario-mendez-death-1826/) - FamilySearch 62XX-M8W7

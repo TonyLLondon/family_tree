@@ -25,10 +25,12 @@ No death entry for Francisco appears in the Chanco deaths index (covering approx
 ## Evidence
 
 - **Chanco civil registry marriage index** (DGS 004702560, film page 365): "Cerpa, Francisco con González, Ana Delia, 59" under Año 1909. Index image: [page-0365-cerpa-marriage-crop.jpg](../media/docs/chile-chanco/index-nacimientos-1885-1932/page-0365-cerpa-marriage-crop.jpg).
+- **Bride's index line (1909, entry 59):** "González Torres, Rosalía con Cerpa, Francisco" — [page-0384 crop](../media/docs/chile-chanco/page-0384-gonzalez-cerpa-francisco-marriage-1909-crop.jpg). Corpus: [chanco-index-cerpa-gonzalez-marriages-1900-1909](../sources/corpus/chanco-index-cerpa-gonzalez-marriages-1900-1909/).
+- **Possible father lead:** index shows **Cerpa, Santiago** × **Garrido, Imperatriz** (1900, entry 8) — [page-0385 crop](../media/docs/chile-chanco/page-0385-santiago-cerpa-garrido-marriage-1900-crop.jpg). Same film shows **Cerpa Garrido, Juan de Dios** (birth 1900, entry 182) — [C births index p. ~193](../media/docs/chile-chanco/index-nacimientos-1885-1932/page-0193.jpg). Tree parents [Fabián Cerpa (b. 1808)](fabian-cerpa-1808.md) × [Engracia Fernandez](engracia-fernandez.md) are **generationally unlikely** for a 1909 groom; order Chanco marriage acta **59/1909** via Registro Civil (see [research memo](../research/chile-maule-civil-records-without-familysearch.md)).
 - Research hub: [Evans · Cerpa Pérez — Chile](../topics/evans-cerpa-perez-london-chile.md#chile--cerpa--pérez-región-del-maule).
 - **Tree id:** **I348** — union **F163**.
 
 ## Open questions
 
-- Full Chanco civil marriage register entry (not just the index) for 1909, entry 59 — would give Francisco's parents' names and ages. The actual register images for this period are not yet digitised on FamilySearch.
+- Full Chanco civil marriage register entry (not just the index) for 1909, entry 59 — parents' names and ages. **Order acta** from Registro Civil / Archivo Histórico RC (index numbers already captured; no FamilySearch required). See [chile-maule-civil-records-without-familysearch](../research/chile-maule-civil-records-without-familysearch.md).
 - Chilean civil entries for Francisco's birth and death.

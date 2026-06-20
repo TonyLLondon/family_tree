@@ -1,0 +1,16 @@
+id: gazzetta-ufficiale-1931-01-30-bellini-zerauschek-cognome
+title: "Gazzetta Ufficiale (1931-01-30) — Bellini-Zerauschek cognome reduction, Zara"
+remote:
+  primary_pdf_url: https://archive.org/download/19310130_024/19310130_024.pdf
+  webpage_url: https://archive.org/details/19310130_024
+fetches:
+- kind: pdf
+  at: '2026-06-19T09:00:00Z'
+  remote_url: https://archive.org/download/19310130_024/19310130_024.pdf
+  sha256: 9881983923c75eca4da5b356e2a6e01234ed6a17cce9b30c5db6331d953d2909
+  bytes: 2149436
+  media_reference: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1931-01-30-bellini-zerauschek.pdf
+files:
+  media_reference: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1931-01-30-bellini-zerauschek.pdf
+  page_image: media/docs/internet-archive/zerauschek/gazzetta-ufficiale-1931-01-30-bellini-zerauschek-page.png
+  transcription_it: transcription-bellini-zerauschek-cognome-1931.it.md

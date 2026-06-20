@@ -1,8 +1,8 @@
 # Mahmoudieh house / Mustawfi / Qajar Tehran — wishlist
 
-**Provenance:** The vault’s narrative summary comes from a **2008 email from Shireen Mahdavi to John Henderson** (saved as HTML/XML under `media/albums/etienne-house/`), **not** to the vault owner. Treat claims (Alamir chain, “unlucky” house, chronology) as **leads** until pinned to **Mustawfi** (or another primary) with **volume and page**.
+**Provenance:** The vault’s narrative summary comes from a **2008 email from Shireen Mahdavi to John Henderson** (saved as HTML/XML under `media/albums/etienne-house/`). **Primary citation:** [corpus/mustowfi-mahmoudieh-dr-stemp-dli-508037/](../corpus/mustowfi-mahmoudieh-dr-stemp-dli-508037/) — Mustowfi vol. 1, p. 51.
 
-**Topic hub:** [topics/mahmoudieh-house.md](../../topics/mahmoudieh-house.md) · **Source card:** [mustawfi-mahmoudieh-stump.md](../mustawfi-mahmoudieh-stump.md) · **Person:** [Étienne Stump](../../people/etienne-stump.md)
+**Topic hub:** [topics/mahmoudieh-house.md](../../topics/mahmoudieh-house.md) · **Source card:** [mustowfi-mahmoudieh-dr-stemp-dli-508037.md](../mustowfi-mahmoudieh-dr-stemp-dli-508037.md) · **Person:** [Étienne Stump](../../people/etienne-stump.md)
 
 **Overlap:** Dentistry-specific buys (Elgood, Najm-Abadi, Yazdi, Kamareh'i, Sayyah originals) stay centralized in [stump.md](stump.md); this file foregrounds **house / neighborhood / Qajar land chain** acquirables.
 
@@ -10,7 +10,9 @@
 
 ## Priority — pin the memoir
 
-### 1. Mustawfi — Persian original (3 vols.)
+**Done (2026):** [corpus/mustowfi-mahmoudieh-dr-stemp-dli-508037/](../corpus/mustowfi-mahmoudieh-dr-stemp-dli-508037/) — vol. 1, **p. 51**; full PDF, facsimile, Persian transcription, English translation. IA holder `dli.ernet.508037`.
+
+### 1. Mustawfi — Persian original (3 vols.) — *vol. 1 Mahmoudieh passage acquired*
 
 **عبدالله مستوفی، *شرح زندگانی من*** — first ed. **1945**; author-revised ed. **1965** (posthumous); ~**1927** pp. total.
 

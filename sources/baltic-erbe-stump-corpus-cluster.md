@@ -1,25 +1,25 @@
-# Baltic Erbe, DIGAR, Thurgau, Stump tree — corpus cluster
+# Baltic Erbe, DIGAR, Thurgau, Stump tree — source cluster
 
-Bundles for **Olga Erbe / Marc Stump / Étienne Stump**, **Tallinn / Reval**, **Thurgau parish books**, and **Swiss–Russian petition** context. Pair with [wishlist/erbe-baltic-german-line.md](wishlist/erbe-baltic-german-line.md), [erbe-baltic-german-web-references.md](erbe-baltic-german-web-references.md).
+Source records for **Olga Erbe / Marc Stump / Étienne Stump**, **Tallinn / Reval**, **Thurgau parish books**, and **Swiss–Russian petition** context. Pair with [wishlist/erbe-baltic-german-line.md](wishlist/erbe-baltic-german-line.md), [erbe-baltic-german-web-references.md](erbe-baltic-german-web-references.md).
 
 ## Newspapers (DIGAR)
 
-- [corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/](corpus/digar-revalsche-zeitung-1894-10-15-olga-stump-notice-static/) — Olga Stump geb. Erbe, 1894
-- [corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/](corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/) — Eugen Erbe obituary
-- [corpus/digar-revalsche-zeitung-1908-01-23-nr19-reader/](corpus/digar-revalsche-zeitung-1908-01-23-nr19-reader/) — reader HTML
+- [full record](corpus/erbe-baltic-digar-newspaper-urls/) — Olga Stump geb. Erbe, 1894
+- [full record](corpus/digar-revalsche-zeitung-1908-01-23-nr19-static/) — Eugen Erbe obituary
+- [full record](corpus/digar-revalsche-zeitung-1908-01-23-nr19-reader/) — reader HTML
 
 ## Tallinn / family research
 
-- [corpus/estonian-biographical-center-stump-family-resear-856c90185e/](corpus/estonian-biographical-center-stump-family-resear-856c90185e/)
+- [full record](corpus/estonian-biographical-center-stump-report-2005/)
 
 ## Switzerland
 
-- [corpus/hvtg-kirchgemeinden-pfarrbuecher-thurgau/](corpus/hvtg-kirchgemeinden-pfarrbuecher-thurgau/)
-- [corpus/petition-swiss-political-department-bern-russian-ee8fdb0857/](corpus/petition-swiss-political-department-bern-russian-ee8fdb0857/)
+- [full record](corpus/hvtg-kirchgemeinden-pfarrbuecher-thurgau/)
+- [full record](corpus/petition-swiss-political-department-bern-russian-ee8fdb0857/)
 
 ## Charts & web mirrors (Erbe)
 
-- [corpus/stump-family-tree-c3cb58201a/](corpus/stump-family-tree-c3cb58201a/)
+- [full record](corpus/stump-family-tree-chart/)
 - BBLD / Wikipedia / EADB / RA.EE / Wikidata — see [corpus-bibliography.md](corpus-bibliography.md) § Stump / Erbe / Baltic–Swiss
 
 ## People

@@ -549,11 +549,12 @@ Morgan Morgans and Lettice appear at **two positions** in the chart: slots 268�
 
 | Slots | Surname | Gen stops at | What's missing |
 |-------|---------|-------------|----------------|
-| 56–63 | **CERPA / GONZÁLEZ / PÉREZ / ESCOBAR** | Gen 5 | Parents of Francisco Cerpa and Ana González; parents of Francisco Pérez and Zoraida Escobar — Chilean civil records |
+| 56–63 | **CERPA / GONZÁLEZ / PÉREZ / ESCOBAR** | Gen 5 | Parents of Francisco Cerpa and Ana González; parents of Francisco Pérez and Zoraida Escobar — Chilean civil records. **Progress:** Francisco × Ana Delia marriage index confirmed (1909, entry 59); bride also indexed as **Rosalía González Torres** ([Chanco marriage index](../sources/corpus/chanco-index-cerpa-gonzalez-marriages-1900-1909/)). **Lead:** Santiago Cerpa × Imperatriz Garrido (1900, entry 8) as possible Francisco's father — conflicts with tree Fabián × Engracia. **Hub:** [Evans × Cerpa-Pérez — London & Chile](../topics/evans-cerpa-perez-london-chile.md) · [Chile research memo](../research/chile-maule-civil-records-without-familysearch.md). |
 | 84–85 | **BOTTIN / BAUDOUIN** | Gen 6 | No dates or details — French civil records |
 | 92–95 | **SHEA / BUCKLEY / ENRIGHT** | Gen 6 | Cork parish records |
 | 96–111 | **EVANS / FENSOM / KNECHT / GLASSCOCK / POPE / COOLBEAR / MARTIN / WEBB** | Gen 7–9 | All Gen 6 slots now filled; deeper Gen 7+ gaps remain for London, Essex & Kent parish records |
 | 270–271 | **WATKINS** (Sarah's parents) | Gen 8 | Sarah Watkins' baptism ~1806, Builth or Llanddaysaint. **Builth registers not indexed** online; images restricted to FS Centers. Marriage bond (FS `QGK5-FVXB`) may name her father. |
+| 348–349 | **SAGINIAN** (Daoud Khan's parents) | Gen 8 | Slots unfilled for [Daoud Khan Saginian](../people/daoud-khan-saginian.md) (I326, b. ~1790 Tbilisi). **P1:** Shermazanean 1890 Armenian text; Georgian National Archives query; IA excerpt [Dumin & Chikovani 1998 p. 197](https://archive.org/details/4-1998_202212/page/197/mode/1up). |
 
 ### Unconfirmed links
 

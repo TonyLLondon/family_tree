@@ -177,7 +177,7 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - Topic: [Keep Britain Tidy Group](../topics/keep-britain-tidy-group.md) — environmental campaigning and royal patronage (1969–c. 1987).
 - Topic: [Sirmione on Lake Garda](../topics/sirmione-lake-garda.md) — the family's axis mundi (1945–2000).
 - Topic: [Aberdare and the Welsh Valleys](../topics/aberdare-welsh-valleys.md) — 32 Pendarren Street, Aberdare Grammar School, Bristol University.
-- [Lewis / White / Roche / Ireland corpus cluster](../sources/lewis-white-roche-ireland-corpus-cluster.md) — census, MyHeritage charts, Limerick, Obolensky (`corpus/<slug>/`).
+- [Lewis / White / Roche / Ireland source cluster](../sources/lewis-white-roche-ireland-corpus-cluster.md) — census, MyHeritage charts, Limerick, Obolensky (`source record/<slug>/`).
 - **Tree id:** **I8** (MyHeritage URL in note).
 - [1911 census — Aberdare household (David J Lewis)](../media/docs/1911%20census%2041%20Glen%20Road%20Aberdare%20David%20J%20Lewis%20household%20schedule%2079.jpg) (grandfather's household; not this David's generation).
 
@@ -187,7 +187,7 @@ The letter concluded: *"Indeed Zambia is counting on willing hands for their ser
 - **London Gazette — mention in dispatches (23 May 1946):** Supplement 37575, p. 2466 — Maj. (temp.) D. J. LEWIS (143587), Welch R. Screenshot: [gazette page](../media/military/david-john-lewis-mid-london-gazette-37575-p2466.png). [Online](https://www.thegazette.co.uk/London/issue/37575/supplement/2466).
 - **London Gazette — Silver Star gazetted (18 Jul 1947):** Second Supplement 38018, p. 3319 — Captain David John Lewis (143587), The Welch Regiment. Screenshot: [gazette page](../media/military/david-john-lewis-silver-star-london-gazette-38018-p3319.png).
 - **London Gazette — relinquished commission (31 Oct 1953):** Supplement, p. 5761 — Lt. (War Subs. Capt.) D. J. Lewis (143587), granted hon. rank of Major. Screenshot: [gazette page](../media/military/david-john-lewis-relinquish-commission-london-gazette-1953-p5761.png).
-- **U.S. Silver Star (WWII):** PDF snapshot of the Military Times *Hall of Valor* entry — [Major David Lewis Silver Star.pdf](../media/military/Major%20David%20Lewis%20Silver%20Star.pdf); machine extract [corpus/major-david-lewis-silver-star-3cb536e3d7/extracted.pdf.md](../sources/corpus/major-david-lewis-silver-star-3cb536e3d7/extracted.pdf.md); live page `https://valor.militarytimes.com/hero/107821` (Sightline / Military Times).
+- **U.S. Silver Star (WWII):** PDF snapshot of the Military Times *Hall of Valor* entry — [Major David Lewis Silver Star.pdf](../media/military/Major%20David%20Lewis%20Silver%20Star.pdf); machine extract [ingest text](../sources/corpus/major-david-lewis-silver-star-3cb536e3d7/extracted.pdf.md); live page `https://valor.militarytimes.com/hero/107821` (Sightline / Military Times).
 - **Portrait:** [david-lewis-military-portrait.png](../media/docs/david-lewis-military-portrait.png#file) — David Lewis with medals and the Royal Welsh regimental goat.
 - Other military-related files in `media/docs/`: [David Lewis military.png](../media/docs/David%20Lewis%20military.png#file) · [David Lewis Senior Military.png](../media/docs/David%20Lewis%20Senior%20Military.png#file).
 
@@ -311,7 +311,7 @@ Six photographs from the Tripolitania posting, separate from the Idris reception
 
 ### Keep Britain Tidy evidence
 
-- **Journal article (Spring 1978):** David J. Lewis, "The Keep Britain Tidy Group", *Environmental Conservation* 5(1): 56. Corpus: [kbt-david-j-lewis-env-conservation-1978](../sources/corpus/kbt-david-j-lewis-env-conservation-1978/extracted.web.md). DOI: [10.1017/S037689290003811X](https://doi.org/10.1017/S037689290003811X).
+- **Journal article (Spring 1978):** David J. Lewis, "The Keep Britain Tidy Group", *Environmental Conservation* 5(1): 56. Source record: [kbt-david-j-lewis-env-conservation-1978](../sources/corpus/kbt-david-j-lewis-env-conservation-1978/extracted.web.md). DOI: [10.1017/S037689290003811X](https://doi.org/10.1017/S037689290003811X).
 - **Organisational history:** [keep-britain-tidy-history](../sources/corpus/keep-britain-tidy-history/extracted.web.md) (official timeline) · [keep-britain-tidy-wikipedia](../sources/corpus/keep-britain-tidy-wikipedia/extracted.web.md) (Wikipedia overview).
 - **Charity/company record:** [kbt-findthatcharity-company-record](../sources/corpus/kbt-findthatcharity-company-record/extracted.web.md) (Find That Charity, company 03496361).
 - **Library of Congress authority — Keep Britain Tidy Group:** [loc-authority-keep-britain-tidy-group](../sources/corpus/loc-authority-keep-britain-tidy-group/) (LCCN n86809834; confirms Bostel House, Brighton address).

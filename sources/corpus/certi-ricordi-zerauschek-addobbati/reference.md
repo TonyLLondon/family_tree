@@ -11,7 +11,7 @@ translation_language: en
 Family history scrapbook compiled by Fulvia Zerauschek Lewis, ~1990s.
 165 page scans: `Nonna000.jpg`–`Nonna128.jpg` (main) + `FLSupplMA-001.jpg`–`FLSupplMA-036.jpg` (supplement).
 
-**Convention:** Italian transcription in blockquotes (`>`), English translation in plain text, editorial notes in italics. Cross-references link to people pages and other corpus entries.
+**Convention:** Italian transcription in blockquotes (`>`), English translation in plain text, editorial notes in italics. Cross-references link to people pages and other source records.
 
 ---
 

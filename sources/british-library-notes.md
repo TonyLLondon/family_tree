@@ -14,4 +14,4 @@ Single-line research reminders migrated from the legacy import.
 ## Catalog
 
 - [archive/index.md](../archive/index.md)
-- **Ingested PDFs / web bundles** live under `corpus/<slug>/`; see [corpus-bibliography.md](corpus-bibliography.md) (no dedicated BL bundle yet for this note).
+- **Ingested PDFs / web source records** live under `corpus/<slug>/`; see [corpus-bibliography.md](corpus-bibliography.md) (no dedicated BL source record yet for this note).

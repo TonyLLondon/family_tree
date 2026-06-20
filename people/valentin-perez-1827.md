@@ -24,9 +24,9 @@ The informant at his death was **Ramona Perez**, age 43, a laundress (labandera)
 
 ## Evidence
 
-| Record | Corpus |
+| Record | Source record |
 |--------|--------|
-| Civil death, Quirihue 1892, entry 165 (**Q2SG-MPW3**) | [reference.md](../sources/corpus/fs-q2sg-mpw3-valentin-perez-death-1892/reference.md) |
+| Civil death, Quirihue 1892, entry 165 (**Q2SG-MPW3**) | [reference.md](../sources/corpus/valentin-perez-death-1892/reference.md) |
 
 The film handwriting gives age **75**, yielding birth ~1817 — ten years earlier than the FamilySearch index value of 1827. The parents (**Ygnacio Perez** i **Ysabel Mora**) and spouse (**Rosario Gonzalez**) match the index exactly.
 
