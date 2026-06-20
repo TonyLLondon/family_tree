@@ -32,8 +32,8 @@ Mother of [Ester Addobbati](ester-addobbati.md); wife of [Pietro Pio Addobbati](
 
 ### Photographs
 
-- **Close-up portrait (c. 1920s–1930s):** [ottilia-boara-portrait.jpg](../media/docs/fulvia-lewis-photos/zara-album-02/ottilia-boara-portrait.jpg) — studio-quality head-and-shoulders photograph in dark clothing, hair pulled back; strong, composed expression. Used as sun-chart portrait (I21): [ottilia-boara-zara.jpg](../media/images/portraits/ottilia-boara-zara.jpg).
-- **"Nonne Ottilia e Liana" (c. 1922–1924):** [ottilia-boara-and-liana.jpg](../media/docs/fulvia-lewis-photos/zara-album-02/ottilia-boara-and-liana.jpg) — annotated in Fulvia's hand; Ottilia in a dark hat and coat holding toddler [Giuliana](giuliana-zerauschek-rivolta.md) by the sea.
+- **"Nonna Ottilia e Liana" (c. 1922–1924):** [ottilia-boara-and-liana.jpg](../media/docs/fulvia-lewis-photos/zara-album-02/ottilia-boara-and-liana.jpg) — annotated in Fulvia's hand; Ottilia in a dark hat and coat holding toddler [Giuliana](giuliana-zerauschek-rivolta.md) by the sea. **Used as the chart portrait (I21)**, cropped to her face.
+- **Close-up portrait (c. 1920s–1930s):** [ottilia-boara-portrait.jpg](../media/docs/fulvia-lewis-photos/zara-album-02/ottilia-boara-portrait.jpg) — studio-quality head-and-shoulders photograph in dark clothing, hair pulled back; strong, composed expression.
 - **Addobbati family group (c. 1916–1920):** [PAddoFam.jpg](../media/docs/fulvia-lewis-photos/zara-album-01/addobbati-portraits/PAddoFam.jpg) — seated with husband [Pietro Pio](pietro-pio-addobbati.md) and their children standing behind.
 
 ### Documents

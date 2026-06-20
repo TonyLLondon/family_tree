@@ -92,7 +92,7 @@ export default async function OgImage() {
             textAlign: "center",
           }}
         >
-          Seven generations from South Wales and London to Chile
+          More than 8 generations from South Wales and London to Chile
         </div>
 
         {/* Accent line */}

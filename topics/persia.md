@@ -19,7 +19,7 @@ Anglo-Armenian–Persian court family, **c. 1800–1950** — continuous elite i
 
 ### Generation 1 — Qajar military core
 
-![Sartip Davoud Khan Saginian in Qajar uniform](../media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png)
+![Sartip Davoud Khan Saginian in Qajar uniform](../media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-rain-p47.jpg)
 
 - **[Daoud Khan Saginian](../people/daoud-khan-saginian.md)** (“Mayor Khan”; also *David Saginian*, *David Saginean*, *Saginskilli*)
   - **Life:** b. Tbilisi c. 1790; d. Tabriz **1867** (Yaghoubian 2014); buried Saginian family mausoleum, Surb Astvatsatsin, Tabriz.

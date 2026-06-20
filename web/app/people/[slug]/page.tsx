@@ -5,7 +5,7 @@ import { ClickableImage } from "@/components/ClickableImage";
 import { PageShell } from "@/components/PageShell";
 import { getPeopleSlugs, readMarkdownFile } from "@/lib/content";
 import { repoPath } from "@/lib/paths";
-import { photoInfoForPerson, focalToObjectPosition } from "@/lib/photos";
+import { photoInfoForPerson } from "@/lib/photos";
 import { getParents, getSpouses, getChildren, getPersonBySlug, loadFamilyTree, personSlugFromPage } from "@/lib/tree";
 import type { Person } from "@/lib/tree";
 import fs from "fs";
@@ -123,7 +123,6 @@ export default async function PersonPage({ params }: Props) {
   const treeId = typeof parsed.data.treeId === "string" ? parsed.data.treeId : person?.id;
   const pInfo = treeId ? photoInfoForPerson(treeId) : null;
   const photo = pInfo?.url ?? null;
-  const photoPos = pInfo ? focalToObjectPosition(pInfo.focal) : undefined;
   const [father, mother] = treeId ? getParents(tree, treeId) : [null, null];
   const spouses = treeId ? getSpouses(tree, treeId) : [];
   const children = treeId ? getChildren(tree, treeId) : [];
@@ -152,8 +151,9 @@ export default async function PersonPage({ params }: Props) {
               <ClickableImage
                 src={photo}
                 alt={title}
-                className="h-64 w-full object-cover sm:h-full sm:rounded-l-2xl"
-                style={photoPos ? { objectPosition: photoPos } : undefined}
+                className="h-64 w-full sm:h-full sm:rounded-l-2xl"
+                focal={pInfo?.focal}
+                zoom={pInfo?.zoom}
               />
             </div>
           )}

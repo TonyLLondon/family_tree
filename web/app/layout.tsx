@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     template: "%s — The Lewis Line",
   },
   description:
-    "Seven generations from South Wales and London to Chile — through Qajar Persia, Habsburg Dalmatia, and Baltic Tallinn. Parish registers, military citations, diplomatic letters, and family portraits.",
+    "More than 8 generations from South Wales and London to Chile — through Qajar Persia, Habsburg Dalmatia, and Baltic Tallinn. Parish registers, military citations, diplomatic letters, and family portraits.",
   metadataBase: new URL("https://family-tree-lewis.vercel.app"),
   robots: { index: false, follow: false },
   openGraph: {

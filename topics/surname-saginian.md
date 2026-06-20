@@ -2,7 +2,7 @@
 
 A surname that was born in transit. The family left Georgia under the name **Saginskilli** (also transliterated *Saginashvili*) and arrived in Qajar Iran as **Saginian** — the shift from Georgian to Armenian marking a change not just of language but of communal identity.
 
-![Sartip Daoud Khan Saginian in Qajar uniform](../media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png)
+![Sartip Daoud Khan Saginian in Qajar uniform](../media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-rain-p47.jpg)
 
 ---
 

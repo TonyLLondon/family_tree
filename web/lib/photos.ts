@@ -9,16 +9,19 @@ import { repoPath, WEB_ROOT } from "./paths";
  *   - { src: "media/...", focal: [x,y], zoom?: n } → custom focal point (0–1 normalised)
  *     zoom > 1 crops tighter around the focal point (useful for faces in group photos).
  */
-type RawPhotoEntry = string | { src: string; focal?: [number, number]; zoom?: number } | null;
-type RawPhotoMap = Record<string, RawPhotoEntry>;
+export type RawPhotoEntry = string | { src: string; focal?: [number, number]; zoom?: number } | null;
+export type RawPhotoMap = Record<string, RawPhotoEntry>;
+
+/** Absolute path to `web/photo-map.json` (used by the dev focal editor API to read/write). */
+export const PHOTO_MAP_PATH = path.join(WEB_ROOT, "photo-map.json");
 
 export type PhotoInfo = { url: string; focal: [number, number]; zoom: number };
 
 let cached: RawPhotoMap | null = null;
 let cachedMtimeMs: number | null = null;
 
-function loadRawPhotoMap(): RawPhotoMap {
-  const mapPath = path.join(WEB_ROOT, "photo-map.json");
+export function loadRawPhotoMap(): RawPhotoMap {
+  const mapPath = PHOTO_MAP_PATH;
   if (!fs.existsSync(mapPath)) {
     cached = {};
     cachedMtimeMs = null;

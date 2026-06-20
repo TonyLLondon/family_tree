@@ -23,7 +23,7 @@ Appendix: Evidence, Sources.
 - `people/daoud-khan-saginian.md` — person page with rich chronology.
 - `research/iran-qajar/armenian-officers-qajar-military.md` — research memo (Cronin, 1834 Isfahan, patronage analysis).
 - `sources/nypl-burgess-appendix-anna-interview.md` — Anna's 1880 interview recalling her father.
-- `media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png` — portrait.
+- `media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-rain-p47.jpg` — portrait.
 - `topics/persia.md` — Generation 1 section.
 - Dr. Wolff's 1843 account (quoted on person page) — "Russian colonel" / "Armenian" identity negotiation.
 
@@ -36,7 +36,7 @@ Appendix: Evidence, Sources.
 | 3. Abbas Mirza | CC portrait of Abbas Mirza (widely available) | **need to source** |
 | 4. Isfahan | CC image of Isfahan (historic) | **need to source** |
 | 5. Patron falls | Tabriz context from `media/context/tabriz-qajar/` | **exists** |
-| 6. Portrait | `media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png` | **exists** |
+| 6. Portrait | `media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-rain-p47.jpg` | **exists** |
 | 7. Daughters | Anna & Fanny plate from `media/collections/burgess-persian-letters/` | **exists** |
 
 ## Line hub link

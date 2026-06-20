@@ -2,7 +2,7 @@
 
 Armenian officers held senior command positions in the Qajar army from the late eighteenth century through the mid-nineteenth century. **Daoud Khan Saginian** — head of the Isfahan army and the earliest documented ancestor in the Persia line — exemplifies a pipeline that brought Georgian and Armenian soldiers from the Caucasus into the Persian military establishment.
 
-![Sartip Davoud Khan Saginian in Qajar uniform](../media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-book-page.png)
+![Sartip Davoud Khan Saginian in Qajar uniform](../media/images/portraits/sartip-davoud-khan-saginian-qajar-uniform-rain-p47.jpg)
 
 ---
 

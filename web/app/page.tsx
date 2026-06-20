@@ -66,7 +66,7 @@ export default function HomePage() {
             Lewis · Evans · Zerauschek · Cerpa
           </h1>
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-zinc-600">
-            Seven generations from South Wales and London to Chile — through Qajar Persia,
+            More than 8 generations from South Wales and London to Chile — through Qajar Persia,
             Habsburg Dalmatia, and Baltic Tallinn. Pieced together from parish registers,
             military citations, diplomatic letters, and family portraits.
           </p>
