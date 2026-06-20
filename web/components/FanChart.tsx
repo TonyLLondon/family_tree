@@ -14,6 +14,7 @@ import {
 import { useRouter } from "next/navigation";
 import type { AncestorNode, Person } from "@/lib/genealogy";
 import type { PhotoInfo } from "@/lib/photos";
+import { faceCropStyle } from "@/lib/faceCrop";
 import { personSlugFromPage } from "@/lib/genealogy";
 import {
   CHART_BIRTH_PLACE_LEGEND,
@@ -60,16 +61,11 @@ function photoBgStyle(
   focal: [number, number],
   zoom: number,
 ): React.CSSProperties {
-  const pctX = Math.round(focal[0] * 100);
-  const pctY = Math.round(focal[1] * 100);
   return {
+    ...faceCropStyle(src, focal, zoom),
     width: "100%",
     height: "100%",
     borderRadius: "50%",
-    backgroundImage: `url("${src}")`,
-    backgroundSize: zoom > 1 ? `${Math.round(zoom * 100)}%` : "cover",
-    backgroundPosition: `${pctX}% ${pctY}%`,
-    backgroundRepeat: "no-repeat",
   };
 }
 
@@ -411,7 +407,9 @@ export function FanChart({ root, maxAvailableGenerations, photoInfos, centers: c
 
   const router = useRouter();
   const routerRef = useRef(router);
-  routerRef.current = router;
+  useEffect(() => {
+    routerRef.current = router;
+  }, [router]);
 
   const cap = Math.max(0, maxAvailableGenerations);
   const [displayGenerations, setDisplayGenerations] = useState(() => {
@@ -419,12 +417,14 @@ export function FanChart({ root, maxAvailableGenerations, photoInfos, centers: c
     return Math.min(DEFAULT_FAN_DISPLAY_GENERATIONS, top);
   });
 
-  useEffect(() => {
-    setDisplayGenerations((prev) => {
-      const top = Math.max(1, cap || 1);
-      return Math.min(Math.max(1, prev), top);
-    });
-  }, [cap]);
+  // Clamp to the available depth when `cap` changes — adjust during render
+  // (vs. an effect) so the chart never paints an out-of-range generation count.
+  const [seenCap, setSeenCap] = useState(cap);
+  if (cap !== seenCap) {
+    setSeenCap(cap);
+    const top = Math.max(1, cap || 1);
+    setDisplayGenerations((prev) => Math.min(Math.max(1, prev), top));
+  }
 
   const stepGenerations = useCallback((delta: -1 | 1) => {
     setDisplayGenerations((g) => {
@@ -533,7 +533,7 @@ export function FanChart({ root, maxAvailableGenerations, photoInfos, centers: c
       svgEl.removeEventListener("click", onClick);
       clearTimeout(urlTimerRef.current);
     };
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+  }, []);
 
   /* ── Render ────────────────────────────────────── */
 

@@ -2,13 +2,15 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { faceCropStyle } from "@/lib/faceCrop";
 
 export type PortraitEntry = {
   id: string;
   name: string;
   photo: string;
   slug: string;
-  objectPosition?: string;
+  focal?: [number, number];
+  zoom?: number;
 };
 
 function shuffle<T>(arr: T[]): T[] {
@@ -40,15 +42,12 @@ export function RandomizedPortraits({ portraits }: { portraits: PortraitEntry[] 
         <div className="flex gap-5 overflow-x-auto pb-2">
           {selected.map((f) => (
             <Link key={f.id} href={`/people/${f.slug}`} className="group flex-none">
-              <div className="h-28 w-28 overflow-hidden rounded-full border-2 border-white shadow-md transition group-hover:shadow-lg group-hover:ring-2 group-hover:ring-sky-300">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={f.photo}
-                  alt={f.name}
-                  className="h-full w-full object-cover"
-                  style={f.objectPosition ? { objectPosition: f.objectPosition } : undefined}
-                />
-              </div>
+              <div
+                role="img"
+                aria-label={f.name}
+                className="h-28 w-28 overflow-hidden rounded-full border-2 border-white shadow-md transition group-hover:shadow-lg group-hover:ring-2 group-hover:ring-sky-300"
+                style={faceCropStyle(f.photo, f.focal, f.zoom)}
+              />
               <p className="mt-2 max-w-28 text-center text-xs font-medium leading-tight text-zinc-700 group-hover:text-sky-700">
                 {f.name}
               </p>

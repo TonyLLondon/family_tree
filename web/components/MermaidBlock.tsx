@@ -6,6 +6,7 @@ import {
   useId,
   useRef,
   useState,
+  useSyncExternalStore,
 } from "react";
 import { createPortal } from "react-dom";
 import { runMermaidOnNode } from "@/lib/mermaidClient";
@@ -22,7 +23,11 @@ export function MermaidBlock({ chart }: Props) {
   const uid = useId().replace(/:/g, "");
   const preRef = useRef<HTMLPreElement>(null);
   const [expanded, setExpanded] = useState(false);
-  const [mounted, setMounted] = useState(false);
+  const mounted = useSyncExternalStore(
+    () => () => {},
+    () => true,
+    () => false,
+  );
 
   const overlayHostRef = useRef<HTMLDivElement>(null);
   /** Start zoomed in so first paint is readable on dense flowcharts */
@@ -45,10 +50,6 @@ export function MermaidBlock({ chart }: Props) {
     startTy: 0,
     pointerId: null,
   });
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
 
   useEffect(() => {
     let cancelled = false;
@@ -79,11 +80,16 @@ export function MermaidBlock({ chart }: Props) {
     const id = window.requestAnimationFrame(() => {
       cloneIntoOverlay();
     });
+    return () => window.cancelAnimationFrame(id);
+  }, [expanded, chart, cloneIntoOverlay]);
+
+  /** Open the zoom overlay with a fresh, readable starting transform. */
+  const openOverlay = useCallback(() => {
     setScale(1.72);
     setTx(0);
     setTy(0);
-    return () => window.cancelAnimationFrame(id);
-  }, [expanded, chart, cloneIntoOverlay]);
+    setExpanded(true);
+  }, []);
 
   useEffect(() => {
     if (!expanded) return;
@@ -190,7 +196,7 @@ export function MermaidBlock({ chart }: Props) {
           <button
             type="button"
             className="rounded-md bg-sky-700 px-3 py-1.5 text-xs font-semibold text-white shadow hover:bg-sky-600"
-            onClick={() => setExpanded(true)}
+            onClick={openOverlay}
           >
             Zoom view
           </button>
@@ -200,11 +206,11 @@ export function MermaidBlock({ chart }: Props) {
           tabIndex={0}
           className="relative w-full cursor-zoom-in rounded-b-xl bg-white outline-none focus-visible:ring-2 focus-visible:ring-sky-600 focus-visible:ring-offset-2 dark:ring-offset-zinc-900"
           aria-label="Open zoomable diagram"
-          onClick={() => setExpanded(true)}
+          onClick={openOverlay}
           onKeyDown={(e) => {
             if (e.key === "Enter" || e.key === " ") {
               e.preventDefault();
-              setExpanded(true);
+              openOverlay();
             }
           }}
         >

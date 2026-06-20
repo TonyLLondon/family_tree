@@ -71,9 +71,16 @@ export function BrowseGrid({
     return list;
   }, [items, q, activeFilter]);
 
-  useEffect(() => {
+  // Reset pagination when the search/filter/items change. Adjusting state during
+  // render (vs. an effect) avoids a wasted render that briefly shows a stale slice.
+  const resetSig = `${q}\u0000${activeFilter ?? ""}`;
+  const [seenItems, setSeenItems] = useState(items);
+  const [seenSig, setSeenSig] = useState(resetSig);
+  if (items !== seenItems || resetSig !== seenSig) {
+    setSeenItems(items);
+    setSeenSig(resetSig);
     setCursor(BATCH_SIZE);
-  }, [q, items, activeFilter]);
+  }
 
   const visible = useMemo(() => filtered.slice(0, cursor), [filtered, cursor]);
   const hasMore = cursor < filtered.length;

@@ -243,7 +243,6 @@ function FacsimileGallery({ facsimiles }: { facsimiles: FacsimileImage[] }) {
                   : ""
             }
           >
-            {/* eslint-disable-next-line @next/next/no-img-element */}
             <a
               href={f.src}
               target="_blank"
@@ -330,7 +329,6 @@ function SnippetsSection({ snippets }: { snippets: SourceSnippets }) {
                 <div className="space-y-2">
                   {h.imageUrls.length > 0 ? (
                     h.imageUrls.map((src) => (
-                      // eslint-disable-next-line @next/next/no-img-element
                       <a
                         key={src}
                         href={src}

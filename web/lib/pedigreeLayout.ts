@@ -253,9 +253,8 @@ export function buildPedigreeScene(
   );
   const depth = assignDepths(tree, visible, state.focus);
   const layout = layoutPedigree(tree, visible, depth);
-  const { minX, maxX, minY, maxY } = layout.bounds;
+  const { minX, maxX, minY } = layout.bounds;
   const bw = maxX - minX + pad * 2;
-  const bh = maxY - minY + pad * 2;
   const ox = (viewW - bw) / 2 - minX + pad;
   const oy = pad - minY;
   return { ...layout, ox, oy, visible };

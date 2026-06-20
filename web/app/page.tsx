@@ -4,7 +4,7 @@ import { MasterSearch } from "@/components/MasterSearch";
 import { StoryCarousel, type StorySlide } from "@/components/StoryCarousel";
 import { RandomizedPortraits, type PortraitEntry } from "@/components/RandomizedPortraits";
 import { loadFamilyTree, getGenerationCount, getYearSpan } from "@/lib/tree";
-import { buildPhotoInfoMap, focalToObjectPosition } from "@/lib/photos";
+import { buildPhotoInfoMap } from "@/lib/photos";
 import { getTopicSlugs, countBiographicalPersonPages } from "@/lib/content";
 import { getSiteSearchItems } from "@/lib/siteSearchIndex";
 import { getAllSourcePageSlugs } from "@/lib/sourceResolver";
@@ -25,8 +25,7 @@ function getAllPortraits(): PortraitEntry[] {
     if (!person) continue;
     const slug = person.personPage?.replace(/^people\//, "").replace(/\.md$/, "") ?? "";
     if (!slug) continue;
-    const pos = focalToObjectPosition(info.focal);
-    out.push({ id, name: person.displayName ?? id, photo: info.url, slug, objectPosition: pos !== "50% 50%" ? pos : undefined });
+    out.push({ id, name: person.displayName ?? id, photo: info.url, slug, focal: info.focal, zoom: info.zoom });
   }
   return out;
 }

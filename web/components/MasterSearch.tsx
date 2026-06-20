@@ -28,10 +28,6 @@ export function MasterSearch({ items }: { items: BrowseItem[] }) {
   const overflow = filtered.length - visible.length;
 
   useEffect(() => {
-    if (needle) setOpen(true);
-  }, [needle]);
-
-  useEffect(() => {
     const onDoc = (e: PointerEvent) => {
       if (!rootRef.current?.contains(e.target as Node)) setOpen(false);
     };
@@ -69,7 +65,11 @@ export function MasterSearch({ items }: { items: BrowseItem[] }) {
           autoComplete="off"
           placeholder="Search people, sources, stories, topics, research…"
           value={q}
-          onChange={(e) => setQ(e.target.value)}
+          onChange={(e) => {
+            const v = e.target.value;
+            setQ(v);
+            if (v.trim()) setOpen(true);
+          }}
           onFocus={() => needle && setOpen(true)}
           onKeyDown={onKeyDown}
           className="w-full rounded-xl border border-zinc-200 bg-white py-3 pl-11 pr-4 text-sm text-zinc-900 shadow-sm placeholder:text-zinc-400 focus:border-sky-500 focus:outline-none focus:ring-2 focus:ring-sky-500/20"
@@ -87,7 +87,7 @@ export function MasterSearch({ items }: { items: BrowseItem[] }) {
           ) : (
             <ul className="divide-y divide-zinc-100">
               {visible.map((it) => (
-                <li key={it.id} role="option">
+                <li key={it.id} role="option" aria-selected={false}>
                   <Link
                     href={it.href}
                     onClick={() => {

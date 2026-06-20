@@ -23,7 +23,7 @@ import {
   useLayoutEffect,
   useMemo,
   useRef,
-  useState,
+  useSyncExternalStore,
   type CSSProperties,
 } from "react";
 import Link from "next/link";
@@ -39,6 +39,7 @@ import {
   getSpouses,
 } from "@/lib/genealogy";
 import type { PhotoInfo } from "@/lib/photos";
+import { faceCropStyle } from "@/lib/faceCrop";
 import {
   chartFillFromBirthPlace,
   chartNameFillForSegmentFill,
@@ -324,16 +325,7 @@ const closeCardBtn =
 
 /** Match fan chart: focal + zoom via background (reliable inside SVG foreignObject). */
 function pedigreeAvatarBgStyle(src: string, focal: [number, number], zoom: number): CSSProperties {
-  const pctX = Math.round(focal[0] * 100);
-  const pctY = Math.round(focal[1] * 100);
-  return {
-    width: "100%",
-    height: "100%",
-    backgroundImage: `url("${src}")`,
-    backgroundSize: zoom > 1 ? `${Math.round(zoom * 100)}%` : "cover",
-    backgroundPosition: `${pctX}% ${pctY}%`,
-    backgroundRepeat: "no-repeat",
-  };
+  return { width: "100%", height: "100%", ...faceCropStyle(src, focal, zoom) };
 }
 
 function PedigreeChartLoaded({
@@ -351,7 +343,9 @@ function PedigreeChartLoaded({
   const urlState = useMemo(() => parsePedigreeSearchParams(new URLSearchParams(paramStr), tree), [paramStr, tree]);
 
   const urlStateRef = useRef(urlState);
-  urlStateRef.current = urlState;
+  useEffect(() => {
+    urlStateRef.current = urlState;
+  }, [urlState]);
 
   /** Birth-parent chain upward from current focus (includes focus); excludes siblings, descendants, in-laws. */
   const directAncestorIds = useMemo(
@@ -383,7 +377,9 @@ function PedigreeChartLoaded({
   );
 
   const navigateUrlRef = useRef(navigateUrl);
-  navigateUrlRef.current = navigateUrl;
+  useEffect(() => {
+    navigateUrlRef.current = navigateUrl;
+  }, [navigateUrl]);
 
   /** Push a toggle / focus change (adds history entry). */
   const pushUrl = useCallback(
@@ -392,7 +388,9 @@ function PedigreeChartLoaded({
   );
 
   const pushUrlRef = useRef(pushUrl);
-  pushUrlRef.current = pushUrl;
+  useEffect(() => {
+    pushUrlRef.current = pushUrl;
+  }, [pushUrl]);
 
   const onResetUrl = useCallback(() => {
     const next = cloneUrlState(urlStateRef.current);
@@ -406,7 +404,9 @@ function PedigreeChartLoaded({
   const svgRef = useRef<SVGSVGElement>(null);
   const zoomRef = useRef<d3.ZoomBehavior<SVGSVGElement, unknown> | null>(null);
   const routerRef = useRef(router);
-  routerRef.current = router;
+  useEffect(() => {
+    routerRef.current = router;
+  }, [router]);
 
   /** Write k/x/y to URL via replaceState (no React re-render — matches FanChart behaviour). */
   const writeZoomToUrl = useCallback((k: number, x: number, y: number) => {
@@ -527,7 +527,7 @@ function PedigreeChartLoaded({
       if (zoomTimerRef.current) clearTimeout(zoomTimerRef.current);
       zoomRef.current = null;
     };
-  }, []);
+  }, [writeZoomToUrl]);
 
   /**
    * Sync d3 transform from URL state whenever the URL changes.
@@ -945,8 +945,11 @@ function PedigreeChartLoaded({
 
 /** URL + SVG foreignObject: render only after mount so SSR/hydration match and `useSearchParams` is stable. */
 export function PedigreeChart(props: { tree: FamilyTree; photoInfos: Record<string, PhotoInfo | null> }) {
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => setMounted(true), []);
+  const mounted = useSyncExternalStore(
+    () => () => {},
+    () => true,
+    () => false,
+  );
   if (!mounted) {
     return (
       <div className="relative w-full">

@@ -5,6 +5,7 @@ import { Scrollama, Step } from "react-scrollama";
 import gsap from "gsap";
 import Link from "next/link";
 import type { BloodlineData, BloodlineNode } from "@/lib/bloodlines";
+import { faceCropStyle } from "@/lib/faceCrop";
 import { SiteNav } from "./SiteNav";
 
 interface Props {
@@ -36,29 +37,12 @@ function PersonCard({
       }}
     >
       {node.photo ? (
-        <div className="h-20 w-20 flex-none rounded-full ring-2 ring-white shadow overflow-hidden md:h-24 md:w-24">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={node.photo.url}
-            alt={name}
-            className="h-full w-full object-cover"
-            style={(() => {
-              const focal = node.photo!.focal ?? [0.5, 0.5] as [number, number];
-              const zoom = node.photo!.zoom ?? 1;
-              if (zoom <= 1) {
-                return { objectPosition: `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%` };
-              }
-              const dx = 50 - focal[0] * 100;
-              const dy = 50 - focal[1] * 100;
-              return {
-                objectPosition: `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%`,
-                transform: `scale(${zoom}) translate(${dx.toFixed(1)}%, ${dy.toFixed(1)}%)`,
-                transformOrigin: "50% 50%",
-              };
-            })()}
-            draggable={false}
-          />
-        </div>
+        <div
+          role="img"
+          aria-label={name}
+          className="h-20 w-20 flex-none rounded-full ring-2 ring-white shadow overflow-hidden md:h-24 md:w-24"
+          style={faceCropStyle(node.photo.url, node.photo.focal, node.photo.zoom)}
+        />
       ) : (
         <div
           className="flex h-20 w-20 flex-none items-center justify-center rounded-full text-lg font-bold text-white shadow md:h-24 md:w-24 md:text-xl"

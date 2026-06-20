@@ -485,7 +485,7 @@ export function resolveSource(slug: string): ResolvedSource | null {
   let reference: SourceBodyContent | null = null;
   let extract: SourceBodyContent | null = null;
   let snippets: SourceSnippets | null = null;
-  let facsimiles: FacsimileImage[] = [];
+  const facsimiles: FacsimileImage[] = [];
   let pdfDownloadUrl: string | null = null;
   let provenance: SourceProvenance | null = null;
   let corpusTitle: string | null = null;

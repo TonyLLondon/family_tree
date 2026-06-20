@@ -1,6 +1,7 @@
 "use client";
 
 import { useLightbox, LightboxOverlay } from "@/components/Lightbox";
+import { faceCropStyle } from "@/lib/faceCrop";
 
 export function ClickableImage({
   src,
@@ -30,13 +31,7 @@ export function ClickableImage({
           tabIndex={0}
           aria-label={alt}
           className={`cursor-zoom-in transition hover:shadow-lg ${className ?? ""}`}
-          style={{
-            backgroundImage: `url("${src}")`,
-            backgroundSize: z > 1 ? `${Math.round(z * 100)}%` : "cover",
-            backgroundPosition: `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%`,
-            backgroundRepeat: "no-repeat",
-            ...style,
-          }}
+          style={{ ...faceCropStyle(src, focal, z), ...style }}
           onClick={() => lightbox.open(src, alt ?? "")}
           onKeyDown={(e) => {
             if (e.key === "Enter" || e.key === " ") {

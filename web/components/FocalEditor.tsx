@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from "react";
+import { faceCropStyle } from "@/lib/faceCrop";
 
 export type FocalItem = {
   id: string;
@@ -18,14 +19,7 @@ const ZOOM_MAX = 8;
 
 /** Mirror of the chart avatar background math so the preview matches the rendered card exactly. */
 function avatarBgStyle(src: string, focal: [number, number], zoom: number): CSSProperties {
-  return {
-    width: "100%",
-    height: "100%",
-    backgroundImage: `url("${src}")`,
-    backgroundSize: zoom > 1 ? `${Math.round(zoom * 100)}%` : "cover",
-    backgroundPosition: `${Math.round(focal[0] * 100)}% ${Math.round(focal[1] * 100)}%`,
-    backgroundRepeat: "no-repeat",
-  };
+  return { width: "100%", height: "100%", ...faceCropStyle(src, focal, zoom) };
 }
 
 function clamp01(n: number): number {

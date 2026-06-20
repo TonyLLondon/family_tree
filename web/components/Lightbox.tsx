@@ -45,6 +45,7 @@ export function LightboxOverlay({
 }) {
   const [scale, setScale] = useState(1);
   const [translate, setTranslate] = useState({ x: 0, y: 0 });
+  const [isDragging, setIsDragging] = useState(false);
   const imgRef = useRef<HTMLImageElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const dragState = useRef<{ dragging: boolean; lastX: number; lastY: number }>({
@@ -56,8 +57,12 @@ export function LightboxOverlay({
   const scaleRef = useRef(scale);
   const translateRef = useRef(translate);
 
-  scaleRef.current = scale;
-  translateRef.current = translate;
+  useEffect(() => {
+    scaleRef.current = scale;
+  }, [scale]);
+  useEffect(() => {
+    translateRef.current = translate;
+  }, [translate]);
 
   const resetTransform = useCallback(() => {
     setScale(1);
@@ -69,10 +74,14 @@ export function LightboxOverlay({
     onClose();
   }, [onClose, resetTransform]);
 
-  useEffect(() => {
-    if (!src) return;
-    resetTransform();
-  }, [src, resetTransform]);
+  // Reset zoom/pan whenever a new image is shown — adjust during render (vs. an
+  // effect) so the new image never appears with the previous image's transform.
+  const [seenSrc, setSeenSrc] = useState(src);
+  if (src !== seenSrc) {
+    setSeenSrc(src);
+    setScale(1);
+    setTranslate({ x: 0, y: 0 });
+  }
 
   // Wheel zoom — zoom toward cursor position
   useEffect(() => {
@@ -112,6 +121,7 @@ export function LightboxOverlay({
       e.preventDefault();
       (e.target as HTMLElement).setPointerCapture(e.pointerId);
       dragState.current = { dragging: true, lastX: e.clientX, lastY: e.clientY };
+      setIsDragging(true);
     },
     [],
   );
@@ -128,6 +138,7 @@ export function LightboxOverlay({
 
   const onPointerUp = useCallback(() => {
     dragState.current.dragging = false;
+    setIsDragging(false);
   }, []);
 
   // Pinch-to-zoom (touch)
@@ -231,7 +242,7 @@ export function LightboxOverlay({
         style={{
           transform: `translate(${translate.x}px, ${translate.y}px) scale(${scale})`,
           cursor: isZoomed ? "grab" : "zoom-in",
-          transition: dragState.current.dragging ? "none" : "transform 0.15s ease-out",
+          transition: isDragging ? "none" : "transform 0.15s ease-out",
         }}
         draggable={false}
         onClick={(e) => e.stopPropagation()}

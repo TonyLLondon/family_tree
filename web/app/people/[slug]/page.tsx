@@ -9,7 +9,6 @@ import { photoInfoForPerson } from "@/lib/photos";
 import { getParents, getSpouses, getChildren, getPersonBySlug, loadFamilyTree, personSlugFromPage } from "@/lib/tree";
 import type { Person } from "@/lib/tree";
 import fs from "fs";
-import path from "path";
 
 type Props = { params: Promise<{ slug: string }> };
 
