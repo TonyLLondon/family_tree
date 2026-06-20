@@ -272,7 +272,6 @@ function PedigreeGlyph({
         userSelect: "none",
         WebkitUserSelect: "none",
         pointerEvents: "none",
-        contain: "layout paint",
       }}
     >
       {ch}
@@ -705,9 +704,11 @@ function PedigreeChartLoaded({
                       filter="url(#pedigree-card-shadow)"
                     />
                     <foreignObject x={0} y={0} width={CARD_W} height={CARD_H}>
-                      {/* No position:absolute/relative, no backdrop-blur inside foreignObject — iOS WebKit
-                          mispositions absolutely-placed children and clips backdrop-filter content.
-                          overflow clip + isolation reduces duplicate glyph paint at SVG (0,0). */}
+                      {/* WebKit bug 23113: any HTML descendant of a foreignObject that gets its own
+                          RenderLayer (position:relative/absolute, isolation, opacity, contain, transform,
+                          backdrop-filter) is painted relative to the SVG root (top-left) instead of this
+                          box on iOS. Keep this subtree free of layer-inducing properties so cards render
+                          in place on iOS WebKit. */}
                       <div
                         data-no-pan=""
                         style={{
@@ -720,8 +721,6 @@ function PedigreeChartLoaded({
                           boxSizing: "border-box",
                           overflow: "hidden",
                           borderRadius: 12,
-                          position: "relative",
-                          isolation: "isolate",
                         }}
                         onPointerDown={(e) => e.stopPropagation()}
                       >
@@ -746,7 +745,7 @@ function PedigreeChartLoaded({
                             {href ? (
                               <Link
                                 href={href}
-                                className="block truncate text-left text-[13px] font-semibold leading-snug decoration-transparent opacity-95 hover:opacity-100"
+                                className="block truncate text-left text-[13px] font-semibold leading-snug decoration-transparent hover:underline"
                                 style={{ color: nameFg }}
                                 title={display}
                                 onPointerDown={(e) => e.stopPropagation()}
