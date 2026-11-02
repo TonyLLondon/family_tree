@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   outputFileTracingExcludes: {
     "/*": ["./public/files/**/*"],
   },
-  allowedDevOrigins: ["192.168.4.37"],
+  allowedDevOrigins: ["127.0.0.1", "localhost", "192.168.4.37"],
   async redirects() {
     return [
       { source: "/corpus", destination: "/sources", permanent: true },

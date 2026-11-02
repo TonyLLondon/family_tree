@@ -18,6 +18,7 @@ export type BrowseItem = {
 /** Items loaded per step — cursor is the slice end index into the filtered list. */
 const BATCH_SIZE = 24;
 const SCROLL_ROOT_MARGIN = "480px";
+const SCROLL_ROOT_MARGIN_PX = 480;
 const INTERSECTION_THROTTLE_MS = 180;
 
 export function BrowseGrid({
@@ -95,20 +96,47 @@ export function BrowseGrid({
     const node = sentinelRef.current;
     if (!node) return;
 
+    let cancelled = false;
+
+    const maybeLoad = () => {
+      if (cancelled) return;
+      const now = Date.now();
+      if (now - lastAutoLoadRef.current < INTERSECTION_THROTTLE_MS) return;
+      lastAutoLoadRef.current = now;
+      setCursor((c) => Math.min(c + BATCH_SIZE, filtered.length));
+    };
+
+    const sentinelNearViewport = () => {
+      const rect = node.getBoundingClientRect();
+      return rect.top < window.innerHeight + SCROLL_ROOT_MARGIN_PX && rect.bottom > 0;
+    };
+
     const obs = new IntersectionObserver(
       (entries) => {
         if (!entries[0]?.isIntersecting) return;
-        const now = Date.now();
-        if (now - lastAutoLoadRef.current < INTERSECTION_THROTTLE_MS) return;
-        lastAutoLoadRef.current = now;
-        setCursor((c) => Math.min(c + BATCH_SIZE, filtered.length));
+        maybeLoad();
       },
       { root: null, rootMargin: SCROLL_ROOT_MARGIN, threshold: 0 }
     );
 
+    const onScroll = () => {
+      if (sentinelNearViewport()) maybeLoad();
+    };
+
     obs.observe(node);
-    return () => obs.disconnect();
-  }, [hasMore, filtered.length, visible.length]);
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll, { passive: true });
+    requestAnimationFrame(onScroll);
+
+    return () => {
+      cancelled = true;
+      obs.disconnect();
+      window.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", onScroll);
+      // Strict Mode remounts effects; keep throttle from blocking the fresh observer.
+      lastAutoLoadRef.current = 0;
+    };
+  }, [hasMore, filtered.length]);
 
   return (
     <div>
@@ -247,17 +275,19 @@ export function BrowseGrid({
           </ul>
 
           {hasMore ? (
-            <div className="mt-10 flex flex-col items-center gap-4">
-              <button
-                type="button"
-                onClick={loadMore}
-                className="rounded-lg border border-zinc-300 bg-white px-6 py-2.5 text-sm font-semibold text-zinc-800 shadow-sm transition hover:border-sky-300 hover:bg-sky-50 hover:text-sky-800"
-              >
-                Load more ({remaining} remaining)
-              </button>
-              <p className="text-xs text-zinc-400">Or keep scrolling — more load automatically near the bottom</p>
-              <div ref={sentinelRef} className="h-4 w-full max-w-2xl shrink-0" aria-hidden />
-            </div>
+            <>
+              <div ref={sentinelRef} className="h-px w-full shrink-0" aria-hidden />
+              <div className="mt-10 flex flex-col items-center gap-3">
+                <button
+                  type="button"
+                  onClick={loadMore}
+                  className="rounded-lg border border-zinc-300 bg-white px-6 py-2.5 text-sm font-semibold text-zinc-800 shadow-sm transition hover:border-sky-300 hover:bg-sky-50 hover:text-sky-800"
+                >
+                  Load more ({remaining} remaining)
+                </button>
+                <p className="text-xs text-zinc-400">More entries load automatically as you scroll</p>
+              </div>
+            </>
           ) : filtered.length > BATCH_SIZE ? (
             <p className="mt-8 text-center text-sm text-zinc-400">All {filtered.length} entries loaded</p>
           ) : null}
