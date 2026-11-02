@@ -16,7 +16,7 @@ verified: false
 | Author | **جمشید کیان‌فر** (Jamshid Kianfar) |
 | Journal | *Payām-e Baharestān* — بهار 1388، شماره ۱، ص 277–295 |
 | PDF | [ensani.ir download](https://ensani.ir/file/download/article/20101204135059-0%20(25).pdf) |
-| Canonical | [`media/docs/persia-press-farsi/kianfar-1388-matbuat-dowlaty-qajar.pdf`](../../../media/docs/persia-press-farsi/kianfar-1388-matbuat-dowlaty-qajar.pdf) |
+| Canonical (local master, not deployed) | `media/docs/persia-press-farsi/kianfar-1388-matbuat-dowlaty-qajar.pdf` |
 
 Secondary synthesis of Qajar **official press**; section on *Rūznāma-ye Vaqāyeʿ-e Ettefāqiye* names gazette staff including **Edward Burgess**.
 

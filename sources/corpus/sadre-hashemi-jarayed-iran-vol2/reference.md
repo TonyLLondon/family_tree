@@ -10,7 +10,7 @@ source_file: media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jar
 | Field | Value |
 |-------|--------|
 | Work | **تاریخ جراید و مجلات ایران** (4 vols., Isfahan, 1308–1332 SH reprints) |
-| This file | Vol. **2** — [`sadre-hashemi-jarayed-iran-vol2.pdf`](../../../media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jarayed-iran-vol2.pdf) |
+| This file | Vol. **2** — `media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jarayed-iran-vol2.pdf` (local master, not deployed) |
 | IA | [`poursafayee_gmail_2_201905`](https://archive.org/details/poursafayee_gmail_2_201905) |
 
 ## Processing
