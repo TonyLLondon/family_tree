@@ -1,0 +1,15 @@
+id: kianfar-1388-matbuat-dowlaty-qajar
+title: مطبوعات دولتی ایران در عصر قاجار (Kianfar, Payām-e Baharestān 1388)
+remote:
+  primary_pdf_url: https://ensani.ir/file/download/article/20101204135059-0%20(25).pdf
+fetches:
+- kind: pdf
+  at: '2026-10-08T18:30:19Z'
+  sha256: 375572676127d8c7acdc9f72778f818aa8a57f0d2d7d0d0f7179ea561568d6eb
+  bytes: 1699764
+  media_reference: media/docs/persia-press-farsi/kianfar-1388-matbuat-dowlaty-qajar.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
+  translation_en: translation.en.md
+  media_reference: media/docs/persia-press-farsi/kianfar-1388-matbuat-dowlaty-qajar.pdf

@@ -1,0 +1,16 @@
+id: etemad-saltanah-chronicles-burgess-khilat
+title: Etemad al-Saltanah chronicles — Burgess khilʿat passages (Ahlulbayt Library search excerpts)
+remote:
+  webpage_url: https://ablibrary.net/search?query=%22%D8%A8%D8%B1%D8%AC%DB%8C%D8%B3+%D8%B5%D8%A7%D8%AD%D8%A8%22
+fetches:
+- kind: web
+  at: '2026-10-09T12:00:00Z'
+  remote_url: https://ablibrary.net/search?query=%22%D8%A8%D8%B1%D8%AC%DB%8C%D8%B3+%D8%B5%D8%A7%D8%AD%D8%A8%22
+  note: SPA shell; Burgess passages captured from indexed full-text snippets (not whole volumes downloaded).
+files:
+  html_mirror: mirror.html
+  reference: reference.md
+  translation_en: translation.en.md
+  transcription_montazam_p1756: transcription-montazam-naseri-vol3-p1756.fa.md
+  transcription_morat_p1179: transcription-morat-al-bildan-vol2-p1179.fa.md
+  transcription_majma_p1511: transcription-majma-fusaha-vol6-p1511.fa.md

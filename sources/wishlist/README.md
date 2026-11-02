@@ -10,6 +10,7 @@ Sources **not yet** in corpus (or only partly used): URLs to open, books to buy,
 
 | White / India lines — AMD service record, Madras HC tenure, Cecilia Street, Irish Grants Committee | [white-india.md](white-india.md) |
 | Burgess / TNA & BL — Tabriz consulate registers, FO 60/248/449 correspondence, Cormick will, cholera reports | [burgess-tna-persia.md](burgess-tna-persia.md) |
+| NLIR 1373 *Vaqāyeʿ-e Ettefāqiye* — complete 4-vol PDF vs 9-bundle gap (`vagaye-4`), Asmane Ketab / NLAI | [tehran-gazette-nlir1373.md](tehran-gazette-nlir1373.md) |
 | Roche / Knight — prove Catherine Mary Roche’s parents (primary records) | [roche-knight.md](roche-knight.md) |
 | Boara / Carobbi — Sv. Šime parish registers (DAZD), Kotor marriage, Senj origins, assessore docs, Portale Antenati | [boara-carobbi-zara.md](boara-carobbi-zara.md) |
 | Addobbati — 1745 / 1786 Latin parchments (DAZd), Ms. 910 (ZKZd), ARHiNET | [addobbati-dazd-zkzd.md](addobbati-dazd-zkzd.md) |

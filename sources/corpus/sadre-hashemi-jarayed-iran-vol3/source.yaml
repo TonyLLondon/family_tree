@@ -1,0 +1,15 @@
+id: sadre-hashemi-jarayed-iran-vol3
+title: تاریخ جراید و مجلات ایران جلد ۳ (محمد صدرهاشمی)
+kind: pdf
+remote: {}
+processing_note: IA poursafayee_gmail_3_201905 (vol 3); image scan.
+files:
+  media_reference: media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jarayed-iran-vol3.pdf
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
+fetches:
+- kind: pdf
+  at: '2026-10-08T18:34:12Z'
+  sha256: 41f86310e816f539e1db701536fc65ca2fc42555c44d82f295c7c03e6929149d
+  bytes: 7457220
+  media_reference: media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jarayed-iran-vol3.pdf

@@ -217,6 +217,10 @@ triage --slug X --tier c --focus "term" --plan-only
 - **Tier A.5 (`ocrmypdf`)** — image-only Latin print currently routes to Tier B until A.5 is added.
 - **Single image inbox (no PDF)** — drop into `inbox/` and process by hand; not yet a runner path.
 - **`triage --sweep`** — batch walk of `media/**/*.pdf`. Not yet — use the per-slug invocation.
+
+## Resumable background batches
+
+For long mechanical passes (full-volume `--pages` render, `--ocr-index` in chunks), use **`runner/batch_runner.py`** with a job YAML under **`jobs/`**. State and logs live in **`history/jobs/<job-id>.{state.json,log,pid}`** — resumable (`run` / `start` skips `ok` steps; `--retry-failed` retries failures). **Tehran Gazette:** only **`tehran-gazette-full-ocr-fleet.yaml`** (**3,448** pages) + `fleet-status` / `fleet-start` / `runner/fleet_watch.sh`; per-PDF jobs are listed in that manifest.
 - **Web app `verified: false` banner** — the standard frontmatter is in place, but the web component hasn't been written yet. `verified` is captured in files; it just isn't surfaced visually.
 - **Auto-rewrite of `state.md`** — hand-edited; the runner does not write to it.
 

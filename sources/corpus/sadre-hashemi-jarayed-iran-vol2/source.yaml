@@ -1,0 +1,15 @@
+id: sadre-hashemi-jarayed-iran-vol2
+title: تاریخ جراید و مجلات ایران جلد ۲ (محمد صدرهاشمی)
+kind: pdf
+remote: {}
+processing_note: IA poursafayee_gmail_2_201905 (vol 2); image scan.
+files:
+  media_reference: media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jarayed-iran-vol2.pdf
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
+fetches:
+- kind: pdf
+  at: '2026-10-08T18:34:12Z'
+  sha256: 37cfe25f77785691ae6ad0924210bab38592db0d3f6e04add3581fc517de91f2
+  bytes: 16404370
+  media_reference: media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jarayed-iran-vol2.pdf

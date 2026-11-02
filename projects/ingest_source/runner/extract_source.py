@@ -71,6 +71,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -93,6 +94,9 @@ PROBE_FILENAME = "probe.json"
 PAGES_DIRNAME = "pages-png"
 THUMBNAILS_DIRNAME = "thumbnails"
 OCR_INDEX_DIRNAME = "_ocr_index"
+DEFAULT_OCR_HIGHRES_DPI = 300
+# Fresh surya_ocr subprocess per N pages (avoids MPS state corruption on long runs).
+SURYA_OCR_CHUNK_PAGES = int(os.environ.get("SURYA_OCR_CHUNK_PAGES", "5"))
 SNIPPETS_DIRNAME = "snippets"
 MANIFEST_FILENAME = "manifest.json"
 SNIPPETS_TX_FILENAME = "transcription.snippets.md"
@@ -644,10 +648,363 @@ def _ocr_index_pages_present(index_dir: Path) -> set[int]:
     return out
 
 
+def _line_bbox_from_surya(line: dict[str, Any]) -> tuple[float, float, float, float] | None:
+    bbox = line.get("bbox")
+    if isinstance(bbox, (list, tuple)) and len(bbox) == 4:
+        return float(bbox[0]), float(bbox[1]), float(bbox[2]), float(bbox[3])
+    poly = line.get("polygon")
+    if isinstance(poly, list) and poly:
+        try:
+            xs = [float(p[0]) for p in poly]
+            ys = [float(p[1]) for p in poly]
+            return min(xs), min(ys), max(xs), max(ys)
+        except (TypeError, ValueError, IndexError):
+            return None
+    return None
+
+
+def _sort_surya_text_lines(lines: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Reading order: top-to-bottom, then right-to-left within a horizontal band (RTL)."""
+    keyed: list[tuple[int, float, dict[str, Any]]] = []
+    for ln in lines:
+        if not isinstance(ln, dict):
+            continue
+        bb = _line_bbox_from_surya(ln)
+        if bb:
+            y_mid = (bb[1] + bb[3]) / 2.0
+            keyed.append((int(y_mid // 24), -bb[0], ln))
+        else:
+            keyed.append((10**9, 0, ln))
+    keyed.sort(key=lambda t: (t[0], t[1]))
+    return [t[2] for t in keyed]
+
+
+def _clean_ocr_line(text: str) -> str:
+    text = re.sub(r"</?br\s*/?>", " ", text, flags=re.IGNORECASE)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _is_ocr_hallucination_line(text: str) -> bool:
+    if not text.strip():
+        return True
+    upper = sum(1 for c in text if "A" <= c <= "Z")
+    lower = sum(1 for c in text if "a" <= c <= "z")
+    latin = upper + lower
+    if len(text) >= 24 and latin / len(text) > 0.55:
+        return True
+    if "PARTY OF THE PARTY" in text.upper():
+        return True
+    if text.count("المناطبات") > 2 or text.count("الموالي") > 2:
+        return True
+    if text.count("المحادة") > 2 or text.count("الاسترقاد") > 2:
+        return True
+    if re.search(r"(.)\1{8,}", text):
+        return True
+    return False
+
+
+def _surya_entry_to_plaintext(entry: dict[str, Any]) -> str:
+    lines = entry.get("text_lines") or []
+    if not isinstance(lines, list):
+        return ""
+    ordered = _sort_surya_text_lines([ln for ln in lines if isinstance(ln, dict)])
+    parts: list[str] = []
+    for ln in ordered:
+        raw = ln.get("text")
+        if not isinstance(raw, str):
+            continue
+        cleaned = _clean_ocr_line(raw)
+        if _is_ocr_hallucination_line(cleaned):
+            continue
+        parts.append(cleaned)
+    return "\n".join(parts)
+
+
+def _write_ocr_batch_pdf(
+    pdf_path: Path,
+    bundle: Path,
+    page_numbers: list[int],
+    dpi: int,
+    out_pdf: Path,
+    *,
+    prefer_pages_png: bool,
+) -> None:
+    """Build a short PDF of rasterised pages at `dpi` (avoids low-res embedded images)."""
+    import fitz
+
+    src = fitz.open(pdf_path)
+    out = fitz.open()
+    pages_dir = bundle / PAGES_DIRNAME
+    try:
+        for n in page_numbers:
+            if n < 1 or n > src.page_count:
+                continue
+            src_page = src[n - 1]
+            rect = src_page.rect
+            out_page = out.new_page(width=rect.width, height=rect.height)
+            png = pages_dir / f"p{n:03d}.png"
+            if prefer_pages_png and png.is_file():
+                out_page.insert_image(rect, filename=str(png))
+            else:
+                pix = src_page.get_pixmap(dpi=dpi)
+                out_page.insert_image(rect, pixmap=pix)
+        out.save(str(out_pdf))
+    finally:
+        src.close()
+        out.close()
+
+
+def _resolve_surya_bin() -> str:
+    """Pick surya_ocr: explicit env, then repo-adjacent install with --disable_math, then PATH."""
+    import shutil
+
+    override = os.environ.get("SURYA_OCR_BIN", "").strip()
+    if override:
+        p = Path(override)
+        if p.is_file():
+            return str(p)
+        raise SystemExit(f"SURYA_OCR_BIN not found: {override}")
+
+    candidates = [
+        Path("/Library/Frameworks/Python.framework/Versions/3.11/bin/surya_ocr"),
+        REPO_ROOT / ".venv" / "bin" / "surya_ocr",
+    ]
+    for c in candidates:
+        if c.is_file():
+            return str(c)
+    found = shutil.which("surya_ocr")
+    if found:
+        return found
+    raise SystemExit(
+        "surya_ocr not found. Install with `.venv/bin/pip install surya-ocr` "
+        "or set SURYA_OCR_BIN."
+    )
+
+
+def _surya_supports_disable_math(surya_bin: str) -> bool:
+    import subprocess
+
+    proc = subprocess.run([surya_bin, "--help"], capture_output=True, text=True)
+    return "--disable_math" in (proc.stdout + proc.stderr)
+
+
+def _surya_subprocess_env(highres_dpi: int, *, force_cpu: bool = False) -> dict[str, str]:
+    env = os.environ.copy()
+    env["IMAGE_DPI_HIGHRES"] = str(highres_dpi)
+    env["IMAGE_DPI"] = str(max(96, highres_dpi // 2))
+    # Reduce MPS allocator pressure on Apple Silicon (long lithograph batches).
+    env.setdefault("PYTORCH_MPS_HIGH_WATERMARK_RATIO", "0.0")
+    if force_cpu:
+        env["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
+        env["SURYA_DEVICE"] = "cpu"
+    return env
+
+
+def _run_surya_ocr_chunk(
+    surya_bin: str,
+    *,
+    pdf_path: Path,
+    bundle: Path,
+    page_numbers: list[int],
+    highres_dpi: int,
+    disable_math: bool,
+    prefer_pages_png: bool,
+    tmp_path: Path,
+    force_cpu: bool = False,
+) -> list[dict[str, Any]]:
+    """Run one surya_ocr subprocess for `page_numbers`; return result entries."""
+    import subprocess
+
+    if not page_numbers:
+        return []
+
+    batch_pdf = tmp_path / f"ocr_batch_{page_numbers[0]:04d}.pdf"
+    _write_ocr_batch_pdf(
+        pdf_path,
+        bundle,
+        page_numbers,
+        highres_dpi,
+        batch_pdf,
+        prefer_pages_png=prefer_pages_png,
+    )
+    page_arg = ",".join(str(i) for i in range(len(page_numbers)))
+    out_dir = tmp_path / f"surya_out_{page_numbers[0]:04d}_{len(page_numbers)}"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    cmd = [
+        surya_bin,
+        str(batch_pdf),
+        "--page_range",
+        page_arg,
+        "--output_dir",
+        str(out_dir),
+    ]
+    if disable_math:
+        cmd.append("--disable_math")
+    env = _surya_subprocess_env(highres_dpi, force_cpu=force_cpu)
+    result = subprocess.run(cmd, capture_output=True, text=True, env=env)
+    if result.returncode != 0:
+        err = result.stderr or result.stdout or ""
+        raise RuntimeError(err.strip() or f"surya_ocr exit {result.returncode}")
+
+    result_json = next(out_dir.rglob("results.json"), None)
+    if not result_json:
+        raise RuntimeError(f"surya_ocr produced no results.json under {out_dir}")
+
+    data = json.loads(result_json.read_text(encoding="utf-8"))
+    per_doc = next(iter(data.values())) if isinstance(data, dict) else data
+    if not isinstance(per_doc, list):
+        raise RuntimeError("unexpected surya results.json shape")
+    return [e for e in per_doc if isinstance(e, dict)]
+
+
+def _apply_surya_entries(
+    entries: list[dict[str, Any]],
+    todo: list[int],
+    index_dir: Path,
+) -> list[int]:
+    written: list[int] = []
+    if len(entries) != len(todo):
+        print(
+            f"  note: surya returned {len(entries)} page(s) for {len(todo)} requested; "
+            "mapping results to requested page numbers in order."
+        )
+    for i, entry in enumerate(entries):
+        if i >= len(todo):
+            break
+        n = todo[i]
+        page_number_zero = entry.get("page")
+        if page_number_zero is None:
+            page_number_zero = entry.get("page_number")
+        if page_number_zero is not None:
+            surya_n = int(page_number_zero) + 1
+            if surya_n != n and surya_n - 1 in {p - 1 for p in todo}:
+                n = surya_n
+        text = _surya_entry_to_plaintext(entry)
+        (index_dir / f"p{n:03d}.txt").write_text(text, encoding="utf-8")
+        written.append(n)
+    return written
+
+
+def _ocr_index_pages_one_by_one(
+    surya_bin: str,
+    *,
+    pdf_path: Path,
+    bundle: Path,
+    page_numbers: list[int],
+    highres_dpi: int,
+    disable_math: bool,
+    prefer_pages_png: bool,
+    index_dir: Path,
+    tmp_path: Path,
+    mps_cpu_fallback: bool,
+) -> list[int]:
+    """Re-OCR each page in its own surya call (MPS retry on CPU when enabled)."""
+    written: list[int] = []
+    for n in page_numbers:
+        for force_cpu in ((False, True) if mps_cpu_fallback else (False,)):
+            try:
+                sub = _run_surya_ocr_chunk(
+                    surya_bin,
+                    pdf_path=pdf_path,
+                    bundle=bundle,
+                    page_numbers=[n],
+                    highres_dpi=highres_dpi,
+                    disable_math=disable_math,
+                    prefer_pages_png=prefer_pages_png,
+                    tmp_path=tmp_path,
+                    force_cpu=force_cpu,
+                )
+                written.extend(_apply_surya_entries(sub, [n], index_dir))
+                break
+            except RuntimeError as exc2:
+                if force_cpu or "AcceleratorError" not in str(exc2):
+                    sys.stderr.write(str(exc2) + "\n")
+                    raise SystemExit("surya_ocr failed; see stderr above") from exc2
+                print(f"    page {n}: MPS retry on CPU…")
+    return written
+
+
+def _ocr_index_chunk_with_retry(
+    surya_bin: str,
+    *,
+    pdf_path: Path,
+    bundle: Path,
+    chunk: list[int],
+    highres_dpi: int,
+    disable_math: bool,
+    prefer_pages_png: bool,
+    index_dir: Path,
+    tmp_path: Path,
+) -> list[int]:
+    """OCR a page chunk; on MPS failure retry single-page (CPU if needed)."""
+    label = f"{chunk[0]}-{chunk[-1]}" if len(chunk) > 1 else str(chunk[0])
+    try:
+        entries = _run_surya_ocr_chunk(
+            surya_bin,
+            pdf_path=pdf_path,
+            bundle=bundle,
+            page_numbers=chunk,
+            highres_dpi=highres_dpi,
+            disable_math=disable_math,
+            prefer_pages_png=prefer_pages_png,
+            tmp_path=tmp_path,
+        )
+        written = _apply_surya_entries(entries, chunk, index_dir)
+        missing = [n for n in chunk if n not in written]
+        if missing:
+            print(
+                f"  surya chunk {label}: {len(missing)} page(s) missing from batch output"
+                f" — re-OCR per-page: {missing}"
+            )
+            written.extend(
+                _ocr_index_pages_one_by_one(
+                    surya_bin,
+                    pdf_path=pdf_path,
+                    bundle=bundle,
+                    page_numbers=missing,
+                    highres_dpi=highres_dpi,
+                    disable_math=disable_math,
+                    prefer_pages_png=prefer_pages_png,
+                    index_dir=index_dir,
+                    tmp_path=tmp_path,
+                    mps_cpu_fallback=False,
+                )
+            )
+        return written
+    except RuntimeError as exc:
+        err = str(exc)
+        mps_like = "AcceleratorError" in err or "MPS" in err
+        if not mps_like and len(chunk) == 1:
+            sys.stderr.write(err + "\n")
+            raise SystemExit("surya_ocr failed; see stderr above") from exc
+
+        print(
+            f"  surya chunk {label} failed"
+            + (" (MPS); retrying per-page" if mps_like else "; retrying per-page")
+        )
+        return _ocr_index_pages_one_by_one(
+            surya_bin,
+            pdf_path=pdf_path,
+            bundle=bundle,
+            page_numbers=chunk,
+            highres_dpi=highres_dpi,
+            disable_math=disable_math,
+            prefer_pages_png=prefer_pages_png,
+            index_dir=index_dir,
+            tmp_path=tmp_path,
+            mps_cpu_fallback=mps_like,
+        )
+
+
 def _build_ocr_index(
     pdf_path: Path,
     bundle: Path,
     pages: list[int] | None = None,
+    *,
+    force: bool = False,
+    highres_dpi: int = DEFAULT_OCR_HIGHRES_DPI,
+    disable_math: bool = True,
+    prefer_pages_png: bool = True,
 ) -> tuple[Path, list[int]]:
     """Run Surya OCR over the PDF, cache per-page text into `_ocr_index/pNNN.txt`.
 
@@ -656,8 +1013,6 @@ def _build_ocr_index(
     Returns (index_dir, pages_freshly_indexed).
     """
     import fitz
-    import shutil
-    import subprocess
     import tempfile
 
     index_dir = _ocr_index_dir(bundle)
@@ -670,73 +1025,45 @@ def _build_ocr_index(
     target = pages if pages is not None else list(range(1, page_count + 1))
     target = [n for n in target if 1 <= n <= page_count]
     have = _ocr_index_pages_present(index_dir)
-    todo = [n for n in target if n not in have]
+    todo = [n for n in target if force or n not in have]
     if not todo:
         return index_dir, []
 
-    surya_bin = shutil.which("surya_ocr") or str((REPO_ROOT / ".venv" / "bin" / "surya_ocr"))
-    if not Path(surya_bin).is_file():
-        raise SystemExit(
-            "surya_ocr not found. Install with `.venv/bin/pip install surya-ocr`."
-        )
+    if force:
+        for n in todo:
+            p = index_dir / f"p{n:03d}.txt"
+            if p.is_file():
+                p.unlink()
 
-    # Surya's --page_range is 0-based.
-    page_arg = ",".join(str(n - 1) for n in todo)
+    surya_bin = _resolve_surya_bin()
+    use_disable_math = disable_math and _surya_supports_disable_math(surya_bin)
+    chunk_size = max(1, SURYA_OCR_CHUNK_PAGES)
 
+    print(
+        f"  surya_ocr {len(todo)} page(s) @ {highres_dpi} DPI"
+        f" (chunks of {chunk_size}, bin={Path(surya_bin).name})"
+        + (" (prefer pages-png)" if prefer_pages_png else "")
+        + "…"
+    )
+
+    written: list[int] = []
     with tempfile.TemporaryDirectory() as tmp:
         tmp_path = Path(tmp)
-        cmd = [
-            surya_bin,
-            str(pdf_path),
-            "--page_range",
-            page_arg,
-            "--output_dir",
-            str(tmp_path),
-        ]
-        print(f"  surya_ocr {len(todo)} page(s)…")
-        result = subprocess.run(cmd, capture_output=True, text=True)
-        if result.returncode != 0:
-            sys.stderr.write(result.stderr)
-            raise SystemExit("surya_ocr failed; see stderr above")
-
-        # Surya writes <output_dir>/<pdf_stem>/results.json (and other artefacts).
-        result_json = next(tmp_path.rglob("results.json"), None)
-        if not result_json:
-            raise SystemExit(
-                f"surya_ocr produced no results.json in {tmp_path}; "
-                "check the version and CLI surface."
+        for off in range(0, len(todo), chunk_size):
+            chunk = todo[off : off + chunk_size]
+            written.extend(
+                _ocr_index_chunk_with_retry(
+                    surya_bin,
+                    pdf_path=pdf_path,
+                    bundle=bundle,
+                    chunk=chunk,
+                    highres_dpi=highres_dpi,
+                    disable_math=use_disable_math,
+                    prefer_pages_png=prefer_pages_png,
+                    index_dir=index_dir,
+                    tmp_path=tmp_path,
+                )
             )
-        try:
-            data = json.loads(result_json.read_text(encoding="utf-8"))
-        except Exception as exc:
-            raise SystemExit(f"could not parse surya results.json: {exc}") from exc
-
-        # Surya v0.17 result shape: {"<doc_stem>": [ {page_number, text_lines:[{text,...}], ...}, ... ] }
-        per_doc = next(iter(data.values())) if isinstance(data, dict) else data
-        if not isinstance(per_doc, list):
-            raise SystemExit("unexpected surya results.json shape")
-
-        written: list[int] = []
-        for entry in per_doc:
-            if not isinstance(entry, dict):
-                continue
-            page_number_zero = entry.get("page")
-            if page_number_zero is None:
-                page_number_zero = entry.get("page_number")
-            if page_number_zero is None:
-                continue
-            n = int(page_number_zero) + 1  # surya is 0-based
-            lines = entry.get("text_lines") or []
-            text_parts: list[str] = []
-            for ln in lines:
-                if isinstance(ln, dict):
-                    t = ln.get("text")
-                    if isinstance(t, str):
-                        text_parts.append(t)
-            (index_dir / f"p{n:03d}.txt").write_text(
-                "\n".join(text_parts), encoding="utf-8"
-            )
-            written.append(n)
 
     return index_dir, sorted(written)
 
@@ -1300,7 +1627,15 @@ def _do_tier_c(
             if args.ocr_index_pages
             else None
         )
-        index_dir, fresh = _build_ocr_index(pdf, bundle, pages=page_subset)
+        index_dir, fresh = _build_ocr_index(
+            pdf,
+            bundle,
+            pages=page_subset,
+            force=bool(args.ocr_index_force),
+            highres_dpi=int(args.ocr_highres_dpi),
+            disable_math=not bool(args.ocr_enable_math),
+            prefer_pages_png=not bool(args.ocr_no_prefer_pages_png),
+        )
         print(
             f"  ocr-index: {len(fresh)} new page(s) cached → "
             f"{index_dir.relative_to(REPO_ROOT)}/ (gitignored)"
@@ -1312,7 +1647,11 @@ def _do_tier_c(
                 "stage": "ocr-index",
                 "tier": "c",
                 "variant": "C+",
-                "engine": "surya_ocr (page-finder index; never published)",
+                "engine": (
+                    f"surya_ocr raster@{args.ocr_highres_dpi}dpi"
+                    + (" disable_math" if not args.ocr_enable_math else "")
+                    + " bbox-sort (page-finder; never published)"
+                ),
                 "pages": len(fresh),
                 "files_written": [
                     f"{OCR_INDEX_DIRNAME}/p{n:03d}.txt" for n in fresh
@@ -1771,6 +2110,27 @@ def main() -> int:
         "--ocr-index-pages",
         default="",
         help="Tier C+ --ocr-index: limit to these pages (default: all). Format like --pages.",
+    )
+    pt.add_argument(
+        "--ocr-index-force",
+        action="store_true",
+        help="Tier C+ --ocr-index: re-OCR pages even if _ocr_index/pNNN.txt exists.",
+    )
+    pt.add_argument(
+        "--ocr-highres-dpi",
+        type=int,
+        default=DEFAULT_OCR_HIGHRES_DPI,
+        help=f"Raster DPI for Surya OCR (default {DEFAULT_OCR_HIGHRES_DPI}).",
+    )
+    pt.add_argument(
+        "--ocr-enable-math",
+        action="store_true",
+        help="Allow Surya math mode (default off for Persian newsprint).",
+    )
+    pt.add_argument(
+        "--ocr-no-prefer-pages-png",
+        action="store_true",
+        help="Always rasterise from PDF; do not use existing pages-png/ frames.",
     )
 
     pt.add_argument(

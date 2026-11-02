@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Named in the Gazette",
+    "subtitle": "Issue 156 names برجیس صاحب for a khilʿat; issue ~219 grants sick leave to England — the journey that never finished",
+    "era": "1853 – 1855"
+  },
+  "scrollyStepCount": 9,
+  "steps": [
+    {
+      "era": "1849 – 1854",
+      "media": {
+        "src": "media/context/qajar-persia/benjamin-1887-audience-chamber-naser-al-din-shah.png",
+        "alt": "Engraving of the royal audience chamber in Tehran — the world of ministers and court news Edward Burgess served",
+        "caption": "Audience chamber, Tehran — Benjamin, 1887 (period context)"
+      }
+    },
+    {
+      "era": "Aug 1853",
+      "media": {
+        "src": "sources/corpus/tehran-gazette-nlir1373-vol02/pages-png/p006-masthead.png",
+        "alt": "Lithographed masthead of Vaqāye-e Ettefāqiye issue 131, 28 Shawwāl 1269 AH",
+        "caption": "Issue 131, 4 August 1853 — ناخوشی and flight from the city on the same opening page"
+      }
+    },
+    {
+      "era": "Oct – Dec 1853",
+      "media": {
+        "src": "media/docs/1853-london-evening-standard-persia-burgess-gazette.png",
+        "alt": "Newspaper scan: London Evening Standard, 17 December 1853, Persia column naming Mr Burgess and his fever",
+        "caption": "London Evening Standard, 17 December 1853 — Tehran dispatch of 30 October"
+      }
+    },
+    {
+      "era": "Jan 1854",
+      "media": {
+        "src": "sources/corpus/tehran-gazette-nlir1373-vol02/pages-png/p186.png",
+        "alt": "Lithograph page naming برجیس صاحب and the royal khilʿat of Kashmiri shawl",
+        "caption": "NLIR vol. 2, PDF p. 186 — issue 156 court notice (transcription in corpus)"
+      }
+    },
+    {
+      "era": "Khilʿat",
+      "media": {
+        "src": "media/context/qajar-persia/kashmiri-shawl-moon-boteh-reference.jpg",
+        "alt": "Mid-nineteenth-century Kashmiri shawl with central medallion and large boteh motifs — the kind of luxury textile given as court khilʿat",
+        "caption": "Moon shawl with boteh motifs — typical luxury grade for court khilʿat (reference photo)"
+      }
+    },
+    {
+      "era": "Jan 1854",
+      "media": {
+        "src": "sources/corpus/tehran-gazette-nlir1373-vol02/pages-png/p185-masthead.png",
+        "alt": "Masthead of issue 156: Thursday 28 Rabīʿ al-Thānī 1270 AH",
+        "caption": "Issue 156 masthead — dated late January 1854 (25 issues after no. 131)"
+      }
+    },
+    {
+      "era": "Feb 1855",
+      "media": {
+        "src": "media/images/portraits/henry-burgess.jpg",
+        "alt": "Portrait of Henry Burgess — Edward’s father, to whom he wrote that leave was not secure until published in the Gazette",
+        "caption": "Henry Burgess — Edward’s 26 February 1855 letter awaited formal notice in the state paper"
+      }
+    },
+    {
+      "era": "Mar 1855",
+      "media": {
+        "src": "sources/corpus/tehran-gazette-nlir1373-vol02/pages-png/p581.png",
+        "alt": "Lithograph court bulletins naming Burgess Ṣāḥeb and granting sick leave to England and London",
+        "caption": "NLIR vol. 2, PDF p. 581 — ~issue 219: اذن مریض, dispatch to England (corpus translation)"
+      }
+    },
+    {
+      "era": "Jun 1855",
+      "media": {
+        "src": "media/context/tabriz-qajar/tabriz-flandin-panorama.jpg",
+        "alt": "Eugène Flandin lithograph panorama of Tabriz — the city where Edward Burgess died on the road from Tehran",
+        "caption": "Tabriz, 1840s (Flandin) — Edward reached his old home city but not England"
+      }
+    }
+  ]
+}

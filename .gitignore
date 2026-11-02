@@ -25,3 +25,25 @@ sources/corpus/*/thumbnails/
 
 # Full-res OCR source book (>100MB, exceeds GitHub limit); only cited excerpts are committed.
 media/docs/mustowfi/dli-508037-sharh-zendegani-vol1-text.pdf
+
+# --- Local-only masters (keep on disk; site uses corpus markdown + selective pages-png) ---
+
+# NLIR / press-history PDFs (see sources/corpus/*/source.yaml files.media_reference).
+media/docs/internet-archive/tehran-gazette/*.pdf
+media/docs/internet-archive/sadre-hashemi-jarayed/
+media/docs/persia-press-farsi/
+
+# Legacy 200-page extract facsimiles (~85 MiB). Commit bundle prose/OCR; ship PNGs in a later push.
+sources/corpus/tehran-gazette-vol01-issues-001-130/pages-png/
+# reference.md links those PNGs — commit it together with pages-png/.
+sources/corpus/tehran-gazette-vol01-issues-001-130/reference.md
+
+# Ingest fleet job specs + state (regenerable).
+projects/ingest_source/jobs/
+projects/ingest_source/history/jobs/
+
+# Ad-hoc OCR benchmarks (research only).
+research/tehran-gazette-p025-ocr-bench/
+
+.DS_Store
+**/.DS_Store

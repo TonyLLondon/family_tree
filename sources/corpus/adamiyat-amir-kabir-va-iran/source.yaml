@@ -1,0 +1,15 @@
+id: adamiyat-amir-kabir-va-iran
+title: امیر کبیر و ایران (Fereydoun Adamiyat)
+kind: pdf
+remote: {}
+processing_note: Image scan ~796 pp; Picofile download 2026-10-08.
+files:
+  media_reference: media/docs/persia-press-farsi/adamiyat-amir-kabir-va-iran.pdf
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
+fetches:
+- kind: pdf
+  at: '2026-10-08T18:34:12Z'
+  sha256: 04883d85619cb4ac0a02b89bb3c631ce23d8427632e05e60d4081a5e2866332a
+  bytes: 26365848
+  media_reference: media/docs/persia-press-farsi/adamiyat-amir-kabir-va-iran.pdf

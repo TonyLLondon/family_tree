@@ -1,0 +1,15 @@
+id: sadre-hashemi-jarayed-iran-vol4
+title: تاریخ جراید و مجلات ایران جلد ۴ (محمد صدرهاشمی)
+kind: pdf
+remote: {}
+processing_note: IA poursafayee_gmail_4_201905 (vol 4); image scan.
+files:
+  media_reference: media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jarayed-iran-vol4.pdf
+  pdf_markdown: extracted.pdf.md
+  reference: reference.md
+fetches:
+- kind: pdf
+  at: '2026-10-08T18:34:12Z'
+  sha256: 7900e05562e7491eccd6c21759a93d3ad30224648e02a4b518cee191d8883222
+  bytes: 11982983
+  media_reference: media/docs/internet-archive/sadre-hashemi-jarayed/sadre-hashemi-jarayed-iran-vol4.pdf

@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "kind": "tier-c-snippets",
+  "variant": "C+",
+  "generated_at": "2026-10-08T15:09:54Z",
+  "slug": "tehran-gazette-vol01-issues-001-130",
+  "source_pdf": "media/docs/internet-archive/tehran-gazette/tehran-gazette-nlir1373-vol01-issues-001-130.pdf",
+  "page_count": 200,
+  "dpi": 200,
+  "focus": {
+    "terms": [
+      "برجیس",
+      "برجيس",
+      "Burgess",
+      "Edward"
+    ],
+    "match": "substring",
+    "context": 1
+  },
+  "hits": [
+    {
+      "id": "h001",
+      "anchor_page": 14,
+      "rendered_pages": [
+        13,
+        14,
+        15
+      ],
+      "terms": [
+        "برجیس",
+        "برجيس"
+      ],
+      "source": "ocr_index",
+      "preview": "…روزنامه. ٣ ـ ميرزا عبدالله، نويسنده فارسى روزنامه. شرح حال میرزا جبار و هم چنین برجیس صاحب در مقاله گرانبهای تاریخ دورنامه نگاری در ایوان (ظاهرا به قلم تقی زاده) و د…",
+      "evidence_file": "snippets/p014.evidence.txt",
+      "image_files": [
+        "pages-png/p013.png",
+        "pages-png/p014.png",
+        "pages-png/p015.png"
+      ]
+    }
+  ],
+  "rendered_pages": [
+    13,
+    14,
+    15
+  ],
+  "agent_instructions": {
+    "task": "For each hit, look at the PNGs listed in `image_files` and write the transcribed text into `transcription.snippets.md` under a section heading per hit. Use the rendered PNGs as the source of truth — the `preview` and `evidence_file` are search aids only (text layers misread old typefaces; OCR misreads even more).",
+    "expected_outputs": [
+      "transcription.snippets.md  (per-hit transcribed text)",
+      "translation.en.md  (English translation if any non-English content)",
+      "reference.md  (English commentary, IDs, dates, links to people/*.md)"
+    ],
+    "snippet_format": "## Hit hNNN — p.<anchor> — match: <terms>\n\n<transcribed text exactly as on page>\n\n[image: ../../sources/corpus/<slug>/pages-png/p<anchor>.png]",
+    "frontmatter_template": {
+      "language": "<iso-639-1>",
+      "source_file": "media/docs/internet-archive/tehran-gazette/tehran-gazette-nlir1373-vol01-issues-001-130.pdf",
+      "source_pages": "list of anchor pages",
+      "transcriber": "agent",
+      "agent_model": "<model name>",
+      "agent_date": "<utc timestamp>",
+      "agent_locked": false,
+      "verified": false
+    },
+    "do_not_overwrite": "Files whose frontmatter has `transcriber: human` OR `agent_locked: true` must be left untouched.",
+    "log_when_done": "Append a `stage: vision` entry to source.yaml under `extractions:`, naming the files written and the agent_model."
+  }
+}

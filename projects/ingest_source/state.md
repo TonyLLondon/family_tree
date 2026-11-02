@@ -2,7 +2,7 @@
 
 Live snapshot. Rewritten by the runner after each pass; safe to hand-edit between runs.
 
-**Last updated:** 2026-04-19T07:35Z (initial seed)
+**Last updated:** 2026-10-09T16:58Z
 
 ## Inbox queue (`inbox/`)
 
@@ -32,9 +32,44 @@ _(currently: 0 — the `verified:` frontmatter convention is new; nothing predat
 |------------|------|------|-------|
 | 2026-04-19T07:30Z | `bottin-contract` | B render | First end-to-end test of `extract_source.py` (then `extract_pdf.py`). Pages PNG + manifest. Existing French/English transcription-translation.en.md untouched. |
 
+## Background mechanical jobs
+
+### Tehran Gazette — Marker full PDF (primary, ~36 h)
+
+| Asset | Role |
+|-------|------|
+| `jobs/tehran-gazette-marker-full-fleet.yaml` | **9 PDFs, 3448 pages** → `extracted.pdf.md` per slug |
+| `scripts/generate_tehran_gazette_marker_fleet.py` | Regenerate job YAMLs + `on_complete_fleet` chain |
+
+```bash
+.venv/bin/python3 projects/ingest_source/runner/batch_runner.py fleet-status \
+  --fleet projects/ingest_source/jobs/tehran-gazette-marker-full-fleet.yaml
+.venv/bin/python3 projects/ingest_source/runner/batch_runner.py fleet-start \
+  --fleet projects/ingest_source/jobs/tehran-gazette-marker-full-fleet.yaml --parallel 1
+```
+
+Vol. 1 lithograph bands (`transcription.marker-lithograph/`, ~92% before handoff): `scripts/grep_tehran_gazette_marker.py`. Strategy: `research/tehran-gazette-lithograph-ocr.md`.
+
+### Tehran Gazette — NLIR 1373 Marker fleet (**paused** 2026-10-09)
+
+`jobs/tehran-gazette-nlir1373-marker-fleet.yaml` — **PAUSED** at **2891/3243** pages (**89.1%**). Vols **1–3** complete; **vol. 4** **350/702** (stopped mid-band **p351–p375**). No workers running.
+
+```bash
+.venv/bin/python3 projects/ingest_source/runner/batch_runner.py fleet-status \
+  --fleet projects/ingest_source/jobs/tehran-gazette-nlir1373-marker-fleet.yaml
+.venv/bin/python3 projects/ingest_source/runner/batch_runner.py fleet-start \
+  --fleet projects/ingest_source/jobs/tehran-gazette-nlir1373-marker-fleet.yaml --parallel 1
+```
+
+Log: `history/jobs/tehran-gazette-nlir1373-vol04-marker.log` (interrupted step will **RESET** on next start).
+
+### Tehran Gazette — Surya `_ocr_index` (paused)
+
+`jobs/tehran-gazette-full-ocr-fleet.yaml` — **PAUSED** (~40/3448). Page-finder only; resume only if you need coarse grep across IA bundles without Marker.
+
 ## Stuck / failed
 
-_(none)_
+_(check `history/jobs/*.state.json` for `failed` steps)_
 
 ## Known refinement work (manual queue)
 

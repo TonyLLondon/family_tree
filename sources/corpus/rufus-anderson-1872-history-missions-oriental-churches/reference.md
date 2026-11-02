@@ -46,6 +46,8 @@ long suffered from the Moslem nobles residing in the district.
 
 **Genealogical / political reading:** independent confirmation that **Dawood/Daoud Khan of Tabriz** was understood as **Armenian from Georgia** and an **army officer**, given a **Qajar civil title over Nestorians** after joint **British and Russian** diplomatic pressure, with stated purpose **protection of Christians** against **local Muslim notables** (not against the American mission).
 
+**Primary quoted speech (same appointment, summer 1845):** [Justin Perkins, *Missionary Herald* Dec 1845 — David Khan: *"I am their shepherd"*](../../missionary-herald-1845-12-perkins-journal-david-khan.md) · [corpus `reference.md`](../missionary-herald-1845-12-perkins-journal-david-khan/reference.md).
+
 ---
 
 ## Transcription: Christian Governor and civil protector (later 1840s)

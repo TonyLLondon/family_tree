@@ -190,6 +190,8 @@ Treat **reader-facing genealogy** as distinct from **working vault** material.
 | **Prose & engagement** | `people/*.md`, `topics/*.md`, `stories/*.md` | Continuous prose: clear biographical or topical writing that a non-genealogist can read. Lead with people, places, and story; explain context in plain language. |
 | **Working vault** | `research/`, `manual/`, `index.md`, `sources/*.md` cards, `sources/corpus/*` extracts | Operational detail is fine: tables, filing codes, wishlists, GEDCOM/file-level provenance, sync notes, “next steps.” |
 
+**Banned in reader-facing prose (`people/`, `topics/`, `stories/`):** corrective “It is **X**, not **Y**” / “This is **A**, not **B**” sentences (and close variants). State what the evidence shows; avoid preachy negation and AI-style contrast framing.
+
 When **people/topics/stories** need machine or export identifiers (`treeId`, FamilySearch IDs), keep them in YAML frontmatter and/or a compact **Evidence** / **Sources & identifiers** section so the main body reads like an article, not a database dump.
 
 **No direct FamilySearch or other platform links in people/topics/stories pages.** All FamilySearch record data must first be transcribed into `sources/corpus/<slug>/reference.md` (with record IDs, dates, names, image ARKs). People pages then cite the **corpus reference** or **source card** — never a raw `familysearch.org` URL. This keeps the vault self-contained: if FamilySearch changes URLs or access, the evidence is already captured locally.
@@ -202,6 +204,29 @@ When **people/topics/stories** need machine or export identifiers (`treeId`, Fam
 | **Collaborative tree** (FS Tree person, Geni profile, Geneanet tree, Ancestry tree) | Create a corpus entry per researcher/tree covering the family cluster (e.g. `geneanet-meazza-addobbati/`). List the person IDs, contributing researcher, platform, and what data the tree provides. People pages cite this corpus entry. |
 
 Tree person IDs (e.g. `GW1S-CGK`, Geni numeric IDs) are kept in the corpus `reference.md` as identifiers — they are breadcrumbs for future researchers, not evidence of anything. The people page Evidence section cites the **corpus entry** (e.g. "Meazza Geneanet tree") and names the contributing researcher where known.
+
+## Browser (when curl / IA metadata is not enough)
+
+Use the **MCPBundles Local Browser** for gated downloads (Picofile, shop “free PDF” pages, FamilySearch token copy), not Playwright headless or macOS `open`.
+
+| Rule | Detail |
+|------|--------|
+| **CLI** | `mcpbundles call <tool> --as mcpbundles_prod --server browser` |
+| **Session** | One browser MCP call per shell command (no `&&` chains). |
+| **Open a page** | `browser-resize-d4c` → `browser-navigate-d4c` → `browser-snapshot-d4c` before click/type. |
+| **Click / type** | Use `ref` + `element` from the latest snapshot (`browser-click-d4c`, `browser-type-d4c`). |
+| **Gated hosts (Picofile)** | Snapshot may omit the link; `browser-evaluate-d4c` for `document.querySelectorAll('a')` or click **دریافت لینک دانلود**, then read `#downloadLinkInput` — curl the direct URL into `manual/`. |
+| **After download** | Move binaries from Chrome Downloads to `manual/`, then file into `media/` or `sources/corpus/` per [manual/README.md](manual/README.md). |
+| **Discover tools** | `mcpbundles tools --as mcpbundles_prod --server browser` (slugs include hash suffix, e.g. `-d4c`). |
+
+Typical resize + navigate:
+
+```bash
+mcpbundles call browser-resize-d4c --as mcpbundles_prod --server browser -- width:=1440 height:=900
+mcpbundles call browser-navigate-d4c --as mcpbundles_prod --server browser -- url=https://example.com/
+```
+
+**Tehran Gazette / NLIR 1373:** IA often lacks our PDF filenames — see [research/tehran-gazette-ia-acquisition.md](research/tehran-gazette-ia-acquisition.md) and [sources/wishlist/tehran-gazette-nlir1373.md](sources/wishlist/tehran-gazette-nlir1373.md). Browser target: [Asmane Ketab 4-vol listing](https://asmaneketab.ir/product/%d8%b1%d9%88%d8%b2%d9%86%d8%a7%d9%85%d9%87-%d9%88%d9%82%d8%a7%db%8c%d8%b9-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%db%8c%d9%87/) → Picofile `vaqetefie.rar`.
 
 ## Conventions
 

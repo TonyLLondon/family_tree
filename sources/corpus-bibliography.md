@@ -283,6 +283,7 @@ Every ingested bundle under [`sources/corpus/`](corpus/) is listed here so each 
 - [Implications of American missionary presence in 19th and 20th cen](corpus/implications-of-american-missionary-presence-in-360b52c2c7/) — `implications-of-american-missionary-presence-in-360b52c2c7`
 - [Jeffrey Eden - Slavery and Empire in Central Asia - Harvard dissertation 2016](corpus/jeffrey-eden-slavery-and-empire-in-central-asia-c3f6a370db/) — `jeffrey-eden-slavery-and-empire-in-central-asia-c3f6a370db`
 - [Lessona - I Babi - Conferenze Torinesi 1881 Ermanno Loescher Torino](corpus/lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7/) — `lessona-i-babi-conferenze-torinesi-1881-ermanno-e3ca7a7ea7`
+- [Missionary Herald (Dec 1845) — Journal of Mr. Perkins; David Khan shepherd quote](corpus/missionary-herald-1845-12-perkins-journal-david-khan/) — `missionary-herald-1845-12-perkins-journal-david-khan`
 - [Narrative of a mission to Bokhara](corpus/narrative-mission-bokhara/) — `narrative-mission-bokhara`
 - [Rufus Anderson, History of the missions of the American Board of Commissioners for Foreign Missions to the oriental churches — Volume I (1872)](corpus/rufus-anderson-1872-history-missions-oriental-churches/) — `rufus-anderson-1872-history-missions-oriental-churches`
 - [SOLAS Bahai Studies English-speaking Europe Irish ed vol 4 Autumn Winter 2004](corpus/solas-bahai-studies-english-speaking-europe-iris-390913e50c/) — `solas-bahai-studies-english-speaking-europe-iris-390913e50c`

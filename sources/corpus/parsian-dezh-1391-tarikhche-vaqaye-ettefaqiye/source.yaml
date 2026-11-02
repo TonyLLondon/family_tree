@@ -1,0 +1,12 @@
+id: parsian-dezh-1391-tarikhche-vaqaye-ettefaqiye
+title: تاریخچه و معرفی روزنامه ی وقایع اتفاقیه (Shamshad Amiri Khorasani, Parsian Dezh 1391)
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-10-08T18:34:35Z'
+  sha256: 876a18dba1068e3b9b9b0a5b500036d17a0daacbb922d218fc4240ff2c26dddd
+  bytes: 301030
+  media_reference: media/docs/persia-press-farsi/thesis-tarikhche-maarefi-vaqaye-ettefaqiye.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/persia-press-farsi/thesis-tarikhche-maarefi-vaqaye-ettefaqiye.pdf

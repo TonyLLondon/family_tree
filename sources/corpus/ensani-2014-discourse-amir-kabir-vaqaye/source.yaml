@@ -1,0 +1,12 @@
+id: ensani-2014-discourse-amir-kabir-vaqaye
+title: تحلیل گفتمانی اصلاحات امیرکبیر در متون منتخب روزنامه وقایع اتفاقیه
+remote: {}
+fetches:
+- kind: pdf
+  at: '2026-10-08T18:32:02Z'
+  sha256: 35d617d3b9149a207280f86c99d621925ec19a5a5093bda807598cfd78f14600
+  bytes: 871588
+  media_reference: media/docs/persia-press-farsi/ensani-2014-discourse-amir-kabir-vaqaye.pdf
+files:
+  pdf_markdown: extracted.pdf.md
+  media_reference: media/docs/persia-press-farsi/ensani-2014-discourse-amir-kabir-vaqaye.pdf
